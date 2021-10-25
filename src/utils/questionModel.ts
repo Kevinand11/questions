@@ -40,6 +40,6 @@ export type Media = File | {
 export const examTypes = ['utme', 'wassce']
 export const subjects = ['accounts', 'biology', 'chemistry', 'civic', 'commerce', 'crk', 'economics', 'english', 'government', 'literature', 'mathematics', 'physics']
 const startYear = 1988
-const endYear = 2025
+const endYear = 2023
 export const years = new Array(1 + endYear - startYear).fill(0).map((_, idx) => startYear + idx)
 export const answers = ['a', 'b', 'c', 'd', 'e']
