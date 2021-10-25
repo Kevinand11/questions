@@ -529,6 +529,11 @@
   resolved "https://registry.yarnpkg.com/@soda/get-current-script/-/get-current-script-1.0.2.tgz#a53515db25d8038374381b73af20bb4f2e508d87"
   integrity sha512-T7VNNlYVM1SgQ+VsMYhnDkcGmWhQdL0bDyGm5TlQ3GBXnJscEClUUOKduWTmm2zCnvNLC1hc3JpuXjs/nFOc5w==
 
+"@stranerd/validate@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@stranerd/validate/-/validate-1.6.0.tgz#68bb14a78af9eb562d837f0bd5f0aaf4d063cc8f"
+  integrity sha512-GkiCOEK/pEmpWlB06ZrVLKcTc+s6S9QF5avh9unjRf62J+Rnv9z5y/fT2W1jJn1vhizhVR2kdRuxaRhvd/RpqA==
+
 "@types/body-parser@*":
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.19.1.tgz#0c0174c42a7d017b818303d4b5d969cb0b75929c"
