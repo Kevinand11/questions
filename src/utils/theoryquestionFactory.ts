@@ -1,37 +1,20 @@
 // @ts-nocheck
-import {
-	isArrayOfX,
-	isExtractedHTMLLongerThanX,
-	isImage,
-	isLongerThanX,
-	isNumber,
-	isShorterThanX,
-	isString
-} from '@stranerd/validate'
+import { isArrayOfX, isExtractedHTMLLongerThanX, isImage, isNumber, isString } from '@stranerd/validate'
 import { BaseFactory } from './baseFactory'
-import { answers, examTypes, Media, ObjQuestionToModel, subjects, years } from '@/utils/questionModel'
+import { answers, examTypes, Media, subjects, TheoryQuestionToModel, years } from '@/utils/questionModel'
 
-type HasMedia = 'question' | 'a' | 'b' | 'c' | 'd' | 'e'
+type HasMedia = 'question' | 'answer'
 
-export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuestionToModel> {
+export class TheoryQuestionFactory extends BaseFactory<TheoryQuestionToModel, TheoryQuestionToModel> {
 	readonly rules = {
 		examType: { required: true, rules: [isString] },
 		subject: { required: true, rules: [isString] },
 		year: { required: true, rules: [isNumber] },
 		order: { required: true, rules: [isNumber] },
-		answer: { required: true, rules: [isString, isLongerThanX(0), isShorterThanX(2)] },
+		answer: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
 		question: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		a: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		b: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		c: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		d: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		e: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
 		questionMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
-		aMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
-		bMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
-		cMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
-		dMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
-		eMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] }
+		answerMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] }
 	}
 
 	reserved = ['subject', 'year', 'examType']
@@ -92,46 +75,6 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 		this.set('answer', value)
 	}
 
-	get a () {
-		return this.values.a
-	}
-
-	set a (value: string) {
-		this.set('a', value)
-	}
-
-	get b () {
-		return this.values.b
-	}
-
-	set b (value: string) {
-		this.set('b', value)
-	}
-
-	get c () {
-		return this.values.c
-	}
-
-	set c (value: string) {
-		this.set('c', value)
-	}
-
-	get d () {
-		return this.values.d
-	}
-
-	set d (value: string) {
-		this.set('d', value)
-	}
-
-	get e () {
-		return this.values.e
-	}
-
-	set e (value: string) {
-		this.set('e', value)
-	}
-
 	getMedia (key: HasMedia) {
 		return this.values[`${key}Media`]
 	}
@@ -146,11 +89,11 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 
 	toModel = async () => {
 		if (this.valid) {
-			const keys = ['questionMedia', 'aMedia', 'bMedia', 'cMedia', 'dMedia', 'eMedia'] as const
+			const keys = ['questionMedia', 'answerMedia'] as const
 			await Promise.all(
 				keys.map(async (key) => {
 					const docs = await Promise.all(this.values[key].map(async (doc) => {
-						if (doc instanceof File) return await this.uploadFile('pastQuestions/objectives', doc)
+						if (doc instanceof File) return await this.uploadFile('pastQuestions/theory', doc)
 						return doc
 					}))
 					this.set(key, docs)
