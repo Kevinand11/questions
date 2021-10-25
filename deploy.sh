@@ -12,6 +12,6 @@ git merge main
 # build
 yarn run build
 
-git push
+git push origin --all
 
 git checkout main
