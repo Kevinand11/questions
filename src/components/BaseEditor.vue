@@ -20,16 +20,10 @@ import { VueEditor } from 'vue3-editor'
 import { uploadFile } from '@/utils/firebase'
 
 const customToolBar = [
-	[{ size: ['small', false, 'large', 'huge'] }],
-	[{ header: [false, 1, 2, 3, 4, 5, 6] }],
+	[{ header: [2, 3, 4, 5, false] }],
 	['bold', 'italic', 'underline', 'strike'],
 	[{ script: 'sub' }, { script: 'super' }],
-	[{ indent: '-1' }, { indent: '+1' }],
-	[{ align: '' }, { align: 'center' }, { align: 'right' }, { align: 'justify' }],
-	['blockquote', 'code-block'],
-	[{ list: 'ordered' }, { list: 'bullet' }, { list: 'check' }],
-	[{ color: [] }, { background: [] }],
-	['link', 'image', 'video', 'formula'],
+	['code-block'],
 	['clean']
 ]
 
@@ -91,7 +85,7 @@ export default defineComponent({
 	}
 
 	.ql-toolbar {
-		display: flex;
+		display: none; /* flex; */
 		flex-wrap: nowrap;
 		overflow-x: auto;
 		overflow-y: hidden;
