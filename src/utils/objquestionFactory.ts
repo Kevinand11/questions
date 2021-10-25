@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
 	isArrayOfX,
 	isExtractedHTMLLongerThanX,
@@ -40,7 +41,7 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 		eMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] }
 	}
 
-	reserved = []
+	reserved = ['subject', 'year', 'examType']
 
 	constructor () {
 		super({
