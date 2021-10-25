@@ -21,6 +21,11 @@
 			</div>
 
 			<div class="form-group">
+				<input v-model="factory.order" class="form-control" max="100" min="1" placeholder="Question Order"
+					   type="number">
+			</div>
+
+			<div class="form-group">
 				<BaseEditor :error="factory.errors.question" :valid="factory.isValid('question')"
 							:value.sync="factory.question" path="objQuestions/questions"
 							placeholder="Question Content" />
@@ -70,7 +75,7 @@
 				</select>
 			</div>
 
-			<p v-if="error" class="lead text-danger">{{error}}</p>
+			<p v-if="error" class="lead text-danger">{{ error }}</p>
 
 			<button :disabled="loading || !factory.valid" class="btn btn-primary" type="submit">
 				Submit Question

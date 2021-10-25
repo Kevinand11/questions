@@ -21,6 +21,11 @@
 			</div>
 
 			<div class="form-group">
+				<input v-model="factory.order" class="form-control" max="100" min="1" placeholder="Question Order"
+					   type="number">
+			</div>
+
+			<div class="form-group">
 				<BaseEditor :error="factory.errors.question" :valid="factory.isValid('question')"
 							:value.sync="factory.question" path="theoryQuestions/questions"
 							placeholder="Question Content" />
