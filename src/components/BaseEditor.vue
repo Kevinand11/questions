@@ -9,14 +9,14 @@
 			@input="$emit('update:value',$event)"
 			@image-added="handleImageUpload"
 		/>
-		<DynamicText v-if="error" class="small text-danger">{{ error }}</DynamicText>
+		<span v-if="error" class="small text-danger">{{ error }}</span>
 	</span>
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from '@vue/composition-api'
 // @ts-ignore
-import { VueEditor } from 'vue3-editor'
+import { VueEditor } from 'vue2-editor'
 import { uploadFile } from '@/utils/firebase'
 
 const customToolBar = [
@@ -38,7 +38,7 @@ export default defineComponent({
 		toolbar: {
 			required: false,
 			type: Array,
-			default: customToolBar
+			default: () => customToolBar
 		},
 		path: {
 			required: true,

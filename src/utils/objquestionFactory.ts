@@ -20,12 +20,12 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 		year: { required: true, rules: [isNumber] },
 		order: { required: true, rules: [isNumber] },
 		answer: { required: true, rules: [isString, isLongerThanX(0), isShorterThanX(2)] },
-		question: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		a: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		b: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		c: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		d: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		e: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
+		question: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
+		a: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
+		b: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
+		c: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
+		d: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
+		e: { required: false, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
 		questionMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		aMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		bMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
@@ -133,7 +133,7 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 	}
 
 	getMedia (key: HasMedia) {
-		return this.values[`${key}Media`]
+		return this.values[`${key}Media`] ?? []
 	}
 
 	addMedia (key: HasMedia, value: Media) {

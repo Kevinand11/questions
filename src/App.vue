@@ -1,6 +1,8 @@
 <template>
-	<div class="container p-1">
-		<img alt="Stranerd" class="mt-n1 mb-5" src="@/assets/logo-blue.svg">
+	<div class="container py-4">
+		<div class="d-flex mb-5">
+			<img alt="Stranerd" class="mx-auto" src="@/assets/logo-blue.svg">
+		</div>
 		<div class="lead text-capitalize mb-3">
 			<select v-model="type" class="form-control text-capitalize">
 				<option v-for="value in values" :key="value" :value="value">{{ value }}</option>
@@ -12,7 +14,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from 'vue'
+import { defineComponent, ref } from '@vue/composition-api'
 import ObjQuestion from '@/components/questions/ObjQuestion.vue'
 import TheoryQuestion from '@/components/questions/TheoryQuestion.vue'
 

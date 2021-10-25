@@ -1,7 +1,7 @@
 // @ts-nocheck
 import { isArrayOfX, isExtractedHTMLLongerThanX, isImage, isNumber, isString } from '@stranerd/validate'
 import { BaseFactory } from './baseFactory'
-import { answers, examTypes, Media, subjects, TheoryQuestionToModel, years } from '@/utils/questionModel'
+import { examTypes, Media, subjects, TheoryQuestionToModel, years } from '@/utils/questionModel'
 
 type HasMedia = 'question' | 'answer'
 
@@ -11,8 +11,8 @@ export class TheoryQuestionFactory extends BaseFactory<TheoryQuestionToModel, Th
 		subject: { required: true, rules: [isString] },
 		year: { required: true, rules: [isNumber] },
 		order: { required: true, rules: [isNumber] },
-		answer: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
-		question: { required: true, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
+		answer: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
+		question: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
 		questionMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		answerMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] }
 	}
@@ -22,8 +22,7 @@ export class TheoryQuestionFactory extends BaseFactory<TheoryQuestionToModel, Th
 	constructor () {
 		super({
 			examType: examTypes[0], subject: subjects[0], year: years[0], order: 1,
-			question: '', answer: answers[0], a: '', b: '', c: '', d: '', e: '',
-			questionMedia: [], aMedia: [], bMedia: [], cMedia: [], dMedia: [], eMedia: []
+			question: '', answer: '', questionMedia: [], answerMedia: []
 		})
 	}
 
@@ -76,7 +75,7 @@ export class TheoryQuestionFactory extends BaseFactory<TheoryQuestionToModel, Th
 	}
 
 	getMedia (key: HasMedia) {
-		return this.values[`${key}Media`]
+		return (this.values[`${key}Media`] ?? []) as Media[]
 	}
 
 	addMedia (key: HasMedia, value: Media) {

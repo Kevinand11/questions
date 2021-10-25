@@ -1,6 +1,6 @@
 import { initializeApp } from 'firebase/app'
 import { getDownloadURL, getStorage, ref, uploadBytes } from 'firebase/storage'
-import { addDoc, collection, getFirestore } from 'firebase/firestore'
+import { doc, getFirestore, setDoc } from 'firebase/firestore'
 
 const app = initializeApp({
 	apiKey: 'AIzaSyCcVYQQOOhLrKYYbX5IXcf3ltwwZbHDutA',
@@ -27,6 +27,10 @@ export const uploadFile = async (path: string, file: File) => {
 }
 
 export const saveQuestionToDatabase = async (data: any, path: string) => {
-	const docRef = await addDoc(collection(firestore, `pastQuestions/${path}`), data)
-	return docRef.id
+	const time = Date.now
+	const id = time
+	data.createdAt = time
+	const docRef = doc(firestore, `pastQuestions/list/${path}/${id}`)
+	await setDoc(docRef, data)
+	return id
 }
