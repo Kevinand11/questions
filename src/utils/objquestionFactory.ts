@@ -60,7 +60,7 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 	}
 
 	get subject () {
-		return this.values.examType
+		return this.values.subject
 	}
 
 	set subject (value: string) {

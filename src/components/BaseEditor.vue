@@ -19,19 +19,19 @@ import { defineComponent } from 'vue'
 import { VueEditor } from 'vue3-editor'
 import { uploadFile } from '@/utils/firebase'
 
-/* const customToolBar = [
- [{ size: ['small', false, 'large', 'huge'] }],
- [{ header: [false,1,2,3,4,5,6] }],
- ['bold', 'italic', 'underline', 'strike'],
- [{ script: 'sub' }, { script: 'super' }],
- [{ indent: '-1' }, { indent: '+1' }],
- [{ align: '' },{ align: 'center' },{ align: 'right' },{ align: 'justify' }],
- ['blockquote', 'code-block'],
- [{ list: 'ordered' }, { list: 'bullet' }, { list: 'check' }],
- [{ color: [] },{ background: [] }],
- ['link', 'image', 'video', 'formula'],
- ['clean']
- ] */
+const customToolBar = [
+	[{ size: ['small', false, 'large', 'huge'] }],
+	[{ header: [false, 1, 2, 3, 4, 5, 6] }],
+	['bold', 'italic', 'underline', 'strike'],
+	[{ script: 'sub' }, { script: 'super' }],
+	[{ indent: '-1' }, { indent: '+1' }],
+	[{ align: '' }, { align: 'center' }, { align: 'right' }, { align: 'justify' }],
+	['blockquote', 'code-block'],
+	[{ list: 'ordered' }, { list: 'bullet' }, { list: 'check' }],
+	[{ color: [] }, { background: [] }],
+	['link', 'image', 'video', 'formula'],
+	['clean']
+]
 
 export default defineComponent({
 	name: 'BaseEditor',
@@ -42,8 +42,9 @@ export default defineComponent({
 			type: String
 		},
 		toolbar: {
-			required: true,
-			type: Array
+			required: false,
+			type: Array,
+			default: customToolBar
 		},
 		path: {
 			required: true,
@@ -79,52 +80,48 @@ export default defineComponent({
 })
 </script>
 
-<style lang="scss">
+<style>
 	.quillWrapper {
-		background: $color-white;
+		background: #ffffff;
 		box-sizing: border-box;
 		position: relative;
 		display: flex;
 		flex-direction: column;
 		font-family: inherit !important;
+	}
 
-		.ql-container {
-			font-family: inherit !important;
-		}
+	.ql-toolbar {
+		display: flex;
+		flex-wrap: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+		font-family: inherit !important;
+		padding: 4px 0 !important;
+	}
 
-		.ql-toolbar {
-			display: flex;
-			flex-wrap: nowrap;
-			overflow-x: auto;
-			overflow-y: hidden;
-			font-family: inherit !important;
-			padding: 4px 0 !important;
+	.ql-formats {
+		display: flex;
+		padding: 8px;
+		margin: 0 !important;
+	}
 
-			.ql-formats {
-				display: flex;
-				padding: 8px;
-				margin: 0 !important;
+	.ql-expanded {
+		position: static;
+	}
 
-				.ql-expanded {
-					position: static;
+	.ql-picker-options {
+		min-width: 0;
+		top: 0;
+		left: 0;
+		position: absolute;
+	}
 
-					.ql-picker-options {
-						min-width: 0;
-						top: 0;
-						left: 0;
-						position: absolute;
-					}
-				}
-			}
-
-			.ql-formats + .ql-formats {
-				border-left: 1px solid $color-sub;
-			}
-		}
+	.ql-formats + .ql-formats {
+		border-left: 1px solid #fafafa;
 	}
 
 	.ql-toolbar.ql-snow {
-		border: 1px solid $color-line !important;
+		border: 1px solid #aaaaaa !important;
 	}
 
 	.ql-container.ql-snow {
@@ -132,9 +129,13 @@ export default defineComponent({
 	}
 
 	.ql-editor {
-		background: $color-white;
-		border: 1px solid $color-line;
+		background: #ffffff;
+		border: 1px solid #aaaaaa;
 		transition: border-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+	}
+
+	.ql-container {
+		font-family: inherit !important;
 	}
 
 	.ql-editor:focus {
@@ -145,12 +146,12 @@ export default defineComponent({
 	}
 
 	.is-valid .ql-editor:focus {
-		border: 1px solid $color-green;
+		border: 1px solid #42b983;
 		box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.25);
 	}
 
 	.is-invalid .ql-editor:focus {
-		border: 1px solid $color-red;
+		border: 1px solid #fa2121;
 		box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.25);
 	}
 
