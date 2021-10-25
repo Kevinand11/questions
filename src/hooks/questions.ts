@@ -27,6 +27,7 @@ export const useAddObjQuestion = () => {
 				const model = await factory.value.toModel()
 				await saveQuestionToDatabase(model, 'objectives')
 				factory.value.reset()
+				await alert('Question uploaded successfully')
 			} catch (e: any) {
 				error.value = e.message
 			} finally {
@@ -54,6 +55,7 @@ export const useAddTheoryQuestion = () => {
 				const model = await factory.value.toModel()
 				await saveQuestionToDatabase(model, 'theory')
 				factory.value.reset()
+				await alert('Question uploaded successfully')
 			} catch (e: any) {
 				error.value = e.message
 			} finally {

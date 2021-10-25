@@ -27,8 +27,8 @@ export const uploadFile = async (path: string, file: File) => {
 }
 
 export const saveQuestionToDatabase = async (data: any, path: string) => {
-	const time = Date.now
-	const id = time
+	const time = Date.now()
+	const id = time + Math.random().toString(36).substr(2)
 	data.createdAt = time
 	const docRef = doc(firestore, `pastQuestions/list/${path}/${id}`)
 	await setDoc(docRef, data)

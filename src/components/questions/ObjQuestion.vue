@@ -70,7 +70,12 @@
 				</select>
 			</div>
 
-			<button class="btn-primary btn-lg" type="submit">Submit Question</button>
+			<p v-if="error" class="lead text-danger">{{error}}</p>
+
+			<button :disabled="loading || !factory.valid" class="btn btn-primary" type="submit">
+				Submit Question
+			</button>
+
 		</form>
 		<PageLoading v-if="loading" />
 	</div>
