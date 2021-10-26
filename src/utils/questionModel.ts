@@ -37,7 +37,7 @@ export type Media = File | {
 	size: number
 }
 
-export const examTypes = ['utme', 'wassce']
+export const examTypes = ['utme', 'wassce', 'neco', 'gce']
 export const subjects = ['accounts', 'biology', 'chemistry', 'civic', 'commerce', 'crk', 'economics', 'english', 'government', 'literature', 'mathematics', 'physics']
 const startYear = 1978
 const endYear = 2023
