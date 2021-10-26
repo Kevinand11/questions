@@ -1,6 +1,7 @@
 import { initializeApp } from 'firebase/app'
 import { getDownloadURL, getStorage, ref, uploadBytes } from 'firebase/storage'
 import { doc, getFirestore, setDoc } from 'firebase/firestore'
+import { ObjQuestionToModel, TheoryQuestionToModel } from './questionModel'
 
 const app = initializeApp({
 	apiKey: 'AIzaSyCcVYQQOOhLrKYYbX5IXcf3ltwwZbHDutA',
@@ -26,9 +27,10 @@ export const uploadFile = async (path: string, file: File) => {
 	}
 }
 
-export const saveQuestionToDatabase = async (data: any, path: string) => {
+export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQuestionToModel, path: string) => {
 	const time = Date.now()
-	const id = time + Math.random().toString(36).substr(2)
+	const id = `${path}-${data.examType}-${data.subject}-${data.year}-${data.order}`
+	// @ts-ignore
 	data.createdAt = time
 	const docRef = doc(firestore, `pastQuestions/list/${path}/${id}`)
 	await setDoc(docRef, data)
