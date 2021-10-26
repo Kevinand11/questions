@@ -9,11 +9,11 @@
 			type="file"
 			@change="catchMedia"
 		>
-		<p v-if="factory.getMedia(name).length" class="d-flex gap-0-5">
-				<span v-for="attachment in factory.getMedia(name)" :key="attachment.name" class="me-3">
-					<span class="me-2">{{ attachment.name }}</span>
+		<p v-if="factory.getMedia(name).length" class="d-flex flex-column gap-0-5">
+				<span v-for="attachment in factory.getMedia(name)" :key="attachment.name" class="d-block">
+					<span class="me-2 text-primary">{{ attachment.name }}</span>
 					<a class="text-danger" @click.prevent="factory.removeMedia(name, attachment)">
-						<i class="fas fa-times" />
+						<i>&times;</i>
 					</a>
 				</span>
 		</p>
