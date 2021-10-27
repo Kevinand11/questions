@@ -14,14 +14,15 @@
 				</select>
 			</div>
 			<div class="form-group">
-				<select v-model="factory.year" class="form-select">
+				<select v-model.number="factory.year" class="form-select">
 					<option disabled>Question Year</option>
 					<option v-for="value in years" :key="value" :value="value">{{ value }}</option>
 				</select>
 			</div>
 
 			<div class="form-group">
-				<input v-model="factory.order" class="form-control" max="100" min="1" placeholder="Question Order"
+				<input v-model.number="factory.order" class="form-control" max="100" min="1"
+					   placeholder="Question Order"
 					   type="number">
 			</div>
 
