@@ -19,7 +19,7 @@ files.forEach((file) => {
 	subject = subject.toLowerCase()
 
 	const year = parseInt(yearStr)
-	if (isNaN(year)) throw new Error('Year is not valid')
+	if (isNaN(year)) throw new Error(`Year is not valid for: ${file}`)
 
 	textract.fromFileWithPath(file, { preserveLineBreaks: true, includeAltText: true }, function (error, text) {
 		if (error) throw new Error(error)
@@ -54,10 +54,11 @@ files.forEach((file) => {
 			const c = (question.find((q) => q.startsWith('C.'))?.replace('C.', '') ?? '').trim()
 			const d = (question.find((q) => q.startsWith('D.'))?.replace('D.', '') ?? '').trim()
 			const e = (question.find((q) => q.startsWith('E.'))?.replace('E.', '') ?? '').trim()
+			const explanation = (question.find((q) => q.startsWith('Explanation.'))?.replace('Explanation.', '') ?? '').trim()
 			const answer = answers[i]
 
 			return {
-				isSpecial, a, b, c, d, e,
+				isSpecial, a, b, c, d, e, explanation,
 				question: questionBody, order, answer,
 				year, subject, examType,
 				questionMedia: [], aMedia: [], bMedia: [], cMedia: [], dMedia: [], eMedia: [],
