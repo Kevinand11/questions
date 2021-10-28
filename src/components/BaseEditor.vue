@@ -22,7 +22,7 @@ import { uploadFile } from '@/utils/firebase'
 const customToolBar = [
 	[{ header: [2, 3, 4, 5, false] }],
 	['bold', 'italic', 'underline', 'strike'],
-	[{ script: 'sub' }, { script: 'super' }],
+	[{ script: 'sub' }, { script: 'super' }, 'formula'],
 	['code-block'],
 	['clean']
 ]
@@ -85,7 +85,7 @@ export default defineComponent({
 	}
 
 	.ql-toolbar {
-		display: none; /* flex; */
+		display: flex; /* flex; */
 		flex-wrap: nowrap;
 		overflow-x: auto;
 		overflow-y: hidden;

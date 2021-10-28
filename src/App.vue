@@ -1,5 +1,7 @@
 <template>
 	<div class="container py-4">
+		<Editor />
+		<hr class="my-5">
 		<div class="d-flex mb-5">
 			<img alt="Stranerd" class="mx-auto" src="@/assets/logo-blue.svg">
 		</div>
@@ -17,9 +19,10 @@
 import { defineComponent, ref } from '@vue/composition-api'
 import ObjQuestion from '@/components/questions/ObjQuestion.vue'
 import TheoryQuestion from '@/components/questions/TheoryQuestion.vue'
+import Editor from '@/components/Editor.vue'
 
 export default defineComponent({
-	components: { ObjQuestion, TheoryQuestion },
+	components: { ObjQuestion, TheoryQuestion, Editor },
 	setup () {
 		const values = ['objectives', 'theory']
 		const type = ref(values[0])
