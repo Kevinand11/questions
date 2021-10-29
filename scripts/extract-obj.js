@@ -44,10 +44,12 @@ files.forEach((file) => {
 			question = question.map(q => q.trim())
 			const isSpecial = !!question.find(q => q.includes('specialxy'))
 
-			let [orderStr, ...questionBody] = question[0].split('.')
-			questionBody = questionBody.join('.')
-			const order = parseInt(orderStr)
-			if (isNaN(order)) throw new Error('A question is missing its order')
+			const aIndex = question.findIndex((q) => q.startsWith('A.'))
+			const questionContent = question.slice(0, aIndex).join('\n')
+			const dotIndex = questionContent.indexOf('.')
+			const order = parseInt(questionContent.slice(0, dotIndex))
+			const questionBody = questionContent.slice(dotIndex + 1).trim()
+			if (isNaN(order)) throw new Error(`A question is missing its order in: ${file}`)
 
 			const a = (question.find((q) => q.startsWith('A.'))?.replace('A.', '') ?? '').trim()
 			const b = (question.find((q) => q.startsWith('B.'))?.replace('B.', '') ?? '').trim()
@@ -73,8 +75,8 @@ files.forEach((file) => {
 
 		const special = questions.filter((q) => q.isSpecial === true).map(q => `Question ${q.order}`)
 
-		fs.writeFileSync(`${saveFolder}/${examType}-${subject}-${year}.json`, JSON.stringify(nonSpecial, null, 4))
-		fs.writeFileSync(`${specialFolder}/${examType}-${subject}-${year}.json`, JSON.stringify(special, null, 4))
+		if (nonSpecial.length) fs.writeFileSync(`${saveFolder}/${examType}-${subject}-${year}.json`, JSON.stringify(nonSpecial, null, 4))
+		if (special.length) fs.writeFileSync(`${specialFolder}/${examType}-${subject}-${year}.json`, JSON.stringify(special, null, 4))
 	})
 
 })
