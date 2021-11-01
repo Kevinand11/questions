@@ -11,7 +11,7 @@ import {
 import { BaseFactory } from './baseFactory'
 import { answers, examTypes, Media, ObjQuestionToModel, subjects, years } from '@/utils/questionModel'
 
-type HasMedia = 'question' | 'a' | 'b' | 'c' | 'd' | 'e'
+type HasMedia = 'question' | 'a' | 'b' | 'c' | 'd' | 'e' | 'explanation'
 
 export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuestionToModel> {
 	readonly rules = {
@@ -26,12 +26,14 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 		c: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
 		d: { required: true, rules: [isString, isExtractedHTMLLongerThanX(0)] },
 		e: { required: false, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
+		explanation: { required: false, rules: [isString, isExtractedHTMLLongerThanX(-1)] },
 		questionMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		aMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		bMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		cMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
 		dMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
-		eMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] }
+		eMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] },
+		explanationMedia: { required: true, rules: [isArrayOfX((com) => isImage(com).valid, 'images')] }
 	}
 
 	reserved = ['subject', 'year', 'examType']
@@ -39,8 +41,8 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 	constructor () {
 		super({
 			examType: examTypes[0], subject: subjects[0], year: years[0], order: 1,
-			question: '', answer: answers[0], a: '', b: '', c: '', d: '', e: '',
-			questionMedia: [], aMedia: [], bMedia: [], cMedia: [], dMedia: [], eMedia: []
+			question: '', answer: answers[0], a: '', b: '', c: '', d: '', e: '', explanation: '',
+			questionMedia: [], aMedia: [], bMedia: [], cMedia: [], dMedia: [], eMedia: [], explanationMedia: []
 		})
 	}
 
@@ -132,6 +134,14 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 		this.set('e', value)
 	}
 
+	get explanation () {
+		return this.values.explanation
+	}
+
+	set explanation (value: string) {
+		this.set('explanation', value)
+	}
+
 	getMedia (key: HasMedia) {
 		return this.values[`${key}Media`] ?? []
 	}
@@ -146,7 +156,7 @@ export class ObjQuestionFactory extends BaseFactory<ObjQuestionToModel, ObjQuest
 
 	toModel = async () => {
 		if (this.valid) {
-			const keys = ['questionMedia', 'aMedia', 'bMedia', 'cMedia', 'dMedia', 'eMedia'] as const
+			const keys = ['questionMedia', 'aMedia', 'bMedia', 'cMedia', 'dMedia', 'eMedia', 'explanationMedia'] as const
 			await Promise.all(
 				keys.map(async (key) => {
 					const docs = await Promise.all(this.values[key].map(async (doc) => {

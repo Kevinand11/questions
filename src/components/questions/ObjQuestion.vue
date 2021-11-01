@@ -70,6 +70,14 @@
 			<Media :factory="factory" class="form-group" name="e" />
 
 			<div class="form-group">
+				<BaseEditor :error="factory.errors.explanation" :valid="factory.isValid('explanation')"
+							:value.sync="factory.explanation" path="objQuestions/explanation"
+							placeholder="Explanation" />
+			</div>
+
+			<Media :factory="factory" class="form-group" name="explanation" />
+
+			<div class="form-group">
 				<select v-model="factory.answer" class="form-select text-capitalize">
 					<option disabled>Correct Answer</option>
 					<option v-for="value in answers" :key="value" :value="value">{{ value }}</option>

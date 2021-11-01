@@ -16,6 +16,8 @@ export interface ObjQuestionToModel {
 	dMedia: string[]
 	e: string
 	eMedia: string[]
+	explanation: string
+	explanationMedia: string[]
 }
 
 export interface TheoryQuestionToModel {
