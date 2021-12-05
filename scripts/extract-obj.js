@@ -23,7 +23,11 @@ files.forEach((file) => {
 
 	textract.fromFileWithPath(file, { preserveLineBreaks: true, includeAltText: true }, function (error, text) {
 		if (error) throw new Error(error)
-		const [rawQuestions, rawAnswers] = text.split('xxxxxxxxxx')
+		const indexofX = text.toLowerCase().indexOf('xxxxxxxxxx')
+		if (indexofX < 0) throw new Error('10 x problem')
+		
+		const rawQuestions = text.slice(0, indexofX)
+		const rawAnswers = text.slice(indexofX + 10)
 
 		const answers = rawAnswers
 			.trim()
@@ -32,17 +36,21 @@ files.forEach((file) => {
 
 		const filteredQuestions = rawQuestions.split('\n')
 			.reduce((acc, val) => {
+				if (val) val = val.trim()
 				if (val) acc[acc.length - 1].push(val)
 				else acc.push([])
 				return acc
 			}, [[]])
 			.filter((val) => val.length > 0)
+			
+		console.log(answers.length)
+		console.log(filteredQuestions.length)
 
 		if (answers.length !== filteredQuestions.length) throw new Error('Answers and Questions dont have equal lengths')
 
 		const questions = filteredQuestions.map((question, i) => {
 			question = question.map(q => q.trim())
-			const isSpecial = !!question.find(q => q.includes('specialxy'))
+			const isSpecial = !!question.find(q => q.toLowerCase().includes('specialxy'))
 
 			const aIndex = question.findIndex((q) => q.startsWith('A.'))
 			const questionContent = question.slice(0, aIndex).join('\n')

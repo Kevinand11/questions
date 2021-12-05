@@ -29,6 +29,7 @@ export const uploadFile = async (path: string, file: File) => {
 
 export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQuestionToModel, path: string) => {
 	const time = Date.now()
+	data.order = data.order + 200
 	const id = `${path}-${data.examType}-${data.subject}-${data.year}-${data.order}`
 	// @ts-ignore
 	data.createdAt = time
