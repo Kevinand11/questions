@@ -8,6 +8,7 @@
 		<p v-if="error" class="my-3 text-danger">{{ error }}</p>
 		<hr class="my-5">
 		<div v-if="fetched" class="mb-5">
+			<h1 style="text-transform: capitalize;">{{ name }}</h1>
 			<h2>Non Specials</h2>
 			<div>
 				<div v-for="(question, index) in nonSpecials" :key="`nonSpecial`+index">
@@ -42,11 +43,12 @@
 
 <script lang="ts">
 import { defineComponent, ref } from '@vue/composition-api'
-import { parseContent } from '../../scripts/parseContent'
+import { getName, parseContent } from '../../scripts/parseContent'
 
 export default defineComponent({
 	setup () {
 		const id = ref('')
+		const name = ref('')
 		const fetched = ref(false)
 		const error = ref('')
 		const specials = ref([] as any[])
@@ -54,18 +56,24 @@ export default defineComponent({
 		const submit = async () => {
 			try {
 				const link = `https://docs.google.com/document/d/${id.value}/export?format=txt`
-				const content = await fetch(link).then((r) => r.text())
+				const res = await fetch(link)
+				const n = JSON.parse(res.headers.get('content-disposition')?.split(';')[1].split('=')[1] ?? '').split('.')[0] ?? ''
+				name.value = n.trim()
+				const { subject, year, examType } = getName(name.value)
+				const content = await res.text()
 				fetched.value = true
 
-				const { special, nonSpecial } = parseContent(content, link)
+				const { special, nonSpecial } = parseContent(content, link, subject, examType, year)
 				specials.value = special
 				nonSpecials.value = nonSpecial
 			} catch (e: any) {
 				error.value = e.message
+				specials.value = []
+				nonSpecials.value = []
 			}
 		}
 		return {
-			id, error, submit, specials, nonSpecials, fetched
+			id, error, submit, specials, nonSpecials, fetched, name
 		}
 	}
 })

@@ -1,4 +1,4 @@
-export const parseContent = (text: string, file: string, subject?: string, examType?: string, year?: number) => {
+export const parseContent = (text: string, file: string, subject: string, examType: string, year: number) => {
 	const indexofX = text.toLowerCase().indexOf('xxxxxxxxxx')
 	if (indexofX < 0) throw new Error('10 x problem')
 
@@ -38,8 +38,14 @@ export const parseContent = (text: string, file: string, subject?: string, examT
 		const a = (question.find((q) => q.startsWith('A.'))?.replace('A.', '') ?? '').trim()
 		const b = (question.find((q) => q.startsWith('B.'))?.replace('B.', '') ?? '').trim()
 		const c = (question.find((q) => q.startsWith('C.'))?.replace('C.', '') ?? '').trim()
-		const e = (question.find((q) => q.startsWith('E.'))?.replace('E.', '') ?? '').trim()
 		const d = (question.find((q) => q.startsWith('D.'))?.replace('D.', '') ?? '').trim()
+		const e = (question.find((q) => q.startsWith('E.'))?.replace('E.', '') ?? '').trim()
+
+		if (!a) throw new Error(`Option A missing for no ${order}`)
+		if (!b) throw new Error(`Option B missing for no ${order}`)
+		if (!c) throw new Error(`Option C missing for no ${order}`)
+		if (!d) throw new Error(`Option D missing for no ${order}`)
+
 		const explanation = (question.find((q) => q.startsWith('Explanation.'))?.replace('Explanation.', '') ?? '').trim()
 		const answer = answers[i]
 
@@ -61,4 +67,15 @@ export const parseContent = (text: string, file: string, subject?: string, examT
 	const special = questions.filter((q) => q.isSpecial).map(q => `Question ${q.order}`)
 
 	return { special, nonSpecial }
+}
+
+export const getName = (name: string) => {
+	let [examType, subject, yearStr] = name.split('-').map((n) => n.trim())
+	examType = examType.toLowerCase()
+	subject = subject.toLowerCase()
+
+	const year = parseInt(yearStr)
+	if (isNaN(year)) throw new Error(`Year is not valid for: ${name}`)
+
+	return { examType, year, subject }
 }

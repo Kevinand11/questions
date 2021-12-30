@@ -1,3 +1,5 @@
+import { getName } from './parseContent'
+
 const textract = require('textract')
 const path = require('path')
 const fs = require('fs')
@@ -15,12 +17,7 @@ const files = fs.readdirSync(rawFolder).map(file => `${rawFolder}/${file}`)
 files.forEach((file) => {
 	const pathname = path.normalize(file).split('/')
 	const filename = pathname[pathname.length - 1].split('.')[0]
-	let [examType, subject, yearStr] = filename.split('-').map((n) => n.trim())
-	examType = examType.toLowerCase()
-	subject = subject.toLowerCase()
-
-	const year = parseInt(yearStr)
-	if (isNaN(year)) throw new Error(`Year is not valid for: ${file}`)
+	const { examType, subject, year } = getName(filename.split('-').map((n) => n.trim()))
 
 	textract.fromFileWithPath(file, { preserveLineBreaks: true, includeAltText: true }, function (error, text) {
 		if (error) throw new Error(error)

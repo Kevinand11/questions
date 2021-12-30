@@ -1,5 +1,13 @@
 <template>
 	<div class="container py-4">
+		<div class="d-flex mb-5 border border-secondary">
+			<router-link class="flex-grow w-50 p-3 text-secondary text-center text-decoration-none"
+			             exact-active-class="bg-primary text-white" to="/">Upload Questions
+			</router-link>
+			<router-link class="flex-grow w-50 p-3 text-secondary text-center text-decoration-none"
+			             exact-active-class="bg-primary text-white" to="/crosscheck">Crosscheck Doc
+			</router-link>
+		</div>
 		<router-view :key="$route.path" />
 	</div>
 </template>
