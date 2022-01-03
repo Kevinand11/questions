@@ -22,7 +22,7 @@ export const parseContent = (text: string, file: string, subject: string, examTy
 	console.log(answers.length)
 	console.log(filteredQuestions.length)
 
-	if (answers.length !== filteredQuestions.length) throw new Error('Answers and Questions dont have equal lengths')
+	if (answers.length !== filteredQuestions.length) throw new Error(`Answers and Questions dont have equal lengths: ${answers.length} answers and ${filteredQuestions.length} questions`)
 
 	const questions = filteredQuestions.map((question, i) => {
 		question = question.map(q => q.trim())

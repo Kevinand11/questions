@@ -9,8 +9,8 @@
 		<hr class="my-5">
 		<div v-if="fetched" class="mb-5">
 			<h1 style="text-transform: capitalize;">{{ name }}</h1>
-			<h2>Non Specials</h2>
-			<div>
+			<h2>Non Specials - Total:{{ nonSpecials.length }}</h2>
+			<div class="mb-5">
 				<div v-for="(question, index) in nonSpecials" :key="`nonSpecial`+index">
 					<p>Order: {{ question.order }}</p>
 					<p>{{ question.question }}</p>
@@ -22,9 +22,7 @@
 					<hr class="my-2">
 				</div>
 			</div>
-		</div>
-		<div v-if="fetched" class="mb-5">
-			<h2>Specials</h2>
+			<h2>Specials - Total:{{ specials.length }}</h2>
 			<div>
 				<div v-for="(question, index) in specials" :key="`special`+index">
 					<p>Order: {{ question.order }}</p>
@@ -55,6 +53,7 @@ export default defineComponent({
 		const nonSpecials = ref([] as any[])
 		const submit = async () => {
 			try {
+				error.value = ''
 				const link = `https://docs.google.com/document/d/${id.value}/export?format=txt`
 				const res = await fetch(link)
 				const n = JSON.parse(res.headers.get('content-disposition')?.split(';')[1].split('=')[1] ?? '').split('.')[0] ?? ''
