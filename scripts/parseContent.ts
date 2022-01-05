@@ -46,7 +46,8 @@ export const parseContent = (text: string, file: string, subject: string, examTy
 			if (!d) throw new Error(`Option D missing for no ${order}`)
 
 			const explanation = (question.find((q) => q.startsWith('Explanation.'))?.replace('Explanation.', '') ?? '').trim()
-			const answer = answers[i]?.trim().toLowerCase() ?? null
+			let answer = answers[i]?.trim().toLowerCase() ?? null
+			if (answer.includes('.')) answer = answer.slice(answer.indexOf('.') + 1)
 			if (!['a', 'b', 'c', 'd', 'e'].includes(answer)) throw new Error(`Invalid answer: ${answer} for no ${order}`)
 
 			return {
