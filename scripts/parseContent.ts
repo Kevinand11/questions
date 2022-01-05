@@ -47,7 +47,7 @@ export const parseContent = (text: string, file: string, subject: string, examTy
 
 			const explanation = (question.find((q) => q.startsWith('Explanation.'))?.replace('Explanation.', '') ?? '').trim()
 			let answer = answers[i]?.trim().toLowerCase() ?? null
-			if (answer.includes('.')) answer = answer.slice(answer.indexOf('.') + 1)
+			if (answer.includes('.')) answer = answer.slice(answer.indexOf('.') + 1).trim()
 			if (!['a', 'b', 'c', 'd', 'e'].includes(answer)) throw new Error(`Invalid answer: ${answer} for no ${order}`)
 
 			return {
