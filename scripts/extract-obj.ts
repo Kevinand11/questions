@@ -26,7 +26,7 @@ files.forEach((file: string) => {
 			const { special, nonSpecial } = parseContent(text, file, subject, examType, year)
 
 			if (nonSpecial.length) fs.writeFileSync(`${saveFolder}/${examType}-${subject}-${year}.json`, JSON.stringify(nonSpecial, null, 4))
-			if (special.length) fs.writeFileSync(`${specialFolder}/${examType}-${subject}-${year}.txt`, special.map((q: any) => `Question ${q.order}`).join('\n'))
+			if (special.length) fs.writeFileSync(`${specialFolder}/${examType}-${subject}-${year}.txt`, special.join('\n'))
 		} catch (e) {
 			console.log(e.message)
 		}
