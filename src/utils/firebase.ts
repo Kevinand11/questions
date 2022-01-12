@@ -33,7 +33,7 @@ export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQu
 	const id = `${path}-${data.examType}-${data.subject}-${data.year}-${data.order}`
 	// @ts-ignore
 	data.createdAt = time
-	const docRef = doc(firestore, `pastQuestions/list/${path}/${id}`)
+	const docRef = doc(firestore, `pastQuestions/list2/${path}/${id}`)
 	await setDoc(docRef, data)
 	return id
 }
