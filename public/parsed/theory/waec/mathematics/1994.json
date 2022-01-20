@@ -1,0 +1,110 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1994,
+        "question": "<p>(a) Given that \\(3 \\times 9^{1 + x} = 27^{-x}\\), find x.</p><p>(b) Evaluate \\(\\log_{10} \\sqrt{35} + \\log_{10} \\sqrt{2} - \\log_{10} \\sqrt{7}\\)</p>",
+        "answer": "<p>(a) \\(3 \\times 9^{1 + x} = 27^{-x}\\)</p><p>\\(3 \\times (3^{2})^{1 + x} = (3^{3})^{-x}\\)</p><p>\\(3 \\times 3^{2 + 2x} = 3^{-3x} \\)</p><p>\\(3^{2x + 2 + 1} = 3^{-3x} \\implies 3^{2x + 3} = 3^{-3x}\\)</p><p>\\(\\implies 2x + 3 = - 3x\\)</p><p>\\(-5x = 3 \\implies x = \\frac{-3}{5}\\)</p><p>(b) \\(\\log_{10} \\sqrt{35} + \\log_{10} \\sqrt{2} - \\log_{10} \\sqrt{7}\\)</p><p>= \\(\\log_{10} (\\frac{\\sqrt{35} \\times \\sqrt{2}}{\\sqrt{7}}\\)</p><p>= \\(\\log_{10} (\\frac{\\sqrt{35 \\times 2}{\\sqrt{7}}\\)</p><p>= \\(\\log_{10} \\sqrt{10}\\)</p><p>= \\(\\log_{10} 10^{\\frac{1}{2}}\\)</p><p>= \\(\\frac{1}{2} \\log_{10} 10 = \\frac{1}{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1994,
+        "question": "<p>(a) Evaluate, without using mathematical tables, \\(17.57^{2} - 12.43^{2}\\).</p><p>(b) Prove that angles in the same segment of a circle are equal.</p>",
+        "answer": "<p>(a) \\(17.57^{2} - 12.43^{2}\\)</p><p>Using the difference of two squares method,</p><p>= \\((17.57 + 12.43)(17.57 - 12.43)\\)</p><p>= \\((30.00)(5.14)\\)</p><p>= \\(154.2\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0351%20%282%29.jpg\" style=\"height:261px; width:250px\"></p><p>Given: D and C are points on the major arc of circle ADCB. To prove that &lt; ADB = &lt; ACB.</p><p>Construction : Join A and B to O, the centre of the circle .</p><p>Proof: With the lettering \\(&lt; AOB = 2x_{1}\\) (angle at the centre is twice that subtended at the circumference)</p><p>But \\(&lt; AOB = 2x_{2}\\) (the same theorem applies here)</p><p>\\(\\therefore 2x_{1} = 2x_{2} \\implies x_{1} = x_{2}\\)</p><p>\\(\\therefore &lt; ADB = &lt; ACB\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1994,
+        "question": "<p>(a) A tower and a building stand on the same horizontal level. From the point P at the bottom of the building, the angle of elevation of the top, T of the tower is 65°. From the top Q of the building, the angle of elevation of the point T is 25°. If the building is 20m high, calculate the distance PT.</p><p>(b) Hence or otherwise, calculate the height of the tower. [Give your answers correct to 3 significant figures].</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0351%20%283%29%281%29.jpg\" style=\"height:232px; width:250px\"></p><p>\\(&lt; QPB = 90° - 65° = 25°\\)</p><p>Also, \\(&lt; TQP = 90° + 25° = 115°\\)</p><p>\\(\\therefore &lt; QTP = 180° - (25° + 115°) = 40°\\)</p><p>Using sine rule, \\(\\frac{PQ}{\\sin 40°} = \\frac{PT}{\\sin 115°}\\)</p><p>\\(PT = \\frac{20 \\sin 115°}{\\sin 40°} = \\frac{20 \\sin 65°}{\\sin 40°}\\)</p><p>= \\(28.199m \\approxeq 28.2m\\) (to 3 sig. fig)</p><p>(b) Height of the tower = ST</p><p>\\(\\sin 65 = \\frac{ST}{PT} = \\frac{ST}{28.199}\\)</p><p>\\(ST = 28.199 \\times \\sin 65° = 25.557m\\)</p><p>\\(\\approxeq 25.6m\\) (to 3 sig. figs)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1994,
+        "question": "<p>(a) Divide \\(11111111_{two}\\) by \\(101_{two}\\)</p><p>(b) A sector of radius 6 cm has an angle of 105° at the centre. Calculate its:</p><p>(i) perimeter ; (ii) area . [Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "answer": "<p>(a) This can either be done using the long division method (easier) or convert everything to base ten and divide, then re-convert to base two.</p><p>I'll be using the latter method.</p><p>\\(11111111_{two} = 1 \\times 2^{7} + 1 \\times 2^{6} + 1 \\times 2^{5} + 1 \\times 2^{4} + 1 \\times 2^{3} + 1 \\times 2^{2} + 1 \\times 2^{1} + 1 \\times 2^{0}\\)</p><p>= \\(128 + 64 + 32 + 16 + 8 + 4 + 2 + 1 = 255_{ten}\\)</p><p>\\(101_{two} = 1 \\times 2^{2} + 0 \\times 2^{1} + 1 \\times 2^{0} \\)</p><p>= \\(4 + 0 + 1 = 5_{ten}\\)</p><p>\\(\\frac{255}{5} = 51_{ten}\\)</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>2</td>\n<td>51</td>\n</tr>\n<tr>\n<td>2</td>\n<td>25 r 1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>12 r 1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>6 r 0</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3 r 0</td>\n</tr>\n<tr>\n<td>2</td>\n<td>1 r 1</td>\n</tr>\n<tr>\n<td> </td>\n<td>0 r 1</td>\n</tr>\n</tbody>\n</table><p>= \\(110011_{two}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0351%20%284%29.jpg\" style=\"height:250px; width:250px\"></p><p>(i) Length of arc AXB = \\(\\frac{105}{360} \\times 2 \\times \\frac{22}{7} \\times 6cm\\)</p><p>= \\(11cm\\)</p><p>\\(\\therefore Perimeter = 6cm + 11cm + 6cm = 23cm\\)</p><p>(ii) Area of sector = \\(\\frac{105}{360} \\times \\frac{22}{7} \\times 6cm \\times 6cm\\)</p><p>= \\(33 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1994,
+        "question": "<p>The table below gives the frequency distribution of the marks obtained by some students in a scholarship examination.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Scores (x)</td>\n<td>15</td>\n<td>25</td>\n<td>35</td>\n<td>45</td>\n<td>55</td>\n<td>65</td>\n<td>75</td>\n</tr>\n<tr>\n<td>Freq (f)</td>\n<td>1</td>\n<td>4</td>\n<td>12</td>\n<td>24</td>\n<td>18</td>\n<td>8</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>(a) Calculate, correct to 3 significant figures, the mean mark.</p><p>(b) Find the : (i) mode ; (ii) range of the distribution.</p><p> </p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>f</td>\n<td>fx</td>\n</tr>\n<tr>\n<td>15</td>\n<td>1</td>\n<td>15</td>\n</tr>\n<tr>\n<td>25</td>\n<td>4</td>\n<td>100</td>\n</tr>\n<tr>\n<td>35</td>\n<td>12</td>\n<td>420</td>\n</tr>\n<tr>\n<td>45</td>\n<td>24</td>\n<td>1080</td>\n</tr>\n<tr>\n<td>55</td>\n<td>18</td>\n<td>990</td>\n</tr>\n<tr>\n<td>65</td>\n<td>8</td>\n<td>520</td>\n</tr>\n<tr>\n<td>75</td>\n<td>3</td>\n<td>225</td>\n</tr>\n<tr>\n<td> </td>\n<td>70</td>\n<td>3350</td>\n</tr>\n</tbody>\n</table><p>\\(Mean = \\frac{\\sum fx}{\\sum f} = \\frac{3350}{70} = 47.8571\\)</p><p>\\(\\approxeq 47.9\\) (to 3 sig. figs)</p><p>(b)(i) Mode = 45 (score with the highest frequency)</p><p>(ii) Range = Highest mark - Lowest mark</p><p>= 75 - 15 = 60.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1994,
+        "question": "<p>(a) If \\(\\log_{10} (3x - 1) - \\log_{10} 2 = 3\\), find the value of x.</p><p>(b) Use logarithm tables to evaluate \\(\\sqrt{\\frac{0.897 \\times 3.536}{0.00249}}\\), correct to 3 significant figures.</p>",
+        "answer": "<p>(a) \\(\\log_{10} (3x - 1) - \\log_{10} 2 = 3\\)</p><p>\\(\\log_{10} (\\frac{3x - 1}{2}) = 3\\)</p><p>\\(\\implies \\frac{3x - 1}{2} = 10^{3} = 1000\\)</p><p>\\(\\implies 3x - 1 = 2000\\)</p><p>\\(3x = 2000 + 1 = 2001\\)</p><p>\\(x = \\frac{2001}{3} = 667\\)</p><p>(b) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>No</td>\n<td>Log</td>\n</tr>\n<tr>\n<td>0.8972</td>\n<td>\\(\\bar{1}.9528\\) +</td>\n</tr>\n<tr>\n<td>3.536</td>\n<td>\\(0.5485\\)</td>\n</tr>\n<tr>\n<td> </td>\n<td>= 0.5013 -</td>\n</tr>\n<tr>\n<td>0.00249</td>\n<td>\\(\\bar{3}.3962\\)</td>\n</tr>\n<tr>\n<td>Antilog - 35.70</td>\n<td>\\(3.1051 \\div 2 = 1.5526\\)</td>\n</tr>\n</tbody>\n</table><p>\\(\\therefore \\sqrt{\\frac{0.8972 \\times 3.536}{0.00249}} = 35.70\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1994,
+        "question": "<p>A bag contains 12 white balls and 8 black balls, another contains 10 white balls and 15 black balls. If two balls are drawn, without replacement from each bag, find the probability that :</p><p>(a) all four balls are black ;</p><p>(b) exactly one of the four balls is white.</p>",
+        "answer": "<p>(a) 1st bag contains 12 white (W) balls and 8 black (B) balls; 2nd bag contains 10 white (W) balls and 15 black (B) balls.</p><p>P(two black balls from the 1st bag and two black balls from 2nd bag) </p><p>= \\((\\frac{8}{20} \\times \\frac{7}{19}) \\times (\\frac{15}{25} \\times \\frac{14}{24})\\)</p><p>= \\(\\frac{14}{95} \\times \\frac{7}{20}\\)</p><p>= \\(\\frac{49}{950}\\)</p><p>(b) P(picking exactly one white ball) = P(WB from 1st bag and BB from 2nd bag) + P(BW from 1st bag and BB from 2nd bag) + P(BB from 1st bag and WB from 2nd bag) + P(BB from 1st bag and BW from 2nd bag)</p><p>= \\(\\frac{12}{20} \\times \\frac{8}{19} \\times \\frac{15}{25} \\times \\frac{14}{24} + \\frac{8}{20} \\times \\frac{12}{19} \\times \\frac{15}{25} \\times \\frac{14}{24} + \\frac{8}{20} \\times \\frac{7}{19} \\times \\frac{10}{25} \\times \\frac{15}{24} + \\frac{8}{20} \\times \\frac{7}{19} \\times \\frac{15}{25} \\times \\frac{10}{24}\\)</p><p>= \\(\\frac{42}{475} + \\frac{42}{475} + \\frac{7}{190} + \\frac{7}{190}\\)</p><p>= \\(\\frac{238}{950}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1994,
+        "question": "<p>(a) Using a ruler and a pair of compasses only, construct (i) a triangle XYZ in which /YZ/ = 8cm, &lt; XYZ = 60° and &lt; XZY = 75°. Measure /XY/; (ii) the locus \\(l_{1}\\) of points equidistant from Y and Z ; (iii) the locus \\(l_{2}\\) of points equidistant from XY and YZ.</p><p>(b) Measure QY where Q is the point of intersection of \\(l_{1}\\) and \\(l_{2}\\).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0352%20%282%29.jpg\" style=\"height:320px; width:400px\"></p><p>(b) /QY/ = 4.8 cm</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1994,
+        "question": "<p>The table below gives the ages, to the nearest 5 years of 50 people.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Age in years</td>\n<td>10</td>\n<td>15</td>\n<td>20</td>\n<td>25</td>\n<td>30</td>\n</tr>\n<tr>\n<td>No of people</td>\n<td>8</td>\n<td>19</td>\n<td>10</td>\n<td>7</td>\n<td>6</td>\n</tr>\n</tbody>\n</table><p>(a) Construct a cumulative frequency table for the distribution.</p><p>(b) Draw a cumulative frequency curve (Ogive)</p><p>(c) From your Ogive, find the : (i) median age ; (ii) number of people who are at most 15 years of age ; (iii) number of people who are between 20 and 25 years of age.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Age in years</td>\n<td>No of people</td>\n<td>Cum Freq</td>\n</tr>\n<tr>\n<td>10</td>\n<td>8</td>\n<td>8</td>\n</tr>\n<tr>\n<td>15</td>\n<td>19</td>\n<td>27</td>\n</tr>\n<tr>\n<td>20</td>\n<td>10</td>\n<td>37</td>\n</tr>\n<tr>\n<td>25</td>\n<td>7</td>\n<td>44</td>\n</tr>\n<tr>\n<td>30</td>\n<td>6</td>\n<td>50</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0352%20%283%29.jpg\" style=\"width:400px\"></p><p>(c)(i) Median age = 14.5 years</p><p>(ii) Number of people who are at most 15 years of age = 27 people</p><p>(iii) Number of people who are between 20 and 25 years = people who are 25 years - people who are 20 years</p><p>= 44 - 37 = 7 people</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1994,
+        "question": "<p>(a) Copy and complete the following table of values for \\(y = 2x^{2} - 9x - 1\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td>-1</td>\n<td>-8</td>\n<td>-11</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>17</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2cm to represent 1 unit on the x- axis and 2cm to represent 5 units on the y- axis, draw the graph of \\(y = 2x^{2} - 9x - 1\\).</p><p>(c) Use your graph to find the : (i) roots of the equation \\(2x^{2} - 9x = 4\\), correct to one decimal place ; (ii) gradient of the curve \\(y = 2x^{2} - 9x - 1\\) at x = 3.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>y</td>\n<td>10</td>\n<td>-1</td>\n<td>-8</td>\n<td>-11</td>\n<td>-10</td>\n<td>-5</td>\n<td>4</td>\n<td>17</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0354%20%282%29.jpg\" style=\"height:396px; width:400px\"></p><p>(c)(i) \\(2x^{2} - 9x = 4\\)</p><p>\\(2x^{2} - 9x - 1 = 4 - 1 = 3\\)</p><p>At y = 3, x = 0.2 and 4.3.</p><p>(ii) Gradient of \\(y = 2x^{2} - 9x - 1\\) at x = 3</p><p>= \\(\\frac{BC}{AB} = \\frac{9.5}{4.3}\\)</p><p>= \\(2.2\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1994,
+        "question": "<p>(a) The fourth term of an A.P is 37 and 6th term is 12 more than the fourth term . Find the first and seventh terms.</p><p>(b) If \\(P = {1, 2, 3, 4}\\) and \\(Q = {3, 5, 6}\\), find (i) \\(P \\cap Q\\) ; (ii) \\(P \\cup Q\\) ; (iii) \\((P \\cap Q) \\cup Q\\) ; (iv) \\((P \\cap Q) \\cup P\\).</p>",
+        "answer": "<p>(a) \\(T_{n} = a + (n - 1)d\\) (nth term of an A.P)</p><p>\\(T_{4} = a + 3d = 37 ... (1)\\)</p><p>\\(T_{6} = a + 5d = 12 + 37 = 49 ... (2)\\)</p><p>(2) - (1) : \\(2d = 12 \\implies d = 6\\)</p><p>\\(a + 3d = 37 \\implies a + 3(6) = 37\\)</p><p>\\(a + 18 = 37 \\implies a = 37 - 18 = 19\\)</p><p>\\(T_{7} = a + 6d = 19 + 6(6) = 19 + 36 = 55\\)</p><p>(b) \\(P = {1, 2, 3, 4} ; Q = {3, 5, 6}\\)</p><p>(i) \\(P \\cap Q = {3}\\)</p><p>(ii) \\(P \\cup Q = {1, 2, 3, 4, 5, 6}\\)</p><p>(iii) \\((P \\cap Q) \\cup Q = {3, 5, 6}\\)</p><p>(iv) \\((P \\cap Q) \\cup P = {1, 2, 3, 4}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1994,
+        "question": "<p>(a) Two points X(32°N, 47°W) and Y(32°N, 25°E) are on the earth's surface. If it takes an aeroplane 11 hours to fly from X to Y along the parallel of latitude, calculate its speed, correct to the nearest kilometre per hour. [Radius of the earth = 6400km; \\(\\pi = \\frac{22}{7}\\)]</p><p>(b) Two observers P and Q, 15metres apart observe a kite (K) in the same vertical plane and from the same side of the kite. The angles of elevation of the kite from P and Q are 35° and 45° respectively. Find the height of the kite to the nearest metre.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0352%20%284%29.jpg\" style=\"height:151px; width:300px\"></p><p>Difference in longitude = 47° + 25° = 72°</p><p>Distance /XY/ = \\(\\frac{\\theta}{360°} \\times 2\\pi r\\)</p><p>Where \\(r = R \\cos 32°\\)</p><p>\\(\\therefore /XY/ = \\frac{72}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\times \\cos 32\\)</p><p>= \\(2 \\times \\frac{22}{7} \\times 1280 \\times 0.8480\\)</p><p>= \\(6822.765km\\)</p><p>\\(Speed = \\frac{Distance}{Time}\\)</p><p>= \\(\\frac{6822.766}{11} = 620.25 km/h\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0354%20%283%29.jpg\" style=\"height:159px; width:250px\">\\</p><p>\\( &lt;TQP  = 180° - 45° = 135°\\) (angles on a straight line)</p><p>\\(&lt; QTP = 180° - (135° + 35°) = 10°\\) (sum of angles in a triangle)</p><p>\\(\\frac{TQ}{\\sin 35°} = \\frac{15}{\\sin 10°}\\)</p><p>\\(\\therefore TQ = \\frac{15 \\sin 35°}{\\sin 10°}\\)</p><p>= \\(49.546m\\)</p><p>\\(\\therefore \\sin 45° = \\frac{TA}{TQ}\\)</p><p>\\(\\sin 45° = \\frac{TA}{49.546}\\)</p><p>\\(TA = 49.546 \\times 0.7071 = 35.03m\\)</p><p>\\(\\therefore\\) The height of the kite = 35m (correct to the nearest whole number)</p>",
+        "type": "theory"
+    }
+]

@@ -1,0 +1,786 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2016,
+        "question": "If 23<sub>x</sub>+ 101<sub>x</sub>= 130<sub>x</sub>, find the value of x",
+        "explanation": "23<sub>x</sub>+ 101<sub>x</sub>= 130<sub>x</sub><br><br>2 x X<sup>1</sup>+ 3 x X<sup>o</sup>+ 1 x X<sup>2</sup>+ 0 x X<sup>1</sup>+ 1 x X<sup>o</sup><br><br>= 1 x X<sup>o</sup>= 1 x X<sup>2</sup>+ 3 x X<sup>1</sup>+ 0 x X<sup>o</sup><br><br>= X<sup>2</sup>+ 3x + 0<br><br>2x + 3 = x<sup>2</sup>+ 0 + 1 + x<sup>2</sup>+ 3x<br><br>2x - 3x + x<sup>2</sup>- x<sup>2</sup>= -3 - 1<br><br>- x = -4<br><br>x = 4",
+        "correctIndex": 3,
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2016,
+        "question": "Simplify: (\\(\\frac{3}{4} - \\frac{2}{3}\\)) x 1\\(\\frac{1}{5}\\)",
+        "explanation": "(\\(\\frac{3}{4} - \\frac{2}{3}\\)) x 1\\(\\frac{1}{5}\\)<br><br>= (\\(\\frac{9 - 8}{12} \\times \\frac{6}{5}\\))<br><br>= \\(\\frac{1}{12} \\times \\frac{6}{5}\\)<br><br>= \\(\\frac{1}{10}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{60}\\)",
+            "\\(\\frac{5}{72}\\)",
+            "\\(\\frac{1}{10}\\)",
+            "1\\(\\frac{7}{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2016,
+        "question": "Simplify:(\\(\\frac{10\\sqrt{3}}{\\sqrt{5}} - \\sqrt{15}\\))<sup>2</sup>",
+        "explanation": "Note that \\(\\frac{10\\sqrt{3}}{\\sqrt{5}} = \\frac{10\\sqrt{3}}{\\sqrt{5}} \\times - \\frac{\\sqrt{5}}{\\sqrt{5}}\\)<br><br>= \\(\\frac{10\\sqrt{15}}{\\sqrt{5}} = 2\\sqrt{15}\\)<br><br>hence, (\\(\\frac{10\\sqrt{3}}{\\sqrt{5}} - \\sqrt{15}\\))<sup>2</sup>= (\\(2\\sqrt{15} - \\sqrt{15}\\))<sup>2</sup><br><br>= (\\(2\\sqrt{15} - \\sqrt{15}\\))(\\(2\\sqrt{15} - \\sqrt{15}\\))<br><br>= 4\\(\\sqrt{15 \\times 15} - 2\\sqrt{15 \\times 15} - 2\\sqrt{15 x 15} + \\sqrt{15 \\times 15}\\)<br><br>= 4 x 15 - 2 x 15 - 2 x 15 + 15<br><br>= 60 - 30 - 30 + 15<br><br>= 15",
+        "correctIndex": 1,
+        "options": [
+            "75.00",
+            "15.00",
+            "8.66",
+            "3.87"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2016,
+        "question": "The distance, d, through which a stone falls from rest varies directly as the square of the time, t, taken. If the stone falls 45cm in 3 seconds, how far will it fall in 6 seconds?",
+        "explanation": "d \\(\\alpha\\) t<sup>2</sup><br><br>d = t<sup>2</sup>k<br><br>where k is a constant. d = 45cm, when t = 3s; thus 45 = 3<sup>2</sup>x t<br><br>k = \\(\\frac{45}{9}\\) = 5<br><br>thus equation connecting d and t is d = 5t<sup>2</sup><br><br>when t = 6s, d = 5 x 6<sup>2</sup><br><br>= 5 x 36<br><br>= 180cm",
+        "correctIndex": 2,
+        "options": [
+            "90cm",
+            "135cm",
+            "180cm",
+            "225cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2016,
+        "question": "Which of following is a valid conclusion from the premise. \"Nigeria footballers are good footballers\"?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13337091243_15497726_1260404444024220_1410115946_n.jpg\" class=\"img-fluid\">\n</div>From the venn diagram, Nigeria footballers from a subset of good footballers.",
+        "correctIndex": 2,
+        "options": [
+            "Joseph plays football in Nigeria therefore he is a good footballer",
+            "Joseph is a good footballer therefore he is a Nigerian footballer",
+            "Joseph is a Nigerian footballer therefore he is a good footballer",
+            "Joseph plays good football therefore he is a Nigerian footballer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2016,
+        "question": "On a map, 1cm represent 5km. Find the area on the map that represents 100km<sup>2</sup>.",
+        "explanation": "On a map, 1cm represents 5km. Then it follows that 1cm<sup>2</sup>represents 25km<sup>2</sup>. Acm<sup>2</sup>represents 100km<sup>2</sup>. By apparent cross-multiplication, 1cm<sup>2</sup>x 100km<sup>2</sup>= Acm<sup>2</sup>x 25km<sup>2</sup><br><br>therefore A = \\(\\frac{100}{25}\\) = 4cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2cm<sup>2</sup>",
+            "4cm<sup>2</sup>",
+            "8cm<sup>2</sup>",
+            "8cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2016,
+        "question": "Simplify; \\(\\frac{3^{n - 1} \\times 27^{n + 1}}{81^{n}}\\)",
+        "explanation": "\\(\\frac{3^{n - 1} \\times 27^{n + 1}}{81^{n}}\\)<br><br>= \\(\\frac{3^{n - 1} \\times 3^{3(n + 1)}}{3^{4n}}\\)<br><br>= 3\\(^{n - 1 + 3n + 3 - 4n}\\)<br><br>= 3\\(^{4n - 4n - 1 + 3}\\)<br><br>= 3<sup>2</sup><br><br>= 9",
+        "correctIndex": 1,
+        "options": [
+            "3<sup>2n</sup>",
+            "9",
+            "3<sup>n</sup>",
+            "3<sup>n + 1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2016,
+        "question": "What sum of money will amount to D10,400 in 5 years at 6% simple interest?",
+        "explanation": "A = P + 1<br><br>I = A - P<br><br>= 10,400 - P<br><br>Now using I = \\(\\frac{P \\times T \\times R}{100}\\)<br><br>i.e. 10,400 - P = \\(\\frac{P \\times 5 \\times 6}{100}\\)<br><br>= 100(10,400 - P) = 30P<br><br>10(10,400 - P) = 3P<br><br>104,000 - 10P = 3P<br><br>104,000 - 10P = 3P<br><br>104,000 = 3P + 10P<br><br>= 104,000 = 13P<br><br>P = \\(\\frac{104,000}{100}\\)<br><br>P = D8,000",
+        "correctIndex": 0,
+        "options": [
+            "D8,000.00",
+            "D10,000.00",
+            "D12,000.00",
+            "D16,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2016,
+        "question": "The roots of a quadratic equation are \\(\\frac{4}{3}\\) and -\\(\\frac{3}{7}\\). Find the equation",
+        "explanation": "Let x = \\(\\frac{4}{3}\\), x = -\\(\\frac{3}{7}\\)<br><br>Then 3x = 4, 7x = -3<br><br>3x - 4 = 0, 7x + 3 = 0<br><br>(3x - 4)(7x + 3) = 0<br><br>21x<sup>2</sup>+ 9x - 28x - 12 = 0<br><br>21x<sup>2</sup>- 19x - 12 = 0",
+        "correctIndex": 0,
+        "options": [
+            "21x<sup>2</sup>- 19x - 12 = 0",
+            "21x<sup>2</sup>+ 37x - 12 = 0",
+            "21x<sup>2</sup>- x + 12 = 0",
+            "21x<sup>2</sup>+ 7x - 4 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2016,
+        "question": "Find the values of y for which the expression \\(\\frac{y^2 - 9y + 18}{y^2 + 4y - 21}\\) is undefined",
+        "explanation": "\\(\\frac{y^2 - 9y + 18}{y^2 + 4y - 21}\\)<br><br>Factorize the denominator;<br><br>Y<sup>2</sup>+ 7y - 3y - 21<br><br>= y(y + 7) -3 (y + 7)<br><br>= (y - 3)(y + 7)<br><br>Hence the expression \\(\\frac{y^2 - 9y + 18}{y^2 + 4y - 21}\\) is undefined<br><br>when y<sup>2</sup>+ 4y - 21 = 0<br><br>ie. y = 3 or -7",
+        "correctIndex": 2,
+        "options": [
+            "6, -7",
+            "3, -6",
+            "3, -7",
+            "-3, -7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2016,
+        "question": "Given that 2x + y = 7 and 3x - 2y = 3, by how much is 7x greater than 10?",
+        "explanation": "2x + y = 7...(1)<br><br>3x - 2y = 3...(2)<br><br>From (1), y = 7 - 2x for y in (2)<br><br>3x - 2(7 - 2x) = 3<br><br>3x - 14 + 4x = 3<br><br>7x + 3 + 14 = 17<br><br>x = \\(\\frac{17}{7}\\)<br><br>Hence, 7 x \\(\\frac{17}{7}\\)<br><br>= 17 - 10<br><br>= 7",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "3",
+            "7",
+            "17"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2016,
+        "question": "Simplify; \\(\\frac{2}{1 - x} - \\frac{1}{x}\\)",
+        "explanation": "\\(\\frac{2}{1 - x} - \\frac{1}{x}\\) = \\(\\frac{2x - 1(1 - x)}{x(1 - x)}\\)<br><br>= \\(\\frac{2x - 1(1 + x)}{x(1 - x)}\\)<br><br>= \\(\\frac{3x - 1}{x(1 - x)}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{x + 1}{x(1 - x)}\\)",
+            "\\(\\frac{3x - 1}{ x(1 - x)}\\)",
+            "\\(\\frac{3x + 1}{ x(1 - x)}\\)",
+            "\\(\\frac{x + 1}{ x(1 - x)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2016,
+        "question": "Make s the subject of the relation: P = S + \\(\\frac{sm^2}{nr}\\)",
+        "explanation": "P = S + \\(\\frac{sm^2}{nr}\\)<br><br>P = S(1 + \\(\\frac{m^2}{nr}\\))<br><br>P = S(1 + \\(\\frac{nr + m^2}{nr}\\))<br><br>nrp = S(nr + m<sup>2</sup>)<br><br>S = \\(\\frac{nrp}{nr + m^2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "s = \\(\\frac{mrp}{nr + m^2}\\)",
+            "s = \\(\\frac{nr + m^2}{mrp}\\)",
+            "s = \\(\\frac{nrp}{mr + m^2}\\)",
+            "s = \\(\\frac{nrp}{nr + m^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2016,
+        "question": "Factorize; (2x + 3y)<sup>2</sup>- (x - 4y)<sup>2</sup>",
+        "explanation": "(2x + 3y)<sup>2</sup>- (x - 4y)<sup>2</sup><br><br>= (2x + 3y)(2x + 3y) - (x - 4y)(x - 4y)<br><br>= 4x<sup>2</sup>+ 12xy + 9y<sup>2</sup>- (x<sup>2</sup>- 8xy+ 16y<sup>2</sup>)<br><br>= 4x<sup>2</sup>+ 12xy + 19y<sup>2</sup>- x<sup>2</sup>+ 8xy - 16y<sup>2</sup><br><br>= 3x<sup>2</sup>+ 20xy - 7y<sup>2</sup><br><br>= 3x<sup>2</sup>+ 21xy - xy - 7y<sup>2</sup><br><br>= 3x(x + 7y) - y(x + 7y)<br><br>= (3x - y)(x + 7y)",
+        "correctIndex": 0,
+        "options": [
+            "(3x - y)(x + 7y)",
+            "(3x + y)(2x - 7y)",
+            "(3x + y)(x - 7y)",
+            "(3x - y)(2x + 7y)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2016,
+        "question": "The curve surface area of a cylinder, 5cm high is 110cm<sup>2</sup>. Find the radius of its base. [Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "Curved surface area of cylinder = 2\\(\\pi\\)rh<br><br>110 = 2 x \\(\\frac{22}{7}\\) x r x 5<br><br>r = \\(\\frac{110 \\times 7}{44 \\times 5}\\)<br><br>= 3.5cm",
+        "correctIndex": 1,
+        "options": [
+            "2.6cm",
+            "3.5cm",
+            "3.6cm",
+            "7.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2016,
+        "question": "The volume of a pyramid with height 15cm is 90cm<sup>3</sup>. If its base is a rectangle with dimension xcm by 6cm, find the value of x",
+        "explanation": "Volume of pyramid = \\(\\frac{1}{3}\\)lbh<br><br>90 = \\(\\frac{1}{3} \\times x \\times 6 \\times 15\\)<br><br>x = \\(\\frac{90 \\times 33}{6 \\times 15}\\)<br><br>= 3",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "5",
+            "6",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2016,
+        "question": "<p>A straight line passes through the points P(1,2) and Q(5,8). Calculate the gradient of the line PQ</p>",
+        "explanation": "<p>Let: (x1, y1) = (1, 2)<br>\n<br>\n(x2, y2) = (5, 8)<br>\n<br>\nThe gradient m of \\(\\bar{PQ}\\) is given by<br>\n<br>\nm = \\(\\frac{y_2 y_1}{x_2 - x_1}\\)<br>\n<br>\n= \\(\\frac{8 - 2}{5 - 1}\\)<br>\n<br>\n= \\(\\frac{6}{4}\\)<br>\n<br>\n= \\(\\frac{3}{2}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{5}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2016,
+        "question": "A straight line passes through the point P(1,2) and Q<br>(5,8). Calculate the length PQ",
+        "explanation": "|PQ| = \\(\\sqrt{(x_2 - X- 1) + (y_2 - y_1)^2}\\)<br><br>= \\(\\sqrt{(5 - 1)^2 + (8 - 2)^2}\\)<br><br>= \\(\\sqrt{4^2 + 6^2}\\)<br><br>= \\(\\sqrt{16 + 36}\\)<br><br>= \\(\\sqrt{52}\\)<br><br>= 2\\(\\sqrt{13}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(4\\sqrt{11}\\)",
+            "\\(4\\sqrt{10}\\)",
+            "\\(2\\sqrt{17}\\)",
+            "\\(2\\sqrt{13}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2016,
+        "question": "If cos \\(\\theta\\) = x and sin 60<sup>o</sup>= x + 0.5 0<sup>o</sup>&lt; \\(\\theta\\) &lt; 90<sup>o</sup>, find, correct to the nearest degree, the value of \\(\\theta\\)",
+        "explanation": "sin 60<sup>o</sup>= x + 0.5 0<sup>o</sup>(given)<br><br>0.8660 = x + 0.5<br><br>0.8660 - 0.5 = x<br><br>x = 0.3660<br><br>cos\\(\\theta\\) = x(given)<br><br>cos\\(\\theta\\) = 0.3660<br><br>Hence, \\(\\theta\\) = cos<sup>-1</sup>(0.3660)<br><br>= 68.53<sup>o</sup><br><br>= 69<sup>o</sup>(nearest degree)",
+        "correctIndex": 3,
+        "options": [
+            "32<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "69<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2016,
+        "question": "\\(\\begin{array}{c|c}<br>Age(years) &amp; 13 &amp; 14 &amp; 15 &amp; 16 &amp; 17 \\\\<br>\\hline<br>Frequency &amp; 10 &amp; 24 &amp; 8 &amp; 5 &amp; 3<br>\\end{array}\\)<br><br>The table shows the ages of students in a club. How many students are in the club?",
+        "explanation": "Number of students in the club is<br><br>10 + 24 + 8 + 5 + 3 = 50",
+        "correctIndex": 0,
+        "options": [
+            "50",
+            "55",
+            "60",
+            "65"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2016,
+        "question": "\\(\\begin{array}{c|c}<br>Age(years) &amp; 13 &amp; 14 &amp; 15 &amp; 16 &amp; 17 \\\\<br>\\hline<br>Frequency &amp; 10 &amp; 24 &amp; 8 &amp; 5 &amp; 3<br>\\end{array}\\)<br>Find the median age",
+        "explanation": "Median = \\(\\frac{N}{2}\\)th age<br><br>= \\(\\frac{50}{2}\\)th age<br><br>= 25th age<br><br>= 14 years",
+        "correctIndex": 1,
+        "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8893339002_15666321_1263169527081045_759087248_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In the diagram above, x1 = 50(angles in alternate segment)<br>\n<br>\nx1 = x2(base angles of isos. \\(\\Delta\\))<br>\n<br>\n&lt; UXY + x2 + 50o = 180o(sum of angles on a straight line)<br>\n<br>\n&lt; UXY + 50o + 50o = 180p<br>\n<br>\n&lt; UXY + 100o = 180o<br>\n<br>\n&lt; UXY = 180o - 100o<br>\n<br>\n= 80o</p>",
+        "correctIndex": 1,
+        "options": [
+            "70<sup>o</sup>",
+            "80<sup>o</sup>",
+            "105<sup>o</sup>",
+            "110<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5928964352_15591913_1263169063747758_1460323577_n.jpg\" class=\"img-fluid\">",
+        "explanation": "In In the diagram given, \\(\\alpha\\) = 22<sup>o</sup>(vertically opp. angles), \\(\\alpha\\) = \\(\\beta\\) (alternate angles)<br><br>&lt; PSQ + 133<sup>o</sup>+ \\(\\beta\\) = 180<sup>o</sup>(sum of angles of a \\(\\Delta\\))<br><br>&lt; PSQ + 133<sup>o</sup>+ 22<sup>o</sup>= 180<sup>o</sup><br><br>&lt; PSQ = 180<sup>o</sup>- (133 + 22)<sup>o</sup><br><br>45<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "22<sup>o</sup>",
+            "45<sup>o</sup>",
+            "67<sup>o</sup>",
+            "89<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28162386283_15592368_1263164870414844_834395803_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/1482230857_15644269_1263796680351663_1325680491_n(1).jpg\" class=\"img-fluid\">\n</div>In the diagram above, \\(\\alpha\\) = 2m<sup>o</sup>(angle at centre = 2 x angle at circumference)<br><br>\\(\\alpha\\) + 10m<sup>o</sup>= 360<sup>o</sup>(angle at circumference)<br><br>\\(\\alpha\\) + 10m<sup>o</sup>= 360<sup>o</sup>(angles round a point)<br><br>2m<sup>o</sup>+ 10m<sup>o</sup>= 360<sup>o</sup><br><br>12m<sup>o</sup>= 360<sup>o</sup><br><br>m<sup>o</sup>= \\(\\frac{360^o}{12}\\)<br><br>= 30<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "30",
+            "36",
+            "40",
+            "72"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2016,
+        "question": "Kweku walked 8m up to slope and was 3m above the ground. If he walks 12m further up the slope, how far above the ground will he be?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/16304542947_15644904_1263796037018394_1922614783_n(1).jpg\" class=\"img-fluid\">\n</div>By similar triangles, \\(\\frac{8}{3}\\) = \\(\\frac{8 + 12}{h}\\)<br><br>\\(\\frac{8}{3} = \\frac{20}{h}\\)<br><br>h = \\(\\frac{3 \\times 20}{8}\\)<br><br>= 7.5m",
+        "correctIndex": 2,
+        "options": [
+            "4.5m",
+            "6.0m",
+            "7.5m",
+            "9.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16304549866_15645427_1263785183686146_156143416_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19269013478_15645427_1263785183686146_156143416_n.jpg\" class=\"img-fluid\">\n</div>In the diagram above, x<sub>1</sub>= 180<sup>o</sup>- 117<sup>o</sup>= 63<sup>o</sup>(opposite angles of a cyclic quad.)<br><br>x<sub>1</sub>= x<sub>2</sub>(base angles of isos. \\(\\Delta\\))<br><br>x<sub>1</sub>+ x<sub>2</sub>+ \\(\\alpha\\) = 180<sup>o</sup>(sum of angles of a \\(\\Delta\\)<br><br>63<sup>o</sup>+ 63<sup>o</sup>+ \\(\\alpha\\) = 180<sup>o</sup><br><br>\\(\\alpha\\) = 180<sup>o</sup>- (63 + 63)<sup>o</sup><br><br>= 54<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "54<sup>o</sup>",
+            "44<sup>o</sup>",
+            "34<sup>o</sup>",
+            "27<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11857856936_15645474_1263170777080920_893016875_n.jpg\" class=\"img-fluid\">",
+        "explanation": "In the diagram, &lt; TUQ + 60<sup>o</sup>(corresp. angles)<br><br>&lt; QTU = 48<sup>o</sup>(alternate angles)<br><br>&lt; QU + 60<sup>o</sup>+ 48<sup>o</sup>= 180<sup>o</sup>(sum of angles of a \\(\\Delta\\))<br><br>&lt; TQU = 180<sup>o</sup>- 108<sup>o</sup><br><br>= 72<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "120<sup>o</sup>",
+            "108<sup>o</sup>",
+            "72<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26680278006_15644503_1263171263747538_2008796132_n.jpg\" class=\"img-fluid\">",
+        "explanation": "In \\(\\Delta\\) UXT, tan\\(\\alpha\\) = \\(\\frac{1}{\\sqrt{3}}\\)<br><br>\\(\\alpha\\) = tan<sup>-1</sup>(\\(\\frac{1}{\\sqrt{3}}\\))<br><br>= 30<sup>o</sup><br><br>In \\(\\Delta\\)WXT, tan\\(\\beta\\) \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\) = 1<br><br>\\(\\beta\\) = tan<sup>-1</sup>(1) = 45<sup>o</sup><br><br>Hence, &lt; UTW = \\(\\alpha\\) + \\(\\beta\\)<br><br>= 30<sup>o</sup>+ 45<sup>o</sup>= 75<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "135<sup>o</sup>",
+            "105<sup>o</sup>",
+            "75<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10375667106_15673148_1263857170345614_1361153412_n.jpg\" class=\"img-fluid\">",
+        "explanation": "sectoral angle representing food<br><br>= 360<sup>o</sup>- (80 + 70 + 90)<sup>o</sup><br><br>= 120<sup>o</sup><br><br>Amount spent on food<br><br>= \\(\\frac{\\tect{sectoral angle}}{360^o}\\) x Le 10,800,000<br><br>= Le 3,600,000",
+        "correctIndex": 2,
+        "options": [
+            "Le 2,250,000.00",
+            "Le 22,700,000.00",
+            "Le 3,600,000.00",
+            "Le 4,500,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2016,
+        "question": "A fair die is thrown two times. What is the probability that the sum of the scores is at least 10?",
+        "explanation": "\\(\\begin{array}{c|c}<br>&amp; 1 &amp; 2 &amp; 3 &amp; 4 &amp; 5 &amp; 6 \\\\<br>\\hline<br>1 &amp; 1,1 &amp; 1,2 &amp; 1,3 &amp; 1,4 &amp; 1,5 &amp; 1,6 \\\\ \\hline 2 &amp; 2,1 &amp; 2,2 &amp; 2,3 &amp; 2,4 &amp; 2,4 &amp; 2,5 &amp; 2,6 \\\\ \\hline 3 &amp; 3,1 &amp; 3,2 &amp; 3,3 &amp; 3,4 &amp; 3,5 &amp; 3,6 \\\\ \\hline 4 &amp; 4,1 &amp; 4,1 &amp; 4,2 &amp; 4,3 &amp; 4,4 &amp; 4,5 &amp; 4,6 \\\\ 5 &amp; 5,1 &amp; 5,2 &amp; 5,3 &amp; 5,4 &amp; 5,5 &amp; 5,6 \\\\ \\hline 6 &amp; 6,1 &amp; 6,2 &amp; 6,3 &amp; 6,4 &amp; 6,5 &amp; 6,6\\end{array}\\)<br><br>From the table above, event space, n(E) = 6<br><br>sample space, n(S) = 36<br><br>Hence, probability sum of scores is at least 10, is;<br><br>\\(\\frac{n(E)}{n(S)}\\)<br><br>= \\(\\frac{6}{36}\\)<br><br>= \\(\\frac{1}{6}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{5}{36}\\)",
+            "\\(\\frac{1}{6}\\)",
+            "\\(\\frac{5}{18}\\)",
+            "\\(\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2016,
+        "question": "The marks of eight students in a test are: 3, 10, 4, 5, 14, 13, 16 and 7. Find the range",
+        "explanation": "First, arrange the marks in order of magnitude; 3, 4, 5, 7, 10, 13, 14, 16<br><br>Hence range = 16 - 3 = 13",
+        "correctIndex": 2,
+        "options": [
+            "16",
+            "14",
+            "13",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2016,
+        "question": "If log<sub>2</sub>(3x - 1) = 5, find x.",
+        "explanation": "Log<sub>2</sub>(3x - 1) = 5<br><br>Log<sub>2</sub>(3x - 1) = Log<sub>2</sub>2<sup>5</sup><br><br>Log<sub>2</sub>(3x - 1) = Log<sub>2</sub>32<br><br>3x - 1 = 32<br><br>3x = 32 + 1 = 33<br><br>x = \\(\\frac{33}{3}\\)<br><br>= 11",
+        "correctIndex": 3,
+        "options": [
+            "2.00",
+            "3.67",
+            "8.67",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2016,
+        "question": "A sphere of radius rcm has the same volume as cylinder of radius 3cm and height 4cm. Find the value of r",
+        "explanation": "Volume of sphere = Volume of cylinder<br><br>i.e. \\(\\frac{4}{3} \\pi r^3 = \\pi r^2 h\\)<br><br>\\(\\frac{4}{3} \\pi r^3 = \\pi \\times 3^2 \\times 4\\)<br><br>r<sup>3</sup>= \\(\\frac{\\pi \\times 9 \\times 4 \\times 3}{4 \\pi}\\)<br><br>r = 3\\(\\sqrt{27}\\)<br><br>= 3",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2}{3}\\)",
+            "2",
+            "3",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2016,
+        "question": "Express 1975 correct to 2 significant figures",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "20",
+            "1,900",
+            "1,980",
+            "2,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17786902320_15666383_1263856643679000_724997235_n.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of \\(\\Delta\\) QNP = \\(\\frac{1}{2} \\times 9 \\times 6 \\) = 27cm<sup>2</sup><br><br>Area of \\(\\Delta\\) QMN = Area of \\(\\Delta\\) QNP<br><br>= Area of \\(\\Delta\\) PNO (triangles between the same parallels)<br><br>Hence, area of the trapezium<br><br>3 x area of \\(\\Delta\\) QNP<br><br>= 3 x 27<br><br>= 81cm<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "96cm<sup>2</sup>",
+            "90cm<sup>2</sup>",
+            "81cm<sup>2</sup>",
+            "27cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2016,
+        "question": "The perimeter of a sector of a circle of radius 21cm is 64cm. Find the angle of the sector [Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "Perimeter of a sector<br><br>= 2r + \\(\\frac{\\theta}{360^o}\\) x 2 x \\(\\frac{22}{7}\\) x 21<br><br>64 = 2 x 21 + \\(\\frac{\\theta}{360^o}\\) x 2 x \\(\\frac{22}{7}\\) x 21<br><br>64 = 42 + \\(\\frac{\\theta}{360^o}\\) x 44 x 3<br><br>64 - 42 = \\(\\frac{\\theta}{360^o}\\) x 11 x 3<br><br>22 = \\(\\frac{33\\theta}{90}\\)<br><br>\\(\\theta = \\frac{22 \\times 30}{11}\\)<br><br>= 60<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "70<sup>o</sup>",
+            "60<sup>o</sup>",
+            "55<sup>o</sup>",
+            "42<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25198141693_15645567_1263856207012377_894658571_n.jpg\" class=\"img-fluid\">",
+        "explanation": "From the venn diagram given,<br><br>M = (a, b, c), N = (c, f, g)<br><br>U = (a, b, c, d, e, f, g)<br><br>Thus M' \\(\\cap\\) N = (e, f, g) \\(\\cap\\) (c, f, g)<br><br>= (f, g)",
+        "correctIndex": 0,
+        "options": [
+            "{f, g}",
+            "{e}",
+            "{e, f, g}",
+            "{e, f, g}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2016,
+        "question": "If 20(mod 9) is equivalent to y(mod 6), find y.",
+        "explanation": "First, reduce 20(mod 9) to its simplest form in mod 9; 9 x 2 + 2 = 2(mod 9)<br><br>If 2(mod 9) y(mod 6), then y = 2 by comparism",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2016,
+        "question": "Simplify \\(\\frac{(p - r)^2 - r^2}{2p^2 - 4pr}\\)",
+        "explanation": "\\(\\frac{(p - r)^2 - r^2}{2p^2 - 4pr}\\)<br><br>= \\(\\frac{(p - r)(p - r) - r^2}{2p^2 - 4pr}\\)\\<br><br>= \\(\\frac{p^2 - 2pr + r^2 - r^2}{2p(p - 2r}\\)<br><br>= \\(\\frac{p^2 - 2pr}{2p(p - 2r)}\\)<br><br>= \\(\\frac{p(p - 2r)}{2p(p - 2r)}\\)<br><br>= \\(\\frac{1}{2}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{2}\\)",
+            "p - 2r",
+            "\\(\\frac{1}{p - 2r}\\)",
+            "\\(\\frac{2p}{p - 2r}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20751428992_15666358_1263857650345566_83405170_n.jpg\" class=\"img-fluid\">",
+        "explanation": "In the diagram, &lt; RPQ = 80<sup>o</sup>(angles in same segment)<br><br>&lt; SPR = 100<sup>o</sup>- &lt; RPQ<br><br>= 100 - 80<br><br>= 20<sup>o</sup><br><br>&lt; SQR = &lt; SPR = 20<sup>o</sup>(same reason as above)<br><br>&lt; SQR = 20<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2016,
+        "question": "A bag contains 5 red and 4 blue identical balls. Id two balls are selected at random from the bag, one after the other, with replacement, find the probability that the first is red and the second is blue",
+        "explanation": "n(red balls) = 5<br><br>n(blue balls) = 4<br><br>n(\\(\\iff\\)) = 9<br><br>Hence, prob (R<sub>1</sub>, B<sub>2</sub>)<br><br>= \\(\\frac{5}{9} \\times \\frac{4}{9}\\)<br><br>= \\(\\frac{20}{81}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2}{9}\\)",
+            "\\(\\frac{5}{18}\\)",
+            "\\(\\frac{20}{81}\\)",
+            "\\(\\frac{5}{9}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2016,
+        "question": "The relation y = x<sup>2</sup>+ 2x + k passes through the point (2,0). Find the value of k",
+        "explanation": "Y = x<sup>2</sup>+ 2x + k (given)<br><br>y = o when x = 2<br><br>thus 0 = 2<sup>2</sup>+ 2 x 2 + k<br><br>0 = 4 + 4 + k<br><br>given k = -8",
+        "correctIndex": 0,
+        "options": [
+            "- 8",
+            "- 4",
+            "4",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2016,
+        "question": "Find the next three terms of the sequence; 0, 1, 1, 2, 3, 5, 8...",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "13, 19, 23",
+            "9, 11, 13",
+            "11, 15, 19",
+            "13, 21, 34"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10375736630_15682818_1263994106998587_1558656391_n.jpg\" class=\"img-fluid\">",
+        "explanation": "Lower quartile,<br><br>Q<sub>1</sub>= \\(\\frac{1}{4}\\)Nth term<br><br>= \\(\\frac{1}{4}\\) x 600th term<br><br>= 150th term<br><br>= 15.5 + 3 + 0.5<br><br>= 19",
+        "correctIndex": 1,
+        "options": [
+            "17.5",
+            "19.0",
+            "27.5",
+            "28.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2016,
+        "question": "The ratio of the exterior angle to the interior angle of a regular polygon is 1:11. How many sides has the polygon?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25198219077_15665987_1263861610345170_1811332308_n.jpg\" class=\"img-fluid\">\n</div>Let a represent an interior angle; e represent an exterior angle. A section of the polygon is down in the diagram.<br><br>\\(\\frac{e}{a}\\) = \\(\\frac{l}{11}\\) given<br><br>a = 11e<br><br>a + e = 180<sup>o</sup>(angles on a straight line)<br><br>11e + e = 180<sup>o</sup><br><br>12e = 180<sup>o</sup><br><br>e = \\(\\frac{180^o}{12}\\)<br><br>= 15<sup>o</sup><br><br>Hence, number of sides<br><br>= \\(\\frac{360^o}{\\tect{size of one exterior angle}\\)<br><br>= \\(\\frac{360^o}{14^o}\\)<br><br>= 24",
+        "correctIndex": 1,
+        "options": [
+            "30",
+            "24",
+            "18",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2016,
+        "question": "Halima is n years old. Her brother's age is 5 years more than half of her age. How old is her brother?",
+        "explanation": "Halima's age = n years old<br><br>Her brother's age = \\(\\frac{n}{2}\\) + 5",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{n}{2} + \\frac{5}{2}\\)",
+            "\\(\\frac{n}{2}\\) - 5",
+            "5 - \\(\\frac{n}{2}\\)",
+            "\\(\\frac{n}{2}\\) + 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4446746130_15644999_1263860050345326_613389625_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/1482248710_15645329_1263861377011860_318550107_n.jpg\" class=\"img-fluid\">\n</div>From the diagram<br><br>sin 70<sup>o</sup>= \\(\\frac{x}{10}\\)<br><br>x = 10sin 70<sup>o</sup><br><br>= 9.3969<br><br>Hence, length of chord MN = 2x<br><br>= 2 x 9.3969<br><br>= 18.7938<br><br>= 19cm (nearest cm)",
+        "correctIndex": 0,
+        "options": [
+            "19cm",
+            "18cm",
+            "17cm",
+            "12cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2016,
+        "question": "An object is 6m away from the base of a mast. If the angle of depression of the object from the top of the mast is 50<sup>o</sup>, find, correct to 2 decimal places, the height of the mast.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/28162732558_15666037_1263861720345159_1524888644_n.jpg\" class=\"img-fluid\">\n</div>In the diagram give, \\(\\alpha\\) 50<sup>o</sup>(alternative angles)<br><br>tan\\(\\alpha\\) = \\(\\frac{h}{6}\\)<br><br>h = 6tan\\(\\alpha\\)<br><br>= 6tan 50<sup>o</sup><br><br>= 6 x 1.1918<br><br>= 7.1508<br><br>= 7.15m (2d.p)",
+        "correctIndex": 3,
+        "options": [
+            "8.60m",
+            "7.83m",
+            "7.51m",
+            "7.15m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20751647476_15666477_1263858723678792_91815391_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/2964521068_15645232_1263894313675233_641538553_n.jpg\" class=\"img-fluid\">\n</div>In the diagram, \\(\\beta\\) = p(vertically opposite angles)<br><br>m + \\(\\beta\\) = n(sum of interior opp. angles)<br><br>m + p = n",
+        "correctIndex": 3,
+        "options": [
+            "m + n + p = 180<sup>o</sup>",
+            "m + n = 180<sup>o</sup>",
+            "m = p + n",
+            "n = m + p"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2013,
+        "question": "<p>(a) If the coefficient of \\(x^{2}\\) and \\(x^{3}\\) in the expansion of \\((p + qx)^{7}\\) are equal, express q in terms of p.</p><p>(b) A man makes a weekly contribution into a fund. In the first week, he paid N180.00, second week N260.00, third week N340.00 and so on. How much would he have contributed in 16 weeks?</p>",
+        "answer": "<p>(a) \\((p + qx)^{7} = p^{7} + 7p^{6} qx + 21p^{5} (qx)^{2} + 35p^{4} (qx)^{3} + 35p^{3} (qx)^{4} + 21p^{2} (qx)^{5} + 7p(qx)^{6} + (qx)^{7}\\)</p><p>The coefficient of \\(x^{2}\\) = \\(21p^{5} q^{2}\\)</p><p>The cofficient of \\(x^{3}\\) = \\(35p^{4} q^{3}\\)</p><p>\\(\\therefore 21p^{5} q^{2} = 35p^{4} q^{3}\\)</p><p>\\(\\implies 21p = 35q\\)</p><p>\\(q = \\frac{21}{35} p = \\frac{3}{5} p\\).</p><p>(b) N180 + N260 + N340 + ...</p><p>This sequence is a linear sequence with first term = a = 180, d = 80.</p><p>\\(S_{16} = ?\\)</p><p>\\(S_{n} = \\frac{n}{2} (2a + (n - 1) d)\\)</p><p>\\(S_{16} = \\frac{16}{2} (2(180) + (16 - 1) 80\\)</p><p>= \\(8(360 + 1200)\\)</p><p>= \\(8(1560)\\)</p><p>= \\(N12,480\\)</p><p>He would have contributed N12,480 by the 16th week.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2013,
+        "question": "<p>Calculate the gradient of the curve \\(x^{3} + y^{3} - 2xy = 11\\) at (2, -1).</p>",
+        "answer": "<p>\\(x^{3} + y^{3} - 2xy = 11\\)</p><p>Differentiating implicitly,</p><p>\\(3x^{2} + 3y^{2} \\frac{\\mathrm d y}{\\mathrm d x} - 2y - 2x \\frac{\\mathrm d y}{\\mathrm d x} = 0\\)</p><p>\\((3y^{2} - 2x) \\frac{\\mathrm d y}{\\mathrm d x} = 2y - 3x^{2}\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{2y - 3x^{2}}{3y^{2} - 2x}\\)</p><p>At (2, -1) , Gradient = \\(\\frac{2(-1) - 3(2^{2})}{3(-1)^{2} - 2(2)}\\)</p><p>= \\(\\frac{-2 - 12}{3 - 4}\\)</p><p>= \\(\\frac{-14}{-1} = 14\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2013,
+        "question": "<p>A side of a rectangle is three times the other. If the perimeter increases by 2%, find the percentage increase in the area of the rectangle.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%289%29.jpg\" style=\"height:124px; width:250px\"></p><p>Area, \\(A = 3x^{2}\\)</p><p>Perimeter, \\(P = 8x\\)</p><p>\\(\\therefore A = \\frac{3P^{2}}{64}\\)</p><p>Let \\(P_{1}\\) and \\(A_{1}\\) be the new perimeter and area respectively.</p><p>Perimeter increases by 2%</p><p>\\(\\therefore P_{1} = 1.02P\\) </p><p>\\(A_{1} = \\frac{3(1.02P)^{2}}{64}\\)</p><p>\\(\\frac{A_{1}}{A} = \\frac{3(1.02P)^{2}}{64} \\times \\frac{64}{3P^{2}}\\)</p><p>= 1.0404</p><p>\\(A_{1} = 1.0404A = A + 0.0404A\\)</p><p>Increase in A = 0.0404A.</p><p>% increase = \\(0.0404 \\times 100 = 4.04%\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2013,
+        "question": "<p>The line \\(2y = x + 3\\) meets the circle \\(x^{2} + y^{2} - 2x + 6y - 15 = 0\\) at points M and N, where N is in the first quadrant. Find the coordinates of M and N.</p>",
+        "answer": "<p>Line : \\(2y = x + 3\\)</p><p>\\(\\therefore y = \\frac{1}{2} (x + 3)\\)</p><p>\\(x^{2} + y^{2} - 2x + 6y - 15 = 0\\)</p><p>\\(x^{2} + (\\frac{1}{2} (x + 3))^{2} - 2x + 6(\\frac{1}{2} (x + 3)) - 15 = 0\\)</p><p>\\(x^{2} + \\frac{x^{2}}{4} + \\frac{6x}{4} + \\frac{9}{4} + 3x + 9 - 15 = 0\\)</p><p>\\(\\frac{5x^{2}}{4} + \\frac{10x}{4} - \\frac{15}{4} = 0\\)</p><p>\\(\\equiv 5x^{2} + 10x - 15 = 0\\)</p><p>\\(5x^{2} - 5x + 15x - 15 = 0 \\implies 5x(x - 1) + 15(x - 1) = 0\\)</p><p>\\((5x + 15)(x - 1) = 0 \\implies \\text{x = -3 or 1}\\)</p><p>When \\(x = -3\\), \\(y = \\frac{1}{2} (-3 + 3) = 0\\)</p><p>When \\(x = 1\\), \\(y = \\frac{1}{2} (1 + 3) = 2\\)</p><p>The coordinates are M(-3, 0) and N(1, 2).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2013,
+        "question": "<p>Three school prefects are to be chosen from four girls and five boys. What is the probability that :</p><p>(a) only boys will be chosen ;</p><p>(b) more girls than boys will be chosen ?</p>",
+        "answer": "<p>4 girls and 5 boys</p><p>(a) p(only boys) = \\(\\frac{^{5}C_{3}}{^{9}C_{3}}\\)</p><p>= \\(\\frac{5!}{2!3!} \\times \\frac{3!6!}{9!}\\)</p><p>= \\(\\frac{10 \\times 1}{84}\\)</p><p>= \\(\\frac{5}{42}\\)</p><p>(b) p(more girls than boys) = p(3 girls and no boys) or p(2 girls and 1 boy)</p><p>Number of ways of selecting = \\(^{4}C_{3} \\times ^{5}C_{0} + ^{4}C_{2} \\times ^{5}C_{1}\\)</p><p>= \\(4 \\times 1 + 6 \\times 5\\)</p><p>= 34 ways.</p><p>Without restrictions, selection can be made in \\(^{9}C_{3}\\) ways.</p><p>= \\(\\frac{9!}{6! 3!}\\)</p><p>= 84 ways.</p><p>\\(\\therefore\\) p(more girls than boys) = \\(\\frac{34}{84}\\)</p><p>= \\(\\frac{17}{42}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2013,
+        "question": "<p>The table shows the distribution of ages of 22 students in a school.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Age (years)</td>\n<td>12-14</td>\n<td>15-17</td>\n<td>18-20</td>\n<td>21-23</td>\n<td>24-26</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>6</td>\n<td>10</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>Using an assumed mean of 19, calculate, correct to three significant figures, the :</p><p>(a) mean age ; (b) standard deviation ; of the distribution.</p><p> </p>",
+        "answer": "<p>Assumed mean, A = 19.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Age (years)</td>\n<td>Mid-age (x)</td>\n<td>Frequency</td>\n<td>\\(d = x - A\\)</td>\n<td>\\(fd\\)</td>\n<td>\\(fd^{2}\\)</td>\n</tr>\n<tr>\n<td>12 - 14</td>\n<td>13</td>\n<td>6</td>\n<td>-6</td>\n<td>-36</td>\n<td>216</td>\n</tr>\n<tr>\n<td>15 - 17</td>\n<td>16</td>\n<td>10</td>\n<td>-3</td>\n<td>-30</td>\n<td>90</td>\n</tr>\n<tr>\n<td>18 - 20</td>\n<td>19</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>21 - 23</td>\n<td>22</td>\n<td>2</td>\n<td>3</td>\n<td>6</td>\n<td>18</td>\n</tr>\n<tr>\n<td>24 - 26</td>\n<td>25</td>\n<td>1</td>\n<td>6</td>\n<td>6</td>\n<td>36</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>22</td>\n<td> </td>\n<td>-54</td>\n<td>360</td>\n</tr>\n</tbody>\n</table><p>(a) \\(\\bar{x} = A + \\frac{\\sum fd}{\\sum f}\\)</p><p>= \\(19 + \\frac{-54}{22}\\)</p><p>= \\(19 - 2.455\\)</p><p>= \\(16.545 \\approxeq 16.5\\) years.</p><p>(b) Standard deviation , \\(\\sigma = \\sqrt{\\frac{\\sum fd^{2}}{\\sum f} - (\\frac{\\sum fd}{\\sum f})}\\)</p><p>= \\(\\sqrt{\\frac{360}{22} - (\\frac{-54}{22})}\\)</p><p>= \\(\\sqrt{16.364 - (2.45)^{2}}\\)</p><p>= \\(\\sqrt{16.364 - 6.025}\\)</p><p>= \\(\\sqrt{10.339}\\)</p><p>= 3.215 \\(\\approxeq\\) 3.22 years.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2013,
+        "question": "<p>The initial velocity of a particle of mass 0.1kg is 40 m/s in the direction of the unit vector j. The velocity of the particle changed to 30 m/s in the direction of the unit vector i. Find the change in momentum. </p>",
+        "answer": "<p>u = 40j m/s ; v = 30i m/s,</p><p>Change in momentum : \\(m(v - u)\\)</p><p>= \\(0.1 (30i - 40j)\\)</p><p>= \\(3i - 4j\\)</p><p>Magnitude : \\(\\sqrt{3^{2} + 4^{2}}\\)</p><p>= \\(\\sqrt{25}\\)</p><p>= \\(5 Ns^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2013,
+        "question": "<p>A stone is dropped vertically downwards from the top of a tower of height 45m with a speed of 20 ms\\(^{-1}\\). Find the :</p><p>(a) time it takes to reach the ground ;</p><p>(b) speed with which it hits the ground. [Take \\(g = 10 ms^{-2}\\)].</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0311%20%282%29.jpg\" style=\"height:206px; width:250px\"> \\(s = ut + \\frac{1}{2} gt^{2}\\)</p><p>\\(45 = 20t + \\frac{1}{2} (10)(t^{2})\\)</p><p>\\(45 = 20t + 5t^{2}\\)</p><p>\\(5t^{2} + 20t - 45 = 0\\)</p><p>\\(\\equiv t^{2} + 4t - 9 = 0\\)</p><p>= \\(\\frac{-4 \\pm \\sqrt{(4^{2}) - 4(1)(-9)}}{2(1)}\\)</p><p>= \\(\\frac{-4 \\pm \\sqrt{16 + 36}}{2}\\)</p><p>= \\(\\frac{-4 \\pm 2\\sqrt{13}}{2}\\)</p><p>= \\(\\frac{-2 \\pm \\sqrt{13}\\)</p><p>\\(t = -2 + \\sqrt{13} \\text{ or } t = -2 - \\sqrt{13}\\)</p><p>The time cannot be negative therefore, \\(t = - 2 + \\sqrt{13} = 1.61s\\).</p><p>(b) \\(v^{2} = u^{2} + 2gs\\)</p><p>\\(v^{2} = 20^{2} + 2(10)(45)\\)</p><p>\\(v^{2} = 400 + 900\\)</p><p>\\(v^{2} = 1300\\)</p><p>\\(v = \\sqrt{1300}\\)</p><p>\\(v = \\sqrt{100 \\times 13} = 10\\sqrt{13} ms^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2013,
+        "question": "<p>(a) Differentiate \\(\\frac{x^{2} + 1}{(x + 1)^{2}}\\) with respect to x.</p><p>(b)(i) Evaluate \\(\\begin{vmatrix} 1 &amp; 2 &amp; -1 \\\\ 2 &amp; 3 &amp; -1 \\\\ -1 &amp; 1 &amp; 3 \\end{vmatrix}\\).</p><p>(ii) Using the answer in (b)(i), solve the system of equations.</p><p>\\(x + 2y - z = 4\\)</p><p>\\(2x + 3y - z = 2\\)</p><p>\\(-x + y + 3z = -1\\).</p>",
+        "answer": "<p>(a) Let \\(y = \\frac{x^{2} + 1}{(x + 1)^{2}}\\)</p><p>Let \\(u = x^{2} + 1 ; v = (x + 1)^{2}\\)</p><p>\\(\\frac{\\mathrm d u}{\\mathrm d x} = 2x ; \\frac{\\mathrm d v}{\\mathrm d x} = 2(x + 1)\\)</p><p>Using the quotient rule,</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{v \\frac{\\mathrm d u}{\\mathrm d x} - u \\frac{\\mathrm d v}{\\mathrm d x}}{v^{2}}\\)</p><p>= \\(\\frac{(x + 1)^{2} (2x) - (x^{2} + 1)(2(x + 1))}{((x + 1)^{2})^{2}}\\)</p><p>= \\(\\frac{(x + 1)[(x + 1)(2x) - (x^{2} + 1)(2)}{(x + 1)^{4}}\\)</p><p>= \\(\\frac{2x^{2} + 2x - 2x^{2} - 2}{(x + 1)^{3}}\\)</p><p>= \\(\\frac{2x - 2}{(x + 1)^{3}}\\)</p><p>(b)(i) \\(\\begin{vmatrix} 1 &amp; 2 &amp; -1 \\\\ 2 &amp; 3 &amp; -1 \\\\ -1 &amp; 1 &amp; 3 \\end{vmatrix}\\)</p><p>= \\(1(9 + 1) - 2(6 - 1) - 1(2 + 3)\\)</p><p>= \\(10 - 10 - 5 = -5\\)</p><p>(ii) \\(x + 2y - z = 4\\)</p><p>\\(2x + 3y - z = 2\\)</p><p>\\(-x + y + 3z = -1\\)</p><p>In matrix form, this is</p><p>\\(\\begin{pmatrix} 1 &amp; 2 &amp; -1 \\\\ 2 &amp; 3 &amp; -1 \\\\ -1 &amp; 1 &amp; 3 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} = \\begin{pmatrix} 4 \\\\ 2 \\\\ -1 \\end{pmatrix}\\)</p><p>Cofactors :</p><p>\\(A_{11} = +(3 \\times 3 + 1) = 10\\)</p><p>\\(A_{12} = -(2 \\times 3 - 1) = -5\\)</p><p>\\(A_{13} = +(2 \\times 1 + 3) = 6\\)</p><p>\\(A_{21} = -(2 \\times 3 + 1) = -7\\)</p><p>\\(A_{22} = +(1 \\times 3 - 1) = 2\\)</p><p>\\(A_{23} = -(1 \\times 1 + 1 \\times 2) = -3\\)</p><p>\\(A_{31} = +(2 \\times -1 + 3) = 1\\)</p><p>\\(A_{32} = -(-1 + 2) = -1\\)</p><p>\\(A_{33} = +(1 \\times 3 - 2 \\times 2) = -1\\)</p><p>\\(C = \\begin{pmatrix} 10 &amp; -5 &amp; 5 \\\\ -7 &amp; 2 &amp; -3 \\\\ 1 &amp; -1 &amp; -1 \\end{pmatrix}\\)</p><p>adj A = \\(C^{T} = \\begin{pmatrix} 10 &amp; -7 &amp; 1 \\\\ -5 &amp; 2 &amp; -1 \\\\ 5 &amp; -3 &amp; -1 \\end{pmatrix}\\)</p><p>= \\(\\frac{1}{-5} \\begin{pmatrix} 10 &amp; -7 &amp; 1 \\\\ -5 &amp; 2 &amp; -1 \\\\ 5 &amp; -3 &amp; -1 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -2 &amp; \\frac{7}{5} &amp; \\frac{-1}{5} \\\\ 1 &amp; \\frac{-2}{5} &amp; \\frac{1}{5} \\\\ -1 &amp; \\frac{3}{5} &amp; \\frac{1}{5} \\end{pmatrix}\\)</p><p>\\(\\therefore x = A^{-1} . b \\)</p><p>= \\(\\begin{pmatrix} -2 &amp; \\frac{7}{5} &amp; \\frac{-1}{5} \\\\ 1 &amp; \\frac{-2}{5} &amp; \\frac{1}{5} \\\\ -1 &amp; \\frac{3}{5} &amp; \\frac{1}{5} \\end{pmatrix} \\begin{pmatrix} 4 \\\\ 2 \\\\ -1 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} - 8 + \\frac{14}{5} + \\frac{1}{5} \\\\ 4 - \\frac{4}{5} + \\frac{1}{5} \\\\ -4 + \\frac{6}{5} - \\frac{1}{5} \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -5 \\\\ 3 \\\\ -3 \\end{pmatrix}\\)</p><p>x = -5 ; y = 3 ; z = -3.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2013,
+        "question": "<p>(a) Using a scale of 2 cm to 30° on the x- axis, 2 cm to 0.2 units on the y- axis, on the same graph sheet, draw the graphs of \\(y = \\sin 2x\\) and \\(y = \\cos x\\) for \\(0° \\leq x \\leq 210°\\) at intervals of 30°.</p><p>(b) Using the graphs in (a), find the truth set of :</p><p>(i) \\(\\sin 2x = 0\\) ; (ii) \\(\\sin 2x - \\cos x = 0\\).</p>",
+        "answer": "<p>(a) Table of values for \\(y = \\sin 2x\\) and \\(y = \\cos x\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n</tr>\n<tr>\n<td>\\(y = \\sin 2x\\)</td>\n<td>0</td>\n<td>0.87</td>\n<td>0.87</td>\n<td>0</td>\n<td>-0.87</td>\n<td>-0.87</td>\n<td>0</td>\n<td>0.87</td>\n</tr>\n<tr>\n<td>\\(y = \\cos x\\)</td>\n<td>1</td>\n<td>0.87</td>\n<td>0.50</td>\n<td>0</td>\n<td>-0.50</td>\n<td>-0.87</td>\n<td>-1</td>\n<td>-0.87</td>\n</tr>\n</tbody>\n</table><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0311%20%283%29.jpg\" style=\"height:290px; width:300px\"></p><p>(b)(i) \\(\\sin 2x = 0 \\implies x = 0°, 90°, 180°\\)</p><p>(ii) \\(\\sin 2x - \\cos x = 0 \\implies x = 30°, 90°, 150°\\).</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2013,
+        "question": "<p>(a) The sum of the first three terms of a decreasing exponential sequence (G.P) is equal to 7 and the product of these three is equal to 8. Find the :</p><p>(i) common ratio ; (ii) first three terms of the sequence.</p><p>(b) Using the trapezium rule with the ordinates at x = 1, 2, 3, 4 and 5, calculate, correct to two decimal places, the value of \\(\\int_{1} ^{5} (x + \\frac{2}{x^{2}}) \\mathrm {d} x\\).</p>",
+        "answer": "<p>(a)(i) \\(T_{n} = ar^{n - 1}\\) (terms of a G.P)</p><p>\\(T_{1} + T_{2} + T_{3} = a + ar + ar^{2} = 7 ... (1)\\)</p><p>\\(a(ar)(ar^{2}) = 8 .... (2)\\)</p><p>\\((a^{3} r^{3}) = 8 \\implies (ar)^{3} = 2^{3}\\)</p><p>\\(\\therefore T_{2} = ar = 2\\)</p><p>\\(a + ar^{2} = 5 \\implies a(1 + r^{2}) = 5\\)</p><p>\\(a = \\frac{5}{1 + r^{2}}\\)</p><p>\\((\\frac{5}{1 + r^{2}})(\\frac{5r^{2}}{1 + r^{2}}) = 4 = 2^{2}\\)</p><p>\\(\\frac{25r^{2}}{(1 + r^{2})^{2}} = 2^{2}\\)</p><p>Taking square root of both sides, we have</p><p>\\(\\frac{5r}{1 + r^{2}} = 2 \\implies 5r = 2 + 2r^{2}\\)</p><p>\\(2r^{2} - 5r + 2 = 0 \\implies 2r^{2} - 4r - r + 2 = 0\\)</p><p>\\(2r(r - 2) - 1(r - 2) = 0 \\implies r = \\frac{1}{2} ; r = 2\\)</p><p>Since it is a decreasing sequence, the common ratio \\(r = \\frac{1}{2}\\).</p><p>(ii) \\(T_{2} = 2 = ar\\)</p><p>\\(\\frac{a}{2} = 2 \\implies a = 4\\)</p><p>\\(T_{3} = ar^{2} = 4(\\frac{1}{2})^{2}\\)</p><p>= \\(4(\\frac{1}{4}) = 1\\)</p><p>\\(\\therefore \\text{The first 3 terms of the sequence are } 4, 2, 1.\\)</p><p>(b) \\(\\int_{1} ^{5} (x + \\frac{2}{x^{2}}) \\mathrm {d} x\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(x^{2}\\)</td>\n<td>1.0</td>\n<td>4</td>\n<td>9</td>\n<td>16</td>\n<td>25</td>\n</tr>\n<tr>\n<td>\\(\\frac{2}{x^{2}}\\)</td>\n<td>2.0</td>\n<td>0.5</td>\n<td>0.222</td>\n<td>0.125</td>\n<td>0.08</td>\n</tr>\n<tr>\n<td>\\(x + \\frac{2}{x^{2}}\\)</td>\n<td>3.0</td>\n<td>2.5</td>\n<td>3.222</td>\n<td>4.125</td>\n<td>5.08</td>\n</tr>\n</tbody>\n</table><p>\\(Height (h) = 1 ; y_{1} = 3.0 ; y_{5} = 5.08\\)</p><p>\\(y_{2} = 2.5 ; y_{3} = 3.222 ; y_{4} = 4.125\\)</p><p>\\(y_{1} + y_{5} = 3.0 + 5.08 = 8.08\\)</p><p>\\(y_{2} + y_{3} + y_{4} = 2.5 + 3.222 + 4.125 = 9.847\\)</p><p>\\(2(y_{2} + y_{3} + y_{4}) = 2(9.847) = 19.694\\)</p><p>\\(Area = \\frac{1}{2} \\times 1[8.08 + 19.694]\\)</p><p>= \\(\\frac{1}{2} [27.774]\\)</p><p>= \\(13.887 \\approxeq 13.89\\) (to 2 d.p.)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2013,
+        "question": "<p>(a) Find the maximum and minimum points of the curve \\(y = 2x^{3} - 3x^{2} - 12x + 4\\).</p><p>(b) Sketch the curve in (a) above.</p>",
+        "answer": "<p>(a) \\(y = 2x^{3} - 3x^{2} - 12x + 4\\)</p><p>At stationary points, \\(\\frac{\\mathrm d y}{\\mathrm d x} = 0\\).</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x^{2} - 6x - 12 = 0\\)</p><p>\\(\\implies x^{2} - x - 2 = 0\\)</p><p>\\(x^{2} - 2x + x - 2 = 0 \\implies x(x - 2) + 1(x - 2) = 0\\)</p><p>\\(x = -1 ; x = 2\\)</p><p>When \\(x = -1\\), \\(y = 2(-1)^{3} - 3(-1)^{2} - 12(-1) + 4 = 11\\)</p><p>\\(\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} =  12x - 6 = 12(-1) - 6 = -18 &lt; 0\\)</p><p>\\(\\therefore (-1, 11) = \\text{maximum point}\\)</p><p>When \\(x = 2\\), \\(y = 2(2)^{3} - 3(2)^{2} - 12(2) + 4 = -16\\)</p><p>\\(\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} = 12x - 6 = 12(2) - 6 = 18 &gt; 0\\)</p><p>\\(\\therefore (2, -16) = \\text{minimum point}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0312%20%282%29.jpg\" style=\"height:214px; width:300px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2013,
+        "question": "<p>The table gives the relationship between the height, in metres, of a plant and the number of days it is left to grow.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>\n<p>Number of days</p>\n<p>(x)</p>\n</td>\n<td>10</td>\n<td>20</td>\n<td>30</td>\n<td>40</td>\n<td>50</td>\n<td>60</td>\n<td>70</td>\n<td>80</td>\n</tr>\n<tr>\n<td>Height (y)</td>\n<td>1.0</td>\n<td>1.1</td>\n<td>1.2</td>\n<td>1.4</td>\n<td>1.6</td>\n<td>1.8</td>\n<td>2.0</td>\n<td>2.3</td>\n</tr>\n</tbody>\n</table><p>(a) Using a scale of 2 cm to represent 0.5 units on the y- axis and 2cm to 10 units on the x- axis, draw a scatter diagram for the information.</p><p>(b) Find \\(\\bar{x}\\), the mean of x, and \\(\\bar{y}\\), the mean of y, and plot \\((\\bar{x}, \\bar{y})\\) on the diagram.</p><p>(c) Draw the line of best fit to pass through \\((\\bar{x}, \\bar{y})\\) and \\((10, 1)\\).</p><p>(d) From graph, find the :</p><p>(i) equation of the line of best fit ; (ii) height of plant in 75 days.</p><p> </p>",
+        "answer": "<p>(a &amp; c) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0312%20%283%29.jpg\" style=\"height:213px; width:300px\"></p><p>(b) \\(\\bar{x} = \\frac{10 + 20 + 30 + 40 + 50 + 60 + 70 + 80}{8} = \\frac{360}{8} = 45\\)</p><p>\\(\\bar{y} = \\frac{1.0 + 1.1 +1.2 + 1.4 + 1.6 + 1.8 + 2.0 + 2.3}{8} = \\frac{12.4}{8} = 1.55\\)</p><p>\\(\\therefore (\\bar{x}, \\bar{y}) = 45, 1.55\\).</p><p>(d)(i) Equation of line of best fit :</p><p>\\(\\frac{y - 1.8}{x - 60} = \\frac{1.8 - 1.55}{60 - 45}\\)</p><p>\\(\\frac{y - 1.8}{x - 60} = \\frac{0.25}{15} = 0.017\\)</p><p>\\(y - 1.8 = 0.017(x - 60) \\implies y - 1.8 = 0.017x - 1.02\\)</p><p>\\(y = 0.017x - 1.02 + 1.8 = 0.017x + 0.78\\)</p><p>(ii) When x = 75 days, \\(y = 0.017(75) + 0.78\\)</p><p>= \\(2.055\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2013,
+        "question": "<p>(a) A bag contains 5 blue, 4 green and 3 yellow balls. All the balls are identical except for colour. Three balls are drawn at random without replacement. Find the probability that : (i) all three balls have the same colour ; (ii) two balls have the same colour.</p><p>(b) The table shows the ranks of the marks scored by 7 candidates in Physics and Chemistry tests.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Physics</td>\n<td>6</td>\n<td>5</td>\n<td>4</td>\n<td>3</td>\n<td>2</td>\n<td>7</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Chemistry</td>\n<td>7</td>\n<td>6</td>\n<td>2</td>\n<td>4</td>\n<td>1</td>\n<td>5</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>Calculate the Spearman's rank correlation coefficient.</p><p> </p>",
+        "answer": "<p>(a) 5b, 4g, 3y = 12 balls.</p><p>(i) p(all 3 balls have the same colour) = p(all 3 blue or all 3 green or all 3 yellow)</p><p>= \\(\\frac{5}{12} \\times \\frac{4}{11} \\times \\frac{3}{10} + \\frac{4}{12} \\times \\frac{3}{11} \\times \\frac{2}{10} + \\frac{3}{12} \\times \\frac{2}{11} \\times \\frac{1}{10}\\)</p><p>= \\(\\frac{60}{1320} + \\frac{24}{1320} + \\frac{6}{1320}\\)</p><p>= \\(\\frac{90}{1320} = \\frac{3}{44}\\)</p><p>(ii) Two balls of the same colour :</p><p>Sample space for selecting with restriction (2 blue 1 green or 2 blue 1 yellow or 2 green 1 blue or 2 green 1 yellow or 2 yellow 1 blue or 2 yellow 1 green)</p><p>Ways : \\(^{5}C_{2} \\times ^{4}C_{1} + ^{5}C_{2} \\times ^{3}C_{1} + ^{4}C_{2} \\times ^{5}C_{1} + ^{4}C_{2} \\times ^{3}C_{1} + ^{3}C_{2} \\times ^{5}C_{1} + ^{3}C_2} \\times ^{4}C_{1}\\)</p><p>= \\(40 + 30 + 30 + 18 + 15 + 12 = 145\\)</p><p>Selecting without restriction 3 balls out of 12 balls : \\(^{12}C_{3}\\)</p><p>= \\(\\frac{12!}{3! 9!}\\)</p><p>= \\(220\\)</p><p>Probability = \\(\\frac{\\text{selection with restriction}}{\\text{selection without restriction}} = \\frac{145}{220}\\)</p><p>= \\(\\frac{29}{44}\\)</p><p>(b) </p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:45%\">\n<tbody>\n<tr>\n<td>\\(R_{P}\\)</td>\n<td>\\(R_{C}\\)</td>\n<td>\\(d = R_{P} - R_{C}\\)</td>\n<td>\\(d^{2}\\)</td>\n</tr>\n<tr>\n<td>6</td>\n<td>7</td>\n<td>-1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>5</td>\n<td>6</td>\n<td>-1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>4</td>\n<td>2</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>4</td>\n<td>-1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>7</td>\n<td>5</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>1</td>\n<td>3</td>\n<td>-2</td>\n<td>4</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>16</td>\n</tr>\n</tbody>\n</table><p>Spearman's rank correlation cofficient:</p><p>= \\(1 - \\frac{6 \\sum d^{2}}{n(n^{2} - 1)}\\)</p><p>= \\(1 - \\frac{6(16)}{7(7^{2} - 1)}\\)</p><p>= \\(1 - \\frac{2}{7}\\)</p><p>= \\(0.714\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2013,
+        "question": "<p>(a) The probability that a man wins a race is 0.8. In four different races, what is the probability that he wins : (i) all races ; (ii) no race ; (iii) at most 3 races ?</p><p>(b) A class consists of 5 girls and 10 boys. If a committee of 5 is chosen at random from the class, find the probability that :</p><p>(i) 3 boys are selected ; (ii) at least one girl is selected.</p>",
+        "answer": "<p>(a) p(man wins) = p = 0.8 ; p(man loses) = q = 0.2.</p><p>4 different races : \\((p + q)^{4} = p^{4} + 4p^{3}q + 6p^{2} q^{2} + 4pq^{3} + q^{4}\\)</p><p>(i) p(man wins all) = \\(p^{4} = (0.8)^{4} = 0.4096\\)</p><p>(ii) p(man wins no race) = \\(q^{4} = (0.2)^{4} = 0.0016\\)</p><p>(iii) p(man wins at most 3) = 1 - p(man wins all)</p><p>= 1 - 0.4096 = 0.5904.</p><p>(b)(i) 5 girls, 10 boys ; Total = 15.</p><p>Ways of selecting 3 boys = \\(^{10}C_{3} \\times ^{5}C_{2}\\)</p><p>= \\(120 times 10\\)</p><p>= 1200</p><p>Without restriction, selection = \\(^{15}C_{5}\\)</p><p>= \\(\\frac{15!}{10! 5!}\\)</p><p>= 3003 </p><p>p(selecting 3 boys) = \\(\\frac{1200}{3003} = 0.3996\\)</p><p>(ii) Ways of selecting no girls = \\(^{10}C_{5} \\times ^{5}C_{0}\\)</p><p>= 252</p><p>p(at least one girl) = 1 - p(no girl)</p><p>= \\(1 - \\frac{252}{3003}\\)</p><p>= \\(2751}{3003} = 0.9161\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2013,
+        "question": "<p>(a) Three vectors a, b and c are \\(\\begin{pmatrix} 8 \\\\ 3 \\end{pmatrix}, \\begin{pmatrix} 6 \\\\ -5 \\end{pmatrix}\\) and \\(\\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}\\) respectively. Find the vector d such that \\(|d| = \\sqrt{41}\\) and d is in the direction of \\(a + b - 2c\\).</p><p>(b) The coordinates of A and B are (3, 4) and (3, n) respectively. If AOB = 30°, find, correct to 2 decimal places, the values of n.</p>",
+        "answer": "<p>(a) \\(a = \\begin{pmatrix} 8 \\\\ 3 \\end{pmatrix} ; b = \\begin{pmatrix} 6 \\\\ -5 \\end{pmatrix} ; c = \\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix} ; |d| = \\sqrt{41}\\)</p><p>\\(p = a + b - 2c\\)</p><p>= \\(\\begin{pmatrix} 8 \\\\ 3 \\end{pmatrix} + \\begin{pmatrix} 6 \\\\ -5 \\end{pmatrix} + 2\\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 8 + 6 + 4 \\\\ 3 - 5 - 6 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 10 \\\\ -8 \\end{pmatrix}\\)</p><p>\\(|p| = \\sqrt{10^{2} + (-8)^{2}} = \\sqrt{164}\\)</p><p>\\(|p| = 2\\sqrt{41}\\)</p><p>\\(|d| = \\frac{1}{2} |p|\\)</p><p>\\(\\therefore d = \\frac{1}{2} p = \\frac{1}{2} \\begin{pmatrix} 10 \\\\ -8 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 5 \\\\ -4 \\end{pmatrix}\\)</p><p>(b) A(3, 4) ; B(3, n).</p><p>\\(OA = 3i + 4j ; OB = 3i + nj\\)</p><p>\\(OA \\cdot OB = |OA||OB| \\cos \\theta\\)</p><p>\\((3i + 4j) \\cdot (3i + nj) = |3i + 4j||3i + nj| \\cos 30\\)</p><p>\\(9 + 4n = 5 (\\sqrt{9 + n^{2}}) (\\sqrt{3}{2})\\)</p><p>\\(2(9 + 4n) = 5(\\sqrt{3(9 + n^{2})})\\)</p><p>\\(18 + 8n = 5\\sqrt{27 + 3n^{2}}\\)</p><p>Squaring both sides, </p><p>\\(324 + 288n + 64n^{2} = 25(27 + 3n^{2})\\)</p><p>\\(324 + 288n + 64n^{2} = 675 + 75n^{2}\\)</p><p>\\(75n^{2} - 64n^{2} - 288n + 675 - 324 = 0\\)</p><p>\\(11n^{2} - 288n + 351 = 0\\)</p><p>\\(n = \\frac{-(-288) \\pm \\sqrt{(-288)^{2} - 4(11)(351)}}{2(11)}\\)</p><p>\\(n = \\frac{288 \\pm \\sqrt{82944 - 15444}}{22}\\)</p><p>\\(n = \\frac{288 \\pm \\sqrt{67500}}{22}\\)</p><p>\\(n = \\frac{288 \\pm 259.81}{22}\\)</p><p>\\(n = \\frac{288 + 259.81}{22} ; n = \\frac{288 - 259.81}{22}\\)</p><p>\\(n = \\frac{547.81}{22} ; n = \\frac{28.19}{22}\\)</p><p>\\(n = 24.9 ; n = 1.28\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2013,
+        "question": "<p> A particle is under the action of forces \\(P = (4N, 030°)\\) and \\(R = (10N, 300°)\\). Find the force that will keep the particle in equilibrium.</p><p> </p>",
+        "answer": "<p>\\(P = (4N, 030°) ; R = (10N, 300°)\\)</p><p>Let \\(F = (a N, \\theta)\\) be the force that will keep the particle in equilibrium.</p><p>Then P + R + F = 0.</p><p>\\(\\begin{pmatrix} 4 \\cos 30 \\\\ 4 \\sin 30 \\end{pmatrix} + \\begin{pmatrix} 10 \\cos 300 \\\\ 10 \\sin 300 \\end{pmatrix} + \\begin{a \\cos \\theta \\\\ a \\sin \\theta \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}\\).</p><p>\\(\\begin{pmatrix} 4(\\frac{\\sqrt{3}}{2}) \\\\ 4(\\frac{1}{2}) \\end{pmatrix} + \\begin{pmatrix} 10(\\frac{1}{2}) \\\\ 10(-\\frac{\\sqrt{3}}{2}) \\end{pmatrix} + \\begin{pmatrix} a \\cos \\theta \\\\  a \\sin \\theta \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}\\)</p><p>\\(\\begin{pmatrix} 2\\sqrt{3} + 5 \\\\ 2 - 5\\sqrt{3} \\end{pmatrix} + \\begin{pmatrix} a \\cos \\theta \\\\ a \\sin \\theta \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\begin{pmatrix}\\)</p><p>\\(\\implies 2\\sqrt{3} + 5 + a \\cos \\theta = 0 \\)</p><p>\\(2\\sqrt{3} + 5 = -a \\cos \\theta\\)</p><p>\\(2 - 5\\sqrt{3} = -a \\sin \\theta\\)</p><p>\\(\\tan \\theta = \\frac{2 - 5\\sqrt{3}}{2\\sqrt{3} + 5} = \\frac{-6.66}{8.486}\\)</p><p>\\(\\tan \\theta = -0.7848 \\implies \\theta = -38.13°\\)</p><p>= \\(141.87°\\)</p><p>\\(-a \\cos \\theta = 8.486\\)</p><p>\\(-a \\cos (141.87) = -a (-0.7866) = 8.486\\)</p><p>\\(0.7866a = 8.486 \\implies a = \\frac{8.486}{0.7866} = 10.79N\\)</p><p>\\(\\therefore F = (10.79N, 141.87°)\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2013,
+        "question": "<p>The displacement S metres of a particle from a fixed point O at time t seconds is given by \\(S = t^{2} - 6t + 5\\).</p><p>(a) On a graph sheet, draw a displacement- time graph for the interval \\(0 \\leq x \\leq 6\\).</p><p>(b) From the graph, find the : (i) time at which the velocity is zero ; (ii) average velocity over the interval \\(0 \\leq x \\leq 4\\) ; (iii) total distance covered in the interval \\(0 \\leq x \\leq 5\\).</p>",
+        "answer": "<p>(a) \\(s = t^{2} - 6t + 5\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>t (s)</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>s (m)</td>\n<td>5</td>\n<td>0</td>\n<td>-3</td>\n<td>-4</td>\n<td>-3</td>\n<td>0</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p>Scale : On time- axis, 2 cm rep 2 s</p><p>On displacement, 2 cm rep 2m.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0313%20%282%29.jpg\" style=\"height:314px; width:300px\"></p><p>(b)(i) Velocity = \\(\\frac{\\mathrm d s}{\\mathrm d t} = Gradient\\)</p><p>Velocity = 0 m/s when t = 3s</p><p>(ii) Average velocity = \\(\\frac{\\text{total costume}}{\\text{total time}}\\)</p><p>\\(\\frac{5 + 4 + (4 - 3)}{4}\\)</p><p>= \\(\\frac{10}{4} = 2.5 m/s\\).</p><p>(iii) Total distance covered in the interval \\(0 \\leq x \\leq 5\\)</p><p>= 5 + 4 + 4 = 13m. </p><p> </p>",
+        "type": "theory"
+    }
+]

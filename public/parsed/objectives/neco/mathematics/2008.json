@@ -1,0 +1,665 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 1,
+        "year": 2008,
+        "question": "<p>Twenty girls and y boys sat on an examination. The mean marks obtained by the girls and boys were 52 and 57 respectively. if the total score for both girls and boys was 2750, find y.</p>",
+        "explanation": "<p>Let the total score for the girls and the boys be A and B respectively.</p><p>\\(\\frac{A}{20} = 52 \\implies A = 52 \\times 20\\)</p><p>A = 1040</p><p>\\(\\frac{B}{y} = 57 \\implies B = 57y\\)</p><p>1040 + 57y = 2750</p><p>57y = 2750 - 1040</p><p>57y = 1710</p><p>y = \\(\\frac{1710}{57}\\)</p><p>y = 30 </p>",
+        "correctIndex": 2,
+        "options": [
+            "51",
+            "48",
+            "30",
+            "25",
+            "18"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 2,
+        "year": 2008,
+        "question": "A sector of angle 120° is cut out from a circle of radius 13.5cm. what area of the circle is remaining ? (π = \\(\\frac{22}{7}\\))",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "14.1cm<sup>2</sup>",
+            "95.5cm<sup>2</sup>",
+            "190.9cm<sup>2</sup>",
+            "381.9cm<sup>2</sup>",
+            "763.7cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 3,
+        "year": 2008,
+        "question": "Two ladders of length 5m and 7m lean against a pole and make angles 45° and 60° with the ground respectively. What is their distance apart on the pole correct to two decimal places?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "9.60m",
+            "6.06m",
+            "2.54m",
+            "2.53m",
+            "2.00m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 4,
+        "year": 2008,
+        "question": "The chances of Usman and Dele passing a Mathematics test are 12 and 13 respectively. What is the probability that neither of them passes the test?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{2}{5}\\)",
+            "\\(\\frac{4}{15}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{2}{15}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 5,
+        "year": 2008,
+        "question": "x varies directly as y and inversely as z. when x = 5, y = 2 and z = 1. What is the value of x when y = 5 and z = 2?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "2.5",
+            "5",
+            "6.25",
+            "6.52",
+            "7.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 6,
+        "year": 2008,
+        "question": "Find the mean deviation of 20, 25, 21, 27, 28, 29, to the nearest whole number",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 7,
+        "year": 2008,
+        "question": "Calculate the area of a parallelogram whose diagonals are of length 8cm and 12cm and intersect at an angle of 135°",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "271.5cm<sup>2</sup>",
+            "135.8cm<sup>2</sup>",
+            "96.0cm<sup>2</sup>",
+            "48.0cm<sup>2</sup>",
+            "33.9cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 8,
+        "year": 2008,
+        "question": "The ratio of the base area of a hollow cone to that of its curved surface is 1:4. If its base radius is 7cm, calculate the slant height of the cone",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "7cm",
+            "22cm",
+            "28cm",
+            "49cm",
+            "154cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 9,
+        "year": 2008,
+        "question": "Increase 135 in the ratio 3:5",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "225",
+            "216",
+            "143",
+            "140",
+            "140"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 10,
+        "year": 2008,
+        "question": "Given that x<sup>2</sup>+ y<sup>2</sup>+ k = 60 and x = \\(\\sqrt{10}\\) when y = , find the value of k.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "56",
+            "34",
+            "32",
+            "-34",
+            "-56"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 11,
+        "year": 2008,
+        "question": "Find y if sin y = cos 48°",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "21°",
+            "24°",
+            "42°",
+            "48°",
+            "102°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 12,
+        "year": 2008,
+        "question": "<p>Simplify the expression:  \\(Log_{4}16\\) +  \\(Log_{3}27\\) + \\(Log_{8}4096\\) </p>",
+        "explanation": "<p>WHERE:</p><p>\\(Log_{4}16\\) = 2</p><p>\\(Log_{3}27\\) = 3</p><p>\\(Log_{8}4096\\) = 4</p><p>: 2 + 3 + 4 = 9</p>",
+        "correctIndex": 4,
+        "options": [
+            "-9",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{9}\\)",
+            "3",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 13,
+        "year": 2008,
+        "question": "The radii of two similar cylindrical jugs are in the ratio 3:7. Calculate the ratio of their volumes",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "1 : 04",
+            "3 : 07",
+            "9 : 49",
+            "0.086111111",
+            "27 : 343"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 14,
+        "year": 2008,
+        "question": "A man travels at a rate of 25m/sec. If he travels for 10½hrs, how many kilometres has he covered?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "262.5",
+            "945",
+            "970",
+            "995",
+            "1822.9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 15,
+        "year": 2008,
+        "question": "The ages of Abu, Segun, Kofi and Funmi are 17 years, (2x -13) years, 14 years and 16 years respectively. What is the value of x if their mean ages is 17.5 years?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "18",
+            "23",
+            "25",
+            "36",
+            "70"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 16,
+        "year": 2008,
+        "question": "2 bags of sugar at N<sub>x</sub>per bag are mixed with 3 bags of sugar at N<sub>y</sub>per bag. What is the cost in N of the mixture per bag?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{(2x + 3y)}{5}\\)",
+            "\\(\\frac{(x + y)}{2}\\)",
+            "\\(\\frac{x}{2} +\\frac{y}{3}\\)",
+            "\\(\\frac{(x + y)}{5}\\)",
+            "\\(\\frac{(3x + 2y)}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 17,
+        "year": 2008,
+        "question": "The ages of 10 students in a class are; 15, 16, 15.5, 17, 14.9, 14.5, 14.1, 15.1, 14.8. find the range of their ages.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "6.1",
+            "4.8",
+            "2.9",
+            "2.1",
+            "1.9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 18,
+        "year": 2008,
+        "question": "If the 3rd and the 5th terms of an A.P are 6 and 10 respectively, find the 1st term and the common difference respectively.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1, 2",
+            "2, 2",
+            "2, 3",
+            "3, 2",
+            "3,3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 19,
+        "year": 2008,
+        "question": "A pair of shoes was sold for N2,250.00 at a loss of 10%. What was the cost price?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "N750.00",
+            "N2,500.00",
+            "N2,538.00",
+            "N3,288.00",
+            "N4,038.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 20,
+        "year": 2008,
+        "question": "Find the coefficient of xy in the expansion of (x - 4y)(3x + 2y)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "14",
+            "12",
+            "10",
+            "-10",
+            "-12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 21,
+        "year": 2008,
+        "question": "Which of the following angular inequalities defines an obtuse angle?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0° &lt; x &lt; 90°",
+            "0° ≤ x &gt; 180°",
+            "90° &lt; x &lt; 180°",
+            "90° ≤ x &lt; 180°",
+            "90° &gt; x &lt; 180°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 22,
+        "year": 2008,
+        "question": "If y + \\(\\frac{1}{y}\\) = 9, evaluate y<sup>2</sup>+ \\(\\frac{1}{y^2}\\)",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "27",
+            "38",
+            "54",
+            "63",
+            "79"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 23,
+        "year": 2008,
+        "question": "If N25,000.00 is kept in a bank at the rate of 2% simple interest, how much will it amount to at the end of 5 years?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N2,500.00",
+            "N5,000.00",
+            "N12,500.00",
+            "N27,500.00",
+            "N125,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 24,
+        "year": 2008,
+        "question": "Construct a quadratic equation whose roots are -\\(\\frac{3}{2}\\) and 7",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3x<sup>2</sup>+ 11x + 21 = 0",
+            "2x<sup>2</sup>+ 11x + 21 = 0",
+            "2x<sup>2</sup>- 11x – 21 = 0",
+            "3x<sup>2</sup>- 11x - 21 = 0",
+            "x<sup>2</sup>- 11x – 21 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 25,
+        "year": 2008,
+        "question": "A chord XY of a circle with centre O and radius 5.32cm has ∠XOY = 140°. What is the length of the chord to the nearest centimetre?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "10cm",
+            "6cm",
+            "5cm",
+            "3cm",
+            "1cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 26,
+        "year": 2008,
+        "question": "Rationalize the expression \\(\\frac{(7 - \\sqrt{3})}{(13 - \\sqrt{3})}\\)",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "(44 + 3\\(\\sqrt{3}\\)) ÷ 83",
+            "(44 + 2\\(\\sqrt{3}\\)) ÷ 83",
+            "(44 - 3\\(\\sqrt{3}\\)) ÷ 83",
+            "(44 - 4\\(\\sqrt{3}\\)) ÷ 83",
+            "(44 - 2\\(\\sqrt{3}\\)) ÷ 83"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 27,
+        "year": 2008,
+        "question": "In proving the congruence of two triangles, which of the following is not important?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "two sides and the included angles",
+            "two angles and a side",
+            "three sides",
+            "three angles",
+            "right angle, hypotenuse and another side"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 28,
+        "year": 2008,
+        "question": "Bello chooses a number randomly from 1 to 10. What is the probability that it is either odd or prime?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{10}\\)",
+            "\\(\\frac{2}{5}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{9}{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 29,
+        "year": 2008,
+        "question": "If tan α = \\(\\frac{1}{2}\\) and tan β = \\(\\frac{1}{3}\\) and both α and β are acute, find tan (α + β).",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.015",
+            "1",
+            "10",
+            "39.81",
+            "45"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 30,
+        "year": 2008,
+        "question": "Multiply (3\\(\\sqrt{a}\\) - 4a) by (4a + 3\\(\\sqrt{a}\\))",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "9a + 16a<sup>2</sup>",
+            "9a – 16a<sup>2</sup>",
+            "3a + 16a<sup>2</sup>",
+            "3a - 16a<sup>2</sup>",
+            "a - 16a<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 31,
+        "year": 2008,
+        "question": "The median of a distribution can be estimated from",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Barchart",
+            "Cumulative frequency curve",
+            "Frequency polygon",
+            "Pictorial",
+            "Pie chart"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 32,
+        "year": 2008,
+        "question": "If A = \\(\\frac{1}{2}\\)h (a + b), make ‘a’ the subject of the formula",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "(2A – 2bh) ÷ b",
+            "(2A – bh) ÷ h",
+            "(2A – bh) ÷ b",
+            "(A – 2bh) ÷ h",
+            "(2A – h) ÷ bh"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 33,
+        "year": 2008,
+        "question": "The graph of cumulative frequency distribution is known as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "an ogive",
+            "a histogram",
+            "a frequency polygon",
+            "relative frequency",
+            "none"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 34,
+        "year": 2008,
+        "question": "T varies inversely as the square root of F when T = 7, F = 2\\(\\frac{1}{4}\\). Find T when F = \\(\\frac{27}{9}\\)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.5",
+            "6.3",
+            "6.3",
+            "12.6",
+            "21"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 35,
+        "year": 2008,
+        "question": "Evaluate (2<sup>5</sup>× 4<sup>-2</sup>) ÷ (2<sup>-3</sup>× 2<sup>6</sup>)",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "9",
+            "8",
+            "3",
+            "\\(\\frac{8}{9}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 36,
+        "year": 2008,
+        "question": "If 5x - 3 = 4x - 7, what is the value 6x?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "24",
+            "6",
+            "4",
+            "-4",
+            "-24"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 37,
+        "year": 2008,
+        "question": "which of the following properties is/are common to parallelograms and rectangles?<br>I. all angles are right angles<br>II. the diagonals are equals.<br>III. the opposite sides are equal and parallel.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I and II",
+            "I and III",
+            "II and III",
+            "I",
+            "III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 38,
+        "year": 2008,
+        "question": "P = {x:(x - 2)(x + 3) (x - 4)(x + 5) = 0}. The elements in P are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-5,-2, 3, 4",
+            "-5, -3, 2, 4",
+            "-5, -3, -2,4",
+            "-4, -3, -2, 5",
+            "2, 3, 4, 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 39,
+        "year": 2008,
+        "question": "Find the value of log\\(_{\\sqrt{3}}\\) 81",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "81",
+            "16",
+            "8",
+            "3",
+            "\\(\\sqrt{3}\\)"
+        ],
+        "type": "objectives"
+    }
+]

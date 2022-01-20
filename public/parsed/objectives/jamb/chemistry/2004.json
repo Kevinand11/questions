@@ -1,0 +1,802 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2004,
+        "question": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "evaporation",
+            "distillation",
+            "crystallization",
+            "sublimation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2004,
+        "question": "A chemical reaction is always associated with",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "an increase in the composition of one of the substance",
+            "a change in the volume of the reactants",
+            "a change in the nature of the reactants",
+            "the formation of new substance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2004,
+        "question": "If a solution contains 4.9g of tetraoxosulphate (VI) acid, calculate the amount of copper (II) oxide that will react with it<br>[Cu = 64, O = 16, S = 32, H = 1]",
+        "explanation": "Equation of the reaction<br>H<sub>2</sub>SO<sub>4(g)</sub>+ CuO<sub>(s)</sub>→ Cu<sub>4(aq) + H<sub>2</sub>O<br>\nRelative molecular mass of H<sub>2</sub>SO<sub>4</sub> = 1 + 2 + 32 + 16 + 4 = 98<br>\nRelative molecular mass of CuO = 64 + 16 =80<br>\nFrom the above equation, 98<sub>s</sub> of H<sub>2</sub>SO<sub>4</sub> reacts with 80<sub>s</sub> of CuO.<br>\n∴ 4.9g of H<sub>2</sub>SO<sub>4</sub> will react with <br>\n= (4.9 * 80)/98 of CuO = 392/98 = 4.0g\n</sub>",
+        "correctIndex": 1,
+        "options": [
+            "0.8g",
+            "4.0g",
+            "40.0g",
+            "80.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2004,
+        "question": "What volume of gas is evolved at S.t.p if 2g of calcium trioxocarbonate (IV) is added to a solution of hydrochloric acid?<br>[Ca = 40, C = 12, O = 16, Cl = 35.5, H = 1 Molar volume of agas at s.t.p = 22.4 dm<sup>3</sup>",
+        "explanation": "CaCO<sub>3(s) + 2HCl<sub>(aq)</sub> → CaCl<sub>2</sub> + H<sub>2</sub>O<sub>(l)</sub> + CO<sub>2</sub><br>\nThe relative molecular mass of CaCO<sub>3</sub> = 40 + 12 + 16 * 3 = 52 +48 = 100 ; Relative molecular mass of CO<sub>2</sub> = 12 + 10 * 2 = 44 <br>\nFrom the above equation, 100g of CaCO<sub>3</sub>reacts with 44g of CO<sub>2</sub> at s.t.p. i.e 22.4 dm<sup>3</sup><br>\n2g of CaCO<sub>3</sub> will react with (2*22.4)/100 of CO<sub>2</sub> = 0.448 dm<sup>3</sup><br>\n0.448 dm<sup>3</sup> = 0.448 * 1000 = 448cm<sup>3</sup>\n</sub>",
+        "correctIndex": 2,
+        "options": [
+            "112 cm<sup>2</sup>",
+            "224 cm<sup>2</sup>",
+            "448 cm<sup>2</sup>",
+            "2240 cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2004,
+        "question": "According to charles' law, the volume of a gas becomes zero at",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0<sup>o</sup>C",
+            "-100<sup>o</sup>C",
+            "-273<sup>o</sup>C",
+            "-373<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2004,
+        "question": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "have no definite shape",
+            "have little force of attraction between them",
+            "can collide with one another in the container",
+            "are too small in size"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2004,
+        "question": "A given volume of methane diffuses in 20s. How long will it take the same volume of sulphur (IV) oxide to diffuse under the same conditions?<br>[C = 12, H = 1, S = 32, O = 16",
+        "explanation": "Relative molecular mass of CH<sub>4</sub>= 12 * 1 + 4 = 16<br>Relative molecular mass of SO<sub>2</sub>= 32 + 10 *2 = 64<br>tSO<sub>2</sub>/tCH<sub>4</sub>= √MSO<sub>2</sub>/MCH<sub>4</sub><br>t/20 = √64/16 = √4<br>t/20 = 2<br>∴ t = 20 * 2 = 40sec",
+        "correctIndex": 2,
+        "options": [
+            "5s",
+            "20s",
+            "40s",
+            "60s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2004,
+        "question": "An electron can be added to a halogen atom to form a halide ion with",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2 valence electrons",
+            "3 valence electrons",
+            "7 valence electrons",
+            "8 valence electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2004,
+        "question": "The shape of s-orbitals is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "spherical",
+            "elliptical",
+            "spiral",
+            "circular"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2004,
+        "question": "<sup>226</sup><sub>88</sub>Ra →<sup>x</sup><sub>86</sub>Rn + α - particle<br>What is the value of x in the nuclear reaction above?",
+        "explanation": "<sup>226</sup><sub>88</sub>Ra →<sup>222</sup><sub>86</sub>Rn + α - particle",
+        "correctIndex": 1,
+        "options": [
+            "220",
+            "222",
+            "226",
+            "227"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2004,
+        "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecules is its",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "electrovalency",
+            "electron affinity",
+            "electropositivity",
+            "electronegativity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2004,
+        "question": "Chlorine consisting of two isotopes of mass number 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotopes of mass number 37",
+        "explanation": "Let the relative abundance of oxygen with mass 37 be x%<br>∴ The relative abundance of the isotope of mass 35 = (100 - x)%. Total mass of isotopes of mass 37 = 37x, while that of 35 = 35(100 - x)<br>∴ Total mass of the 100 atoms<br>= 37x + 35(100 - x) = 35.5<br>= 37x + 3500 - 35x = 35.5<br>∴ Mean mass of chlorine atom = (2x + 3500)/100 = 35.5<br>2x + 3500 = 3550; x = 50/2 = 25",
+        "correctIndex": 1,
+        "options": [
+            "20",
+            "25",
+            "60",
+            "75"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2004,
+        "question": "Which of the following mixture of gases is likely to burn in flame",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "neon and hydrogen",
+            "nitrogen and helium",
+            "helium and neon",
+            "neon and nitrogen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2004,
+        "question": "Hardness of water is caused by the presence of ions of",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "magnesium and silver",
+            "cacium and magnesium",
+            "sodium and potassium",
+            "calcium and sodium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2004,
+        "question": "<p>Pollution of underground water by metal ions is very likely in the soil that has high</p>",
+        "explanation": "<p>Trioxonitrate(v) salts are generally d only soluble salts of some metals.All trioxonitrate(v) salts r soluble in water. Therefore d metal ions found in underground water, are derived mostly 4rm d soluble nitrates (Trioxonitrate(v) salts) of those metals.</p>",
+        "correctIndex": 1,
+        "options": [
+            "acidity",
+            "alkalinity",
+            "chloride content",
+            "nitrate content"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2004,
+        "question": "A carcinogenic substance is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "asbestos dust",
+            "sawdust",
+            "nitrogen (II) oxide",
+            "carbon (II) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2004,
+        "question": "<p>The solubility in mol dm/-3 of 20g of CuSO4 dissolved in 100g of water at 180o is<br>\n[Cu = 64, S = 32, O =16]</p>",
+        "explanation": "<p>Relative molecular mass of CuSO4 = 64 + 32 + 16 * 4 = 160<br>\nThe number of moles of CUSO4 = reacting mass/molecular mass = 20/160 = 0.125<br>\n100g of water dissolved 0.125m of CuSO4<br>\n100g of water will dissolve (0.125 * 1000)/100 = 1.25mol dm3</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.13",
+            "0.25",
+            "1.25",
+            "2.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2004,
+        "question": "Calcium tetraoxosulphate (VI) dissolves in water only sparingly to form a",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "solution",
+            "suspension",
+            "precipitate",
+            "colloid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2004,
+        "question": "Which of the following compound is a normal salt?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "NaHS",
+            "NaHSO<sub>4</sub>",
+            "NaHCO<sub>3</sub>",
+            "Na<sub>2</sub>CO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2004,
+        "question": "What volume of 0.5 mol dm<sup>-3</sup>H<sub>2</sub>SO<sub>4</sub>will exactly neutralize 20cm<sup>3</sup>of 0.1 mol dm<sup>-3</sup>NaOH solution?",
+        "explanation": "2NaOH + H<sub>2</sub>SO<sub>4</sub>→ Na<sub>2</sub>SO<sub>4</sub>+ 2H<sub>2</sub>O<br>C<sub>a</sub>V<sub>a</sub>/C<sub>b</sub>V<sub>b</sub>= ratio of acid/ratio of base<br>(0.5 * V<sub>a</sub>)/(0.1 * 20) = 1/2<br>∴ V<sub>a</sub>= 2.0cm",
+        "correctIndex": 0,
+        "options": [
+            "2.0 cm<sup>3</sup>",
+            "5.0 cm<sup>3</sup>",
+            "6.8 cm<sup>3</sup>",
+            "8.3 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2004,
+        "question": "The oxidation state of chlorine in HClO<sub>4</sub>is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "-5",
+            "-1",
+            "+1",
+            "+7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2004,
+        "question": "ZnO<sub>(s)</sub>+ CO<sub>(g)</sub>→ Zn<sub>(s)</sub>+ CO<sub>2(g)</sub><br>In the reaction above, Zinc has been",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "decomposed",
+            "displaced",
+            "oxidized",
+            "reduced"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2004,
+        "question": "Which of the following acts as both reducing and oxidized agent?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "H<sub>2</sub>",
+            "SO<sub>2</sub>",
+            "H<sub>2</sub>S",
+            "CO<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2004,
+        "question": "In the electrolysis of brine, the anode is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "platinum",
+            "copper",
+            "zinc",
+            "carbon"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2004,
+        "question": "The mass of silver deposited when a current of 10a is passed through a solution of silver salt for 4830s is<br>[Ag = 108, F = 96500 c mol<sup>-1</sup>]",
+        "explanation": "Ag + ie → Ag<sup>+</sup><br>If w 96500 C deposit 108g of silver<br>∴ 10 * 4830 will deposit (10 * 4830 * 108)/96500<br>= 5216400/96500 = 54.06g",
+        "correctIndex": 1,
+        "options": [
+            "108.0g",
+            "54.0g",
+            "27.0g",
+            "13.5gq"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2004,
+        "question": "2CO<sub>(g)</sub>+ O<sub>2(g)</sub>→ 2CO<sub>2(g)</sub><br>Given that ΔH[CO]is -110.4 kJmol<sup>-1</sup>and ΔH[CO<sub>2</sub>] is -393.0 kJmol<sup>-1</sup>, the energy change for the reaction above is",
+        "explanation": "Energy change (ΔH) = 2ΔHCO<sub>2</sub>- (2ΔHCO + ΔHO)<br>= 7x - 393 - (7 * 110.4 + 0)<br>= -393 + 110.4 = -282.6 kJ",
+        "correctIndex": 1,
+        "options": [
+            "-503.7 kJ",
+            "-282.6 kJ",
+            "+282.6 kJ",
+            "+503.7 kJ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2004,
+        "question": "Which of the following hydrogen halides the highest entropy value?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "HF",
+            "HCl",
+            "HBr",
+            "HI"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2004,
+        "question": "N<sub>2</sub>O<sub>4(g)</sub>↔ 2NO<sub>2(g)</sub><br>In the endothermic reaction above, more product formation will be favoured by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a constant volume",
+            "an increase in pressure",
+            "a decrease in pressure",
+            "a decrease in volume"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2004,
+        "question": "Which of the following shows little or no net reaction when the volume of the system is decreased?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "H<sub>2(g)</sub>+ I<sub>2(g)</sub>↔ 2HI<sub>(g)</sub>",
+            "2NO<sub>2(g)</sub>↔ N<sub>2</sub>O<sub>4(g)</sub>",
+            "PCl<sub>5(g)</sub>↔ PCl<sub>3(g)</sub>+ Cl<sub>2(g)</sub>",
+            "2O<sub>3(g)</sub>↔ 3O<sub>2(g)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2004,
+        "question": "The allotropy of carbon used in the decolourization of sugar is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Graphite",
+            "Soot",
+            "Charcoal",
+            "Lampblack"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2004,
+        "question": "Which of the following gases can be collected by the method of downward delivery?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Chlorine",
+            "Oxygen",
+            "Ammonia",
+            "Hydrogen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2004,
+        "question": "When steam is passed over red-hot carbon, the substances produced are",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Hydrogen and trioxocarbonate (IV) acid",
+            "Hydrogen, oxygen and carbon (IV) oxide",
+            "Hydrogen and carbon (II) oxide",
+            "Hydrogen and carbon (IV) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2004,
+        "question": "Sulphur (IV) oxide bleaches by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Reduction",
+            "Oxidation",
+            "Hydration",
+            "Adsorption"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2004,
+        "question": "Carbon is tetravalent because",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The electrons in both the 2s and 2p orbitals are equivalent",
+            "The electrons in all the orbitals of carbon are equivalent",
+            "The 2s and 2p atomic orbitals hybridize",
+            "All the atomic orbitals of carbon hybridize"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2004,
+        "question": "Aluminium hydroxide is used in the dyeing industry as a",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Salt",
+            "Dye",
+            "Mordant",
+            "Dispersant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2004,
+        "question": "Alloys are best prepared by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Electroplating",
+            "Arc-welding",
+            "Reducing and mixture of their metallic oxide",
+            "Cooling a molten mixture of the metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2004,
+        "question": "Transition metals possess variable oxidation states because they have",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Electrons in the d orbitals",
+            "Electron in the s orbitals",
+            "A variable number of electrons in the p orbitals",
+            "Partially filled p orbitals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2004,
+        "question": "Sodium metal is always kept under oil because it",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Readily reacts with water",
+            "Is reduced by atmospheric nitrogen",
+            "Reacts vigorously on exposure to air",
+            "Reacts with oxygen and carbon (IV) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2004,
+        "question": "Oxyacetylene flame is used for iron-welding because it",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Makes the iron metals solidify very quickly",
+            "Combines with oxygen to give a pop sound",
+            "Evolves a lot of heat when burnt",
+            "Dissociates to produce carbon (IV) oxide and oxygen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2004,
+        "question": "The alkyl group can be represented by the general formula",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "C<sub>n</sub>H<sub>2n+1</sub>",
+            "C<sub>n</sub>H<sub>2n</sub>",
+            "C<sub>n</sub>H<sub>2n+2</sub>",
+            "C<sub>n</sub>H<sub>2n-2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2004,
+        "question": "<p>An isomer of C5H12 is</p>",
+        "explanation": "<p>Isomers of Pentane include : 2 methyl-butane and 2-Dimethylpropane.</p><p>So Option B is most viable.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Butane",
+            "2 – methylbutane",
+            "2 – methylpropane",
+            "2 – ethylbutane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2004,
+        "question": "A characteristic of the alkane family is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Addition reaction",
+            "Elimination reaction",
+            "Substitution reaction",
+            "Neutralization reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2004,
+        "question": "Which of these reagents can confirm the presence of a triple bond?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Bromine water",
+            "Acidified KMnO<sub>4</sub>",
+            "Copper (I) chloride",
+            "Bromine gas"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2004,
+        "question": "Vulcanization involves the removal of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "A monomer",
+            "The single bond",
+            "The double bond",
+            "A polymer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2004,
+        "question": "CH<sub>3</sub>COOH<sub>(g)</sub>→ H<sub>4(g)</sub>+ CO<sub>2(g)</sub><br>The reaction above is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Carboxylation",
+            "Decarboxylation",
+            "Acidification",
+            "Esterification"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2004,
+        "question": "C<sub>2</sub>H<sub>5</sub>OH<sub>(aq)</sub>→ Y<br>If the above reaction takes place in conc. H<sub>2</sub>SO<sub>4</sub>at 180<sup>o</sup>, Y represents",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "CH<sub>4</sub>",
+            "C<sub>2</sub>H<sub>5</sub>COOH",
+            "C<sub>2</sub>H<sub>4</sub>",
+            "CH<sub>3</sub>OCH<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2004,
+        "question": "Alkanol + Alkanoic ↔ Ester + Water<br>The reverse reaction above is known as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Hydrolysis",
+            "Saponification",
+            "Hydration",
+            "Fermentation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2004,
+        "question": "In the production of soap, concentrated sodium chloride solution is added to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Increase the solubility of soap",
+            "Decrease the solubility of the soap",
+            "Saponify the soap",
+            "Emulsify the soap"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15672556812_scan%20work3.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "water",
+            "impurities",
+            "inert gas",
+            "oxygen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21371671785_scan%20work4.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2-ethylpentane",
+            "3,4-dimethylhexane",
+            "2,3-dimethylhexane",
+            "2-ethylhexane"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,738 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2018,
+        "question": "<p>Simplify: \\(\\sqrt{108} + \\sqrt{125} - \\sqrt{75}\\)</p>",
+        "explanation": "<p>\\(\\sqrt{108} + \\sqrt{125} - \\sqrt{75}\\)</p><p>= \\(\\sqrt{3 \\times 36} + \\sqrt{5 \\times 25} - \\sqrt{3 \\times 25}\\)</p><p>= \\(6 \\sqrt{3} + 5 \\sqrt{5} - 5 \\sqrt{3}\\)</p><p>= \\(\\sqrt{3} + 5\\sqrt{5}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\sqrt{3} + 5\\sqrt{5}\\)",
+            "\\(6 \\sqrt{3} - 5 \\sqrt{5}\\)",
+            "\\(6 \\sqrt{3} + \\sqrt{2}\\)",
+            "\\(6\\sqrt{3} - \\sqrt{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2018,
+        "question": "<p>Evaluate: \\((64^{\\frac{1}{2}} + 125^{\\frac{1}{3}})^2\\)</p>",
+        "explanation": "<p>\\([64^{\\frac{1}{2}} + 125^{\\frac{1}{3}}]^2\\) = \\([\\sqrt{64} + \\sqrt[3] {125}]^2\\) </p><p>\\([8 + 5]^2\\) = \\([13]^2\\)</p><p>= 169</p><pre></pre><pre></pre><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "121",
+            "144",
+            "169",
+            "196"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2018,
+        "question": "<p>Given that y varies inversely as the square of x. If x = 3 when y = 100, find the equation connecting x and y.</p>",
+        "explanation": "<p>Y \\(\\alpha \\frac{1}{x^2} \\rightarrow y = \\frac{k}{x^2}\\)</p><p>If x = 3 and y = 100,</p><p>then, \\(\\frac{100}{1} = \\frac{k}{3^2}\\)</p><p>\\(\\frac{100}{1} = \\frac{k}{9}\\)</p><p>k = 100 x 9 = 900</p><p>Substitute 900 for k in</p><p>y = \\(\\frac{k}{x^2}\\); y = \\(\\frac{900}{x^2}\\)</p><p>= \\(yx^2 = 900\\)</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(yx^2 = 300\\)",
+            "\\(yx^2 = 900\\)",
+            "y = \\(\\frac{100x}{9}\\)",
+            "\\(y = 900x^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2018,
+        "question": "<p>Find the value of x for which \\(32_{four} = 22_x\\)</p><p> </p>",
+        "explanation": "<p>\\(32_4 = 22_x\\)</p><p>\\(3 \\times 4^1 + 2 \\times 4^o\\) = \\(2 \\times x^1 + 2 \\times x^o\\)</p><p>12 + 2 x 1 = 2x + 2 x 1</p><p>14 = 2x + 2</p><p>14 - 2 = 2x</p><p>12 = 2x</p><p>x = \\(\\frac{12}{2}\\)</p><p>x = 6</p><p> </p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "three",
+            "five",
+            "six",
+            "seven"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2018,
+        "question": "<p>There are 250 boys and 150 girls in a school, if 60% of the boys and 40% of the girls play football, what percentage of the school play football?</p>",
+        "explanation": "<p>Population of school = 250 + 150 = 400</p><p>60% of 250 = \\(\\frac{\\text{60%}}{\\text{100%}}\\) x 250 = 150</p><p>40% of 150 = \\(\\frac{\\text{40%}}{\\text{100%}}\\) x 150 = 60</p><p>Total number of students who plays football;</p><p>150 + 60 = 210</p><p>Percentage of school that play football;</p><p>\\(\\frac{210}{400}\\) x 100% = 52.5%</p>",
+        "correctIndex": 3,
+        "options": [
+            "40.0%",
+            "42.2%",
+            "50.0%",
+            "52.5%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2018,
+        "question": "<p>If \\(\\log_{10}\\)(6x - 4) - \\(\\log_{10}\\)2 = 1, solve for x.</p>",
+        "explanation": "<p>\\(\\log_{10}\\)(6x - 4) - \\(\\log_{10}\\)2 = 1</p><p>\\(\\log_{10}\\)(6x - 4) - \\(\\log_{10}\\)2 = \\(\\log_{10}\\)10</p><p>\\(\\log_{10}\\)\\(\\frac{6x - 4}{2}\\) - \\(\\log_{10}\\)10</p><p>\\(\\frac{6x - 4}{2}\\) = 10</p><p>6x - 4 = 2 x 10</p><p>= 20</p><p>6x = 20 + 4</p><p>6x = 20</p><p>x = \\(\\frac{24}{6}\\)</p><p>x = 4</p>",
+        "correctIndex": 2,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2018,
+        "question": "<p>If F = \\(\\frac{9}{5}\\)C + 32, find C when F = 98.6</p>",
+        "explanation": "<p>F = \\(\\frac{9}{5}\\)C + 32</p><p>When F = 98.6</p><p>98.6 = \\(\\frac{9}{5}\\)C + 32</p><p>98.6 - 32 = \\(\\frac{9}{5}\\)C</p><p>66.6= \\(\\frac{9}{5}\\)C</p><p>66.6 x 5 = 9C</p><p>C = \\(\\frac{66.6 \\times 5}{9}\\)</p><p>= 37</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "30",
+            "37",
+            "39",
+            "41"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2018,
+        "question": "<p>If y + 2x = 4 and y - 3x = -1, find the value of (x + y)</p><p> </p>",
+        "explanation": "<p>y + 2x = 4 .....(1)</p><p>y - 3x = -1 ......(2)</p><p>Subtract (2) from (1)</p><p>2x - (-3x) = 4 - (-1)</p><p>2x + 3x = 4 + 1</p><p>5x = 5</p><p>X = \\(\\frac{5}{5}\\)</p><p>= 1</p><p>Substitute 1 for x in (1);</p><p>y + 2(1) = 4</p><p>y + 2 = 4</p><p>y = 4 - 2 = 2</p><p>Hence, (x + y) = (1 + 2)</p><p>= 3</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "2",
+            "1",
+            "-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2018,
+        "question": "<p>If x : y : z = 3 : 3 : 4, evaluate \\(\\frac{9x + 3y}{6z - 2y}\\)</p><p> </p>",
+        "explanation": "<p>If x : y : z = 3 : 3 : 4, evaluate \\(\\frac{9x + 3y}{6x - 2y}\\)</p><p>\\(\\frac{x}{y}\\) = \\(\\frac{2}{3}\\) and \\(\\frac{y}{z}\\) = \\(\\frac{3}{4}\\)</p><p>Thus; x = \\(\\frac{2}{3}T_1\\) and z = \\(\\frac{3}{5}T_1\\)</p><p>y = \\(\\frac{3}{7}T_2\\) and z =  \\(\\frac{4}{7}T_2\\)</p><p>Using y = y</p><p>\\(\\frac{3}{5}T_1\\) = \\(\\frac{3}{7}T_2\\); \\(\\frac{T_1}{T_2}\\) = \\(\\frac{3}{7}\\) x \\(\\frac{5}{3}\\)</p><p>\\(\\frac{T_1}{T_2}\\)  = \\(\\frac{15}{21}\\)</p><p>\\(T_1\\) = 15 and \\(T_2\\) = 21</p><p>Therefore;</p><p>x = \\(\\frac{2}{5}\\) x 15 = 6</p><p>y = \\(\\frac{3}{5}\\) x 15 = 9</p><p>y = \\(\\frac{3}{7}\\)  x 21 = 9 (again)</p><p>z = \\(\\frac{4}{7}\\) x 21 = 12</p><p>Hence;</p><p>\\(\\frac{9x + 3y}{6z - 2y}\\) = \\(\\frac{9(6) + 3(9)}{6(12) - 2(9)}\\)</p><p>\\(\\frac{54 + 27}{72 - 18}\\) = \\(\\frac{81}{54}\\) = \\(\\frac{3}{2}\\)</p><p>= 1\\(\\frac{1}{2}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "1\\(\\frac{1}{2}\\)",
+            "2",
+            "2\\(\\frac{1}{2}\\)",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2018,
+        "question": "<p>Simplify; \\(\\frac{2 - 18m^2}{1 + 3m}\\)</p>",
+        "explanation": "<p>\\(\\frac{2 - 18m^2}{1 + 3m}\\) = \\(\\frac{2(1 - 9)m^2}{1 + 3m}\\)</p><p>= \\(\\frac{2(1 + 3m)(1 - 3m)}{1 + 3m}\\)</p><p>= \\(2(1 - 3m)\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(2 (1 + 3m)\\)",
+            "\\(2 (1 + 3m^2)\\)",
+            "\\(2(1 - 3m)\\)",
+            "\\(2(1 - 3m^2)\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2018,
+        "question": "<p>The volume of a cylindrical tank, 10m high is 385 m\\(^2\\). Find the diameter of the tank. [Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "explanation": "<p>Volume of a cylinder = \\( \\pi r^2\\)h</p><p>385 = \\(\\frac{22}{7}\\) x \\(r^2\\) x 10</p><p>385 x 7 = 22 x \\(r^2\\) x 10</p><p>\\(r^2\\) = \\(\\frac{385 \\times 7}{22 \\times 10}\\)</p><p>= 12.25</p><p>r = \\(\\sqrt{12.25}\\)</p><p>= 3.5m</p><p>Hence, diameter of tank = 2r</p><p>= 2 x 3.5 = 7m</p>",
+        "correctIndex": 2,
+        "options": [
+            "14m",
+            "10m",
+            "7m",
+            "5m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2018,
+        "question": "<p>The surface area of a sphere is \\(\\frac{792}{7} cm^2\\). Find, correct to the nearest whole number, its volume. [Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "explanation": "<p>Surface area of a sphere = \\(4 \\pi r^2\\)</p><p>\\(4 \\pi r^2\\) = \\(\\frac{792}{7}cm^2\\)</p><p>4 x \\(\\frac{22}{7}\\) x \\(r^2\\) = \\(\\frac{792}{7}\\)</p><p>\\(r^2\\) = \\(\\frac{792}{7}\\) x \\(\\frac{7}{4 \\times 22}\\)</p><p>= 9</p><p>r = \\(\\sqrt{9}\\)</p><p>= 3cm</p><p>Hence, volume of sphere</p><p>= \\(\\frac{4}{3}  \\pi r^3\\)</p><p>= \\(\\frac{4}{3} \\times \\frac{22}{7} \\times 3 \\times 3 \\times 3 \\)</p><p>= \\(\\frac{4 \\times 22 \\times 9}{7}\\)</p><p>\\(\\approx\\) = 113.143</p><p>= 113\\(cm^3\\) (to the nearest whole number)</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "113\\(cm^3\\)",
+            "131\\(cm^3\\)",
+            "311\\(cm^3\\)",
+            "414\\(cm^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2018,
+        "question": "<p>The angles of a polygon are x, 2x, 2x, (x + \\(30^o\\)), (x + \\(20^o\\)) and (x - \\(10^o\\)). Find the value of x</p>",
+        "explanation": "<p>x +  2x + 2x + (x + \\(30^o\\)) + (x + \\(20^o\\)) + (x - \\(10^o\\)) = (2n - 4) x \\(90^o\\)</p><p>8x + 50 \\(^o\\) - 10\\(^o\\) = (2 x 6 -4) x 90\\(^o\\)</p><p>8x + 40\\(^o\\) = 8 x 90\\(^o\\) = 720\\(^o\\)</p><p>8x = 720\\(^o\\) - 40\\(^o\\) = 680\\(^o\\)</p><p>x = \\(\\frac{680^o}{8}\\)</p><p>= 85\\(^o\\)</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(45^o\\)",
+            "\\(95^o\\)",
+            "\\(84^o\\)",
+            "\\(85^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2018,
+        "question": "<p>If M and N are the points (-3, 8) and (5, -7) respectively, find |MN|</p>",
+        "explanation": "<p>|MN| = \\(\\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}\\)</p><p>= \\(\\sqrt{(-3 -5)^2 + (8 - 7)^2}\\)</p><p>= \\(\\sqrt{(-8)^2 + (8 + 7)^2}\\)</p><p>= \\(\\sqrt{64 + (15)^2}\\)</p><p>= \\(\\sqrt{64 + 225}\\)</p><p>= \\(\\sqrt{289}\\)</p><p>= 17 units</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "8 units",
+            "11 units",
+            "15 units",
+            "17 units"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2018,
+        "question": "<p>The equation of the line through the points (4,2) and (-8, -2) is 3y = px + q, where p and q are constants. Find the value of p.</p>",
+        "explanation": "<p>Using the two - point from</p><p>\\(\\frac{y - y_1}{y_2 - y_1} = \\frac{x - x_1}{x_2 - x_1}\\)</p><p>\\(\\frac{y - 2}{-2 - 2} = \\frac{x - 4}{-8 - 4}\\)</p><p>\\(\\frac{y - 2}{-4} = \\frac{x - 4}{-12}\\)</p><p>\\(\\frac{-12(y -2)}{-4}\\) = x - 4</p><p>3(y -2) = x -4</p><p>3y - 6 = x - 4</p><p>3y = x - 4 + 6</p><p>3y = x + 2...</p><p>By comparing the equations;</p><p>3y = px + , p = 1</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2018,
+        "question": "<p>The mean of 1, 3, 5, 7 and x is 4. Find the value of x</p>",
+        "explanation": "<p>Mean = \\(\\frac{\\sum x}{n}\\)</p><p>4 = \\(\\frac{1 + 3 + 5 + 7 + x}{5}\\)</p><p>4 x 5 = 16 + x</p><p>20 - 16 = x</p><p>4 = x</p><p>x = 4</p>",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/UwSI0XD07MLloJiyML9EuZZ9V3KLkoU4QJP9Mgh0.png\" class=\"img-fluid\">",
+        "explanation": "<p>Prob. (team scored 4 goals) = Prob. (team scored 7 goals) = \\(\\frac{3}{25}\\)</p><p>Hence, probability that a team selected at random scored either 4 or 7 goals;</p><p>= \\(\\frac{6}{25} + \\frac{3}{25}\\)</p><p>= \\(\\frac{9}{25}\\)</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{9}{25}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{6}{25}\\)",
+            "\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8tfgI40LvdDJKqD2wbLPkZPt9vq1NscsPG2h0MWi.png\" class=\"img-fluid\">",
+        "explanation": "<p>No. of teams that scored at most 3 goals = 3 + 1 + 6 = 10</p><p>Hence, probability that a team selected at random scored at most 3 goals</p><p>= \\(\\frac{10}{25}\\) = \\(\\frac{2}{5}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{25}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{6}{25}\\)",
+            "\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2018,
+        "question": "<p>The total surface area of a hemispher is 75\\(\\pi cm^2\\). Find the radius.</p>",
+        "explanation": "<p>Total surface area of hemisphere is</p><p>3\\(\\pi r^2\\) = 75\\(\\pi cm^2\\)</p><p>\\(r^2\\) = \\(\\frac{75 \\pi}{3 \\pi}\\)</p><p>\\(r^2\\) = 25</p><p>r = \\(\\sqrt{25}\\)</p><p>r = 5cm</p>",
+        "correctIndex": 0,
+        "options": [
+            "5.0 cm",
+            "7.0 cm",
+            "8.5 cm",
+            "12.0 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2018,
+        "question": "<p>Find the value of x for which \\(\\frac{x - 5}{x(x - 1)}\\) is defined</p>",
+        "explanation": "<p>The expression \\(\\frac{x - 5}{x(x - 1)}\\) is defined whten</p><p>x(x - 5) = 0.38</p><p>either x = 0 or x - 5 = 0</p><p>Hence, x = 0 or x = 5</p>",
+        "correctIndex": 0,
+        "options": [
+            "0 or 5",
+            "-5 or 5",
+            "-11 or 5",
+            "0 or 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2018,
+        "question": "<p>Solved the equation \\(2x^2 - x - 6\\) = 0</p>",
+        "explanation": "<p><br>\n\\(2x^2 - x - 6\\) = 0</p><p>\\(2x^2 - 4x + 3x - 6\\) = 0</p><p>2x(x - 2) + 3(x - 2) = 0</p><p>(2x + 3) (x - 2) = 0</p><p>Either; 2x + 3 = 0 or x - 2 = 0</p><p>x = \\(\\frac{-3}{2}\\) or x = 2</p>",
+        "correctIndex": 0,
+        "options": [
+            "x = \\(\\frac{-3}{2}\\) or 2",
+            "x = -2 or \\(\\frac{3}{2}\\)",
+            "x = -3 or 2",
+            "x = 3 or -2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2018,
+        "question": "<p>Factorise completely the expression</p><p>\\((x + 2)^2\\) - \\((2x + 1)^2\\)</p>",
+        "explanation": "<p>\\((x + 2)^2\\) - \\((2x + 1)^2\\)</p><p>= \\((x^2 + 4x + 4) - (4x^2 + 4x + 1)\\)</p><p>= \\(x^2 \\) + 4x + 4 - 4 \\(x^2 \\) - 4x - 1</p><p>= -3 \\(x^2 \\) + 3</p><p>= 3 - 3 \\(x^2 \\)</p><p>= 3(1 - \\(x^2 \\))</p><p>= 3(1 + x)(1 - x)</p><p> </p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "(3x + 2)(1 - x)",
+            "(3x + 2)(2x + 1)",
+            "3\\((x + 2)^2\\)",
+            "3(x + 1)(1 - x)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2018,
+        "question": "<p>Find  the \\(n^{th}\\) term of the sequence 2 x 3, 4 x 6, 8 x 9, 16 x 12...</p>",
+        "explanation": "<p>2 x 3, 4 x 6, 8 x 9, 16 x 12,...</p><p>2\\(^1\\) x 3 x 1, 2\\(^2\\) x 3 x 2, 2\\(^3\\) x 3 x 3, 2\\(^4\\) x 3 x 4,.... 2\\(^n\\) x 3n</p>",
+        "correctIndex": 1,
+        "options": [
+            "2\\(^n\\) x 3(n + 1)",
+            "2\\(^n\\) x 3n",
+            "2\\(^n\\) x 3\\(^n\\)",
+            "2\\(^n\\) x 3\\(^n - 1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2018,
+        "question": "<p>If 3x\\(^o\\) 4(mod 5), find the<strong> least </strong>value of x</p>",
+        "explanation": "<p>3x \\(\\equiv\\) 4(mod 5)</p><p>In modulo 5, multiples of 5 that give solution to the given equation are 5, 20, 35, 50,... but 5 will yield the leaast value of x.</p><p>Thus; 3x = 4 + 5 = 9</p><p>x = \\(\\frac{9}{3}\\)</p><p>x = 3</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2018,
+        "question": "<p>Find the inter-quartile range of 1, 3, 4, 5, 8, 9, 10, 11, 12, 14, 16</p>",
+        "explanation": "<p>\\(Q_1 = \\frac{1}{4}\\) (N + 1)th</p><p>\\(\\frac{1}{4} \\times 12^{th}\\) no.</p><p>= 3rd no (\\(\\cong\\) 4)</p><p>\\(Q_3 = \\frac{3}{4}\\)  (N + 1)th</p><p>= \\(\\frac{3}{4}\\) x 12th no.</p><p>= 9th no. (\\(\\cong\\) 12)</p><p>Hence, interquartile range</p><p>= \\(Q_3 - Q_1\\)</p><p>= 12 - 4</p><p>= 8</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2018,
+        "question": "<p>If  x : y = \\(\\frac{1}{4} : \\frac{3}{8}\\) and y : z = \\(\\frac{1}{3} : \\frac{4}{9}\\), find x : z</p>",
+        "explanation": "<p>\\(\\frac{x}{y}\\) = \\(\\frac{1}{4} \\div \\frac{3}{8}\\) = \\(\\frac{1}{4} \\times \\frac{8}{3}\\) = \\(\\frac{2}{3}\\)</p><p>\\(\\frac{y}{z}\\) = \\(\\frac{1}{3} \\div \\frac{4}{9}\\) = \\(\\frac{1}{3} \\times \\frac{9}{4}\\) = \\(\\frac{3}{4}\\)</p><p>But,</p><p>x = \\(\\frac{2}{5}T_1\\), y = \\(\\frac{3}{5}T_1\\)</p><p>y = \\(\\frac{3}{7}T_2\\), z = \\(\\frac{4}{7}T_2\\)</p><p>Using y = y</p><p>\\(\\frac{3}{5}T_1\\) = x = \\(\\frac{3}{7}T_2\\)</p><p> \\(\\frac{T_1}{T_2}\\) = \\(\\frac{3}{7}\\) x \\(\\frac{5}{3}\\) = \\(\\frac{15}{21}\\)</p><p>\\(T_1 = 15\\) and \\(T_2 = 21\\)</p><p>Thus , x = \\(\\frac{2}{5}\\) x 15 = 6</p><p>y = \\(\\frac{3}{5}\\) x 15 = 9</p><p>y = \\(\\frac{3}{7}\\) x 21 = 9</p><p>z = \\(\\frac{4}{7}\\) x 21 = 12</p><p>Hence; x : z = 6 : 12</p><p>= 1 : 2</p>",
+        "correctIndex": 3,
+        "options": [
+            "2:3",
+            "3:4",
+            "3:8",
+            "1:2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2018,
+        "question": "<p>Expression 0.612 in the form \\(\\frac{x}{y}\\), where x and y are integers and y \\(\\neq\\) 0</p>",
+        "explanation": "<p>0.612 = \\(\\frac{0.612}{1}\\) x \\(\\frac{1000}{1000}\\)</p><p>= \\(\\frac{612}{1000}\\)</p><p>= \\(\\frac{153}{250}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{153}{250}\\)",
+            "\\(\\frac{68}{111}\\)",
+            "\\(\\frac{61}{100}\\)",
+            "\\(\\frac{21}{33}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2018,
+        "question": "<p>The angle of elevation of the top of a tree from a point 27m away and on the same horizontal ground as the foot of the tree is 30\\(^o\\). Find the height of the tree.</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/nEJXoLSxDX1NSLM4nW7Uk8WucUI66qcVfxHbQHbq.png\" class=\"img-fluid\">\n</div><p>From the diagram,</p><p>tan 30\\(^o\\) = \\(\\frac{h}{27}\\)</p><p>h = 27 tan 30\\(^o\\)</p><p>= 27 x \\(\\frac{1}{\\sqrt{3}}\\)</p><p>= \\(\\frac{27}{\\sqrt{3}}\\) x \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)</p><p>= \\(\\frac{27 \\sqrt{3}}{3}\\)</p><p>= 9\\(\\sqrt{3m}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "27m",
+            "13.5 \\(\\sqrt{3m}\\)",
+            "13.5 \\(\\sqrt{2m}\\)",
+            "9\\(\\sqrt{3m}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5NVjTDdMEcpB1qbCu0RcM069Z2zO9VqhRStp5Rju.png\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{|PN|}{|PQ|}\\) = \\(\\frac{|PM|}{|PR|}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{|PN|}{|PR|}\\)",
+            "\\(\\frac{|PM|}{|PQ|}\\)",
+            "\\(\\frac{|PM|}{|PR|}\\)",
+            "\\(\\frac{|PR|}{|PQ|}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2018,
+        "question": "<p>If P and Q are two statements, under what condition would p|q be false?</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/yz9ujuQMIWmYsSuKtjm0AMT9v7sJbljFRBWop6Dr.png\" class=\"img-fluid\">\n</div><p>From the truth table above, p \\(\\to\\) q  would be false if p is true and q is false</p>",
+        "correctIndex": 1,
+        "options": [
+            "If p is true and q is true",
+            "If p is true and q is false",
+            "If p is false and q is false",
+            "If p is false and q is true"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2018,
+        "question": "<p>Find the median of 2, 1, 0, 3, 1, 1, 4, 0, 1 and 2</p>",
+        "explanation": "<p>First arrange the numbers in ascending order of magnitude; 0, 0, 1, 1, 1, 1, 2, 2, 3, 4</p><p>Counting from the right, the fifth number is 1</p><p>Counting from the left, the fifth number is 1</p><p>Hence, median = \\(frac{1 + 1}{2}\\)</p><p>= \\(\\frac{2}{2}\\)</p><p>= 1</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "0.0",
+            "0.5",
+            "1.0",
+            "1.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2018,
+        "question": "<p>Find the mean deviation of 20, 30, 25, 40, 35, 50, 45, 40, 20 and 45</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/gTfODM1M3p0ozwDler5Q7ipCMTPv2HfePMgXlhPi.png\" class=\"img-fluid\">\n</div><p>Mean = \\(\\frac{\\sum f x}{\\sum f}\\)</p><p>= \\(\\frac{350}{10}\\)</p><p>= 35</p><p>= \\(\\frac{\\sum f |d|}{\\sum f}\\)</p><p>= \\(\\frac{90}{10}\\)</p><p>= 9</p>",
+        "correctIndex": 1,
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/Xunim3Ev5IbarmMocaC8euFmblmyJYTkm7L27tqf.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8vD6OBvmh7moFqoDX8iYktu0ljNocZAKLUnP8awc.png\" class=\"img-fluid\">\n</div><p>In the diagram,</p><p>\\(\\alpha\\) = 180\\(^o\\) - 177\\(^o\\) (angles on a straight line)</p><p>\\(\\alpha\\) = 63\\(^o\\)</p><p>t = 2 x 63\\(^o\\) (angle at centre = 2 x angle at circum)</p><p>= 126\\(^o\\)</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "63\\(^o\\)",
+            "117\\(^o\\)",
+            "126\\(^o\\)",
+            "234\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/kn59zI9QJr0hoVWIEHPeZ5dorn8AjuGuiYANDM9C.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5QEpXJQ7SHi3tH1cTHS8bEtCKzCvF4v3cG9sjfyp.png\" class=\"img-fluid\">\n</div><p>In the diagram,</p><p>a = 50\\(^o\\) (alternate angles)</p><p>b\\(_1\\) + a 35\\(^o\\) = 180\\(^o\\) (sum of angles on a straight line)</p><p>i.e; b\\(_1\\) + 50\\(^o\\) + 35\\(^o\\)</p><p>= 180v</p><p>b\\(_1\\) + 180\\(^o\\) - 85\\(^o\\) = 90\\(^o\\)</p><p>But b\\(_2\\) = \\(b_1\\) = 95\\(^o\\) (angles in alternate segement)</p><p>&lt;QST = b\\(_2\\) = 95\\(^o\\)</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "40\\(^o\\)",
+            "65\\(^o\\)",
+            "85\\(^o\\)",
+            "95\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/3xlz9khUHlqv2jZSZpigIFqfDsQnRIqCt5IHfrTO.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Trapezium",
+            "Prism",
+            "Rectangle",
+            "Rhombus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/cbyvKwWtWSRptcJQfra6l9jCUE4KXDwfEOv1XHxu.png\" class=\"img-fluid\">",
+        "explanation": "<p>x + 2 \\(\\geq\\) 2x + 1</p><p>x - 2x \\(\\geq\\) 1 - 2</p><p>-x \\(\\geq\\) -1</p><p>\\(\\frac{-x}{-1}\\) \\(\\geq\\) \\(\\frac{-1}{-1}\\)</p><p>x \\(\\leq\\) 1</p>",
+        "correctIndex": 0,
+        "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/z8oITIEjSX3M6DXV5u2dA8ZoulPHpPaQjU7wl6Xd.png\" class=\"img-fluid\">",
+        "explanation": "<p>In the diagram, &lt; WOZ = 180<em>\\(^o\\)</em> (angle on a straight line)</p><p>&lt; WOX = &lt; XOY = &lt; YOZ</p><p>(|WX| = |XY| = |YZ|)</p><p>\\(\\frac{180^o}{3}\\) = 60<em>\\(^o\\)</em></p><p>= 60\\(^o\\)</p><p>M + m =2m (base angles of isosceles \\(\\bigtriangleup\\), |OY| and |OZ| are radii)</p><p>&lt; YOZ + 2m (base angles of a \\(\\bigtriangleup\\))</p><p>60\\(^o\\) + 2m = 180\\(^o\\) (sum of a \\(\\bigtriangleup\\))</p><p>60\\(^o\\) + 2m = 180\\(^o\\)</p><p>2m = 180\\(^o\\) - 60\\(^o\\)</p><p>2m = 120\\(^o\\)</p><p>m = \\(\\frac{120^o}{2}\\)</p><p>= 60\\(^o\\)</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "90\\(^o\\)",
+            "60\\(^o\\)",
+            "45\\(^o\\)",
+            "30\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5UFlpmzHNuewK3gfgtpozvsOt4YMwFSbXRIDIC9b.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/ec20BKZnNiz9cwa18mVZJy9U32keWWZuMTkJqbmX.png\" class=\"img-fluid\">\n</div><p>In the diagram,</p><p>a = z (alternate angles)</p><p>b = 180\\(^o\\) - a (angles on a straight line)</p><p>b = 180\\(^o\\) - z</p><p>c = 180\\(^o\\) - x (angles on a straight line)</p><p>y = b + c (sum of oposite interior angles)</p><p>y = 180\\(^o\\) - z + 180\\(^o\\) - x</p><p>y = 360\\(^o\\) - z - x</p><p>x = 360\\(^o\\) - y - z</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "x = 240\\(^o\\) - y - z",
+            "x = 180\\(^o\\) - y - z",
+            "x = 360\\(^o\\) + y -z",
+            "x = 360\\(^o\\) - y - z"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/rvivYQyQNpaGq0VK8Vb37HttSmB02ZP9ls68Z79b.png\" class=\"img-fluid\">",
+        "explanation": "<p>m + n = 110\\(^o\\), (n + r) = 130\\(^o\\)</p><p>(m + n) = 120\\(^o\\)</p><p>then, r = 130\\(^o\\) - n</p><p>and;</p><p>m + (130^o - n) = 120\\(^o\\)</p><p>m - n = -10\\(^o\\)</p><p>2m + (n + r) = 110 + 120 = 230</p><p>2m + 130 = 230</p><p>2m = 230 - 130</p><p>m = \\(\\frac{100}{2}\\) = 50\\(^o\\)</p><p>n = 110\\(^o\\) - 50\\(^o\\)</p><p>= 60\\(^o\\)</p><p>r = 130\\(^o\\) - 60\\(^o\\) = 70\\(^o\\)</p><p>Hence, the ratio m : n : r</p><p>= 50 : 60 : 70</p><p>= 5 : 6 : 7</p>",
+        "correctIndex": 3,
+        "options": [
+            "2 : 3 : 4",
+            "3 : 4 : 5",
+            "4 : 5 : 6",
+            "5 : 6 : 7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/0mxemXIDn4sN11IAFkP5VZWFvX3scKXX10YWhCA5.png\" class=\"img-fluid\">",
+        "explanation": "<p>Total donation = 4 x 500 + 7 x 2000 + 20 x 1000 + 9 x 700 + 4 x 500 + 5 x 100 + 3 x 50 + 1 x 2 + 2 x 10</p><p>= 20000 + 14000 + 20000 + 6300 + 2000 + 500 + 150 + 2 + 20</p><p>= N62,972</p>",
+        "correctIndex": 3,
+        "options": [
+            "N26,792.00",
+            "N26,972.00",
+            "N62.792.00",
+            "N62,972.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2018,
+        "question": "<p>A piece of thread of length 21.4cm is used to form a sector of a circle of radius 4.2cm on a piece of cloth. Calculate, correct to the nearest degree, the angle of the sector. [Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/6zytAXCJl9OJjEf8maO3iHcO2fvOdoOr6fNFEljI.png\" class=\"img-fluid\">\n</div><p>Length of arc, L = 21.4 - 2 x 4.2cm</p><p>= 21.4 - 8.4</p><p>= 13cm</p><p>But L = \\(\\frac{\\theta}{360^o}\\) x 2\\(\\pi r\\)</p><p>i.e 13 = \\(\\frac{\\theta}{360^o}\\)  x 2 x \\(\\frac{22}{7}\\) x 4.2</p><p>= 13 x 360\\(^o\\) x 7</p><p>= \\(\\theta\\) x 2 x 22 x 4.2</p><p>\\(\\theta\\) = \\(\\frac{13 \\times 360^o \\times 7}{44 \\times 4.2}\\)</p><p>= \\(\\approx\\) 177.27\\(^o\\)</p><p>\\(\\approx\\) 177\\(^o\\) (to the nearest degree)</p><p> </p><p> </p><p> </p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "170\\(^o\\)",
+            "192\\(^o\\)",
+            "177\\(^o\\)",
+            "182\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2018,
+        "question": "<p>If tan x = \\(\\frac{4}{3}\\), 0\\(^o\\) &lt; x &lt; 90\\(^o\\), find the value of sin x - cos x</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/L9rPritilBEyNFSp0hf36p2Tui1p7k0efFflaMei.png\" class=\"img-fluid\">\n</div><p>From the diagram,</p><p>h\\(^2\\) = 4\\(^2\\) + 3\\(^2\\) (pythagoras')</p><p>h\\(^2\\) = 16 + 9 = 25</p><p>h = \\(\\sqrt{25}\\) = 5</p><p>Hence, sin x - cos x</p><p>= \\(\\frac{4}{5} - \\frac{3}{5}\\)</p><p>= \\(\\frac{2}{5}\\)</p><p> </p><p> </p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{10}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{5}{12}\\)",
+            "1\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2018,
+        "question": "<p>Given that Y is 20cm on a bearing of 300\\(^o\\) from x, how far south of y is x?</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/99bOm5pzrB7PCJkOwR1U8G427qiPpkWOkmu3hhbE.png\" class=\"img-fluid\">\n</div><p>In \\(\\bigtriangleup\\)YSC, sin 30\\(^o\\) = \\(\\frac{YS}{20}\\)</p><p>|YS| = 20 sin 30\\(^o\\)</p><p>= 20 x 0.5</p><p>10m</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "10cm",
+            "15cm",
+            "25cm",
+            "30cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2018,
+        "question": "<p>The diagonals of a rhombus WXYZ intersect at M. If |MW| = 5cm and |MX| = 12cm, calculate its perimeter</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/BcHgFDdpj5uDlTRCag0eIE49qEuAHjW5TYOP9WnM.png\" class=\"img-fluid\">\n</div><p>Let the length of a side of the rhombus be n</p><p>Then, n\\(^2\\) = 5\\(^2\\) + 12\\(^2\\)</p><p>= 25 + 144 = 169</p><p>n = \\(\\sqrt{169}\\)</p><p>= 13cm</p><p>Hence, perimeter of rhombus = 4n = 4 x 13</p><p>= 52cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "42cm",
+            "48cm",
+            "52cm",
+            "60cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2018,
+        "question": "<p>M and N are two subsets of the universal set (U). If n(U) = 48, n(M) = 20, n(N) = 30 and n(MUN) = 40, find n(M \\(\\cap\\) N)</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/JZdvDXNr6DLctbIqouEohGTAsLxjnFSlOLA6ww3I.png\" class=\"img-fluid\">\n</div><p>Let n(M \\(\\cup\\) N \\) = x</p><p>Then 20 - x + x + 30</p><p>- x = n(M \\(\\cup\\) N)</p><p>50 - x = 40</p><p>50 - 40 = x</p><p>10 = x</p><p>x = 10</p><p>Hence, n(M \\(\\cup\\N)' = 8  + (20 - 10) + (30 + 10)</p><p>= 8 + 10 + 20</p><p>= 38</p>",
+        "correctIndex": 3,
+        "options": [
+            "18",
+            "20",
+            "30",
+            "38"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2018,
+        "question": "<p>The graph of y = x\\(^2\\) and y = x intersect at which of these points?</p>",
+        "explanation": "<p>y = x\\(^2\\) ....(1)</p><p>y = x ......(2)</p><p>y = y</p><p>x\\(^2\\) - x</p><p>x\\(^2\\) - x = 0</p><p>x(x - 1) = 0</p><p>x = 0 or x - 1 = 0</p><p>x = 0 or x = 1</p><p>when x = 0, y = 0\\(^2\\) = 0</p><p>when x = 1, y = 1\\(^2\\) = 1</p><p>Hence; the two graphs interest at (0, 0) and (1, 1)</p>",
+        "correctIndex": 0,
+        "options": [
+            "(0,0), (1,1)",
+            "(0,0), (0,1)",
+            "(1, 0), (0, 0)",
+            "(0, 0) (0, 0)"
+        ],
+        "type": "objectives"
+    }
+]

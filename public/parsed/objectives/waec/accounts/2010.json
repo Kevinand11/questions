@@ -1,0 +1,707 @@
+[
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 1,
+        "year": 2010,
+        "question": "<p>Which of the following is not an external user of accounting information?</p>",
+        "explanation": "<p>External users are people outside the business entity (organization) who use accounting information. Examples of external users are suppliers, banks, customers, investors, potential investors, and tax authorities.</p><p>The management are internal users of accounting information.</p>",
+        "correctIndex": 0,
+        "options": [
+            "management",
+            "creditors",
+            "shareholders",
+            "government"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 2,
+        "year": 2010,
+        "question": "<p>A trial balance is prepared to</p>",
+        "explanation": "<p>Preparing a trial balance for a company serves to detect any mathematical errors that have occurred in the double-entry accounting system. If the total debits equal the total credits, the trial balance is considered to be balanced, and there should be no mathematical errors in the ledgers.</p>",
+        "correctIndex": 3,
+        "options": [
+            "detect fraud",
+            "ascertain losses in a trading period",
+            "determine opening capital",
+            "test arithmetical accuracy of ledger entries"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 3,
+        "year": 2010,
+        "question": "<p>Which of the following is the reason why a seller allows a customer cash discount?</p>",
+        "explanation": "<p>Small cash discounts benefit the seller because they increase the likelihood that a buyer will pay quickly, therefore providing the seller with cash in a shorter period of time, as it is better to receive e.g. 95% of an invoice with a few days than wait 30 or more days to receive the full amount.</p>",
+        "correctIndex": 2,
+        "options": [
+            "agreement to become a regular customer",
+            "introducing a new customer to the seller",
+            "settlement of account within a stated period",
+            "placing a larger order"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 4,
+        "year": 2010,
+        "question": "<p>A ledger is a</p>",
+        "explanation": "<p>A <em>ledger</em> is the principal book  that  contains a record of business transactions. </p>",
+        "correctIndex": 0,
+        "options": [
+            "principal book of accounts",
+            "book of original entry",
+            "record of credit transactions",
+            "summary of entries"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 5,
+        "year": 2010,
+        "question": "<p>Which of the following is not found in a trial balance?</p>",
+        "explanation": "<p>Closing stock is the leftover balance out of goods which were purchased during an accounting period. Total purchases are already included in the trial balance, Hence closing stock should not be included in the trial balance again. If it is included, the effect will be doubled.</p>",
+        "correctIndex": 1,
+        "options": [
+            "opening stock",
+            "closing stock",
+            "capital",
+            "rent paid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 6,
+        "year": 2010,
+        "question": "<p>Use the following information to answer the question given<br>\n\\(\\begin{array}{c|c} \\text{Jan. 1} &amp; \\text{₦}\\\\ \\hline \\text{1/1/08 Capital introduced by cash} &amp; 50,000 \\\\ \\text{2/1/08 Bought goods for retail by cash} &amp; 10,000\\\\ \\text{3/1/08 Sold fixtures by cash} &amp; 5,000\\\\ \\text{4/1/08 Sold goods to Lagbaja on credit} &amp; 3,000\\\\ \\text{5/1/08 Bought goods on credit from Tamedu}&amp; 8,000\\end{array}\\)<br>\nCash balance at 5/1/08 is</p>",
+        "explanation": "<p>The amount of money in an account. It is calculated by adding the initial deposit to all subsequent deposits and then subtracting all disbursements.</p><p>capital introduced   50000  <br>\npurchase                                10000<br>\nsales                       5000     <br>\nBal c/d                    <ins>          </ins>      <ins>45000 </ins>  <br>\n                               <ins>55000 </ins>     <ins>55000</ins></p><p>cash balance = 45000</p>",
+        "correctIndex": 2,
+        "options": [
+            "₦50,000",
+            "₦40,000",
+            "₦45,000",
+            "₦30,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 7,
+        "year": 2010,
+        "question": "<p>Use the following information to answer the question given<br>\n\\(\\begin{array}{c|c} \\text{Jan. 1} &amp; \\text{₦}\\\\ \\hline \\text{1/1/08 Capital introduced by cash} &amp; 50,000 \\\\ \\text{2/1/08 Bought goods for retail by cash} &amp; 10,000\\\\ \\text{3/1/08 Sold fixtures by cash} &amp; 5,000\\\\ \\text{4/1/08 Sold goods to Lagbaja on credit} &amp; 3,000\\\\ \\text{5/1/08 Bought goods on credit from Tamedu}&amp; 8,000\\end{array}\\)<br>\nBalance in Purchases account at 5/1/08 is</p>",
+        "explanation": "<p>purchase account = cash purchase + credit purchase </p><p>10,000 + 8000 = 18,000</p>",
+        "correctIndex": 1,
+        "options": [
+            "₦23,000",
+            "₦18,000",
+            "₦10,000",
+            "₦8,00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 8,
+        "year": 2010,
+        "question": "Use the following information to answer the question given<br>\\(\\begin{array}{c|c} \\text{Jan. 1} &amp; \\text{₦}\\\\ \\hline \\text{1/1/08 Capital introduced by cash} &amp; 50,000 \\\\ \\text{2/1/08 Bought goods for retail by cash} &amp; 10,000\\\\ \\text{3/1/08 Sold fixtures by cash} &amp; 5,000\\\\ \\text{4/1/08 Sold goods to Lagbaja on credit} &amp; 3,000\\\\ \\text{5/1/08 Bought goods on credit from Tamedu}&amp; 8,000\\end{array}\\)<br>Balance in the Capital Account at 5/1/08 is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "₦60,000",
+            "₦50,000",
+            "₦35,000",
+            "₦5,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 9,
+        "year": 2010,
+        "question": "<p>Where a wrong figure occurs in only one account with the second figure correctly stated, this is an error of</p>",
+        "explanation": "<p>A <em>transposition error</em> is a data entry error that occurs when two digits are accidentally reversed. It is where a bookkeeper accidentally reverses two adjacent digits, when recording transactional data.</p>",
+        "correctIndex": 0,
+        "options": [
+            "transposition",
+            "compensation",
+            "omission",
+            "commission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 10,
+        "year": 2010,
+        "question": "<p>Which of the following is added to the proprietor's capital?</p>",
+        "explanation": "<p>Net profit is the actual profit after working expenses not included in the calculation of gross profit have been paid. That is, it is the profit after expenses have been deducted from gross profit. It makes up part of the business capital called plough-back profit</p>",
+        "correctIndex": 0,
+        "options": [
+            "Net profit",
+            "gross profit",
+            "net sales",
+            "gross sales"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 11,
+        "year": 2010,
+        "question": "<p>The balance in a sales Ledger Counter Account indicates the</p>",
+        "explanation": "<p>It represents the total balance of credit sales otherwise known as trade debtors</p>",
+        "correctIndex": 3,
+        "options": [
+            "difference between debtors and creditors",
+            "total sales",
+            "total purchases",
+            "total debtors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 12,
+        "year": 2010,
+        "question": "A temporary difference of bank occurs in only one account with the second figure stated, this is an error of",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "adjustment account",
+            "suspense account",
+            "imprest account",
+            "appropriation account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 13,
+        "year": 2010,
+        "question": "<p>In the preparation of bank reconciliation statement cheque are</p>",
+        "explanation": "<p>Using the cash balance shown on the bank statement, add back any deposits in transit. Deduct any outstanding checks. This will provide the adjusted bank cash balance. Next, use the company's ending cash balance, add any interest earned and notes receivable amount.</p><p>All balances should be added to the bank statement</p>",
+        "correctIndex": 0,
+        "options": [
+            "added to the balance as per bank statement",
+            "deduced from the the balance as per bank statement",
+            "added to the balance as per bank statement",
+            "ignored totally"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 14,
+        "year": 2010,
+        "question": "<p>Which of the following is found in the general ledger?</p>",
+        "explanation": "<p>A sales account in the general ledger has a cumulative value or information regarding the actual sales ledger. By looking at this ledger, detailed information regarding the revenues can be obtained. It contains important information like date of sale, invoice number, name of the customer, amount of sale to name a few.</p>",
+        "correctIndex": 1,
+        "options": [
+            "capital account",
+            "sales accounts",
+            "loan account",
+            "drawings account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 15,
+        "year": 2010,
+        "question": "<p>Use the following information to answer the given question<br>\n\\(\\begin{array}{c|c} \\text{1/1/06 Debtors} &amp; D2,600\\\\ \\text{1/1/06 Provision for bad debts} &amp; D60\\\\ \\text{31/12/06 New provision provision for bad debts} &amp; \\text{5% on debtors}\\end{array}\\)<br>\nWhat is the amount of the new provision for bad debts?</p>",
+        "explanation": "<p>5% x 2600</p><p>\\(\\frac{5}{100}\\) x 2600 = 130</p>",
+        "correctIndex": 0,
+        "options": [
+            "D130",
+            "D127",
+            "D124",
+            "D120"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 16,
+        "year": 2010,
+        "question": "<p>Use the following information to answer the given question<br>\n\\(\\begin{array}{c|c} \\text{1/1/06 Debtors} &amp; D2,600\\\\ \\text{1/1/06 Provision for bad debts} &amp; D60\\\\ \\text{31/12/06 New provision provision for bad debts} &amp; \\text{5% on debtors}\\end{array}\\)<br>\nThe provision for bad debts in the profit and loss account is</p>",
+        "explanation": "<p>5% x 2600</p><p>\\(\\frac{5}{100}\\) x 2600 = 130</p><p>130 - 60 = 70</p>",
+        "correctIndex": 3,
+        "options": [
+            "D187",
+            "D127",
+            "D67",
+            "D70"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 17,
+        "year": 2010,
+        "question": "<p>Sales was D12,500, total expenses was D2,500 and net profit is 10% of sales what is the gross profit?</p><p>net profit = 0.1 x 12500 = 1250</p><p>gross profit = sales - cogs</p><p>net profit = gross profit - expenses</p><p>1250 + 2500</p>",
+        "explanation": "<p>net profit = 0.1 x 12500 = 1250</p><p>net profit = gross profit - expenses</p><p>Therefore; net profit + expenses = gross profit</p><p>1250 + 2500 = 3750</p>",
+        "correctIndex": 2,
+        "options": [
+            "D11,250",
+            "D8,750",
+            "D3,750",
+            "D1,250"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 18,
+        "year": 2010,
+        "question": "<p>Which of the following is the equivalent of the receipts payment accounts?</p>",
+        "explanation": "<p><strong>Following are the characteristics of <strong>receipt</strong> and <strong>payment account</strong>:</strong></p><ul>\n<li>It is a summary of the cash book.</li>\n<li>We record all the cash receipts during the whole year on its debit side. ...</li>\n<li>We include both receipts and payments in cash whether they are of capital and revenue nature.</li>\n</ul><p>From the above characteristics we can say the receipt and payments account is equivalent to the cash book which is used in recording all cash transactions</p>",
+        "correctIndex": 1,
+        "options": [
+            "income and expenditure accounts",
+            "cash book",
+            "subscriptions account",
+            "profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 19,
+        "year": 2010,
+        "question": "<p>Subscriptions received in advance are</p>",
+        "explanation": "<p>An amount received in advance against which the services are yet to provide is a balance sheet item. Any advance subscription is a liability and to be shown in balance sheet</p>",
+        "correctIndex": 3,
+        "options": [
+            "included in the income and expenditure account",
+            "not included in the receipts and payment account",
+            "shown as a current asset in the balance sheet",
+            "shown in the Balance Sheet as a current liability"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 20,
+        "year": 2010,
+        "question": "<p>Where records maintained are inadequate to facilitate the preparation of a trading and profit and loss accounts, this is described as</p>",
+        "explanation": "<p>Incomplete records refers to a situation in which an organization is not using double-entry bookkeeping. Instead, it is using a more informal accounting system, such as a single-entry system, to maintain a reduced amount of information about its financial results.</p>",
+        "correctIndex": 2,
+        "options": [
+            "cost accounting",
+            "bookkeeping",
+            "incomplete records",
+            "double entry"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 21,
+        "year": 2010,
+        "question": "<p>Bad debts written off is shown as</p>",
+        "explanation": "<p>The journal entry is a debit to the bad debt expense account and a credit to the accounts receivable account. (Remember your account receivables are credit sales that is the sales journal)</p>",
+        "correctIndex": 2,
+        "options": [
+            "debit in the sales ledger",
+            "debit in the purchases ledger",
+            "credit in the sales ledger",
+            "credit in the purchases ledger"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 22,
+        "year": 2010,
+        "question": "<p>The balance of the sales ledger control account represents</p>",
+        "explanation": "<p>It represents the total of all credit sales. Also known as trade debtors. </p>",
+        "correctIndex": 3,
+        "options": [
+            "total sales",
+            "total credit sales",
+            "total creditors",
+            "total debtors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 23,
+        "year": 2010,
+        "question": "<p>Use the following information to answer given question<br>\n\\(\\begin{array}{c|c} &amp; ₦ \\\\ \\hline \\text{Opening stock of raw materials} &amp; 24,750\\\\ \\text{Purchases of raw materials} &amp; 129,640\\\\ \\text{Carriage on raw materials} &amp; 10,000\\\\ \\text{Closing stock of raw materials} &amp; 45,000 \\\\ \\text{Factory supervisor's salary} &amp; 30,000\\\\ \\text{Wages of factory hands} &amp; 50,000 \\\\ \\text{Royalties paid}&amp; 18,000\\\\ \\text{Insurance of factories} &amp; 62,000\\\\ \\text{Work-in-progress(opening)} &amp; 23,000 \\\\ \\text{Raw material returned} &amp; 12,200\\end{array}\\)<br>\nThe value of raw material consumed is</p>",
+        "explanation": "<p>The value of raw material = opening stock + purchase + carriage cost</p><p>24,750 + 129,640 + 10,000 - 45,000</p><p>N119,390</p>",
+        "correctIndex": 1,
+        "options": [
+            "₦121,440",
+            "₦119,390",
+            "₦111,190",
+            "₦101,190"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 24,
+        "year": 2010,
+        "question": "<p>Use the following information to answer given question<br>\n\\(\\begin{array}{c|c} &amp; ₦ \\\\ \\hline \\text{Opening stock of raw materials} &amp; 24,750\\\\ \\text{Purchases of raw materials} &amp; 129,640\\\\ \\text{Carriage on raw materials} &amp; 10,000\\\\ \\text{Closing stock of raw materials} &amp; 45,000 \\\\ \\text{Factory supervisor's salary} &amp; 30,000\\\\ \\text{Wages of factory hands} &amp; 50,000 \\\\ \\text{Royalties paid}&amp; 18,000\\\\ \\text{Insurance of factories} &amp; 62,000\\\\ \\text{Work-in-progress(opening)} &amp; 23,000 \\\\ \\text{Raw material returned} &amp; 12,200\\end{array}\\)<br>\nThe prime cost is</p>",
+        "explanation": "<p>Prime cost  is the total of all direct cost incurred during production. </p><p>Direct material + direct labour+ direct cost</p><p>129,640 + 24750 + 10,000 - 12,000 = 152190</p>",
+        "correctIndex": 0,
+        "options": [
+            "₦152,190",
+            "₦199,190",
+            "₦169,190",
+            "₦146,190"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 25,
+        "year": 2010,
+        "question": "<p>Use the following information to answer given question<br>\n\\(\\begin{array}{c|c} &amp; ₦ \\\\ \\hline \\text{Opening stock of raw materials} &amp; 24,750\\\\ \\text{Purchases of raw materials} &amp; 129,640\\\\ \\text{Carriage on raw materials} &amp; 10,000\\\\ \\text{Closing stock of raw materials} &amp; 45,000 \\\\ \\text{Factory supervisor's salary} &amp; 30,000\\\\ \\text{Wages of factory hands} &amp; 50,000 \\\\ \\text{Royalties paid}&amp; 18,000\\\\ \\text{Insurance of factories} &amp; 62,000\\\\ \\text{Work-in-progress(opening)} &amp; 23,000 \\\\ \\text{Raw material returned} &amp; 12,200\\end{array}\\)<br>\nThe total overhead expenses is</p>",
+        "explanation": "<p>Overhead cost are cost not directly associated with the production of goods and services. It includes Payroll costs -- including salary, liability and employee insurance.</p><p>30000 + 50000 + 62000 = 142000</p>",
+        "correctIndex": 0,
+        "options": [
+            "₦142,000",
+            "₦151,000",
+            "₦110,000",
+            "₦92,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 26,
+        "year": 2010,
+        "question": "<p>The accounting principle that states that insignificant expenditures are not to be taken into account is the</p>",
+        "explanation": "<p>This accounting convention proposed that while accounting, only those transactions which have material impact on financial status of the organization will be considered  and other transactions which have insignificant effect will be ignored. It gives relative importance to an item or event.</p>",
+        "correctIndex": 1,
+        "options": [
+            "realization concept",
+            "materiality convention",
+            "marching concept",
+            "consistency convention"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 27,
+        "year": 2010,
+        "question": "<p>The realization concept states that</p>",
+        "explanation": "<p>The realization principle is the concept that revenue can only be recognized once the underlying goods or services associated with the revenue have been delivered or rendered, respectively. Thus, revenue can only be recognized after it has been earned. Advance payment for goods .</p>",
+        "correctIndex": 3,
+        "options": [
+            "revenue is recognized as being earned when ownership of goods passes to the customer",
+            "revenue and profit should not be anticipated",
+            "similar way from one accounting period to another",
+            "transaction must be expressed in monetary term"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 28,
+        "year": 2010,
+        "question": "<p>Where fixed capitals are maintained, partners' drawings are transferred to the</p>",
+        "explanation": "<p>Asset accounts normally have debit balances, while liabilities and capital normally have credit balances. Income has a normal credit balance since it increases capital . On the other hand, expenses and withdrawals decrease capital, hence they normally have debit balances.</p><p>Therefore partners drawings would have a debit balance in the capital account</p>",
+        "correctIndex": 1,
+        "options": [
+            "credit of capital account",
+            "debit of capital accounts",
+            "credit of partners's current accounts",
+            "debit of partners' currents account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 29,
+        "year": 2010,
+        "question": "<p>The method that provides a reliable check upon cash and stock at the branch and discloses the gross profit in the account is</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "cost plus percentage",
+            "cost price",
+            "average cost",
+            "selling price"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 30,
+        "year": 2010,
+        "question": "<p>A partners whose liability goes beyond his capital is known as</p>",
+        "explanation": "<p>General partner is a person who joins with at least one other person to form a business. A general partner has responsibility for the actions of the business, can legally bind the business and is personally liable for all the business's debts and obligations.</p>",
+        "correctIndex": 2,
+        "options": [
+            "dormal partner",
+            "limited partner",
+            "general partner",
+            "nominal partner"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 31,
+        "year": 2010,
+        "question": "Use the following information to answer the given question, Aba and Baba are partners who agreed to share profits and losses in the ratio 4 : 3 respectively. Extracts from their books for the year ended 31/12/08 are:<br>\\(\\begin{array}{c|c} &amp; \\text{ABA} &amp; \\text{BABA} &amp; \\text{TOTAL}\\\\ &amp; ₦ &amp; ₦ &amp; ₦ \\\\ \\hline \\text{Capital} &amp; 20,000 &amp; 15,000 &amp; 35,000 \\\\ \\text{Drawings} &amp; 2,520 &amp; - &amp; 2,520 \\\\ \\text{Interest on drawings} &amp; 504 &amp; - &amp; 504\\\\ \\text{Interest on capital} &amp; 2,000 &amp; 1,500 &amp; 3,500 \\\\ \\text{Net profit 31/12/08} &amp; - &amp; - &amp; 34,636\\end{array}\\)<br>Aba's share of profit is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "₦21,504",
+            "₦19,792",
+            "₦18,352",
+            "₦16,128"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 32,
+        "year": 2010,
+        "question": "<p>Carriage inwards is shown on the</p>",
+        "explanation": "<p>It is posted to the debit side of trading account and added to the cost of purchase</p>",
+        "correctIndex": 0,
+        "options": [
+            "debit side of the trading account",
+            "credit side of the trading account",
+            "credit side of the profit and loss account",
+            "debit side of the profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 33,
+        "year": 2010,
+        "question": "<p>The accounting treatment when goods are sent to branch at a cost is, debit branch stock account and credit</p>",
+        "explanation": "<p>when goods are sent to the branch office at cost we debit branch stock account and credit goods sent to branch account (at cost price)</p>",
+        "correctIndex": 1,
+        "options": [
+            "branch stock adjustment account",
+            "goods sent to branch account",
+            "branch debtors account",
+            "branch profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 34,
+        "year": 2010,
+        "question": "The document prepared for the disbursement of government fund is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "an invoice",
+            "a receipt",
+            "a payment voucher",
+            "a bill"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 35,
+        "year": 2010,
+        "question": "<p>A financial plan of action expressed in monetary terms is a/an</p>",
+        "explanation": "<p>A budget is an estimation of revenue and expenses over a specified future period of time.  Creating this spending plan allows you to determine in advance whether you will have enough money to do the things you need to do or would like to do. Budgeting is simply balancing your expenses with your income.</p>",
+        "correctIndex": 1,
+        "options": [
+            "warrant",
+            "budget",
+            "imprest",
+            "consilidated fund"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 36,
+        "year": 2010,
+        "question": "<p>Which of the following reserves is not used for bonus shares?</p>",
+        "explanation": "<p>capital redemption reserves fund is a part of a company's reserves and capital from money invested in shares that is not allowed to be given to shareholders in the form of dividends.</p>",
+        "correctIndex": 2,
+        "options": [
+            "revolutional reserve",
+            "share premium",
+            "capital redemption reserve fund?",
+            "general reserve"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 37,
+        "year": 2010,
+        "question": "<p>When shares are sold 'at par' it means they are issued at</p>",
+        "explanation": "<p>When <em>shares</em> are issued at a price equal to their face value it is termed as <em>shares</em> issued at <em>par</em>. Par value is also known as nominal value or face value.</p>",
+        "correctIndex": 1,
+        "options": [
+            "the market value",
+            "the nominal value",
+            "a discount",
+            "a premium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 38,
+        "year": 2010,
+        "question": "<p>Which of the following does not form part of shareholders fund?</p>",
+        "explanation": "<p>Debentures are a long-term security yielding a fixed rate of interest, issued by a company and secured against assets. It is a debt security issued by a company by a company to raise money. The holders are paid the amount lended with interest. They are not a source of equity financing</p>",
+        "correctIndex": 3,
+        "options": [
+            "ordinary shares",
+            "shares premium",
+            "profit",
+            "debenture"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 39,
+        "year": 2010,
+        "question": "On 1/7/07, a trader owed wages of Le 2,000. During the year ended 30/6/08, wages of Le, 2,400 were owed and Le 8,000 were paid. Using the information, the wages recorded in the balance sheet as at 30/6/08 is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Le 2,400",
+            "Le 8,400",
+            "Le 8,000",
+            "Le 7,600"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 40,
+        "year": 2010,
+        "question": "<p>The collection and organization of data is</p>",
+        "explanation": "<p>Data processing is the carrying out of operations on data, especially by a computer, to retrieve, transform, or classify information.</p>",
+        "correctIndex": 2,
+        "options": [
+            "accounting process",
+            "central processing",
+            "data processing",
+            "data manipulation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 41,
+        "year": 2010,
+        "question": "<p>On 1/7/07, a trader owed wages of Le 2,000. During the year ended 30/6/08, wages of Le 2,400 were owed and Le 8,000 were paid. Using the information, wages recorded in the balance sheet as at 30/6/08 is</p>",
+        "explanation": "<p>The wages owed as at 30/6/08, wages of Le 2,400</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "Le 12,400",
+            "Le 6,000",
+            "Le 2,400",
+            "Le 2,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 42,
+        "year": 2010,
+        "question": "<p>Money received from a customer is recorded in the customer's account and bank account; the accounting concept applied is</p>",
+        "explanation": "<p>The <em>dual aspect</em> concept states that every business transaction requires recordation in two different accounts.</p>",
+        "correctIndex": 1,
+        "options": [
+            "business entity",
+            "dual aspect",
+            "going-concern",
+            "money measurement"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 43,
+        "year": 2010,
+        "question": "<p>The amount for which a business is sold is that</p>",
+        "explanation": "<p>Consideration is a payment made by one party to another in exchange for the transfer of something of value. It must be of value to both parties entering into a transaction.</p>",
+        "correctIndex": 3,
+        "options": [
+            "goodwill",
+            "cosiderated fund",
+            "purchase",
+            "considerations",
+            "capital reserve"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 44,
+        "year": 2010,
+        "question": "<p>Which of the following is a prime cost?</p>",
+        "explanation": "<p>Prime cost is the direct cost incurred during production. Royalty is paid on production basis and on sales basis. If it is paid on production basis then it is considered direct expense (prime cost) and debited to Trading Account</p>",
+        "correctIndex": 0,
+        "options": [
+            "royalty",
+            "salary",
+            "commission",
+            "discounts allowed"
+        ],
+        "type": "objectives"
+    }
+]

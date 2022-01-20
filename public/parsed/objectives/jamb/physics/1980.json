@@ -1,0 +1,817 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1980,
+        "question": "Which of the following statements are true of the law of universal gravitation?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "any two bodies attract each other with a force which is proportional to the difference of their masses",
+            "any two bodies attract each other with a force which is inversely proportional to the square of the distance between them",
+            "any two bodies attract each other with a force which is proportional to the product of their masses and inversely proportional to the square of the distance between them",
+            "any two bodies attract each other with a force which is proportional to the square of the distance between them",
+            "any two bodies attract each other with a force which is proportional to the sum of their masses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1980,
+        "question": "Which of the following is true of an electrical charge?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "positive charge means deficit electrons",
+            "negative charge means excess of electrons",
+            "electric current means movement of electrons",
+            "all of the above",
+            "A and B only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1980,
+        "question": "Which of the following statements are true in the structure of atoms?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the atoms of the differnt element differ only in the number of protons and electrons",
+            "the num,ber of protons equals the number of electrons",
+            "atoms are constructed according to the plan of our solar system",
+            "all of the above",
+            "A and C only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1980,
+        "question": "Which of the following are true of atom?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "atoms are indestructible",
+            "all atoms of a pure substance, or elements are identical",
+            "atoms of different substance have different weights",
+            "all of the above",
+            "A and B only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1980,
+        "question": "A magnet is similar to a bipolar charged system in that",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "it consists of two opposite poles - the north and south poles",
+            "the earth's magnetic field has a south pole near the geographical north pole and a north pole near the geographical south pole",
+            "the force of attraction and repulsion between opposite and between like poles obeys a law for electrostatic charges",
+            "A and B only",
+            "A and C only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1980,
+        "question": "In the study of physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two element?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "temperature is a measure of the average kinetic energy of the molecules of a substance",
+            "heat is a measure of the total kinetic energy of the molecules in a system",
+            "different materials require different amounts of heat to cause a given change in temperature",
+            "all of the above",
+            "A and B only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1980,
+        "question": "A given quantity of heat increases the temperature of 150grams of water from 9<sup>o</sup>C to 15<sup>o</sup>C and increases the temperature of oil of 100grams from 9<sup>o</sup>C to 25<sup>o</sup>C. The ratio of the specific heat of oil to that of water is",
+        "explanation": "Heat lost = heat gained<br><br>m<sub>o</sub>C<sub>o</sub>\\(\\theta\\)<sub>o</sub>= m<sub>w</sub>C<sub>w</sub>\\(\\theta\\)<sub>w</sub><br><br>100 x C<sub>o</sub>x (25 - 9) = 150 x C<sub>w</sub>x (15 - 9)<br><br>\\(\\frac{C_w}{C_w}\\) = 0.56",
+        "correctIndex": 2,
+        "options": [
+            "0.36",
+            "0.46",
+            "0.56",
+            "0.76",
+            "0.86"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1980,
+        "question": "Which of the following physical quantities is NOT a vector?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "velocity",
+            "work",
+            "force",
+            "electric field intensity",
+            "magnetic induction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1980,
+        "question": "The motion of the moving skin of a talking drum can rightly be described as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "translational",
+            "random",
+            "rotational",
+            "oscillatory",
+            "transitory"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1980,
+        "question": "which of the following does NOT cause a reduction of the surface tension of water?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "soap solution",
+            "detergent",
+            "alcohol",
+            "camphor",
+            "grease"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1980,
+        "question": "The water at the bottom of a waterfall is slightly warmer than that at the top because part of the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "potential energy raises the water temperature",
+            "water absorbs latent heat from the atmosphere",
+            "kinetic energy is changed intyo internal energy",
+            "dropping mass of water increases the heat capacity",
+            "A and C above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1980,
+        "question": "<p>a pressure cooker saves both time and fuel in cooking because inside the cooker, the</p>",
+        "explanation": "<p>When atmospheric <strong>pressure</strong> increases, the <strong>boiling point</strong> becomes higher, and when atmospheric <strong>pressure</strong> decreases (as it does when elevation increases), the <strong>boiling point</strong> becomes lower.</p>",
+        "correctIndex": 0,
+        "options": [
+            "boiling point of water is raised",
+            "pressure is constant",
+            "heat is completely trapped",
+            "temperature is evenly distributed",
+            "volume of steam varies"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1980,
+        "question": "Which of the following statements is NOT true of the image in a plane mirror? The image is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the same size as the object",
+            "laterally inverted",
+            "virtual",
+            "magnified",
+            "the same distance behind the mirror as the object is in front"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1980,
+        "question": "<p>Any line or section through an advancing wave in which all the particles are in the same phase is called the</p>",
+        "explanation": "<p>the wavefront of a time-varying field is the set of all points where the wave has the same phase of the sinusoid.</p>",
+        "correctIndex": 4,
+        "options": [
+            "wave lenght",
+            "wave crest",
+            "wave trough",
+            "wave amplitude",
+            "wave front"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1980,
+        "question": "<p>The name given to the characteristics behaviour of substances which set their length perpendicular to a strong magnetic field instead of in line with it is</p>",
+        "explanation": "<p>Demagnetization of magnets is the only property that randomizes the orientation of magnetic dipoles.</p>",
+        "correctIndex": 0,
+        "options": [
+            "magnetization",
+            "paramagnetism",
+            "diamagnetism",
+            "demagnetization",
+            "ferromagnetism"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1980,
+        "question": "<p>Which of the following statements on the use of X-rays is incorrect? X-rays are used</p>",
+        "explanation": "<p>-The <strong>radiography of cultural objects</strong> is the use of <a href=\"https://en.wikipedia.org/wiki/Radiography\">radiography</a> to understand intrinsic details about objects. Most commonly this involves <a href=\"https://en.wikipedia.org/wiki/X-ray\">X-rays</a> of paintings to reveal <a href=\"https://en.wikipedia.org/wiki/Underdrawing\">underdrawing</a>, <a href=\"https://en.wikipedia.org/wiki/Pentimenti\">pentimenti</a> alterations in the course of painting or by later restorers, and sometimes previous paintings on the support.</p><p>-Hard X-rays are used for destroying cancerous cells</p><p>-Soft X-rays are used in medicine to photograph human parts</p><p>-. In the present work, the spatial elemental imaging capabilities of micro-X-ray fluorescence (MXRF) were used to visualize fingerprint patterns based on inorganic elements present in the prints.</p><p> </p><p><strong>However; </strong><strong>C</strong>obalt-60 is widely used in industrial radiography for the rapid checking of faults in wields and castings.</p>",
+        "correctIndex": 3,
+        "options": [
+            "in hospitals to obtain photogaphs of tissues and bones in the body",
+            "for the treatment of malignant growths like cancer cells",
+            "in detecting fingerprints",
+            "to reveal hidden flaws in metal castings and welded joints",
+            "to detect alternations which have been made to works of art"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1980,
+        "question": "What is the relative permitivity of a capacitor if its capacitance with a medium as dielectric is 16 farads and its capacitance with vacuum as dielectric is 2 farads?",
+        "explanation": "E = E<sub>r</sub>x E<sub>0</sub><br><br>16 = E<sub>r</sub>x 2<br><br>E<sub>r</sub>= 8",
+        "correctIndex": 3,
+        "options": [
+            "o",
+            "\\(\\frac{1}{2}\\)",
+            "2",
+            "8",
+            "32"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1980,
+        "question": "If the magnification of a virtual image formed of an object 10cm from a convex lens is 3, then the focal length of the lens is",
+        "explanation": "V = 3u, U = 10cm<br><br>therefore U = -ve,<br><br>F = \\(\\frac{UV}{U + V}\\)<br><br>= \\(\\frac{10 \\times (-30)}{10 - 30 }\\)<br><br>= 15cm",
+        "correctIndex": 1,
+        "options": [
+            "10cm",
+            "15cm",
+            "16cm",
+            "19cm",
+            "20cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1980,
+        "question": "A quantity of sungas at -133<sup></sup>occupies 1/3m<sup>3</sup>under pressure 1.4 x 10<sup>5</sup>Nm<sup>-2</sup>. if the gas occupies 31 m<sup>-2</sup>at 37<sup>o</sup>C, its pressure will be",
+        "explanation": "\\(\\frac{P_1V_1}{T_1}\\) = \\(\\frac{P_2V_2}{T_2}\\)<br><br>= \\(\\frac{\\frac{1}{3} \\times 1.4 \\times 10^5}{-133 + 273}\\) = \\(\\frac{P_2\\times31}{37 +273}\\)<br><br>P<sub>2</sub>= 3.3 x 10",
+        "correctIndex": 1,
+        "options": [
+            "1.26 x 10<sup>3</sup>Nm<sup>-2</sup>",
+            "3.3 x10<sup>4</sup>Nm<sup>-2</sup>",
+            "1.35 x 10<sup>4</sup>Nm<sup>-2</sup>",
+            "2.2 x 10<sup>4</sup>Nm<sup>-2</sup>",
+            "10<sup>5</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1980,
+        "question": "A stand-by generator is connected to fifteen 40 W lamps and musician's 600 W amplifying system. How much energy is used if the generator runs for 6 hours?",
+        "explanation": "Total power = (15 x 40) + 600<br><br>= 1200 watts<br><br>Energy(kWh) = \\(\\frac{1200}{1000}\\) x 6<br><br>= 7.2 kwH",
+        "correctIndex": 1,
+        "options": [
+            "3.84k Wh",
+            "7.20k Wh",
+            "8.40k Wh",
+            "12.00k Wh",
+            "14.56k Wh"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1980,
+        "question": "A tugboat is travelling from Asaba to Onitsha across the River Niger with a resultant velocity of 20 knots. If the river flows at 12 knots, the direction of motion of the boat relative to the direction of water flow is",
+        "explanation": "\\(\\theta\\) = cos<sup>-1</sup>\\(\\frac{(12)}{20}\\)<br><br>\\(\\theta\\) = 53.13<sup>o</sup>C",
+        "correctIndex": 1,
+        "options": [
+            "36.87<sup>o</sup>C",
+            "53.13<sup>o</sup>C",
+            "90<sup>o</sup>C",
+            "136<sup>o</sup>C",
+            "143.13<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1980,
+        "question": "A milliameter of resistance 5\\(\\Omega\\) and full scale deflection of 5m A is to used to measure a potential difference of 50 V. The resistance of the multiplier should be",
+        "explanation": "V = IR<br><br>50 = 50 x 10<sup>-3</sup>(5 + R)<br><br>R = 995\\(\\Omega\\)",
+        "correctIndex": 3,
+        "options": [
+            "95\\(\\Omega\\)",
+            "110\\(\\Omega\\)",
+            "595\\(\\Omega\\)",
+            "995\\(\\Omega\\)",
+            "1005\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1980,
+        "question": "An object of mass m and volume v, is totally immersed in a liquid of density p. The tension of a string holding it is",
+        "explanation": "Tension = upthrust on object<br><br>= weight in air - weight i liga<br><br>= mg - pvg<br><br>= (m - pv)g",
+        "correctIndex": 2,
+        "options": [
+            "mg",
+            "(m + pv)g",
+            "(m - pv)g",
+            "pvg",
+            "[M/m-pv]g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1980,
+        "question": "The relative densities of zinc, brass, copper, gold and silver are respectively 7.1, 8.5, 8.9, 19.3, 10.5. A metal ornament which weighs 0.425kg and can displace 50 x 10<sup>-6</sup>m<sup>3</sup>m of water is made of",
+        "explanation": "R.D = \\(\\frac{\\text {density of object}}{\\text{density of water}}\\)<br><br>= \\(\\frac{\\frac{0.425}{50 10^-6}{1000}\\)<br><br>= 8.5",
+        "correctIndex": 1,
+        "options": [
+            "zinc",
+            "brass",
+            "copper",
+            "gold",
+            "silver"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1980,
+        "question": "Heat is supplied to a block of ice 0<sup>o</sup>until half of it has melted. Which of the following statements is true?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the temperature rises and the ice exoands",
+            "the temperature remains constant and the volume of ice decreases",
+            "the ice gives out heat as it melts",
+            "the mass remains constant and the temperature increases",
+            "the mass decreases because some heat is lost to the atmosphere"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1980,
+        "question": "If the volume of a fixed mass of a gas is kept constant, the pressure of the gas",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "is inversely proprotional to its centigrade temperature",
+            "is inversely proportional to its absolute temperature",
+            "is directly proportional to its centigrade temperature",
+            "is directly proportional to its absolute temperature",
+            "remains constant also"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1980,
+        "question": "<p>Which of the following statements about sound is NOT true?</p>",
+        "explanation": "<p>Sound cannot travel through a vacuum. A vacuum is an area without any air, like space. So sound cannot travel through space because there is no matter for the vibrations to work in.</p>",
+        "correctIndex": 2,
+        "options": [
+            "sound is a longitudinal wave",
+            "sound can be reflected and refracted like light",
+            "sound travels through a vacuum",
+            "sound moves faster in a steel wire than in air",
+            "sound can ony be produced by vibrating objects"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1980,
+        "question": "<p>In a compound microscope</p>",
+        "explanation": "<p>  A compound microscope consists of two convex lenses: an objective lens O of small aperture and an eye piece E of large aperture. The lens which is placed towards the object is called <strong>objective lens</strong>, while the lens which is towards our eye is called<strong> eye piece</strong>. These two convex lenses i.e. the objective and the eye piece have short focal length and are fitted at the free ends of two sliding tubes at a suitable distance from each other. Although the focal length of both the objective lens and eye piece is short, but the focal length of the objective lens O is a little shorter than that of the eye piece E.</p>",
+        "correctIndex": 1,
+        "options": [
+            "there is only one lens",
+            "the objective lens have a shorter focal length than the eyepiece which is convex",
+            "the objective lens has a longer focal length than the eyepiece which is convex",
+            "the objective lens has a shorter focal length than the eyepiece which is concave",
+            "the objective and the eyepiece are both convex and have the same focal length"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1980,
+        "question": "In sunlight, a blue flower looks blue because we see the flower by the light it",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "recieves from our eye",
+            "disperses",
+            "absorbs",
+            "refracts",
+            "reflects"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1980,
+        "question": "High Tension(H.T.) transmission means",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "to transmit a given amount of power, the tension in the conducting wire must be high",
+            "heat is not lost when current is passed through a conductor",
+            "heat is gained when a given power is transmitted",
+            "a big transformer is required to transmit power",
+            "trasmission of power at low current and high voltage"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1980,
+        "question": "The best material for the core of the primary and secondary coils of an induction coil is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "copper, because it has a good conductor of electricity",
+            "steel, because it becomes magnetic and retains its magnetism for a long time",
+            "rubber, because it is a good insulator and the user is prevented from shock",
+            "soft iron, because it becomes magnetic but easily loses its magnetism",
+            "glass, because it is transparent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1980,
+        "question": "Which of the following radiations cannot be deflected by a magnetic field?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\alpha\\)",
+            "\\(\\beta\\)",
+            "\\(\\gamma\\)",
+            "\\(\\beta\\) and \\(\\gamma\\)",
+            "none of them"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1980,
+        "question": "Which of the following elements is the best absorber of X-rays?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "hydrogen",
+            "oxygen",
+            "calcium",
+            "copper",
+            "lead"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1980,
+        "question": "a calorimeter of thermal capacity 80j contains 20g of water at 25<sup>o</sup>C. Water at 100<sup>o</sup>C is added so that the final temperature of the set-ups is 50<sup>o</sup>C. The amount of water added is (Heat capacity of water = 4.18J/g/<sup>o</sup>C)",
+        "explanation": "Heat lost = heat gained<br><br>mc\\(\\theta\\) = c\\(\\theta\\) + mc\\(\\theta\\)<br><br>m x 4.18 x (100 - 50) = 80(50 -25) + [20 x 4.18] x (50 - 25)<br><br>m = 20g",
+        "correctIndex": 0,
+        "options": [
+            "20g",
+            "25g",
+            "45g",
+            "50g",
+            "100g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1980,
+        "question": "the ratio of the linear expansivity of copper to that of iron is approximately 1.5. A specimen of iron and a specimen of copper expands by the same amount per unit rise in temperature. The ratio of their length is",
+        "explanation": "\\(\\alpha_1\\)L<sub>1</sub>= \\(\\alpha_2\\)L<sub>2</sub><br><br>\\(\\frac{L_1}{L_2}\\) = \\(\\frac{\\alpha_1}{1.5\\alpha_2}\\) (since a<sub>1</sub>- 1.5\\(\\alpha_2\\))<br><br><br>\\(\\frac{L_1}{L_2}\\) = 0.67",
+        "correctIndex": 4,
+        "options": [
+            "3",
+            "1.5",
+            "1.32",
+            "1",
+            "0.67"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1980,
+        "question": "A man stands one-third of the way between two walls and claps his hands, He hears two distinct echoes 1s apart. If the speed of sound is 330ms<sup>-1</sup>the distance between the wall is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "33m",
+            "110m",
+            "220m",
+            "330m",
+            "495m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1980,
+        "question": "A cell has an open circuit voltage V<sub>1</sub>and a closed circuit voltage V<sub>2</sub>when a current is flowing through it. Therefore, the internal resistance of the cell is",
+        "explanation": "On open circuit, V<sub>1</sub>= I; On closed circuit V<sub>2</sub>= IR + Ir<br><br>V<sub>2</sub>= V<sub>1</sub>+ Ir<br><br>r = \\(\\frac{(V_2 - V_1)}{I}\\)",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{V_2}{I}\\)",
+            "\\(\\frac{V_1}{I}\\)",
+            "\\(\\frac{(V_1 + V_2)}{I}\\)",
+            "\\(\\frac{(V_1 - V_2)}{I}\\)",
+            "\\(\\frac{(V_2 - V_1)}{I}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1980,
+        "question": "According to Ohm's law, the ratio V/I is constant for",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "an electrolyte",
+            "a diode",
+            "a transistor",
+            "silver",
+            "all of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1980,
+        "question": "In the process of electrification by induction, the amount of induced charge in relation to the inducing charge is the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "same in sign and quantity",
+            "same in sign but greater",
+            "opposite in sign but greater",
+            "opposite in sign but less",
+            "opposite in sign but equal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1980,
+        "question": "The activity of a radioactive substance depends on",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "temperature and purity",
+            "temperature and age",
+            "purity and age",
+            "age, purity and temperature",
+            "none of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1980,
+        "question": "Natural radioactivity consists of the emission of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\( \\alpha \\) -particle and \\( \\beta \\) rays",
+            "\\( \\alpha \\) -particle and X-rays",
+            "\\( \\gamma \\)-rays and X-rays",
+            "\\( \\alpha \\)-particle, \\( \\beta \\) rays and \\( \\gamma \\)-rays",
+            "\\( \\alpha \\) -particle, \\( \\beta \\) rays, \\( \\gamma \\)-rays and X-rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1458296662_19800001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "5 ohms",
+            "15 ohms",
+            "25 ohms",
+            "35 ohms",
+            "45 ohms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14582968380_19800002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "0.25mF",
+            "0.50mF",
+            "0.75mF",
+            "1.25mF",
+            "1.50mF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16041266439_19800003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Microscope",
+            "tereoscope",
+            "projector",
+            "periscope",
+            "gyroscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27707644729_19800004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.67ms<sup>-2</sup>",
+            "0.83<sup>-2</sup>",
+            "0.87<sup>-2</sup>",
+            "92<sup>-2</sup>",
+            "2.0<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5833188932_19800005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.30",
+            "0.60",
+            "1.67",
+            "2.33",
+            "2.36"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24791057381_19800007.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Zero",
+            "0.2N.m",
+            "0.4N.m",
+            "0.8N.m",
+            "0.6N.m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1980,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1458299877_19800006.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\( \\alpha = \\beta \\)",
+            "the efractive index of glass is \\( \\frac{sin\\theta}{sin\\alpha} \\)",
+            "The ray suffers total internal reflection if \\( \\beta \\) is greater than the critical angle",
+            "the efractive index of glass is \\( \\frac{sin\\alpha}{sin\\beta} \\)"
+        ],
+        "type": "objectives"
+    }
+]

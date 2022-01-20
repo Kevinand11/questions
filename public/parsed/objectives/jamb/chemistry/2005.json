@@ -1,0 +1,787 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2005,
+        "question": "Which of the following equimolar solutions will have the highest pH?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CH<sub>3</sub>COOHa",
+            "NaOH",
+            "HCl",
+            "NH<sub>4</sub>OH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2005,
+        "question": "<p>Which of the following ions require the largest quantity of electricity for discharge at an electrode?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "4.0 moles of Cl<sup>-</sup>",
+            "3.0 moles of Na<sup>+</sup>",
+            "2.5 moles of Cu<sup>2+</sup>",
+            "2.0 moles of Al<sup>3+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2005,
+        "question": "Phenolphthalein in acidic solution is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "red",
+            "orange",
+            "colourless",
+            "yellow"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2005,
+        "question": "When iron is exposed to moisture and it rusts, the value of ΔG for the reaction is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "neutral",
+            "zero",
+            "positive",
+            "negative"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2005,
+        "question": "In which of the following reactions can the oxidation number of the nitrogen be said to have increased?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2NO<sub>(g)</sub>+ O<sub>2(g)</sub>→ 2NO<sub>2(g)</sub>",
+            "NO<sub>(g)</sub>+ Cl<sub>2(g)</sub>→ NOCl<sub>2(l)</sub>",
+            "FeSO<sub>4(aq)</sub>+ NO<sub>(g)</sub>→ Fe(NO)SO<sub>4(s)</sub>",
+            "NO<sub>(g)</sub>+ Br<sub>2(l)</sub>→ NOBr<sub>2(l)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2005,
+        "question": "2H<sub>2</sub>+ O<sub>2</sub>2 → H<sub>2</sub>+O ΔH = -571kJ<br>In the equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+        "explanation": "2H<sub>2</sub>+ O<sub>2</sub>2 → H<sub>2</sub>+O ΔH = -571kJ<br>4.0g of Hydrogen burn in air to produce -571 kJ<br>∴ 12.0s of Hydrogen will burn in air to produce<br>(12 * -571)/4 = -1713kJ",
+        "correctIndex": 3,
+        "options": [
+            "-1142 kJ",
+            "-571 kJ",
+            "+1142 kJ",
+            "-1713 kJ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2005,
+        "question": "A concentrated solution containing H<sup>+</sup>, Cu<sup>2+</sup>, OH<sup>-</sup>and Cl<sup>-</sup>was electrolyzed using platinum electrodes.<br>The ion that will be discharged at the cathode is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Cu<sup>2+</sup>",
+            "Cl<sup>-</sup>",
+            "H<sup>+</sup>",
+            "OH<sup>-</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2005,
+        "question": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time, it eventually produces a solution of",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "NaHSO<sub>4</sub>",
+            "Na<sub>2</sub>SO<sub>3</sub>",
+            "NaHSO<sub>3</sub>",
+            "Na<sub>2</sub>SO<sub>4</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2005,
+        "question": "<p>What is the correct IUPAC name for NO\\(_{2} ^{-}\\)?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Dioxonitrate (IV) ion",
+            "Trioxonitrate (III) ion",
+            "Trioxonitrate (IV) ion",
+            "Dioxonitrate (III) ion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2005,
+        "question": "What will happen if an aluminium spoon is used to stir a solution of iron (II) trioxonitrates (V)?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The spoon will be oxidized while the iron (II) ions will be reduced to the metal",
+            "The spoon will increase in size",
+            "The spoon will be reduced while the iron (II) ions will be oxidized",
+            "The spoon will be reduced"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2005,
+        "question": "The enzymes responsible for converting sucrose into two simple isomeric sugars is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "maltase",
+            "amylase",
+            "invertase",
+            "lactase"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2005,
+        "question": "The decolourization of purple colour of tetraoxomanganate (VII) ion is a test for",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "alkenes",
+            "alkanols",
+            "alkanals",
+            "alkanes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2005,
+        "question": "Which of the following are structural isomers?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "propanoic acid and propan-1, 2-diol",
+            "Propanal and propanone",
+            "Ethanoic acid and propanoic acid",
+            "Ethan-1, 2-diol and ethanoic acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2005,
+        "question": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate (IV) solution is used to remove",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "water",
+            "basic impurities",
+            "acidic impurities",
+            "ethoxyethane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2005,
+        "question": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open-chain alkane?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "One"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2005,
+        "question": "Equal moles of ethyne and hydrogen iodide react to give",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "CH<sub>2</sub>= CH<sub>2</sub>",
+            "CH<sub>2</sub>- CHI",
+            "CH<sub>3</sub>- CI",
+            "CH<sub>2</sub>= CHI"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2005,
+        "question": "A substance that is used as a ripening agent for fruits is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ethene",
+            "propene",
+            "methane",
+            "butane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2005,
+        "question": "When water boilers are used for long period of time, the solid substances left behind as scale are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "magnesium trioxosilicate (IV) and rust",
+            "magnesium trioxosilicate (IV) and calcium tetraoxosulphate (VI)",
+            "clay and magnesium troxosulphate (IV)",
+            "clay and rust"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2005,
+        "question": "25cm<sup>3</sup>of a mixture of nobel gases was obtained from air after the removal of other constituents. What was the original volume of air",
+        "explanation": "Percentage of noble gases in air is 1%<br>25 = (1/100) * T<br>∴ T = 25 * 100 = 2500 cm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "2,500 cm<sup>3</sup>",
+            "1250 cm<sup>3</sup>",
+            "125 cm<sup>3</sup>",
+            "80 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2005,
+        "question": "The solubility curve shows the variation of solute concentration with",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "volume",
+            "temperature",
+            "vapour density",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2005,
+        "question": "The air around smelting industries is likely to contain",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "H<sub>2</sub>S, CO and N<sub>2</sub>",
+            "CO<sub>2</sub>, SO<sub>3</sub>and H<sub>2</sub>",
+            "H<sub>2</sub>, SO<sub>2</sub>and CO<sub>2</sub>",
+            "SO<sub>2</sub>, N<sub>2</sub>and CO<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2005,
+        "question": "Kerosine is commonly used to remove the red colour stain of palm oil from cloths because it",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "helps to spread the oil over a larger surface area",
+            "react with the oil to form an odourless compound",
+            "makes the oil evaporate easily by dissolving it",
+            "helps to dilute the oil and reduce its colour"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2005,
+        "question": "The gas that is the most dangerous pollutant to human is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "sulphur (IV) oxide",
+            "carbon (IV) oxide",
+            "nitrogen (II) oxide",
+            "hydrogen sulphide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2005,
+        "question": "Natural water collected from rivers and ponds contain oxygen, carbon (IV) oxide and",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "nitrogen",
+            "hydrogen",
+            "chlorine",
+            "sulphur",
+            "oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2005,
+        "question": "How many moles of limestone will be required to produce 5.6g of CaO?<br>[Ca = 40, C = 12, O= 16]",
+        "explanation": "CaCO<sub>3</sub>→ CaO + CO<sub>2</sub><br>CaCO<sub>3</sub>= 40 + 12 + 16 * 3 = 100, CaO = 40 + 16 = 56<br>56gt of CaO was produced by 100g of CaCO<sub>3</sub><br>∴ 5.6g of CaO will produce by<br>(5.6 * 100)/56 = 10g of CaCO<sub>3</sub><br>moles = mass/molar mass = 10/100 = 0.10m",
+        "correctIndex": 1,
+        "options": [
+            "0.20 mol",
+            "0.10 mol",
+            "1.12 mol",
+            "0.56 mol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2005,
+        "question": "The shape of the hydrocarbon compound CH<sub>4</sub>is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "square planar",
+            "planar",
+            "linear",
+            "tetrahedral"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2005,
+        "question": "Which of these properties gives a solid its definite shape?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "strong intermolecular attraction",
+            "high melting point",
+            "high boiling point",
+            "weak intermolecular attraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2005,
+        "question": "Sugar is separated from its impurities by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "precipitation",
+            "crystallization",
+            "distillation",
+            "evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2005,
+        "question": "The component of an atom that contributes least to its mass is the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "proton",
+            "nucleus",
+            "neutron",
+            "electron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2005,
+        "question": "An element wil readily form an electrovalent compound if it electron configuration is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2, 8, 1",
+            "2, 8, 4",
+            "2, 8, 8",
+            "2, 8, 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2005,
+        "question": "A heterogenous mixture can be defined as any mixture",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "of a solute nd a solvent",
+            "whose cmposition is uniform",
+            "whose composition is not uniform",
+            "formed by solids and liquids"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2005,
+        "question": "The pressure of 100cm<sup>3</sup>of oxygen at 35<sup>o</sup>C is 750mmHg. What will be the volume of gas if the pressure is reduced to 100mmHg without changing the temperature?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "650 cm<sup>3</sup>",
+            "850 cm<sup>3</sup>",
+            "580 cm<sup>3</sup>",
+            "750 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2005,
+        "question": "<p><strong>I. Treatment of cancer</strong><br>\n<strong>II. Detection of leakages in water mains</strong><br>\n<strong>III. Detection of the ages of ancient tools</strong><br>\n<strong>IV. Preparation of drugs</strong><br>\nWhich combination of the above refers to the uses of radioactive isotopes?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "<b>I</b>and<b>III</b>",
+            "<b>I</b>and<b>II</b>",
+            "<b>I</b>,<b>II</b>and<b>III</b>",
+            "<b>I</b>,<b>II</b>,<b>III</b>and<b>IV</b>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2005,
+        "question": "<p>What is the valence shell electron configuration of the element with atomic number 17?</p>",
+        "explanation": "<p>It's important to take note of <strong>\"</strong><strong>valence shell\" </strong>used in the presentation of the question.</p><p>Hence; Option D carries the answer as specified in the question.</p>",
+        "correctIndex": 3,
+        "options": [
+            "1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>4</sup>",
+            "1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>5</sup>",
+            "2s<sup>2</sup>2p<sup>6</sup>",
+            "3s<sup>2</sup>3p<sup>5</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2005,
+        "question": "The density of a certain gas is 1.98gdm<sup>-3</sup>at s.t.p. What is the molecular mas of the gas?",
+        "explanation": "Density = mass/volume<br>∴ 1.98 = molecular mass/22.4<br>molecular mass = 1.98 * 22.4 = 44.35 ≅ 44.05",
+        "correctIndex": 0,
+        "options": [
+            "44.0 g",
+            "54.0 g",
+            "26.0 g",
+            "31.0 g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2005,
+        "question": "When pure aluminium metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Al<sub>2</sub>N",
+            "Al<sub>2</sub>N<sub>2</sub>",
+            "AlN",
+            "Al<sub>2</sub>N<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2005,
+        "question": "A dense white fume is formed when ammonia gas reacts with",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "O<sub>2(g)</sub>",
+            "H<sub>2(g)</sub>",
+            "Cl<sub>2(g)</sub>",
+            "HCl<sub>(g)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2005,
+        "question": "N<sub>2(g)</sub>+ 3H<sub>2(g)</sub>↔ 2NH<sub>3(g)</sub>ΔH = -90 kJ<br>In the equation above, the yield of ammonia can be decreased by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "increasing the pressure",
+            "removing the ammonia as it is formed",
+            "increase the temperature",
+            "adding a catalyst"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2005,
+        "question": "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "hydrogen bromide",
+            "Sulphur (IV) oxide",
+            "hydrogen sulphide",
+            "ammonia"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2005,
+        "question": "NH<sub>4</sub>Cl<sub>(s)</sub>↔ NH<sub>3(g)</sub>+ HCL<sub>(g)</sub><br>The reaction above can only attain equilibrium if",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a gaseous reactant is added",
+            "one of the products is removed",
+            "it is in a closed system",
+            "it is an open system"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2005,
+        "question": "<p>The most suitable metal that can be used as lightning conductor is</p>",
+        "explanation": "<p>In reality, <strong>silver</strong> actually has an even higher <strong>electrical conductivity</strong> than <strong>copper</strong>, but <strong>silver</strong> is too expensive to use.</p>",
+        "correctIndex": 0,
+        "options": [
+            "silver",
+            "copper",
+            "iron",
+            "aluminium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12163790763_Untitled.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Y",
+            "Z",
+            "R",
+            "X"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2005,
+        "question": "The most abundant element on the earth's crust is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "nitrogen",
+            "hydrogen",
+            "oxygen",
+            "flourine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2005,
+        "question": "Metalliods are also referred to as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "semi-metals",
+            "metals",
+            "colliods",
+            "non-metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2005,
+        "question": "The ores that can be concentrated by flotation are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "nitride ores",
+            "sulphide ores",
+            "oxide ores",
+            "non-metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2005,
+        "question": "The property used in the industrial preparation of nitrogen and oxygen from air is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "rate of diffusion",
+            "density",
+            "boiling point",
+            "solubility"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2005,
+        "question": "<p>In a flame test for calcium, the flame appears</p>",
+        "explanation": "<p> When a <em>Calcium</em> compound is held <em>in</em> a non-luminous Bunsen <em>flame</em> and viewed directly <em>with</em> the naked eye, it is seen as brick red,then as light green as seen through blue glass.</p>",
+        "correctIndex": 0,
+        "options": [
+            "green when viewed through a blue glass",
+            "blue when viewed through a blue glass",
+            "orange -red when viewed through a blue glass",
+            "brick-red when viewed through a blue-glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2005,
+        "question": "Which of the following alloys contain iron?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Duralumin and steel",
+            "Brass and bronze",
+            "Steel and permalloy",
+            "Soft solder and duralumin"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2005,
+        "question": "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "passed over heated copper (II) oxide",
+            "bubbled through water",
+            "bubbled through concentrated tetroxosulphate (VI) acid",
+            "bubbled through sodium hydroxide"
+        ],
+        "type": "objectives"
+    }
+]

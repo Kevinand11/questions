@@ -1,0 +1,852 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1985,
+        "question": "Which of the following is NOT a fundamental S.I unit?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Meter",
+            "Ampere",
+            "Kelvin",
+            "Seconds",
+            "Radian"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1985,
+        "question": "A simple pendulum with a period of 2.0s has its length doubled. Its new period is",
+        "explanation": "Using \\(\\frac{T_1}{T_2}\\) = \\(\\sqrt\\frac{L_1}{L_2}\\)<br><br>\\(\\frac{2}{T_2}\\) = \\(\\sqrt\\frac{L_1}{2L_1}\\)<br><br>T<sub>2</sub>= 2.83sec",
+        "correctIndex": 3,
+        "options": [
+            "1.00s",
+            "1.41s",
+            "0.3s",
+            "2.83s",
+            "4.00s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1985,
+        "question": "Which of the following statements are true about the spring balance and the chemical balance? i. both are used to measure the mass of an object. ii. either of them may be used to measure the weight of an object. iii. the spring balance works on the principle of Hooke's law while the chemical balance works on the principle of moments. iv. a change in gravity does the readings of a spring balance but not that of a chemical balance.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i, and iv",
+            "ii and iii",
+            "ii and iv",
+            "i, ii and iii",
+            "i and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1985,
+        "question": "Which of the following types of motion are oscillatory? i.a diving board when used by a diver. ii. the motion of the balance wheel of a wrist watch. iii. the motion of the turn-table of a record player. iv. the motion of the center of a ten kobo piece as it rolls down an inclined plane. v. the motion of the needle of a D.C. ammeter into which a low A.C. current is passed",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii",
+            "i, ii and iii",
+            "ii, ii and iv",
+            "i, ii and v",
+            "iii, iv and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1985,
+        "question": "If a car starts from rest and moves with a uniform acceleration of 10ms<sup>-2</sup>for ten seconds, the distance it covers in the last one second of its motion is",
+        "explanation": "Distance in 105, using, x = ut + \\(\\frac{1}{2}\\)at<sup>2</sup><br><br>x = (0 x 10) + (\\(\\frac{1}{2}\\) x 10 x 10 x 10) = 500m<br><br>distance in 9s; x - (0 x 9) + (\\(\\frac{1}{2}\\) x 10 x 9 x 9) = 405m<br><br>distance in last is = difference<br><br>= 500 - 405<br><br>= 95m",
+        "correctIndex": 0,
+        "options": [
+            "95m",
+            "100m",
+            "500m",
+            "905m",
+            "1000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1985,
+        "question": "A block of mass 2.04kg resting on a smooth horizontal plane is acted upon simultaneously by two-forces, 10N due North and 10N due East. The magnitude of the acceleration produced by the force on the block is",
+        "explanation": "R = \\(\\sqrt {10^2 + 10^2}\\)<br><br>R = 14.14N<br><br>R = F = ma<br><br>14.14 = 2 x a<br><br>a = 7.07ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "0.10ms<sup>-2</sup>",
+            "7.07ms<sup>-2</sup>",
+            "10.00ms<sup>-2</sup>",
+            "14.10ms<sup>-2</sup>",
+            "20.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1985,
+        "question": "A metal block of mass 5kg lies on a rough horizontal platform. If a horizontal force of 8N applied to the block through its center of mass just slides the block on the platform, then the coefficient of limiting friction between the block and platform is",
+        "explanation": "F = \\(\\mu\\)R<br><br>= \\(\\mu\\)mg<br><br>8 = \\(\\mu\\) x 5 x 10<br><br>\\(\\mu\\) = 0.16",
+        "correctIndex": 0,
+        "options": [
+            "0.16",
+            "0.63",
+            "0.80",
+            "1.60",
+            "2.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1985,
+        "question": "Which of the following is NOT a force?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Friction",
+            "Tension",
+            "Upthrust",
+            "Weight",
+            "Impulse"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1985,
+        "question": "Two masses 40g and 60g respectively, are attached firmly to the ends of the light meter rule. The center of gravity of the system is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "at the mid-point of the meter rule",
+            "40cm from the lighter mass",
+            "40cm from the heavier mass",
+            "60cm from the heavier mass",
+            "indeterninate because the meter-rule is light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1985,
+        "question": "A 0.05kg bullet travelling at 500ms<sup>-1</sup>horizontally strikes a thick vertical wall. It stops after penetrating through the wall horizontal distance of 0.25m. What is the magnitude of the average force the wall exerts on the bullet?",
+        "explanation": "F = ma<br><br>= m\\(\\frac{(v^2 - u^2)}{2s}\\)<br><br>F = 0.05\\(\\frac{(0 - (500)^2)}{2 \\times 0.25}\\)<br><br>F = 25 000N",
+        "correctIndex": 4,
+        "options": [
+            "25N",
+            "50N",
+            "250N",
+            "500N",
+            "25 000N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1985,
+        "question": "A force of 100N stretches an elastic string to a total length of 20cm. If an additional force of 100N stretches the string 5cm further, Find the natural length of the string",
+        "explanation": "Using, f<sub>1</sub>= f<sub>2</sub><br><br>e<sub>1</sub>= 20 - L ; e<sub>2 = 5cm<br>\n<br>\n\\(\\frac{f_1}{e_1}\\) = \\(\\frac{f_2}{e_2}\\)<br>\n<br>\n\\(\\frac{100}{20 - L}\\) = \\(\\frac{100}{5}\\) <br>\n<br>\nhence, L = 15cm\n</sub>",
+        "correctIndex": 0,
+        "options": [
+            "15cm",
+            "12cm",
+            "10cm",
+            "8cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1985,
+        "question": "Two divers G and H are at depths 20m and 40m respectively below the water surface in a lake. The pressure on G is P<sub>1</sub>while the pressure on H is P<sub>2</sub>. If the atmospheric pressure is equivalent to 10m of water, then the value of \\( \\frac{p_2}{p_1} \\) is",
+        "explanation": "pressure at H = 40m ; pressure at G, p<sub>1</sub>= 20m<br><br>\\(\\frac{p_1}{p_1}\\) = \\(\\frac{40}{20}\\)<br><br>= 2",
+        "correctIndex": 3,
+        "options": [
+            "0.50",
+            "0.60",
+            "1.67",
+            "2.00",
+            "3.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1985,
+        "question": "The areas of the effort and load pistons of a hydraulic press are 0.5m<sup>2</sup>and 5m<sup>2</sup>respectively. If a force F<sub>1</sub>of 100N is applied on the effort piston, the force F<sub>2</sub>on the load is",
+        "explanation": "\\(\\frac{load}{area}\\) = \\(\\frac{effort}{area}\\)<br><br>\\(\\frac{load}{5}\\) = \\(\\frac{100}{0.5}\\)<br><br>load = 1000N",
+        "correctIndex": 3,
+        "options": [
+            "10N",
+            "100N",
+            "500N",
+            "1000N",
+            "5000N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1985,
+        "question": "A metal cube of volume 10<sup>3</sup>mm<sup>3</sup>is lowered into a measuring cylinder containing water. If the internal cross-sectional area of the cylinder is 1.5 x 10<sup>2</sup>mm<sup>2</sup>, by how much does the water level rise in the cylinder?",
+        "explanation": "Height = \\(\\frac{volume}{area}\\)<br><br>= Height = \\(\\frac{10^3}{1.5 \\times 10^2}\\)<br><br>= 6.67mm",
+        "correctIndex": 0,
+        "options": [
+            "6.67 x 10<sup>0</sup>mm",
+            "8.50 x 10<sup>2</sup>mm",
+            "1.15 x 10<sup>3</sup>mm",
+            "2.50 x 10<sup>3</sup>mm",
+            "1.50 x 10<sup>5</sup>mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1985,
+        "question": "A uniform cylindrical block of wood floats in water with one-third of its height above the water level, in a liquid of relative density 0.8, what fraction of its height will be above the liquid level?",
+        "explanation": "Height inside H<sub>2</sub>O = \\(\\frac{2}{3}\\)<br><br>R.d = \\(\\frac{\\text{height inside}H_2O}{\\text{height inside liquid}}\\)<br><br>0.8 = \\(\\frac{\\frac{2}{3}}{X}\\)",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{1}{6}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{4}{5}\\)",
+            "\\(\\frac{5}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1985,
+        "question": "A thin aluminum plate has a surface area of 1500m<sup></sup>at 20<sup>o</sup>C. What will be its surface area when it is cooled to -20<sup>o</sup>C? (Take the linear expansivity of aluminum to be 2.5 x 10<sup>-5</sup>k<sup>-1</sup>).",
+        "explanation": "\\(\\beta\\) = A<sub>2</sub>- A<sub>1</sub><br><br>2 X 10<sup>-5</sup>x 2.5 = \\(\\frac{A_2 \\times 1.5}{1.5 \\times (-20 -20)}\\)<br><br>A<sub>2</sub>= 1.498m<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "1.503m<sup>2</sup>",
+            "1.500m<sup>2</sup>",
+            "1.498m<sup>2</sup>",
+            "1.497m<sup>2</sup>",
+            "1.490m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1985,
+        "question": "Two liquids, P at a temperature of 20<sup>o</sup>C and Q at a temperature of 80<sup>o</sup>C have specific heat capacities of 1.0Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>and 1.5J kg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>respectively. if equal masses of P and Q are mixed in a lagged calorimeter, then the equilibrium temperature is",
+        "explanation": "Heat lost = heat gained<br><br>m x (80 - \\(\\theta\\)) x 1.5 = m x (\\(\\theta\\) - 20) x 1<br><br>\\(\\theta\\) = 56<sup>o</sup>C",
+        "correctIndex": 2,
+        "options": [
+            "44<sup>o</sup>C",
+            "50<sup>o</sup>C",
+            "56<sup>o</sup>C",
+            "60<sup>o</sup>C",
+            "70<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1985,
+        "question": "A quantity of gas occupies a certain volume when the temperature is -73<sup>o</sup>C and the pressure is 1.5 atmospheres. If the pressure is increased to 4.5 atmospheres and the volume is halved at the same time, what will be the new temperature of the gas?",
+        "explanation": "\\(\\frac{P_1V_1}{T_1}\\) = \\(\\frac{P_2V_2}{T_2}\\)<br><br>V<sub>1</sub>= 2V<sub>2</sub><br><br>\\(\\frac{1.5 \\times 2V_2}{-73 + 273}\\) = \\(\\frac{4.5 \\times V_2}{T_2}\\)<br><br>T<sub>2</sub>= 300K = 27<sup>o</sup>C",
+        "correctIndex": 4,
+        "options": [
+            "573<sup>o</sup>C",
+            "327<sup>o</sup>C",
+            "300<sup>o</sup>C",
+            "110<sup>o</sup>C",
+            "27<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1985,
+        "question": "In a gas experiment, the pressure of the gas is plotted against the reciprocal of the volume of the gas at a constant temperature. the unit of the slope of the resulting curve is",
+        "explanation": "slope = pressure \\(\\div\\) \\(\\frac{1}{volume}\\)<br><br>= \\(\\frac{N}{m^3}\\) x \\(\\frac{m^3}{1}\\)<br><br>= Nm = work",
+        "correctIndex": 2,
+        "options": [
+            "force",
+            "force/m",
+            "work",
+            "force/m<sup>3</sup>",
+            "energy/m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1985,
+        "question": "Water shows anomalous behaviour.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "below 0<sup>o</sup>C",
+            "between 0<sup>oC and 4<sup>o</sup>C\n</sup>",
+            "at exactly 4<sup>oC\n</sup>",
+            "between 4<sup>oC and 100<sup>oC\n</sup></sup>",
+            "above 100<sup>oC\n</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1985,
+        "question": "Two thermo flasks of volume Vx and Vy are filled with liquid water at an initial temperature of 0<sup>o</sup>C. After sometime the temperature were found to be 9x, 9y, respectively. Given that \\(\\frac{Vx}{Vy}\\) = 2 and \\(\\frac{\\theta x}{\\theta y}\\) = \\(\\frac{1}{2}\\) the ratio of the heat flow into the flask is",
+        "explanation": "Heat = mc\\(\\theta\\)<br><br>H<sub>x</sub>= D<sub>x</sub>x V<sub>x</sub>x C<sub>x</sub>x \\(\\theta\\)<sub>x</sub><br><br>H<sub>y</sub>= D<sub>y</sub>x V<sub>y</sub>x C<sub>y</sub>x \\(\\theta\\)<sub>y</sub><br><br>\\(\\frac{H_x}{H_y}\\) = \\(\\frac{D_x \\times V_x \\times C_x \\times \\theta_x}{D_x \\times V_x \\times C_x \\times \\theta_x}\\)<br><br>= 2 x \\(\\frac{1}{2}\\)<br><br>= 1",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "4",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1985,
+        "question": "A good calorimeter should be of",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "low specific heat capacity and low heat conductivity",
+            "low specific heat capacity and high heat conductivity",
+            "high specific heat capacity and low heat conductivity",
+            "high specific heat capacity and low heat conductivity",
+            "dull surface and low heat conductivity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1985,
+        "question": "<p>Which of the following statements are NOT correct?</p>",
+        "explanation": "<p>The saturated vapour pressure is dependent on the temperature of the liquid and not on the volume.</p>",
+        "correctIndex": 3,
+        "options": [
+            "boiling occurs when the saturated vapour pressure of the liquid involved equals the external pressure",
+            "both the boiling point and the saturated vapour pressure of a given liquid depends on the external pressure",
+            "the saturated vapour presssure rises with increase in temperature",
+            "the saturated vapour pressure is independent of the volume available for the vapour",
+            "it is possible to boil water at a lower temperature than 100<sup>o</sup>C at high altitude"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1985,
+        "question": "Which of the following phenomena CANNOT be explained by the molecular theory of matter?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Expansion",
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1985,
+        "question": "In order to find the depth of the sea, a ship sends out a sound wave and receives an echo after one second. If the velocity of sound in water is 1500ms<sup>-1</sup>, what is the depth of the sea?",
+        "explanation": "Echo time = 1 \\(\\div\\) 2 = 0.5sec<br><br>depth = velocity x time<br><br>= 1500 x 0.5<br><br>= 750m = 0.75km",
+        "correctIndex": 0,
+        "options": [
+            "0.75km",
+            "1.50km",
+            "2.20km",
+            "3.00km",
+            "3.75km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1985,
+        "question": "When a sound wave passes from air into water its",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "speed and frequency increases but its wavelength remains the same",
+            "speed and wavelength increases but its frequency remains the same",
+            "speed decreases",
+            "speed remains the same but its frequency and wavelength change",
+            "speed increases but its frequency and wavelength decreases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1985,
+        "question": "If the fundamental frequency of a closed pipe organ on a day when the speed of sound is 340ms<sup>-1</sup>is 170Hz, then the length of the pipe is",
+        "explanation": "\\(\\lambda\\) = \\(\\frac{v}{f}\\)<br><br>= \\(\\frac{340}{170}\\)<br><br>= 2m ; for closed pipe<br><br>L = \\(\\frac{1}{4}\\)\\(\\lambda\\)<br><br>= \\(\\frac{1}{4}\\) x \\(\\frac{2}{1}\\)<br><br>= 0.5m<br><br>= 50cm",
+        "correctIndex": 0,
+        "options": [
+            "50cm",
+            "70cm",
+            "100cm",
+            "150cm",
+            "200cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1985,
+        "question": "An object is placed 15cm in front of a concave mirror of radius 40cm. The image formed",
+        "explanation": "u = f",
+        "correctIndex": 0,
+        "options": [
+            "virtual and 60cm behind the mirror",
+            "real and 60cm behind the mirror",
+            "virtual and at infinity",
+            "real and at infinity",
+            "virtual and 40cm from the mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1985,
+        "question": "A 45<sup>o</sup>triangular glass prism can be used as a reflector of light because",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "A refraction never takes place in such a prism",
+            "the angle of reflection equals the angle of incidence",
+            "the refractive index of glass is less than 1",
+            "it is transparent",
+            "the critival angle angle for glass is less than 45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1985,
+        "question": "A convex mirror is used as a driving mirror because i. its image is erect. ii. it has a large field of view. iii. it has a long focal length. Identify the CORRECT statement(s)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i andiii only",
+            "i and ii only",
+            "ii and iii only",
+            "i, ii, and iii only",
+            "i only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1985,
+        "question": "Two rays of light from a point below the surface of water are equally inclined to each other at 60<sup>o</sup>in water. What is the angle between the rays when they emerge into air? (Take the refractive index of water to be \\(\\frac{4}{3}\\))",
+        "explanation": "\\(\\frac{4}{3}\\) = \\(\\frac{sin r_1}{sin 30}\\) and \\(\\frac{4}{3}\\) = \\(\\frac{sin r_2}{sin 30}\\)<br><br>r<sub>1</sub>= 41.8<sup>o</sup>and r<sub>2</sub>= 41.8<sup>o</sup><br><br>angle between them = r<sub>1</sub>+ r<sub>2</sub><br><br>= 83.6<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "41.8<sup>o</sup>",
+            "44.1<sup>o</sup>",
+            "60.0<sup>o</sup>",
+            "83.6<sup>o</sup>",
+            "120.0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1985,
+        "question": "A narrow beam of white light can be split up into different colours by a glass prism. The correct explanation is that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "white light is an electromagnetic wave",
+            "the prism has all the colours of the white light",
+            "white light has undergone total internal reflection in the prism",
+            "different colours of white light travel with different speeds in glass",
+            "white ligth consist of yellow, green and red colours"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1985,
+        "question": "A charge of one coulomb liberates 0.0033g of copper in an electrolytic process. How long will it take a current of 2A to librate 1.98g of copper in such a process?",
+        "explanation": "0.0033g = 1 coulomb<br><br>1.98gs = 1.98 x 1<br><br>= 600 cou.<br><br>Q = It<br><br>600 = 2 x t<br><br>t = 300sec = 5 mins",
+        "correctIndex": 0,
+        "options": [
+            "5 mins",
+            "30 mins",
+            "50 mins",
+            "60 mins",
+            "120 mins"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1985,
+        "question": "If the distance between two stationary charged particle is doubled, the magnitude of the electro-static force between them will be",
+        "explanation": "F \\(\\alpha\\) \\(\\frac{1}{d^2}\\)<br><br>F x d<sup>2</sup>= constant<br><br>F<sub>1</sub>x (d<sub>1</sub>)<sup>2</sup>= F<sub>2</sub>x (d<sub>2</sub>)<sup>2</sup><br><br>d<sub>2</sub>= 2d<sub>1</sub><br><br>F<sub>1</sub>x (d<sub>1</sub>)<sup>2</sup>= F<sub>2</sub>x (2d<sub>1</sub>)<sup>2</sup><br><br>F<sub>2</sub>= \\(\\frac{1}{4}\\)F<sub>1</sub>",
+        "correctIndex": 2,
+        "options": [
+            "doubled",
+            "halved",
+            "a quarter of its former value",
+            "unchanged",
+            "four times the original value"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1985,
+        "question": "Which of the following methods CANNOT be used to produce a steel magnet? The",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "passing of an electric current through a solenoid",
+            "repeated stroking of the specimen with a magnet",
+            "repeated stroking of the specimen in opposite directions with magnets",
+            "heating of the specimen",
+            "hammering of the specimen in the earth's magnetic field"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1985,
+        "question": "<p>A cell gives a current of 0.15A through a resistance of 8\\(\\Omega\\) and 0.3A. When the resistance is changed to 3\\(\\Omega\\) the internal resistance of the cell is</p>",
+        "explanation": "<p>The E.M.F of a circuit is given by </p><p>\\(E=I(R+r)\\)</p><p>Hence, E = 0.15(8+r)  = 0.3(3+r)</p><p>1.2 + 0.15r = 0.9 + 0.3r</p><p>1.2 - 0.9 = 0.3r - 0.15r</p><p>0.3 = 0.15r</p><p>r = \\(\\frac{0.3}{0.15}\\)</p><p>r = 2\\(\\Omega\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.05\\(\\Omega\\)",
+            "1.00\\(\\Omega\\)",
+            "1.50\\(\\Omega\\)",
+            "2.00\\(\\Omega\\)",
+            "2.50\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1985,
+        "question": "Which of the following will convert a milliammeter to a voltmeter?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "low series resistance",
+            "low parallel resistance",
+            "high series resistance",
+            "high parallel resistance",
+            "parallel resistance equal to milliammeter resistance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1985,
+        "question": "A wire P has half the diameter and half the length of a wire Q of similar material. The ratio of the resistance of P to that of Q is",
+        "explanation": "Resistance \\(\\alpha\\) \\(\\frac{length}{area}\\)<br><br>\\(\\frac{R_Q}{R_P}\\) = \\(\\frac{L_QA_P}{L_PA_Q}\\)<br><br>L<sub>Q</sub>= 2L<sub>P</sub><br><br>D<sub>Q</sub>= 2D<sub>P</sub><br><br>A<sub>P</sub>= \\(\\pi\\)\\(\\frac{(2D_P)^2}{2}\\)<br><br>= \\(\\pi\\)D<sub>P</sub><br><br>A<sub>Q</sub>= \\(\\pi\\)\\(\\frac{(D_P)^2}{2}\\)<br><br>= \\(\\frac{1}{4}\\)\\(\\pi\\)D<sub>P</sub><br><br>therefore, \\(\\frac{R_Q}{R_P}\\) = \\(\\frac{2L_P \\times \\pi D_P}{L_P \\times \\frac{1}{4} \\pi D_P}\\)<br><br>= 2 : 1",
+        "correctIndex": 2,
+        "options": [
+            "8 : 1",
+            "4 : 1",
+            "2 : 1",
+            "1 : 1",
+            "1 : 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1985,
+        "question": "An electric kettle, connected to a 240V mains, produces 6.0 x 10<sup>5</sup>J of heat energy to boil a quantity of water in 5 minutes. Find the resistance of the kettle.",
+        "explanation": "Heat energy = Electrical energy<br><br>6 x 10<sup>5</sup>= \\(\\frac{V^2}{R}\\)t<br><br>R = \\(\\frac{240 \\times 240 \\times 5 \\times 60}{6 \\times 105}\\)<br><br>= 28.8\\(\\Omega\\)",
+        "correctIndex": 1,
+        "options": [
+            "14.4\\(\\Omega\\)",
+            "28.8\\(\\Omega\\)",
+            "144\\(\\Omega\\)",
+            "288\\(\\Omega\\)",
+            "2880\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1985,
+        "question": "On which of the following does the operation of a moving coil ammeter depend? i. Electromagnetic induction ii. Force on a carrying-current conductor iii. Magnetic effect of an electric current",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i only",
+            "ii only",
+            "iii only",
+            "ii and iii only",
+            "i,ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1985,
+        "question": "Which of the following statements is NOT correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A galvanometer can be converted to an ammeter with a different range by connecting a high resistance in series",
+            "An electric current always produces a magnetic field",
+            "Maxwell's screw rule states that if a corkscrew moves inthe direction of the current, the hand turns in the direction of the lines of force",
+            "Electromagnets are used in electric bells and telephone recievers",
+            "The lines of force round a straight current carrying conductor are circular"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1985,
+        "question": "A transformer has a primary coil with 500 turns and a secondary coil with 2500 turns. When the voltage input to the primary coil is 120V, the output is",
+        "explanation": "For transformers, \\(\\frac{V_p}{V_s}\\) = \\(\\frac{N_p}{N_s}\\) = \\(\\frac{I_p}{I_s}\\)<br><br>\\(\\frac{500}{2500}\\) = \\(\\frac{120}{V_s}\\)<br><br>V<sub>s</sub>= 600v",
+        "correctIndex": 1,
+        "options": [
+            "6000V",
+            "600V",
+            "240V",
+            "60V",
+            "24V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1985,
+        "question": "Which of the following statements about electrolysis is NOT correct?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "The substances in solution in the electrolyte become ionized",
+            "Ions are electrically charged and are attracted towards electrodes when a potential difference is applied",
+            "Ions may be discharged at the electrodes, forming bubbles or deposits",
+            "The mass deposited depends upon the length of time for which current flows",
+            "The mass of gas set free or metal deposited is proportional to the square of the current"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1985,
+        "question": "Which of the following statements is NOT correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "The average range of distinct vision for a normal eye is from the far distance (infinity) up to about 25cm in front of the eye",
+            "Longsighted people have difficulty in making the eye lense sufficiently powerful to focus on nearby objects",
+            "Shortsighted people cannot accommodate distant objects",
+            "Longsighted people need diverging spectacle lenses",
+            "A person with long sight has his eye-ball too short and the image of an object is therefore formed behind the retina"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1985,
+        "question": "Which of the following features is NOT a characteristic of natural radioactivity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Radioactivity is a nuclear phenomenon",
+            "Radioactivity is exhibited only by elements of mass number greater than 206",
+            "The radioactivity of an element is affected by electric and magnetic fields in the surroundings",
+            "Radioactive substances emits three types of radiations, a-rays, \\(\\beta\\)-rays and y-rays",
+            "The radioactive element is transformed into a new element"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1985,
+        "question": "What is the number of neutrons in the Uranium isotope \\(^{238}_{92}X\\)?",
+        "explanation": "No of neutrons = 238-92<br><br>=146",
+        "correctIndex": 1,
+        "options": [
+            "92",
+            "146",
+            "238",
+            "330",
+            "119"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1985,
+        "question": "Normal atmospheric pressure at sea-level is 10<sup>5</sup>Nm<sup>-2</sup>and the acceleration due to gravity is approximately 10ms<sup>-1</sup>. If the atmosphere has a uniform density of 1kgm<sup>-3</sup>, its height is",
+        "explanation": "pressure = h x g x e<br><br>10<sup>5</sup>= 10 x h x 1<br><br>h = 10<sup>4</sup>",
+        "correctIndex": 2,
+        "options": [
+            "100m",
+            "1000m",
+            "10 000m",
+            "100 000m",
+            "1000 000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1985,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4375671678_1985.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "10W",
+            "20W",
+            "40W",
+            "80W",
+            "100W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1985,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11668459512_19850002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.00ms<sup>-2</sup>",
+            "0.25ms<sup>-2</sup>",
+            "4.00ms<sup>-2</sup>",
+            "8.00ms<sup>-2</sup>",
+            "10.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1985,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24795482311_19850001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3.0N",
+            "3.4N",
+            "3.5N",
+            "6.0N",
+            "7.0N"
+        ],
+        "type": "objectives"
+    }
+]

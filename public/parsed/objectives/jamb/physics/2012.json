@@ -1,0 +1,674 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2012,
+        "question": "<p>In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "slantingly towards the right on the markings",
+            "slantingly towards the left on the markings",
+            "vertically downwards on the markings",
+            "vertically upwards on the markings"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2012,
+        "question": "A load is pulled at a uniform speed along a horizontal floor by a rope at 45<sup>o</sup>to floor. If the force in the rope is 1500N, what is the frictional force on the load ?",
+        "explanation": "F = mg cos 45<sup>o</sup>= 1500 x 0.708<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "1524N",
+            "1350N",
+            "1260N",
+            "1061N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2012,
+        "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms<sup>-1</sup>with a constant retardation of 0.1m<sup>-2</sup>",
+        "explanation": "S = \\(\\frac{V^2 - U^2}{20}\\)<br><br>S = \\(\\frac{0^2 - 30^2}{2 \\times 0.1}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "5500m",
+            "4500m",
+            "4200m",
+            "3000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2012,
+        "question": "A car starts from rest and moves with a uniform acceleration of 30ms<sup>-2</sup>for 20s. Calculate the distance covered at the end of the motion",
+        "explanation": "S = \\(ut + \\frac{1}{2}at^2\\)<br><br>S = \\(0 \\times 2 + \\frac{1}{2} \\times 30 \\times 20^2\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "6km",
+            "12km",
+            "18km",
+            "24km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2012,
+        "question": "A rocket is fired from the earth's surface to a distant planet. By Newton's law of universal gravitation, the force F will",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increase as r reduces",
+            "increase as G varies",
+            "remains constant",
+            "increases as r increases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2012,
+        "question": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "acceleration is directly proportional to the displacement",
+            "motion is directed away from the equilibrium point",
+            "acceleration is directly proportional to the square of the displacement",
+            "velocity is minimum at the equilibrium ponit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2012,
+        "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms<sup>-1</sup>What is its angular velocity?",
+        "explanation": "W = \\(\\frac{v}{r} = \\frac{1}{0.5}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "8 rads<sup>-1</sup>",
+            "4 rads<sup>-1</sup>",
+            "2 rads<sup>-1</sup>",
+            "1 rads<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2012,
+        "question": "An object of mass 20kg slides down an inclined plane at an angle of 30<sup>o</sup>to the horizontal. The coefficient of static friction is?<br>[g = 10ms<sup>-2</sup>]",
+        "explanation": "\\(\\mu = tan\\theta = tan30\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.2",
+            "0.3",
+            "0.5",
+            "0.6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2012,
+        "question": "<p>A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?</p>",
+        "explanation": "<p>Y = \\(\\frac{work output}{work input} \\times \\frac{100}{1}\\)<br>\n<br>\nY = \\(\\frac{250 \\times 30}{250 \\times 30 + 1500} \\times \\frac{100}{1}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "62.5%",
+            "73.3%",
+            "83.3%",
+            "94.3%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2012,
+        "question": "If a load of 1 kg stretches a cord by 1.2cm, what is the force constant of the cord? {g=10ms<sup>-2</sup>}",
+        "explanation": "K = \\(\\frac{F}{e}\\)<br><br>K = \\(\\frac{1 \\times 10}{\\frac{0.2}{100}}\\)<br><br>K = \\(\\frac{10}{12} \\times \\frac{1000}{1}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "866Nm<sup>-1</sup>",
+            "833Nm<sup>-1</sup>",
+            "769Nm<sup>-1</sup>",
+            "667Nm<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2012,
+        "question": "An object of volume 1 m<sup>3</sup>and mass 2kg is totally immersed in a liquid of density 1 kgm<sup>-3</sup>. Calculate its apparent weight.",
+        "explanation": "M = DV = 1 x 1 = 1kg<br><br>App Wt = (2 - 1)g = 1 x 10<br><br>= 10<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "20N",
+            "10N",
+            "2N",
+            "1 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2012,
+        "question": "The pressure at any point in a liquid at rest depends only on the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "depth and the density",
+            "mass and the volume",
+            "quantity and the surface area",
+            "surface area and the viscosity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2012,
+        "question": "A balloon whose volume is 300m<sup>3</sup>is filled with hydrogen. If the density of air is 1.3 kgm<sup>-3</sup>, find the upthrust on the balloon. [g = 10ms<sup>-2</sup>]",
+        "explanation": "F = mg = D x V x g = 1.3 x 300 x 10 = 3900<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "3000N",
+            "3800N",
+            "3900N",
+            "4200N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2012,
+        "question": "Clinical thermometers are examples of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "pressure gas thermometer",
+            "resistance thermometer",
+            "alcohol thermometer",
+            "mercury- in - glass thermometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2012,
+        "question": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their<br>length is 3: 4 respectively, the ratio of the increase in lengths of P to Q is",
+        "explanation": "P: \\(\\frac{\\alpha h \\theta}{\\alpha h \\theta}\\)<br><br>\\(\\frac{2 \\times 3 \\times \\theta}{3 \\times 4 \\times \\theta}\\)<br><br>\\(\\frac{1}{2}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1:2",
+            "2:1",
+            "8:9",
+            "9:8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2012,
+        "question": "2000cm<sup>3</sup>of a gas is collected at 27<sup>o</sup>C and 700mmHg. What is the volume of the gas at standard temperature and pressure?",
+        "explanation": "\\(V_2 = \\frac{P_1V_1T_2}{P_2T_2}\\)<br><br>\\(V_2 = \\frac{700 \\times 2000 \\times 273}{760 \\times 300}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1896.5cm<sup>3</sup>",
+            "1767.3cm<sup>3</sup>",
+            "1676.3cm<sup>3</sup>",
+            "1456.5cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2012,
+        "question": "Calculate the temperature change when 500J of heat is supplied to 100g of water",
+        "explanation": "\\(\\theta = \\frac{Q}{MC}\\)<br><br>\\(\\theta = \\frac{500}{0.1 \\times 4200}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "12.1<sup>o</sup>C",
+            "2.1<sup>o</sup>C",
+            "1.2<sup>o</sup>C",
+            "0.1<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2012,
+        "question": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increase in the pressure of the atmosphere",
+            "rise in temperature",
+            "increase in the average speed of the molecules of water",
+            "increase in the kinetic energy of the molecules of water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2012,
+        "question": "The quantity of heat energy required to melt completely 1 kg of ice at - 30<sup>o</sup>C is<br>[latent heat of fusion = 3.5 x 10<sup>5</sup>Jkg<sup>-1</sup>, specific heat capacity of ice = 2.1x10<sup>3</sup>Jkg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "Q = mL + mcθ = 1 x 3.5 x 10<sup>5</sup>+ 1 x 2.1 x 10<sup>3</sup>x 30<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "4.13x10<sup>6</sup>J",
+            "4.13x10<sup>5</sup>J",
+            "3.56x10<sup>4</sup>J",
+            "3.56x10<sup>2</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2012,
+        "question": "I. It is a rapid, constant and irregular motion of tiny particles. II. It gives evidence that tiny particles of matter called molecules exist. III. It takes place only in gases. IV. It gives evidence that molecules are in a constant state of random motion. which of the combinations above is correct about Brownian notion?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I,II and III only",
+            "II,III and IV only",
+            "I,III and lV only",
+            "l, ll and lV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2012,
+        "question": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2/5 (60t - x) what is its wave length?",
+        "explanation": "\\(\\frac{\\lambda}{2 \\pi}\\)<br><br>\\(\\frac{5}{2 \\pi}\\) = 5m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "60m",
+            "15m",
+            "5m",
+            "2m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2012,
+        "question": "Which of the following factors will affect the velocity of sound?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "An increase in the pitch of the sound",
+            "An increase in the loudness of the sound",
+            "Wind travelling in the same direction of the sound",
+            "A change in the atmospheric pressure at constant temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2012,
+        "question": "The characteristic of a vibration that determines its intensity is the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Frequency",
+            "Overtone",
+            "Wavelength",
+            "Amplitude"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2012,
+        "question": "Where can a man place his face to get an enlarged image when using a concave mirror to shave?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Between the centre of curvature and the principal focus",
+            "At the principal focus",
+            "Between the principal focus and the pole",
+            "At the centre of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2012,
+        "question": "A pinhole camera is placed 300m in front of a building so that the image is formed on a screen 5cm from the the pinhole. If the image is 2.5cm high, the height of the building will be",
+        "explanation": "==&gt; \\(\\frac{v}{u}\\) = \\(\\frac{hi}{ho}\\)<br><br>==&gt; \\(\\frac{5}{300}\\) = \\(\\frac{2.5}{ho}\\)<br><br>= 150m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "25m",
+            "50m",
+            "100m",
+            "150m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2012,
+        "question": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
+        "explanation": "M = v = \\(\\frac{2}{2}\\) = 1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "6.0",
+            "1.0",
+            "0.7",
+            "0.6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2012,
+        "question": "After reflection from the concave mirror, rays of light from the sun converges",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "at the radius of curvature",
+            "at the focus",
+            "beyond the radius of curvature",
+            "between the focus and radius of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2012,
+        "question": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is",
+        "explanation": "\\(\\mu\\) = R.9 = 1.5 = 10<br><br>A.P A.d, Ad = 6.66<br><br>Displacement = R.d - A.d = 10 - 6.66<br><br>= 3.33",
+        "correctIndex": 0,
+        "options": [
+            "3.33cm",
+            "5.00cm",
+            "6.67cm",
+            "8.50cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2012,
+        "question": "I. Rays of light travel from a less dense medium to a denser medium. II. The Angle of incidence is greater than critical angle. III. Rays of light travel from a denser medium to a less dense medium. Which of the statements above are conditions for total internal reflection to occur?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I &amp; II only",
+            "I &amp; III only",
+            "II &amp; III only",
+            "II only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2012,
+        "question": "The use of lenses is Not applicable in the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "projector",
+            "human eye",
+            "periscope",
+            "telescope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2012,
+        "question": "Disperson of white light is the ability of white light to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "penetrate air, water and glass",
+            "move in a straight line",
+            "move around corners",
+            "separate to its component colours"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2012,
+        "question": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with a effective e.m.f. of 12V cannot start the same car because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The current capacity is high",
+            "The current capacity is low",
+            "it cannot be re-charged",
+            "it cannot easily be connected to a car"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2012,
+        "question": "The fuse in an electric device is always connected to the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "neutral side of an electric supply",
+            "earth side of an electric supply",
+            "live side of an electric supply",
+            "terminal side of an electric supply"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2012,
+        "question": "A particle carrying a charge of 1. 0 x 10<sup>-8</sup>C enters a magnetic field at 3.0x 10<sup>-2</sup>ms<sup>-1</sup>at right angles to the field. If the force on this particle is 1.8 x 10<sup>-8</sup>N, what is the magnitude of the field?",
+        "explanation": "F = BQV<br><br>B = \\(\\frac{F}{QV}\\)<br><br>B = \\(\\frac{1.8 \\times 10^{-8}}{1.0 \\times 10^{-8} \\times 3.0 \\times 10^{-2}}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "6.0x10<sup>-1</sup>T",
+            "6.0x10T",
+            "6.0x10<sup>-3</sup>T",
+            "6.0x10<sup>-4</sup>T"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2012,
+        "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
+        "explanation": "I<sub>rms</sub>= \\(\\frac{10}{\\sqrt{2}}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "5.0A",
+            "7.1A",
+            "10.0A",
+            "14.1A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2012,
+        "question": "A conductor of length 1m moves with a velocity of 50ms<sup>-1</sup>at an angle of 30<sup>o</sup>to the direction of a uniform magnetic field of flux density 1.5Wbm<sup>-2</sup>. What is the e.m.f induced in the conductor?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "37.5V",
+            "50.5V",
+            "75.0V",
+            "80.5V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2012,
+        "question": "<p>The process of detecting a pin mistakenly swallowed by a child is X-ray</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Diagnosis",
+            "Therapy",
+            "Crystallography",
+            "Mammography"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2012,
+        "question": "<p>Which of the following CANNOT be deflected by both electric and magnetic fields?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Gamma rays",
+            "Alpha particles",
+            "Wave particles",
+            "Beta particles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2012,
+        "question": "A piece of radioactive material contains 1000 atmos. If its half -life is 20seconds, the time taken for 125 atoms to remain is",
+        "explanation": "1000 → 500 → 250 → 125<br><br>20 + 20 + 20 = 60s<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "20 seconds",
+            "40 seconds",
+            "80 seconds",
+            "60 seconds"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2012,
+        "question": "<p>The p-n junction diodes can act as rectifiers because they</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "conduct current when forward-biased",
+            "conduct current when reverse-biased",
+            "block current when forward-biased",
+            "conduct current in both directions"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2012,
+        "question": "If a reverse-biased voltage is applied across a p-n junction, the depletion layer width is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increased",
+            "decreased",
+            "constant",
+            "halved"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2012,
+        "question": "<p>I. Small size.<br>\nII. Low power requirement<br>\nIII. Not easily damaged by high temperature<br>\nIV. Highly durable.</p><p>Which of the above are the advantages of semiconductors?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I,II and lll only",
+            "ll,lll and lV only",
+            "l, II and lV only",
+            "l, ll, lll and lV"
+        ],
+        "type": "objectives"
+    }
+]

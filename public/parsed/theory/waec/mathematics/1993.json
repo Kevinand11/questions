@@ -1,0 +1,110 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1993,
+        "question": "<p>(a) Simplify, without using Mathematical tables: \\(\\log_{10} (\\frac{30}{16}) - 2 \\log_{10} (\\frac{5}{9}) + \\log_{10} (\\frac{400}{243})\\)</p><p>(b) Without using Mathematical tables, calculate \\(\\sqrt{\\frac{P}{Q}}\\) where \\(P = 3.6 \\times 10^{-3}\\) and \\(Q = 2.25 \\times 10^{6}\\), leaving your answer in standard form.</p>",
+        "answer": "<p>(a) \\(\\log_{10} (\\frac{30}{16}) - 2 \\log_{10} (\\frac{5}{9}) + \\log_{10} (\\frac{400}{243})\\)</p><p>= \\(\\log_{10} (\\frac{30}{16}) - \\log_{10} (\\frac{5}{9})^{2} + \\log_{10} (\\frac{400}{243})\\)</p><p>= \\(\\log_{10} (\\frac{30}{16} \\times \\frac{400}{243} \\div \\frac{25}{81})\\)</p><p>= \\(\\log_{10} (\\frac{30}{16} \\times \\frac{400}{243} \\times \\frac{81}{25})\\)</p><p>= \\(\\log_{10} (10) = 1\\)</p><p>(b) \\(\\sqrt{\\frac{P}{Q}} = \\sqrt{\\frac{3.6 \\times 10^{-3}}{2.25 \\times 10^{6}}\\)</p><p>= \\(\\sqrt{\\frac{36 \\times 10^{-4}}{2.25 \\times 10^{6}}\\)</p><p>= \\(\\frac{6 \\times 10^{-2}}{1.5 \\times 10^{3}}\\)</p><p>= \\(4 \\times 10^{-2 - 3} = 4 \\times 10^{-5}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1993,
+        "question": "<p>The universal set \\(\\varepsilon\\) is the set of all integers and the subset P, Q, R of \\(\\varepsilon\\) are given by:</p><p>\\(P = {x : x &lt; 0} ; Q = {... , -5, -3, -1, 1, 3, 5} ; R = {x : -2 \\leq x &lt; 7}\\)</p><p>(a) Find \\(Q \\cap R\\).</p><p>(b) Find \\(R'\\) where R' is the complement of R with respect to \\(\\varepsilon\\).</p><p>(c) Find \\(P' \\cup R'\\)</p><p>(d) List the members of \\((P \\cap Q)'\\).</p>",
+        "answer": "<p>\\(P = {..., -5, -4, -3, -2, -1}\\)</p><p>\\(Q = {..., -5, -3, -1, 1, 3, 5, ...}\\)</p><p>\\(R = {-2, -1, 0, 1, 2, 3, 4, 5, 6}\\)</p><p>(a) \\(Q \\cap R = {-1, 1, 3, 5}\\)</p><p>(b) \\(R' = {..., -5, -4, -3, 7, 8, ...}\\)</p><p>(c) \\(P' = {0, 1, 2, 3, ...}\\)</p><p>\\(P' \\cup R' = {-5, -4, -3, 0, 1, 2, 3, ...}\\)</p><p>(d) \\(Q = {..., -5, -3, -1, 1, 3, 5,...}\\)</p><p>\\(P \\cap Q = {..., -7, -5, -3, -1}\\)</p><p>\\((P \\cap Q)' = {..., -8, -6, -4, -2, 0, 1, 2, 3, ...}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1993,
+        "question": "<p>A simple measuring device is used at points X and Y on the same horizontal level to measure the angles of elevation of the peak P of a certain mountain. If X is known to 5,200m above sea level, /XY/ = 4,000m and the measurements of the angles of elevation of P at X and Y are 15° and 35° respectively, find the height of the mountain. (Take \\(\\tan 15 = 0.3\\) and \\(\\tan 35 = 0.7\\))</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0356%20%283%29.jpg\" style=\"height:242px; width:250px\"></p><p>In \\(\\Delta\\) BPY, \\(\\tan 35° = \\frac{h}{x}\\)</p><p>\\(h = x \\tan 35 = 0.7 x ... (1)\\)</p><p>In \\(\\Delta\\) BPX, \\(\\frac{h}{x + 4000} = \\tan 15\\)</p><p>\\(\\frac{h}{x + 4000} = 0.3\\)</p><p>\\(h = 0.3 (x + 4000) = 0.3x + 1200 ... (2)\\)</p><p>Equating (1) and (2) as the values of h, we have</p><p>\\(0.7x = 0.3x + 1200 \\implies 0.7x - 0.3x = 1200\\)</p><p>\\(0.4x = 1200 \\times x = \\frac{1200}{0.4} = 3000m\\)</p><p>\\(\\therefore h = 0.7x = 0.7 (3000) = 2100m\\)</p><p>\\(\\text{The total height = } 5200m + 2100m = 7300m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1993,
+        "question": "<p>(a) Simplify \\(\\frac{3}{m + 2n} - \\frac{2}{m - 3n}\\)</p><p>(b) A number is made up of two digits. The sum of the digits is 11. If the digits are interchanged, the original number is increased by 9. Find the number.</p>",
+        "answer": "<p>(a) \\(\\frac{3}{m + 2n} - \\frac{2}{m - 3n}\\)</p><p>= \\(\\frac{3(m - 3n) - 2(m + 2n)}{(m + 2n)(m - 3n)}\\)</p><p>= \\(\\frac{3m - 9n - 2m - 4n}{(m + 2n)(m - 3n)}\\)</p><p>= \\(\\frac{m - 13n}{(m + 2n)(m - 3n)}\\)</p><p>(b) Let the numbers in the digit be x and z.</p><p>Hence the number is \\(10x + z\\).</p><p>When it is interchanged, we have \\(10z + x\\).</p><p>\\(10z + x = 10x + z + 9\\)</p><p>\\(10z - z + x - 10x = 9\\)</p><p>\\(9z - 9x = 9 \\implies z - x = 1 ... (1)\\)</p><p>\\(x + z = 11 ... (2)\\)</p><p>From (1), \\(z = 1 + x\\)</p><p>\\(\\therefore x + 1 + x = 11\\)</p><p>\\(2x + 1 = 11 \\implies 2x = 11 - 1 = 10\\)</p><p>\\(\\therefore x = 5\\)</p><p>\\(z = 1 + x = 1 + 5 = 6\\)</p><p>\\(\\therefore\\) The original number = 56.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1993,
+        "question": "<p>A box contains identical balls of which 12 are red, 16 white and 8 blue. Three balls are drawn from the box one after the other without replacement. Find the probability that :</p><p>(a) three are red;</p><p>(b) the first is blue and the other two are red;</p><p>(c) two are white and one is blue.</p>",
+        "answer": "<p>n(R) = number of red balls = 12;</p><p>n(W) = number of white balls = 16;</p><p>n(B) = number of blue balls = 8</p><p>Total number of balls = 36</p><p>(a) P(three are red) = \\(\\frac{12}{36} \\times \\frac{11}{35} \\times \\frac{10}{34}\\)</p><p>= \\(\\frac{11}{357}\\)</p><p>(b) P(first is blue and other two red) = \\(\\frac{8}{36} \\times \\frac{12}{35} \\times \\frac{11}{34}\\)</p><p>= \\(\\frac{44}{1785}\\)</p><p>(c) P(two are white and one is blue) = \\(\\frac{16}{36} \\times \\frac{15}{35} \\times \\frac{8}{34}\\)</p><p>= \\(\\frac{16}{357}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1993,
+        "question": "<p>(a)(i) Given that \\(\\log_{10} 5 = 0.699\\) and \\(\\log_{10} 3 = 0.477\\), find \\(\\log_{10} 45\\), without using Mathematical tables.</p><p>(ii) Hence, solve \\(x^{0.8265} = 45\\).</p><p>(b) Use Mathematical tables to evaluate \\(\\sqrt{\\frac{2.067}{0.0348 \\times 0.538}}\\)</p>",
+        "answer": "<p>(a)(i) \\(\\log_{10} 45 = \\log_{10} (3 \\times 3 \\times 5)\\)</p><p>= \\(\\log_{10} (3^{2} \\times 5)\\)</p><p>= \\(\\log_{10} 3^{2} + \\log_{10} 5\\)</p><p>= \\(2 \\log_{10} 3 + \\log_{10} 5\\)</p><p>= \\(2(0.477) + 0.699\\)</p><p>= \\(0.954 + 0.699 = 1.653\\)</p><p>(ii) \\(x^{0.8265} = 45\\)</p><p>Taking the log of both sides,</p><p>\\(\\log_{10} x^{0.8265} = \\log_{10} 45\\)</p><p>\\(0.8265 \\log_{10} x = \\log_{10} 45\\)</p><p>\\(\\log_{10} x = \\frac{1.653}{0.8265}\\)</p><p>\\(\\log_{10} x = 2\\)</p><p>\\(x = 10^{2} = 100\\)</p><p>(b) \\(\\sqrt{\\frac{2.067}{0.0348 \\times 0.538}}\\)</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>No</td>\n<td>Log</td>\n</tr>\n<tr>\n<td>2.067</td>\n<td>\\(0.0348\\)       = 0.3513 -</td>\n</tr>\n<tr>\n<td>0.0348</td>\n<td>\n<p>\\(\\bar{2}.5416 +\\)</p>\n</td>\n</tr>\n<tr>\n<td>0.538</td>\n<td>\\(\\bar{1}.7308\\)</td>\n</tr>\n<tr>\n<td> </td>\n<td>\\(\\bar{2}.2724\\) = \\(\\bar{2}.2724\\)</td>\n</tr>\n<tr>\n<td> </td>\n<td>                         = \\(2.0789 \\div 2 = 1.0395\\)</td>\n</tr>\n<tr>\n<td>Antilog - 10.95</td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>\\(\\therefore \\sqrt{\\frac{2.067}{0.0348 \\times 0.538}} = 10.95\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1993,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0355%20%282%29.jpg\" style=\"height:270px; width:250px\"></p><p>In the diagram, BA is parallel to DE. Find the value of x.</p><p>(b) Illustrate graphically and shade the region in which inequalities \\(y - 2x &lt; 5 ; 2y + x \\geq 4 ; y + 2x \\leq 10\\) are satisfied.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0357%20%282%29.jpg\" style=\"height:255px; width:250px\"></p><p>Draw RC produced to E parallel to DE.</p><p>\\(\\therefore &lt; BCR = 52°\\) (alternate angles BA//RC)</p><p>also &lt; RCD = 48° (alternate angles RC//DE)</p><p>\\(x° = 360° - (52° + 48°) = 360° - 100° = 260°\\) (angles at a point = 360°)</p><p>(b) \\(y - 2x &lt; 5 ... (i)\\)</p><p>\\(2y + 2x \\geq 4 \\implies y + x \\geq 2 ... (ii)\\)</p><p>\\(y + 2x \\leq 10 ... (iii)\\)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0357%20%283%29.jpg\" style=\"height:300px; width:400px\"></p><p>From (i), if \\(y - 2x = 5\\), when x = 0, y = 5, when x = 2, y = 9.</p><p>From (ii), if \\(y + x = 2\\). when x = 0, y = 2, when x = 3, y = -1</p><p>From (iii), if \\(y + 2x = 10\\), when x = 0, y = 10, when x = 2, y = 6.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1993,
+        "question": "<p>(a) Prove that the angle which an arc of a circle subtends at the centre is twice that which it subtends at any point on the remaining part of the circumference.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0356%20%282%29.jpg\" style=\"height:241px; width:250px\"></p><p>In the diagram, O is the centre of the circle ACDB. If &lt; CAO = 26° and &lt; AOB = 130°. Calculate : (i) &lt; OBC ; (ii) &lt; COB.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0357%20%284%29.jpg\" style=\"height:269px; width:250px\"></p><p>Given : Circle ABC, centre O.</p><p>To prove: &lt; AOB = &lt; ACB</p><p>Construction : Join CO produced to P.</p><p>Proof: With the lettering in the figure, OA = OB (radii)</p><p>\\(x_{1} = x_{2}\\) (base angles of isosceles triangle)</p><p>\\(\\therefore &lt; AOP = x_{1} + x_{2}\\) (exterior angle of triangle AOC)</p><p>\\(\\therefore &lt; AOP = 2x_{2} (x_{1} = x_{2})\\) (base angles of an isosceles triangle)</p><p>Similarly, \\(&lt; BOP = 2y_{2}\\)</p><p>\\(\\therefore &lt; AOB = 2x_{2} + 2y_{2} \\)</p><p>= \\(2(x_{2} + y_{2})\\)</p><p>\\(\\implies &lt; AOB = 2 \\times &lt; ACB\\) (proved)</p><p>(b) From the figure, \\(&lt; ACB = \\frac{130°}{2} = 65°\\) (angle subtended at the centre of the circle)</p><p>\\(&lt; ACO = 26°\\) (Base angles of isosceles triangle ACO)</p><p>\\(\\therefore &lt; BCO = 65° - 26° = 39°\\)</p><p>\\(&lt; OBC = 39°\\) (base angles of isosceles triangle OBC)</p><p>\\(\\therefore &lt; COB = 180° - (39° + 39°) = 102°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1993,
+        "question": "<p>(a) What is the 25th term of 5, 9, 13,... ?</p><p>(b) Find the 5th term of \\(\\frac{8}{9}, \\frac{-4}{3}, 2, ...\\).</p><p>(c) The 3rd and 6th terms of a G.P are \\(48\\) and \\(14\\frac{2}{9}\\) respectively. Write down the first four terms of the G.P.</p>",
+        "answer": "<p>(a) 5, 9, 13, ... is an A.P with the first term = 5 and common difference = 9 - 5 = 13 - 9 = 4.</p><p>\\(T_{n} = a + (n - 1)d\\) (terms of an A.P)</p><p>\\(T_{25} = 5 + (25 - 1) \\times 4\\)</p><p>= \\(5 + 24 \\times 4\\)</p><p>= \\( 5 + 96 = 101\\)</p><p>(b) \\(\\frac{8}{9}, \\frac{-4}{3}, 2, ...\\) is a G.P with first term = \\(\\frac{8}{9}\\)</p><p>\\(r = \\frac{T_{2}}{T_{1}} = -\\frac{4}{3} \\div \\frac{8}{9} = \\frac{-4}{3} \\times \\frac{9}{8} = -\\frac{3}{2}\\)</p><p>\\(T_{n} = ar^{n - 1}\\) (terms of a G.P)</p><p>\\(T_{5} = (\\frac{8}{9})(-\\frac{3}{2})^{5 - 1}\\)</p><p>= \\(\\frac{8}{9} \\times \\frac{81}{16} = \\frac{9}{2}\\)</p><p>(c) \\(T_{n} = ar^{n - 1}\\) (terms of a G.P)</p><p>\\(T_{3} = ar^{2} = 48 ... (1)\\)</p><p>\\(T_{6} = ar^{5} = 14\\frac{2}{9} ... (2)\\)</p><p>\\((2) \\div (1) : r^{3} = \\frac{128}{9} \\div 48 = \\frac{128}{9} \\times \\frac{1}{48}\\)</p><p>\\(r^{3} = \\frac{8}{27}\\)</p><p>\\(r = \\sqrt[3]{\\frac{8}{27}} = \\frac{2}{3}\\)</p><p>From (1), \\(ar^{2} = 48 \\implies a \\times (\\frac{2}{3})^{2} = 48\\)</p><p>\\(4a = 48 \\times 9 \\implies a = \\frac{48 \\times 9}{4} = 108\\)</p><p>\\(T_{2} = 108 \\times \\frac{2}{3} = 72\\)</p><p>\\(T_{4} = 48 \\times \\frac{2}{3} = 32\\)</p><p>\\(\\therefore\\) The first four terms of the sequence are \\(108, 72, 48, 32\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1993,
+        "question": "<p>(a) Copy and complete the following table of values for \\(y = 3\\sin 2\\theta - \\cos \\theta\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>\\(\\theta\\)</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-1.0</td>\n<td> </td>\n<td> </td>\n<td>0</td>\n<td> </td>\n<td> </td>\n<td>1.0</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2cm to 30° on the \\(\\theta\\) axis and 2cm to 1 unit on the y- axis, draw the graph of \\(y = 3 \\sin 2\\theta - \\cos \\theta\\) for \\(0° \\leq \\theta \\leq 180°\\).</p><p>(c) Use your graph to find the : (i) solution of the equation \\(3 \\sin 2\\theta - \\cos \\theta = 0\\), correct to the nearest degree; (ii) maximum value of y, correct to one decimal place.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>\\(\\theta\\)</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-1.0</td>\n<td>1.732</td>\n<td>2.098</td>\n<td>0</td>\n<td>-2.098</td>\n<td>-1.732</td>\n<td>1.0</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0358%20%282%29.jpg\" style=\"height:270px; width:500px\"></p><p>(c)(i) Solution of \\(3 \\sin 2 \\theta - \\cos \\theta = 0\\) is at y = 0</p><p>= \\(9.30°, 80°, 174°\\)</p><p>(ii) Maximum value of y = 2.098 \\(\\approxeq\\) 2.1 (to 1 decimal place)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1993,
+        "question": "<p>The table below shows the frequency distribution of the marks scored by fifty students in an examination.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>Marks (%)</td>\n<td>0-9</td>\n<td>10-19</td>\n<td>20-29</td>\n<td>30-39</td>\n<td>40-49</td>\n<td>50-59</td>\n<td>60-69</td>\n<td>70-79</td>\n<td>80-89</td>\n<td>90-99</td>\n</tr>\n<tr>\n<td>Freq</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>6</td>\n<td>13</td>\n<td>10</td>\n<td>5</td>\n<td>3</td>\n<td>2</td>\n<td>2</td>\n</tr>\n</tbody>\n</table><p>(a) Draw the cumulative frequency curve for the distribution.</p><p>(b) Use your curve to estimate the : (i) upper quartile; (ii) pass mark if 60% of the students passed.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>\n<p>Upper class</p>\n<p>boundary</p>\n</td>\n<td>Freq</td>\n<td>Cum Freq</td>\n</tr>\n<tr>\n<td>0-9</td>\n<td>9.5</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>10-19</td>\n<td>19.5</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>20-29</td>\n<td>29.5</td>\n<td>4</td>\n<td>9</td>\n</tr>\n<tr>\n<td>30-39</td>\n<td>39.5</td>\n<td>6</td>\n<td>15</td>\n</tr>\n<tr>\n<td>40-49</td>\n<td>49.5</td>\n<td>13</td>\n<td>28</td>\n</tr>\n<tr>\n<td>50-59</td>\n<td>59.5</td>\n<td>10</td>\n<td>38</td>\n</tr>\n<tr>\n<td>60-69</td>\n<td>69.5</td>\n<td>5</td>\n<td>43</td>\n</tr>\n<tr>\n<td>70-79</td>\n<td>79.5</td>\n<td>3</td>\n<td>46</td>\n</tr>\n<tr>\n<td>80-89</td>\n<td>89.5</td>\n<td>2</td>\n<td>48</td>\n</tr>\n<tr>\n<td>90-99</td>\n<td>99.5</td>\n<td>2</td>\n<td>50</td>\n</tr>\n</tbody>\n</table><p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0359%20%282%29.jpg\" style=\"height:415px; width:400px\"></p><p>(b)(i) Upper quartile \\(Q_{3}\\) = 57 marks</p><p>(ii) Pass mark if 60% of the class passed = 42 marks</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1993,
+        "question": "<p>P and Q are two points on latitude 55°N and their longitudes are 33°W and 20°E respectively. Calculate the distance between P and Q measured along </p><p>(a) the parallel of latitude ;</p><p>(b) a great circle. </p><p>[Take \\(\\pi = \\frac{22}{7}\\) and radius of the earth = 6400km].</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0359%20%283%29.jpg\" style=\"height:266px; width:250px\"></p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0359%20%284%29.jpg\" style=\"height:266px; width:250px\"></p><p>(a) Angular difference = 33° + 23° = 56°</p><p>Distance PQ along parallel of latitude = \\(\\frac{56}{360} \\times 2 \\pi r\\)</p><p>where r = R cos 55°</p><p>\\(\\therefore |PQ| = \\frac{56}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\cos 55\\)</p><p>= \\(3589.46 km \\approxeq 3589 km\\) (to the nearest degree)</p><p>(b) \\(|PO|^{2} = r^{2} + r^{2} - 2r^{2} \\cos 56° = R^{2} + R^{2} - 2R^{2} \\cos \\theta \\)</p><p>= \\(2r^{2} - 2r^{2} \\cos 56° = 2R^{2} - 2R^{2} \\cos \\theta\\)</p><p>But \\(r = R cos 55° = 6400 \\times 0.5736 = 3671\\)</p><p>\\(\\therefore 2r^{2} (1 - \\cos 56°) = 2R^{2} (1 - \\cos \\theta)\\)</p><p>\\(2 \\times 3671^{2} ( 1 - 0.5592) = 2 \\times 6400^{2} (1 - \\cos \\theta)\\)</p><p>\\(1 - \\cos \\theta = \\frac{2 \\times 3671^{2} \\times 0.4408}{2 \\times 6400^{2}}\\)</p><p>\\(1 - \\cos \\theta = 0.1259\\)</p><p>\\(\\cos \\theta = 1 - 0.1259 = 0.8741\\)</p><p>\\(\\theta = \\cos^{-1} (0.8741) = 29.06°\\)</p><p>\\(\\therefore\\) Distance PQ along great circle = \\(\\frac{29.06}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>= \\(3247.34 km \\approxeq 3247km\\)</p>",
+        "type": "theory"
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2000,
+        "question": "Express \\(\\frac{7}{19}\\) as a percentage, correct to one decimal place",
+        "explanation": "\\(\\frac{7}{19}\\) as a percentage will be<br>\\(\\frac{7}{19}\\times \\frac{100}{1}\\% = 36.8\\%\\)",
+        "correctIndex": 3,
+        "options": [
+            "2.7%",
+            "3.7%",
+            "27.1%",
+            "36.8%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2000,
+        "question": "<p>Express 398753 correct to three significant figures</p>",
+        "explanation": "<p>398753 \\(\\approxeq\\) 399000 (to 3 s.f)</p>",
+        "correctIndex": 3,
+        "options": [
+            "398000",
+            "398700",
+            "398800",
+            "399000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2000,
+        "question": "simplify \\(\\frac{10}{\\sqrt{32}}\\)",
+        "explanation": "\\(\\frac{10}{\\sqrt{32}}=\\frac{10}{\\sqrt{16\\times 2}} = \\frac{10}{4\\sqrt{2}}\\\\<br>\\frac{10\\times \\sqrt{2}}{4\\sqrt{2}\\times\\sqrt{2}}=\\frac{10\\sqrt{2}}{4\\times 2}= \\frac{5}{4}\\sqrt{2}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{5}{4}\\sqrt{2}\\)",
+            "\\(\\frac{4}{5}\\sqrt{2}\\)",
+            "\\(\\frac{5}{16}\\sqrt{2}\\)",
+            "\\(\\frac{16}{5}\\sqrt{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2000,
+        "question": "<p>Find the missing number in the addition of the following numbers, in base seven<br>\n\\(\\begin{matrix}<br>\n4 &amp; 3 &amp; 2 &amp; 1\\\\<br>\n1 &amp; 2 &amp; 3 &amp; 4\\\\<br>\n* &amp; * &amp; * &amp; *\\\\<br>\n1&amp;2&amp;3&amp;4&amp;1<br>\n\\end{matrix}\\)</p>",
+        "explanation": "<p>4321\\(_7\\) + 1234\\(_7\\) = 5555\\(_7\\)</p><p>Missing number = 12341\\(_7\\) - 5555\\(_7\\)</p><p>= 3453\\(_7\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "3453",
+            "5556",
+            "6016",
+            "13453"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2000,
+        "question": "<p>What fraction must be subtracted from the sum of \\(2\\frac{1}{6}\\) and \\(2\\frac{7}{12}\\) to give \\(3\\frac{1}{4}\\)?</p>",
+        "explanation": "<p>\\(2\\frac{1}{6} + 2\\frac{7}{12}\\)</p><p>= \\(\\frac{13}{6} + \\frac{31}{12}\\)</p><p>= \\(\\frac{26 + 31}{12}\\)</p><p>= \\(\\frac{57}{12} = \\frac{19}{4}\\)</p><p>\\(\\frac{19}{4} - 3\\frac{1}{4}\\)</p><p>= \\(\\frac{19}{4} - \\frac{13}{4}\\)</p><p>= \\(\\frac{6}{4}\\)</p><p>= \\(1\\frac{1}{2}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(1\\frac{1}{6}\\)",
+            "\\(1\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2000,
+        "question": "Simplify \\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}}\\times \\sqrt{\\frac{100}{81}}\\)",
+        "explanation": "\\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}}\\times \\sqrt{\\frac{100}{81}}\\\\<br>\\frac{1}{\\left(\\sqrt[4]{\\frac{16}{81}}\\right)^3}\\times \\frac{10}{9}=\\frac{1}{\\left(\\frac{2}{3}\\right)^3}\\times\\frac{10}{9}\\\\<br>=\\frac{27}{8}\\times \\frac{10}{9}=\\frac{15}{4}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{80}{243}\\)",
+            "\\(\\frac{1}{64}\\)",
+            "\\(\\frac{25}{6}\\)",
+            "\\(\\frac{15}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2000,
+        "question": "Which of the following numbers is perfect cube?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "350",
+            "504",
+            "950",
+            "1728"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2000,
+        "question": "<p>If \\(104_x = 68\\), find the value of x</p>",
+        "explanation": "<p>\\(104_x = 68\\\\<br>\n1 \\times x^2 + 0 \\times x + 4 \\times x^0 = 68\\\\<br>\nx^2 = 68 - 4; x^2 = 64\\\\<br>\nx = \\sqrt{64}=8\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "7",
+            "8",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2000,
+        "question": "<p>The ages of three men are in the ratio 3:4:5. If the difference between the ages of the oldest and youngest is 18 years, find the sum of the ages of the three men</p>",
+        "explanation": "<p>Given that the ages are in the ratio 3: 4: 5.</p><p>Let the sum of their ages be t.</p><p>\\(\\therefore\\) The youngest age = \\(\\frac{3}{12} t\\)</p><p>The eldest age = \\(\\frac{5}{12} t\\)</p><p>\\(\\implies \\frac{5}{12} t - \\frac{3}{12} t = 18\\)</p><p>\\(\\frac{2t}{12} = 18 \\implies t = \\frac{18 \\times 12}{2}\\)</p><p>t = 108 years.</p><p>The sum of their ages = 108 years.</p>",
+        "correctIndex": 2,
+        "options": [
+            "45 years",
+            "72 years",
+            "108 years",
+            "216 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2000,
+        "question": "<p>Given that \\(log_4 x = -3\\), find x.</p>",
+        "explanation": "<p>\\(\\log_4 x = -3\\)</p><p>\\(x = 4^{-3}\\)</p><p>= \\(\\frac{1}{64}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{81}\\)",
+            "\\(\\frac{1}{64}\\)",
+            "64",
+            "81"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2000,
+        "question": "<p>Given that the logarithm of a number is \\(\\bar{1}.8732\\), find, correct to 2 significant figures the square root of the number.</p>",
+        "explanation": "<p>Let the number = d.</p><p>\\(\\log d = \\bar{1}.8732\\)</p><p>\\(\\log \\sqrt{d} = \\frac{\\bar{1}.8732}{2}\\)</p><p>= \\(\\frac{\\bar{2} + 1.8732}{2}\\)</p><p>= \\(\\bar{1}.9366\\)</p><p>\\(\\therefore \\sqrt{d} = Antilog (\\bar{1}.9366)\\)</p><p>= 0.86</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.29",
+            "0.75",
+            "0.86",
+            "0.93"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2000,
+        "question": "<p>A car moves at an average speed of 30kmh\\(^{-1}\\), how long does it take to cover 200 meters?</p>",
+        "explanation": "<p>Speed = 30 kmh\\(^{-1}\\)</p><p>= \\(\\frac{30 \\times 1000}{3600}\\)</p><p>= \\(\\frac{25}{3} ms^{-1}\\)</p><p>Time = \\(\\frac{Distance}{Speed}\\)</p><p>= \\(\\frac{200}{\\frac{25}{3}}\\)</p><p>= \\(\\frac{200 \\times 3}{25}\\)</p><p>= 24 seconds</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.4 sec",
+            "24 sec",
+            "144 sec",
+            "240 sec"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2000,
+        "question": "<p>A man bought a television set on hire purchase for N25,000, out of which he paid N10,000, if he is allowed to pay the balance in eight equal installments, find the value of each installment.</p>",
+        "explanation": "<p>Price of television = N25,000</p><p>Paid N10, 000</p><p>Remainder = N(25,000 - 10,000)</p><p>= N15,000</p><p>Eight equal installments = \\(\\frac{15,000}{8}\\)</p><p>= N1,875 per installment.</p>",
+        "correctIndex": 2,
+        "options": [
+            "N1250",
+            "N1578",
+            "N1875",
+            "N3125"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2000,
+        "question": "<p>A tree is 8km due south of a building. Kofi is standing 8km west of the tree. How far is Kofi from the building?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191203_103858%20%282%29.jpg\" style=\"height:239px; width:250px\"></p><p>\\(x^2 = 8^2 + 8^2\\)</p><p>\\(x^2 = 64 + 64 = 128\\)</p><p>\\(x = \\sqrt{128}\\)</p><p>= \\(8\\sqrt{2}\\) km</p>",
+        "correctIndex": 2,
+        "options": [
+            "4√2km",
+            "8km",
+            "8√2km",
+            "16km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2000,
+        "question": "<p>A tree is 8km due south of a building. Kofi is standing 8km west of the tree. Find the bearing of Kofi from the building</p>",
+        "explanation": "<p>The bearing of Kofi from the building = 180° + 45°</p><p>= 225°</p>",
+        "correctIndex": 2,
+        "options": [
+            "315<sup>o</sup>",
+            "270<sup>o</sup>",
+            "225<sup>o</sup>",
+            "135<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2000,
+        "question": "<p>Which of the following bearings is equivalent to S50°W?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191203_103911%20%282%29.jpg\" style=\"height:203px; width:250px\"></p><p>S50°W = 180° + 50°</p><p>= 230°</p>",
+        "correctIndex": 3,
+        "options": [
+            "040<sup>o</sup>",
+            "130<sup>o</sup>",
+            "220<sup>o</sup>",
+            "230<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5593034156_wamath2017.jpg\" class=\"img-fluid\">",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191203_103911%20%283%29.jpg\" style=\"height:152px; width:250px\"></p><p>In triangle ABC, \\(\\frac{BC}{AC} = \\cos \\theta\\)</p><p>\\(\\implies \\cos \\theta = \\frac{5}{10} = 0.5\\)</p><p>\\(\\theta = \\cos^{-1} (0.5) = 60°\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "63<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>",
+            "27<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20973881880_wamath2018.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Students that scored 4 and above = 5 + 3 + 3 + 0 + 2 + 2 + 2</p><p>= 17</p>",
+        "correctIndex": 3,
+        "options": [
+            "15",
+            "11",
+            "10",
+            "17"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2796517710_wamath2018.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "38",
+            "22",
+            "15",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2000,
+        "question": "<p>Calculate the standard deviation of the following marks; 2, 3, 6, 2, 5, 0, 4, 2</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>2</td>\n<td>3</td>\n<td>6</td>\n<td>2</td>\n<td>5</td>\n<td>0</td>\n<td>4</td>\n<td>2</td>\n<td>24</td>\n</tr>\n<tr>\n<td>x - \\(\\bar{x}\\)</td>\n<td>-1</td>\n<td>0</td>\n<td>3</td>\n<td>-1</td>\n<td>2</td>\n<td>-3</td>\n<td>1</td>\n<td>-1</td>\n<td> </td>\n</tr>\n<tr>\n<td>\\((x - \\bar{x})^2\\)</td>\n<td>1</td>\n<td>0</td>\n<td>9</td>\n<td>1</td>\n<td>4</td>\n<td>9</td>\n<td>1</td>\n<td>1</td>\n<td>26</td>\n</tr>\n</tbody>\n</table><p>Mean = \\(\\frac{24}{8} = 3\\)</p><p>Standard deviation = \\(\\sqrt{\\frac{26}{8}}\\)</p><p>= \\(\\sqrt{3.25}\\)</p><p>= 1.802 \\(\\approeq\\) 1.8</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.5",
+            "1.7",
+            "1.8",
+            "1.9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2000,
+        "question": "<p>The probabilities that Kodjo and Adoga pass an examination are \\(\\frac{3}{4}\\) and \\(\\frac{3}{5}\\) respectively. Find the probability of both boys failing the examination</p>",
+        "explanation": "<p>P(Kodjo passing) = \\(\\frac{3}{4}\\); P(Adoga passing) = \\(\\frac{3}{5}\\)</p><p>P(Kodjo failing) = \\(\\frac{1}{4}\\); P(Adoga failing) = \\(\\frac{2}{5}\\)</p><p>P(both fail) = \\(\\frac{1}{4} \\times \\frac{2}{5}\\)</p><p>= \\(\\frac{1}{10}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{10}\\)",
+            "\\(\\frac{3}{10}\\)",
+            "\\(\\frac{9}{20}\\)",
+            "\\(\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2000,
+        "question": "<p>Which of the following statement is not true about a rectangle? I.Each diagonal cuts the rectangle into two congruent triangles. II. A rectangle has four lines of symmetry III. The diagonals intersect at right angles</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "III only",
+            "II only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27965205820_wamath2024.jpg\" class=\"img-fluid\">",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191203_103917%20%282%29.jpg\" style=\"height:252px; width:250px\"></p><p>&lt; Q = &lt; R (OQ = OR = radii)</p><p>&lt; QOR = 180° - 2(40°) = 100°</p><p>&lt; QSR = &lt; RPQ = \\(\\frac{1}{2}\\) &lt; QOR</p><p>= \\(\\frac{100}{2} = 50°\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "30<sup>o</sup>",
+            "40<sup>o</sup>",
+            "45<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2000,
+        "question": "<p>Each side of a regular convex polygon subtends an angle of 30° at its center. Calculate each interior angle</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191203_103917%20%283%29.jpg\" style=\"height:241px; width:250px\"></p><p>Interior angle = 2(75°)</p><p>= 150°</p>",
+        "correctIndex": 1,
+        "options": [
+            "75<sup>o</sup>",
+            "150<sup>o</sup>",
+            "160<sup>o</sup>",
+            "68<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2000,
+        "question": "<p>If the interior angles of hexagon are 107°, 2x°, 150°, 95°, (2x-15)° and 123°, find x.</p>",
+        "explanation": "<p>Sum of interior angle in a hexagon = (6 - 2) x 180°</p><p>= 720°</p><p>\\(\\therefore\\) 107° + 2x° + 150° + 95° + (2x - 15)° + 123° = 720°</p><p>460 + 4x = 720 \\(\\implies\\) 4x = 720 - 460</p><p>4x = 260° \\(\\implies\\) x = 65°</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(57\\frac{1}{2}^{\\circ}\\)",
+            "\\(65^{\\circ}\\)",
+            "\\(106^{\\circ}\\)",
+            "\\(120^{\\circ}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11186088288_wamath2027.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; T = &lt; S = 50° (OS = OT)</p><p>&lt; SOT = 180° - 2(50°) = 80°</p><p>&lt; ROP = 80° (vertically opposite angle)</p><p>\\(\\therefore\\) &lt; OPQ = 180° - 80° = 100° (adjacent angles)</p>",
+        "correctIndex": 3,
+        "options": [
+            "160<sup>o</sup>",
+            "140<sup>o</sup>",
+            "120<sup>o</sup>",
+            "100<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2000,
+        "question": "<p>Given that \\(x = -\\frac{1}{2}and \\hspace{1mm} y = 4 \\hspace{1mm} evaluate \\hspace{1mm} 3x^2y+xy^2\\)</p>",
+        "explanation": "<p>\\(x = -\\frac{1}{2}, y = 4\\\\<br>\n3x^2y + xy^2\\\\<br>\n3\\left[-\\frac{1}{2}\\right]^2 \\times 4 \\times + \\left(\\frac{-1}{2}\\right)(4)^2\\\\<br>\n3\\times \\frac{1}{4} \\times 4 -\\frac{1}{2} \\times 16\\\\<br>\n3-8 = -5\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "-5",
+            "-1",
+            "4",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2000,
+        "question": "Given that \\(27^{(1+x)}=9,)\\ find x",
+        "explanation": "\\(27^{(1+x)}=9\\\\<br>3^{3(1+x)}=3^2\\\\<br>3(1+x)=2\\\\<br>3+3x = 2\\\\<br>3x = -1<br>x = \\frac{-1}{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "-3",
+            "\\(\\frac{-1}{3}\\)",
+            "\\(\\frac{5}{3}\\)",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2000,
+        "question": "<p>If x varies inversely as y and \\(x = \\frac{2}{3}\\) when y = 9, find the value of y when \\(x=\\frac{3}{4}\\)</p>",
+        "explanation": "<p>\\(x \\propto \\frac{1}{y}\\)</p><p>\\(x = \\frac{k}{y}\\)</p><p>\\(\\frac{2}{3} = \\frac{k}{9}\\)</p><p>\\(3k = 18 \\implies k = 6\\)</p><p>\\(x = \\frac{6}{y}\\)</p><p>When y = \\(\\frac{3}{4}\\),</p><p>x = \\(\\frac{6}{\\frac{3}{4}}\\)</p><p>= \\(\\frac{6 \\times 4}{3}\\)</p><p>= 8</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{18}\\)",
+            "\\(\\frac{8}{81}\\)",
+            "\\(\\frac{9}{2}\\)",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2000,
+        "question": "<p>Given that (2x + 7) is a factor of \\(2x^2 + 3x - 14\\), find the other factor</p>",
+        "explanation": "<p>\\(2x^2 + 3x - 14\\)</p><p>\\(2x^2 + 7x - 4x - 14\\)</p><p>\\(x(2x + 7) - 2(2x + 7)\\)</p><p>= \\((x - 2)(2x + 7)\\)</p><p>The other factor = (x - 2).</p>",
+        "correctIndex": 2,
+        "options": [
+            "x + 2",
+            "2 - x",
+            "x - 2",
+            "x + 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2000,
+        "question": "Simplify \\(\\frac{1}{x-3}-\\frac{3(x-1)}{x^2 - 9}\\)",
+        "explanation": "\\(\\frac{1}{x-3}-\\frac{3(x-1)}{x^2 - 9}\\\\<br>\\frac{1}{x-3}-\\frac{3(x-1)}{(x-3)(x+3)}\\\\<br>\\frac{x+3-3x+3}{(x-3)(x+3)};\\frac{-2x+6}{(x-3)(x+3)}\\\\<br>\\frac{-2(x-3)}{(x-3)(x+3)}=\\frac{-2}{x+3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{x-1}{x-3}\\)",
+            "\\(\\frac{-2}{x+3}\\)",
+            "\\(\\frac{x-1}{x+3}\\)",
+            "\\(\\frac{4x}{x^2-9}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2000,
+        "question": "<p>Form an inequality for a distance d meters which is more than 18m, but not more than 23m</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "18 ≤ d ≤ 23",
+            "18 &lt; d ≤ 23",
+            "18 ≤ d &lt; 23",
+            "d &lt; 18 or d &gt; 23"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2000,
+        "question": "<p>Find the equation whose roots are -8 and 5</p>",
+        "explanation": "<p>Equation with roots -8 and 5: (x + 8)(x - 5) = 0</p><p>\\(x^2 - 5x + 8x - 40 = 0\\)</p><p>\\(x^2 + 3x - 40 = 0\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(x^2 + 13x + 40=0\\)",
+            "\\(x^2 - 13x - 40=0\\)",
+            "\\(x^2 - 3x +40=0\\)",
+            "\\(x^2 + 3x - 40=0\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2000,
+        "question": "<p>Make t the subject of formula \\(k = m\\sqrt{\\frac{t-p}{r}}\\)</p>",
+        "explanation": "<p>\\(k = m\\sqrt{\\frac{t - p}{r}}\\)</p><p>\\(\\frac{k}{m} = \\sqrt{\\frac{t - p}{r}}\\)</p><p>\\((\\frac{k}{m})^2 = \\frac{t - p}{r}\\)</p><p>\\(rk^2 = m^2 (t - p)\\)</p><p>\\(\\therefore m^2 t = rk^2 + m^2 p\\)</p><p>\\(t = \\frac{rk^2 + m^2 p}{m^2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{rk^2 + p}{m^2}\\)",
+            "\\(\\frac{rk^2+pm^2}{m^2}\\)",
+            "\\(\\frac{rk^2-p}{m^2}\\)",
+            "\\(\\frac{rk^2-p^2}{m^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2000,
+        "question": "Solve the equation \\(3y^2 = 27y\\)",
+        "explanation": "\\(3y^2 = 27y\\\\<br>3y^2 - 27y = 0\\\\<br>3y(y - 9) = 0\\\\<br>3y = 0 or y - 9 = 0\\\\<br>y = 0 or y = 9\\\\<br>y = 0 or 9\\)",
+        "correctIndex": 1,
+        "options": [
+            "y = o or 3",
+            "y = 0 or 9",
+            "y = -3 or 3",
+            "y = 3 or 9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2000,
+        "question": "<p>Find the value of x such that the expression \\(\\frac{1}{x}+\\frac{4}{3x}-\\frac{5}{6x}+1\\) equals zero</p>",
+        "explanation": "<p>\\(\\frac{1}{x} + \\frac{4}{3x} - \\frac{5}{6x} + 1 = 0\\)</p><p>\\(\\frac{6 + 8 - 5 + 6x}{6x} = 0\\)</p><p>\\(\\frac{9 + 6x}{6x} = 0 \\implies 9 + 6x = 0\\)</p><p>\\(6x = -9 \\implies x = \\frac{-3}{2}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{6}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{-3}{2}\\)",
+            "\\(\\frac{-7}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2000,
+        "question": "Given that p varies directly as q while q varies inversely as r, which of the following statements is true?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "r varies directly as p",
+            "p varies inversely as r",
+            "p varies directly as r",
+            "q varies inversely as p"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22373354816_wamath2040.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "42<sup>o</sup>",
+            "48<sup>o</sup>",
+            "60<sup>o</sup>",
+            "66<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2000,
+        "question": "A bicycle wheel of radius 42cm is rolled over a distance 66 meters. How many revolutions does it make?[Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "circumference of the bicycle wheel<br>\\(= 2\\pi r = 2 \\times \\frac{22}{7} \\times 42 - 264cm = 2.64m\\\\\\)<br>Number of revolution<br>\\(=\\frac{66}{2.64} = 25\\)",
+        "correctIndex": 2,
+        "options": [
+            "2.5",
+            "5",
+            "25",
+            "50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2000,
+        "question": "<p>The height of a pyramid on square base is 15cm. if the volume is 80cm^3, find the area of the square base.</p>",
+        "explanation": "<p>Volume of pyramid with square base = \\(\\frac{\\text{base area} \\times height}{3}\\)</p><p>\\(80 = \\frac{\\text{base area} \\times 15}{3}\\)</p><p>\\(80 = 5 \\times \\text{base area}\\)</p><p>\\(\\text{Base area} = 16 cm^2\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "8cm<sup>2</sup>",
+            "9.6cm<sup>2</sup>",
+            "16cm<sup>2</sup>",
+            "25cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2000,
+        "question": "<p>A tap leaks at the rate of 2cm\\(^3\\) per seconds. How long will it take the tap to fill a container of 45 liters capacity? (1 liters = 1000cm\\(^3\\))</p>",
+        "explanation": "<p>Total capacity of the container = 45 liters = 45 x 1000 </p><p>= 45000 cm\\(^3\\)</p><p>Time to fill the container = \\(\\frac{45000}{2}\\)</p><p>= 22500 seconds</p><p>= \\(\\frac{22500}{3600}\\)</p><p>= 6 hr 15 mins</p>",
+        "correctIndex": 1,
+        "options": [
+            "8 hours",
+            "6hr 15min",
+            "4hr 25min",
+            "3hr"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2000,
+        "question": "<p>The length of the parallel sides of a trapezium are 5cm and 7cm. If its area is 120cm\\(^2\\), find the perpendicular distance between the parallel sides</p>",
+        "explanation": "<p>Area of trapezium = \\(\\frac{1}{2} (a + b)h\\)</p><p>\\(120 = \\frac{1}{2} (5 + 7) \\times h\\)</p><p>\\(120 = 6h\\)</p><p>\\(h = 20 cm\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "5.0cm",
+            "6.9cm",
+            "10.0cm",
+            "20.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2000,
+        "question": "<p>The arc of a circle 50 cm long, subtends angle of 75° at the center of the circle. Find correct to 3 significant figures, the radius of the circle. Take \\(\\pi = \\frac{22}{7}\\)</p>",
+        "explanation": "<p>Length of arc = \\(\\frac{\\theta}{360} \\times 2\\pi r\\)</p><p>\\(50 = \\frac{75}{360} \\times 2 \\times \\frac{22}{7} \\times r\\)</p><p>\\(r = \\frac{50 \\times 360 \\times 7}{75 \\times 2 \\times 22}\\)</p><p>\\(r = \\frac{420}{11}\\)</p><p>= 38.18 cm \\(\\approxeq\\) 38.2 cm (3 sig. figs)</p>",
+        "correctIndex": 1,
+        "options": [
+            "8.74cm",
+            "38.2cm",
+            "61.2cm",
+            "76.4cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27966971580_wamath2046.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "∠QPS = QRS",
+            "|PO| = |RO|",
+            "QR||PS",
+            "∠PQR=∠PSR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2000,
+        "question": "The area of a circle is 38.5cm<sup>2</sup>. Find its diameter [take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "\\(\\pi r^2 = 38.5\\\\<br>\\frac{}{} = r^2 = 38.5\\\\<br>r^2 = \\frac{38.5 \\times 7}{22}\\\\<br>r = \\sqrt{12.25} = 3.5\\\\<br>diameter = 2r = 2 \\times 3.5 = 7cm\\)",
+        "correctIndex": 2,
+        "options": [
+            "22cm",
+            "14cm",
+            "7cm",
+            "6cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26568683079_wamath2048.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Total volume = (5 x 5) x 5 + (5 x 5) x 2 </p><p>= 125 + 50 </p><p>= 175 cm\\(^3\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "100cm<sup>3</sup>",
+            "150cm<sup>3</sup>",
+            "175cm<sup>3</sup>",
+            "250cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2000,
+        "question": "Solve the equation 3 + 5x - 2x<sup>2</sup>= 0",
+        "explanation": "\\(3 + 5x - 2x^2 = 0\\\\<br>3 + 6x - x - 2x^2 = 0\\\\<br>3(1 + 2x) - x(1 + 2x) = 0\\\\<br>(3-x)(1+2x)=0\\\\<br>3-x = 0 \\hspace{1mm}or \\hspace{1mm}1+2x = 0\\\\<br>x = 3\\hspace{1mm} x = -\\frac{1}{2}\\\\<br>x = 3 \\hspace{1mm}or\\hspace{1mm} x =-\\frac{1}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(-\\frac{1}{2},-3\\)",
+            "2, 3",
+            "-2, 3",
+            "\\(-\\frac{1}{2},3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2000,
+        "question": "<p>If the simple interest on N2000 after 9 months is N60, at what rate per annum is the interest charged?</p>",
+        "explanation": "<p>\\(I = \\frac{PRT}{100}\\)</p><p>\\(R = \\frac{100I}{PT}\\)</p><p>\\(R = \\frac{100 \\times 60}{2000 \\times \\frac{3}{4}}\\)</p><p>\\(R = \\frac{6000}{1500}\\)</p><p>= 4%</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(2\\frac{1}{4}\\)%",
+            "4%",
+            "5%",
+            "6%"
+        ],
+        "type": "objectives"
+    }
+]

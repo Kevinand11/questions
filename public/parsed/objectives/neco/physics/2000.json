@@ -1,0 +1,784 @@
+[
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 1,
+        "year": 2000,
+        "question": "<p>A particle of charge q and mass m moving with a velocity v enters a uniform magnetic field B in the direction of the field. The force on the particle is</p>",
+        "explanation": "<p>The formula for Force on the particle is Bqv.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Bqv",
+            "Bq\\(\\frac{v}{m}\\)",
+            "Bqvm",
+            "mv\\(\\frac{B}{q}\\)",
+            "\\(\\frac{mv}{Bq}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 2,
+        "year": 2000,
+        "question": "The helium isotope \\(^3_2He\\)",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "has three pro tons and two neutrons",
+            "has two protons and one neutron",
+            "has two protons and three neutrons",
+            "has one proton and two neutrons",
+            "cannot exist because it has the same mass number as tritium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 3,
+        "year": 2000,
+        "question": "<p>When a metal is heated to a high temperature, electrons are emitted from its surface. The process is known as</p>",
+        "explanation": "<p>The process by which free <strong>electrons</strong> are emitted from the surface of a metal when external heat energy is applied is called thermionic emission.</p>",
+        "correctIndex": 1,
+        "options": [
+            "photoelectric effect",
+            "thermionic emission",
+            "field emission",
+            "secondary emission",
+            "radioactive emission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 4,
+        "year": 2000,
+        "question": "A piece of stone weights 180 N in air and 150 N in a beaker containing 160 N of methylated spirit. What is the up thrust exerted on the stone?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "50N",
+            "40N",
+            "30N",
+            "20N",
+            "10N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 5,
+        "year": 2000,
+        "question": "<p>The half-life of a radioactive substance is 2 seconds. Calculate the decay constant.</p>",
+        "explanation": "<p>\\(T_{\\frac{1}{2}} = \\frac{\\ln 2}{\\lambda}\\)</p><p>where \\(T_{\\frac{1}{2}}\\) = half-life of element; \\(\\lambda\\) = decay constant.</p><p>= \\(\\frac{0.693}{\\lambda}\\)</p><p>\\(\\therefore 2 = \\frac{0.693}{\\lambda}\\)</p><p>\\(\\lambda = \\frac{0.693}{2}\\)</p><p>= 0.3465 s\\(^{-1}\\)</p><p>\\(\\approxeq\\) 0.347 s\\(^{-1}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "2.890 s<sup>-1</sup>",
+            "1 .445 s<sup>-1</sup>",
+            "0.576 s<sup>-1</sup>",
+            "0.347s<sup>-1</sup>",
+            "0.152 s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 6,
+        "year": 2000,
+        "question": "Which of the following is used in a nuclear reactor to slow down fast moving neutrons?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "graphite rods",
+            "carbon dioxide gas",
+            "liquid sodium metal",
+            "concrete shield",
+            "boron rods"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 7,
+        "year": 2000,
+        "question": "When electrical power is transmitted over long distances, the voltage is stepped up so that",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "the resistance of the wire may be increased proportionately to the potential difference",
+            "the time of transmissions between the generating and the receiving stations may be reduced",
+            "there is increased current to produce brighter lights.",
+            "the rate of electrical consumption is increased.",
+            "the energy waste may be minimised as the current is lowered."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 8,
+        "year": 2000,
+        "question": "<p>A gas occupies a certain volume at 27°C. At what temperature will its volume be twice times the original volume assuming that its pressure remains constant?</p>",
+        "explanation": "<p>\\(\\frac{V_{1}}{T_{1}} = \\frac{V_{2}}{T_{2}}\\)</p><p>Given \\(V_{2} = 2V_{1}\\)</p><p>\\(T_{1} = 27°C\\)</p><p>\\(\\frac{V_{1}}{27} = \\frac{2V_{1}}{T_{2}}\\)</p><p>\\(\\frac{1}{27} = \\frac{2}{T_{2}} \\implies T_{2} = 54°C\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "54°C",
+            "108°C",
+            "150°C",
+            "327°C",
+            "600°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 9,
+        "year": 2000,
+        "question": "What is the coefficient of static friction between a load of mass 2kg and a horizontal surface, if the limiting frictional force is 10N? (g = 10 ms<sup>-2</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.2",
+            "0.5",
+            "2",
+            "5",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 10,
+        "year": 2000,
+        "question": "<p>When a lever is in equilibrium, under the action of two or more forces, the algebraic sum of the moments of the forces about the point of support is</p>",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "anti-clockwise",
+            "clockwise",
+            "equal to the product to the forces",
+            "numerically equal to the total forces acting",
+            "equal to zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 11,
+        "year": 2000,
+        "question": "The specific heat of a substance in the solid state is C<sub>1</sub>; its specific beat in the liquid state is C<sub>2</sub>and its latent heat of fusion is L. If a mass M of the substance is changed from the solid state at temperature T, to the liquid state, also at temperature T, the amount of heat required will be",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "M(C<sub>1</sub>÷ C<sub>2</sub>) x T",
+            "ML",
+            "L",
+            "M(C<sub>1</sub>+ C<sub>2</sub>) × T ÷ ML",
+            "ML(C<sub>1</sub>+ C<sub>2</sub>÷ 2) × T"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 12,
+        "year": 2000,
+        "question": "<p>An element of nuclear number A and proton number Z emits an alpha particle from its nucleus. The nucleon number and the proton number of the new element formed are respectively</p>",
+        "explanation": "<p>Let the element be S and the element formed after emission be X.</p><p>\\(\\implies ^{A} _{Z}S \\to ^{4} _{2}He + X\\)</p><p>\\(\\therefore X = ^{A - 4} _{Z - 2}X\\).</p>",
+        "correctIndex": 4,
+        "options": [
+            "(A – 2) and (Z – 2)",
+            "(A + 4) and (Z + 2)",
+            "(A– 4) and (Z+2)",
+            "(A+ 4) and (Z – 2)",
+            "(A – 4) and (Z – 2)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 13,
+        "year": 2000,
+        "question": "The force exerted on a charged body in an electric field depends on<br><br>I. the charge on the body<br>II. the electric field intensity<br>III. the square of the mass of the body",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 14,
+        "year": 2000,
+        "question": "400g of cold water is added to 200g of water at 70°C. If they are properly mixed and the temperature of the mixture is 300°C. calculate the initial temperature of the cold water. (Neglect the heat absorbed by the container)",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "10°C",
+            "15°C",
+            "20°C",
+            "30°C",
+            "40°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 15,
+        "year": 2000,
+        "question": "The heat from a fire in a closed room reaches someone far away in the room, mainly by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "reflection",
+            "diffusion",
+            "conduction",
+            "radiation",
+            "convection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 16,
+        "year": 2000,
+        "question": "A solid weights 5.0 N in air, 4.2 N in water and 4.4 N in liquid Y. Calculate the relative density of liquid Y.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.75",
+            "0.88",
+            "0.95",
+            "1.13",
+            "1.33"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 17,
+        "year": 2000,
+        "question": "<p>Two forces forming a couple are separated by a distance of 25cm. If one of the forces equals 40N, what is the moment of the couple?</p>",
+        "explanation": "<p>The moment (or torque) of a couple is calculated by multiplying the size of one of the force by the perpendicular distance between the two forces.</p><p>Given: F = 40N; d = 25cm = 0.25m</p><p>Moment = 40 x 0.25 = 10Nm.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1000 Nm",
+            "500 Nm",
+            "10 Nm",
+            "5 Nm",
+            "1.6 Nm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 18,
+        "year": 2000,
+        "question": "A radioactive substance has a half-life of 3 minutes. After 9 minutes, the count rate was observed to be 200. What was the count rate at zero time?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "200",
+            "1200",
+            "1600",
+            "2400",
+            "4800"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 19,
+        "year": 2000,
+        "question": "<p>Which of the following is NOT part of an a.c generator?</p>",
+        "explanation": "<p>The general A.C. generator has all the listed components except the commutator.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Commutator",
+            "Armature",
+            "Field magnet",
+            "Carbon brushes",
+            "Slip rings"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 20,
+        "year": 2000,
+        "question": "In a simple pendulum experiment, a boy observed that the times for 30 oscillations are 70.0s, 72.0s and 67.0s respectively. Calculate the mean period of oscillation of the pendulum.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.14s",
+            "0.43s",
+            "2.32s",
+            "2.40s",
+            "6.97s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 21,
+        "year": 2000,
+        "question": "The clinical thermometer differs from other mercury-in-glass thermometers because it has<br><br>I. a constriction<br>II. a wide range<br>III. a short range<br>IV. a narrow bore.<br><br>Which of the above are correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "I and III only",
+            "III and IV only",
+            "I,II and III only",
+            "I, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 22,
+        "year": 2000,
+        "question": "If a positively charged glass-rod is used to charge an electroscope X by contact and an electroscope Y by induction, then",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "X and Y will be negatively charge",
+            "X and Y will be positively charged",
+            "X will be negatively charged and Y positively charged",
+            "X will be positively charged and Y negatively charged",
+            "X will be positively charged and Y will remain uncharged"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 23,
+        "year": 2000,
+        "question": "A wave travels a distance of 20 cm in 3s. The distance between successive crests of the wave is 4cm. What is the frequency of the wave?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.60Hz",
+            "1.67Hz",
+            "7.50Hz",
+            "15.00Hz",
+            "26.67Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 24,
+        "year": 2000,
+        "question": "The unit of inductance is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Weber",
+            "Telsa",
+            "Hertz",
+            "Henry",
+            "Farad"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 25,
+        "year": 2000,
+        "question": "A man at the back of a crowd watches a parade by holding a plane mirror just above his head. The parade passes 6 metres behinde his head and the mirror is 0.25m in front of the man. How far does the image in the mirror appear to be from the man?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "6.50m",
+            "6.25m",
+            "6.00m",
+            "5.75m",
+            "5.50m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 26,
+        "year": 2000,
+        "question": "To keep a lorry moving at a constant speed v, requires power p, from the engine. The force provided by the engine is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{2}\\)v",
+            "pv",
+            "\\(\\frac{p}{v}\\)",
+            "pv<sup>2</sup>",
+            "\\(\\frac{p}{v^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 27,
+        "year": 2000,
+        "question": "An electric iron rated 250 V has a coil of resistance 125Ω. What is the cost of using it for I hour at 10k per kWh?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.25k",
+            "2.50k",
+            "5.00k",
+            "10.00k",
+            "20.00k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 28,
+        "year": 2000,
+        "question": "<p>The image formed by a converging lens of focal length is of a distance of 2f from the lens. Calculate the lateral magnification produced</p>",
+        "explanation": "<p>Using the lens formula,</p><p>\\(\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}\\)</p><p>Where u, v and f are the object distance, image distance and focal length respectively.</p><p>\\(\\therefore \\frac{1}{2f} + \\frac{1}{u} = \\frac{1}{f}\\)</p><p>\\(\\frac{1}{u} = \\frac{1}{2f} - \\frac{1}{f} \\implies \\frac{1}{u} = \\frac{1}{2f}\\)</p><p>\\(u = 2f\\)</p><p>\\(\\therefore Magnification = \\frac{\\text{image distance}}{\\text{object distance}}\\)</p><p>= \\(\\frac{2f}{2f}\\)</p><p>= 1</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.5",
+            "1",
+            "1.5",
+            "2",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 29,
+        "year": 2000,
+        "question": "If the first position of resonance in a resonance tube is 18.0cm from the open end, the distance from the open end to the next position of resonance will be",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "24.0cm",
+            "27.0cm",
+            "36.0cm",
+            "45.0cm",
+            "54.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 30,
+        "year": 2000,
+        "question": "Calculate the peak voltage of a mains supply of r.ms. value 220V.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "121 V",
+            "156 V",
+            "225 V",
+            "240 V",
+            "311 V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 31,
+        "year": 2000,
+        "question": "Two 2.0Ω resistors can be combined circuit to give an overall resistance of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.5Ω only",
+            "1.0 Ω only",
+            "either 0,5Ω or 1.0 Ω",
+            "either 1.0Ω or 4.0 Ω",
+            "either 0.5Ω, 1.0Ω or 4.0Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 32,
+        "year": 2000,
+        "question": "An astronomical telescope which is being used to view a very distant object is said to be in normal adjustment if",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the final image is at the near-point",
+            "the image formed by the objective is before the focus of the eye piece",
+            "the angular magnification is the ratio of the focal length of the eye-piece lens to that of the objective",
+            "the foci dl the objective and the eye-piece coincide between the lenses",
+            "the distance between the objective lens and the eye-piece is equal to the difference between their focal lengths."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 33,
+        "year": 2000,
+        "question": "A man standing 510m away from a wall sounds a whistle. The echo from the wall reaches him 3s later. Calculate the velocity of sound in air.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "170 ms-1",
+            "340 ms-1",
+            "680 ms-1",
+            "765 ms-1",
+            "1530 ms-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 34,
+        "year": 2000,
+        "question": "The image is a plane mirror is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "inverted, real with a magnificant of \\(\\frac{1}{2}\\)",
+            "inverted, virtual with a magnification of 1",
+            "inverted, real with a magnification of 2",
+            "upright, virtual with a magnificent of 1",
+            "upright, real with a magnification of 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 35,
+        "year": 2000,
+        "question": "<p>Which of the following pairs of light rays shows the widest separation in the spectrum of white light?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Red and blue",
+            "Orange and green",
+            "Red and indigo",
+            "Violet and green",
+            "Yellow and red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 36,
+        "year": 2000,
+        "question": "Which of the following is/are TRUE of nuclear fission?<br><br>I. A heavy nucleus is split into two nuclei of comparable masses<br>II. Two light nuclei are joined together to form a heavier nucleus<br>III. The total mass of the products is less than that of the reactants",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 37,
+        "year": 2000,
+        "question": "The image obtained on the screen of a pin-hole camera becomes less sharply defined when the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "object is moved farther from the pin-hole",
+            "screen is moved farther from the pin-hole",
+            "object is made smaller",
+            "illumination is made more intense",
+            "pin-hole is made larger."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 38,
+        "year": 2000,
+        "question": "Which of the following statements about evaporation and boiling is FALSE?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Evaporation may take place at any temperature.",
+            "In evaporation, vapour escapes only from the surface of a liquid",
+            "The temperature remains constant as long as the liquid is boiling",
+            "The temperature at which boiling takes place can be altered by changing the external pressure",
+            "The rate of evaporation does not depend on temperature."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 39,
+        "year": 2000,
+        "question": "Which of the following is/areNOT affected by a magnetic field?<br><br>I. Alpha particle<br>II. Cathode rays<br>III. Neutrons",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I,II &amp; III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 40,
+        "year": 2000,
+        "question": "The smallest unit on the sleeve of a micrometer screw gauge is 0.5mm. There are fifty divisions on the thimble of the screw gauge.<br>What is the smallest length that can be measured with this instrument?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.05cm",
+            "0.01cm",
+            "0.005cm",
+            "0.001cm",
+            "0.0001cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 41,
+        "year": 2000,
+        "question": "The length of a side of a metallic cube at 20° C is 5.0cm. Given that the linear expansively of the metal is 4.0 × 10<sup>-5</sup>K<sup>-1</sup>, find the volume of the cube at 120° C",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "124.50cm<sup>3</sup>",
+            "125.00cm<sup>3</sup>",
+            "126.00cm<sup>3</sup>",
+            "126.25cm<sup>3</sup>",
+            "126.50cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 42,
+        "year": 2000,
+        "question": "A boy moving with a velocity of 3 ms<sup>-1</sup>is brought to rest by a constant force after travelling 15m. Calculate the retardation.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.15ms<sup>-2</sup>",
+            "0.30ms<sup>-2</sup>",
+            "0.60ms<sup>-2</sup>",
+            "3.33ms<sup>-2</sup>",
+            "6.66ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 43,
+        "year": 2000,
+        "question": "A block of a substance X will sink in a liquid V but float liquid Z. Which of the following statements is NOT correct about the densities of the three substances?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Density of liquid Z is greater than that of X",
+            "Density of liquid V is less than that of liquid X",
+            "Density of liquid Y is less than that of liquid Z",
+            "Liquid Z has the greatest density of all the three substances.",
+            "If liquids Y and Z do not mix, liquid Z will float on liquid Y."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 44,
+        "year": 2000,
+        "question": "I. A scalar quantity has only magnitude<br>II. A scalar quantity has both magnitude and direction<br>III. A vector quantity has both magnitude and direction<br>IV. A vector quantity has only magnitude.<br><br>Which of the above statement is/are correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "l and II only",
+            "l and III only",
+            "II and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 45,
+        "year": 2000,
+        "question": "An electric bell operated within an evacuated bell jar enables us to infer correctly that",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "light waves require a medium for transmission",
+            "sound waves do not require a medium for transmission",
+            "light waves do not require a medium for transmission but sound waves do",
+            "light waves travel much faster than sound waves",
+            "light waves and sound waves travel at the same speed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 46,
+        "year": 2000,
+        "question": "A boy ran a distance of 200m in 24s. His average speed was 8.3ms<sup>-1</sup>. Which of the following is correct about the units in which the statements above are expressed?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "All the units are fundamental.",
+            "All the units are derived",
+            "All the units except one are S.I units",
+            "Two of the units are fundamental and one derived.",
+            "None of the units is S.I units."
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2012,
+        "question": "<p>Two functions g and h are defined on the set R of real numbers by \\(g : x \\to x^{2} - 2\\) and \\(h : x \\to \\frac{1}{x + 2}\\). Find : </p><p>(a) \\(h^{-1}\\), the inverse of h ;</p><p>(b) \\(g \\circ h\\), when \\(x = -\\frac{1}{2}\\).</p>",
+        "answer": "<p>(a) \\(h(x) = \\frac{1}{x + 2}\\) ;</p><p>Let y = h(x).</p><p>\\(y = \\frac{1}{x + 2}\\)</p><p>\\(\\frac{1}{y} = x + 2 \\implies x = \\frac{1}{y} - 2\\)</p><p>\\(\\therefore h^{-1} (x) = \\frac{1}{x} - 2\\)</p><p>(b) \\(g \\circ h(x) = g(h(x))\\)</p><p>\\(g(h(-\\frac{1}{2})) = g(\\frac{1}{-\\frac{1}{2} + 1})\\)</p><p>= \\(g(\\frac{1}{\\frac{3}{2}})\\)</p><p>= \\(g(\\frac{2}{3})\\)</p><p>= \\((\\frac{2}{3})^{2} - 2\\)</p><p>= \\(\\frac{4}{9} - 2\\)</p><p>= \\(\\frac{-14}{9}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2012,
+        "question": "<p>Express \\(3x^{2} - 6x + 10\\) in the form \\(a(x - b)^{2} + c\\), where a, b and c are integers. Hence state the minimum value of \\(3x^{2} - 6x + 10\\) and the value of x for which it occurs.</p>",
+        "answer": "<p>\\(3x^{2} - 6x + 10\\)</p><p>\\(3(x^{2} - 2x) + 10\\)</p><p>\\(3[x^{2} - 2x + (\\frac{1}{2}(-2))^{2}] + 10 - 3\\)</p><p>= \\(3(x - 1)^{2} + 7\\)</p><p>The minimum value is 7 and this occurs at x - 1 = 0 ==&gt; x = 1.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2012,
+        "question": "<p>The twenty-first term of an Arithmetic Progression is \\(5\\frac{1}{2}\\) and the sum of the first twenty-one terms is \\(94\\frac{1}{2}\\). Find the :</p><p>(a) first term ; (b) common difference ; (c) sum of the first thirty terms.</p>",
+        "answer": "<p>(a) \\(T_{n} = a + (n - 1)d\\) (terms of an AP)</p><p>\\(T_{21} = a + 20d = 5\\frac{1}{2}.... (1)\\)</p><p>\\(S_{n} = \\frac{n}{2} (2a + (n - 1)d) = \\frac{n}{2} (a + l)\\)</p><p>Where a and l are the first and last terms respectively.</p><p>\\(S_{21} = \\frac{21}{2} (a + 5\\frac{1}{2})\\)\\)</p><p>\\(94\\frac{1}{2} = \\frac{21}{2} (a + 5\\frac{21}{2})\\)</p><p>\\(189 = 21 (a + 5\\frac{1}{2})\\)</p><p>\\(9 = a + 5\\frac{1}{2} \\implies a = 9 - 5\\frac{1}{2} = 3\\frac{1}{2}\\)</p><p>(b) Put a in the equation (1),</p><p>\\(3\\frac{1}{2} + 20d = 5\\frac{1}{2}\\)</p><p>\\(20d = 5\\frac{1}{2} - 3\\frac{1}{2} = 2\\)</p><p>\\(d = \\frac{2}{20} = \\frac{1}{10}\\).</p><p>(c) \\(S_{30} = \\frac{30}{2} (2(3\\frac{1}{2}) + (30 - 1)(0.1)\\)</p><p>= \\(15(9.9)\\)</p><p>= \\(148.5\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2012,
+        "question": "<p>Write down the first three terms of the binomial expansion \\((1 + ax)^{n}\\) in ascending powers of x. If the coefficients of x and x\\(^{2}\\) are 2 and \\(\\frac{3}{2}\\) respectively, find the values of a and n.</p>",
+        "answer": "<p>\\((1 + ax)^{n} = ^{n}C_{n} (1)^{n} + ^{n}C_{n - 1} (1)^{n - 1} (ax) + ^{n}C_{n - 2} (1)^{n - 2} (ax)^{2} + ...\\)</p><p>= \\(1 + nax + (\\frac{n(n - 1)}{2})(ax)^{2} + ... \\)</p><p>Given</p><p>\\(an = 2 .... (1)\\)</p><p>\\(\\frac{n^{2} - n}{2}) a^{2} = \\frac{3}{2} ... (2)\\)</p><p>\\(\\frac{a^{2}n^{2} - a^{2} n}{2} = \\frac{3}{2}\\)</p><p>\\(\\frac{(an)^{2} - a(an)}{2} = \\frac{3}{2} ... (3)\\)</p><p>From (1), \\(an = 2\\). (3) becomes</p><p>\\(\\frac{2^{2} - a(2)}{2} = \\frac{3}{2}\\)</p><p>\\(\\frac{4 - 2a}{2} = \\frac{3}{2}\\)</p><p>\\(2 - 2a = \\frac{3}{2} \\implies 2a = \\frac{1}{2}\\)</p><p>\\(\\therefore a = \\frac{1}{4}\\)</p><p>Recall \\(an = 2\\)</p><p>\\(\\frac{n}{4} = 2 \\implies n = 8\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2012,
+        "question": "<p>The gradient function of \\(y = ax^{2} + bx + c\\) is \\(8x + 4\\). If the function has a minimum value of 1, find the values of a, b and c. </p>",
+        "answer": "<p>\\(y = ax^{2} + bx + c\\)</p><p>Gradient = \\(\\frac{\\mathrm d y}{\\mathrm d x} = 2ax + b = 8x + 4\\)</p><p>Equating, we have</p><p>\\(2a = 8 \\implies a = 4\\)</p><p>\\(b = 4\\)</p><p>For minimum value, gradient = 0</p><p>\\(8x + 4 = 0 \\implies x = -\\frac{1}{2}\\)</p><p>At \\(x = -\\frac{1}{2}, y = 1\\)</p><p>\\(1 = 4(-\\frac{1}{2})^{2} + 4(-\\frac{1}{2}) + c\\)</p><p>\\(1 = 1 - 2 + c\\)</p><p>\\(1 = c - 1 \\implies c = 2\\)</p><p>\\(a, b, c = 4, 4, 2\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2012,
+        "question": "<p>Three forces \\(-63j , 32.14i + 38.3j\\) and \\(14i - 24.25j\\) act on a body of mass 5kg. Find, correct to one decimal place, the :</p><p>(a) magnitude of the resultant force ;</p><p>(b) acceleration of the body.</p>",
+        "answer": "<p>(a) Resultant of forces, \\(R = -63j + (32.14i + 38.3j) + (14i - 24.25j)\\)</p><p>= \\(46.14i - 48.95j\\)</p><p>Magnitude |R| = \\(\\sqrt{(46.14)^{2} + (-48.95)^{2}}\\)</p><p>= \\(\\sqrt{2128.9 + 2396.1}\\)</p><p>= \\(\\sqrt{4525}\\)</p><p>= \\(67.268 \\approxeq 67.3N\\) (to 1 d.p)</p><p>(b) \\(a = \\frac{F}{m}\\)</p><p>= \\(\\frac{67.268}{5} = 13.454 ms^{-2}\\)</p><p>\\(\\approxeq 13.5 ms^{-2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2012,
+        "question": "<p>Simplify \\(^{n + 1}C_{4} - ^{n - 1}C_{4}\\)</p><p>= \\(\\frac{(n + 1)!}{4! (n - 3)!} - \\frac{(n - 1)!}{4! (n - 5)!}\\)</p><p>= \\(\\frac{(n + 1)(n)(n - 1)(n - 2)(n - 3)!}{4! (n - 3)!} - \\frac{(n - 1)(n - 2)(n - 3)(n - 4)(n - 5)!}{4! (n - 5)!}\\)</p><p>= \\(\\frac{(n + 1)(n)(n - 1)(n - 2)}{4!} - \\frac{(n - 1)(n - 2)(n - 3)(n - 4)}{4!}\\)</p><p>= \\(\\frac{(n - 1)(n - 2) [n(n + 1) - (n - 3)(n - 4)]}{4!}\\)</p><p>= \\(\\frac{(n - 1)(n - 2) [n^{2} + n - n^{2} + 7n - 12]}{24}\\)</p><p>= \\(\\frac{(n - 1)(n - 2)[8n -  12]}{24}\\)</p><p>= \\(\\frac{(n - 1)(n - 2)(2n - 3)}{6}\\)</p>",
+        "answer": null,
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2012,
+        "question": "<p>The marks scored by 35 students in a test are given in the table below.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>1-5</td>\n<td>6-10</td>\n<td>11-15</td>\n<td>16-20</td>\n<td>21-25</td>\n<td>26-30</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>2</td>\n<td>7</td>\n<td>12</td>\n<td>8</td>\n<td>5</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>Draw a histogram for the distribution.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>Class boundaries</td>\n<td>Frequency</td>\n</tr>\n<tr>\n<td>1 - 5</td>\n<td>0.5 - 5.5</td>\n<td>2</td>\n</tr>\n<tr>\n<td>6 - 10</td>\n<td>5.5 - 10.5</td>\n<td>7</td>\n</tr>\n<tr>\n<td>11 - 20</td>\n<td>10.5 - 20.5</td>\n<td>12</td>\n</tr>\n<tr>\n<td>21 - 30</td>\n<td>20.5 - 30.5</td>\n<td>8</td>\n</tr>\n<tr>\n<td>31 - 35</td>\n<td>30.5 - 35.5</td>\n<td>5</td>\n</tr>\n<tr>\n<td>36 - 40</td>\n<td>35.5 - 40.5</td>\n<td>1</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>35</td>\n</tr>\n</tbody>\n</table><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0315%20%282%29_LI.jpg\" style=\"width:300px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2012,
+        "question": "<p>(a) The polynomial \\(f(x) = x^{3} + px^{2} - 10x + q\\) is exactly divisible by \\(x^{2} + x - 6\\). Find the :</p><p>(i) values of p and q ; (ii) third factor.</p><p>(b) The volume of a cube is increasing at the rate of \\(2\\frac{1}{2} cm^{3} s^{-1}\\). Find the rate of change of the side of the base when its length is 2cm.</p>",
+        "answer": "<p>(a)(i) \\(f(x) = x^{3} + px^{2} - 10x + q\\)</p><p>\\(x^{2} + x - 6 = 0 \\implies x^{2} - 2x + 3x - 6 = 0\\)</p><p>\\(x(x - 2) + 3(x - 2) = 0 \\implies (x - 2)(x + 3) = 0\\)</p><p>\\(x = 2 ; x = -3\\)</p><p>\\(f(-3) = (-3)^{3} + p(-3)^{2} - 10(-3) + q = 0\\)</p><p>\\(-27 + 9p + 30 + q = 0 \\implies 9p + q = -3 .... (1)\\)</p><p>\\(f(2) = (2)^{3} + p(2)^{2} - 10(2) + q = 0\\)</p><p>\\(8 + 4p - 20 + q = 0 \\implies 4p + q = 12 .... (2)\\)</p><p>(2) - (1) :</p><p>\\((4p + q) - (9p + q) = (12 - (-3)) \\implies -5p = 15\\)</p><p>\\(p = \\frac{15}{-5} = -3\\)</p><p>Put p = -3 in (2), we have:</p><p>\\(4(-3) + q = 12 \\implies -12 + q = 12 \\)</p><p>\\(q = 12 + 12= 24\\)</p><p>\\(f(x) = x^{3} - 3x^{2} - 10x + 24\\)</p><p>(ii) Using the method of long division,</p><p>\\(\\frac{x^{3} - 3x^{2} - 10x + 24}{x^{2} + x - 6}\\)</p><p>we get the third factor = \\(x - 4\\).</p><p>(b) \\(\\frac{\\mathrm d v}{\\mathrm d t} = 2\\frac{1}{2} cm^{3} s^{-1}\\)</p><p>\\(v = x^{3}\\)</p><p>\\(\\frac{\\mathrm d v}{\\mathrm d x} = 3x^{2}\\)</p><p>\\(\\frac{\\mathrm d v}{\\mathrm d t} = \\frac{\\mathrm d v}{\\mathrm d x} \\cdot \\frac{\\mathrm d x}{\\mathrm d t}\\)</p><p>\\(\\frac{5}{2} = 3x^{2} \\cdot \\frac{\\mathrm d x}{\\mathrm d t}\\)</p><p>When x = 2cm, we have</p><p>\\(\\frac{5}{2} = 3(2)^{2} \\cdot \\frac{\\mathrm d x}{\\mathrm d t}\\)</p><p>\\(\\frac{\\mathrm d x}{\\mathrm d t} = \\frac{5}{2} \\div 12 = \\frac{5}{24} cm s^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2012,
+        "question": "<p>(a) Write down the matrix A of the linear transformation \\(A(x, y) \\to (2x -y, -5x + 3y)\\).</p><p>(b) If \\(B = \\begin{pmatrix} 3 &amp; 1 \\\\ 5 &amp; 2 \\end{pmatrix}\\), find :</p><p>(i) \\(A^{2} - B^{2}\\) ; (ii) matrix \\(C = B^{2} A\\) ; (iii) the point \\(M(x, y)\\) whose image under the linear transformation \\(C\\) is \\(M' (10, 18)\\).</p><p>(c) What is the relationship between matrix A and matrix C?</p>",
+        "answer": "<p>(a) \\(A(x, y) \\to (2x - y , -5x + 3y)\\)</p><p>Matrix \\(A = \\begin{pmatrix} 2 &amp; -1 \\\\ -5 &amp; 3 \\end{pmatrix}\\)</p><p>(b) \\(A = \\begin{pmatrix} 2 &amp; -1 \\\\ -5 &amp; 2 \\end{pmatrix} ; B = \\begin{pmatrix} 3 &amp; 1 \\\\ 5 &amp; 2 \\end{pmatrix}\\)</p><p>(i) \\(A^{2} - B^{2} = \\begin{pmatrix} 2 &amp; -1 \\\\ -5 &amp; 3 \\end{pmatrix} \\begin{pmatrix} 2 &amp; -1 \\\\ -5 &amp; 2 \\end{pmatrix} - \\begin{pmatrix} 3 &amp; 1 \\\\ 5 &amp; 2 \\end{pmatrix} \\begin{pmatrix} 3 &amp; 1 \\\\ 5 &amp; 2 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 9 &amp; -5 \\\\ -25 &amp; 14 \\end{pamtrix} - \\begin{pmatrix} 14 &amp; 5 \\\\ 25 &amp; 9 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -5 &amp; -10 \\\\ -50 &amp; 5 \\end{pmatrix}\\)</p><p>= \\(-5 \\begin{pmatrix} 1 &amp; 2 \\\\ 10 &amp; -1 \\end{pmatrix}\\)</p><p>(ii) \\(C = B^{2} A\\)</p><p>= \\(\\begin{pmatrix} 14 &amp; 5 \\\\ 25 &amp; 9 \\end{pmatrix} \\begin{pmatrix} 2 &amp;  -1 \\\\ -5 &amp; 3 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 3 &amp; 1 \\\\ 5 &amp; 2 \\end{pmatrix}\\)</p><p>(iii) \\(\\begin{pmatrix} 3 &amp; 1 \\\\ 5 &amp; 2 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 10 \\\\ 18 \\end{pmatrix}\\)</p><p>\\(3x + y = 10 ... (1)\\)</p><p>\\(5x + 2y = 18 ... (2)\\)</p><p>Multiply (1) by 2 :</p><p>\\(6x + 2y = 20 ... (3)\\)</p><p>\\((3) - (2) : (6x + 2y) - (5x + 2y) = (20 - 18)\\)</p><p>\\(x = 2\\)</p><p>Put x = 2 in (1) :</p><p>\\(3x + y = 10 \\implies 3(2) + y = 10\\)</p><p>\\(6 + y = 10 \\implies y = 10 - 6 = 4\\)</p><p>\\(M(2, 4)\\).</p><p>(c) C is the inverse of matrix A and A is the inverse of matrix C.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2012,
+        "question": "<p>(a) Evaluate : \\(\\int_{1} ^{4} \\frac{x(3x - 2)}{2\\sqrt{x}} \\mathrm {d} x\\)</p><p>(b) The equation of a circle is given by \\(2x^{2} + 2y^{2} - 8x + 5y - 10 = 0\\). Find the :</p><p>(i) coordinates of the centre ; (ii) radius of the circle .</p>",
+        "answer": "<p>(a) \\(\\int_{1} ^{4} \\frac{x(3x -2)}{2\\sqrt{x}} \\mathrm {d} x\\)</p><p>= \\(\\int_{1} ^{4} \\frac{1}{2} x(x^{-\\frac{1}{2}})(3x - 2) \\mathrm {d} x\\)</p><p>= \\(\\frac{1}{2} \\int_{1} ^{4} (3x^{\\frac{3}{2}} - 2x^{\\frac{1}{2}}) \\mathrm {d} x\\)</p><p>= \\(\\frac{1}{2} [\\frac{3x^{\\frac{5}{2}}}{\\frac{5}{2}} - \\frac{2x^{\\frac{3}{2}}}{\\frac{3}{2}}]_{1} ^{4}\\)</p><p>= \\(\\frac{1}{2} [\\frac{6x^{\\frac{5}{2}}}{5} - \\frac{4x^{\\frac{3}{2}}}{3}]_{1} ^{4}\\)</p><p>= \\(\\frac{1}{2} [\\frac{6(4^\\frac{5}{2})}{5} - \\frac{4(4^\\frac{3}{2})}{3}] - \\frac{1}{2} [\\frac{6(1^\\frac{5}{2})}{5} - \\frac{4(1^\\frac{3}{2})}{3}]\\)</p><p>= \\(\\frac{1}{2} [\\frac{6 \\times 32}{5} - \\frac{4 \\times 8}{3}] - \\frac{1}{2} [\\frac{6}{5} - \\frac{4}{3}]\\)</p><p>= \\(\\frac{1}{2}[38.4 - 10.67] - \\frac{1}{2} [1.2 - 1.33]\\)</p><p>= \\(\\frac{1}{2} [27.73 + 0.13]\\)</p><p>= \\(13.93\\)</p><p>(b) \\(2x^{2} + 2y^{2} - 8x + 5y - 10 = 0\\)</p><p>\\(x^{2} + y^{2} - 4x + \\frac{5}{2}y = 5\\)</p><p>\\(x^{2} - 4x + [\\frac{1}{2} (-4)]^{2} + y^{2} + \\frac{5}{2}y  + [\\frac{1}{2} (\\frac{5}{2})]^{2} = 5 + 4 + \\frac{25}{16} = \\frac{169}{16}\\)</p><p>\\((x - 2)^{2} + (y + \\frac{5}{2})^{2} = \\frac{169}{16}\\)</p><p>(i) coordinates of the centre = \\((2, -\\frac{5}{4})\\)</p><p>(ii) Radius = \\(\\sqrt{\\frac{169}{16}} = \\frac{13}{4}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2012,
+        "question": "<p>(a)(i) Find the sum of the series \\(A(1 + r) + A(1 + r)^{2} + ... + A(1 + r)^{n}\\).</p><p>(ii) Given that r = 8% and A = GH 40.00, find the sum of the 6th to 10th terms of the series in (i).</p><p>(b) Find the equation of the tangent to the curve \\(y = \\frac{1}{x}\\) at the point on the curve when x = 2.</p>",
+        "answer": "<p>(a)(i) \\(A(1 + r) + A(1 + r)^{2} + ... + A(1 + r)^{n}\\)</p><p>\\(S_{n} = \\frac{a(r^{n} - 1)}{r - 1}\\) (sum of terms in a G.P).</p><p>\\(a = A(1 + r) ; r = (1 + r)\\)</p><p>\\(S_{n} = \\(\\frac{(A(1 + r))[(1 + r)^{n} - 1]}{(1 + r) - 1}\\)</p><p>= \\(\\frac{(A(1 + r))[(1 + r)^{n} - 1]}{r}\\)</p><p>(ii) Sum of the 6th to 10th term = \\(S_{10} - S_{5}\\)</p><p>\\(a = 40(1 + 0.08) = 43.2 ; r = 0.08\\)</p><p>\\(S_{10} = \\frac{43.2[(1 + 0.08)^{10} - 1]}{0.08} = 540[(1.08)^{10} - 1]\\)</p><p>\\(S_{5} = \\frac{43.2[(1.08)^{5} - 1]}{0.08} = 540[(1.08)^{5} - 1]\\)</p><p>\\(S_{10} - S_{5} = 540[(1.08)^{10} - (1.08)^{5}]\\)</p><p>= 371.8</p><p>(b) \\(y = \\frac{1}{x} = x^{-1}\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = -x^{-2}\\)</p><p>When \\(x = 2; y = \\frac{1}{2}\\), a point on the curve.</p><p>Gradient of tangent = \\(-2^{-2} = -\\frac{1}{4}\\)</p><p>Equation : \\(\\frac{y - \\frac{1}{2}}{x - 2} = -\\frac{1}{4}\\)</p><p>\\(4y - 2 = 2 - x \\implies x + 4y - 4 = 0\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2012,
+        "question": "<p>(a) A fair die with six faces is thrown six times. Calculate, correct to three decimal places, the probability of obtaining :</p><p>(i) exactly three sixes ; (ii) at most three sixes.</p><p>(b) Eight percent of screws produced by a machine are defective. From a random sample of 10 screws produced by the machine, find the probability that :</p><p>(i) exactly two will be defective ; (ii) not more than two will be defective.</p>",
+        "answer": "<p>(a) \\(p(six) = p = \\frac{1}{6} ; p(\\text{not six}) = q = \\frac{5}{6}\\)</p><p>\\((p + q)^{6} = p^{6} + 6p^{5}q + 15p^{4}q^{2} + 20p^{3}q^{3} + 15p^{2}q^{4} + 6pq^{5} + q^{6}\\)</p><p>(i) p(exactly 3 sixes) = \\(20p^{3}q^{3}\\)</p><p>= \\(20(\\frac{1}{6})^{3} (\\frac{5}{6})^{3}\\)</p><p>= \\(20(\\frac{1}{216})(\\frac{125}{216})\\)</p><p>= \\(\\frac{2500}{46656}\\)</p><p>= 0.0536 \\(\\approxeq\\) 0.054.</p><p>(ii) p(at most 3 sixes) = p(0 six) + p(1 six) + p(2 sixes) + p(3 sixes)</p><p>= \\(q^{6} + 6pq^{5} + 15p^{2}q^{4} + 20p^{3}q^{3}\\)</p><p>= \\((\\frac{5}{6})^{6} + 6(\\frac{1}{6})(\\frac{5}{6})^{5} + 15(\\frac{1}{6})^{2} (\\frac{5}{6})^{4} + 20(\\frac{1}{6})^{3} (\\frac{5}{6})^{3}\\)</p><p>= \\(\\frac{46250}{46656}\\)</p><p>= \\(0.991\\) (to 3 d.p)</p><p>(b) p(a defective screw) = 0.08 ; p(non- defective screw) = 1 - 0.08 = 0.92.</p><p>The binomial distribution = \\((p + q)^{10}\\).</p><p>(i) p(exactly 2 defective) = \\(^{10}C_{2} (0.08)^{2} (0.92)^{8}\\)</p><p>= \\(45(0.0064)(0.5132)\\)</p><p>= \\(0.1478 \\approxeq 0.148\\)</p><p>(ii) p(not more than 2 defective) = p(0 defective or 1 defective or 2 defective)</p><p>= \\(^{10}C_{0} p^{0} q^{10} + ^{10}C_{1} p^{1} q^{9} + ^{10}C_{2} p^{2} q^{8}\\)</p><p>= \\(1(0.92)^{10} + 10(0.08)(0.92)^{9} + 0.1478\\)</p><p>= \\(0.4344 + 0.3777 + 0.1478\\)</p><p>= \\(0.9599 \\approxeq 0.960\\) (3 d.p)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2012,
+        "question": "<p>The table gives the distribution of heights in metres of 100 students.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Height</td>\n<td>1.40-1.42</td>\n<td>1.43-1.45</td>\n<td>1.46-1.48</td>\n<td>1.49-1.51</td>\n<td>1.52-1.54</td>\n<td>1.55-1.57</td>\n<td>1.58-1.60</td>\n<td>1.61-1.63</td>\n</tr>\n<tr>\n<td>Freq</td>\n<td>2</td>\n<td>4</td>\n<td>19</td>\n<td>30</td>\n<td>24</td>\n<td>14</td>\n<td>6</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>(a) Calculate the : (i) mean height ; (ii) mean deviation of the distribution.</p><p>(b) What is the probability that the height of a student selected at random is greater than the mean height of the distribution?</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:70%\">\n<tbody>\n<tr>\n<td>Height</td>\n<td>\n<p>Class</p>\n<p>Mark (x)</p>\n</td>\n<td>\\(f\\)</td>\n<td>\\(fx\\)</td>\n<td>\\(d = x - \\bar{x}\\)</td>\n<td>\\(|d|\\)</td>\n<td>\\(fd\\)</td>\n</tr>\n<tr>\n<td>1.40-1.42</td>\n<td>1.41</td>\n<td>2</td>\n<td>2.82</td>\n<td>-0.1</td>\n<td>0.1</td>\n<td>0.2</td>\n</tr>\n<tr>\n<td>1.43-1.45</td>\n<td>1.44</td>\n<td>4</td>\n<td>5.76</td>\n<td>-0.07</td>\n<td>0.07</td>\n<td>0.28</td>\n</tr>\n<tr>\n<td>1.46-1.48</td>\n<td>1.47</td>\n<td>19</td>\n<td>27.93</td>\n<td>-0.04</td>\n<td>0.04</td>\n<td>0.76</td>\n</tr>\n<tr>\n<td>1.49-1.51</td>\n<td>1.50</td>\n<td>30</td>\n<td>45.00</td>\n<td>-0.01</td>\n<td>0.01</td>\n<td>0.30</td>\n</tr>\n<tr>\n<td>1.52-1.54</td>\n<td>1.53</td>\n<td>24</td>\n<td>36.72</td>\n<td>0.02</td>\n<td>0.02</td>\n<td>0.48</td>\n</tr>\n<tr>\n<td>1.55-1.57</td>\n<td>1.56</td>\n<td>14</td>\n<td>21.84</td>\n<td>0.05</td>\n<td>0.05</td>\n<td>0.70</td>\n</tr>\n<tr>\n<td>1.58-1.60</td>\n<td>1.59</td>\n<td>6</td>\n<td>9.54</td>\n<td>0.08</td>\n<td>0.08</td>\n<td>0.48</td>\n</tr>\n<tr>\n<td>1.61-1.63</td>\n<td>1.62</td>\n<td>1</td>\n<td>1.62</td>\n<td>0.11</td>\n<td>0.11</td>\n<td>0.11</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>100</td>\n<td>151.23</td>\n<td> </td>\n<td> </td>\n<td>3.31</td>\n</tr>\n</tbody>\n</table><p>(a)(i) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{151.23}{100}\\)</p><p>\\(\\approxeq 1.51cm\\)</p><p>(ii) Mean deviation = \\(\\frac{\\sum fd}{\\sum f}\\)</p><p>= \\(\\frac{3.31}{100}\\)</p><p>= \\(0.033\\)</p><p>(b) p(height is gretaer than mean height) = \\(\\frac{24 + 14 + 6 + 1}{100}\\)</p><p>= \\(0.45\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2012,
+        "question": "<p>(a) Two items are selected at random from four items labelled (p, q, r, s).</p><p>(i) List the sample space if sampling is done (1) with replacement ; (2) without replacement.</p><p>(ii) Find the probability that r is at least one of the two objects selected : (1) in a(i)1 ; (2) in a(i)2.</p><p>(b) How many whole numbers from 100 to 999 are divisible by (i) 4 ; (ii) both 3 and 4?</p>",
+        "answer": "<p>Total number of arrangements:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:30%\">\n<tbody>\n<tr>\n<td> </td>\n<td>p</td>\n<td>q</td>\n<td>r</td>\n<td>s</td>\n</tr>\n<tr>\n<td>p</td>\n<td>pp</td>\n<td>pq</td>\n<td>pr</td>\n<td>ps</td>\n</tr>\n<tr>\n<td>q</td>\n<td>qp</td>\n<td>qq</td>\n<td>qr</td>\n<td>qs</td>\n</tr>\n<tr>\n<td>r</td>\n<td>rp</td>\n<td>rq</td>\n<td>rr</td>\n<td>rs</td>\n</tr>\n<tr>\n<td>s</td>\n<td>sp</td>\n<td>sq</td>\n<td>sr</td>\n<td>ss</td>\n</tr>\n</tbody>\n</table><p>(i)1. With replacement : Sample space (S) = {pp, qq, rr, ss}.</p><p>2. Without replacement : Sample space (S') = {pq, pr, ps, qr, qs, rs}</p><p>(ii)1. Total = 16; n(S) = 4 ; </p><p>\\(\\therefore p(S) = \\frac{4}{16} = \\frac{1}{4}\\)</p><p>2. n(S') = 6;</p><p>\\(\\therefore p(S') = \\frac{6}{16} = \\frac{3}{8}\\).</p><p>(b)(i) Numbers divisible by 4: 100, 104, 108, ..., 996.</p><p>\\(T_{n} = a + (n - 1)d\\)</p><p>\\(996 = 100 + 4(n - 1) \\implies 996 = 100 + 4n - 4\\)</p><p>\\(996 = 96 + 4n \\implies 4n = 996 - 96 = 900\\)</p><p>\\(n = \\frac{900}{4} = 225\\)</p><p>(ii) Numbers divisible by both 3 and 4 are multiples of 12.</p><p>108, 120, 132, ..., 996.</p><p>\\(996 = 108 + 12(n - 1)\\)</p><p>\\(996 = 108 + 12n - 12  \\implies 996 = 96 + 12n\\)</p><p>\\(12n = 996 - 96 = 900\\)</p><p>\\(n = \\frac{900}{12} = 75\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2012,
+        "question": "<p>(a) A body P of mass 5kg is suspended by two light inextensible strings AP and BP attached to a ceiling. If the strings are inclined at angles 40° and 30° respectively to the downward vertical, find the tension in each of the strings. [Take \\(g = 10 ms^{-2}\\)].</p><p>(b) A constant force F acts on a toy car of mass 5 kg and increases its velocity from 5 ms\\(^{-1}\\) to 9 ms\\(^{-1}\\) in 2 seconds. Calculate : </p><p>(i) the magnitude of the force ; (ii) velocity of the toy car 3 seconds after attaining a velocity of 9 ms\\(^{-1}\\).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0316%20%282%29.jpg\" style=\"height:168px; width:250px\"></p><p>From Lami's theorem,</p><p>\\(\\frac{T_{1}}{\\sin 150} = \\frac{T_{2}}{\\sin 140} = \\frac{50}{\\sin 70}\\)</p><p>\\(T_{1} = \\frac{50 \\sin 150}{\\sin 70}\\)</p><p>= \\(\\frac{50 \\times 0.5}{0.9397} = 26.6N\\)</p><p>\\(T_{2} = \\frac{50 \\sin 140}{\\sin 70}\\)</p><p>= \\(\\frac{50 \\times 0.6428}{0.9397} = 34.2N\\)</p><p>The tensions are 26.6N and 34.2N respectively.</p><p>(b)(i) Given F = ?, u = 5 ms\\(^{-1}\\) ; v = 9 ms\\(^{-1}\\) ; t = 2s.</p><p>acceleration, \\(a = \\frac{v - u}{t}\\)</p><p>= \\(\\frac{9 - 5}{2} = 2 ms^{-2}\\)</p><p>Force, \\(F = ma = 5 \\times 2 \\)</p><p>= \\(10N\\).</p><p>(ii) \\(v = u + at\\)</p><p>\\(u = 9 ms^{-1}; a = 2 ms^{-2} ; t = 2s\\)</p><p>\\(v = 9 + 2(3)\\)</p><p>= \\(9 + 6 = 15 ms^{-1}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2012,
+        "question": "<p>(a) Given that \\(p = (4i - 3j)\\) and \\(q = (-i + 5j)\\), find r such that \\(|r| = 15\\) and is in the direction \\((2p + 3q)\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0314%20%282%29.jpg\" style=\"height:129px; width:250px\"></p><p>Forces of magnitude 8N, 6N and 4N act at the point P, as shown in the above diagram. Find the : (i) magnitude ; (ii) direction of the resultant force.</p>",
+        "answer": "<p>(a) \\(p = (4i - 3j) ; q = (-i + 5j)\\)</p><p>\\(2p + 3q = \\begin{pmatrix} 8i - 3i \\\\ -6j + 15j \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 5i \\\\ 9j \\end{pmatrix}\\)</p><p>Let \\(r = k \\begin{pmatrix} 5i \\\\ 9j \\end{pmatrix} = \\begin{pmatrix} 5ki \\\\ 9kj \\end{pmatrix}\\)</p><p>\\(|r| = \\sqrt{(5k)^{2} + (9k)^{2}} = 15\\)</p><p>\\(\\sqrt{25k^{2} + 81k^{2}} = 15 \\implies 25k^{2} + 81k^{2} = 225\\)</p><p>\\(106k^{2} = 225 \\implies k^{2} = \\frac{225}{106} = 2.123\\)</p><p>\\(k = \\sqrt{2.123} = 1.457\\)</p><p>\\(\\therefore r = \\begin{pmatrix} 5i \\times 1.457 \\\\ 9j \\times 1.457 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 7.285i \\\\ 13.113j \\end{pmatrix}\\)</p><p>(b)(i)  <img alt=\"\" src=\"/storage/classroom/editor_images/scan0314%20%282%29%281%29.jpg\" style=\"height:129px; width:250px\"></p><p>Resolve the forces along the x and y- axis.</p><p>Let \\(F_{1} = \\begin{pmatrix} 8 \\cos 120° \\\\ 8 \\sin 120° \\end{pmatrix}\\)</p><p>\\(F_{2} = \\begin{pmatrix} 6 \\cos 90° \\\\ 6 \\sin 90° \\end{pmatrix}\\)</p><p>\\(F_{3} = \\begin{pmatrix} 4 \\cos 30° \\\\ 4 \\sin 30° \\end{pmatrix}\\)</p><p>\\(R = F_{1} + F_{2} + F_{3}\\)</p><p>= \\(\\begin{pmatrix} 8 \\cos 120° \\\\ 8 \\sin 120° \\end{pmatrix} + \\begin{pmatrix} 6 \\cos 90° \\\\ 6 \\sin 90° \\end{pmatrix} + \\begin{pmatrix} 4 \\cos 30° \\\\ 4 \\sin 30° \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -8 \\cos 60° \\\\ 8 \\sin 60 \\end{pmatrix} + \\begin{pmatrix} 6 \\cos 90° \\\\ 6 \\sin 90° \\end{pmatrix} + \\begin{pmatrix} 4 \\cos 30° \\\\ 4 \\sin 30° \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -8 \\times 0.5 \\\\ 8 \\times 0.866 \\end{pmatrix} + \\begin{pmatrix} 6 \\times 0 \\\\ 6 \\times 1 \\end{pmatrix} + \\begin{pmatrix} 4 \\times 0.866 \\\\ 4 \\times 0.5 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -4 + 0 + 3.464 \\\\ 6.928 + 6 + 2 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -0.536 \\\\ 14.928 \\end{pmatrix}\\)</p><p>\\(|R| = \\sqrt{(-0.536)^{2} + (14.928)^{2}} = \\sqrt{0.2873 + 222.8452}\\)</p><p>= \\(\\sqrt{223.1325} = 14.94N\\)</p><p>(ii)Direction \\(\\theta\\)</p><p>\\(\\tan \\theta = \\frac{14.928}{-0.536} = -27.851\\)</p><p>\\(\\theta = -87.9° = 92.1°\\)</p><p>The direction is N 02.1° W or a bearing of 267.9°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2012,
+        "question": "<p>(a) Find the angle between the vectors \\(a = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}\\) and \\(b = \\begin{pmatrix} -8 \\\\ -15 \\end{pmatrix}\\).</p><p>(b) Given that \\(a = (4N, 060°)\\) and \\(b = (3N, 120°)\\), find, in component form, the unit vector along \\(a - b\\).</p>",
+        "answer": "<p>(a) \\(a = (-3i + 4j) ; b = (-8i - 15j)\\)</p><p>Let the angle between them be \\(\\theta\\).</p><p>\\(a \\cdot b = |a||b| \\cos \\theta\\)</p><p>\\(24 - 60 = (\\sqrt{(-3)^{2} + 4^{2}})(\\sqrt{(-8)^{2} + (-15)^{2}}) \\cos \\theta\\)</p><p>\\(-36 = 5 \\times 17 \\times \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{-36}{85} = -0.4235 \\implies \\theta = \\cos^{-1} (-0.4235)\\)</p><p>\\(\\theta = 115.06°\\)</p><p>(b) \\(a = 4 \\cos 60° \\\\ 4 \\sin 60° \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 3.464 \\end{pmatrix}\\)</p><p>\\(b = \\begin{pmatrix} 3 \\cos 120° \\\\ 3 \\sin 120° \\end{pmatrix} = \\begin{pmatrix} -1.5 \\\\ 2.598 \\end{pmatrix}\\)</p><p>\\(a - b = \\begin{pmatrix} 2 - (-1.5) \\\\ 3.464 - 2.598 \\end{pmatrix} = \\begin{pmatrix} 3.5 \\\\ 0.866 \\end{pmatrix}\\)</p><p>\\(|a - b| = \\sqrt{(3.5)^{2} + (0.866)^{2}} = \\sqrt{12.25 + 0.75}\\)</p><p>= \\(\\sqrt{13}\\)</p><p>Unit vector along a - b = \\(\\frac{3.5i + 0.866j}{\\sqrt{13}}\\).</p>",
+        "type": "theory"
+    }
+]

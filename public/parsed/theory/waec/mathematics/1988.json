@@ -1,0 +1,110 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1988,
+        "question": "<p>The number of items produced by a company over a five- year period is given below:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>Year</td>\n<td>1978</td>\n<td>1979</td>\n<td>1980</td>\n<td>1981</td>\n<td>1982</td>\n</tr>\n<tr>\n<td>No produced</td>\n<td>4100</td>\n<td>2500</td>\n<td>1500</td>\n<td>1800</td>\n<td>9200</td>\n</tr>\n</tbody>\n</table><p>(i) Plot a bar chart for this information; (ii) What is the average production for the five- year period.</p><p> </p>",
+        "answer": "<p>(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0375%20%282%29.jpg\" style=\"height:191px; width:400px\"></p><p>(ii) Average production in the period</p><p>= \\(\\frac{4100 + 2500 + 1500 + 1800 + 9200}{5}\\)</p><p>= \\(\\frac{19100}{5}\\)</p><p>= \\(3820\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1988,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0374%20%282%29.jpg\" style=\"height:144px; width:250px\"></p><p>In the diagram, &lt; PQR = &lt; PSQ = 90°, |PS| = 9 cm, |SR| = 16 cm and |SQ| = x cm.</p><p>(a) Find the value of x using a trigonometric ratio.</p><p>(b) Calculate : (i) the size of &lt; QRS to the nearest degree; (ii) |PQ|.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0375%20%283%29.jpg\" style=\"height:157px; width:250px\"></p><p>Let \\(&lt; SQR = \\theta ; &lt; QRS = 90° - \\theta ; &lt; QPS = \\theta\\)</p><p>In \\(\\Delta\\) PQS, \\(\\tan \\theta = \\frac{x}{9} ... (1)\\)</p><p>In \\(\\Delta\\) QRS, \\(\\tan \\theta = \\frac{16}{x} ... (2)\\)</p><p>From (1) and (2), \\(\\frac{x}{9} = \\frac{16}{x}\\)</p><p>\\(x^{2} = 16 \\times 9 \\implies x = \\sqrt{16 \\times 9} = 12 cm\\)</p><p>(b) (i) From \\(\\Delta\\) QRS,</p><p>\\(\\tan \\theta = \\frac{16}{12} = 1.333\\)</p><p>\\(\\theta = \\tan^{-1} (1.333) = 53.1°\\)</p><p>\\(\\therefore &lt; QRS = 90° - 53.1° = 36.9°\\)</p><p>\\(\\approxeq 37°\\) (to the nearest degree)</p><p>(ii) In \\(\\Delta\\) PQS,</p><p>\\(|PQ|^{2} = 12^{2} + 9^{2}\\)</p><p>= \\(144 + 81 = 225\\)</p><p>\\(|PQ| = \\sqrt{225} = 15 cm\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1988,
+        "question": "<p>(a) Given that \\(\\sin \\alpha = 0.3907\\), use tables to find the value of : (i) \\(\\tan \\alpha\\) ; (ii) \\(\\cos \\alpha\\).</p><p>(b) A ladder of length 4.5m leans against a vertical wall making an angle of 50° with the horizontal ground. If the bottom of a window is 4m above the ground, what is the distance between the top of the ladder and the bottom of the window? (Answer correct to the nearest cm)</p>",
+        "answer": "<p>(a) Given \\(\\sin \\alpha = 0.3907\\)</p><p>From the sine table, \\(\\alpha = 23°\\)</p><p>(i) \\(\\tan \\alpha = \\tan 23° = 0.4245\\)</p><p>(ii) \\(\\cos \\alpha = \\cos 23° = 0.9205\\)</p><p>(b) Let T be the top of the ladder and B, the bottom of the vertical wall.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0375%20%284%29.jpg\" style=\"height:206px; width:250px\"></p><p>From the figure, \\(\\sin 50° = \\frac{BT}{4.5m}\\)</p><p>\\(BT = 4.5 \\sin 50° = 4.5 \\times 0.7660\\)</p><p>\\(BT = 3.447m\\)</p><p>Distance between the top of the ladder and bottom of the window </p><p>= \\(4 - 3.447 = 0.553m\\)</p><p>= \\( 0.553m \\times 100\\)</p><p>= \\(55.3 cm\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1988,
+        "question": "<p>In a certain school, the lesson periods for each week are as itemised below: English 10, Mathematics 7, Biology 3, Statistics 4, Ibo 3, others 9. Draw a pie chart to illustrate this information.</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Subject</td>\n<td>Period</td>\n<td>Angle of sector in pie chart</td>\n</tr>\n<tr>\n<td>English</td>\n<td>10</td>\n<td>\\(\\frac{10}{36} \\times 360° = 100°\\)</td>\n</tr>\n<tr>\n<td>Mathematics</td>\n<td>7</td>\n<td>\\(\\frac{7}{36} \\times 360° = 70°\\)</td>\n</tr>\n<tr>\n<td>Biology</td>\n<td>3</td>\n<td>\\(\\frac{3}{36} \\times 360° = 30°\\)</td>\n</tr>\n<tr>\n<td>Statistics</td>\n<td>4</td>\n<td>\\(\\frac{4}{36} \\times 360° = 40°\\)</td>\n</tr>\n<tr>\n<td>Igbo</td>\n<td>3</td>\n<td>\\(\\frac{3}{36} \\times 360° = 30°\\)</td>\n</tr>\n<tr>\n<td>Others</td>\n<td>9</td>\n<td>\\(\\frac{9}{36} \\times 360° = 90°\\)</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>36</td>\n<td>360°</td>\n</tr>\n</tbody>\n</table><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0375%20%285%29.jpg\" style=\"height:372px; width:400px\"></p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1988,
+        "question": "<p>A sector of a circle of radius 7cm subtending an angle of 270° at the centre of the circle is used to form a cone.</p><p>(a) Find the base radius of the cone.</p><p>(b) Calculate the area of the base of the cone to the nearest square centimetre.</p><p>[Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0375%20%286%29_LI.jpg\" style=\"width:200px\"></p><p>(a) Length of the arc XY = Circumference of the base.</p><p>\\(\\frac{\\theta}{360°} \\times 2\\pi r\\)</p><p>where \\(\\theta\\) = 270° ; r = 7cm.</p><p>Length of arc XY = \\(\\frac{270°}{360°} \\times 2 \\times \\frac{22}{7} \\times 7 = 33cm\\)</p><p>Let the radius of the base of the cone = x</p><p>\\(2 \\pi r = 33cm\\)</p><p>\\(2 \\times \\frac{22}{7} \\times x = 33\\)</p><p>\\(\\frac{44}{7} \\times x = 33 \\implies x = \\frac{33 \\times 7}{44}\\)</p><p>\\(x = 5.25cm\\)</p><p>(b) Area of the base of the cone = \\(\\pi r^{2}\\)</p><p>= \\(\\frac{22}{7} \\times \\frac{21}{4} \\times \\frac{21}{4}\\)</p><p>= \\(\\frac{693}{8} cm^{2} = 86.625 cm^{2}\\)</p><p>\\(\\approxeq 87 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1988,
+        "question": "<p>(a) The subsets A, B and C of a universal set are defined as follows :</p><p>A = {m, a, p, e} ; B = {a, e, i, o, u} ; C = {l, m, n, o, p, q, r, s, t, u}. List the elements of the following sets.</p><p>(i) \\(A \\cup B\\) ; (ii) \\(A \\cup C\\) ; (iii) \\(A \\cup (B \\cap C)\\).</p><p>(b) Out of the 400 students in the final year in a Senior Secondary School, 300 are offering Biology and 190 are offering Chemistry.</p><p>(i) How many students are offering both Biology and Chemistry, if only 70 students are offering neither Biology nor Chemistry? (ii) How many students are offering at least one of Biology or Chemistry?</p>",
+        "answer": "<p>(a) A = {m, a, p, e}; B = {a, e, i, o, u} ; C = {l, m, n, o, p, q, r, s, t, u}</p><p>(i) \\(A \\cup B = {a, e, i, m, o, p, u}\\)</p><p>(ii) \\(A \\cup C = {a, e, l, m, n, o, p, q, r, s, t, u}\\)</p><p>(iii) \\(A \\cup (B \\cap C)\\)</p><p>\\(B \\cap C = {o, u}\\)</p><p>\\(A \\cup (B \\cap C) = {m, a, p, e, o, u}\\)</p><p> <img alt=\"\" src=\"/storage/classroom/editor_images/scan0376%20%282%29.jpg\" style=\"height:165px; width:250px\"></p><p>Biology students = n(B) = 190</p><p>Chemistry students = n(A) = 300</p><p>Let \\(n(A \\cap B) = a\\)</p><p>(i) From the Venn diagram, </p><p>\\((300 - a) + a + (190 - a) + 70 = 400\\)</p><p>\\(560 - a = 400 \\implies a = 160\\)</p><p>\\(\\therefore\\) 160 students offer both Biology and Chemistry.</p><p>(ii) Students offering at least one of Biology and Chemistry</p><p>= \\(n(A) + n(B) + n(A \\cap B)\\)</p><p>= \\((300 - 160) + (190 - 160) + 160\\)</p><p>= \\(140 + 30 + 160\\)</p><p>= 330 students</p><p>330 students offer at least one of Biology and Chemistry.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1988,
+        "question": "<p>Illustrate the following on graph paper and shade the region which satisfies all the three inequalities at the same time :</p><p>\\(- x + 5y \\leq 10 ; 3x - 4y \\leq 8\\) and \\(x &gt; -1\\).</p>",
+        "answer": "<p>Draw the table of value such that \\(-x + 5y \\leq 10 \\implies -x + 5y = 10\\)</p><p>\\(\\implies 5y = 10 + x \\)</p><p>\\(y = 2 + \\frac{x}{5}\\)</p><p>and \\(3x - 4y \\leq 8 \\implies 3x - 4y = 8\\)</p><p>\\(y = -2 + \\frac{3x}{4}\\)</p><p>Table of value for \\(-x + 5y = 10\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-4</td>\n<td>0</td>\n<td>4</td>\n</tr>\n<tr>\n<td>y</td>\n<td>1.2</td>\n<td>2</td>\n<td>2.8</td>\n</tr>\n</tbody>\n</table><p>Table of value for \\(3x - 4y = 8\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-4</td>\n<td>0</td>\n<td>4</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-5</td>\n<td>-2</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0376%20%283%29.jpg\" style=\"width:400px\"></p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1988,
+        "question": "<p>The table below is for the relation \\(y = 2 + x - x^{2}\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-2</td>\n<td>-1.5</td>\n<td>-1</td>\n<td>-0.5</td>\n<td>0</td>\n<td>0.5</td>\n<td>1</td>\n<td>1.5</td>\n<td>2</td>\n<td>2.5</td>\n<td>3</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-4</td>\n<td>-1.75</td>\n<td>0</td>\n<td>1.25</td>\n<td>2</td>\n<td>2.25</td>\n<td>2</td>\n<td>1.25</td>\n<td>0</td>\n<td>-1.75</td>\n<td>-4</td>\n</tr>\n</tbody>\n</table><p>(a) Using a scale of 2cm to 1 unit on each axis, draw the graph of the relation in the interval \\(-2 \\leq x \\leq 3\\).</p><p>(b) From your graph, find the greatest value of y and the value of x for which this occurs.</p><p>(c) Using the same scale and axes, draw the graph of \\(y = 1 - x\\)</p><p>(d) Use your graphs to solve the equation \\(1 + 2x - x^{2} = 0\\)</p><p> </p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0377%20%282%29.jpg\" style=\"width:400px\"></p><p>(b) The greatest value of y = 2.25 and this occurs at x = 0.5.</p><p>(c) Table of values of \\(y = 1 - x\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:30%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>y</td>\n<td>3</td>\n<td>-1</td>\n</tr>\n</tbody>\n</table><p>(d) \\(1 + 2x - x^{2} = 0\\)</p><p>\\(1 + 1 + 2x - x - x^{2} = 1 - x\\)</p><p>\\(2 + x - x^{2} = 1 - x\\)</p><p>The solution of \\(1 + 2x - x^{2} = 0\\) occurs at the point of intersection of \\(y = 2 + x - x^{2}\\) and \\(y = 1 - x\\). This is at points A (x = -0.8) and B (x = 2.8).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1988,
+        "question": "<p>Two towns K and Q are on the parallel of latitude 46°N. The longitude of town K is 130°W and that of town Q is 103°W. A third town P also on latitude 46°N is on longitude 23°E, Calculate:</p><p>(i) the length of the parallel of latitude 46°N, to the nearest 100km;</p><p>(ii) the distance between K and Q, correct to the nearest 100km;</p><p>(iii) the distance between Q and P measured along the parallel of latitude, to the nearest 10km.</p><p>[Take \\(\\pi = 3.142\\); Radius of the earth = 6400km]</p>",
+        "answer": "<p> </p><p>(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0377%20%283%29.jpg\" style=\"width:250px\"></p><p> The length of the parallel of latitude 46°N = \\(2 \\pi R \\cos 46°\\)</p><p>= \\(2 \\times 3.142 \\times 6400 \\times 0.6947\\)</p><p>= \\(27,939.167 km \\approxeq 28000 km\\) (to the nearest 100km)</p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0377%20%284%29.jpg\" style=\"height:249px; width:250px\"></p><p>Longitudinal difference between K and Q = 130° - 103° = 27°</p><p>Distance between K and Q = length of arc KQ</p><p>= \\(\\frac{27}{360} \\times 2 \\times 3.142 \\times 6400 \\times \\cos 46°\\)</p><p>= \\(2,095.31 km \\approxeq 2100km\\) (to the nearest 100km)</p><p>(iii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0378%20%282%29.jpg\" style=\"height:245px; width:250px\"></p><p>Longitudinal difference between Q and P = 103° + 23° = 126°</p><p>Distance between Q and P = \\(\\frac{126}{360} \\times 2 \\times 3.142 \\times 6400 \\times \\cos 46°\\)</p><p>= \\(9778.12 km \\approxeq 9780 km\\) (to the nearest 10km)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1988,
+        "question": "<p>(a) Prove that the sum of the angles in a triangle is two right angles.</p><p>(b) In a triangle LMN, the side NM is produced to P and the bisector of &lt; LNP meets ML produced at Q. If &lt; LMN = 46°, and &lt; MLN = 80°, calculate &lt; LQN, stating clearly your reasins.</p>",
+        "answer": "<p>(a) Given any \\(\\Delta\\) ABC,</p><p>Required: That &lt; A + &lt; B + &lt; C = 180°.</p><p>Construction : Draw CP // BA and produce BC to Q.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0378%20%283%29.jpg\" style=\"height:160px; width:250px\"></p><p>Proof: Using the above figure,</p><p>\\(a_{1} = a_{2}\\) (alternate angles)</p><p>\\(b_{1} = b_{2}\\) (corresponding angles)</p><p>\\(a_{1} + b_{1} + c = 180°\\) (angles on a straight line)</p><p>\\(\\therefore a_{2} + b_{2} + c = 180°\\)</p><p>\\(&lt; A + &lt; B + &lt; C = 180°\\) (proved)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0378%20%284%29.jpg\" style=\"height:202px; width:250px\"></p><p>&lt; LNP = 46° + 80° = 126° (exterior angles of triangle LMN)</p><p>\\(\\theta = \\frac{126°}{2} = 63°\\) (bisector divides into 2 equal halves)</p><p>\\(&lt; MLN = 180° - 80° = 100°\\) (angles on a straight line)</p><p>\\(&lt; LQN = 180° - (63° + 100°) = 17°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1988,
+        "question": "<p>Using a ruler and a pair of compasses only, </p><p>(a) construct (i) a triangle ABC such that |AB| = 5cm, |AC| = 7.5cm and &lt; CAB = 120° ; (ii) the locus \\(L_{1}\\) of points equidistant from A and B ; (iii) the locus \\(L_{2}\\) of points equidistant from Ab and AC, which passes through the triangle ABC.</p><p>(b) Label the point P where \\(L_{1}\\) and \\(L_{2}\\) intersect; </p><p>(c) Measure |CP|.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0378%20%285%29.jpg\" style=\"height:340px; width:400px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1988,
+        "question": "<p>The table below shows the frequency distribution of the marks of 800 candidates in an examination.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>0-9</td>\n<td>10-19</td>\n<td>20-29</td>\n<td>30-39</td>\n<td>40-49</td>\n<td>50-59</td>\n<td>60-69</td>\n<td>70-79</td>\n<td>80-89</td>\n<td>90-99</td>\n</tr>\n<tr>\n<td>Freq</td>\n<td>10</td>\n<td>40</td>\n<td>80</td>\n<td>140</td>\n<td>170</td>\n<td>130</td>\n<td>100</td>\n<td>70</td>\n<td>40</td>\n<td>20</td>\n</tr>\n</tbody>\n</table><p>(a) (i) Construct a cumulative frequency table ; (ii) Draw the Ogive ; (iii) Use your ogive to determine the 50th percentile.</p><p>(b) The candidates that scored less than 25% are to be withdrawn from the institution, while those that scored than 75% are to be awarded scholarship. Estimate the number of students that will be retained, but will not enjoy the award.</p><p> </p>",
+        "answer": "<p>(a)(i) </p><table align=\"left\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks (%)</td>\n<td>Freq</td>\n<td>Cum Freq</td>\n</tr>\n<tr>\n<td>0 - 9</td>\n<td>10</td>\n<td>10</td>\n</tr>\n<tr>\n<td>10 - 19</td>\n<td>40</td>\n<td>50</td>\n</tr>\n<tr>\n<td>20 - 29</td>\n<td>80</td>\n<td>130</td>\n</tr>\n<tr>\n<td>30 - 39</td>\n<td>140</td>\n<td>270</td>\n</tr>\n<tr>\n<td>40 - 49</td>\n<td>170</td>\n<td>440</td>\n</tr>\n<tr>\n<td>50 - 59</td>\n<td>130</td>\n<td>570</td>\n</tr>\n<tr>\n<td>60 - 69</td>\n<td>100</td>\n<td>670</td>\n</tr>\n<tr>\n<td>70 - 79</td>\n<td>70</td>\n<td>740</td>\n</tr>\n<tr>\n<td>80 - 89</td>\n<td>40 </td>\n<td>780</td>\n</tr>\n<tr>\n<td>90 - 99</td>\n<td>20 </td>\n<td>800</td>\n</tr>\n</tbody>\n</table><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0378%20%286%29%281%29.jpg\" style=\"width:400px\"></p><p>(iii) From the Ogive, the 50th percentile is 70 marks.</p><p>(b) Those who scored below 25% (24% and below) = 85 students</p><p>Those who scored 75% and below = 710</p><p>\\(\\therefore\\) Those who scored above 75% = 800 - 710 = 90 students</p><p>Those to be retained without award = 800 - (85 + 90)</p><p>= 800 - 175 = 625 students.</p>",
+        "type": "theory"
+    }
+]

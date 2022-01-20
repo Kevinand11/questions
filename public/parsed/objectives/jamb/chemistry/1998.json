@@ -1,0 +1,610 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1998,
+        "question": "The addition of water to calcium oxide leads to?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a physical change",
+            "a chemical change",
+            "the formation of a mixture",
+            "an endothermic change"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1998,
+        "question": "A mixture of iron and sulphur can be separated by dissolving the mixture in?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "steam",
+            "dilute hydrochloric acid",
+            "dilute sodium hydroxide",
+            "benzene"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1998,
+        "question": "A given amount of gas occupies 10.0 dm<sup>3</sup>at atm, and 273°C. The number of moles of the gas present is?<br>(Molar volume of a gas at s.t.p. = 22.4 dm<sup>3</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.89 mol",
+            "1.90 mol",
+            "3.80 mol",
+            "5.70 mol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1998,
+        "question": "8.0 g of an element X react with an excess of copper (ll) tetraoxosulphate (lV) solution to deposit 21.3 g of copper. The correct equation for the reaction is?<br><br>(Cu = 64).",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "X<sub>(s)</sub>+ CuSO<sub>4(aq)</sub>→ Cu<sub>(s)</sub>+ XSO<sub>4(aq)</sub>",
+            "X<sub>(s)</sub>+ 2CuSO<sub>4(aq)</sub>→ 2Cu<sub>(s)</sub>+ X(SO<sub>4</sub>)<sub>2(aq)</sub>",
+            "2X<sub>(s)</sub>+ CuSO<sub>4(aq)</sub>→ Cu<sub>(s)</sub>+ X<sub>2</sub>SO<sub>4(aq)</sub>",
+            "2X<sub>(s)</sub>+ 3CuSO<sub>4(aq)</sub>→ 3Cu<sub>(s)</sub>+ X<sub>2</sub>(SO<sub>4</sub>)<sub>3(aq)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1998,
+        "question": "C<sub>3</sub>H<sub>8(g)</sub>+ 50<sub>2(g)</sub>→ 4H<sub>2</sub>O + 3CO<sub>2(g)</sub>. Form the equation above the volume of oxygen at s.t.p. required to burn 50cm<sup>3</sup>of propane is?",
+        "explanation": "C<sub>3</sub>H<sub>8</sub>+ 50<sub>2</sub>→ 4H<sub>2</sub>O + 3CO<sub>2</sub>.<br>From the equation above 1 dm<sup>3</sup>of C<sub>3</sub>H<sub>8</sub>require 5dm<sup>3</sup>of O<sub>2</sub>at s.t.p.<br>∴ 50cm<sup>3</sup>of C<sub>3</sub>H<sub>8</sub>require x = (50) / (1000) x 5 x 1<br>x = (250) / (1000)<br>x = 250cm",
+        "correctIndex": 0,
+        "options": [
+            "250 cm<sup>3</sup>",
+            "150 cm<sup>3</sup>",
+            "100 cm<sup>3</sup>",
+            "50 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1998,
+        "question": "30cm<sup>3</sup>of hydrogen was collected over water at 27°C and 780 mm Hg. If the vapour pressure of water at the temperature of the experiment was 10 mm Hg, calculate the volume of the gas at 760 mm Hg and 7°C?",
+        "explanation": "Y<sub>1</sub>= 30cm<sup>3</sup>T<sub>1</sub>= 27 + 273 = 300K and P<sub>1</sub>= (780 - 10)mm Hg i.e the pressure minus the vapour pressure of water<br>P<sub>2</sub>= 760mm Hg and T<sub>2</sub>= 7 + 273 = 280K<br>From (P<sub>2</sub>V<sub>2</sub>) / (T<sub>2</sub>) = (P<sub>1</sub>V<sub>1</sub>) / (T<sub>1</sub>)<br>(770 x 30) / (300) = (760 x O<sub>2</sub>) / (280)<br>V<sub>2</sub>= (770 x 30x 280) / (300 x 760)<br>V<sub>2</sub>= 28.4 cm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "40.0 cm<sup>3</sup>",
+            "35.7 cm<sup>3</sup>",
+            "28.4 cm<sup>3</sup>",
+            "25.2 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1998,
+        "question": "If sulphur (IV) oxide and methane are released simultaneously at the opposite ends of a narrow tube, the rates of diffusion Rso<sub>2</sub>and Rch<sub>4</sub>will be in the ratio?<br><br>(S = 32, O = 16, C = 12, H = 1)",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "4:1",
+            "2:1",
+            "1:2",
+            "1:4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1998,
+        "question": "A solid begins to melt when?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "constituent particles acquires a greater kinetic energy",
+            "energy of vibration of particles of the solid is less than the intermolecular forces",
+            "constituent particles acquires energy above the average kinetic energy",
+            "energy of vibration of particles of the solid equals the intermolecular forces"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1998,
+        "question": "Which of the following electron configurations indicates an atom with the highest ionization energy?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2,8,7",
+            "2,8,8,1",
+            "2,8,8,2",
+            "2,8,8,7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1998,
+        "question": "The line observed in the sample hydrogen spectrum are due to emission of?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electrons from the atoms",
+            "energy by proton transition",
+            "energy by electron transition",
+            "neutron from the atom"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1998,
+        "question": "The property used in obtaining oxygen and nitrogen industrially from air is the?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "boiling point",
+            "density",
+            "rate of diffusion",
+            "solubility"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1998,
+        "question": "Potassium tetraoxomanganate (VII) is often added to impure water to?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "reduce organic impurities",
+            "reduce inorganic impurities",
+            "destroy bacteria and algae",
+            "remove permanent hardness"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1998,
+        "question": "The soil around a battery manufacturing factory is likely to contain a high concentration of?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Ca<sup>2+</sup>salts",
+            "Pb<sup>2+</sup>salts",
+            "Mg<sup>2+</sup>salts",
+            "Al<sup>3+</sup>salts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1998,
+        "question": "Excess phosphorus was burnt in a gas jar and the residual gas passed successively over concentrated KOH solution and concentration H<sub>2</sub>SO<sub>4</sub>before being collected in a flask. The gases collected are?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "carbon (IV) oxide, nitrogen and the rare gases",
+            "nitrogen and the rare gases",
+            "carbon (IV) oxide, nitrogen (IV) oxide and the rare gases",
+            "carbon (IV) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1998,
+        "question": "If an element X of an atomic number Z and mass number Y is irradiated by an intense concentration of neutrons, the relevant nuclear equation is?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "<sup>y</sup><sub>z</sub>X +<sup>1</sup><sub>0</sub>n →<sup>y - 1</sup><sub>z + 1</sub>X",
+            "<sup>y</sup><sub>z</sub>X +<sup>1</sup><sub>0</sub>n →<sup>y + 1</sup><sub>z</sub>X",
+            "<sup>y</sup><sub>z</sub>X +<sup>1</sup><sub>0</sub>n →<sup>y</sup><sub>z + 1</sub>X",
+            "<sup>y</sup><sub>z</sub>X +<sup>1</sup><sub>0</sub>n →<sup>y + 1</sup><sub>z - 1</sub>X"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1998,
+        "question": "90.0g of MgCI<sub>2</sub>was placed in 50.0cm<sup>3</sup>of water to give a saturated solubility of the salt is 8.0 mol dm<sup>3</sup>at the same temperature, what is the mass of the salt left undissolved at the given temperature?<br><br>(Mg = 24, Cl = 35.5)",
+        "explanation": "Molar mass of MgCl<sub>2</sub>= 95g<br>The solubility of MgCl<sub>2</sub>is 8.0/dm<sup>3</sup><br>1 dm<sup>3</sup>= 1000cm<sup>3</sup><br>Solubility of g/cm<sup>3</sup><br>8 x 95 → 1000cm<sup>3</sup><br>x → 50<br>x = (50)/(1000) x (8 x 95) / (1) = 38g<br>Mass of the salt left undissolved = 90 - 38 = 52.0g",
+        "correctIndex": 0,
+        "options": [
+            "52.0g",
+            "58.5g",
+            "85.5g",
+            "88.5g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1998,
+        "question": "Soap lather is an example of a colloid in which a?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "liquid is dispersed in gas",
+            "solid is dispersed in liquid",
+            "gas is dispersed in liquid",
+            "liquid is despersed in liquid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1998,
+        "question": "The pH of a solution obtained by mixing 100cm<sup>3</sup>of a 0.2M solution of NaOH is?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1.3",
+            "7.0",
+            "9.7",
+            "12.7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1998,
+        "question": "Mg<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>&gt;<sub>(aq)</sub>→ Mg<sub>(s)</sub>E°<sub>(volts)</sub>= 2.370<br><br>Zn<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>&gt;<sub>(aq)</sub>→ Zn<sub>(s)</sub>E°<sub>(volts)</sub>= -0.763<br><br>Cds<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>&gt;<sub>(aq)</sub>→ Cd<sub>(s)</sub>E°<sub>(volts)</sub>= 0.403<br><br>Cu<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>&gt;<sub>(aq)</sub>→ Cu<sub>(s)</sub>E°<sub>(volts)</sub>= 0.340<br><br>In the electrochemical series above, the strongest reducing agents is?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Cu<sub>(s)</sub>",
+            "Cd<sub>(s)</sub>",
+            "Znsub&gt;(s)",
+            "Mg<sub>(s)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1998,
+        "question": "2Cl<sup>2(g)</sup>+ 2H<sub>2</sub>O<sub>(g)</sub>4HCl<sub>(g)</sub>+ O<sub>2(g)</sub><br>∆H° = +115KJ mol<sup>-1</sup>. In the above equilibrium reaction, a decrease in temperature will?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "favour the reverse reaction",
+            "favour the forward reaction",
+            "have no effect on the equilibrium state",
+            "double the rate of the reverse raection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1998,
+        "question": "2X<sub>(g)</sub>+ Y<sub>(g)</sub>→ Z<sub>(g):</sub>In the equation above, The rate of formation of Z is found to be independent of the concentration of Y and to quadruple when the concentration of X is doubled. The correct equation for the reaction is?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "R = k (X)(Y)",
+            "R = K (X) ° (Y)",
+            "R = K (X) ° (Y)<sub>2</sub>",
+            "R = K (X)<sub>2</sub>(Y)°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1998,
+        "question": "A gas that turns a filter paper previously soaked in lead ethanoate solution black is?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "hyrogen chloride",
+            "hydrogen sulphide",
+            "sulphur (IV) oxide",
+            "sulphur (VI) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1998,
+        "question": "3CuO<sub>(s)</sub>+ 2NH<sub>3(g)</sub>→ 3Cu<sub>(s)</sub>+ 3H<sub>2</sub>O<sub>(I)</sub>N<sub>2(g)</sub>(i).<br><br>2NH<sub>3(g)</sub>+ 3Cl<sub>2(g)</sub>→ 6HCl<sub>(g)</sub>+ N<sub>2(g)</sub>(ii).<br><br>4NH<sub>3(g)</sub>+ 3O<sub>2(g)</sub>→ 6H<sub>2</sub>O<sub>(I)</sub>+ 2N<sub>2(g)</sub>(iii).<br><br>The reactions represented by the equations above demonstrate the?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "basic properties of ammonia",
+            "acidic properties of ammonia",
+            "reducing properties of ammonia",
+            "oxidizing properties of ammonia"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1998,
+        "question": "A solution containing chloride ions gives white precipitate with silver trioxonitrate(V) Solution. The precipitate will be insoluble in dilute?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "HNO<sub>3</sub>but soluble in ammonia solution",
+            "HNO<sub>3</sub>and ammonia solution",
+            "HCl but soluble in ammonia solution",
+            "HCl and in ammonia solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1998,
+        "question": "The oxide that remains unchanged when heated in hydrogen is?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CuO",
+            "Fe<sub>2</sub>O<sub>3</sub>",
+            "PbO<sub>2</sub>",
+            "ZnO"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1998,
+        "question": "Which of the following is observed when a solution of iron (III) chloride is mixed with a solution of sodium hydroxide?",
+        "explanation": "iron(III) chloride is a yellow solution<br>sodium hydroxide is colourless<br>iron(III) hydroxide is a reddish brown precipitate<br>sodium chloride is colourless<br><br>So in the reaction, yellow solution when added to sodium hydroxide forms reddish brown precipitate that is insoluble in excess sodium hydroxide.",
+        "correctIndex": 3,
+        "options": [
+            "A gas is evolved",
+            "A deep blue precipitate is formed",
+            "The resultant solution turns green turns",
+            "A brown precipitate is formed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1998,
+        "question": "The metal that will react with water only in the form of steam to librate hydrogen gas is?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "calcium",
+            "aluminium",
+            "iron",
+            "zinc"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1998,
+        "question": "A common characteristic shared by iron and aluminium is that both?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "are extracted by reduction methods",
+            "form only basic oxides",
+            "show oxidation states of +2 and +3",
+            "form soluble hydroxides"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1998,
+        "question": "Alloys are often used in preference to pure metals because?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "metals are too hard",
+            "merals are ductile",
+            "metallic properties are improve in alloys",
+            "alloys are a mixture of metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1998,
+        "question": "One mole of hydrocarbon contains 6g of hydrogen. If the molecular weight is 54, the hydrocarbon is an?",
+        "explanation": "C<sub>x</sub>H<sub>6</sub><br>∴ C<sub>x</sub>H<sub>6</sub>= 54<br>12x + 6 = 54<br>12x = 54 - 6<br>12x = 48<br>x = (48)/(12)<br>x = 4<br>We have C<sub>x</sub>H<sub>6</sub>butyne<br>A formular of alkyne",
+        "correctIndex": 3,
+        "options": [
+            "alkanone",
+            "alkane",
+            "alkene",
+            "alkyne"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1998,
+        "question": "On cracking medicinal paraffin, a gas is evolved which gives a pop sound with a lighted splinter and an oily liquid which decolourizes bromine solution is also obtained. The products of the cracking are ?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "carbon (IV) oxide and alkyne",
+            "carbon (ll) oxide and alkene",
+            "hydrogen gas and alkene",
+            "hydrogen gas and alkane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1998,
+        "question": "How many structural isomers can be drawn for the non-cyclic alkanol with molecular formula C<sub>4</sub>H<sub>10</sub>O?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1998,
+        "question": "An example of aromatic compound is?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "C<sub>6</sub>H<sub>13</sub>OH",
+            "C<sub>6</sub>H<sub>13</sub>CI",
+            "C<sub>6</sub>H<sub>5</sub>OH",
+            "C<sub>6</sub>H<sub>14</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1998,
+        "question": "Terylene is synthesized from ethane- 1, 2-diol and benzene - 1, 4-dicarboxylic acid by?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "addition reaction",
+            "condensation reaction",
+            "elimination reaction",
+            "substitution reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1998,
+        "question": "<p>Which of the following is true concerning the properties of benzene and hexane?</p>",
+        "explanation": "<p>Hexane and benzene can both partake in substitution reactions. </p>",
+        "correctIndex": 0,
+        "options": [
+            "Both undergo substitution reaction",
+            "Both undergo addition reaction",
+            "Both are solids",
+            "Both can decolourized bromine water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24219887692_co7.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a covalent bond",
+            "an electrovalent bond",
+            "a hydrogen bond",
+            "a co-ordinate bond"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9972896570_co4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>For the backward reaction, the activation energy = 40kJ - 15kJ = +25kJ</p>",
+        "correctIndex": 2,
+        "options": [
+            "+5kJ",
+            "+15KJ",
+            "+25KJ",
+            "+30KJ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22795227120_co3.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "sodium trioxonitrate (V) and ammonium chloride",
+            "sodium trioxonitrate (lll) and ammonium chloride",
+            "lead (ll) trioxonitrate (V) and copper turnings",
+            "potassium trioxonitrate (V) and copper turnings"
+        ],
+        "type": "objectives"
+    }
+]

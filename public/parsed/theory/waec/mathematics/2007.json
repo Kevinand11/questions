@@ -1,0 +1,119 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2007,
+        "question": "<p>(a) Evaluate, without using mathematical tables or calculator, \\((3.69 \\times 10^{5}) \\div (1.64 \\times 10^{-3})\\), leaving your answer in standard form.</p><p>(b) A man invested N20,000 in bank A and N25,000 in bank B at the beginning of the year. Bank A pays simple interest at a rate of y% per annum and B pays 1.5y% per annum. If his total interest at the end of the year from the two banks was N4,600, find the value of y.</p>",
+        "answer": "<p>(a) \\((3.69 \\times 10^{5}) \\div (1.64 \\times 10^{-3})\\)</p><p>= \\(\\frac{3.69}{1.64} \\times 10^{5 - (-3)}\\)</p><p>= \\(2.25 \\times 10^{8}\\)</p><p>(b) Interest from bank A : \\(\\frac{y}{100} \\times N20,000 = N200y\\)</p><p>Interest on bank B :\\(\\frac{1.5y}{100} \\times N25,000 = N375y\\)</p><p>\\(\\therefore N(200y + 375y) = N4,600\\)</p><p>\\(575y = 4,600 \\implies y = 8\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2007,
+        "question": "<p>(a) Simplify : \\(\\frac{x^{2} - 8x + 16}{x^{2} - 7x + 12}\\).</p><p>(b) If \\(\\frac{1}{2}, \\frac{1}{x}, \\frac{1}{3}\\) are successive terms of an arithmetic progression (A.P), show that \\(\\frac{2 - x}{x - 3} = \\frac{2}{3}\\).</p>",
+        "answer": "<p>(a) \\(\\frac{x^{2} - 8x + 16}{x^{2} - 7x + 12}\\)</p><p>= \\(\\frac{(x - 4)(x - 4)}{(x - 4)(x - 3)}\\)</p><p>= \\(\\frac{(x - 4)}{(x - 3)}\\)</p><p>(b) Arithmetic Progression:</p><p>\\(\\frac{1}{2}, \\frac{1}{x}, \\frac{1}{3}\\)</p><p>\\(\\frac{1}{x} - \\frac{1}{2} = \\frac{1}{3} - \\frac{1}{x}\\)</p><p>\\(\\frac{2 - x}{2x} = \\frac{x - 3}{3x}\\)</p><p>\\(\\frac{2 - x}{x - 3} = \\frac{2x}{3x}\\)</p><p>\\(\\implies \\frac{2 - x}{x - 3} = \\frac{2}{3}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2007,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0186%20%282%29.jpg\" style=\"height:209px; width:250px\"></p><p>The diagram shows the cross- section of a railway tunnel. If |AB| = 100m and the radius of the arc is 56m, calculate, correct to the nearest metre, the perimetre of the cross- section.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0187%20%283%29.jpg\" style=\"height:254px; width:250px\"></p><p>From \\(\\Delta\\) BCD,</p><p>\\(\\sin \\theta = \\frac{50}{56}\\)</p><p>\\(\\theta = \\sin^{-1} (0.8929)\\)</p><p>\\( &lt; BCD = 63.23°\\)</p><p>\\(\\therefore &lt; ACB = 63.23° \\times 2 = 126.46°\\)</p><p>\\(&lt; ACB (reflex) = 360° - 126.46°\\)</p><p>= \\(233.54°\\)</p><p>Perimeter of the arc = \\(\\frac{233.54}{360} \\times 2 \\times \\frac{22}{7} \\times 56\\)</p><p>= \\(228.35 m\\)</p><p>Perimeter of the railway tunnel = Perimeter of the arc + |AB|</p><p>= 228.35 m + 100 m</p><p>= 328.35 m.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2007,
+        "question": "<p>Y is 60 km away from X on a bearing of 135°. Z is 80 km away from X on a bearing of 225°. Find the :</p><p>(a) distance of Z from Y ;</p><p>(b) bearing of Z from Y.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0187%20%284%29.jpg\" style=\"height:215px; width:250px\"></p><p>(a) &lt; ZXY = 225° - 135°</p><p>= 90°.</p><p>\\(\\therefore /ZY/ = 80^{2} + 60^{2}\\)</p><p>= \\(6400 + 3600 = 10000\\)</p><p>\\(/ZY/ = \\sqrt{10000}\\)</p><p>= 100 km.</p><p>(b) From \\(\\Delta\\) XYZ, </p><p>\\(\\tan \\theta = \\frac{opp}{adj}\\)</p><p>\\(\\tan \\theta = \\frac{80}{60} = 1.333\\)</p><p>\\(\\theta = \\tan^{-1} (1.333)\\)</p><p>\\(\\theta = 53.13°\\)</p><p>Bearing of Z from Y = \\(360° - (45° + 53.13°)\\)</p><p>= \\(360° - 98.13°\\)</p><p>= \\(261.87° \\approxeq 262°\\) (3 significant figures)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2007,
+        "question": "<p>Out of the 24 apples in a box, 6 are bad. If three apples are taken from the box at random, with replacement, find the probability that :</p><p>(a) the first two are good and the third is bad ;</p><p>(b) all three are bad ;</p><p>(c) all the three are good.</p>",
+        "answer": "<p>(a) \\(P(Good) = \\frac{18}{24} = \\frac{3}{4}\\)</p><p>\\(P(Bad) = \\frac{6}{24} = \\frac{1}{4}\\)</p><p>P(2 are good and 1 bad) = \\(\\frac{3}{4} \\times \\frac{3}{4} \\times \\frac{1}{4}\\)</p><p>= \\(\\frac{9}{64}\\)</p><p>(b) P(the 3 are bad) = \\(\\frac{1}{4} \\times \\frac{1}{4} \\times \\frac{1}{4}\\)</p><p>= \\(\\frac{1}{64}\\)</p><p>(c) P(the 3 are good) = \\(\\frac{3}{4} \\times \\frac{3}{4} \\times \\frac{3}{4}\\)</p><p>= \\(\\frac{27}{64}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2007,
+        "question": "<p>(a) Simplify : \\(\\frac{3\\frac{1}{12} + \\frac{7}{8}}{2\\frac{1}{4} - \\frac{1}{6}}\\)</p><p>(b) If \\(p = \\frac{m}{2} - \\frac{n^{2}}{5m}\\) ; </p><p>(i) make n the subject of the relation ;  (ii) find, correct to three significant figures, the value of n when p = 14 and m = -8.</p>",
+        "answer": "<p>(a) \\(\\frac{3\\frac{1}{12} + \\frac{7}{8}}{2\\frac{1}{4} - \\frac{1}{6}}\\)</p><p>\\(3\\frac{1}{12} + \\frac{7}{8} = \\frac{37}{12} + \\frac{7}{8}\\)</p><p>= \\(\\frac{74 + 21}{24}\\)</p><p>= \\(\\frac{95}{24}\\)</p><p>\\(2\\frac{1}{4} - \\frac{1}{6} = \\frac{9}{4} - \\frac{1}{6}\\)</p><p>= \\(\\frac{27 - 2}{12}\\)</p><p>= \\(\\frac{25}{12}\\)</p><p>\\(\\therefore \\frac{3\\frac{1}{12} + \\frac{7}{8}}{2\\frac{1}{4} - \\frac{1}{6}} = \\frac{95}{24} \\div \\frac{25}{12}\\)</p><p>\\(\\frac{95}{24} \\times \\frac{12}{25} = \\frac{19}{10}\\)</p><p>= \\(1.9\\)</p><p>(b)(i) \\(p = \\frac{m}{2} - \\frac{n^{2}}{5m}\\)</p><p>\\(\\frac{n^{2}}{5m} = \\frac{m}{2} - p\\)</p><p>\\(n^{2} = 5m(\\frac{m}{2} - p)\\)</p><p>\\(n = \\pm \\sqrt{5m(\\frac{m}{2} - p)}\\)</p><p>(ii) When p = 14 and m = -8,</p><p>\\(n = \\sqrt{5(-8)(\\frac{-8}{2} - 14)}\\)</p><p>\\(n = \\sqrt{-40(- 4 - 14)}\\)</p><p>\\(n = \\sqrt{720}\\)</p><p>\\(n = 12\\sqrt{5}\\) </p><p>= \\(\\pm 26.83\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2007,
+        "question": "<p>(a) With the aid of four- figure logarithm tables, evaluate \\((0.004592)^{\\frac{1}{3}}\\).</p><p>(b) If \\(\\log_{10} y + 3\\log_{10} x = 2\\), express y in terms of x.</p><p>(c) Solve the equations : \\(3x - 2y = 21\\)</p><p>                                        \\(4x + 5y = 5\\).</p>",
+        "answer": "<p>(a)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>No</td>\n<td>Log</td>\n</tr>\n<tr>\n<td>0.004592</td>\n<td>\\(\\bar{3}.6620\\)</td>\n</tr>\n<tr>\n<td>\\((0.004592)^{\\frac{1}{3}}\\)</td>\n<td>\\(\\frac{\\bar{3}.6620}{3} = \\bar{1}.2207\\)</td>\n</tr>\n</tbody>\n</table><p>Antilog of \\(\\bar{1}.2207 = 0.1663\\)</p><p>(b) \\(\\log_{10} y + 3 \\log_{10} x = 2\\)</p><p>\\(\\log_{10} y + \\log_{10} x^{3} = 2\\)</p><p>\\(\\log_{10} (yx^{3}) = 2\\)</p><p>\\(yx^{3} = 10^{2}\\)</p><p>\\(yx^{3} = 100\\)</p><p>\\(y = \\frac{100}{x^{3}}\\)</p><p>(c) \\(3x - 2y = 21 .... (1)\\)</p><p>\\(4x + 5y = 5 ..... (2)\\)</p><p>Multiply (1) by 4 and (2) by 3,</p><p>\\(12x - 8y = 84 .... (1a)\\)</p><p>\\(12x + 15y = 15 ... (2a)\\)</p><p>(1a) - (2a),</p><p>\\(- 8y - 15y = 84 - 15\\)</p><p>\\(- 23y = 69 \\implies y = -3\\)</p><p>\\(3x - 2y = 21 \\implies 3x - 2(-3) = 21\\)</p><p>\\(3x + 6 = 21 \\implies 3x = 15\\)</p><p>\\(x = 5\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2007,
+        "question": "<p>(a) A cylinder with radius 3.5 cm has its two ends closed, if the total surface area is \\(209 cm^{2}\\), calculate the height of the cylinder. [Take \\(\\pi = \\frac{22}{7}\\)].</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0186%20%283%29.jpg\" style=\"height:180px; width:250px\"> In the diagram, O is the centre of the circle and ABC is a tangent at B. If \\(\\stackrel\\frown{BDF} = 66°\\) and \\(\\stackrel\\frown{DBC} = 57°\\), calculate, (i) \\(\\stackrel\\frown{EBF}\\) and (ii) \\(\\stackrel\\frown{BGF}\\).</p>",
+        "answer": "<p>(a) TSA of a closed cylinder = \\(2\\pi r^{2} + 2\\pi rh\\)</p><p>= \\(2\\pi r (r + h)\\)</p><p>\\(2 \\times \\frac{22}{7} \\times 3.5 (3.5 + h) = 209\\)</p><p>\\(22(3.5 + h) = 209 \\implies 77 + 22h = 209\\)</p><p>\\(22h = 209 - 77 = 132\\)</p><p>\\(h = \\frac{132}{22} = 6 cm\\)</p><p>(b) \\(&lt; EDB = 90°\\) (angle subtended at the circumference by a semi-circle)</p><p>\\(\\therefore &lt; EDF = 90° - 66° = 24°\\)</p><p>\\(&lt; EDF = &lt; EBF = 24°\\) (angles in the same segment)</p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0188%20%282%29.jpg\" style=\"height:226px; width:250px\"></p><p>\\(&lt; DEB = &lt; DBC = 57°\\) (Alternate segment theorem)</p><p>\\(\\therefore &lt; BGF = 180 - (57 + 24) = 180 - 81\\)</p><p>\\(&lt; BGF = 99°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2007,
+        "question": "<p>(a) Using a ruler and a pair of compasses only, construc :</p><p>(i) a triangle PQR such that /PQ/ = 10 cm, /QR/ = 7 cm and &lt; PQR = 90° ; (ii) the locus \\(l_{1}\\) of points equidistant from Q and R ; (iii) the locus \\(l_{2}\\) of points equidistant from P and Q.</p><p>(b) Locate the point O equidistant from P, Q and R.</p><p>(c) With O as centre, draw the circumcircle of the triangle PQR.</p><p>(d) Measure the radius of the circumcircle.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0188%20%283%29.jpg\" style=\"height:297px; width:350px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2007,
+        "question": "<p>(a) Simplify : \\(\\frac{x^{2} - y^{2}}{3x + 3y}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0186%20%284%29_LI.jpg\" style=\"height:135px; width:250px\"></p><p>In the diagram, PQRS is a rectangle. /PK/ = 15 cm, /SK/ = /KR/ and &lt;PKS = 30°. Calculate, correct to three significant figures : (i) /PS/ ; (ii) /SK/ and (iii) the area of the shaded portion.</p>",
+        "answer": "<p>(a) \\(\\frac{x^{2} - y^{2}}{3x + 3y}\\)</p><p>\\(\\frac{(x + y)(x - y)}{3(x + y)}\\) (Using difference of two squares)</p><p>= \\(\\frac{x - y}{3}\\)</p><p>(b)(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0188%20%284%29_LI.jpg\" style=\"height:195px; width:250px\"></p><p>\\(\\sin 37 = \\frac{/PS/}{15}\\)</p><p>\\(/PS/ = 15 \\times 0.6018\\)</p><p>= \\(9.03 cm\\)</p><p>(ii) \\(\\cos 37 = \\frac{/SK/}{15}\\)</p><p>\\(/SK/ = 15 \\times 0.7986\\)</p><p>= \\(11.98 cm \\)</p><p>\\(\\approxeq 12.0 cm\\)</p><p>(iii) Area of the shaded portion = Area of rectangle PQRS - Area of triangle PSK.</p><p>/SR/ = 2(/SK/) = 2(11.98)</p><p>= 23.96 cm</p><p>Area of rectangle PQRS = \\(23.96 \\times 9.03 \\)</p><p>= \\(216.3588 cm^{2}\\)</p><p>Area of triangle PKS = \\(\\frac{1}{2} \\times 11.98 \\times 9.03\\)</p><p>= \\(54.088 cm^{2}\\)</p><p>Area of shaded portion : \\((216.3588 - 54.088)cm^{2}\\)</p><p>\\(162.2708 cm^{2}\\)</p><p>\\(\\approxeq 162 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2007,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0186%20%285%29_LI.jpg\" style=\"height:165px; width:250px\"></p><p>In the diagram, AOB is a straight line. &lt; AOC = 3(x + y)°, &lt; COB = 45°, &lt; AOD = (5x + y)° and &lt; DOB = y°. Find the values of x and y.</p><p>(b) From two points on opposite sides of a pole 33m high, the angles of elevation of the top of the pole are 53° and 67°. If the two points and the base are on te same horizontal level, calculate, correct to three significant figures, the distance between the two points.</p>",
+        "answer": "<p>(a) \\(3(x + y) + 45 = 180°\\) ( sum of angles on a straight line)</p><p>\\(3x + 3y + 45 = 180 \\implies 3x + 3y = 135\\)</p><p>\\(3x = 135 - 3y \\implies x = 45 - y\\)</p><p>Also,</p><p>\\(5x + y + y = 180\\)</p><p>\\(5x + 2y = 180..... (*)\\)</p><p>Put x = 45 - y into (*) above,</p><p>\\(5(45 - y) + 2y = 180 \\implies 225 - 5y + 2y = 180\\)</p><p>\\(225 - 3y = 180 \\implies 3y = 45\\)</p><p>\\(y = \\frac{45}{3} = 15°\\)</p><p>\\(x = 45 - y\\)</p><p>\\(x = 45 - 15 = 30°\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0188%20%285%29_LI.jpg\" style=\"height:154px; width:270px\"></p><p>Let the distance BD = x and CD = y.</p><p>In \\(\\Delta ABD\\),</p><p>\\(\\tan 53 = \\frac{33}{x}\\)</p><p>\\(x = \\frac{33}{\\tan 53}\\)</p><p>= \\( 24.868 cm\\)</p><p>In \\(\\Delta ACD\\),</p><p>\\(\\tan 67 = \\frac{33}{y}\\)</p><p>\\(y = \\frac{33}{\\tan 67}\\)</p><p>\\(y = 14.01 cm\\)</p><p>\\(\\therefore BC = x + y \\)</p><p>\\(24.868 + 14.01 = 38.878 cm\\)</p><p>\\(\\approxeq 38.9 cm\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2007,
+        "question": "<p>(a) The 3rd and 8th terms of an arithmetic progression (A.P) are -9 and 26 respectively. Find the : (i) common difference ; (ii) first term.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0187%20%282%29.jpg\" style=\"height:153px; width:250px\"></p><p>In the diagram \\(\\overline{PQ} || \\overline{YZ}\\), |XP| = 2cm, |PY| = 3 cm, |PQ| = 6 cm and the area of \\(\\Delta\\) XPQ = 24\\(cm^{2}\\).Calculate the area of the trapezium PQZY.</p>",
+        "answer": "<p>(a) \\(T_{n} = a + (n - 1)d\\) (terms of an A.P)</p><p>3rd term = -9 ; 8th term = 26</p><p>\\(\\implies T_{3} = a + 2d = -9 ... (1)\\)</p><p>\\(\\implies T_{8} = a + 7d = 26 ..... (2)\\)</p><p>(i) Solving (2) - (1), we have</p><p>\\(7d - 2d = 26 - (-9)\\)</p><p>\\(5d = 35 \\implies d = 7\\)</p><p>(ii) Putting d = 7 in (1) above, we have</p><p>\\(a + 2(7) = -9\\)</p><p>\\(a + 14 = -9\\)</p><p>\\(a = - 9 - 14 = -23\\)</p><p>(b) \\(\\frac{XP}{XY} = \\frac{2}{5}\\) (similar triangles)</p><p>\\(\\frac{24}{\\text{Area of \\Delta XYZ} = \\frac{2^{2}}{5^{2}}\\)</p><p>\\(\\text{Area of } \\Delta XYZ = \\frac{24 \\times 25}{4} = 150 cm^{2}\\)</p><p>\\(\\therefore \\text{Area of trapezium PQZY} = 150 - 24 = 126 cm^{2}\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2007,
+        "question": "<p>In a college, the number of absentees recorded over a period of 30 days was as shown in the frequency distribution table</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Number of absentees</td>\n<td>0-4</td>\n<td>5-9</td>\n<td>10-14</td>\n<td>15-19</td>\n<td>20-24</td>\n</tr>\n<tr>\n<td>Number of Days </td>\n<td>1</td>\n<td>5</td>\n<td>10</td>\n<td>9</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p>Calculate the : (a) Mean</p><p>(b) Standard deviation , correct to two decimal places.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>\\(x\\)</td>\n<td>mid-value</td>\n<td>\\(f\\)</td>\n<td>\\(fx\\)</td>\n<td>\\((x - \\bar{x})\\)</td>\n<td>\\((x - \\bar{x})^{2}\\)</td>\n<td>\\(f(x - \\bar{x})^{2}\\)</td>\n</tr>\n<tr>\n<td>0 - 4</td>\n<td>2</td>\n<td>1</td>\n<td>2</td>\n<td>-12</td>\n<td>144</td>\n<td>144</td>\n</tr>\n<tr>\n<td>5 - 9</td>\n<td>7</td>\n<td>5</td>\n<td>35</td>\n<td>-7</td>\n<td>49</td>\n<td>245</td>\n</tr>\n<tr>\n<td>10 - 14</td>\n<td>12</td>\n<td>10</td>\n<td>120</td>\n<td>-2</td>\n<td>4</td>\n<td>40</td>\n</tr>\n<tr>\n<td>15 - 19</td>\n<td>17</td>\n<td>9</td>\n<td>153</td>\n<td>3</td>\n<td>9</td>\n<td>81</td>\n</tr>\n<tr>\n<td>20 - 24</td>\n<td>22</td>\n<td>5</td>\n<td>110</td>\n<td>8</td>\n<td>64</td>\n<td>320</td>\n</tr>\n<tr>\n<td>\\(\\sum \\)</td>\n<td> </td>\n<td>30</td>\n<td>420</td>\n<td> </td>\n<td> </td>\n<td>830</td>\n</tr>\n</tbody>\n</table><p>(a) Mean \\(\\bar{x}\\) = \\(\\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{420}{30} = 14\\)</p><p>(b) Standard deviation = \\(\\sqrt{\\frac{\\sum f(x - \\bar{x})^{2}}{\\sum f}\\)</p><p>= \\(\\sqrt{\\frac{830}{30}}\\)</p><p>= \\(\\sqrt{27.66}\\)</p><p>= 5.26.</p><p> </p>",
+        "type": "theory"
+    }
+]

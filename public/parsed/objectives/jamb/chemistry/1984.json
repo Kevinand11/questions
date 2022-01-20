@@ -1,0 +1,766 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1984,
+        "question": "Sodium chloride may be obtained from brine by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "titration",
+            "decantation",
+            "distillation",
+            "evaporation",
+            "sublimation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1984,
+        "question": "20 cm<sup>3</sup>of hydrogen gas are sparked with 20cm<sup>3</sup>of oxygen gas in an endimoeter at 373k (100<sup>o</sup>C) and 1 atmosphere. The resulting mixture is cooled to 298 K (25<sup>o</sup>C) and passed over calcium chloride. The volume of the residual gas is",
+        "explanation": "2H<sub>2</sub>+ O<sub>2</sub>------2H<sub>2</sub>O<br>2V 1V 2V<br>20cm<sup>3</sup>20cm<sup>3</sup>-------<br>20cm<sup>3</sup>10cm<sup>3</sup>20cm<sup>3</sup><br>Residual gas = 20cm<sup>3</sup>- 10cm<sup>3</sup>of 0<sub>2</sub>= 10<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "40 cm<sup>3</sup>",
+            "20 cm<sup>3</sup>",
+            "30 cm<sup>3</sup>",
+            "10cm<sup>3</sup>",
+            "5cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1984,
+        "question": "<p>For the reaction NH4NO2 \\(\\to\\) N2 + 2H2O, calculate the volume of nitrogen that would be produced at S. T. P from 3.2 g of the dioxonitrate(iii)salt. (Relative atomic masses: N = 14, O = 16, H = 1)</p>",
+        "explanation": "<p>\\(NH_{4}NO_{2}\\) \\(\\to\\) \\(N_{2}\\) + \\(2H_{2}O\\)</p><p>\\(64g\\)  \\(\\to\\)  \\(22.4dm^{3}\\)</p><p>\\(3.2g\\) will give \\(\\frac{22.4}{64}\\) \\(\\times\\) \\(\\frac{3.2}{64}\\)</p><p>= \\(1.12dm^{3}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "2.24 dm<sup>3</sup>",
+            "2.24 cm<sup>3</sup>",
+            "1. 12<sup>3</sup>",
+            "1. 12dm<sup>3</sup>",
+            "4. 48 dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1984,
+        "question": "<p>A molar solution of caustic soda is prepared by dissolving</p>",
+        "explanation": "<p>A molar solution implies concentration in terms of moles/liter. The respective atomic weights for NaOH are: Na - 23,0 - 16 and H - 1, so the molecular weight, is 23 + 16 + I = 40. Thus 40 grams of NaOH equals one mole of NaOH, and a 1 molar solution of NaOH will contain 40 grams of NaOH chemical in 1000grams of water.</p>",
+        "correctIndex": 1,
+        "options": [
+            "40 g NaOH in 100 g of water",
+            "40 g NaOH in 1000 g of water",
+            "20 g NaOH in 500 of solution",
+            "20 g NaOH in 1000 g of solution",
+            "2o g NaOH in 80 g of solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1984,
+        "question": "Which among the elements 1. Carbon 2. Oxygen 3. Copper 4. Bromine 5. Zinc, will NOT react with either water or steam?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "1, 2, and 3",
+            "2, 3, and 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1984,
+        "question": "Naphthalene when heated melts at 354 K (81<sup>o</sup>C). At this temperature the molecules of naphthalene",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "decompose into smaller molecules",
+            "change their shape",
+            "are oxidized by atmospheric oxygen",
+            "contract",
+            "become mobile as the inter molecular forces are broken"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1984,
+        "question": "The ratio of the number of molecules in 2g of hydrogen to that in 16g of oxygen is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2:1",
+            "1:1",
+            "1:2",
+            "1:4",
+            "1:8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1984,
+        "question": "The balanced equation for the reaction of tetraoxosulphate(VI)acid with aluminium hydroxide to give water and aluminium tetraoxosulphate(VI) is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "H<sub>2</sub>SO<sub>4</sub>+ Al(OH)<sub>2</sub>\\(\\to\\) 2H<sub>2</sub>O + AlSO<sub>4</sub>",
+            "3H<sub>2</sub>SO<sub>4</sub>+ 2Al(OH)<sub>3</sub>\\(\\to\\) 6H<sub>2</sub>O + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+            "3H<sub>2</sub>SO<sub>4</sub>+ 2AlH \\(\\to\\) 6H<sub>2</sub>O + Al(SO<sub>4</sub>)<sub>3</sub>",
+            "3H<sub>2</sub>SO<sub>4</sub>+ 2Al(OH)<sub>3</sub>\\(\\to\\) Al(SO<sub>4</sub>)<sub>3</sub>",
+            "H<sub>2</sub>SO<sub>4</sub>+ Al(OH)<sub>3</sub>\\(\\to\\) H<sub>2</sub>O + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1984,
+        "question": "Which of the following mixtures would result in a solution of pH greater than 7?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "25.00 cm<sup>3</sup>of 0.05 M H<sub>2</sub>SO<sub>4</sub>and 25.00cm<sup>3</sup>of 0.50 M Na<sub>2</sub>CO<sub>3</sub>",
+            "25.00 cm<sup>3</sup>of 0.05 M H<sub>2</sub>SO<sub>4</sub>and 25.00 cm<sup>3</sup>of 0.10 M NaHCO<sub>3</sub>",
+            "25.00 cm<sup>3</sup>of 0.11 MH<sub>2</sub>SO<sub>4</sub>and 25.00cm<sup>3</sup>0. 10 M NaOH",
+            "25.00cm<sup>3</sup>of 0.11 MH<sub>2</sub>SO<sub>4</sub>and 50.00 cm<sup>3</sup>of 0.05 M NaOH",
+            "25.00cm<sup>3</sup>of 0.25 M H<sub>2</sub>SO<sub>4</sub>and 50.00cm<sup>3</sup>of 0.20 M NaOH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1984,
+        "question": "In which of the following reactions does hydrogen peroxide act as a reducing agent?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "H<sub>2</sub>S + H<sub>2</sub>O<sub>2</sub>\\(\\to\\) S + 2H<sub>2</sub>O",
+            "PbSO<sub>3</sub>+ H<sub>2</sub>O<sub>2</sub>\\(\\to\\) PbSO<sub>4</sub>+ H<sub>2</sub>O",
+            "2I+ 2H<sup>+</sup>+ H<sub>2</sub>O<sub>2</sub>\\(\\to\\) I<sub>2</sub>+ 2H<sub>2</sub>O",
+            "PbO<sub>2</sub>+ 2HNO<sub>3</sub>+ H<sub>2</sub>O<sub>2</sub>\\(\\to\\) Pb(NO<sub>3</sub>)<sub>2</sub>+ 2H<sub>2</sub>O + O<sub>2</sub>",
+            "SO<sub>2</sub>+ H<sub>2</sub>O<sub>2</sub>\\(\\to\\) H<sub>2</sub>SO<sub>4</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1984,
+        "question": "For the reaction 2Fe<sup>3+</sup>2I<sup>-</sup>\\(\\to\\) 2Fe<sup>2+</sup>+ I<sub>2</sub>, which of the following statements is TRUE?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Fe is oxidized to Fe<sup>3+</sup>",
+            "Fe<sup>3+</sup>is oxidized to Fe<sup>2+</sup>",
+            "I<sup>-</sup>is oxidized to I<sub>2</sub>",
+            "I<sup>-</sup>is reduced to I<sub>2</sub>",
+            "I<sup>-</sup>is displacing an electron from Fe<sup>3+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1984,
+        "question": "In dilute solution the heat of the reaction NaOH + HCl = NaCl + H2O is - 57.3kJ. Therefore the heat of the reaction 2NaOH + H<sub>2</sub>SO<sub>4</sub>\\(\\to\\) Na<sub>2</sub>SO<sub>4</sub>+ 2H<sub>2</sub>O is",
+        "explanation": "NaOH + HCl = NaCl + H<sub>2</sub>O \\(\\Delta\\)H = -57.3kJ<br><br>Heat of reaction of 2NaOH + H<sub>2</sub>O<sub>4</sub><br><br>NaSO<sub>4</sub>+ H<sub>2</sub>O is<br><br>= 57.3 x 2 = -114.6 kJ",
+        "correctIndex": 3,
+        "options": [
+            "+ 28.65 kJ",
+            "- 28.65KJ",
+            "+ 57.3KJ",
+            "- 114.6 KJ",
+            "- 229.2 KJ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1984,
+        "question": "Which of the following methods may be used to prepare trioxonitrate (V) acid (nitric acid) in the laboratory?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Heating ammonia gas with tetraoxosulphate (VI) acid",
+            "Heating ammonium trioxonitrate (V) with tetraoxosulphate (VI) acid",
+            "Heating sodium trioxonitrate (V) with tetraoxosulphate (VI) acid",
+            "Heating potassium trioxonitrate (V) with calcium hydroxide",
+            "Heating a mixture of ammonia gas and oxygen."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1984,
+        "question": "Lime - water, which is used in the laboratory for the detection of carbon(iv)oxide is an aqueous solution of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Ca(OH)<sub>2</sub>",
+            "CaCO<sub>3</sub>",
+            "CaHCO<sub>3</sub>",
+            "CaSO<sub>4</sub>",
+            "N<sub>2</sub>CO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1984,
+        "question": "An element that can exist in two or more different structural forms which possess the same chemical properties is said to exhibit.",
+        "explanation": "Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of these elements.",
+        "correctIndex": 4,
+        "options": [
+            "polymerism",
+            "isotopy",
+            "isomorphism",
+            "isomerism",
+            "allotrophy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1984,
+        "question": "Sulphur",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "forms two alkaline oxides",
+            "is spontaneously flammable",
+            "burns with a blue flame",
+            "conducts electricity in the molten state",
+            "is usually stored in the form of sicks in water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1984,
+        "question": "Which of the following statements is NOT true of carbon monoxide?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CO is poisonous",
+            "CO is readily oxidized at room temperature by air to form CO<sub>2</sub>",
+            "CO may be prepared by reducing CO<sub>2</sub>mixed with coke heated to about 1000<sup>o</sup>C",
+            "CO may be prepared by heating charcoal with a limited amount of O<sub>2</sub>",
+            "CO is a good reducing agent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1984,
+        "question": "From the reactions : ZnO + Na<sub>2</sub>O \\(\\to\\) NaZnO and ZnO + CO<sub>2</sub>\\(\\to\\) ZnCO<sub>3</sub>it may be concluded that zinc oxide is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "neutral",
+            "basic",
+            "acidic",
+            "amphoteric",
+            "a mixture"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1984,
+        "question": "An example of a neutral oxide is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "AL<sub>2</sub>O<sub>3</sub>",
+            "NO<sub>2</sub>",
+            "CO<sub>2</sub>",
+            "CO",
+            "SO<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1984,
+        "question": "3Cl<sub>2</sub>+ 2NH<sub>3</sub>\\(\\to\\) N<sub>2</sub>+ 6HCl. In the above reaction, ammonia acts as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a reducing agent",
+            "an oxidizing agent",
+            "an acid",
+            "a catalyst",
+            "a dry agent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1984,
+        "question": "In the Haber process for the manufacture of ammonia, finely divided iron is used as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "an ionizing agent",
+            "a reducing agent",
+            "a catalyst",
+            "a dehydrating agent",
+            "an oxidizing agent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1984,
+        "question": "The hybridization of the carbon atom in ethyne is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "sp<sup>4</sup>",
+            "sp<sup>3</sup>",
+            "sp<sup>2</sup>",
+            "sp",
+            "s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1984,
+        "question": "An organic compound with a vapour density 56.5 has the following percentage composition:C =53.1% N = 12.4%, O = 28.3%, H = 6.2%. The molecular formula of the compound is<br>Relative atomic masses: N = 14, O = 16, C = 12, H = 1 )",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "C<sub>3</sub>H<sub>6</sub>O<sub>2</sub>N",
+            "C<sub>5</sub>H<sub>6</sub>O<sub>2</sub>N",
+            "(C<sub>5</sub>H<sub>7</sub>O<sub>2</sub>N)<sub>1/2</sub>",
+            "C<sub>5</sub>H<sub>7</sub>O<sub>2</sub>N",
+            "(C<sub>5</sub>H<sub>7</sub>O<sub>2</sub>N)<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1984,
+        "question": "When the kerosene fraction from petrol is heated at high temperature, a lower boiling liquid is obtained. This process is known as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "polymerization",
+            "refining",
+            "hydrogenation",
+            "cracking"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1984,
+        "question": "Alkaline hydrolysis of naturally occurring fats and oils yields",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "fats and acids",
+            "soaps and glycerol",
+            "margarine and butter",
+            "esters",
+            "detergents"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1984,
+        "question": "Which of the following statements is INCORRECT?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Fractional distillation of crude petroleum will give the folloing hydrocarbon fuels in order of increasing boiling point",
+            "Butane &lt; petrol &lt; kerosene of polythene.",
+            "Both but-1-ene and but-1-yne will decolorize bromine readily",
+            "but-2-ene will react with chlorine to form 2,3-dichlorobutane",
+            "calcuim carbide will react with water to form any alkyne"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1984,
+        "question": "Which of the following statements is NOT correct about all four of the acids: HBr, HNO<sub>3</sub>, H<sub>2</sub>CO<sub>3</sub>and H<sub>2</sub>SO<sub>4</sub>? They",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "dissolve marble to liberate CO",
+            "have a PH less than 7",
+            "Turn blue litmus red",
+            "neutralize alkalis to form salt",
+            "react with magnesium to liberate hydrogen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1984,
+        "question": "If the cost of electricity required to deposit 1 g of magnesium is N5.00, how much would it cost to deposit 10g of aluminium?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N 10.00",
+            "N27.00",
+            "N44.44",
+            "N66.67",
+            "N33.33"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1984,
+        "question": "Nitrogen can best be obtained from a mixture over oxygen and nitrogen by passing the mixture over",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "potassium hydroxide",
+            "heated gold",
+            "heated magnesium",
+            "heated phosphorus",
+            "calcium chloride"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1984,
+        "question": "Water is said to be 'hard' if it",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "easily forms ice",
+            "has to be warmed before sodium chloride dissolves in it",
+            "froms an insoluble scum with soap",
+            "contains nitrates",
+            "contains sodium ions"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1984,
+        "question": "Sodium hydroxide (NaOH) pellets are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "deliquescent",
+            "hygroscopic",
+            "efflorescent",
+            "hydrated",
+            "fluorescent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1984,
+        "question": "Alkanes",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "are all gases",
+            "have the general formula C<sub>n</sub>H<sub>2n</sub>+<sub>2</sub>O",
+            "contain only carbon and hydrogen",
+            "are usually soluble in water",
+            "are usually active compounds"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1984,
+        "question": "If an excess of a liquid hydrocarbon is poured into a jar of chlorine, and the sealed jar is then exposed for several hours to bring sunlight, all the chlorine gas is consumed. The hydrocarbon is said to have undergone",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "a polymerization reaction",
+            "an isomerization reaction",
+            "an addition reaction",
+            "a substitution reaction",
+            "a reduction reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1984,
+        "question": "The function of conc. H<sub>2</sub>SO<sub>4</sub>in the esterification of ethanoic acid with ethanol is to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "serve as a dehydrating agent",
+            "serve as a solvent",
+            "act as a catalyst",
+            "prevent any side reaction",
+            "serve as an oxidizing agent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1984,
+        "question": "A piece of sea shell, when dropped into a dilute solution of hydrochloric acid, produces a colourless, odourless gas which turns clear limewater milky. The sea shell contains",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "sodium chloride",
+            "ammonium nitrate",
+            "calcium carbonate",
+            "calcium chloride",
+            "magnesium chloride"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1984,
+        "question": "Which of the following electrodes is used in electrolysis of bauxite (Al<sub>2</sub>O<sub>3</sub>) in molten cryolite?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Steel electrodes",
+            "Carbon electrodes",
+            "Mercury electrodes",
+            "Carbon anode and steel cathode",
+            "Carbon cathode and stell anode"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1984,
+        "question": "An aqueous solution of a metal salt, M, gives a white precipitate with NaOH which dissolves in excess NaOH. With aqueous ammonia, the solution of M also gives a white precipitate which dissolves in excess ammonia. Therefore cartion in M is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Zn<sup>++</sup>",
+            "Ca<sup>++</sup>",
+            "Ai<sup>+++</sup>",
+            "Pb<sup>++</sup>",
+            "Cu<sup>++</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1984,
+        "question": "At S. T. P how many litres of hydrogen can be obtained from the reaction of 500 cm<sup>3</sup>of 0.5 M H<sub>2</sub>SO<sub>4</sub>with excess zinc metal?<br>(Gram molecular volume of H<sub>2</sub>= 22. 4 dm<sup>3</sup>)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "22.4 dm<sup>3</sup>",
+            "11 . 2 dm<sup>3</sup>",
+            "6. 5 dm<sup>3</sup>",
+            "5. 6 dm<sup>3</sup>",
+            "0. 00 dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1424250749_scan.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "P and Q",
+            "P and R",
+            "P and S",
+            "R and S",
+            "Q and R"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1424251293_scan%20t.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "1 and 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11394022352_scan%20wl.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "spontaneous",
+            "isothermal",
+            "adiabatic",
+            "exothermic",
+            "endothermic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19939555300_si.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "acetic acid",
+            "propanal",
+            "propanol",
+            "ethanoic acid",
+            "propanoic acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27060839699_dhhd.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12818295135_scan%2022.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11394062152_sp.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "isopropylethene",
+            "acetylene",
+            "3- methylbutane",
+            "2-methylbutane",
+            "5-methylpentane"
+        ],
+        "type": "objectives"
+    }
+]

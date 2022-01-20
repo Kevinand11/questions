@@ -1,0 +1,786 @@
+[
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 1,
+        "year": 2005,
+        "question": "The systematic recording of business transactions is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "auditing",
+            "book-keeping",
+            "debiting",
+            "crediting"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 2,
+        "year": 2005,
+        "question": "An allowance given to a customer by a supplier for prompt payment is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "trade discount",
+            "discount received",
+            "cash discount",
+            "cash rebate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 3,
+        "year": 2005,
+        "question": "Which of the following is not contained in a journal? To record",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "small and repetive cash disbursemens",
+            "purchase and sale of fixed assets on credit",
+            "writing off bad debts",
+            "debtors and creditors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 4,
+        "year": 2005,
+        "question": "A trial balance is a list of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "current assets",
+            "current liabilities",
+            "debit and credit balances",
+            "debtors and creditors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 5,
+        "year": 2005,
+        "question": "Which of the following is found in the private ledger?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "rent account",
+            "sales account",
+            "drawings account",
+            "bank account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 6,
+        "year": 2005,
+        "question": "Which of the following is not one of the uses of a journal proper? To record",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "small and repetive cash disbursements",
+            "purchases day book",
+            "writing off bad debts",
+            "debtors and creditors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 7,
+        "year": 2005,
+        "question": "Which of the following is an example of direct expense?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Royalties",
+            "carriage inwards",
+            "carriage outwards",
+            "manufacturing wages"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 8,
+        "year": 2005,
+        "question": "Use the information to answer the given question<br>\\(\\begin{array}{c|c} Dr &amp; &amp; &amp; &amp; &amp; Cr \\\\ \\hline &amp; N &amp; &amp; &amp; N &amp; Cr \\\\ \\hline \\text{Jan 5 Hassan} &amp; 3,080 &amp; \\text{Jan 1} &amp; \\text{Balance b/s} &amp; 7,090 &amp; \\\\ \\text{Jan 24 malik} &amp; 1,200 &amp; \\text{Jan 9} &amp; \\text{Dauda} &amp; 1,400 &amp; \\\\ \\text{Jan 29 Rasaq} &amp; 1,240 &amp; \\text{Jan 31} &amp; \\text{Hussein} &amp; 630 &amp; \\\\ \\text{Jan 31 Lukman} &amp; 1,060 &amp; &amp; &amp; \\\\ \\text{Jan. 31 Balance c/d} &amp; 2,540 &amp; &amp; &amp; \\\\ &amp; \\overline{9,120} &amp; &amp; &amp; \\overline{9,120} \\\\ &amp; &amp; \\text{Feb 1} &amp; \\text{Balance b/d} &amp; \\overline{2,540} &amp; \\end{array}\\)<br>Bank statement:<br>\\(\\begin{array}{c|c} &amp; Dr &amp; Cr &amp; Balance \\\\ \\hline &amp; N &amp; N &amp; N \\\\ \\hline \\text{Jan 1 Balance b/d} &amp; &amp; &amp; 7,090 O/D \\\\ \\text{Jan 5 Hassan} &amp; &amp; 3,080 &amp; 4,010 O/D \\\\ \\text{Jan 9 Dauda} &amp; 1,400 &amp; &amp; 5,410 O/D \\\\ \\text{Jan 24 malik} &amp; &amp; 1,200 &amp; 4,210 O/D \\\\ \\text{Jan 29 Rasaq} &amp; &amp; 1,240 &amp; 2,970 O/D \\\\ \\text{Jan 30 Standing order} &amp; 770 &amp; &amp; 3,740 O/D \\\\ \\text{Jan 31 Bank charges} &amp; 490 &amp; &amp; 4,230 O/D \\end{array}\\)<br>Unpresented cheque(s) totalled",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N9,120",
+            "N7,090",
+            "N1,400",
+            "N630"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 9,
+        "year": 2005,
+        "question": "Use the information to answer the given question<br>\\(\\begin{array}{c|c} Dr &amp; &amp; &amp; &amp; &amp; Cr \\\\ \\hline &amp; N &amp; &amp; &amp; N &amp; Cr \\\\ \\hline \\text{Jan 5 Hassan} &amp; 3,080 &amp; \\text{Jan 1} &amp; \\text{Balance b/s} &amp; 7,090 &amp; \\\\ \\text{Jan 24 malik} &amp; 1,200 &amp; \\text{Jan 9} &amp; \\text{Dauda} &amp; 1,400 &amp; \\\\ \\text{Jan 29 Rasaq} &amp; 1,240 &amp; \\text{Jan 31} &amp; \\text{Hussein} &amp; 630 &amp; \\\\ \\text{Jan 31 Lukman} &amp; 1,060 &amp; &amp; &amp; \\\\ \\text{Jan. 31 Balance c/d} &amp; 2,540 &amp; &amp; &amp; \\\\ &amp; \\overline{9,120} &amp; &amp; &amp; \\overline{9,120} \\\\ &amp; &amp; \\text{Feb 1} &amp; \\text{Balance b/d} &amp; \\overline{2,540} &amp; \\end{array}\\)<br>Bank statement:<br>\\(\\begin{array}{c|c} &amp; Dr &amp; Cr &amp; Balance \\\\ \\hline &amp; N &amp; N &amp; N \\\\ \\hline \\text{Jan 1 Balance b/d} &amp; &amp; &amp; 7,090 O/D \\\\ \\text{Jan 5 Hassan} &amp; &amp; 3,080 &amp; 4,010 O/D \\\\ \\text{Jan 9 Dauda} &amp; 1,400 &amp; &amp; 5,410 O/D \\\\ \\text{Jan 24 malik} &amp; &amp; 1,200 &amp; 4,210 O/D \\\\ \\text{Jan 29 Rasaq} &amp; &amp; 1,240 &amp; 2,970 O/D \\\\ \\text{Jan 30 Standing order} &amp; 770 &amp; &amp; 3,740 O/D \\\\ \\text{Jan 31 Bank charges} &amp; 490 &amp; &amp; 4,230 O/D \\end{array}\\)<br>Unpresented cheque(s) totalled<br>Uncredited cheques totalled",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N3,500",
+            "N2,540",
+            "N1,060",
+            "N630"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 10,
+        "year": 2005,
+        "question": "Use the information to answer the given question<br>\\(\\begin{array}{c|c} Dr &amp; &amp; &amp; &amp; &amp; Cr \\\\ \\hline &amp; N &amp; &amp; &amp; N &amp; Cr \\\\ \\hline \\text{Jan 5 Hassan} &amp; 3,080 &amp; \\text{Jan 1} &amp; \\text{Balance b/s} &amp; 7,090 &amp; \\\\ \\text{Jan 24 malik} &amp; 1,200 &amp; \\text{Jan 9} &amp; \\text{Dauda} &amp; 1,400 &amp; \\\\ \\text{Jan 29 Rasaq} &amp; 1,240 &amp; \\text{Jan 31} &amp; \\text{Hussein} &amp; 630 &amp; \\\\ \\text{Jan 31 Lukman} &amp; 1,060 &amp; &amp; &amp; \\\\ \\text{Jan. 31 Balance c/d} &amp; 2,540 &amp; &amp; &amp; \\\\ &amp; \\overline{9,120} &amp; &amp; &amp; \\overline{9,120} \\\\ &amp; &amp; \\text{Feb 1} &amp; \\text{Balance b/d} &amp; \\overline{2,540} &amp; \\end{array}\\)<br><br>Bank statement:<br>\\(\\begin{array}{c|c} &amp; Dr &amp; Cr &amp; Balance \\\\ \\hline &amp; N &amp; N &amp; N \\\\ \\hline \\text{Jan 1 Balance b/d} &amp; &amp; &amp; 7,090 O/D \\\\ \\text{Jan 5 Hassan} &amp; &amp; 3,080 &amp; 4,010 O/D \\\\ \\text{Jan 9 Dauda} &amp; 1,400 &amp; &amp; 5,410 O/D \\\\ \\text{Jan 24 malik} &amp; &amp; 1,200 &amp; 4,210 O/D \\\\ \\text{Jan 29 Rasaq} &amp; &amp; 1,240 &amp; 2,970 O/D \\\\ \\text{Jan 30 Standing order} &amp; 770 &amp; &amp; 3,740 O/D \\\\ \\text{Jan 31 Bank charges} &amp; 490 &amp; &amp; 4,230 O/D \\end{array}\\)<br>Unpresented cheque(s) totalled<br>Adjusted Cash Book balance is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "N3,800 O/D",
+            "N3,310 O/D",
+            "N3,030 O/D",
+            "N2,540 O/D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 11,
+        "year": 2005,
+        "question": "A debit balance of N1,000 in cash account means that",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "cash in hand is N1,000",
+            "cash has been overspent by N1,000",
+            "total cash paid out is N1,000",
+            "total cash received was less by N1,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 12,
+        "year": 2005,
+        "question": "The maximum level of cash held by by a cashier under an imprest system is a/an",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "vote",
+            "float",
+            "reimburstment",
+            "advance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 13,
+        "year": 2005,
+        "question": "The total of the sales journal is entered on the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "debit side of sales account",
+            "debit side of cash account",
+            "credit side of sales account",
+            "credit side of cash account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 14,
+        "year": 2005,
+        "question": "Gross profit is calculated in the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "trading account",
+            "profit and loss account",
+            "appropriation account",
+            "partners current account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 15,
+        "year": 2005,
+        "question": "An example of fixed asset is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "creditors",
+            "goodwill",
+            "accruals",
+            "furniture"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 16,
+        "year": 2005,
+        "question": "Use the following information to answer the question<br>\\(\\begin{array}{c|c} &amp; Ade &amp; Bola\\\\ &amp; N &amp; N \\\\ \\hline \\text{Capital Accounts} &amp; 60,000 &amp; 40,000\\\\ \\text{Current Accounts} &amp; 10,000 Cr &amp; 6,000 Cr \\\\ \\text{Drawings} &amp; 8,000 &amp; 2,000 \\end{array}\\)<br>Interest on drawings is 5%, interest on capital is 10%. Profit and losses are shared equally. Net profit for the year is N30,000. The amount of distributable profit is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N39,500",
+            "N30,500",
+            "N30,000",
+            "N20,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 17,
+        "year": 2005,
+        "question": "Use the following information to answer the question<br>Use the following information to answer the question<br>\\(\\begin{array}{c|c} &amp; Ade &amp; Bola\\\\ &amp; N &amp; N \\\\ \\hline \\text{Capital Accounts} &amp; 60,000 &amp; 40,000\\\\ \\text{Current Accounts} &amp; 10,000 Cr &amp; 6,000 Cr \\\\ \\text{Drawings} &amp; 8,000 &amp; 2,000 \\end{array}\\)<br>Interest on drawings is 5%, interest on capital is 10%. Profit and losses are shared equally. Net profit for the year is N30,000. Ade's share of profit is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N19,750",
+            "N15,250",
+            "N15,000",
+            "N10,250"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 18,
+        "year": 2005,
+        "question": "Use the following information to answer the question<br>\\(\\begin{array}{c|c} &amp; Ade &amp; Bola\\\\ &amp; N &amp; N \\\\ \\hline \\text{Capital Accounts} &amp; 60,000 &amp; 40,000\\\\ \\text{Current Accounts} &amp; 10,000 Cr &amp; 6,000 Cr \\\\ \\text{Drawings} &amp; 8,000 &amp; 2,000 \\end{array}\\)<br>Interest on drawings is 5%, interest on capital is 10%. Profit and losses are shared equally. Net profit for the year is N30,000. The total amount credit to the Profit and Loss Appropriation Account is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "N40,500",
+            "N30,500",
+            "N30,000",
+            "N25,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 19,
+        "year": 2005,
+        "question": "Use the following information to answer the question<br>\\(\\begin{array}{c|c} &amp; Ade &amp; Bola\\\\ &amp; N &amp; N \\\\ \\hline \\text{Capital Accounts} &amp; 60,000 &amp; 40,000\\\\ \\text{Current Accounts} &amp; 10,000 Cr &amp; 6,000 Cr \\\\ \\text{Drawings} &amp; 8,000 &amp; 2,000 \\end{array}\\)<br>Interest on drawings is 5%, interest on capital is 10%. Profit and losses are shared equally. Net profit for the year is N30,000. Bola's current account balance is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N18,150 Cr",
+            "N16,150 Cr",
+            "N10,150 Cr",
+            "N6,150 Cr"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 20,
+        "year": 2005,
+        "question": "Capital expenditure is the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "cost of running a business",
+            "money spent on buying goods for resale",
+            "money spent on acquire fixed assets",
+            "extra capital paid in by the proprietor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 21,
+        "year": 2005,
+        "question": "Depreciation of assets is provided for provided for in consideration of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "disposal",
+            "loss by fire",
+            "loss in transit",
+            "wear and tear"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 22,
+        "year": 2005,
+        "question": "Which of the following is a factory overhead?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Depreciation of plant and machinery",
+            "Royalties",
+            "raw materials consumed",
+            "carriage outwards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 23,
+        "year": 2005,
+        "question": "Which of the following is used to derive missing figures in a system of incomplete records?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "control account",
+            "bank account",
+            "profit and loss account",
+            "bank statement"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 24,
+        "year": 2005,
+        "question": "Which of the following is not contained in sales ledger control account?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "returns inwars",
+            "returns outwards",
+            "receipts from debtors",
+            "dishonored cheques"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 25,
+        "year": 2005,
+        "question": "Which of the following is not credited to debtors control account?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "provision for bad debt",
+            "bas debt",
+            "discount allowed",
+            "bills receivable"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 26,
+        "year": 2005,
+        "question": "Where a firm has not kept proper books of account, an increase in closing capital over opening capital represents",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "profit",
+            "loss",
+            "prepayments",
+            "cash balance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 27,
+        "year": 2005,
+        "question": "Use the following information to answer the given question<br>RECEIPTS AND PAYMENTS ACCOUNT:<br>\\(\\begin{array}{c|c} Dr &amp; &amp; &amp; Cr \\\\ \\hline &amp; D &amp; &amp; D \\\\ \\text{Balance b/f} &amp; 1,000 &amp; Salaries &amp; 2,000 \\\\ \\text{Subscriptions} &amp; 15,000 &amp; \\text{Rent} &amp; 1,000 \\\\ &amp; &amp; \\text{Rates} &amp; 1,500\\\\ &amp; &amp; \\text{Expenses} &amp; 500 \\\\ &amp; &amp; \\text{Balance c/f} &amp; 11,000\\\\ &amp; \\overline{16,000} &amp; &amp; \\overline{16,000} \\\\ \\text{Balance b/f} &amp; \\overline{11,000} &amp; &amp; \\end{array}\\)<br><br>\\(\\begin{array}{c|c} &amp; \\text{1st January,2004} &amp; \\text{31st December, 2004} \\\\ &amp; D &amp; D \\\\ \\hline \\text{Fixed Assets} &amp; 50,000 &amp; 50,000\\\\ \\text{Rent(accrued)} &amp; 200 &amp; 250 \\\\ \\text{Rates(prepaid)} &amp; 300 &amp; 400\\\\ \\text{Subscriptions in arrears} &amp; 1,500 &amp; 1,000\\\\ \\text{Subscriptions in advance} &amp; 1,300 &amp; 800 \\end{array}\\)<br>Accumulated fund as at 1st January 2004 is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "D54,100",
+            "D52,800",
+            "D52,600",
+            "D51,300"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 28,
+        "year": 2005,
+        "question": "Use the following information to answer the given question<br>RECEIPTS AND PAYMENTS ACCOUNT:<br>\\(\\begin{array}{c|c} Dr &amp; &amp; &amp; Cr \\\\ \\hline &amp; D &amp; &amp; D \\\\ \\text{Balance b/f} &amp; 1,000 &amp; Salaries &amp; 2,000 \\\\ \\text{Subscriptions} &amp; 15,000 &amp; \\text{Rent} &amp; 1,000 \\\\ &amp; &amp; \\text{Rates} &amp; 1,500\\\\ &amp; &amp; \\text{Expenses} &amp; 500 \\\\ &amp; &amp; \\text{Balance c/f} &amp; 11,000\\\\ &amp; \\overline{16,000} &amp; &amp; \\overline{16,000} \\\\ \\text{Balance b/f} &amp; \\overline{11,000} &amp; &amp; \\end{array}\\)<br><br>\\(\\begin{array}{c|c} &amp; \\text{1st January,2004} &amp; \\text{31st December, 2004} \\\\ &amp; D &amp; D \\\\ \\hline \\text{Fixed Assets} &amp; 50,000 &amp; 50,000\\\\ \\text{Rent(accrued)} &amp; 200 &amp; 250 \\\\ \\text{Rates(prepaid)} &amp; 300 &amp; 400\\\\ \\text{Subscriptions in arrears} &amp; 1,500 &amp; 1,000\\\\ \\text{Subscriptions in advance} &amp; 1,300 &amp; 800 \\end{array}\\)<br>Rates charged to the income and expenditure Account for the year 2004 is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "D2,200",
+            "D1,600",
+            "D1,500",
+            "D1,400"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 29,
+        "year": 2005,
+        "question": "Use the following information to answer the given question<br>RECEIPTS AND PAYMENTS ACCOUNT:<br>\\(\\begin{array}{c|c} Dr &amp; &amp; &amp; Cr \\\\ \\hline &amp; D &amp; &amp; D \\\\ \\text{Balance b/f} &amp; 1,000 &amp; Salaries &amp; 2,000 \\\\ \\text{Subscriptions} &amp; 15,000 &amp; \\text{Rent} &amp; 1,000 \\\\ &amp; &amp; \\text{Rates} &amp; 1,500\\\\ &amp; &amp; \\text{Expenses} &amp; 500 \\\\ &amp; &amp; \\text{Balance c/f} &amp; 11,000\\\\ &amp; \\overline{16,000} &amp; &amp; \\overline{16,000} \\\\ \\text{Balance b/f} &amp; \\overline{11,000} &amp; &amp; \\end{array}\\)<br><br>\\(\\begin{array}{c|c} &amp; \\text{1st January,2004} &amp; \\text{31st December, 2004} \\\\ &amp; D &amp; D \\\\ \\hline \\text{Fixed Assets} &amp; 50,000 &amp; 50,000\\\\ \\text{Rent(accrued)} &amp; 200 &amp; 250 \\\\ \\text{Rates(prepaid)} &amp; 300 &amp; 400\\\\ \\text{Subscriptions in arrears} &amp; 1,500 &amp; 1,000\\\\ \\text{Subscriptions in advance} &amp; 1,300 &amp; 800 \\end{array}\\)<br>Subscriptions relating to the year 2004 is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "D19,600",
+            "D17,300",
+            "D16,500",
+            "D15,00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 30,
+        "year": 2005,
+        "question": "Which of the following is not an accounting concept?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "periodicity",
+            "accuracy",
+            "consistency",
+            "objectively"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 31,
+        "year": 2005,
+        "question": "\"Transactions are governed by legal principles, but are nevertheless accounted for and presented in accordance with the substance and financial reality\". This is in compliance with the principle of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "substance over form",
+            "prudence",
+            "objectively",
+            "materiality"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 32,
+        "year": 2005,
+        "question": "Which of the following statements is no correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "profits increase capital",
+            "losses reduce capital",
+            "drawings reduce capital",
+            "drawings increase capital"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 33,
+        "year": 2005,
+        "question": "Direct material + direct expenses is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "overhead",
+            "prime cost",
+            "total cost",
+            "conversion cost"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 34,
+        "year": 2005,
+        "question": "Books of account are opening by means of a",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "purchases journal",
+            "principal journal",
+            "sales journal",
+            "returns inward journal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 35,
+        "year": 2005,
+        "question": "When both debit and credit entries of a transaction are shown in the cash book, it is described as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "contra entry",
+            "reversal entry",
+            "double entry",
+            "single entry"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 36,
+        "year": 2005,
+        "question": "The correct order of liquidity is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "stock, debtors, prepayments and cash",
+            "cash, payments, debtors and stock",
+            "stock, cash, debtors and preyaments",
+            "debtors, stock, cash and prepayments"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 37,
+        "year": 2005,
+        "question": "Which of the following ratios measure the ability of a firm to meet short-term obligations?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "net profit margin",
+            "quick asset ratio",
+            "turnover",
+            "creditors ratio"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 38,
+        "year": 2005,
+        "question": "Which of the following is a capital reserve?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "profit and loss account balance",
+            "share premium",
+            "gross profit",
+            "share discount"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 39,
+        "year": 2005,
+        "question": "When shares are sold at less than the nominal value, it means they are issued at",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a premium",
+            "a loss",
+            "a discount",
+            "par"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 40,
+        "year": 2005,
+        "question": "Where goods are invoiced by a firm its branch at cost-plus, the branch stock adjustment accounts is used to determine",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "cost price",
+            "branch profit",
+            "selling price",
+            "branch expenses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 41,
+        "year": 2005,
+        "question": "Which of the following is apportioned in proportion of the purchases of each department?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Discounts received",
+            "selling commission",
+            "bad debts",
+            "carriage outwards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 42,
+        "year": 2005,
+        "question": "Using the following information to answer the given question<br>\\(\\begin{array}{c|c} Post &amp; Grade &amp; \\text{Number in post} &amp; Rate \\\\ \\hline \\text{Chief Accountant} &amp; 15 &amp; 1 &amp; N371,748\\\\ \\text{Asst, Chief Accountant} &amp; 14 &amp; 2 &amp; N301,452\\\\ \\text{Principal Accountant} &amp; 12 &amp; 4 &amp; N243,732\\\\ \\text{Accountant} &amp; 7 &amp; 6 &amp; N113,632\\\\ \\text{Clerk} &amp; 3 &amp; 10 &amp; N54,166\\end{array}\\)<br>Additional information:<br>(a) All employees are on the first step of their<br><br>(b) Allowances<br><br>\\(\\begin{array}{c|c} \\text{Grade Level} &amp; \\text{Transport Allowance} &amp; \\text{Housing Allowance} &amp; \\text{Responsibility Allowance} \\\\ \\hline \\text{12 and above} &amp; \\text{N24,000 per annum} &amp; \\text {N120,000 per annum} &amp; \\text{N30,000 per annum} \\\\ \\text{1 to 7} &amp; \\text{N13,200 per annum} &amp; \\text{N48,000 per annum} &amp; - \\end{array}\\)<br>The total basic salary for the year was",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N3,173,032",
+            "N3,048,000",
+            "N1,084,730",
+            "N8555,600"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 43,
+        "year": 2005,
+        "question": "Using the following information to answer the given question<br>\\(\\begin{array}{c|c} Post &amp; Grade &amp; \\text{Number in post} &amp; Rate \\\\ \\hline \\text{Chief Accountant} &amp; 15 &amp; 1 &amp; N371,748\\\\ \\text{Asst, Cheif Accountant} &amp; 14 &amp; 2 &amp; N301,452\\\\ \\text{Principal Accountant} &amp; 12 &amp; 4 &amp; N243,732\\\\ \\text{Accountant} &amp; 7 &amp; 6 &amp; N113,632\\\\ \\text{Clerk} &amp; 3 &amp; 10 &amp; N54,166\\end{array}\\)<br>Additional information:<br>(a) All employees are on the first step of their<br><br>(b) Allowances<br><br>\\(\\begin{array}{c|c} \\text{Grade Level} &amp; \\text{Transport Allowance} &amp; \\text{Housing Allowance} &amp; \\text{Responsibility Allowance} \\\\ \\hline \\text{12 and above} &amp; \\text{N24,000 per annum} &amp; \\text {N120,000 per annum} &amp; \\text{N30,000 per annum} \\\\ \\text{1 to 7} &amp; \\text{N13,200 per annum} &amp; \\text{N48,000 per annum} &amp; - \\end{array}\\)<br>The total transport allowance was",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "N384,000",
+            "N379,200",
+            "N211,200",
+            "N168,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 44,
+        "year": 2005,
+        "question": "Using the following information to answer the given question<br>\\(\\begin{array}{c|c} Post &amp; Grade &amp; \\text{Number in post}&amp; Rate \\\\ \\hline \\text{Chief Accountant} &amp; 15 &amp; 1 &amp; N371,748\\\\ \\text{Asst, Cheif Accountant} &amp; 14 &amp; 2 &amp; N301,452\\\\ \\text{Principal Accountant} &amp; 12 &amp; 4 &amp; N243,732\\\\ \\text{Accountant} &amp; 7 &amp; 6 &amp; N113,632\\\\ \\text{Clerk} &amp; 3 &amp; 10 &amp; N54,166\\end{array}\\)<br>Additional information:<br>(a) All employees are on the first step of their<br><br>(b) Allowances<br><br>\\(\\begin{array}{c|c} \\text{Grade Level} &amp; \\text{Transport Allowance} &amp; \\text{Housing Allowance} &amp; \\text{Responsibility Allowance} \\\\ \\hline \\text{12 and above} &amp; \\text{N24,000 per annum} &amp; \\text {N120,000 per annum} &amp; \\text{N30,000 per annum} \\\\ \\text{1 to 7} &amp; \\text{N13,200 per annum} &amp; \\text{N48,000 per annum} &amp; - \\end{array}\\)<br>The total housing allowance was",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N1,608,000",
+            "N840,000",
+            "N768,000",
+            "N168,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 45,
+        "year": 2005,
+        "question": "Using the following information to answer the given question<br>\\(\\begin{array}{c|c} Post &amp; Grade &amp; \\text{Number in post} &amp; Rate \\\\ \\hline \\text{Chief Accountant} &amp; 15 &amp; 1 &amp; N371,748\\\\ \\text{Asst, Cheif Accountant} &amp; 14 &amp; 2 &amp; N301,452\\\\ \\text{Principal Accountant} &amp; 12 &amp; 4 &amp; N243,732\\\\ \\text{Accountant} &amp; 7 &amp; 6 &amp; N113,632\\\\ \\text{Clerk} &amp; 3 &amp; 10 &amp; N54,166\\end{array}\\)<br>Additional information:<br>(a) All employees are on the first step of their<br><br>(b) Allowances<br><br>\\(\\begin{array}{c|c} \\text{Grade Level} &amp; \\text{Transport Allowance} &amp; \\text{Housing Allowance} &amp; \\text{Responsibility Allowance} \\\\ \\hline \\text{12 and above} &amp; \\text{N24,000 per annum} &amp; \\text {N120,000 per annum} &amp; \\text{N30,000 per annum} \\\\ \\text{1 to 7} &amp; \\text{N13,200 per annum} &amp; \\text{N48,000 per annum} &amp; - \\end{array}\\)<br>The responsibility allowance of grade leaves 14 and 15 was",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "N21,000",
+            "N90,000",
+            "N60,000",
+            "N30,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 46,
+        "year": 2005,
+        "question": "The part of the C.P.U used for the processing of data is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Monoru unit",
+            "arithmetic and logic unit",
+            "output unit",
+            "input unit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 47,
+        "year": 2005,
+        "question": "Resources consumed but to be paid for within the next accounting period are classified in the balance sheet as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "current liabilities",
+            "current assets",
+            "long-term liabilities",
+            "capital"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 48,
+        "year": 2005,
+        "question": "Where a proprietor withdraws stock for personal consumption, the accounting entries to record the transaction are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "debit drawings account, credit purchases account",
+            "debit purchases account, credit sales account",
+            "debit sales avvount, credit drawings account",
+            "debit drawings account, credit sales account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 49,
+        "year": 2005,
+        "question": "Where there is a loss on disposal of a fixed asset, it means",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "depreciation has been underestimated",
+            "depreciation has been overestimated",
+            "scrap value has not been estimated",
+            "depreciation method used is inappropriate"
+        ],
+        "type": "objectives"
+    }
+]

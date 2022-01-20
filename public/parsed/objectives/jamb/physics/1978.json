@@ -1,0 +1,851 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1978,
+        "question": "A man walks 1km due east and then 1km due north. His displacement is",
+        "explanation": "R = \\(\\sqrt{1^2 + 1^2}\\) = \\(\\sqrt{2km}\\)<br><br>\\(\\theta\\) = tan<sup>-1</sup>\\(\\frac{(1)}{1}\\) = 45<sup>o</sup>C<br><br>= \\(\\sqrt 2\\)km N 45<sup>o</sup>E",
+        "correctIndex": 2,
+        "options": [
+            "1 km N15<sup>o</sup>E",
+            "1 km N30<sup>o</sup>E",
+            "\\(\\sqrt 2\\)km N 45<sup>o</sup>E",
+            "\\(\\sqrt 2\\)km N 60<sup>o</sup>E",
+            "2km N 75<sup>o</sup>E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1978,
+        "question": "The factional force between two bodies",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "exists only when there is relative motion or tendency for motion",
+            "acts so as to oppose the motion",
+            "depends on the normal reaction between the two surfaces",
+            "is relatively independent of the area in contact",
+            "has all of these characteristics"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1978,
+        "question": "<p>An air force jet flying with a speed of 335ms-1 went past an anti-aircraft gun. How far is the aircraft 5s later when the gun was fired?</p>",
+        "explanation": "<p>Distance covered = speed x time<br>\n<br>\n= 335 x 5<br>\n<br>\n= 1675m</p>",
+        "correctIndex": 3,
+        "options": [
+            "838m",
+            "3350m",
+            "670m",
+            "1675m",
+            "67m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1978,
+        "question": "A palm fruit dropped to the ground from the top of a tree 45m tall. How long does it take to reach the ground? (g = 10ms<sup>-2</sup>)",
+        "explanation": "Using the equation of motion<br><br>S = ut + \\(\\frac{1}{2}\\)at<sup>2</sup><br><br>45 = (0 x t) + (\\(\\frac{1}{2}\\) x 10 x t<sup>2</sup>)<br><br>t = 3s",
+        "correctIndex": 4,
+        "options": [
+            "9s",
+            "4.5s",
+            "6s",
+            "7.5s",
+            "3s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1978,
+        "question": "A piece of rubber 10cm long stretches 6mm when a load of 100N is hung from it. What is the strain?",
+        "explanation": "Strain = \\(\\frac{\\Delta L}{L}\\)<br><br>= \\(\\frac{6 \\times 10^{-1}}{10}\\)<br><br>= 6 x 10<sup>-2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "60",
+            "6",
+            "6 x 10<sup>-2</sup>",
+            "6 x 10<sup>-3</sup>",
+            "0.6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1978,
+        "question": "<p>An ice cube floats in a glass of water filled to the brim. What happens when the ice melts?</p>",
+        "explanation": "<p>The <strong>law</strong> of flotation states that a floating object displaces its own weight of the fluid in which it floats. This implies that no extra volume of water is added as the ice melts.</p>",
+        "correctIndex": 0,
+        "options": [
+            "The water level remains the same",
+            "there is a drop in the level of water in the glass due to condensation on its outside",
+            "the water in the glass overflows",
+            "the level of water drops because melted ice occupies less volume",
+            "none of the above is correct"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1978,
+        "question": "A machine gun with a mass of 5kg fires a 50g bullet at speed of 100ms<sup>-1</sup>. The recoil speed of the machine gun is",
+        "explanation": "Gun momentum = bullet momentum<br><br>5 x v = 0.05 x 100<br><br>v = 1 msec<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0.5 msec<sup>-1</sup>",
+            "1.5 msec<sup>-1</sup>",
+            "1 msec<sup>-1</sup>",
+            "2 msec<sup>-1</sup>",
+            "4 msec<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1978,
+        "question": "mercury is a better barometric fluid than water because i. it needs no colouring ii. its density is many times greater than that of water iii. it does not wet glass iv. it has a high vapour pressure v. it has a high boiling point. which of the above statements are true?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i and ii only",
+            "i, ii and iii only",
+            "iii and iv only",
+            "iv and v only",
+            "iii, iv and v only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1978,
+        "question": "The internationally agreed system of units(SI) for physical measurements are",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Ib, ft, sec",
+            "g, m, sec",
+            "kg, m, sec",
+            "cm, g, sec",
+            "kg, cm, sec"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1978,
+        "question": "<p>To determine the weight of an object you could</p>",
+        "explanation": "<p>The weight of an object is found with a SPRING BALANCE.</p>",
+        "correctIndex": 1,
+        "options": [
+            "use a beam balance",
+            "use a spring balance",
+            "find the force necessary",
+            "use none of these methods",
+            "use any of these methods"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1978,
+        "question": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{mv^2}{r}\\)",
+            "\\(\\frac{mr^2}{v}\\)",
+            "\\(\\frac{mr}{v}\\)",
+            "\\(\\frac{mv}{r^2}\\)",
+            "\\(\\frac{mv}{r}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1978,
+        "question": "The density of a solid is defined as the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "mass of the solid compared to the mass of an equal volume of water",
+            "amount of water displaced when a unit mass of thesolid is immersed in it",
+            "weight per unit volume of the solid",
+            "volume per unit mass of the solid",
+            "mass per unit volume of the solid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1978,
+        "question": "A solid suspended by a piece of string is completely immersed in water. On attempting to lift the solid out of the water, the string breaks when the solid is partly out of the water. This is because",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the tension in the string decreases as the solid is lifted",
+            "the mass of the solid has increased",
+            "the solid apparently weighs less when completely immersed in water than when partially immersed",
+            "part of the solid still in water is exerting more force on the string",
+            "the solid is no longer in equilibrium with water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1978,
+        "question": "The statements below were made by some students describing what happened during the determination of the melting point of solids.<br>i. the temperature of the solid was solid until melting started<br>ii. the temperature of the solid rose until melting started<br>iii. during melting, the temperature was rising<br>iv. during melting, the temperature was constant<br>v. the temperature continued to rise after all the solid had melted<br>vi. the temperature stopped rising after all the solid had melted. Which of the following gives correct statements in the right order?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ii, iv, and v",
+            "ii, iii and vi",
+            "i, iii and vi",
+            "i, iii and v",
+            "i, iv and v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1978,
+        "question": "A few grains of table salt were put in a cup of water, kept at constant temperature and left undisturbed. Eventually all the water tasted salty. The action is due to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "convection",
+            "osmosis",
+            "capillarity",
+            "diffusion",
+            "conductivity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1978,
+        "question": "<p>A temperature 20°C is the same as</p>",
+        "explanation": "<p>212°F ... 100°C<br>\n<br>\n\\(\\theta\\)°F ... 20°C<br>\n<br>\n32°F ... 0°C<br>\n<br>\n\\(\\frac{\\theta - 32}{212 - 32}\\) = \\(\\frac{20 - 0}{100 - 0}\\)</p><p>180 = 5(\\(\\theta\\) - 32)</p><p>5\\(\\theta\\) = 180 + 160 = 340</p><p>\\(\\theta\\) = 68°F</p>",
+        "correctIndex": 1,
+        "options": [
+            "36<sup>o</sup>F",
+            "68<sup>o</sup>F",
+            "11.1<sup>o</sup>F",
+            "43.1<sup>o</sup>F",
+            "25<sup>o</sup>F"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1978,
+        "question": "The latent heat of fusion of ice is 80cal g<sup>-1</sup>. How much heat is required to change 10g of ice at Q<sup>o</sup>C into water at the same temperature?",
+        "explanation": "Quantity of heat = ml<br><br>= 10 x 80<br><br>= 800 cal",
+        "correctIndex": 3,
+        "options": [
+            "80 cal",
+            "10 cal",
+            "8 cal",
+            "800 cal",
+            "400 cal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1978,
+        "question": "<p>A gas at pressure PNm\\(^{-2}\\) and temperature 27°C is heated to 77°C at constant volume. The new pressure is</p>",
+        "explanation": "<p>At constant volume,<br>\n<br>\n\\(\\frac{P_1}{T_1}\\) = \\(\\frac{P_2}{T_2}\\)<br>\n<br>\n\\(\\frac{P}{27 +273}\\) = \\(\\frac{P_2}{77 + 273}\\)</p><p>\\(300P_2 = 350P\\)<br>\n<br>\nP2 = 1.16 PNm\\(^{-2}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.85 PN-m<sup>-2</sup>",
+            "0.86 PN-m<sup>-2</sup>",
+            "1.16 PN-m<sup>-2</sup>",
+            "1.18 PN-m<sup>-2</sup>",
+            "2.85 PN-m<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1978,
+        "question": "The following are some units i. Ns ii. Mm iii. Nm<sup>-2</sup>iv. J<sup>o</sup>K<sup>-1</sup>. What are the units of latent heat?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1978,
+        "question": "The heat from the sun reaches the earth by the process",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "insulation",
+            "precipitation",
+            "conduction",
+            "convection",
+            "radiation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1978,
+        "question": "<p>Two resistors R1 and R2 are connected in parallel, R2 being greater than R1. The combined resistance is</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "less than R<sub>1</sub>",
+            "greater than R<sub>2</sub>",
+            "the sum of R<sub>1</sub>and R<sub>2</sub>",
+            "the difference of R<sub>2</sub>and R<sub>1</sub>",
+            "greater thanR<sub>1</sub>but less than R<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1978,
+        "question": "Three 5 ohms resistors connected in parallel have a potential difference of 60v. applied across the combination. The current in each resistor is",
+        "explanation": "since they are in parallel, the same voltage across<br><br>= I<sub>1</sub>= I<sub>2</sub>= I<sub>3</sub><br><br>I<sub>1</sub>= \\(\\frac{V}{R_1}\\)<br><br>\\(\\frac{60}{5}\\) = 12A",
+        "correctIndex": 2,
+        "options": [
+            "4A",
+            "36A",
+            "12A",
+            "24A",
+            "10A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1978,
+        "question": "If NEPA charges 5k per kWhr, what is the cost of operating for 24 hours a lamp required 1A on a 200v line?",
+        "explanation": "Energy (kWhr) = 1 x 200 x 24 x 10<sup>-3</sup><br><br>= 4.8kWhr<br><br>1 kWhr. cost 5k<br><br>4.8kwhr. will cost (5 x 4.8)k<br><br>= 24 kobo",
+        "correctIndex": 0,
+        "options": [
+            "24k",
+            "55k",
+            "40k",
+            "26k",
+            "32k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1978,
+        "question": "A magnet is moved through a coil of wire. The e.m.f. produced in the wire depends on",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the number of turns in the coil",
+            "the strength of the magnet",
+            "the speed at which the magnet is moved",
+            "all of the above",
+            "none of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1978,
+        "question": "In order to convert a galvanometer into an ammeter",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a low resistance shunt is connected in parallel",
+            "a low resistance shunt is connected in series",
+            "a medium resistance shunt is connected in series",
+            "a high resistance shunt is connected in parallel",
+            "a high resistance shunt is connected in series"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1978,
+        "question": "In a D.C. circuit, a 10 microfarad (mf) capacitor is placed in series with a 10 0hm resistor. The total resistance of the combination is",
+        "explanation": "Capacitor has an infinite resistance to D.C.",
+        "correctIndex": 4,
+        "options": [
+            "10 ohms",
+            "1 ohms",
+            "zero",
+            "20 ohms",
+            "infinite"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1978,
+        "question": "On an a.c generator, which of the following does not apply?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "field magnet",
+            "commutator",
+            "armature",
+            "slip rings",
+            "carbon brushes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1978,
+        "question": "Why is it impossible for the lines of force of an electric field to cross one another?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "like charges repel each other",
+            "a charged particle is deflected by an eletric field",
+            "like charges are arranged on the same line of force",
+            "a positively charged particle can travel in only one direction at any time",
+            "none of these is correct"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1978,
+        "question": "A potential difference of 6v is used to produce a current of 5A for 200s through a heating coil. The heat produced is",
+        "explanation": "Heat energy = Elect. energy = Ivt<br><br>= 5 x 6 x 200<br><br>= 6,000J",
+        "correctIndex": 4,
+        "options": [
+            "4800 cal",
+            "6000 cal",
+            "2400J",
+            "240k cal",
+            "6000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1978,
+        "question": "The electric supply from Kainji Dam is transmitted at high voltages of the order hundreds of kilovolts but is converted to domestic use of about 220 volts by",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "commutators",
+            "transistors",
+            "valves and diodes",
+            "rectifiers",
+            "transformers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1978,
+        "question": "Every house supplied with electricity is provided with a box of fuses so that",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the consumption of electricity can be recorded",
+            "people residing in the house will not have an electric shock if they touch a live wire",
+            "the total current drawn from the mains can be limited",
+            "the voltage supply can be stabilized",
+            "it serves as a standby supply when there is a power failure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1978,
+        "question": "An electric charge could be transmitted through",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "wood, rubber and stone",
+            "paper, clay and plastic",
+            "glass, acid and cloth",
+            "The human body, water and metals",
+            "all of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1978,
+        "question": "<p>a guitar string is 75cm long. the wavelength of its fundamental note is</p>",
+        "explanation": "<p>Wavelength = 2L = 2 X 75</p><p>Wavelength = 150</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "75cm",
+            "150cm",
+            "37.5cm",
+            "112cm",
+            "50cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1978,
+        "question": "The boys are communicating with each other by stretching a string passing through a hole punched in the bottom of each of two tin cans. The physical principle employed is that sound travels",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "mainly through air",
+            "fainter in stretched string",
+            "faster through gases than in solids and liquids",
+            "with greater ease through a string than in air",
+            "none of the above is correct"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1978,
+        "question": "A herdsman yelling out to fellow herdsman heard his voice reflected by cliff 4s later. What is the velocity of sound in air if the cliff is 680m away?",
+        "explanation": "Velocity = \\(\\frac{\\text{distance}}{\\text{time}}\\)<br><br>echo time = halt total time<br><br>= \\(\\frac{1}{2}\\) x 4 = 25<br><br>velocity = \\(\\frac{680}{2}\\)<br><br>= 340ms<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "170ms<sup>-1</sup>",
+            "136ms<sup>-1</sup>",
+            "340ms<sup>-1</sup>",
+            "680ms<sup>-1</sup>",
+            "510ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1978,
+        "question": "an object 1cm high placed on the axis 15cm from a converging lens forms an image 30cm from the lens. The size of the image is",
+        "explanation": "\\(\\frac{\\text{image distance}}{\\text{object distance}}\\) = \\(\\frac{\\text{image height}}{\\text{object height}}\\)<br><br>\\(\\frac{30}{15}\\) = \\(\\frac{\\text{image height}}{1}\\)<br><br>image height = 2cm",
+        "correctIndex": 4,
+        "options": [
+            "0.5cm",
+            "1.5cm",
+            "3cm",
+            "2.5m",
+            "2cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1978,
+        "question": "<p>The visible part of light consists of the following colours</p>",
+        "explanation": "<p>The visible colors of white light is given by the acronym: ROYGBIV which stands for Red, Orange, Yellow, Green, Blue, Indigo and Violet.</p>",
+        "correctIndex": 1,
+        "options": [
+            "red, indigo, infra-red, violet, yellow, green and blue",
+            "red, green, blue, violet, indigo, orange and yellow",
+            "blue, ultra-violet, infra-red, red, yellow, indigo, violet,green and orange",
+            "infra-red and ultra-violet",
+            "red, orange, yellow, green, blue, indigo and infra-red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1978,
+        "question": "An object is positioned between two plane mirrors inclined at right angles to each other. The object is 1 unit distance from each mirror, the number of images formed is",
+        "explanation": "No. of image formed = \\(\\frac{360}{\\theta}\\) - 1<br><br>= \\(\\frac{360}{90}\\) - 1<br><br>= 3 images",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1978,
+        "question": "The angular dispersion of a prism depends on",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the index of refraction only",
+            "the angle of incidence as well as the index of refraction",
+            "the angle of incidence only",
+            "the thickness of the prism",
+            "the prism angle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1978,
+        "question": "Which of the following is true for the image formed by a convex mirror? i. the image is always virtual ii. the image is always erect iii. the image lies between pole and focus iv. the image is never magnified v. the focus length is negative",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "i only",
+            "i and ii only",
+            "ii and iii only",
+            "i, ii, iii and iv only",
+            "all five"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1978,
+        "question": "The angular dispersion of a prism depends on",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the index of refraction only",
+            "the angle of incidence as well as the index of refraction",
+            "the angle of incidence only",
+            "the thickness of the prism",
+            "the prism angle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1978,
+        "question": "<p>A string is sustaining a stationary wave when</p>",
+        "explanation": "<p>-Standing waves are produced on a string when equal waves travel in opposite directions.</p><p>-A <strong>stretched string</strong> is fixed at both ends, when it is plucked at mid point, two reflected <strong>waves</strong> of same amplitude and frequency at the ends are travelling in opposite direction and overlap along the length. Then the resultant <strong>waves</strong> are known as the <strong>standing waves</strong> (or) <strong>stationary waves</strong>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "the frequency of the wave is not proportional to the wavelength of the wave",
+            "the amplitude of vibration is always zero",
+            "two equal waves are travelling in opposite directions",
+            "the waves are longitudinal",
+            "the frequency is directly proportional to the length of the string"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1978,
+        "question": "For the correction of myopic defects in the human eye we require",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a convex lens",
+            "a concave lens",
+            "a combination of concave and convex lenses",
+            "a prism",
+            "a concave mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1978,
+        "question": "Of the following which is different from the other?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "x-rays",
+            "gamma-rays",
+            "cathode rays",
+            "ultra violet rays",
+            "infrared rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1978,
+        "question": "The net charge on the atom is zero because",
+        "explanation": "An atom is defined as having the same number of electrons (negative charge), protons (positive charge) and neutrons (no charge). This means that it will have the same amount of negative and positive charge, giving it a net zero charge. On the other hand, an ion has different amount of electrons and protons.",
+        "correctIndex": 1,
+        "options": [
+            "the electrons and the protons that are charged are in the nucleus",
+            "the total charge on the electrons is equal to the total charge on the protons",
+            "the neutrons from a shield around the charged protons",
+            "the number of electrons in an atom is half the number of protons",
+            "A and B above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1978,
+        "question": "The amount of heat required to raise the temperature of a body is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Thermal energy",
+            "thermal conduction",
+            "heat loss",
+            "specific heat capacity",
+            "thermal capacity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1978,
+        "question": "Two lamps are rated 40W and 220V each are connected in series. The total power dissipated in both lamps is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "10W",
+            "20W",
+            "40W",
+            "80W",
+            "None of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17498564904_1978.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "5N",
+            "10N",
+            "15N",
+            "20N",
+            "30N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11665712216_19781.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "18µf",
+            "4µf",
+            "2µf",
+            "12µf",
+            "13µf"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13123928430_19782.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    }
+]

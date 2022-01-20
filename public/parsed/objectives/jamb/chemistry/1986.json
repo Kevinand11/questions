@@ -1,0 +1,755 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1986,
+        "question": "Which of the following salts when dissolved in water will NOT give the corresponding pH value?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "NaHSO<sub>4</sub>, pH &lt; 5",
+            "Na<sub>2</sub>CO<sub>3</sub>, pH &gt; 8",
+            "Na<sub>2</sub>Cl,pH = 7",
+            "NaHCO<sub3 sub>, pH &lt; 6\n</sub3>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1986,
+        "question": "Which of the following is an acidic salt?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "NaHSO<sub>4</sub>",
+            "Na<sub>2</sub>SO<sub>4</sub>",
+            "CH<sub>3</sub>CO<sub>2</sub>Na",
+            "Na<sub>2</sub>S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1986,
+        "question": "Which of the following solutions will conduct the least amount of electricity?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2.00 M aqueous solution of NaOH",
+            "0.01 M aqueous solution of NaOH",
+            "0.01 M aqueous solution of hexanoic acid",
+            "0.01 M aqueous solution of sugar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1986,
+        "question": "How many coulombs of electricity are passed through a solution in which 6.5 amperes are allowed to run for 1.0 hour?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "3.90 x 10<sup>2</sup>coulombs",
+            "5.50 x 10<sup>3</sup>coulombs",
+            "6.54 x 10<sup>3</sup>coulombs",
+            "2.34 x 10<sup>4</sup>coulombs"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1986,
+        "question": "Which of these represents a redox reaction?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "AgNO<sub>3</sub>+ NaCl → AgCAl + NaNO<sub>3</sub>",
+            "H<sub>2</sub>S + Pb(NO<sub>3</sub>) → PbS + 2HNO<sub>3</sub>",
+            "CaCO<sub>3</sub>→ CaO + CO<sub>2</sub>",
+            "Zn + 2HCl → ZnCl<sub>2</sub>+ H<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1986,
+        "question": "20 cm<sup>3</sup>of 1.0 molar NH<sub>4</sub>OH solution when neutralized with 20.05cm<sup>3</sup>of 0.1 molar HCl liberated -102 joules of heat. Calculate the heat of neutralization of NH<sub>4</sub>OH?",
+        "explanation": "NH<sub>4</sub>OH = 20cm of 0.1 m<br>NH<sub>4</sub>+ HCl → NH<sub>4</sub>Cl = H<sub>2</sub>O<br>Heat of Neutralization of NH<sub>4</sub>OH<br>= \\(\\frac{-102}{2}\\) = -51.0 KJ mole<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "-51.O KJ mol<sup>-</sup>",
+            "+57.3 KJ mol<sup>-</sup>",
+            "+57.O KJ mol<sup>-</sup>",
+            "+51.0 KJ mol<sup>-</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1986,
+        "question": "What is the consequences of increasing pressure on the equilibrium reaction ZnO<sub>(s)</sub>+ H<sub>2(g)</sub>Zn<sub>(s)</sub>+ H<sub>2</sub>O<sub>(I)</sub>?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "The equilibrium is driven to the left",
+            "The equilibrium is driven to the right",
+            "There is no effect",
+            "More ZnO is produced"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1986,
+        "question": "The approximate volume of air containing 10cm<sup>3</sup>of oxygen is?",
+        "explanation": "Volume of air containing 10 cm O<sub>2</sub>is<br>(100 x 10)/(20) = 50cm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "20 cm<sup>3</sup>",
+            "25 cm<sup>3</sup>",
+            "50 cm<sup>3</sup>",
+            "100 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1986,
+        "question": "The reaction Mg + H<sub>2</sub>O → MgO + H<sub>2</sub>takes place only in the presence of?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "excess Mg ribbon",
+            "excess cold water",
+            "very hot water",
+            "steam"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1986,
+        "question": "When steam is passed through red hot carbon, which of the following are produced?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Hydrogen oxygen and carbon (IV) oxide",
+            "Hydrogen and carbon (IV) oxide",
+            "Hydrogen and carbon (II) oxide",
+            "Hydrogen and trioxocarbonate (IV) acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1986,
+        "question": "The exhaust fumes from a garage in a place that uses petrol of high sulphur content are bound to contain?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CO and SO<sub>3</sub>",
+            "CO and SO<sub>2</sub>",
+            "CO,SO<sub>2</sub>and SO<sub>3</sub>",
+            "CO and H<sub>2</sub>S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1986,
+        "question": "Oxygen-demanding waste are considered to be a water pollutant because they?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "deplete oxygen which is necessary for the survival of aquatic organism",
+            "increase oxygen which is necessary for survival of aquatic organism",
+            "increase other gaseous substances which are necessary for the survival of aquatic organisms",
+            "deplete other gaseous species which is necessary for the survival of aquatic organisms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1986,
+        "question": "Which of the following will react further with oxygen to form higher oxide?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "NO and H<sub>2</sub>O",
+            "CO and CO<sub>2</sub>",
+            "SO<sub>2</sub>and NO",
+            "CO<sub>2</sub>and H<sub>2</sub>O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1986,
+        "question": "In the course of an experiment, two gases X and Y were produced. X turned wet lead ethanoate to black and Y bleached moist litmus paper. What are the element(s) in each of the gases X and Y respectively?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "H and S;Cl",
+            "H and O;Cl",
+            "H and S;C and O",
+            "H and Cl;S and O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1986,
+        "question": "Which of the following metals does NOT form a stable trioxocarbonate (IV)?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Fe",
+            "Al",
+            "Zn",
+            "Pb",
+            "none of the options is correct"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1986,
+        "question": "Which of the following sulphides is insoluble in dilute HCl?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Na<sub>2</sub>S",
+            "ZnS",
+            "CuS",
+            "FeS"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1986,
+        "question": "When chlorine is passed into water and subsequently exposed to sunlight, the gas evolved is?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "HCl",
+            "HOCl",
+            "O<sub>2</sub>",
+            "Cl<sub>2</sub>O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1986,
+        "question": "A substance Z reacts with NaOH to give salt and water only. When Z is treated with dilute HCl, a gas is evolved which gives a yellow suspension on passing into concentrated H<sub>2</sub>SO<sub>4</sub>. Substance Z is?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "NaHS",
+            "Na<sub>2</sub>SO<sub>3</sub>",
+            "Na<sub>2</sub>S",
+            "NaHSO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1986,
+        "question": "Ammonia gas is normally dried with?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "concentrated sulphuric acid",
+            "quicklime",
+            "anhydrous calcium chloride",
+            "magnesium sulphate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1986,
+        "question": "What are the values of x, y and z respectively in the equation: xCu + yHNO<sub>3</sub>→ xCu(NO<sub>3</sub>)<sub>2</sub>+ 4H<sub>2</sub>O + zNO?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "4: 1: 2",
+            "3:8:2",
+            "2:8:3",
+            "8:3:2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1986,
+        "question": "The iron (III) oxide impurity in bauxite can be removed by?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Fractional crystallization in acid solution",
+            "dissolution in sodium hydroxide and filtration",
+            "extraction with concentrated ammonia and reprecipitation",
+            "electroysis of molten mixture"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1986,
+        "question": "<p>Which of the following does NOT contain aluminium as component?</p>",
+        "explanation": "<p>Sodium Hydroxide reacts with metals, such as Aluminium, Lead, Tin and Zinc, to form flammable and explosive Hydrogen gas. Hence, Aluminium cannot be used as a component for storing caustic soda.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Over-head cables",
+            "Duralumin",
+            "Container for caustic soda",
+            "Container for nitric acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1986,
+        "question": "A white solid suspected to be lead trioxonitrate (V) zinc trioxocarbonate (IV) or calcium trioxocabonate (IV) was heated strongly. Its residue which was yellow when hot and white when cold is?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "lead (II) oxide",
+            "calcium oxide",
+            "zinc oxide",
+            "lead nitrate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1986,
+        "question": "Which of the following compounds would give lilac flame coloration and a white precipitate with acidified barium chloride solution?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "KCI",
+            "NaNO<sub>3</sub>",
+            "K<sub>2</sub>SO<sub>4</sub>",
+            "CaSO<sub>4</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1986,
+        "question": "How will a metal X, which reacts explosively with air and with dilute acids be best extracted from its ores?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Electrolysis of solution of its salts",
+            "Decomposition of its oxides",
+            "Displacement from solution by an alkali metal",
+            "Electroiysis of fused salt"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1986,
+        "question": "Which of the following is NOT correct test for the named organic compound in each case?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Butanoic acid solution gives effervescence with Na<sub>2</sub>CO<sub>3</sub>solution",
+            "Glucose when reacted with Na<sub>2</sub>CrO<sub>4</sub>at 0°C will show immediate discharge of colour",
+            "When but-2-ene is reacted with dilute solution of KMnO<sub>4</sub>the purple colour of KMnO is discharged readily even room temperature",
+            "When butan-2-ol is boiled with butanoic acid with a drop of concentrated H<sub>2</sub>SO<sub>4</sub>a sweet smelling liquid is produced"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1986,
+        "question": "Which of the following is used as an 'anti-knock' in automobile engines?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Tetramethyl silane",
+            "Lead tetra-ethyl",
+            "Glycerol",
+            "n-heptane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1986,
+        "question": "What reaction takes place when palm-oil is added to potash and foam are observed?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Neutralization",
+            "Saponification",
+            "Esterification",
+            "Salting-out"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1986,
+        "question": "When ethanol is heated with excess concentrated sulphuric acid, the ethanol is?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "oxidized to ethene",
+            "polymerized to polyethene",
+            "dehydrated to ethene",
+            "dehydrated to ethyne"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1986,
+        "question": "Which of the following compounds is NOT formed by the action of chlorine on methane?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CH<sub>3</sub>CI",
+            "C<sub>2</sub>H<sub>5</sub>CI",
+            "CH<sub>2</sub>CI<sub>2</sub>",
+            "CHCI<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1986,
+        "question": "Which of the following substance is a mixture?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Granulated sugar",
+            "Sea-water",
+            "Sodium chloride",
+            "Iron fillings"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1986,
+        "question": "The general formula of an alkyl halide (where X represents the halide) is?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "C<sub>n</sub>H<sub>2n</sub><sub>2</sub>X",
+            "C<sub>n</sub>H<sub>2n</sub>+<sub>1</sub>X",
+            "C<sub>n</sub>H<sub>2n</sub>+<sub>2</sub>X",
+            "C<sub>n</sub>H<sub>2n</sub>X"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1986,
+        "question": "Which of the following are made by the process of polymerization?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Nylon and soap",
+            "Nylon and artificial rubber",
+            "Soap and butane",
+            "Margarine and nylon"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1986,
+        "question": "Starch can be converted to ethyl alcohol by?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "distillation",
+            "fermentation",
+            "isomerization",
+            "cracking"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1986,
+        "question": "The movement of liquid molecules from the surface of the liquid to the gaseous phase above it is known as?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Brownian movement",
+            "condensation",
+            "evaporation",
+            "liquefaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1986,
+        "question": "What mass of a divalent metal M (atomic mass = 40) would react with excess hydrogen gas measured at S.T.P?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "8.0 g",
+            "4.0 g",
+            "0.8 g",
+            "0.4 g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1986,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25636834008_ch.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "51.5",
+            "45.5",
+            "34.5",
+            "26.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1986,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7121348500_mm.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "SO<sup>2-</sup>OH<sup>-</sup>",
+            "K<sup>+</sup>and SO<sub>4</sub><sup>2-</sup>",
+            "OH and HO",
+            "H<sub>3</sub>O<sup>+</sup>and K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1986,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22788347888_mmo.jpg\" class=\"img-fluid\">",
+        "explanation": "The ratio of permanent to temporary hardness will be 20:(20 - 15)<br><br>= 20:5<br><br>= 4:1",
+        "correctIndex": 2,
+        "options": [
+            "1.5",
+            "1.4",
+            "4.1",
+            "5.1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1986,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2848544628_my2.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1986,
+        "question": "10cm<sup>3</sup>of hydrogen fluoride gas react with 5cm<sup>3</sup>of dinitrogen difluoride gas (N<sup>2</sup>F<sub>2</sub>) to form 10<sub>3</sub>of a single gas. Which of the following is the most likely equation of the reaction?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "HF + N<sub>2</sub>F<sub>2</sub>\\(\\to\\) N<sub>2</sub>HF<sub>3</sub>",
+            "2HF + N<sub>2</sub>F<sub>2</sub>\\(\\to\\) 2NHF<sub>2</sub>",
+            "2HF + N<sub>2</sub>F<sub>2</sub>\\(\\to\\) N<sub>2</sub>H<sub>2</sub>F<sub>3</sub>",
+            "HF + 2N<sub>2</sub>F<sub>2</sub>\\(\\to\\) N<sub>4</sub>HF<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1986,
+        "question": "The number of atoms of chlorine present in 5.85g of NaCl is [Avogaro's Number = 6.02 x 10<sup>23</sup>]",
+        "explanation": "The number of atoms of chloride present in 5.85g of NaCl is 5.85 x 6.0 x 10<sup>23</sup><br><br>= 6.02 x 10<sup>22</sup>",
+        "correctIndex": 0,
+        "options": [
+            "6.02 x 10<sup>22</sup>",
+            "5.85 x 10<sup>23</sup>",
+            "6.02 x 10<sup>23</sup>",
+            "5.85 x 10<sup>24</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1986,
+        "question": "How much of magnesium is required to react with 260cm<sup>3</sup>of 0.5 M HCl? [Mg = 24]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.3g",
+            "1.5g",
+            "2.4g",
+            "3.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1986,
+        "question": "<p>The relationship between the velocity (U) of gas molecules and their relative molecular mass (M) is shown by the equation</p>",
+        "explanation": "<p>The relationship between (U) of a gas molecule and the relative molecular mass is \\(\\bar{U}\\) = (\\(\\frac{k}{m}\\))\\(^{\\frac{1}{2}}\\)<br>\n<br>\nor \\(\\bar{U}\\) = \\(\\sqrt{\\frac{k}{m}}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "U = (kM)\\(\\frac{1}{2}\\)",
+            "U = (kM)<sup>2</sup>",
+            "U = \\(\\sqrt{\\frac{k}{m}}\\)",
+            "U = \\(\\frac{k}{m}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1986,
+        "question": "An element with atomic number twelve is likely to be",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "electrovalent with a velocity of 1",
+            "electrovalent with a valency of 2",
+            "covalent with a valency of 2",
+            "covalent with valency of 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1986,
+        "question": "<p>Which of the following groups of physical properties increases from left to right of the periodic table?</p><p>i. Ionization energy ii. Atomic radius iii. Electronegativity iv. Electron affinity</p>",
+        "explanation": "<p><strong>Atomic radius</strong> is the distance from the <strong>atom's</strong> nucleus to the outer edge of the electron cloud. In general, <strong>atomic radius</strong> decreases across a period and <strong>increases</strong> down a group. </p>",
+        "correctIndex": 3,
+        "options": [
+            "i and ii",
+            "i, ii and iii",
+            "iii and iv",
+            "i, iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1986,
+        "question": "When 50cm<sup>3</sup>of a saturated solution of sugar (molar mass 342.0g) at 40<sup>o</sup>C was evaporated to dryness, 34.2g of dry solid was obtained. The solubility of sugar at 40<sup>o</sup>C is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "10.0 moles dm<sup>-3</sup>",
+            "7.0 moles dm<sup>-3</sup>",
+            "3.5 moles dm<sup>-3</sup>",
+            "2.0 moles dm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    }
+]

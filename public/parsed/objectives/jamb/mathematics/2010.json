@@ -1,0 +1,802 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2010,
+        "question": "Evaluate \\(\\left(\\frac{81}{16}\\right)^{\\frac{-1}{4}}\\times 2^{-1}\\)",
+        "explanation": "\\(\\left(\\frac{81}{16}\\right)^{\\frac{-1}{4}}\\times 2^{-1}=\\frac{1}{\\left(\\frac{81}{16}\\right)^{\\frac{1}{4}}}\\times \\frac{1}{2}\\\\<br>=\\left(\\frac{16}{81}\\right)^{\\frac{1}{4}}\\times \\frac{1}{2}\\\\<br>=\\left(\\frac{2}{3}\\right)^{4\\times \\frac{1}{4}}\\\\<br>=\\frac{2}{3}\\times \\frac{1}{2}\\\\<br>=\\frac{1}{3}\\)",
+        "correctIndex": 0,
+        "options": [
+            "<sup>1</sup>/<sub>3</sub>",
+            "3",
+            "6",
+            "<sup>1</sup>/<sub>6</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2010,
+        "question": "<p>Rationalize \\(\\frac{2\\sqrt{3} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}}\\)</p>",
+        "explanation": "<p>\\(\\frac{2\\sqrt{3} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}}\\)</p><p>= \\((\\frac{2\\sqrt{3} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}})(\\frac{\\sqrt{5} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}})\\)</p><p>= \\(\\frac{2\\sqrt{15} + 6 + 5 + \\sqrt{15}}{5 - 3}\\)</p><p>= \\(\\frac{3\\sqrt{15} + 11}{2}\\)</p><p> </p><p> </p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "<span style=\"white-space: nowrap; font-size:larger\">(3 √<span style=\"text-decoration:overline;\"> 15 </span>+11) / 2 </span>",
+            "<span style=\"white-space: nowrap; font-size:larger\">3 √<span style=\"text-decoration:overline;\"> 15 </span>-11 </span>",
+            "<span style=\"white-space: nowrap; font-size:larger\">(3 √<span style=\"text-decoration:overline;\"> 15 </span>-11) / 2 </span>",
+            "<span style=\"white-space: nowrap; font-size:larger\">3 √<span style=\"text-decoration:overline;\"> 15 </span>+11 </span>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2010,
+        "question": "Express the product of 0.21 and 0.34 in standard form",
+        "explanation": "0.21 x 0.34 = 0.0714<br>= 7.14 x 10<sup>-2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "7.14 x 10<sup>-3</sup>",
+            "7.14 x 10<sup>-2</sup>",
+            "7.14 x 10<sup>-1</sup>",
+            "7.14 x 10<sup>-4</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2010,
+        "question": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/1357657709_math201012.jpg\" class=\"img-fluid\">\n</div>Let C n G =<i>X</i><br>n C only = 40 - x<br>n G only = 30 - x<br>40 -<i>X</i>+ 30 -<i>X</i>= 50<br>70 -<i>X</i>= 50<br><i>X</i>= 70 - 50<br><i>X</i>= 20",
+        "correctIndex": 3,
+        "options": [
+            "10",
+            "5",
+            "15",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2010,
+        "question": "<p> Factorize completely \\(\\frac{x^{3} + 3x^{2} - 10x}{2x^{2} - 8}\\)</p>",
+        "explanation": "<p>\\(\\frac{x^{3} + 3x^{2} - 10x}{2x^{2} - 8} = \\frac{x(x^{2} + 3x - 10)}{2(x^{2} - 4)}\\)</p><p>= \\(\\frac{x(x^{2} - 2x + 5x - 10)}{2(x - 2)(x + 2)}\\)</p><p>= \\(\\frac{x(x - 2)(x + 5)}{2(x - 2)(x + 2)}\\)</p><p>= \\(\\frac{x(x + 5)}{2(x + 2)}\\)</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "<table><tbody><tr><td style=\"border-bottom:solid 1px\">x(x-5)</td></tr><tr><td>2(x+2)</td></tr></tbody></table>",
+            "<table><tbody><tr><td style=\"border-bottom:solid 1px\">x(x-5)</td></tr><tr><td>2(x-2)</td></tr></tbody></table>",
+            "<table><tbody><tr><td style=\"border-bottom:solid 1px\">x(x+5)</td></tr><tr><td>2(x+2)</td></tr></tbody></table>",
+            "<table><tbody><tr><td style=\"border-bottom:solid 1px\">x<sup>2</sup>+5</td></tr><tr><td>2x+4</td></tr></tbody></table>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2010,
+        "question": "If<i>y</i>varies directly as the square root of<i>x</i>and<i>y</i>= 3 when<i>x</i>= 16. Calculate<i>y</i>when<i>x</i>= 64",
+        "explanation": "<i>y</i>∝ √<i>x</i><br><i>y</i>= K√<i>x</i><br>K =<sup><i>y</i></sup>/<sub>√<i>x</i></sub>=<sup>3</sup>/<sub>√16</sub><br>=<sup>3</sup>/<sub>4</sub><br><i>y</i>=<sup>3</sup>/<sub>4</sub>√<i>x</i><br>=<sup>3</sup>/<sub>4</sub>√64 when x = 64<br>=<sup>3</sup>/<sub>4</sub>x<sup>8</sup>/<sub>1</sub><br>= 6",
+        "correctIndex": 1,
+        "options": [
+            "12",
+            "6",
+            "3",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2010,
+        "question": "If<i>x * y</i>=<i>x + y</i><sup>2</sup>, find then value of (2*3)*5",
+        "explanation": "<i>x * y</i>=<i>x + y</i><sup>2</sup><br>2 * 3 = 2 + 3<sup>2</sup><br>= 2 + 9<br>= 11<br>(2 * 3) * 5 = 11 + 5<sup>2</sup><br>= 11 + 25<br>= 36",
+        "correctIndex": 0,
+        "options": [
+            "36",
+            "25",
+            "11",
+            "55"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2010,
+        "question": "<p>If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?</p>",
+        "explanation": "<p>If 18(p + q) = (18 + p)q</p><p>then 18p + 18q = 18q + pq</p><p>18p = pq \\(\\implies\\) q = 18.</p>",
+        "correctIndex": 0,
+        "options": [
+            "q = 18",
+            "p &lt;1",
+            "p = 18",
+            "q &lt; 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2010,
+        "question": "<p>If \\(\\begin{vmatrix} x &amp; 3 \\\\ 2 &amp; 7 \\end{vmatrix} = 15\\), find the value of x</p>",
+        "explanation": "<p>\\(\\begin{vmatrix} x &amp; 3 \\\\ 2 &amp; 7 \\end{vmatrix} = 15\\)<br>\n<em>x</em> x 7 - 2 x 3 = 15<br>\n7<em>x</em> - 6 = 15<br>\n7<em>x</em> = 15+6<br>\n7<em>x</em> = 21<br>\n<em>x</em> = 21/7<br>\n<em>x</em> = 3</p>",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "4",
+            "5",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21722975424_maths201028.jpg\" class=\"img-fluid\">",
+        "explanation": "∠RTS = 90<sup>o</sup>(∠ in semi circle)<br>∠UTS = 25<sup>o</sup>(∠ in alternate segment)<br><i>X</i>+ 90 + 25 = 180(sum of ∠s on a str line)<br><i>X</i>+ 115 = 180<br><i>X</i>= 180 - 115<br><i>X</i>= 65<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "65<sup>o</sup>",
+            "50<sup>o</sup>",
+            "75<sup>o</sup>",
+            "55<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10862098312_math201030.jpg\" class=\"img-fluid\">",
+        "explanation": "TUVW is a cyclic quad<br>3<i>χ</i>+ 20 + 88 = 180 (opp ∠ s of a cyclic quad are supplementary)<br>3<i>χ</i>+ 108 = 180<br>3<i>χ</i>= 180 - 108<br>3<i>χ</i>= 72<br><i>χ</i>=<sup>72</sup>/<sub>3</sub><br><i>χ</i>= 24<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "26<sup>o</sup>",
+            "24<sup>o</sup>",
+            "20<sup>o</sup>",
+            "23<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2010,
+        "question": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24439729914_math201031a.jpg\" class=\"img-fluid\">\n</div>Area of a triangle =<sup>1</sup>/<sub>2</sub>base x height<br>=<sup>1</sup>/<sub>2</sub>x 4 x 5<br>= 10 cm<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "10 cm<sup>2</sup>",
+            "6 cm<sup>2</sup>",
+            "24 cm<sup>2</sup>",
+            "8 cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2010,
+        "question": "An arc subtends an angle of 50<sup>o</sup>at the center of circle of radius 6cm. Calculate the area of the sector formed",
+        "explanation": "<table><tbody><tr><td rowspan=\"2\">Area of a sector = </td><td style=\"border-bottom:solid 1px\"> θ </td><td rowspan=\"2\"> x πr<sup>2</sup></td></tr><tr><td>360</td></tr></tbody></table><br>=<sup>50</sup>/<sub>360</sub>x<sup>22</sup>/<sub>7</sub>x<sup>36</sup>/<sub>1</sub><br>=<sup>110</sup>/<sub>7</sub>",
+        "correctIndex": 2,
+        "options": [
+            "<sup>100</sup>/<sub>7</sub>",
+            "<sup>80</sup>/<sub>7</sub>",
+            "<sup>110</sup>/<sub>7</sub>",
+            "<sup>90</sup>/<sub>7</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2010,
+        "question": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8146629642_math201034.jpg\" class=\"img-fluid\">\n</div>Locus of a point equidistant from two fixed points is the perpendicular bisector of the straight line joining the points Gradients of PQ = (5-3 / 3-1) =<sup>2</sup>/<sub>2</sub>= 1<br>Gradient bisector = -1<br>Equation of perpendicular bisector<br><i>y - y<sub>1</sub></i>= m(<i>χ - χ<sub>1</sub></i><br><i>y</i>- 4 = -<i>χ</i>+ 2<br><i>y</i>=<i>-χ</i>+ 6",
+        "correctIndex": 0,
+        "options": [
+            "<i>y</i>= -<i>χ</i>+ 6",
+            "<i>y</i>= -<i>χ</i>- 6",
+            "<i>y</i>=<i>χ</i>+ 6",
+            "<i>y</i>=<i>χ</i>- 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25797722910_math201039.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of a triangle =<sup>1</sup>/<sub>2</sub>ab Sinθ<br>12√3 =<sup>1</sup>/<sub>2</sub>x 8 x q sin 60<br>12√3 = 4 x q x<sup>√3</sup>/<sub>2</sub><br>12√3 = 2q√3<br><table><tbody><tr><td rowspan=\"2\">q =</td><td style=\"border-bottom:solid 1px\">12√3</td></tr><tr><td>2√3</td></tr></tbody></table><br>q = 6",
+        "correctIndex": 0,
+        "options": [
+            "6 cm",
+            "7 cm",
+            "8 cm",
+            "5 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2010,
+        "question": "If y = (2x + 1)<sup>3</sup>find dy/dx",
+        "explanation": "y = (2x + 1)<sup>3</sup><br>dy/dx = 3(2x + 1)<sup>3-1</sup>x 2<br>= 3(2x + 1)<sup>2</sup>x 2<br>= 6(2x + 1)<sup>2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "3(2x+1)<sup>2</sup>",
+            "6(2x+1)",
+            "3(2x+1)",
+            "6(2x+1)<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2010,
+        "question": "Find ∫(sin x + 2)dx",
+        "explanation": "∫(sin χ + 2)dχ = (∫sin χ + ∫2)dx<br>= -cos χ + 2χ + K",
+        "correctIndex": 3,
+        "options": [
+            "cos x + x<sup>2</sup>+ K",
+            "cos x 2x + K",
+            "-cos x + x<sup>2</sup>+ K",
+            "-cos x + 2x + K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2010,
+        "question": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n</tr>\n<tr>\n<td>No. of students</td>\n<td>3</td>\n<td>1</td>\n<td>5</td>\n<td>2</td>\n<td>4</td>\n<td>2</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p><br>\nfrom the table above, if the pass mark is 5, how many students failed the test?</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>Number of students</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>3</td>\n<td>1</td>\n</tr>\n<tr>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>9</td>\n</tr>\n</tbody>\n</table>",
+        "correctIndex": 3,
+        "options": [
+            "6",
+            "2",
+            "7",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2010,
+        "question": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>2</td>\n<td>2</td>\n<td>8</td>\n<td>4</td>\n<td>4</td>\n</tr>\n</tbody>\n</table><p><br>\nThe table above show the marks obtained in a given test.<br>\nHow many student took the test?</p>",
+        "explanation": "<p>∑<em>f</em> = 2 + 2 + 8 + 4 + 4<br>\n= 20</p>",
+        "correctIndex": 2,
+        "options": [
+            "16",
+            "13",
+            "20",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2010,
+        "question": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>2</td>\n<td>2</td>\n<td>8</td>\n<td>4</td>\n<td>4</td>\n</tr>\n</tbody>\n</table><p><br>\nThe table above show the marks obtained in a given test.<br>\nFind the mean mark</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td>Mark(χ)</td>\n<td><em>f</em></td>\n<td><em>fχ</em></td>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>8</td>\n<td>24</td>\n</tr>\n<tr>\n<td>4</td>\n<td>4</td>\n<td>16</td>\n</tr>\n<tr>\n<td>5</td>\n<td>4</td>\n<td>20</td>\n</tr>\n<tr>\n<td> </td>\n<td>∑<em>f</em> = 20</td>\n<td>∑<em>fχ</em> = 66</td>\n</tr>\n</tbody>\n</table><p> </p><table>\n</table><p> </p><p> \\(Mean = \\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{66}{20}\\)</p><p>= 3.3</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "3.1",
+            "3.0",
+            "3.2",
+            "3.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2010,
+        "question": "Find r, if 6r7<sub>8</sub>= 511<sub>9</sub>",
+        "explanation": "6r7<sub>8</sub>= 511<sub>9</sub><br><br>6 x 8<sup>2</sup>+ r x 8<sup>1</sup>+ 7 x 8<sup>o</sup>= 5 x 9<sup>2</sup>+ 1 x 9<sup>1</sup>+ 1 x 9<sup>o</sup><br><br>6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1<br><br>384 + 8r + 7 = 405 + 9 + 1<br><br>391 + 8r = 24<br><br>r = \\(\\frac{24}{8}\\)<br><br>= 3",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "2",
+            "6",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2010,
+        "question": "<p>Simplify (\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)</p>",
+        "explanation": "<p>(\\(\\frac{3}{4}\\) of \\(\\frac{4}{9}\\) \\(\\div\\) 9\\(\\frac{1}{2}\\)) \\(\\div\\) 1\\(\\frac{5}{19}\\)<br>\n<br>\nApplying the rule of BODMAS, we have:<br>\n<br>\n(\\(\\frac{3}{4}\\) x \\(\\frac{4}{9}\\) \\(\\div\\)\\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\)<br>\n<br>\n(\\(\\frac{3}{9}\\) \\(\\div\\) \\(\\frac{19}{2}\\)) \\(\\div\\)\\(\\frac{24}{19}\\) = (\\(\\frac{3}{9}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\)<br>\n<br>\n(\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\)) \\(\\div\\)\\(\\frac{24}{19}\\)<br>\n<br>\n\\(\\frac{1}{3}\\) x \\(\\frac{2}{19}\\) x \\(\\frac{19}{24}\\)<br>\n<br>\n= \\(\\frac{1}{36}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{1}{36}\\)",
+            "\\(\\frac{1}{25}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2010,
+        "question": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope was 1.25m, what was the percentage error in the measurement?",
+        "explanation": "Actual length of rope = 1.25m<br><br>Measured length of rope = 1.26m<br><br>error = (1.26 - 1.25)m - 0.01m<br><br>Percentage error = \\(\\frac{error}{\\text{actual length}}\\) x 100%<br><br>= \\(\\frac{0.01}{1.25}\\) x 100%<br><br>= 0.08%",
+        "correctIndex": 2,
+        "options": [
+            "0.25%",
+            "0.01%",
+            "0.80%",
+            "0.40%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2010,
+        "question": "At what rate will the interest on N400 increases to N24 in 3 years reckoning in simple interest?",
+        "explanation": "Using simple interest = \\(\\frac{P \\times T \\times R}{100}\\),<br><br>where: P denoted principal = N400<br>T denotes time = 3 years<br>R denotes interest rate = ?<br><br>24 = \\(\\frac{400 \\times 3 \\times R}{100}\\)<br><br>24 x 100 = 400 x 3 x R<br><br>R = \\(\\frac{24 \\times 100}{400 \\times3}\\)<br><br>= 2%",
+        "correctIndex": 1,
+        "options": [
+            "3%",
+            "2%",
+            "5%",
+            "4%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2010,
+        "question": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\) and q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), find p : q : r",
+        "explanation": "If p : q = \\(\\frac{2}{3}\\) : \\(\\frac{5}{6}\\), then the sum S<sub>1</sub>of ratio = \\(\\frac{2}{3}\\) + \\(\\frac{5}{6}\\) = \\(\\frac{9}{6}\\)<br><br>If q : r = \\(\\frac{3}{4}\\) : \\(\\frac{1}{2}\\), then the sum S<sub>2</sub>of ratio = \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{4}\\)<br><br>Let p + q = T<sub>1</sub>, then<br><br>q = (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T<sub>1</sub>= (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))T<sub>1</sub>= \\(\\frac{5}{9}\\)T<sub>1</sub><br><br>Again, let q + r = T<sub>2</sub>, then<br><br>q = (\\(\\frac{3}{4} \\div \\frac{5}{4}\\))T<sub>2</sub>= (\\(\\frac{3}{4} \\times \\frac{4}{5}\\))T<sub>2</sub>= \\(\\frac{3}{5}\\)T<sub>2</sub><br><br>Using q = q<br><br>\\(\\frac{5}{9}\\)T<sub>1</sub>= \\(\\frac{3}{5}\\)T<sub>2</sub><br><br>5 x 5T<sub>1</sub>= 9 x 3T<sub>2</sub><br><br>\\(\\frac{T_1}{T_2}\\) = \\(\\frac{9 \\times 3}{5 x 5}\\) = \\(\\frac{27}{5}\\)<br><br>Giving that, T<sub>1</sub>= 27 and T<sub>2</sub>= 25<br><br>P = (\\(\\frac{2}{3} \\div S_1\\))T<sub>1</sub>= (\\(\\frac{2}{3} \\div \\frac{9}{6}\\))T<sub>1</sub><br><br>= (\\(\\frac{2}{3} \\times \\frac{6}{9}\\))27 = 12<br><br>q = (\\(\\frac{5}{6} \\div S_1\\))T<sub>1</sub>= (\\(\\frac{5}{6} \\div \\frac{9}{6}\\))T<sub>1</sub><br><br>= (\\(\\frac{5}{6} \\times \\frac{6}{9}\\))27 = 15<br><br>and r = (\\(\\frac{1}{2} \\div S_2\\))T<sub>2</sub>= (\\(\\frac{1}{2} \\div \\frac{5}{4}\\))T<sub>2</sub><br><br>= (\\(\\frac{1}{2} \\times \\frac{4}{5}\\))25 = 10<br><br>Hence p : q : r = 12: 15 : 10",
+        "correctIndex": 0,
+        "options": [
+            "12 : 15 : 10",
+            "12 : 15 : 16",
+            "10 : 15 : 24",
+            "9 : 10 : 15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2010,
+        "question": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
+        "explanation": "3rd term : a + 2d = -9 .......(1)<br>7th term : a + 6d = -29 ......(2)<br>(2) - (1): 4d = -20<br>:. d =<sup>-20/</sup><sub>4</sub>= -5<br>From (1) : a + 2(-5) = -9<br>a - 10 = -9<br>:. a = -9 + 10 = 1<br>:. 10th term of A.P is a + 9d = 1 + 9 (-5)<br>= 1 - 45 = -44",
+        "correctIndex": 0,
+        "options": [
+            "-44",
+            "-165",
+            "165",
+            "44"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2010,
+        "question": "At what value of X does the function y = -3 - 2x + X<sup>2</sup>attain a minimum value?",
+        "explanation": "Given that y = -3 - 2x + X<sup>2</sup><br><br>then, \\(\\frac{dy}{dx}\\) = -2 + 2x<br><br>At maximum value, \\(\\frac{dy}{dx}\\) = O<br><br>therefore, -2 + 2x<br><br>2x = 2<br><br>x =<sup>2</sup>/<sub>2</sub>= 1",
+        "correctIndex": 3,
+        "options": [
+            "-1",
+            "14",
+            "4",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2010,
+        "question": "Find the equation of a line parallel to y = -4x + 2 passing through (2,3)",
+        "explanation": "By comparing y = mx + c<br><br>with y = -4x + 2,<br><br>the gradient of y = -4x + 2 is m<sub>1</sub>= -4<br><br>let the gradient of the line parallel to the given line be m<sub>2</sub>,<br><br>then, m<sub>2</sub>= m<sub>1</sub>= -4<br><br>(condition for parallelism)<br><br>using, y - y<sub>1</sub>= m<sub>2</sub>(x - x<sub>1</sub>)<br><br>Hence the equation of the parallel line is<br><br>y - 3 = -4(x-2)<br><br>y - 3 = -4 x + 8<br><br>y + 4x = 8 + 3<br><br>y + 4x = 11<br><br>y + 4x - 11 = 0",
+        "correctIndex": 2,
+        "options": [
+            "y + 4x + 11 = 0",
+            "y - 4x - 11 = 0",
+            "y + 4x - 11 = 0",
+            "y - 4x + 11 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2010,
+        "question": "Make Q the subject of formula if p = \\(\\frac{M}{5}\\)(X + Q) + 1",
+        "explanation": "p = \\(\\frac{M}{5}\\)(X + Q) + 1<br><br>P - 1 = \\(\\frac{M}{5}\\)(X + Q)<br><br>\\(\\frac{5}{M}\\)(p - 1) = X + Q<br><br>\\(\\frac{5}{M}\\)(p - 1)- x = Q<br><br>Q = \\(\\frac{5(p -1) - Mx}{M}\\)<br><br>= \\(\\frac{5p - 5 - Mx}{M}\\)<br><br>= \\(\\frac{5p - Mx - 5}{M}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{5P - MX + 5}{M}\\)",
+            "\\(\\frac{5P - MX - 5}{M}\\)",
+            "\\(\\frac{5P + MX + 5}{M}\\)",
+            "\\(\\frac{5P + MX - 5}{M}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2010,
+        "question": "If 9x<sup>2</sup>+ 6xy + 4y<sup>2</sup>is a factor of 27x<sup>3</sup>- 8y<sup>3</sup>, find the other factor.",
+        "explanation": "27x<sup>3</sup>- 8y<sup>3</sup>= (3x - 2y)<sup>3</sup><br><br>But 9x<sup>2</sup>+ 6xy + 4y<sup>2</sup>= (3x +2y)<sup>2</sup><br><br>So, 27x<sup>3</sup>- 8y<sup>3</sup>= (3x - 2y)(3x - 2y)<sup>2</sup><br><br>Hence the other factor is 3x - 2y",
+        "correctIndex": 3,
+        "options": [
+            "2y + 3x",
+            "2y - 3x",
+            "3x + 2y",
+            "3x - 2y"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2010,
+        "question": "Solve for x and y if x - y = 2 and x<sup>2</sup>- y<sup>2</sup>= 8",
+        "explanation": "x - y = 2 ...........(1)<br><br>x<sup>2</sup>- y<sup>2</sup>= 8 ........... (2)<br><br>x - 2 = y ............ (3)<br><br>Put y = x -2 in (2)<br><br>x<sup>2</sup>- (x - 2)<sup>2</sup>= 8<br><br>x<sup>2</sup>- (x<sup>2</sup>- 4x + 4) = 8<br><br>x<sup>2</sup>- x<sup>2</sup>+ 4x - 4 = 8<br><br>4x = 8 + 4 = 12<br><br>x = \\(\\frac{12}{4}\\)<br><br>= 3<br><br>from (3), y = 3 - 2 = 1<br><br>therefore, x = 3, y = 1",
+        "correctIndex": 1,
+        "options": [
+            "(-1, 3)",
+            "(3, 1)",
+            "(-3, 1)",
+            "(1, 3)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2010,
+        "question": "If x is inversely proportional to y and x = 2\\(\\frac{1}{2}\\) when y = 2, find x if y = 4",
+        "explanation": "x \\(\\alpha\\) \\(\\frac{1}{y}\\) .........(1)<br><br>x = k x \\(\\frac{1}{y}\\) .........(2)<br><br>When x = 2\\(\\frac{1}{2}\\)<br><br>= \\(\\frac{5}{2}\\), y = 2<br><br>(2) becomes \\(\\frac{5}{2}\\) = k x \\(\\frac{1}{2}\\)<br><br>giving k = 5<br><br>from (2), x = \\(\\frac{5}{y}\\)<br><br>so when y =4, x = \\(\\frac{5}{y}\\) = 1\\(\\frac{1}{4}\\)",
+        "correctIndex": 2,
+        "options": [
+            "4",
+            "5",
+            "1\\(\\frac{1}{4}\\)",
+            "2\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2010,
+        "question": "For what range of values of x is \\(\\frac{1}{2}\\)x + \\(\\frac{1}{4}\\) &gt; \\(\\frac{1}{3}\\)x + \\(\\frac{1}{2}\\)?",
+        "explanation": "\\(\\frac{1}{2}\\)x + \\(\\frac{1}{4}\\) &gt; \\(\\frac{1}{3}\\)x + \\(\\frac{1}{2}\\)<br><br>Multiply through by through by the LCM of 2, 3 and 4<br><br>12 x \\(\\frac{1}{2}\\)x + 12 x \\(\\frac{1}{4}\\) &gt; 12 x \\(\\frac{1}{3}\\)x + 12 x \\(\\frac{1}{2}\\)<br><br>6x + 3 &gt; 4x + 6<br><br>6x - 4x &gt; 6 - 3<br><br>2x &gt; 3<br><br>\\(\\frac{2x}{2}\\) &gt; \\(\\frac{3}{2}\\)<br><br>x &gt; \\(\\frac{3}{2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "x &lt; \\(\\frac{3}{2}\\)",
+            "x &gt; \\(\\frac{3}{2}\\)",
+            "x &lt; -\\(\\frac{3}{2}\\)",
+            "x &gt; -\\(\\frac{3}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2010,
+        "question": "Solve the inequalities -6 \\(\\leq\\) 4 - 2x &lt; 5 - x",
+        "explanation": "-6 \\(\\leq\\) 4 - 2x &lt; 5 - x<br>split inequalities into two and solve each part as follows:<br><br>-6 \\(\\leq\\) 4 - 2x = -6 - 4 \\(\\leq\\) -2x<br><br>-10 \\(\\leq\\) -2x<br><br>\\(\\frac{-10}{-2}\\) \\(\\geq\\) \\(\\frac{-2x}{-2}\\)<br><br>giving 5 \\(\\geq\\) x or x \\(\\leq\\) 5<br><br>4 - 2x &lt; 5 - x<br><br>-2x + x &lt; 5 - 4<br><br>-x &lt; 1<br><br>\\(\\frac{-x}{-1}\\) &gt; \\(\\frac{1}{-1}\\)<br><br>giving x &gt; -1 or -1 &lt; x<br><br>Combining the two results, gives -1 &lt; x \\(\\leq\\) 5",
+        "correctIndex": 1,
+        "options": [
+            "-1 &lt; x &lt; 5",
+            "-1 &lt; x \\(\\leq\\) 5",
+            "-1 \\(\\leq\\) x \\(\\leq\\) 6",
+            "-1 \\(\\leq\\) x &lt; 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2010,
+        "question": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + .....",
+        "explanation": "Using S\\(\\infty\\) = \\(\\frac{a}{1 - r}\\)<br><br>r = \\(\\frac{0.05}{0.5}\\) = \\(\\frac{1}{10}\\)<br><br>S\\(\\infty\\) = \\(\\frac{0.5}{{\\frac{1}{10}}}\\)<br><br><br>= \\(\\frac{0.5}{({\\frac{9}{10}})}\\)<br><br>= \\(\\frac{0.5 \\times 10}{9}\\)<br><br>= \\(\\frac{5}{9}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{5}{8}\\)",
+            "\\(\\frac{5}{7}\\)",
+            "\\(\\frac{5}{11}\\)",
+            "\\(\\frac{5}{9}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2010,
+        "question": "Evaluate \\(\\begin{vmatrix} 2 &amp; 0 &amp; 5 \\\\ 4 &amp; 6 &amp; 3 \\\\ 8 &amp; 9 &amp; 1 \\end{vmatrix}\\)",
+        "explanation": "\\(\\begin{vmatrix} 2 &amp; 0 &amp; 5 \\\\ 4 &amp; 6 &amp; 3 \\\\ 8 &amp; 9 &amp; 1 \\end{vmatrix}\\)<br><br>= 2(6 - 27) - 0(4 - 24) + 5(36 - 48)<br><br>= 2(-21) - 0 + 5(-12)<br><br>= -42 + 5(-12)<br><br>= -42 - 60<br><br>= -102",
+        "correctIndex": 2,
+        "options": [
+            "5y - 2x -18 = 0",
+            "102",
+            "-102",
+            "-42"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2010,
+        "question": "If P = \\(\\begin{pmatrix} 2 &amp; -3 \\\\ 1 &amp; 1 \\end{pmatrix}\\)",
+        "explanation": "P = \\(\\begin{pmatrix} 2 &amp; -3 \\\\ 1 &amp; 1 \\end{pmatrix}\\)<br><br>|P| = 2 - 1 x -3 = 5<br><br>P<sup>-1</sup>= \\(\\frac{1}{5}\\)\\(\\begin{pmatrix} 1 &amp; 3 \\\\ -1 &amp; 2 \\end{pmatrix}\\)<br><br>= \\(\\begin{pmatrix} {\\frac{1}{5}} &amp; {\\frac{3}{5}} \\\\ -{\\frac{1}{5}} &amp; {\\frac{2}{5}} \\end{pmatrix}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\begin{pmatrix} -{\\frac{1}{5}} &amp; -{\\frac{3}{5}} \\\\ -{\\frac{1}{5}} &amp; -{\\frac{2}{5}} \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} {\\frac{1}{5}} &amp; {\\frac{3}{5}} \\\\ {\\frac{1}{5}} &amp; {\\frac{2}{5}} \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} -{\\frac{1}{5}} &amp; {\\frac{3}{5}} \\\\ -{\\frac{1}{5}} &amp; {\\frac{2}{5}} \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} {\\frac{1}{5}} &amp; {\\frac{3}{5}} \\\\ -{\\frac{1}{5}} &amp; {\\frac{2}{5}} \\end{pmatrix}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2010,
+        "question": "The interior angles of a quadrilateral are (x + 15)<sup>o</sup>, (2x - 45)<sup>o</sup>and (x + 10)<sup>o</sup>. Find the value of the least interior angle.",
+        "explanation": "(x + 15)<sup>o</sup>+ (2x - 45)<sup>o</sup>+ (x + 10)<sup>o</sup>= (2n - 4)90<sup>o</sup><br><br>when n = 4<br><br>x + 15<sup>o</sup>+ 2x - 45<sup>o</sup>+ x - 30<sup>o</sup>+ x + 10<sup>o</sup>= (2 x 4 - 4) 90<sup>o</sup><br><br>5x - 50<sup>o</sup>= (8 - 4)90<sup>o</sup><br><br>5x - 50<sup>o</sup>= 4 x 90<sup>o</sup>= 360<sup>o</sup><br><br>5x = 360<sup>o</sup>+ 50<sup>o</sup><br><br>5x = 410<sup>o</sup><br><br>x = \\(\\frac{410^o}{5}\\)<br><br>= 82<sup>o</sup><br><br>Hence, the value of the least interior angle is (x - 30<sup>o</sup>)<br><br>= (82 - 30)<sup>o</sup><br><br>= 52<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "112<sup>o</sup>",
+            "102<sup>o</sup>",
+            "82<sup>o</sup>",
+            "52<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2010,
+        "question": "If the two smaller sides of a right angled triangle are 4cm and 5cm, find its area.",
+        "explanation": "Area of \\(\\Delta\\)PQR = \\(\\frac{1}{2}\\)bh<br><br>= \\(\\frac{1}{2}\\) x 4 x 5<br><br>= 10cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "24cm<sup>2</sup>",
+            "10cm<sup>2</sup>",
+            "8cm<sup>2</sup>",
+            "6cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2010,
+        "question": "<p>A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?</p>",
+        "explanation": "<p>Total surface area of the cylindrical pipe = area of circular base + curved surface area<br>\n<br>\n= \\(\\pi\\)r\\(^2\\) + 2\\(\\pi\\)rh</p><p>= \\(\\pi\\) x 7\\(^2\\) + 2\\(\\pi\\) x 7 x 50</p><p>= 49\\(\\pi\\) + 700\\(\\pi\\)</p><p>= 749\\(\\pi\\)m\\(^2\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "749\\(\\pi\\)m<sup>2</sup>",
+            "700\\(\\pi\\)m<sup>2</sup>",
+            "350\\(\\pi\\)m<sup>2</sup>",
+            "98\\(\\pi\\)m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2010,
+        "question": "<p>Find the distance between the points (\\(\\frac{1}{2}\\), \\(\\frac{1}{2}\\)) and (-\\(\\frac{1}{2}\\), -\\(\\frac{1}{2}\\)).</p>",
+        "explanation": "<p>Let D denote the distance between (\\(\\frac{1}{2}\\), -\\(\\frac{1}{2}\\)) then using<br>\n<br>\nD = \\(\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\\)<br>\n<br>\n= \\(\\sqrt{(-{\\frac{1}{2} - \\frac{1}{2}})^2 + (-{\\frac{1}{2} - \\frac{1}{2}})^2}\\)<br>\n<br>\n= \\(\\sqrt{(-1)^2 + (-1)^2}\\)<br>\n<br>\n= \\(\\sqrt{1 + 1}\\)<br>\n<br>\n= √2</p>",
+        "correctIndex": 3,
+        "options": [
+            "1",
+            "o",
+            "√3",
+            "√2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2010,
+        "question": "Find the gradient of the line passing through the points P(1, 1) and Q(2, 5).",
+        "explanation": "Let (x<sub>1</sub>, y<sub>1</sub>) = (1, 1) and (x<sub>2</sub>, y<sub>2</sub>)= (2, 5)<br><br>then gradient m of \\(\\bar{PQ}\\) is<br><br>m = \\(\\frac{y_2 - y_1}{x_2 - x_1}\\) = \\(\\frac{5 - 1}{2 - 1}\\)<br><br>= \\(\\frac{4}{1}\\)<br><br>= 4",
+        "correctIndex": 3,
+        "options": [
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2010,
+        "question": "If cot\\(\\theta\\) = \\(\\frac{8}{15}\\), where \\(\\theta\\) is acute, find sin\\(\\theta\\)",
+        "explanation": "cot\\(\\theta\\) = \\(\\frac{1}{\\cos \\theta}\\)<br><br>= \\(\\frac{8}{15}\\)(given)<br><br>tan\\(\\theta\\) = \\(\\frac{15}{18}\\)<br><br>By Pythagoras theorem,<br><br>x<sup>2</sup>= 15<sup>2</sup>+ 8<sup>2</sup><br><br>x<sup>2</sup>= 225 + 64 = 289<br><br>x = \\(\\sqrt{289}\\)<br><br>= 17<br><br>Hence sin\\(\\theta\\) = \\(\\frac{15}{x}\\)<br><br>= \\(\\frac{15}{17}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{8}{17}\\)",
+            "\\(\\frac{15}{17}\\)",
+            "\\(\\frac{16}{17}\\)",
+            "\\(\\frac{13}{17}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2010,
+        "question": "If y = x sinx, find \\(\\frac{dy}{dx}\\)",
+        "explanation": "If y = x sinx, then<br><br>Let u = x and v = sinx<br><br>\\(\\frac{du}{dx}\\) = 1 and \\(\\frac{dv}{dx}\\) = cosx<br><br>Hence by the product rule,<br><br>\\(\\frac{dy}{dx}\\) = v \\(\\frac{du}{dx}\\) + u\\(\\frac{dv}{dx}\\)<br><br>= (sin x) x 1 + x cosx<br><br>= sinx + x cosx",
+        "correctIndex": 1,
+        "options": [
+            "sin x - x cosx",
+            "sinx + x cosx",
+            "sinx - cosx",
+            "sinx + cosx"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2010,
+        "question": "Evaluate \\(\\int^{2}_{0}(x^3 + x^2)\\)dx.",
+        "explanation": "\\(\\int^{2}_{0}(x^3 + x^2)\\)dx = \\(\\int^{2}_{0}\\)(\\(\\frac{x^4}{4} + {\\frac {x^3}{3}}\\))<br><br>= (\\(\\frac{2^4}{4} + {\\frac {2^3}{3}}\\)) - (\\(\\frac{0^4}{4} + {\\frac {0^3}{3}}\\))<br><br>= (\\(\\frac{16}{4} + {\\frac {8}{3}}\\)) - 0<br><br>= \\(\\frac{80}{12}<br><br>= {\\frac {20}{3}}\\) or 6\\(\\frac{2}{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "4\\(\\frac{5}{6}\\)",
+            "6\\(\\frac{2}{3}\\)",
+            "1\\(\\frac{5}{6}\\)",
+            "2\\(\\frac{5}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2010,
+        "question": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
+        "explanation": "A committee of 2 women and 3 men can be chosen from 6 men and 5 women, in \\(^{5}C_{2}\\) x \\(^{6}C_{3}\\) ways<br><br>= \\(\\frac{5!}{(5 - 2)!2!} \\times {\\frac{6!}{(6 - 3)!3!}}\\)<br><br>= \\(\\frac{5!}{3!2!} \\times {\\frac{6!}{3 \\times 3!}}\\)<br><br>= \\(\\frac{5 \\times 4 \\times 3!}{3! \\times 2!} \\times {\\frac{6 \\times 5 \\times 4 \\times 3!}{3! \\times 3!}}\\)<br><br>= \\(\\frac{5 \\times 4}{1 \\times 2} \\times {\\frac{6 \\times 5 \\times 4}{1 \\times 2 \\times 3}}\\)<br><br>= 10 x \\(\\frac{6 \\times 20}{6}\\)<br><br>= 200",
+        "correctIndex": 1,
+        "options": [
+            "100",
+            "200",
+            "30",
+            "50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2010,
+        "question": "If three unbiased coins are tossed, find the probability that they are all heads",
+        "explanation": "P(H) = \\(\\frac{1}{2}\\) and P(T) = \\(\\frac{1}{2}\\)<br><br>Using the binomial prob. distribution,<br><br>(H + T)<sup>3</sup>= H<sup>3</sup>+ 3H<sup>2</sup>T<sup>1</sup>+ 3HT<sup>2</sup>+ T<sup>3</sup><br><br>Hence the probability that three heads show in a toss of the three coins is H<sup>3</sup><br><br>= (\\(\\frac{1}{2}\\))<sup>3</sup><br><br>= \\(\\frac{1}{8}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{9}\\)",
+            "\\(\\frac{1}{8}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2010,
+        "question": "Find the standard deviation of 2, 3, 5 and 6",
+        "explanation": "\\(\\begin{array}&amp; x &amp; x - \\bar{x} &amp; (x - \\bar{x})^2 \\\\2 &amp; -2 &amp; 4 \\\\ 3 &amp; -1 &amp; 1 \\\\ 5 &amp; 1 &amp; 1 \\\\ 6 &amp; 2 &amp; 4\\\\ \\hline \\sum x = 16 &amp; &amp; \\sum (x - \\bar{x}^2) = 0 \\end{array}\\)<br>___________________________________<br><br>\\(\\bar{x}\\) = \\(\\frac{\\sum x }{N}\\)<br><br>= \\(\\frac{16}{4}\\)<br><br>= 4<br><br>S = \\(\\sqrt{\\frac {(x - \\bar{x})^2}{N}}\\)<br><br>= \\(\\sqrt{\\frac {(10)}{4}}\\)<br><br>= \\(\\sqrt{\\frac {(5)}{2}}\\)",
+        "correctIndex": 3,
+        "options": [
+            "√6",
+            "√10",
+            "√\\(\\frac{2}{5}\\)",
+            "√\\(\\frac{5}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2010,
+        "question": "W is directly proportional to U. If W = 5 when U = 3, find U when W = \\(\\frac{2}{7}\\)",
+        "explanation": "W \\(\\alpha\\) U<br><br>W = ku<br><br>u = \\(\\frac{w}{k}\\); \\(\\frac{2}{7}\\) x \\(\\frac{3}{5}\\)<br><br>= \\(\\frac{6}{35}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{6}{35}\\)",
+            "\\(\\frac{10}{21}\\)",
+            "\\(\\frac{21}{10}\\)",
+            "\\(\\frac{35}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2010,
+        "question": "Determine the value of x for which (x<sup>2</sup>- 1)&gt;0",
+        "explanation": "x(x - 1) &gt; 0<br><br>x &lt; -1 or x &gt; 1",
+        "correctIndex": 0,
+        "options": [
+            "x &lt; -1 or x &gt; 1",
+            "-1 &lt; x &lt; 1",
+            "x &gt; 0",
+            "x &lt; -1"
+        ],
+        "type": "objectives"
+    }
+]

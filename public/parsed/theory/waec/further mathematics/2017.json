@@ -1,0 +1,137 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2017,
+        "question": "<p>(a) If \\(f(x) = \\frac{4 - 5x}{2}\\), and \\(g(x) = x + 6, x \\in R\\), find \\(f \\circ g^{-1}\\).</p><p>(b) P(x, y) divides the line joining (7, -5) and (-2, 7) internally in 5 : 4. Find the coordinates of P.</p>",
+        "answer": "<p>(a) \\(f(x) = \\frac{4 - 5x}{2} ; g(x) = x + 6, x \\in R\\)</p><p>Let g(x) = y</p><p>\\(y = x + 6 \\implies x = y - 6\\)</p><p>Let \\(x = g^{-1} (x)\\) and y = x.</p><p>\\(g^{-1}(x) = x - 6\\)</p><p>\\(f \\cdot g^{-1}(x) = f(g^{-1}(x))\\)</p><p>= \\(\\frac{4 - 5(x - 6)}{2}\\)</p><p>= \\(\\frac{4 - 5x + 30}{2}\\)</p><p>= \\(\\frac{34 - 5x}{2}\\)</p><p>(b) \\(x = \\frac{7 \\times 4 - 2(5)}{5 + 4}\\)</p><p>= \\(\\frac{18}{9}\\)</p><p>\\(x = 2\\)</p><p>\\(y = \\frac{4(-5) + 5(7)}{5 + 4}\\)</p><p>= \\(\\frac{15}{9}\\)</p><p>\\((x, y) = (2, 1\\frac{2}{3})\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2017,
+        "question": "<p>Evaluate : \\(\\int_{1}^{3} (\\frac{x - 1}{(x + 1)^{2}}) \\mathrm {d} x\\).</p>",
+        "answer": "<p>\\(\\int_{1}^{3} (\\frac{x - 1}{(x + 1)^{2}}) \\mathrm {d} x\\)</p><p>Let \\(x + 1 = u, x - 1 = u - 2\\)</p><p>When x = 3, u = 3 + 1 = 4</p><p>x = 1, u = 1 + 1 = 2</p><p>\\(\\therefore \\int_{1}^{3} (\\frac{x - 1}{(x + 1)^{2}}) \\mathrm {d} x \\equiv \\int_{2}^{4} (\\frac{u - 2}{u^{2}}) \\mathrm {d} u\\)</p><p>= \\(\\int_{2}^{4} (\\frac{u}{u^{2}} - \\frac{2}{u^{2}}) \\mathrm {d} u\\)</p><p>= \\(\\int_{2}^{4} (\\frac{1}{u} - 2u^{-2}) \\mathrm {d} u\\)</p><p>= \\([\\ln u - \\frac{2u^{-1}}{-1}]|_{2}^{4}\\)</p><p>= \\([\\ln u + 2u^{-1}]|_{2}^{4}\\)</p><p>= \\([\\ln u + \\frac{2}{u}]|_{2}^{4}\\)</p><p>= \\((\\ln 4 + \\frac{2}{4}) - (\\ln 2 + \\frac{2}{2})\\)</p><p>= \\(\\ln 4 - \\ln 2 - \\frac{1}{2}\\)</p><p>= \\(\\ln (\\frac{4}{2}) - \\frac{1}{2}\\)</p><p>= \\(\\ln 2 - \\frac{1}{2}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2017,
+        "question": "<p>(a) Given that \\(\\log_{10} p = a, \\log_{10} q = b\\) and \\(\\log_{10} s = c\\), express \\(\\log_{10} (\\frac{p^{\\frac{1}{3}}q^{4}}{s^{2}}\\) in terms of a, b and c.</p><p>(b) The radius of a circle is 6cm. If the area is increasing at the rate of 20\\(cm^{2}s^{-1}\\), find, leaving the answer in terms of \\(\\pi\\), the rate at which the radius is increasing.</p>",
+        "answer": "<p>(a) \\(\\log_{10} p = a ; \\log_{10} q = b ; \\log_{10} s = c\\)</p><p>\\(\\log_{10} (\\frac{p^{\\frac{1}{3}}q^{4}}{s^{2}} = \\log_{10} p^{\\frac{1}{3}} + \\log_{10} q^{4} - \\log_{10} s^{2}\\)</p><p>= \\(\\frac{1}{3}\\log_{10} p + 4\\log_{10} q - 2\\log_{10} s\\)</p><p>= \\(\\frac{1}{3}a + 4b - 2c\\)</p><p>(b) Area of circle = \\(\\pi r^{2}\\)</p><p>Given r = 6cm.</p><p>\\(\\frac{\\mathrm d A}{\\mathrm d r} = 2\\pi r\\)</p><p>\\(\\frac{\\mathrm d A}{\\mathrm d t} = \\frac{\\mathrm d A}{\\mathrm d r} \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)</p><p>\\(20 = 2\\pi (6) \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)</p><p>\\(\\frac{\\mathrm d r}{\\mathrm d t} = \\frac{20}{12\\pi}\\)</p><p>= \\(\\frac{5}{3\\pi}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2017,
+        "question": "<p>If (x + 1) and (x - 2) are factors of the polynomial \\(g(x) = x^{4} + ax^{3} + bx^{2} - 16x - 12\\), find the values of a and b.</p>",
+        "answer": "<p>If (x + 1) and (x - 2) are factors of the polynomial \\(g(x)\\), then \\(g(-1) &amp; g(2) = 0\\)</p><p>i.e. \\(g(-1) = (-1)^{4} + a(-1)^{3} + b(-1)^{2} - 16(-1) - 12 = 0\\)</p><p>\\(1 - a + b + 16 - 12 = 0 \\implies a - b = 5 ... (1)\\)</p><p>\\(g(2) = (2)^{4} + a(2)^{3} + b(2)^{2} - 16(2) - 12 = 0\\)</p><p>\\(16 + 8a + 4b - 32 - 12 = 0 \\implies 8a + 4b = 28 ... (2)\\)</p><p>From (1), \\(a = 5 + b\\).</p><p>(2) becomes : \\(8(5 + b) + 4b = 28 \\implies 40 + 8b + 4b = 28\\)</p><p>\\(40 + 12b = 28 \\implies 12b = -12\\)</p><p>\\(b = -1\\)</p><p>\\(a = 5 + b = 5 + (-1) = 4\\)</p><p>\\((a, b) = (4, -1)\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2017,
+        "question": "<p>Bottles of the same sizes produced in a factory are packed in boxes. Each box contains 10 bottles. If 8% of the bottles are defective, find, correct to two decimal places, the probability that box chosen at random contains at least 3 defective bottles.</p>",
+        "answer": "<p>p(defective) = \\(\\frac{8}{100} = 0.08\\)</p><p>p(non- defective) = \\(1 - 0.08 = 0.92\\)</p><p>p(at least 3 defective) = \\(1 - [p(0) + p(1) + p(2)]\\)</p><p>\\(p(x) = ^{n}C_{x} p^{x} q^{n - x}\\)</p><p>\\(p(0) = ^{10}C_{0} (0.08)^{0} (0.92)^{10} = 0.434\\)</p><p>\\(p(1) = ^{10}C_{1} (0.08)^{1} (0.92)^{9} = 0.378\\)</p><p>\\(p(2) = ^{10}C_{2} (0.08)^{2} (0.92)^{8} = 0.148\\)</p><p>p(at least 3 defective) = 1 - [0.434 + 0.378 + 0.148]</p><p>= 1 - 0.960 = 0.04</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2017,
+        "question": "<p>The table shows the heights in cm of some seedlings in a certain garden.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Height (cm)</td>\n<td>36-40</td>\n<td>41-45</td>\n<td>46-50</td>\n<td>51-55</td>\n<td>56-60</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>3</td>\n<td>9</td>\n<td>21</td>\n<td>12</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p>(a) Draw the cumulative frequency curve for the distribution.</p><p>(b) Using the curve in (a), find thesemi-interquartile range.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Height (cm)</td>\n<td>Freq</td>\n<td>Class boundaries</td>\n<td>Cum. freq</td>\n</tr>\n<tr>\n<td>36 - 40</td>\n<td>3</td>\n<td>35.5 - 40.5</td>\n<td>3</td>\n</tr>\n<tr>\n<td>41 - 45</td>\n<td>9</td>\n<td>40.5 - 45.5</td>\n<td>12</td>\n</tr>\n<tr>\n<td>46 - 50</td>\n<td>21</td>\n<td>45.5 - 50.5</td>\n<td>33</td>\n</tr>\n<tr>\n<td>51 - 55</td>\n<td>12</td>\n<td>50.5 - 55.5</td>\n<td>45</td>\n</tr>\n<tr>\n<td>56 - 60</td>\n<td>5</td>\n<td>55.5 - 60.5</td>\n<td>50</td>\n</tr>\n</tbody>\n</table><p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0298%20%282%29.jpg\" style=\"height:358px; width:300px\"></p><p>(b) Lower quartile \\(Q_{1}\\) = 45.6cm</p><p>Upper quartile \\(Q_{3}\\) = 52.0cm</p><p>Semi- interquartile range = \\(\\frac{Q_{3} - Q_{1}}{2}\\)</p><p>= \\(\\frac{52 - 45.6}{2}\\)</p><p>= \\(\\frac{6.4}{2}\\)</p><p>= \\(3.2cm\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2017,
+        "question": "<p>A parallelogram MNQR has vertices M(4, -6), N(10, 2), Q(8, 16) and R(x, y). Find the coordinates of R.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0298%20%283%29.jpg\" style=\"height:118px; width:250px\"></p><p>\\(\\overrightarrow{MN} = \\overrightarrow{RQ}\\)</p><p>\\(\\begin{pmatrix} 4 - 10 \\\\ - 6 - 2 \\end{pmatrix} = \\begin{pmatrix} x - 8 \\\\ y - 16 \\end{pmatrix}\\)</p><p>\\(\\implies 4 - 10 = x - 8\\)</p><p>\\(-6 = x - 8 \\implies x = -6 + 8 = 2\\)</p><p>\\(\\implies - 6 - 2 = y - 16\\)</p><p>\\(-8 = y - 16 \\implies y = -8 + 16 = 8\\)</p><p>The coordinate of R is (2, 8).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2017,
+        "question": "<p>Forces \\(F_{1} (18N, 330°), F_{2} (10N, 090°)\\) and \\(F_{3} (25N, 180°)\\) act on a body at rest. Find, correct to one decimal place, the magnitude and direction of the resultant force.</p>",
+        "answer": "<p>\\(F_{1} = (18N, 330°) ; F_{2} = (10N, 090°) ; F_{3} = (25N, 180°)\\)</p><p>\\(R = F_{1} + F_{2} + F_{3}\\)</p><p>= \\(\\begin{pmatrix} 18 \\cos 330 \\\\ 18 \\sin 330 \\end{pmatrix} + \\begin{pmatrix} 10 \\cos 90 \\\\ 10 \\sin 90 \\end{pmatrix} + \\begin{pmatrix} 25 \\cos 180 \\\\ 25 \\sin 180 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 18 \\cos 30 \\\\ -18 \\sin 30 \\end{pmatrix} + \\begin{pmatrix} 10 \\times 0 \\\\ 10 \\times 1 \\end{pmatrix} + \\begin{pmatrix} -25 \\\\ 0 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 18 \\times 0.866 \\\\ -18 \\times 0.5 \\end{pmatrix} + \\begin{pmatrix} 0 \\\\ 10 \\end{pmatrix} + \\begin{pmatrix} -25 \\\\ 0 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 15.588 - 25 \\\\ -9 + 10 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -9.41 \\\\ 1 \\end{pmatrix}\\)</p><p>\\(R = \\sqrt{(-9.41)^{2} + 1^{2}}\\)</p><p>= \\(\\sqrt{88.5481 + 1}\\)</p><p>= \\(\\sqrt{89.5481}\\)</p><p>\\(R = 9.463N\\)</p><p>Direction: Let \\(\\theta\\) be the angle resultant makes with the x - axis.</p><p>\\(\\tan \\theta = \\frac{1}{-9.41} = -0.1062\\)</p><p>\\(\\theta = \\tan^{-1} (-0.1063) = -6.07°\\)</p><p>The resultant has magnitude 9.463N and makes an angle of 6.07° with the negative x- axis.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2017,
+        "question": "<p>(a) Simplify : \\(\\frac{1}{1 - \\cos \\theta} + \\frac{1}{1 + \\cos \\theta}\\) and leave your answer in terms of \\(\\sin \\theta\\).</p><p>(b) Find the equation of the line joining the stationary points of \\(y = x^{2} (x - 3)\\) and the distance between them.</p>",
+        "answer": "<p>(a) \\(\\frac{1}{1 - \\cos \\theta} + \\frac{1}{1 + \\cos \\theta}\\)</p><p>= \\(\\frac{(1 + \\cos \\theta) + (1 - \\cos \\theta)}{1 - \\cos^{2} \\theta}\\)</p><p>= \\(\\frac{2}{1 - \\cos^{2} \\theta}\\)</p><p>= \\(\\frac{2}{\\sin^{2} \\theta}\\)</p><p>(b) \\(y = x^{2} (x - 3)\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = x^{2} + 2x(x - 3)\\)</p><p>= \\(x^{2} + 2x^{2} - 6x = 3x^{2} - 6x\\)</p><p>At stationary point, \\(\\frac{\\mathrm d y}{\\mathrm d x} = 0\\)</p><p>\\(3x^{2} - 6x = 0\\)</p><p>\\(3x(x - 2) = 0 \\implies x = \\text{0 or 2}\\)</p><p>If x = 0, \\(y = 0^{2}(0 - 3) = 0\\)</p><p>If x = 2, \\(y = 2^{2}(2 - 3) = -4\\)</p><p>The points are (0, 0) and (2, -4).</p><p>Gradient = \\(\\frac{-4 - 0}{2 - 0} = \\frac{-4}{2} = -2\\)</p><p>Equation : \\(\\frac{y - (-4)}{x - 2} = -2\\)</p><p>\\(\\frac{y + 4}{x - 2} = -2 \\implies y + 4 = -2(x - 2)\\)</p><p>\\(y + 4 = 4 - 2x \\implies y + 2x = 0\\)</p><p>\\(y = -2x\\)</p><p>Distance : \\(\\sqrt{(2 - 0)^{2} + (-4 - 0)^{2}}\\)</p><p>= \\(\\sqrt{4 + 16} = \\sqrt{20}\\)</p><p>= \\(2\\sqrt{5} units\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2017,
+        "question": "<p>(a) If \\(f(x) = \\frac{2x - 3}{(x^{2} - 1)(x + 2)}\\)</p><p>(i) find the values of x for which f(x) is undefined.</p><p>(ii) express f(x) in partial fractions.</p><p>(b) A circle with centre (-3, 1) passes through the point (3, 1). Find its equation.</p>",
+        "answer": "<p>(a)(i) \\(f(x) = \\frac{2x - 3}{(x^{2} - 1)(x + 2)}\\)</p><p>f(x) is undefined at \\((x^{2} - 1)(x + 2) = 0\\).</p><p>Either \\((x^{2} - 1) = \\text{0 or (}x + 2) = 0\\)</p><p>\\((x + 2) = 0 \\implies x = -2\\)</p><p>\\((x^{2} - 1) = 0 \\implies x^{2} = 1 \\)</p><p>\\(x = \\pm 1\\)</p><p>At the points x = -1, 1 or 2, f(x) is undefined.</p><p>(ii) \\(\\frac{2x - 3}{(x^{2} - 1)(x + 2)} = \\frac{A}{x + 1} + \\frac{B}{x - 1} + \\frac{C}{x + 2}\\)</p><p>\\(\\frac{A}{x + 1} + \\frac{B}{x - 1} + \\frac{C}{x + 2} = \\frac{A(x - 1)(x + 2) + B(x + 1)(x + 2) + C(x - 1)(x + 1)}{(x^{2} - 1)(x + 2)}\\)</p><p> When x = -1,</p><p>\\(-2A = 2(-1) - 3 \\implies -2A = -5\\)</p><p>\\(A = \\frac{5}{2}\\)</p><p>When x = 1,</p><p>\\(6B = 2(1) - 3 = -1\\)</p><p>\\(B = \\frac{-1}{6}\\)</p><p>When x = -2,</p><p>\\(3C = 2(-2) - 3 = -7\\)</p><p>\\(C = \\frac{-7}{3}\\)</p><p>\\(\\frac{2x - 3}{(x^{2} - 1)(x + 2)} = \\frac{5}{2(x + 1)} - \\frac{1}{6(x - 1)} - \\frac{7}{3(x + 2)}\\)</p><p>(c) Equation of circle : \\((x + 3)^{2} + (y - 1)^{2} = r^{2}\\)</p><p>Circle passes through (3,1) :</p><p>\\(\\therefore (3 + 3)^{2} + (1 - 1)^{2} = r^{2}\\)</p><p>\\(6^{2} = r^{2} \\implies r = 6\\)</p><p>Equation becomes :</p><p>\\((x + 3)^{2} + (y - 1)^{2} = 6^{2}\\)</p><p>\\(x^{2} + 6x + 9 + y^{2} - 2y + 1 - 36 = 0\\)</p><p>\\(x^{2} + 6x + y^{2} - 2y - 26 = 0\\)</p><p>\\(x^{2} + y^{2} + 6x - 2y - 26 = 0\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2017,
+        "question": "<p>(a) If \\(f(x) = \\int (4x - x^{2}) \\mathrm {d} x\\) and f(3) = 21, find f(x).</p><p>(b) The second, fourth and eigth terms of an Arithmetic Progression (A.P) form the first three consecutive terms of a Geometric Progression (G.P). The sum of the third and fifth terms of the A.P is 20, find the :</p><p>(i) first four terms of the A.P</p><p>(ii) sum of the first ten terms of the A.P</p>",
+        "answer": "<p>(a) \\(f(x) = \\int (4x - x^{2}) \\mathrm {d} x\\)</p><p>\\(f(x) = 2x^{2} - \\frac{x^{3}}{3} + c\\)</p><p>\\(f(3) = 2(3^{2}) - \\frac{3^{3}}{3} + c\\)</p><p>\\(21 = 18 - 9 + c\\)</p><p>\\(c = 21 - 9 = 12\\)</p><p>\\(f(x) = 2x^{2} - \\frac{x^{3}}{3} + 12\\)</p><p>(b) \\(T_{n} = a + (n - 1) d\\) (terms of an A.P)</p><p>\\(T_{2} = a + d ; T_{4} = a + 3d ; T_{8} = a + 7d\\)</p><p>These are consecutive terms of a G.P</p><p>\\(i.e. \\frac{T_{4}}{T_{2}} = \\frac{T_{8}}{T_{4}}\\)</p><p>\\((T_{4})^{2} = T_{2} \\times T_{8}\\)</p><p>\\((a + 3d)^{2} = (a + d)(a + 7d)\\)</p><p>\\(a^{2} + 6ad + 9d^{2} = a^{2} + 8ad + 7d^{2}\\)</p><p>\\(6ad + 9d^{2} = 8ad + 7d^{2} \\implies 2ad = 2d^{2}\\)</p><p>\\(a = d\\)</p><p>\\(T_{3} + T_{5} = 20\\)</p><p>\\(a + 2d + a + 4d = 20\\)</p><p>\\(a + 2a + a + 4a = 20 \\implies 8a = 20\\)</p><p>\\(a = d = \\frac{5}{2}\\)</p><p>(i) First four terms of A.P = \\(\\frac{5}{2}, 5, \\frac{15}{2}, 10\\)</p><p>(ii) \\(S_{n} = \\frac{n}{2} (2a + (n - 1)d)\\)</p><p>\\(S_{10} = \\frac{10}{2} (2(\\frac{5}{2}) + (10 - 1)(\\frac{5}{2}))\\)</p><p>= \\(5(5 + \\frac{45}{2})\\)</p><p>= \\(\\frac{275}{2} = 137.5\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2017,
+        "question": "<p>(a) In a school, the ratio of those who passed to those who failed in a History test is 4 : 1. If 7 students are selected at random from the school, find, correct to two decimal places, the probability that :</p><p>(i) at least 3 passed the test ; (ii) between 3 and 6 students failed the test.</p><p>(b) A fair die is thrown five times; find the probability of obtaining a six three times.</p>",
+        "answer": "<p>(a) Passed : Failed = 4 : 1</p><p>\\(p(Passed) = \\frac{4}{5} ; p(Failed) = \\frac{1}{5}\\)</p><p>(i) p(at least 3 passed) = 1 - [p(0) + p(1) + p(2)]</p><p>p(0 passed) = \\(^{7}C_{0} (0.8)^{0} (0.2)^{7} = 0.0000128\\)</p><p>p(1 passed) = \\(^{7}C_{1} (0.8)^{1} (0.2)^{6} = 0.000358\\)</p><p>p(2 passed) = \\(^{7}C_{2} (0.8)^{2} (0.2)^{5} = 0.0043\\)</p><p>p(at least 3 passed) = \\(1 - [0.0000128 + 0.000358 + 0.0043] = 0.9953\\)</p><p>(ii) p(between 3 and 6 students failed) = p(4 or 5 students failed)</p><p>= \\((^{7}C_{4} (0.8)^{3} (0.2)^{4}) + (^{7}C_{5} (0.8)^{2} (0.2)^{5})\\)</p><p>= \\(0.02867 + 0.0043008\\)</p><p>= \\(0.03297\\)</p><p>(b) p(a six) = p = \\(\\frac{1}{6}\\), p(not a six) = q = \\(\\frac{5}{6}\\)</p><p>Die thrown five times;</p><p>Binomial distribution function is \\((p + q)^{5} = p^{5} + 5p^{4}q + 10p^{3} q^{2} + 10p^{2} q^{3} + 5pq^{4} + q^{5}\\)</p><p>p(a six three times) = \\(10p^{3} q^{2}\\)</p><p>= \\(10(\\frac{1}{6})^{3} (\\frac{5}{6})^{2}\\)</p><p>= \\(\\frac{250}{7776}\\)</p><p>= 0.03215</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2017,
+        "question": "<p>The table shows the frequency distribution of the ages of patients in a clinic.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Ages (years)</td>\n<td>17 - 19</td>\n<td>20 - 22</td>\n<td>23 - 28</td>\n<td>29 - 34</td>\n<td>35 - 43</td>\n</tr>\n<tr>\n<td>No. of patients</td>\n<td>6</td>\n<td>9</td>\n<td>12</td>\n<td>18</td>\n<td>18</td>\n</tr>\n</tbody>\n</table><p>(a) Draw a histogram for the distribution</p><p>(b) Find, correct to two decimal places, the mean age of the patients.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Age (yr)</td>\n<td>Frequency</td>\n<td>Class boundary</td>\n<td>Class width</td>\n<td>Height</td>\n</tr>\n<tr>\n<td>17 - 19</td>\n<td>6</td>\n<td>16.5 - 19.5</td>\n<td>3</td>\n<td>2</td>\n</tr>\n<tr>\n<td>20 - 22</td>\n<td>9</td>\n<td>19.5 - 22.5</td>\n<td>3</td>\n<td>3</td>\n</tr>\n<tr>\n<td>23 - 28</td>\n<td>12</td>\n<td>22.5 - 28.5</td>\n<td>6</td>\n<td>2</td>\n</tr>\n<tr>\n<td>29 - 34</td>\n<td>18</td>\n<td>28.5 - 34.5</td>\n<td>6</td>\n<td>3</td>\n</tr>\n<tr>\n<td>35 - 43</td>\n<td>18</td>\n<td>34.5 - 43.5</td>\n<td>9</td>\n<td>2</td>\n</tr>\n</tbody>\n</table><p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0299%20%282%29.jpg\" style=\"height:236px; width:300px\"></p><p>(b) Let the assumed mean be 25.5 yrs.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Age (yr)</td>\n<td>Mid-age (x)</td>\n<td>Freq (f)</td>\n<td>\\(d = x - A\\)</td>\n<td>\\(fd\\)</td>\n</tr>\n<tr>\n<td>17 - 19</td>\n<td>18</td>\n<td>6</td>\n<td>-7.5</td>\n<td>-45</td>\n</tr>\n<tr>\n<td>20 - 22</td>\n<td>21</td>\n<td>9</td>\n<td>-4.5</td>\n<td>-40.5</td>\n</tr>\n<tr>\n<td>23 - 28</td>\n<td>25.5</td>\n<td>12</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>29 - 34</td>\n<td>31.5</td>\n<td>18</td>\n<td>6.0</td>\n<td>108</td>\n</tr>\n<tr>\n<td>35 - 43</td>\n<td>39.0</td>\n<td>18</td>\n<td>13.5</td>\n<td>243</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>63</td>\n<td> </td>\n<td>265.5</td>\n</tr>\n</tbody>\n</table><p>Mean = \\(A + \\frac{\\sum fd}{\\sum f}\\)</p><p>= \\(25.5 + \\frac{265.5}{63}\\)</p><p>= \\(25.5 + 4.21\\)</p><p>= \\(29.71 yrs\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2017,
+        "question": "<p>(a) A body P of mass q kg is suspended by two light inextensible strings AB and DB attached to a horizontal table. The strings are inclined at 30° and 60° respectively to the horizontal and the tension in AB is 48N. If the system is in equilibrium :</p><p>(i) sketch a diagram to represent the information ; (ii) calculate the tension in DB ; </p><p> </p>",
+        "answer": "<p>(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0299%20%283%29.jpg\" style=\"height:183px; width:250px\"></p><p>(ii) Using Lami's theorem, </p><p>\\(\\frac{48}{\\sin 150} = \\frac{T}{\\sin 120}\\)</p><p>\\(T = \\frac{48 \\sin 120}{\\sin 150}\\)</p><p>\\(T = 83.14N\\)</p><p>The tension in DB is 83.14N.</p><p>(iii) Using Lami's theorem,</p><p>\\(\\frac{10q}{\\sin 90} = \\frac{48}{\\sin 150}\\)</p><p>\\(10q = \\frac{48 \\sin 90}{\\sin 150}\\)</p><p>\\(10q = 96 \\implies q = 9.6kg\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2017,
+        "question": "<p>(a) Given that \\(m = (6i + 8j)\\) and \\(n = (-8i + \\frac{7}{3}j)\\), find the :</p><p>(i) magnitudes and direction of m and n ; (ii) angle between m and n.</p><p>(b) The position vectors of points P, Q, R and S are \\(\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}, \\begin{pmatrix} 10 \\\\ 4 \\end{pmatrix}, \\begin{pmatrix} 3 \\\\ 12 \\end{pmatrix}\\) and \\(\\begin{pmatrix} 4 \\\\ 0 \\end{pmatrix}\\) respectively. Show that \\(\\overrightarrow{PQ}\\) is perpendicular to \\(\\overrightarrow{RS}\\).</p>",
+        "answer": "<p>(a) \\(m = (6i + 8j) ; n = (-8i + \\frac{7}{3}j)\\)</p><p>(i) \\(|m| = \\sqrt{6^{2} + 8^{2}} = \\sqrt{36 + 64}\\)</p><p>= 10 units.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0300%20%282%29.jpg\" style=\"height:246px; width:250px\"></p><p>Direction of m: \\(\\tan \\alpha = \\frac{8}{6} = 1.333\\)</p><p>\\(\\alpha = 53.13°\\)</p><p>\\(|n| = \\sqrt{(-8)^{2} + (\\frac{7}{3})^{2}} = \\sqrt{64 + \\frac{49}{9}}\\)</p><p>= \\(\\sqrt{\\frac{625}{9}} = \\frac{25}{3} units\\)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0300%20%283%29.jpg\" style=\"height:239px; width:250px\"></p><p>Direction of n :</p><p>\\(\\tan \\beta = \\frac{\\frac{7}{3}}{-8}\\)</p><p>= \\(-\\frac{7}{24} = -0.2917\\)</p><p>\\(\\beta = \\tan^{-1} (-0.2917) = -16.26°\\)</p><p>(ii) Let the angle between m and n be \\(\\theta\\).</p><p>\\(m \\cdot n = |m||n| \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{m \\cdot n}{|m||n|}\\)</p><p>\\(m \\cdot n = (6i + 8j) \\cdot (-8i + \\frac{7}{3}j)\\)</p><p>= \\(-48 + \\frac{56}{3}\\)</p><p>= \\(\\frac{-88}{3}\\)</p><p>\\(\\cos \\theta = \\frac{-\\frac{88}{3}}{10 \\times \\frac{25}{3}}\\)</p><p>= \\(\\frac{-88}{250}\\)</p><p>\\(\\cos \\theta = -0.352\\)</p><p>\\(\\theta = \\cos^{-1} (-0.352) = 110.61°\\)</p><p>(b) For PQ to be perpendicular to RS, the angle between them should be 90°. That is, \\(\\cos \\theta = 0\\).</p><p>\\(\\overrightarrow{PQ} = \\begin{pmatrix} 10 \\\\ 4 \\end{pmatrix} - \\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} 12 \\\\ 1 \\end{pmatrix}\\)</p><p>\\(\\overrightarrow{RS} = \\begin{pmatrix} 4 \\\\ 0 \\end{pmatrix} - \\begin{pmatrix} 3 \\\\ 12 \\end{pmatrix} = \\begin{pmatrix} 1 \\\\ -12 \\end{pmatrix}\\)</p><p>\\(|PQ| = \\sqrt{12^{2} + 1^{2}} = \\sqrt{144 + 1} = \\sqrt{145}\\)</p><p>\\(|RS| = \\sqrt{1^{2} + (-12)^{2}} = \\sqrt{1 + 144} = \\sqrt{145}\\)</p><p>\\(\\overrightarrow{PQ} \\cdot \\overrightarrow{RS} = (12i + j) \\cdot (i - 12j)\\)</p><p>= \\(0\\)</p><p>\\(\\overrightarrow{PQ} \\cdot \\overrightarrow{RS} = |PQ||RS| \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{0}{(\\sqrt{145})(\\sqrt{145})} = 0\\)</p>",
+        "type": "theory"
+    }
+]

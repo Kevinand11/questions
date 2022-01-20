@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2007,
+        "question": "The unit of moment of a couple can be expressed in?",
+        "explanation": "The unit of a couple is Newton-meter (N M)",
+        "correctIndex": 2,
+        "options": [
+            "N m<sup>-1</sup>",
+            "N m<sup>-2</sup>",
+            "N m",
+            "N m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2007,
+        "question": "A gramophone record takes 5s to reach its constant angular velocity of 4\\(\\pi\\) rads<sup>-1</sup>from rest. Find its constant angular acceleration.",
+        "explanation": "From the radiation:<br>V = +at, and if it starts from N &amp; T, U = 0<br>And for angular motion, W = O + at<br>4R = aχ5<br>∴ a = (4a)/5 = 0. 8\\(\\pi\\) rads<sup>-2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "0.4\\(\\pi\\) rads<sup>-2</sup>",
+            "0.8\\(\\pi\\) rads<sup>-2</sup>",
+            "1.3\\(\\pi\\) rads<sup>-2</sup>",
+            "20.0\\(\\pi\\) rads<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2007,
+        "question": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms<sup>-1</sup>. The magnitude of the centripetal force on the car is ?",
+        "explanation": "Centipetal force of the car = ma = (MV)<sup>2</sup>/r<br>= (1500 x 40 x40)/50<br>= 48000 = 4.8 x 10<sup>4</sup>N",
+        "correctIndex": 0,
+        "options": [
+            "4.8 x 10<sup>4</sup>N",
+            "4.8 x 10<sup>3 </sup>N",
+            "1.2 x 10<sup>3 </sup>N",
+            "1.2 x 10<sup>2</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2007,
+        "question": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them?<br><br><br>[G = 6.67 X 10<sup>-11</sup>Nm<sup>2</sup>Kg<sup>2</sup>]",
+        "explanation": "The force of attraction between the two spheres is given by F (GM<sub>1</sub>M<sub>2</sub>)/r<sup>2</sup>= (6.67X 10<sup>-11</sup>X5X10)/(0.3)<sup>2</sup><br>= 3.71 X 10<sup>-8</sup>N.",
+        "correctIndex": 1,
+        "options": [
+            "3.50 x 10<sup>-10</sup>N",
+            "3.71 x 10<sup>-8</sup>N",
+            "3.57 x 10<sup>-2</sup>N",
+            "4.00 x 10<sup>2</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2007,
+        "question": "A machine has a velocity ratio of 4. if it requires 800 N to overcome a load of 1600 N,what is the efficiency of the machine?",
+        "explanation": "Efficiency = (M.A)/V.R X (100)/1<br>But M.A = (Load)/Effort = (1600)/800 = 2<br>Efficiency = (2)/4 x (100)/1 = 50%",
+        "correctIndex": 1,
+        "options": [
+            "60%",
+            "50%",
+            "40%",
+            "2%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2007,
+        "question": "A reservoir 500 m deep is filled with a fluid of density 850 kgm<sup>-3</sup>. If the atmospheric pressure is 1.05 x 10<sup>5</sup>Nm<sup>-2</sup>, the pressure at the bottom of the reservoir is.<br><br><br>[g = 10ms<sup>-2</sup>]",
+        "explanation": "In general, pressure varies with depth in the relation p = lgh<br>= 850 x 10 x 500<br>= 4250000<br>= 4.25 x 10<sup>6</sup>NM<sup>-2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "4.72 x 10<sup>6</sup>Nm<sup>-2</sup>",
+            "4.36 x 10<sup>6</sup>Nm<sup>-2</sup>",
+            "4.28 x 10<sup>6</sup>Nm<sup>-2</sup>",
+            "4.25 x 10<sup>6</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2007,
+        "question": "A piece of iron weights 250 N in air and 200 N in a liquid of density 1000 kgm<sup>-3</sup>. the volume of the iron is?",
+        "explanation": "With in the air = 250N<br>wt. in the liquid = 200N<br>loss in wt. in the liquid = 250 - 200 = 50N<br>∴ Wt. the liquid of equal vol. of the iron = 50N<br>∴If the density of the liquid is 1000 lgm<sup>-3</sup><br>then the volume of the liquid = (N)/D = V = (25kg)/1000 =0.025m<sup>3</sup>= 2.5 x 10<sup>-2</sup>m<sup>8</sup>.",
+        "correctIndex": 2,
+        "options": [
+            "5.0 x 10<sup>-2</sup>ms<sup>-2</sup>",
+            "4.5 x 10<sup>--2</sup>ms<sup>-3</sup>",
+            "2.5 x 10<sup>-2</sup>ms<sup>-8</sup>",
+            "2.0 x 10<sup>-2</sup>ms<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2007,
+        "question": "A clinical thermometer is different from other mercury in glass thermometers owing to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the constriction on its stem",
+            "the grade of mercury used in it",
+            "its long stem",
+            "its wide range of temperatures"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2007,
+        "question": "I. Use a liquid with a high melting point.<br>II. use a liquid of high volume expansivity.<br>III. use a capillary tube of large diameter.<br><br>which of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
+        "explanation": "Using the liquid of high volume expansively II only",
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II. only",
+            "I and II only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2007,
+        "question": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. what is the increase in temperature of the water?<br><br><br>[specific heat capacity of water = 4200 jkg<sup>-1</sup>k<sup>-1</sup>]",
+        "explanation": "Electricity heat energy supplies by the heater = lvt = 3.5 x 200 x (2 x 60) = 84000j.<br>and this heat is supplied to the 2 kg of the water MC ∆ t = 84000<br>2 x 4200 x ∆ t = 84000<br>∴ ∆t = (84000)/8400 = 10°c<br>∴ increase in temp. of water = 10°c",
+        "correctIndex": 3,
+        "options": [
+            "30°",
+            "25°",
+            "15°",
+            "10°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2007,
+        "question": "I. Increase the melting point of the liquid.<br>II. Increase the boiling point of the liquid.<br>III. Decrease the melting point of the liquid.<br>IV. Decrease the boiling point of the liquid.<br>which of the statement above about the effect on increase in pressure in a liquid are correct?",
+        "explanation": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
+        "correctIndex": 2,
+        "options": [
+            "I and II only",
+            "I and III only",
+            "II and III only",
+            "III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2007,
+        "question": "I. Mass<br>II. Density<br>III. Temperature<br>IV. Nature of substance<br>which of the above affect diffusion?",
+        "explanation": "Rates of diffusion of a substance generally depend on density temp. and nature of substance II,III and IV",
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "I,II and IV only",
+            "II, III and IV only",
+            "I, II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2007,
+        "question": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "handle is a better conductor of heat than blade",
+            "handle contains stored energy in form of heat",
+            "blade is a better conductor of heat than the handle",
+            "blade is placed at a lower temperature than the heat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2007,
+        "question": "I. They should be identical<br>II. They should originate from the same source.<br>III. They should be coherent.<br>IV. They should be monochromatic.<br>from the statements above, the conditions for two waves to interfere are?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I,II and III only",
+            "I, III and IV only",
+            "II, III and IV only",
+            "I, II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2007,
+        "question": "In a large telecommunications auditorium, perforated absorbent materials are used to line the ceiling so as to",
+        "explanation": "In a large auditorium perforated, absorbent materials are used to line the ceiling so as to reduce the effect of multiple reflection of echo called reverberation",
+        "correctIndex": 3,
+        "options": [
+            "Increase the reverberation of sound in the hall",
+            "increase the amount of echo in the hall",
+            "reduce the hight of the ceiling from the floor",
+            "reduce the reverberation of sound in the hall"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2007,
+        "question": "The phenomenon of light bending round an obstacle is?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "diffraction",
+            "refraction",
+            "reflection",
+            "polarization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2007,
+        "question": "The instrument used by designers to obtain different color pattern is called?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "periscop",
+            "sextant",
+            "episcope",
+            "kaleidoscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2007,
+        "question": "A glass plate 0.9cm thick has a reflective index of 1.50. how long does it take for a pulse of light to pass through the plate?<br><br><br>[c = 3.0 x<sup>8</sup>ms<sup>-1</sup>]",
+        "explanation": "N = 1.5 = (speed of light in glass)/speed of light in air<br>(1.5)/1 = (3.0 x 10<sup>8</sup>)/V<br>V = (3.0 x 10<sup>8</sup>)/1.5<br>V = 2.0 x 10<sup>8</sup>ms<sup>-1</sup><br>But x = Vt<br>t = (x)/Vt<br>t = (x)/v = (9 x 10)<sup>4</sup>/2.0x 10<sup>8</sup>= 4.5 x 10<sup>-2</sup>S<br>∴ Time = 4.5 x 10<sup>-12</sup>S",
+        "correctIndex": 2,
+        "options": [
+            "4.5 x 10<sup>-11</sup>s",
+            "4.5 x 10<sup>-10</sup>s",
+            "4 .5 x 10<sup>-12</sup>s",
+            "3.0 x 10<sup>-10</sup>s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2007,
+        "question": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Simple microscope",
+            "refecting lens",
+            "compound microscope",
+            "projector"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2007,
+        "question": "The production of pure spectrum could easily be achieved using a?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "glass prism with a pin",
+            "triangular prism with two convex lens",
+            "traingular prism only",
+            "triangular prism with two concave lenses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2007,
+        "question": "<p>A charge 50 µc has electric field strength of 360 NC-1 at a certain point. The electric field strength due to another charge 120 µc kept at the same distance apart and in the same medium is?</p>",
+        "explanation": "<p>In general, electric field strength E = (F)/q</p><p>E = \\(\\frac{q}{4\\pi\\varepsilon_0d^2}\\)</p><p>⇒ 360 = \\(\\frac{9\\times10^9\\times50\\times10^-6}{d^2}\\)</p><p>solving, we have \\(d^2\\) = 1250</p><p>putting \\(d^2\\) = 1250 into the second equation,</p><p>E = \\(\\frac{9\\times10^9\\times120\\times10^-6}{1250}\\)</p><p>we have E = \\(864NC^-1\\) </p>",
+        "correctIndex": 0,
+        "options": [
+            "864 NC<sup>-1</sup>",
+            "150 NC<sup>-1</sup>",
+            "144 NC<sup>-1</sup>",
+            "18 NC<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2007,
+        "question": "The energy E of a photon and it's wavelength are related by Eλ = X. the numerical value of X is?<br><br><br>[h = 6.63 x 10<sup>-34</sup>js, c = 3 x 10<sup>8</sup>ms<sup>-1</sup>]",
+        "explanation": "E = HF = (hc)/λ<br>Eλ = hc<br>∴ X = hc ==6.63 x 10<sup>-34</sup>x 10<sup>8</sup><br>= 1.989 x 10<sup>-25</sup><br>=1.99 x 10<sup>-25</sup>",
+        "correctIndex": 3,
+        "options": [
+            "6.6 X 10<sup>-28</sup>",
+            "1.99 X 10<sup>-27</sup>",
+            "6.60 x 10<sup>-26</sup>",
+            "1.99 x 10<sup>-25</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2007,
+        "question": "The bond that forms a semiconductor is?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "covalent",
+            "electrovalent",
+            "ionic",
+            "metallic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2007,
+        "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
+        "explanation": "When silicon, a four valency element, is doped with aluminum, a three valency element, a p-type semiconductor is produced where the major carriers are the electrons.<br>Thus, the correct option is p-type and n-type respectively",
+        "correctIndex": 0,
+        "options": [
+            "p- and n- types respectively",
+            "n- en p- type respectively",
+            "p- type semiconductor",
+            "n- type semiconductors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25912197739_phy20072aaa.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15001798691_phy20072aaa.jpg\" class=\"img-fluid\">\n</div><u>Resolution of force:</u><br>Total vertical upward force:<br>= 3√3 + 10 cos 60<sup>o</sup><br>= 3√3 + 5.<br>Total downward force<br>= 6 cos 30<sup>o</sup><br>= 6 x √(<sup>3</sup>/<sub>2</sub>) = 3√3<br>Total horizontal forces towards right;<br>= 3N + cos 30<sup>o</sup><br>= 3N + 10 x √(<sup>3</sup>/<sub>2</sub>)<br>= 3N + 5√3<br>Total horizontal forces towards left:<br>= 6 cos 60<sup>o</sup><br>= 6 x 0.5<br>= 3.0N<br><u>Summary</u>:<br>Vertical resultant forces upward:<br>= 3√3 + 5 - 3√3<br>= 5N<br>Horizontal resultant forces towards right:<br>= 3N + 5√3 - 3√3<br>= 5N<br>Horizontal resultant force towards right<br>= 3N + 5√3 - 3N<br>= 5√3N<br><br>∴ R<sup>2</sup>= 5<sup>2</sup>+ (5√3)<sup>2</sup><br>= 25 + 25 x 3<br>= 100<br>∴ R = √100<br>= 10N",
+        "correctIndex": 2,
+        "options": [
+            "5N",
+            "5√ 3N",
+            "10N",
+            "10√ 3N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24548406732_phy20075.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The ball has its fastest speed at its equilibrium position when its displacement X = 0, which is at X. At this point, the bob has maximum velocity and maximum kinetic energy.</p>",
+        "correctIndex": 0,
+        "options": [
+            "X",
+            "Y",
+            "Z",
+            "W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23184622015_phy20077.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23184622015_phy20077a.jpg\" class=\"img-fluid\">\n</div>Being a uniform rod, the height W should be acting at the mid point 25cm mark.<br>∴ Taking moment about the fulcrum, F,<br>200 x 10 = W x 10 + 40 x 30<br>2000 = 10W + 1200<br>=&gt; 10W = 2000 - 1200<br>= 800<br>w = 800/10 = 80N",
+        "correctIndex": 1,
+        "options": [
+            "40N",
+            "80N",
+            "120N",
+            "200N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2007,
+        "question": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2N applied at the angle of 60<sup>o</sup>to the floor. The work done after a distance of 3m is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/21820827824_phy20078a.jpg\" class=\"img-fluid\">\n</div>Effective component of the force along the horizontal = F cos 60<sup>o</sup><br>Work done by this force : 60<br>F cos 60 x X<br>= 2 x 0.5 x 3<br>= 3J",
+        "correctIndex": 0,
+        "options": [
+            "3 J",
+            "4 J",
+            "5 J",
+            "6 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2007,
+        "question": "A blacksmith heated a metal whose cubic expansivity is 6.3 x 10<sup>-6</sup>K<sup>-1</sup>. The areal expansivity is",
+        "explanation": "If the lineal expansivity = ∝<br>=&gt; area expansivity β= 2∝.<br>And cubic expansivity δ = 3∝.<br>=&gt; 6.3 x 10<sup>-6</sup>= 3∝<br>∴ ∝ =<table><tbody><tr><td rowspan=\"2\">∴ ∝ = </td><td style=\"border-bottom:solid 1px\">6.3 x 10<sup>-6</sup></td><td rowspan=\"2\"> = 2.1x 10<sup>-6</sup></td></tr><tr><td>__3</td></tr></tbody></table><br>∴ Area = 2∝ = 2 x 2.1x10<sup>-6</sup><br>= 4.2 x 10<sup>-6</sup>K<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "2.0 x 10<sup>-6</sup>K<sup>-1</sup>",
+            "2.1 x 10<sup>-6</sup>K<sup>-1</sup>",
+            "4.2 x 10<sup>-6</sup>K<sup>-1</sup>",
+            "6.3 x 10<sup>-6</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2007,
+        "question": "The ratio of the coefficient of linear expansion of two metals<sup>∝<sub>1</sub></sup>/<sub>∝<sub>2</sub></sub>is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals,<sup>e<sub>1</sub></sup>/<sub>e<sub>2</sub></sub>is 1:2, the ratio of the original lengths<sup>l<sub>1</sub></sup>/<sub>l<sub>2</sub></sub>is",
+        "explanation": "Ratio of their linear expansion =<sup>∝<sub>1</sub></sup>/<sub>∝<sub>2</sub></sub>= 3:4.<br>When heated to the same temperature range, the ratio of their increase in length<sup>e<sub>1</sub></sup>/<sub>e<sub>2</sub></sub>= 1:2<br>But the increase in length of<br>1 = e<sub>1</sub>= ∝<sub>1</sub>l<sub>1</sub>Δθ and increase i length of<br>2 = e<sub>2</sub>= ∝<sub>2</sub>l<sub>2</sub>Δθ<br><table><tbody><tr><td rowspan=\"2\">=&gt; </td><td style=\"border-bottom:solid 1px\">e<sub>1</sub></td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">∝<sub>1</sub>l<sub>1</sub>Δθ</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">∝<sub>1</sub>l<sub>1</sub></td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">1</td></tr><tr><td>e<sub>2</sub></td><td>∝<sub>2</sub>l<sub>2</sub>Δθ</td><td>∝<sub>2</sub>l<sub>2</sub></td><td>2</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">But </td><td style=\"border-bottom:solid 1px\">∝<sub>1</sub></td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">3</td><td rowspan=\"2\">, ∴</td><td style=\"border-bottom:solid 1px\">3</td><td rowspan=\"2\">x</td><td style=\"border-bottom:solid 1px\">l<sub>1</sub></td><td rowspan=\"2\">=</td><td style=\"border-bottom:solid 1px\">1</td></tr><tr><td>∝<sub>2</sub></td><td>4</td><td>4</td><td>l<sub>2</sub></td><td>2</td></tr></tbody></table><br>=&gt; 6l<sub>1</sub>= 4l<sub>2</sub><br><table><tbody><tr><td rowspan=\"2\">∴</td><td style=\"border-bottom:solid 1px\">l<sub>1</sub></td><td rowspan=\"2\">=</td><td style=\"border-bottom:solid 1px\">4</td><td rowspan=\"2\">=</td><td style=\"border-bottom:solid 1px\">2</td><td rowspan=\"2\">OR 2 : 3</td></tr><td>l<sub>2</sub></td><td>6</td><td>3</td></tbody></table>",
+        "correctIndex": 2,
+        "options": [
+            "<sup>8</sup>/<sub>3</sub>",
+            "<sup>3</sup>/<sub>2</sub>",
+            "<sup>2</sup>/<sub>3</sub>",
+            "<sup>3</sup>/<sub>8</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2007,
+        "question": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
+        "explanation": "The fundamental frequency is related to tension as<br>F ∝ √T<br><table><tbody><tr><td rowspan=\"2\">=&gt;</td><td style=\"border-bottom:solid 1px\">F</td><td rowspan=\"2\">= K</td></tr><tr><td>√T</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">∴</td><td style=\"border-bottom:solid 1px\">F<sub>1</sub></td><td rowspan=\"2\">=</td><td style=\"border-bottom:solid 1px\">F<sub>2</sub></td><td rowspan=\"2\">=&gt;</td><td style=\"border-bottom:solid 1px\">250</td><td rowspan=\"2\">=</td><td style=\"border-bottom:solid 1px\">500</td></tr><td>√T<sub>1</sub></td><td>√T<sub>2</sub></td><td>√400</td><td>√T<sub>2</sub></td></tbody></table><br><table><tbody><tr><td rowspan=\"2\">∴√T<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">500</td><td rowspan=\"2\">√400 = 2 x 20</td></tr><tr><td>250</td></tr></tbody></table><br>∴ T<sub>2</sub>= 40<sup>2</sup>= 1600N",
+        "correctIndex": 0,
+        "options": [
+            "1600N",
+            "400N",
+            "160N",
+            "40N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6819048110_phy200734.jpg\" class=\"img-fluid\">",
+        "explanation": "Since the cells are connected in parallel the net e.m.f is that of one cell, E.<br>However the effective internal resistance should be added as parallel resistance.<br>=&gt;<sup>1</sup>/<sub>v</sub>+<sup>1</sup>/<sub>25</sub>+<sup>1</sup>/<sub>25</sub>+<sup>1</sup>/<sub>25</sub>= 1.2<br>∴ v = 0.83Ω<br>∴ Effective e.m.f and internal resistance are respectively = 1.5V and 0.83Ω",
+        "correctIndex": 1,
+        "options": [
+            "1.5V, 7.50Ω",
+            "1,5V, 0.83Ω",
+            "4.5V, 7.50Ω",
+            "4.5V, 0.83Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16365719088_phy200737.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Upwards",
+            "Downwards",
+            "Right",
+            "Left"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2007,
+        "question": "The instantaneous value of the induced e.m.f as a function of time is ε = ε<sub>o</sub>sin ωt where ε<sub>o</sub>is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
+        "explanation": "Period is the time to complete one cycle of 360<sup>o</sup><br>=&gt; Periodic Time T ≡ 1 cycle of 360<sup>o</sup><br>∴<sup>T</sup>/<sub>4</sub>=<sup>360</sup>/<sub>4</sub>= 90<sup>o</sup><br>∴ Instantaneous e.m.f E = E<sup>o</sup>sin ωt<br>= E<sup>o</sup>sin 90<br>But sin 90 = 1: =&gt; E = E<sup>o</sup>x 1<br>= E<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "0.00",
+            "<sup>ε<sub>o</sub></sup>/<sub>4</sub>",
+            "<sup>ε<sub>o</sub></sup>/<sub>2</sub>",
+            "ε<sub>o</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2007,
+        "question": "During the nuclear reaction described by<br><table><tbody><tr><td>235</td><td rowspan=\"2\">W →</td><td>235</td><td rowspan=\"2\">X→</td><td>231</td><td rowspan=\"2\">Y</td></tr><tr><td>92</td><td>93</td><td>91</td></tr></tbody></table><br>the particles emitted are respectively",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25915155184_phy200745a.jpg\" class=\"img-fluid\">\n</div>The decay process illustrated above shows that the lost β -particle to decay to the X by increase its atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).<br>Thus , the emission is β and α particles respectively",
+        "correctIndex": 3,
+        "options": [
+            "α and α",
+            "α and β",
+            "β and β",
+            "β and α"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8183736768_phy200742.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8183736768_phy200742.jpg\" class=\"img-fluid\">\n</div>The inductive reactance is given as<br>Xl = 2πfl<br>= 2 x<sup>50</sup>/<sub>π</sub>x 0.1<br>= 10Ω<br>Again from ohms law,<br>R =<sup>V</sup>/<sub>I</sub>=<sup>75</sup>/<sub>1.5</sub>= 50Ω<br>∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+        "correctIndex": 3,
+        "options": [
+            "50Ω and 45Ω",
+            "25Ω and 51Ω",
+            "20Ω and 50Ω",
+            "10Ω and 50Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2007,
+        "question": "118.8cm<sup>2</sup>surface of the copper cathode of a voltameter is to be coated with 10<sup>-6</sup>m thick copper of density 9 x 10<sup>3</sup>kgm<sup>-3</sup>. How long will the process run with 10A constant current?<br>[3.3 x 10<sup>-7</sup>kgC<sup>-1</sup>]",
+        "explanation": "From faradays law, M = itz<br>But mass, M = volume x density<br>and volume = cross sectional area x thickness<br>M = 118.8cm<sup>2</sup>x 10<sup>-6</sup>x 9 x 10<sup>3</sup><br>∴ 118.8cm<sup>2</sup>x 10<sup>-6</sup>x 9 x 10<sup>3</sup>= 10 x t x 3.3 x 10<sup>-7</sup><br>∴ (118.8 x 9) x 10<sup>-7</sup>= 10 x t x 3.3 x 10<sup>-7</sup><br><br>∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)<br><br>t = 324 seconds<br><br>Convert to minutes by dividing by 60<br><br>t = \\(\\frac{324}{60}\\)<br><br>t = 5.4 sec",
+        "correctIndex": 0,
+        "options": [
+            "5.4 min",
+            "10.8 min",
+            "15.0 min",
+            "20.0 min"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2007,
+        "question": "A particle of weight 120N is placed on a plane inclined at 30<sup>0</sup>to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?",
+        "explanation": "Efficiency = \\( \\frac{W(120N)INPUT}{WORK OUTPUT} \\times \\frac{100}{1} \\)<br><br>And for incline plane<br><br>V.R =\\( \\frac{1}{Sin\\theta} \\\\<br>= V.R = \\frac{1}{Sin30} =\\frac{1}{0.5} = 2 \\\\<br><br>\\text{therefore } \\frac{60}{120} = \\frac{M.A}{2}<br>=M.A = \\frac{120}{100} = 1.2\\\\<br><br>\\text{but M.A } = \\frac{load}{effort} = \\frac{120}{E}\\\\<br><br>\\text{therefore} \\frac{120}{E} = 1.2 \\\\<br><br>= E =\\frac{120}{1.2 } = 100N \\\\ \\)<br><br><br>Therefore Effort up the plane = 100N",
+        "correctIndex": 1,
+        "options": [
+            "50N",
+            "100N",
+            "175N",
+            "210N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2007,
+        "question": "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?",
+        "explanation": "from hooke's law F=Ke<br>\\(<br>\\frac{F_1}{e_1} - \\frac{F_2}{e_2} \\text{therefore}<br><br>\\frac{4}{0.02} = \\frac{15}{e_2} \\)<br><br>e<sub>1</sub>= \\( \\frac{0.02 x 15}{4} = 0.075M \\)<br><br>The new length of the string is 4 + 0.075<br>= 4.075<br>= 4.08",
+        "correctIndex": 1,
+        "options": [
+            "4.05m",
+            "4.08m",
+            "5.05m",
+            "6.08m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2007,
+        "question": "Which of the following gas laws is equivalent to the work done?",
+        "explanation": "Mathematically Boyle's law = PV = K<br>Where P = Pressure<br>and V = Volume<br><br><br>By definition Pressure = \\( \\frac{F}{A} = \\frac{F}{M \\times M} \\)<br><br>Again Workdone = force x displacement<br><br>therefore \\( PV = \\frac{F}{A} \\times V = \\frac{F}{M^2} \\times \\frac{M^3}{1} \\\\<br><br>PV = \\frac{F}{x\\times x} \\times \\frac{x \\times x \\times x}{1} = F \\times x \\)<br><br>= force x displacement",
+        "correctIndex": 0,
+        "options": [
+            "Boyle' law",
+            "Charles law",
+            "Pressure law",
+            "van der Waal's law"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2007,
+        "question": "The difference observed in solids, liquids and gases can be accounted for by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The different molecules in each of them",
+            "The spaces and forces acting between the molecules",
+            "Thier melting points",
+            "Their relative massess"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2007,
+        "question": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is",
+        "explanation": "Workdone = product of the charge Q, and the p.d V.<br><br>i.e Work done = QV<br>= 600 * 10<sup>-6</sup>*2.1 * 10<sup>3</sup><br><br>=1.8j",
+        "correctIndex": 1,
+        "options": [
+            "0.8j",
+            "1.8j",
+            "9.0j",
+            "18.0j"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2007,
+        "question": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
+        "explanation": "\\( R = \\frac{1}{a} p \\implies p = \\frac{R.a}{1} = \\frac{0.1 \\times 3.14}{2} \\left ( \\frac{10^{-3}}{2} \\right)^2 \\\\<br><br>\\text{Therefore } p = \\frac{0.1 \\times 3.14 \\times 10^{-6}}{2 \\times 4} \\\\<br><br>= 0.3925 \\times 10^{-7} \\text{ OR } -3.930 \\times 10 ^{-8}Ωm \\)",
+        "correctIndex": 3,
+        "options": [
+            "2.55 * 10<sup>5</sup>Ωm",
+            "2.55 * 10<sup>3</sup>Ωm",
+            "3.93 * 10<sup>-6</sup>Ωm",
+            "3.93 * 10<sup>-8</sup>Ωm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2007,
+        "question": "A 40KW electric cable was uses to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is",
+        "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\<br>\\text{Therefore } 40000 = 1 \\times 800\\\\<br><br>\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)<br><br>Resistor = 50A<br>power loss= I<sup>2</sup>R = 50<sup>2</sup>x 2<br>= 2500 x 2 = 5.0 x 10<sup>3</sup>W",
+        "correctIndex": 3,
+        "options": [
+            "4.0 x 10<sup>2</sup>W",
+            "5.0 x 10<sup>2</sup>W",
+            "4.0 x 10<sup>3</sup>W",
+            "5.0 x 10<sup>3</sup>W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2007,
+        "question": "The instrument that measures both ac and dc is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "A current balance",
+            "a moving coil ammenter",
+            "a moving iron ammeter",
+            "an inverter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2007,
+        "question": "two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10<sup>-5</sup>N. the force per unit length experienced by wire Y is",
+        "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally<br>5 x 10<sup>-5</sup>",
+        "correctIndex": 3,
+        "options": [
+            "3 x 10<sup>-5</sup>",
+            "3 x 10<sup>-6</sup>",
+            "5 x 10<sup>5</sup>",
+            "5 x 10<sup>-5</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2007,
+        "question": "Lenz's law is a law of conservation of",
+        "explanation": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+        "correctIndex": 2,
+        "options": [
+            "electric charge",
+            "electric current",
+            "Energy",
+            "Momentum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2007,
+        "question": "<p>A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value</p>",
+        "explanation": "<p>Power of the lamp = 60W;  </p><p>\\(I = {\\frac{P}{V}}\\)</p><p>\\(I = {\\frac{60}{120}}\\) = \\(0.5A\\)</p><p>\\(R = {\\frac{V}{I}}\\)</p><p>\\(R_mains\\) = \\(\\frac{220}{0.5}\\) = \\(440\\Omega\\)</p><p>\\(R_lamp\\) = \\(\\frac{120}{0.5}\\) = \\(240\\Omega\\)</p><p>\\(\\therefore\\) The non-inductive resistance to keep the lamp = \\((440 - 240)\\Omega\\)</p><p>= \\(200\\Omega\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "100Ω",
+            "200Ω",
+            "300Ω",
+            "500Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2007,
+        "question": "<p>A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?</p>",
+        "explanation": "<p>80 days = 4 half lives (i.e 4 x 20dqs = 80dq)<br>\n<br>\nBut the fraction always left by any radioactive material after 4 half lives is<br>\n<br>\n\\( \\left ( \\frac{1}{2} \\right)^4 = \\frac{1}{16} \\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\( \\frac{1}{32} \\)",
+            "\\( \\frac{1}{16} \\)",
+            "\\( \\frac{1}{8} \\)",
+            "\\( \\frac{1}{4} \\)"
+        ],
+        "type": "objectives"
+    }
+]

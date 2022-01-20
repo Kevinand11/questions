@@ -1,0 +1,722 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2004,
+        "question": "<p>An arc of a circle of length 22 cm subtends an angle of 3x° at the center of the circle. Find the value of x if the diameter of the circle is 14 cm</p>",
+        "explanation": "<p>\\( ARC\\hspace{1mm}length = (\\frac{\\theta}{360})\\times 2\\pi r\\\\22=\\frac{3x}{360}\\times \\left(2 \\times(\\frac{22}{7})\\times(\\frac{7}{1})\\right)\\\\3x = 180\\\\x = \\frac{180}{3}\\\\x = 60^{\\circ}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "60<sup>o</sup>",
+            "120<sup>o</sup>",
+            "180<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2004,
+        "question": "Find the value of α<sup>2</sup>+ β<sup>2</sup>if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units",
+        "explanation": "\\(PQ = \\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\\\<br>3 =\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\\\<br>3 = \\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\\\<br>3 = \\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\\\<br>3 = \\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\\\<br>3 = \\sqrt{(α^{2} + β^{2} - 2)}\\\\<br>9 = (α^{2} + β^{2} - 2)\\\\<br>α^{2} + β^{2} = 9 + 2\\\\<br>α^{2} + β^{2} = 11\\)",
+        "correctIndex": 3,
+        "options": [
+            "14",
+            "3",
+            "5",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2004,
+        "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+        "explanation": "6x + 6y = (n - 2) 180<br>6x + 6y= (5 - 2) 180<br>6(x + y) = 3 * 180<br>x + y = (3 * 180)/6<br>x + y = 90<sup>o</sup><br>y = 90 - x",
+        "correctIndex": 0,
+        "options": [
+            "y = 90 - x",
+            "y = 150 - x",
+            "y = 60 - x",
+            "y = 120 -x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9487858254_math20044.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of parallelogram PQTU = base * height<br>\n32 = 4 * h<br>\nw = 32/4<br>\nw = 8<br>\n∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8<br>\n= 1/2 * (18 * 8)<br>\n= 72 cm\\(^2\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "60 cm<sup>2</sup>",
+            "72 cm<sup>2</sup>",
+            "48 cm<sup>2</sup>",
+            "24 cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2004,
+        "question": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
+        "explanation": "\\(Mid point = \\frac{(x_1 + x_2)}{2} ; \\frac{(y_1 + y_2)}{2}\\\\<br>= \\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\\\<br>= \\frac{2}{2} ; \\frac{2}{2}\\\\<br>= (1, 1)\\)",
+        "correctIndex": 0,
+        "options": [
+            "(1, 1)",
+            "(2, 2)",
+            "(4, 4)",
+            "(4, -4)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2004,
+        "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+        "explanation": "The diagonal QS bisects the angle formed by PQ and QR<br>∴ [A]",
+        "correctIndex": 0,
+        "options": [
+            "The diagonal QS",
+            "the perpendicular bisector of PQ",
+            "The diagonal PR",
+            "side SR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27108875300_maths20048.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{X}{sin45}=\\frac{15}{sin60}\\\\X=\\frac{15sin45}{sin60}\\\\X=\\frac{15\\times(\\frac{1}{\\sqrt{2}})}{\\sqrt{\\frac{3}{2}}}\\\\X=\\frac{15}{\\sqrt{2}}\\times\\frac{2}{\\sqrt{3}}\\\\X=\\frac{30}{\\sqrt{6}}\\\\X=\\frac{30}{\\sqrt{6}}\\times\\frac{\\sqrt{6}}{\\sqrt{6}}=\\frac{30\\sqrt{6}}{6}=5\\sqrt{6}\\)",
+        "correctIndex": 3,
+        "options": [
+            "15√6",
+            "20√6",
+            "3√6",
+            "5√6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11844711056_0000.png\" class=\"img-fluid\">",
+        "explanation": "x<sup>o</sup>= 35 + 29 (Exterior angle = sum of two interior opposite angles)<br>x = 55<sup>o</sup>(∠ at the center twice ∠ at circumference) y = 110<sup>o</sup><br>∠PSO = ∠SPO (base ∠S of 1sc Δ b/c PO = SO)<br>∴ ∠PSO = (180 - 110)/2<br>= 35<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "45<sup>o</sup>",
+            "55<sup>o</sup>",
+            "35<sup>o</sup>",
+            "40<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2004,
+        "question": "<p>The locus of a point which is 5 cm from the line LM is a</p>",
+        "explanation": "<p>The locus of a point which is 5cm from the line LM is a pair of lines on opposite sides of LM and parallel to it, each distance 5cm from LM.</p>",
+        "correctIndex": 1,
+        "options": [
+            "line distance 10 cm from LM and parallel to LM",
+            "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+            "line parallel to LM and 5 cm from LM",
+            "pair of parallel lines on one side of LM and parallel to LM"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2004,
+        "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
+        "explanation": "y = 3cos(x/3)<br>dy/dx = 3x(1/3)x - sin (x/3)<br>= - sin x/3<br>But x = 3π/2 ∴ -sin(x/3) = -sin(3π/6)<br>= -sin (3 * 180)/6<br>= - sin 90<br>= -1",
+        "correctIndex": 3,
+        "options": [
+            "1",
+            "-3",
+            "2",
+            "-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2004,
+        "question": "<p>Find the derivatives of (2 + 3x)(1 - x) with respect to x</p>",
+        "explanation": "<p>y = (2 + 3x)(1 - x)<br>\ny = 2 - 2x + 3x - 3x2<br>\ny = 2 + x - 3x2<br>\ndy/dx = 1 - 6x</p>",
+        "correctIndex": 2,
+        "options": [
+            "6",
+            "-3",
+            "1 - 6x",
+            "6x - 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2004,
+        "question": "<p>What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?</p>",
+        "explanation": "<p>\\(V = \\frac{2}{3} \\pi r^{3}\\)</p><p>\\(\\frac{\\mathrm d V}{\\mathrm d r} = 2\\pi r^{2}\\)</p><p>\\(\\frac{\\mathrm d V}{\\mathrm d r} (r = 2) = 2\\pi (2)^{2}\\)</p><p>= \\(8\\pi\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "8π",
+            "16π",
+            "2π",
+            "4π"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2004,
+        "question": "Find the derivatives of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1",
+        "explanation": "y = 2x<sup>2</sup>(2x - 1)<br>y = 4x<sup>3</sup>- 2x<sup>2</sup><br>dy/dx = 12x<sup>2</sup>- 4x<br>at x = -1<br>dy/dx = 12(-1)<sup>2</sup>- 4(-1)<br>= 12 + 4<br>= 16",
+        "correctIndex": 1,
+        "options": [
+            "18",
+            "16",
+            "-4",
+            "-6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2004,
+        "question": "<p>Evaluate \\(\\int_{1}^{3}(x^2 - 1)dx\\)</p>",
+        "explanation": "<p>\\(\\int_{1}^{3}(x^2 - 1)dx = \\left[\\frac{1}{3}x^2 - x\\right] ^{3}_{1}\\\\ =(9-3)-(\\frac{1}{3}-1)\\\\ =6-\\left(-\\frac{2}{3}\\right)\\\\ =6+\\frac{2}{3}=6\\frac{2}{3}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{2}{3}\\)",
+            "\\(-\\frac{2}{3}\\)",
+            "\\(-6\\frac{2}{3}\\)",
+            "\\(6\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2004,
+        "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
+        "explanation": "Number of white balls = x<br>Number of red balls = 12<br>Number of black balls = 16<br>Total number of balls = 28 + x<br>P(white balls) = 3/7<br>But P(white balls) \\(= \\frac{x}{28+x}\\\\<br>= \\frac{3}{7} = \\frac{x}{28+x}\\\\<br>3(28 + x) = 7x\\\\<br>84 + 3x = 7x\\\\<br>7x - 3x = 84\\\\<br>4x = 84\\\\<br>x = 21\\)",
+        "correctIndex": 1,
+        "options": [
+            "12",
+            "21",
+            "28",
+            "32"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2004,
+        "question": "find the mean deviation of 1, 2, 3 and 4",
+        "explanation": "X = 1, 2, 3, 4; ∑X = 10<br>x = ∑X/n = 10/4 = 2.5<br>X - x = -1.5, -0.5, 0.5, 1.5<br>lX - xl = 1.5, 0.5, 0.5, 1.5; ∑lX - xl = 4.0<br>mean deviation = (∑lX - xl)/n<br>= 4.0/4<br>= 1.0",
+        "correctIndex": 2,
+        "options": [
+            "2.5",
+            "2.0",
+            "1.0",
+            "1.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8133353412_math200420.jpg\" class=\"img-fluid\">",
+        "explanation": "Number of times 5 was obtained = 20<br>P(obtaining 5) = 20/100<br>= 1/5",
+        "correctIndex": 0,
+        "options": [
+            "1/5",
+            "1/2",
+            "1/6",
+            "1/4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18977834260_math200421.jpg\" class=\"img-fluid\">",
+        "explanation": "Sectorial angle of beans = 360 - (150 + 90 + 60)<br>= 360 -300<br>= 60<sup>o</sup><br>if 150<sup>o</sup>represents 3000 tonnes<br>1<sup>o</sup>3000/150<br>60<sup>o</sup>will represents (3000/150) * (60/1)<br>= 1200 tonnes",
+        "correctIndex": 2,
+        "options": [
+            "6000 tonnes",
+            "1500 tonnes",
+            "1200 tonnes",
+            "9000 tonnes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2004,
+        "question": "<p>In how many ways can 2 students be selected from a group of 5 students in a debating competition?</p>",
+        "explanation": "<p>\\(In\\hspace{1mm} ^{5}C_{2}\\hspace{1mm}ways\\hspace{1mm}=\\frac{5!}{(5-2)!2!}\\\\=\\frac{5!}{3!2!}\\\\=\\frac{5\\times4\\times3!}{3!\\times2\\times1}\\\\=10\\hspace{1mm}ways\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "25 ways",
+            "10 ways",
+            "15 ways",
+            "20 ways"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2004,
+        "question": "<p>The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group</p>",
+        "explanation": "<p>Let the number of students = x<br>\nTotal age of the students = 15x<br>\nTotal age including age of the teacher = 15x + 45<br>\nMean of their ages; (15x + 45)/(x + 1) = 18<br>\n15x + 45 = 18(x + 1)<br>\n15x + 45 = 18x + 18<br>\n18x - 15x = 45 - 18<br>\n3x = 27<br>\nx = 9</p>",
+        "correctIndex": 0,
+        "options": [
+            "9",
+            "7",
+            "42",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2004,
+        "question": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
+        "explanation": "Gold medals = 30<br>silver medals = 22<br>Bronze medals = 18/70<br>P(Gold medals) = 30/70 = 3/7<br>∴ P(not Gold medal) = 1 - 3/7<br>= 4/7",
+        "correctIndex": 2,
+        "options": [
+            "9/35",
+            "11/35",
+            "4/7",
+            "3/7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2004,
+        "question": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly",
+        "explanation": "\\(^{3}C_{1} \\times ^{9}C_{5}=\\frac{3!}{(3-1)!1!}\\times \\frac{9!}{(9-5)!5!}\\\\=\\frac{3!}{2!1!}\\times \\frac{9!}{4!5!}\\\\=\\frac{3 \\times 2!}{2!\\times 1}\\times \\frac{9\\times8\\times7\\times6\\times5!}{4\\times3\\times2\\times1\\times5!}\\\\=3\\times9\\times2\\times7\\\\=378 \\hspace{1mm}ways\\)",
+        "correctIndex": 0,
+        "options": [
+            "378 ways",
+            "462 ways",
+            "840 ways",
+            "924 ways"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2004,
+        "question": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
+        "explanation": "Range = 18 - 15<br>= 3",
+        "correctIndex": 1,
+        "options": [
+            "4",
+            "3",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2004,
+        "question": "I. Rectangular bars of equal width<br>II. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.<br>III. Rectangular bars have common sides with no gaps in between<br>A histogram is described completely by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "I, II and III",
+            "I and II",
+            "II and III",
+            "I and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2004,
+        "question": "<p>y is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.</p>",
+        "explanation": "<p>y ∝ 1/x<br>\ny = K/x<br>\nK = xy<br>\nK = (1/2) * 4 ( when y = 4 and x = 1/2)<br>\nK = 2<br>\n∴y = 2/x<br>\n10 = 2/x (when y = 10)<br>\n10x = 2<br>\nx = 2/10<br>\nx = 1/5</p>",
+        "correctIndex": 2,
+        "options": [
+            "2",
+            "10",
+            "1/5",
+            "1/10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2004,
+        "question": "<p>What are the integer values of x which satisfy the inequality -1 &lt; 3 -2x \\(\\leq\\) 5?</p>",
+        "explanation": "<p>-1 &lt; 3 -2x and 3 - 2x \\(\\leq\\) 5<br>\n2x &lt; 3 + 1 and -2x \\(\\leq\\) 5 - 3<br>\n2x &lt; 4 and -2x \\(\\leq\\) 2<br>\nx &lt; 2 and x \\(\\geq\\) 2/-2 = x \\(\\geq\\) -1<br>\nIf -1 \\(\\leq\\) x &lt; 2<br>\nit implies that x = -1, 0, 1</p>",
+        "correctIndex": 3,
+        "options": [
+            "-1. 0, 1, 2",
+            "-2, 1, 0 , -1",
+            "0, 1, 2",
+            "-1, 0, 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2004,
+        "question": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+        "explanation": "\\(a=6, U_4 = 162\\\\U_4 = ar^{4-1}\\\\U_4 = ar^3\\\\162 = 6(r)^3\\\\r^3 = 27\\\\r=\\sqrt[3]{27}\\\\r=3\\\\S_4 = \\frac{a(r^{n}-1)}{r-1}\\\\=\\frac{6(3^{3}-1)}{3-1}\\\\=\\frac{6(27-1)}{2}\\\\=3\\times26\\\\=78\\)",
+        "correctIndex": 2,
+        "options": [
+            "27",
+            "8",
+            "78",
+            "48"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2004,
+        "question": "<p>If the operation * on the set of integers is defined by P * Q = \\(\\sqrt{PQ}\\), find the value of 4 * ( 8 * 32).</p>",
+        "explanation": "<p>\\(P\\times Q=\\sqrt{PQ}\\\\4\\times(8\\times32)=4\\times\\sqrt{8\\times32}\\\\=4\\times\\sqrt{256}\\\\=4\\times16\\\\=\\sqrt{4\\times16}\\\\=\\sqrt{64}\\\\=8\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "8",
+            "3",
+            "16",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2004,
+        "question": "Find the remainder when 3x<sup>3</sup>+ 5x<sup>2</sup>- 11x + 4 is divided by x + 3",
+        "explanation": "x = -3<br>substitute x = -3 in 3x<sup>3</sup>+ 5x<sup>2</sup>- 11x + 4<br>3(-3)<sup>3</sup>+ 5(-3)<sup>2</sup>- 11(-3) + 4<br>-81 + 45 + 33 + 4<br>-81 + 82<br>= 1",
+        "correctIndex": 2,
+        "options": [
+            "-4",
+            "4",
+            "1",
+            "-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2004,
+        "question": "The nth term of two sequences are Q<sub>n</sub>= 3 . 2<sup>n - 2</sup>and U<sub>m</sub>= 3 . 2<sup>2m - 3</sup>. Find the product of Q<sub>2</sub>and U<sub>2</sub>.",
+        "explanation": "Q<sub>n</sub>= 3 * 2<sup>n - 2</sup><br>U<sub>m</sub>= 3 * 2<sup>2m - 3</sup><br>Q<sub>2</sub>* U<sub>2</sub>= (3 * 2<sup>2 - 2</sup>) * (3 * 2<sup>2(2) - 3</sup>)<br>= 3 * 2<sup>0</sup>* 3 * 2<sup>1</sup><br>= 3 * 1 * 3 * 2<br>= 18",
+        "correctIndex": 0,
+        "options": [
+            "18",
+            "12",
+            "6",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2004,
+        "question": "Factorize completely ac - 2bc - a",
+        "explanation": "ac - 2bc - a<sup>2</sup>+ 4b<sup>2</sup><br>ac - 2bc - (a<sup>2</sup>- 4b<sup>2</sup>)<br>ac - 2bc - (a<sup>2</sup>-(2b)<sup>2</sup>)<br>c(a - 2b) - {(a - 2b)(a + 2b)}<br>(a - 2b)(c - (a + 2b))<br>(a - 2b)(c - a - 2b)",
+        "correctIndex": 0,
+        "options": [
+            "(a - 2b)(c - a - 2b)",
+            "(a - 2b)(c + a +2b)",
+            "(a - 2b)(c - a + 2b)",
+            "(a - 2b)(c + a - 2b)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2004,
+        "question": "<p>Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....</p>",
+        "explanation": "<p>\\(a=\\frac{1}{2}\\\\r=\\frac{\\frac{1}{6}}{\\frac{1}{2}}=\\frac{1}{6}\\times\\frac{2}{1}=\\frac{1}{3}\\\\S_\\infty = \\frac{a}{1-r}\\\\S_\\infty = \\frac{\\frac{1}{2}}{1-\\frac{1}{3}}\\\\=\\frac{\\frac{1}{2}}{\\frac{3}{2}}\\\\=\\frac{1}{2}\\times\\frac{3}{2}\\\\=\\frac{3}{4}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "2/3",
+            "1/3",
+            "3/4",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2004,
+        "question": "<p>The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec</p>",
+        "explanation": "<p>\\(L \\propto T^2\\)</p><p>\\(L = kT^2\\)</p><p>\\(k = \\frac{L}{T^2}\\)</p><p>when T = 4, L = 64.</p><p>\\(k = \\frac{64}{4^2} = 4\\)</p><p>\\(L = 4T^2\\)</p><p>when T = 9,</p><p>\\(L = 4 \\times 9^2 = 324cm\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "96 cm",
+            "324 cm",
+            "36 cm",
+            "144 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2004,
+        "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
+        "explanation": "First teacher received \\(\\frac{2}{5}\\) ∴Remainder \\(= 1 - \\frac{2}{5} = \\frac{3}{5}\\)<br>2nd teacher received; \\(\\frac{2}{15} of \\frac{3}{5} = \\frac{2}{15} \\times \\frac{3}{5} = \\frac{2}{25}\\)<br>3rd teacher will receive; \\(1-\\frac{2}{5}-\\frac{2}{25}=\\frac{25-10-2}{15}\\\\=\\frac{13}{25}\\)",
+        "correctIndex": 3,
+        "options": [
+            "8/15",
+            "11/25",
+            "12/25",
+            "13/25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2004,
+        "question": "If 6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2, find x.",
+        "explanation": "6log<sub>x</sub>2 - 3log<sub>x</sub>3 = 3log<sub>5</sub>0.2<br>= logx<sup>2</sup><sup>6</sup>- 3logx<sup>3</sup><sup>3</sup>= log5<sup>(0.2)3</sup><br>= logx(64/27) = log5(1/5)<sup>3</sup><br>logx(64/27) = log5(1/125)<br>let logx(64/27) = y<br>∴x<sup>y</sup>= 64/27<br>and log5(1/125) = y<br>∴ 5<sup>y</sup>= 1/125<br>5<sup>y</sup>= 125<sup>-1</sup><br>5<sup>y</sup>= 5<sup>-3</sup><br>∴ y = -3<br>substitute y = -3 in x<sup>y</sup>= 64/27<br>implies x<sup>-3</sup>= 64/27<br>1/x<sup>3</sup>= 64/27<br>64x<sup>3</sup>= 27<br>x<sup>3</sup>= 27/64<br>x<sup>3</sup>=<sup>3</sup>√27/64<br>x = 3/4",
+        "correctIndex": 2,
+        "options": [
+            "8/3",
+            "4/3",
+            "3/4",
+            "3/8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2004,
+        "question": "Find<i>P</i>, if 451<sub>6</sub>-<i>P</i><sub>7</sub>= 305<sub>6</sub>",
+        "explanation": "451<sub>6</sub>- P<sub>7</sub>= 305<sub>6</sub><br>P<sub>7</sub>= 451<sub>6</sub>- 305<sub>6</sub><br>P<sub>7</sub>= 142<sub>6</sub><br>convert 142<sub>6</sub>= 1 * 6<sup>2</sup>+ 4 * 6<sup>1</sup>+ 2 * 6<sup>0</sup><br>= 36 + 24 + 2<br>= 62<br>Convert 62<sub>10</sub>to base 7<br>62/7 = 8 R 6<br>8/7 = 1 R 1<br>1/7 = 0 R 1<br>∴P<sub>7</sub>= 116<sub>7</sub>",
+        "correctIndex": 1,
+        "options": [
+            "62<sub>7</sub>",
+            "116<sub>7</sub>",
+            "611<sub>7</sub>",
+            "142<sub>7</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2004,
+        "question": "Given that<sup>3</sup>√4<sup>2x</sup>= 16, find the value of x",
+        "explanation": "<sup>3</sup>√4<sup>2x</sup>= 16<br>this implies that (<sup>3</sup>√4<sup>2x</sup>)<sup>3</sup>= (16)<sup>3</sup><br>4<sup>2x</sup>= 4<sup>2*3</sup><br>4<sup>2x</sup>= 4<sup>6</sup><br>∴ 2x = 6<br>x = 3",
+        "correctIndex": 2,
+        "options": [
+            "4",
+            "6",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2004,
+        "question": "Evaluate \\(\\frac{\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4}}{\\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}}\\)",
+        "explanation": "\\(\\frac{\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4}}{\\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}}\\\\Numerator \\hspace{1mm}\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4} = \\frac{1}{5}+\\frac{1}{4}\\\\=\\frac{4+15}{60}=\\frac{19}{60}\\\\denominator\\hspace{1mm}= \\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}=\\frac{1}{2}\\times\\frac{5}{3}-\\frac{1}{4}\\\\=\\frac{5}{6}-\\frac{1}{4}\\\\=\\frac{10-3}{12}\\\\=\\frac{7}{12}\\\\\\frac{Numerator}{denominator}=\\frac{\\frac{19}{60}}{\\frac{7}{12}}\\\\=\\frac{19}{60}\\times\\frac{12}{7}=\\frac{19}{35}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{7}{12}\\)",
+            "\\(\\frac{19}{35}\\)",
+            "\\(\\frac{2}{25}\\)",
+            "\\(\\frac{19}{60}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6777947690_math200448.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The shaded portion shows the elements in Q and R, but not in P, Q n R n P'</p>",
+        "correctIndex": 3,
+        "options": [
+            "P<sup>c</sup>∪ (Q ∩ R)",
+            "P<sup>c</sup>∩ (Q ∪ R)",
+            "P ∩ Q",
+            "P<sup>c</sup>∩ (Q ∩ R)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2004,
+        "question": "Simplify \\(\\frac{1}{\\sqrt{3}+2}\\) in the form \\(a+b\\sqrt{3}\\)",
+        "explanation": "\\(\\frac{1}{\\sqrt{3}+2}=\\frac{1}{\\sqrt{3}+2}\\times \\frac{\\sqrt{3}-2}{\\sqrt{3}-2}\\\\=\\frac{\\sqrt{3}-2}{(\\sqrt{3})^{2} -2^{2}}\\\\=\\frac{\\sqrt{3}-2}{3-4}=\\frac{\\sqrt{3}-2}{1}\\\\=-\\sqrt{3}+2\\\\=2-\\sqrt{3}\\)",
+        "correctIndex": 0,
+        "options": [
+            "2 -√3",
+            "-2 - √3",
+            "2 + √3",
+            "-2 + √3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2004,
+        "question": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?",
+        "explanation": "5000 : 5000 * 500<br>5000 : 2500000<br>5 : 2500<br>1 : 500",
+        "correctIndex": 2,
+        "options": [
+            "1 : 250 000",
+            "1 : 25 000",
+            "1 : 500",
+            "1 : 5 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2004,
+        "question": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5433791548_math200410a.jpg\" class=\"img-fluid\">\n</div>Tan θ =<sup>5√3</sup>/<sub>5</sub><br>Tan θ = √3<br>θ = 60<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "45<sup>o</sup>",
+            "75<sup>o</sup>",
+            "30<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21735183088_math200433.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/1358448944_math200433.jpg\" class=\"img-fluid\">\n</div>Coordinates of the line are (x<sub>1</sub>y<sub>1</sub>)(0,2) respectively and (x<sub>2</sub>y<sub>2</sub>)(2,0) respectively<br>Gradient (m) of the line = (y<sub>2</sub>- y<sub>1</sub>) / (x<sub>2</sub>- x<sub>1</sub>) = (0-6) / (2-0) =<sup>-6</sup>/<sub>2</sub><br>= -3<br>Equation of the line y-y<sub>1</sub>= m(x-x<sub>1</sub>)<br>y - 6 = -3(x - 0)<br>y - 6 = -3x<br>y + 3x = 6<br>inequality; from the y axis, the shaded region is below the line<br>∴ y + 3x ∠ 6 and line is a broken line",
+        "correctIndex": 1,
+        "options": [
+            "{(x,y) : y - 3x &lt; -6}",
+            "{(x,y) : y + 3x &lt; 6}",
+            "{(x,y) : y + 3x &lt; -6}",
+            "{(x,y) : y - 3x &lt; 6}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2004,
+        "question": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25811455350_math20046a.jpg\" class=\"img-fluid\">\n</div><table><tbody><tr><td rowspan=\"2\">Each interior Angle of the polygon = </td><td style=\"border-bottom:solid 1px\">(n-2)</td><td rowspan=\"2\">180</td></tr><tr><td>_n</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">(6-2)</td><td rowspan=\"2\">180</td></tr><tr><td>_6</td></tr></tbody></table><br>= 4 x 30<br>= 120<sup>o</sup><br>i.e ∠PQR = 120<sup>o</sup>∴ RQD =<sup>120</sup>/<sub>2</sub>= 60<sup>o</sup>also<br>∴ Δ QOR is equilateral Δ ∴ QO = 7cm<br>∴ PO = QO = RO ...... = 7cm radius of the circumference of the circle = 2πr<br>= 2 x<sup>22</sup>/<sub>7</sub>x<sup>7</sup>/<sub>1</sub><br>= 44 cm",
+        "correctIndex": 3,
+        "options": [
+            "56 cm",
+            "22 cm",
+            "42 cm",
+            "44 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5711556520_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\begin{array}{c|c} \\text{class-marks(x)} &amp; \\text{(freq. (f)} &amp; \\text{cum. freq.}\\\\\\hline 9 &amp; &amp;3.....3\\\\14 &amp; &amp; 6....3 + 6 = 9\\\\ 19 &amp; &amp; 9.....9 + 9 = 18\\\\ 24 &amp; &amp; 3.....18 + 3 = 21\\\\ 29 &amp; &amp; 2.....21 + 2 = 23\\\\ 34 &amp; &amp; 2.....23 + 2 = 25\\\\ &amp; &amp; 25\\end{array}\\)<br>\n% of students scoring more than 20 marks<br>\n<br>\n= \\(\\frac{7}{25}\\) x 100% = 28%</p>",
+        "correctIndex": 1,
+        "options": [
+            "68%",
+            "28%",
+            "17%",
+            "8%"
+        ],
+        "type": "objectives"
+    }
+]

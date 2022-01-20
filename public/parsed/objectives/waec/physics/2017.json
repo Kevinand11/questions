@@ -1,0 +1,754 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/z9axoXv3j2uPZj5cCvnj20pWJ5SNS0to1jMjZUTG.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2.44mm",
+            "2.46mm",
+            "2.86mm",
+            "2.96mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2017,
+        "question": "<p>Which of the following is the dimension for impulse?</p>",
+        "explanation": "<p>Impulse = Force \\(\\times\\) time</p><p>Force has the dimension \\(\\frac{ML}{T^{2}}\\), hence </p><p>Impulse= \\(\\frac{ML}{T^{2}} \\times T = \\frac{ML}{T}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "MLT\\(^{-1}\\)",
+            "MLT\\(^{-2}\\)",
+            "MLT",
+            "ML"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2017,
+        "question": "<p>A body accelerates uniformly from rest at 2\\(ms^{-2}\\). Calculate its velocity when it has travelled a distance of 9m.</p>",
+        "explanation": "<p>Given that \\(u = 0ms^{-1}, a = 2ms^{-2}, s = 9m\\)</p><p>We can use the equation, \\(v^{2}=u^{2} +2as\\) so that we have,</p><p>\\(v^{2} = 0^{2} + 2\\times 2\\times 9\\)</p><p>\\(v^{2} = 36; v= 6.0ms^{-1}\\)</p><p>Note; u = Initial velocity</p><p>v = final velocity</p><p>a = acceleration</p><p>s = distance covered</p>",
+        "correctIndex": 2,
+        "options": [
+            "3.0\\(ms^{-1}\\)",
+            "4.5\\(ms^{-1}\\)",
+            "6.0\\(ms^{-1}\\)",
+            "18.0\\(ms^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2017,
+        "question": "<p>Which of the following statements about matter is not correct?</p>",
+        "explanation": "<p>All other properties of the different states of matter holds except that the molecules of solids don't move freely due to the fact that the particles in the solids are closely packed so it inhibits free motion.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Molecules of solids move more freely than molecules of liquids and gases",
+            "Molecules of solids are more closely packed than those of liquids",
+            "Energy is required to break the intermolecular forces of attraction between molecules",
+            "Molecules of liquids move about within the liquid and they are in constant motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2017,
+        "question": "<p>A ball is projected horizontally from the top of a tower. Neglecting air resistance, which of the following statements about its motion is/are correct?</p><p>I. Vertical acceleration on the ball decreases as it falls</p><p>II. The vertical force on the ball remains constant</p><p>III. The vertical speed of the ball increases as it falls</p>",
+        "explanation": "<p>The body while coming down is acted upon by acceleration due to gravity, hence, the vertical force is constant. Also, at maximum height, the vertical velocity is 0 and then increases as the body comes downward.</p>",
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2017,
+        "question": "<p>A body weighing 14N in air is partially immersed in water. If the mass of water displaced in the process is 200g, calculate the upthrust on the body. [g=10\\(m/s^{2}\\)]</p>",
+        "explanation": "<p>Upthrust = weight of liquid displaced</p><p>= mass of liquid displaced \\(\\times\\) acceleration due to gravity</p><p>= \\(\\frac{200}{1000} \\times 10\\)</p><p>= 2N</p>",
+        "correctIndex": 0,
+        "options": [
+            "2.0N",
+            "3.0N",
+            "3.5N",
+            "7.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2017,
+        "question": "<p>Which of the following processes is not a surface phenomenon?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Condensation",
+            "Evaporation",
+            "Photo Emission",
+            "Thermionic Emission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2017,
+        "question": "<p>A chemical balance is used for measuring</p>",
+        "explanation": "<p>It is a type of beam balance with great precision, and it can pick up the slightest mass placed on it.</p>",
+        "correctIndex": 1,
+        "options": [
+            "volume",
+            "mass",
+            "thickness",
+            "density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/kaayx3f7r3U76XPnFAlgXga1GcBLXQBBEafALowf.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2017,
+        "question": "<p>A motorist travelling at 72\\(kmh^{-1}\\) had his eyes shut for 0.4s during a hard sneeze. Calculate the distance covered by him during this time interval.</p>",
+        "explanation": "<p>Convert velocity from \\(kmh^{-1}\\) to \\(ms^{-1}\\), by multiplying \\(\\frac{1000}{3600}\\), </p><p>\\(72 \\times \\frac{1000}{3600}\\) = \\(20ms^{-1}\\)</p><p>Therefore, distance covered in 0.4s =  \\(20 \\times 0.4 = 8m\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "50.0m",
+            "28.8m",
+            "18.0m",
+            "8.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2017,
+        "question": "<p>The angle at which a projectile must be fired to cover maximum range is </p>",
+        "explanation": "<p>The formula is \\(\\frac{v^{2}sin2\\theta}{g}\\) </p><p>And the sine graph is highest at 1 with its inverse as 90°. Hence, \\(2\\theta\\) = 90°</p><p>\\(\\theta\\) = 45°</p>",
+        "correctIndex": 1,
+        "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2017,
+        "question": "<p>A body can undergo the following types of motion except</p>",
+        "explanation": "<p>Relative motion is the calculation of the motion of an object with regard to some other moving object. Hence, relative motion is not a type of motion.</p>",
+        "correctIndex": 3,
+        "options": [
+            "random",
+            "rotational",
+            "translational",
+            "relative"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28JyI61JzEECl7HHPUoHQzp6eYZCjytbjJmuOi7g.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2017,
+        "question": "<p>Ice of mass 50g at 0°C was completely melted by 70% of the total heat energy supplied. Calculate the total heat energy supplied  [Specific latent heat of fusion of ice = 336\\(Jg^{-1}\\)]</p>",
+        "explanation": "<p>The quantity of heat needed to melt ice = mL (where m is the mass of ice and L is the specific latent heat of fusion of ice)</p><p>Q = \\(50 \\times 336 = 16800J\\) but this is 70% of the total heat supplied so that we have,</p><p>70% total heat = 16800J</p><p>\\(\\frac{70}{100}\\) of total heat = 16800J</p><p>⇒ Total heat supplied = \\(\\frac{16800\\times100}{70} = 24000J\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "2400J",
+            "6800J",
+            "7251J",
+            "24000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2017,
+        "question": "<p>A plane is inclined at an angle \\(\\theta\\) to the horizontal. Its velocity ratio is</p>",
+        "explanation": "<p>Velocity ratio = \\(\\frac{Effort distance}{Load distance}\\)</p><p>On an inclined plane, it is the inverse of \\(sin\\theta\\) = \\(\\frac{1}{sin\\theta}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(sin\\theta\\)",
+            "\\(tan\\theta\\)",
+            "\\(\\frac{1}{sin\\theta}\\)",
+            "\\(\\frac{1}{tan\\theta}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/00tfz5HcZe64vEiYeeDmJfgjt7ngViVk3fWeNDAY.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>When a bubble is deep under water, it has both atmospheric pressure and water pressure (giving it depth), acting on it but as it rises, the water pressure decreases. At this point, the basic pressre acting on the bubble is the atmospheric pressure. Recall that pressure is inversely proportional to volume (Boyles' law), hence, the less the pressure, the more the volume.</p>",
+        "correctIndex": 0,
+        "options": [
+            "water pressure on the bubbles decreases",
+            "density of water increases with rise in temperature",
+            "volume of water increases with rise in temperature",
+            "atmospheric pressure on the bubbles decreases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2017,
+        "question": "<p>Which of the following devices converts light energy to electrical energy?</p>",
+        "explanation": "<p>The solar cell converts light from the sun to electricity.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Bulb",
+            "Television",
+            "Solar cell",
+            "Light emitting diode (LED)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2017,
+        "question": "<p>A motor of a corn mill machine operates on electrical energy of \\(1.44 \\times 10^{5}\\)J. If one-quarter of the energy is wasted on sound and heat, determine the efficiency of the machine.</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "25%",
+            "36%",
+            "64%",
+            "75%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2017,
+        "question": "<p>Thermal energy added or removed from a substance that changes the state of the substance is called</p>",
+        "explanation": "<p>Latent heat is thermal energy released or absorbed, by a body or a thermodynamic system, during a constant-temperature process.</p>",
+        "correctIndex": 0,
+        "options": [
+            "latent heat",
+            "heat of reaction",
+            "calorimetry",
+            "specific heat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2017,
+        "question": "<p>The maximum density of water occurs at a temperature of </p>",
+        "explanation": "<p>This is as a result of the Hydrogen bonding in water. Due to the high Kinetic Energy of water, the hydrogen bonds can't hold for too long but from 4°C, there's an increase in the hydrogen bonds hence strenghtening it.  From the point of production of more hydrogen bonds, the bonding is no longer easily broken. Generally, these and a few factors based on these cause the density of water to be maximum at 4°C.</p>",
+        "correctIndex": 1,
+        "options": [
+            "0°C",
+            "4°C",
+            "37°C",
+            "273°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2017,
+        "question": "<p>A vapour whose molecules are in dynamic equilibrium with those of its own liquid is said to be</p>",
+        "explanation": "<p>A saturated vapour is one which is in a dynamic equilibrium with its own liquid.</p>",
+        "correctIndex": 2,
+        "options": [
+            "unsaturated",
+            "gaseous",
+            "saturated",
+            "diffused"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/LZCYHFM5EBHpN4HHvw77lrlt5XptQqnWw40ozAQd.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>This is a type of constructive interference. When two waves of equal amplitude are interfering constructively, the resulting amplitude is twice as large as the amplitude of an individual wave.</p><p>= A + A = 2A</p>",
+        "correctIndex": 3,
+        "options": [
+            "0",
+            "\\(\\frac{A}{2}\\)",
+            "\\(\\frac{A}{4}\\)",
+            "\\(2A\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2017,
+        "question": "<p>A rainbow is formed when sunlight is incident on water droplets suspended in the air due to</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "interference",
+            "refraction",
+            "dispersion",
+            "diffraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2017,
+        "question": "<p>Which of the following statements about the 3rd overtone of a vibrating air column of an open pipe is correct? It has</p>",
+        "explanation": "<p>The 3rd overtone for an open pipe has 5 antinodes and 4 nodes.</p>",
+        "correctIndex": 0,
+        "options": [
+            "4 nodes",
+            "5 nodes",
+            "3 antinodes",
+            "4 antinodes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2017,
+        "question": "<p>Consider the wave equation:  \\(y =  10sin(x - 50t)\\), What does the number 10 represent?</p>",
+        "explanation": "<p>Comparing the given equation with the wave equation:</p><p>\\(Asin(kx - \\omega t)\\), we have that A = 10 which is the amplitude of the wave.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Acceleration",
+            "Speed",
+            "Amplitude",
+            "Wavelength"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2017,
+        "question": "<p>Plane waves through a narrow gap emerge as circular waves. This phenomenon is known as</p>",
+        "explanation": "<p>Diffraction refers to the various things that occur when a wave encounters an obstacle. This bending of the wave after it passes a small gap is an example of diffraction.</p>",
+        "correctIndex": 3,
+        "options": [
+            "interference",
+            "dispersion",
+            "refraction",
+            "diffraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2017,
+        "question": "<p>A ray of light incident at an angle \\(\\theta\\) in a rectangular prism grazes the surface of the prism on emerging from the prism. Determine the value of the angle. [Absolute refractive index of the material of the prism is 1.5] </p>",
+        "explanation": "<p>\\(\\eta = \\frac{1}{sin\\theta}\\)</p><p>\\(1.5 = \\frac{1}{sin\\theta}\\)</p><p>\\(sin\\theta = \\frac{1}{1.5} = 0.667\\)</p><p>\\(\\theta = sin^{-1}(0.667) = 41.835°\\)</p><p>\\(\\approxeq 41.8°\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "41.8°",
+            "48.2°",
+            "60.8°",
+            "90.0°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/UchHrOYK5eLOlsAB8BTSWXWtNhL7aDBiG8y0l4uf.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>For the 4th harmonic, \\(L = 2\\lambda\\)</p><p>\\(4m = 2\\lambda \\implies \\lambda = \\frac{4m}{2}\\)</p><p>=\\(2m\\)</p><p>Recall, \\(v = f\\lambda\\)</p><p>\\(1 = f \\times 2 \\implies f = \\frac{1}{2}\\)</p><p>= 0.50Hz</p>",
+        "correctIndex": 2,
+        "options": [
+            "1m; 0.25Hz",
+            "2m; 0.25Hz",
+            "2m; 0.50Hz",
+            "4m; 0.50Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2017,
+        "question": "<p>Two plane mirrors are inclined at an angle 20° to each other. Determine the number of images formed when an object is placed between them.</p>",
+        "explanation": "<p>The number of images formed = \\(\\frac{360}{n}\\) where the value gotten is odd</p><p>else, = \\(\\frac{360}{n} -1\\).</p><p>Solving, we have that \\(\\frac{360}{20} = 18\\)</p><p>Hence, the no of images formed is 18 - 1 = 17.</p>",
+        "correctIndex": 0,
+        "options": [
+            "17",
+            "18",
+            "19",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2017,
+        "question": "<p>A converging lens of focal length 10cm forms an erect image three times the size of the real object. Calculate the distance between the image and the object.</p>",
+        "explanation": "<p>Given, image size = 3U</p><p>object size = U</p><p>focal length = 10cm</p><p>lens to object distance = \\(\\frac{focal length \\times object size}{image size}\\)</p><p>= \\(\\frac{10 \\times u}{3u} = 3.33\\)</p><p>distance between image and object = 10 + 3.33 = 13.33cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "6.6cm",
+            "11.1cm",
+            "13.3cm",
+            "20.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2017,
+        "question": "<p>The inverse of the time required for a wave to complete one full cycle is called</p>",
+        "explanation": "<p>The time required to complete one full cycle is the period; the inverse of the period gives the frequency.</p>",
+        "correctIndex": 2,
+        "options": [
+            "wavelength",
+            "period",
+            "frequency",
+            "amplitude"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/HAVieUVHIiPm0ySDJU8PWsUiPcZTnHy9FDR9hH7m.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2017,
+        "question": "<p>The force per unit charge experienced at a point in a field is the</p>",
+        "explanation": "<p>Electric intensity at a point is defined as the force experienced per unit positive charge at a point placed in the electric field.</p>",
+        "correctIndex": 2,
+        "options": [
+            "gravitational field strength",
+            "electric potential",
+            "electric field intensity",
+            "magnetic field strength"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2017,
+        "question": "<p>Which of the following objects is not a conductor of electricity?</p>",
+        "explanation": "<p>Dry wood is rather an insulator and not a conductor.</p>",
+        "correctIndex": 3,
+        "options": [
+            "The Earth",
+            "Human body",
+            "Iron rod",
+            "Dry wood"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/JZmSHbxBWPQoEW09iVDvGbOs9hHj8N4UnX1lCl9Y.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>The resistors are connected both in parallel and series. To calculate the total resistance, we have:</p><p>For the parallel connection: \\(\\frac{1}{R} = \\frac{1}{1} + \\frac{1}{1}\\)</p><p>\\(\\frac{1}{R} = 2 \\implies R = 0.5\\Omega\\)</p><p>For the series connection: \\(R_{total} = (1 + 0.5)\\Omega = 1.5\\Omega\\)</p><p>Recall, \\(V=IR\\)</p><p>\\(3 = 1.5I  \\implies I = \\frac{3}{1.5} =2A\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "6A",
+            "4A",
+            "2A",
+            "1A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2017,
+        "question": "<p>Which of the following statements is/ are correct?</p><p>I. Gravitational potential due to a mass at a point a distance <strong>r </strong>away is proportional to \\(r^{2}\\)</p><p>II. Gravitational field strength is a vector quantity</p><p>III. Gravitational intensity is proportional to the weight of a unit mass.</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I, II and III",
+            "III only",
+            "II only",
+            "I only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/53S3JI6xaqEsGJbwTOnfEX0asWzXyEDciSv3GvPI.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2017,
+        "question": "<p>A lamp rated 100W, 240V is lit for 5hours. Calculate the cost of lighting the lamp if 1kWh of electrical energy cost N5.</p>",
+        "explanation": "<p>Power = 100W; Voltage = 240V;  Time = 5 hours</p><p>Total energy used = Power x time = 100 x 5 = 500wh</p><p>converting to kwh, we have</p><p>\\(\\frac{500}{1000} = 0.5kWh \\times N5 = N2.50\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "N2.50",
+            "N3.20",
+            "N6.50",
+            "N9.60"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/0mkoi3GvxHuacLCGIwDN8U8Ytym35qzbfdvjpFgR.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>E = 3.0V; \\(\\frac{R}{l} = 10\\Omega m^{-1}\\)</p><p>l = 30cm = 0.3m; R = \\(10\\Omega m^{-1} \\times 0.3m = 3\\Omega\\)</p><p>\\(\\frac{E}{V} = \\frac{l_{1}}{l_{2}} \\implies \\frac{3}{V} = \\frac{1}{0.3}\\)</p><p>= \\(\\frac{3\\times 0.3}{1} = 0.9V\\)</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "3.0\\(\\Omega\\); 0.9V",
+            "3.0\\(\\Omega\\); 3.0V",
+            "3.3\\(\\Omega\\); 0.3V",
+            "3.3\\(\\Omega\\); 9.0V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2017,
+        "question": "<p>The main reason why a.c. is transmitted at very high voltage and low current is that</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "flows faster through the conductor",
+            "can be stepped down",
+            "is cheaper to generate",
+            "reduces heat loss"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/gsZShoxrPugkxQnbROsUGX768rcmcg458aD5gAsB.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(F_{e}\\) is attraction while \\(F_{g}\\) is repulsion",
+            "Both \\(F_{e}\\) and \\(F_{g}\\) are that of repulsion",
+            "Both \\(F_{e}\\) and \\(F_{g}\\) is that of attraction",
+            "\\(F_{e}\\) is repulsion while \\(F_{g}\\) is attraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2017,
+        "question": "<p>The opposition offered to an alternating current in a C-R series circuit is known as</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "impedance",
+            "resistance",
+            "reactance",
+            "friction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2017,
+        "question": "<p>Which of the following pairs of concepts constitutes complementary variables as expressess by the Heinsberg uncertainty principle?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Momentum and time",
+            "Energy and acceleration",
+            "Position and momentum",
+            "Velocity and Momentum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2017,
+        "question": "<p>The nucleon number of an atom is the total number of</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "electrons and protons",
+            "electrons and neutrons",
+            "neutrons minus electrons",
+            "protons and neutrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2017,
+        "question": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>n = \\(\\alpha\\)</td>\n<td>0.06eV</td>\n</tr>\n<tr>\n<td>E=3</td>\n<td>-1.6eV</td>\n</tr>\n<tr>\n<td>E=2</td>\n<td>-3.7eV</td>\n</tr>\n<tr>\n<td>E=1</td>\n<td>-5.5eV</td>\n</tr>\n<tr>\n<td>E=0</td>\n<td>-10.4eV</td>\n</tr>\n</tbody>\n</table><p>The energy levels in the mercury atom is illustrated in the table above. Calculate the ionisation energy of the atom.</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "+21.2eV",
+            "+10.4eV",
+            "-10.4eV",
+            "-21.2eV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2017,
+        "question": "<p>Which of the following statements about Gamma radiation is correct? Gamma radiation can</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "be seen by the naked eye",
+            "not pass through an aluminium foil",
+            "be present naturally in our surroundings",
+            "be used as a tracer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2017,
+        "question": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>Radio wave</td>\n<td>Micro wave</td>\n<td>Infrared wave</td>\n<td>P</td>\n<td>Q</td>\n<td>R</td>\n<td>Gamma Ray</td>\n</tr>\n</tbody>\n</table><p>The table above shows the components of electromagnetic spectrum in order of increaasing frequency.Which of the following sets correctly identifies P, Q, R respectively?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Visible, ultraviolet, X-ray",
+            "X-ray, visible, ultraviolet",
+            "Ultraviolet, visible, X-ray",
+            "X-ray, ultraviolet, visible"
+        ],
+        "type": "objectives"
+    }
+]

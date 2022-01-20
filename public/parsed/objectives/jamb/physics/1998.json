@@ -1,0 +1,738 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1998,
+        "question": "A bullet fired at a wooden block of thickness 0.15m manages to penetrate the block. If the mass of the bullet is 0.025kg and the average resisting force of the wood is 7.5 x 10<sup>3</sup>N, calculate the speed of the bullet just before it hits the wooden block.",
+        "explanation": "F = ma<br><br>Therefore, a = \\(\\frac{F}{m}\\)<br><br>a = \\(\\frac{7.5 \\times 10^{3}}{0.025}\\)<br><br>a = 3 x 10<sup>5</sup>m/s<sup>2</sup><br><br>using V<sup>2</sup>= U<sup>2</sup>+ 2ax;<br><br>V<sup>2</sup>= 0<sup>2</sup>+ (2 x 3 x 10<sup>5</sup>x 0.15)<br><br>Therefore V = 300 m/s",
+        "correctIndex": 2,
+        "options": [
+            "450ms<sup>-1</sup>",
+            "400ms<sup>-1</sup>",
+            "300ms<sup>-1</sup>",
+            "250ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1998,
+        "question": "The velocity of a sound wave at 27<sup>o</sup>C is 360ms<sup>-1</sup>. Its velocity at 127<sup>o</sup>C is",
+        "explanation": "Velocity \\(\\alpha \\sqrt{temperature}\\)<br><br>\\(\\frac{V_1}{V_2} = \\sqrt{\\frac{T_1}{T_2}}\\)<br><br>therefore, \\(\\frac{360}{V_2} = \\sqrt{\\frac{27 + 273}{127 + 273}}\\)<br><br>\\(V_2 = 240\\sqrt{3}\\)m/s",
+        "correctIndex": 2,
+        "options": [
+            "120√3 ms<sup>-1</sup>",
+            "240 ms<sup>-1</sup>",
+            "240√3 ms<sup>-1</sup>",
+            "720√3 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1998,
+        "question": "The physical quantity that has the same dimensions as impulse is",
+        "explanation": "Impulse = F x t = m(v-u)",
+        "correctIndex": 1,
+        "options": [
+            "energy",
+            "momentum",
+            "surface tension",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1998,
+        "question": "A ball is moving at 18ms<sup>-1</sup>in a direction inclined at 60<sup>o</sup>to the horizontal. The horizontal component to its velocity is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "9√3ms<sup>-1</sup>·",
+            "6√3ms<sup>-1</sup>·",
+            "8√3ms<sup>-1</sup>·",
+            "9ms<sup>-1</sup>·"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1998,
+        "question": "In free fall, a body of mass 1kg drops from a height of 125m from rest in 5s. How long will it take another body of mass 2kg to fall from rest from the same height? [g = 10ms<sup>-1</sup>·]",
+        "explanation": "In free fall, every object will reach the ground at same time",
+        "correctIndex": 0,
+        "options": [
+            "5s",
+            "10s",
+            "12s",
+            "15s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1998,
+        "question": "<p>A ball of mass 0.15kg is kicked against a rigid vertical wall with a horizontal velocity of 50ms-1. If it rebounced with a horizontal velocity of 30ms-1, Calculate the impulse of the ball on the ball · ·</p>",
+        "explanation": "<p>Impulse = m(v-u)<br>\n<br>\n= 0.15(50--30)</p><p>= 0.15 X 80<br>\n<br>\n= 12N/s</p>",
+        "correctIndex": 3,
+        "options": [
+            "3.0Ns",
+            "4.5Ns",
+            "7.5Ns",
+            "12.0Ns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1998,
+        "question": "The force of attraction between two point masses is 10<sup>-4</sup>N when the distance between them is 0.18m. If the distance is reduced to 0.06m, calculate the force.",
+        "explanation": "F \\(\\alpha \\frac{1}{r^2}\\)<br><br>therefore, \\(\\frac{F_1}{F_2}\\) = \\(\\frac{r_1}{(r_2)^2}\\)<br><br>\\(\\frac{10^{-4}}{F_2}\\) = \\(\\frac{(0.06)^2}{(0.18)^2}\\)<br><br>F = 9 x 10<sup>-4</sup>N",
+        "correctIndex": 3,
+        "options": [
+            "1.1 x 10<sup>-5</sup>N",
+            "3.3 x 10<sup>-5</sup>N",
+            "3.0 x 10<sup>-4</sup>N",
+            "9.0 x 10<sup>-4</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1998,
+        "question": "<p>A uniform meter rule weighing 0.5N is to be pivoted on a knife-edge at the 30cm-mark. where will a force of 2N be placed from the pivot to balance the meter rule?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191218_105851%20%282%29.jpg\" style=\"height:59px; width:250px\"></p><p>Taking moment about P,</p><p>2 x (30 - x) = 0.5 x (50 - 30)</p><p>60 - 2x = 10</p><p>2x = 50</p><p>x = 25 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "95cm",
+            "25cm",
+            "20cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1998,
+        "question": "A man whose mass is 80kg climbs a staircase in 20s and expends power of 120W. Find the height of the staircase.[g = 10ms<sup>-2</sup>]",
+        "explanation": "Power x time = mgh<br><br>120 x 20 = 80 x 10 x h<br><br>2400 = 800h<br><br>making h the subject of formula,divide both side by 800<br><br>\\(\\frac{2400}{800}\\) = h<br><br>h = 3m",
+        "correctIndex": 3,
+        "options": [
+            "1.8m",
+            "2.0m",
+            "2.5m",
+            "3.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1998,
+        "question": "A parachute attains a terminal velocity when",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "its density is equal to the density of air",
+            "the viscous force of the air and the upthrust completely counteract its weight",
+            "it expands as a result of reduced external pressure",
+            "the viscous force of the air is equal to the sum of the weight and upthrust"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1998,
+        "question": "In a wheel and axle mechanism the diameters of the wheel and axle are 40cm and 8cm respectively. Given that the machine is 80% efficient, what effort is required to lift a load of 100N?",
+        "explanation": "Efficiency = \\(\\frac{\\text{work done by hand}}{\\text{work done by effort}}\\)<br><br>80 = \\(\\frac{100{\\times 8}}{E {\\times} 40}\\) x \\(\\frac{100}{1}\\)<br><br>E = 25N",
+        "correctIndex": 1,
+        "options": [
+            "20N",
+            "25N",
+            "50N",
+            "80N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1998,
+        "question": "The tendon in a man's leg is 0.01m long. If a force of 5N stretches the tendon by 2.0 x 10<sup>-5</sup>m, calculate the strain on the muscle.",
+        "explanation": "Strain = \\(\\frac{extension}{\\text{original length}}\\)<br><br>\\(\\frac{2 {\\times} 10^{-5}}{0.01}\\)<br><br>= 2 x 10<sup>-3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "5 x 10<sup>6</sup>",
+            "5 x 10<sup>2</sup>",
+            "2 x 10<sup>-3</sup>",
+            "2 x 10<sup>-7</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1998,
+        "question": "Which of these statements are correct for the pressures in liquids? i. pressure in a liquid at a point acts equally in all directions. ii. pressure increases with depth. iii. pressure at a depth depends on the shape of the container. iv. pressure at the same depth in different liquids are proportional to the density at different liquids.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i, ii, iii only",
+            "i, ii, iv only",
+            "i, iii, iv only",
+            "ii, iii, iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1998,
+        "question": "The atmospheric pressure due to water is 1.3 x 10<sup>6</sup>Nm<sup>-2</sup>. What is the total pressure at the bottom of an ocean 10m deep? [Density of water = 1000kgm<sup>-3</sup>, g = 10ms<sup>-2</sup>]",
+        "explanation": "Pressure = heg = 1000 x 10 x 10 = 10<sup>5</sup>Nm<sup>-2</sup><br><br>Total pressure = (1.3 x 10<sup>6</sup>) + (1 x 10<sup>5</sup>)<br><br>= 1.4 x 10<sup>6</sup>Nm<sup>-2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "1.3 x 10<sup>7</sup>Nm<sup>-2</sup>",
+            "1.4 x 10<sup>6</sup>Nm<sup>-2</sup>",
+            "1.4 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "1.0 x 10<sup>5</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1998,
+        "question": "A solid of weight 0.600N is totally immersed in oil and water respectively. If the upthrust of oil is 0.210N and the relative density of oil is 0.875. Find the upthrust in water.",
+        "explanation": "Rd = \\(\\frac{\\text{upthrust in oil}}{\\text{upthrust in }H_2O}\\)<br><br>thus; 0.875 = \\(\\frac{0.21}{\\text{upthrust in }H_2O}\\)<br><br>upthrust in H<sub>2</sub>O = 0.24N",
+        "correctIndex": 2,
+        "options": [
+            "0.600N",
+            "0.360N",
+            "0.240N",
+            "0.180N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1998,
+        "question": "A platinum resistance thermometer records 3.0\\(\\Omega\\) at 0<sup>o</sup>C and 8.0\\(\\Omega\\) at 100<sup>o</sup>C. If it records 6.0\\(\\Omega\\) in a certain environment, The temperature of the medium is",
+        "explanation": "8\\(\\Omega\\).....100<sup>o</sup>C<br><br>6\\(\\Omega\\).....\\(\\theta\\)<sup>o</sup>C<br><br>3\\(\\Omega\\).....0<sup>o</sup>C<br><br>\\(\\frac{6 - 3}{8 - 3}\\) = \\(\\frac{\\theta - 0}{100 - 0}\\)<br><br>therefore, \\(\\theta\\) = 60<sup>o</sup>C",
+        "correctIndex": 1,
+        "options": [
+            "80<sup>o</sup>C",
+            "60<sup>o</sup>C",
+            "50<sup>o</sup>C",
+            "30<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1998,
+        "question": "The linear expansivity of brass is 2 x 10<sup>-5</sup>C<sup>-1</sup>. If the volume of a piece of brass is 15.00cm<sup>3</sup>at 0<sup>0</sup>C, What is the volume at 100<sup>o</sup>C?",
+        "explanation": "linear expansivity = \\(\\frac {V_2 - V_1}{V_1 {\\times} {\\Delta}{\\theta}}\\)<br><br>3 x 2 x 10<sup>-5</sup>=\\(\\frac {V_2 - 15}{15 {\\times} (100 - 0)}\\)<br><br>V<sub>2</sub>= 15.09cm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "16.03cm<sup>3</sup>",
+            "16.00cm<sup>3</sup>",
+            "15.09cm<sup>3</sup>",
+            "15cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1998,
+        "question": "A gas has a volume of 100cm<sup>3</sup>at 27<sup>o</sup>C. If it is heated to temperature T until a final volume of 120cm<sup>3</sup>is attained, calculate T",
+        "explanation": "\\(\\frac {V_1}{T_1}\\) = \\(\\frac {V_2}{T_2}\\)<br><br>\\(\\frac {100}{27 + 273}\\) = \\(\\frac {120}{T + 273}\\)<br><br>T = 87<sup>o</sup>C",
+        "correctIndex": 2,
+        "options": [
+            "33<sup>o</sup>C",
+            "60<sup>o</sup>C",
+            "87<sup>o</sup>C",
+            "114<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1998,
+        "question": "A 500W heater is used to heat 0.6kg of water from 25<sup>o</sup>C to 100<sup>o</sup>C in t<sub>2</sub>seconds. If another 1000W heater is used to heat 0.2kg of water from 10<sup>o</sup>C to 100<sup>o</sup>C in t, seconds, find \\(\\frac {t_1}{t_2}\\)",
+        "explanation": "Heat energy = Electrical energy<br><br>mc\\(\\theta\\) = power x time<br><br>0.6 x c x (100 - 25) = 500 x t<sub>1</sub><br><br>and, 0.2 x c x (100 - 10)= 100 x t<sub>2 </sub><br>\\(\\frac {t_1}{t_2}\\) = 5",
+        "correctIndex": 1,
+        "options": [
+            "50",
+            "5",
+            "5/4",
+            "1/5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1998,
+        "question": "How many grams of water at 17<sup>o</sup>C must be added to 42g of ice at 0<sup>o</sup>C to melt the ice completely? [specific latent heat of fusion of ice = 3.4 x 10<sup>5</sup>Jkg<sup>-1</sup>, specific heat capacity of water = 4200Jkg<sup>-1</sup>k<sup>-1</sup>]",
+        "explanation": "Heat lost = Heat gained<br><br>mc\\(\\theta\\) = mL<br><br>m x 4200 x 17 = 42 x 3.4 x 10<sup>5</sup><br><br>therefore, m = 200g",
+        "correctIndex": 0,
+        "options": [
+            "200g",
+            "300g",
+            "320g",
+            "400g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1998,
+        "question": "A vapour is said to be saturated when",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "more molecules return to the liquid than the amount that left it",
+            "a dynamic equilibrium exists between the molecules of the liquid and the vapour molecules at a given temperature",
+            "the vapour pressure is equal to the atmospheric pressure",
+            "all molecules are moving with the same speed in all directions at a given temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1998,
+        "question": "One valid assumption of the kinetic theory of gasses is the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the molecules of a gas are constantly in a state of motion and the number of collision remains constant",
+            "the number of molecule of gas increases with increasing pressure",
+            "as the temperature increases, the number of collision made by the gas molecule remains constant",
+            "the molecules of gas are all identical and are very small in size"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1998,
+        "question": "The physical properties of sound waves can best be described by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "reflection and diffraction",
+            "polarization and reflection",
+            "polarization and diffraction",
+            "polarization and refraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1998,
+        "question": "In a closed organ pipe producing a musical note, an antinode will always be produced at",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the closed end",
+            "the open end",
+            "the middle",
+            "all the parts of the pipe"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1998,
+        "question": "A steel wire of length 0.50m is stretched between two fixed points and its fundamental frequency is 200Hz. The speed of the wave in the wire is",
+        "explanation": "In strings, \\(\\lambda\\) = 2L<br><br>V = F\\(\\lambda\\)<br><br>= 200 x 2 x 0.5<br><br>= 200ms<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "100ms<sup>-1</sup>",
+            "120ms<sup>-1</sup>",
+            "200ms<sup>-1</sup>",
+            "250ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1998,
+        "question": "In a resonance tube experiment, if the fundamental frequency of the vibrating air column is 280Hz, the frequency of the third overtone is",
+        "explanation": "F<sub>3</sub>= 7F<sub>o</sub><br><br>= 7 x 280<br><br>= 1960Hz",
+        "correctIndex": 3,
+        "options": [
+            "70Hz",
+            "840Hz",
+            "1120Hz",
+            "1960Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1998,
+        "question": "<p>An object 0 lies at a distance m in front of concave mirror of focal length f. If m &lt; f, then the final image obtained will be</p>",
+        "explanation": "<p>In a concave mirror, when the object distance is less than the focal length, we have an image which is:</p><p>- Virtual</p><p>- Erect and </p><p>- Magnified.</p>",
+        "correctIndex": 1,
+        "options": [
+            "virtual and diminished",
+            "magnified and erect",
+            "real and inverted",
+            "diminished and erect"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1998,
+        "question": "An object is placed in front of two plane mirrors inclined at an angle of 0<sup>o</sup>. If the total number of images formed is 7, Find the value of \\(\\theta\\)",
+        "explanation": "Number of image = \\(\\frac{360}{\\theta}\\) -1<br><br>7 = \\(\\frac{360}{\\theta}\\) -1<br><br>thus,\\(\\theta\\) = 45<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "30<sup>o</sup>",
+            "45<sup>o</sup>",
+            "51<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1998,
+        "question": "The most suitable type of mirror used for the construction of the search light is the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "concave mirror",
+            "convex mirror",
+            "spherical mirror",
+            "parabolic mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1998,
+        "question": "The displacement d produced in a glass block of thickness t and refractive index n when an object is viewed through it is",
+        "explanation": "n = \\(\\frac {\\text{real depth}}{\\text {apparent depth}{}}\\)<br><br>n = \\(\\frac {t}{t-d}\\)<br><br>\\(\\frac{t - d}{1}\\) = \\(\\frac{t}{n}\\)<br><br>-d = \\(\\frac{t}{n}\\) - t<br><br>d = - \\(\\frac{t}{n}\\) + t<br><br>d = t - \\(\\frac{t}{n}\\)<br><br>d =t (1 - \\(\\frac{1}{n}\\))",
+        "correctIndex": 2,
+        "options": [
+            "t – n",
+            "t (1 + 1/n)",
+            "t (1-1/n)",
+            "t (1/n - 1)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1998,
+        "question": "<p>A man wears convex lens glasses of focal length 30cm in order to correct his eye defect. instead of the optimum 25cm, his least distance of distinct vision is</p>",
+        "explanation": "<p>F = \\(\\frac{uv}{u - v}\\)<br>\n<br>\nF = +ve<br>\n<br>\nv = -ve<br>\n<br>\n30 = \\(\\frac {25 {\\times} (-v)}{25 - (-v)}\\)<br>\nv = \\(\\frac {25 {\\times} (-v)}{25+v}\\)<br>\nv = 14cm</p><p>(Note that either negative or positive values go to show the positioning and hence, they are not a strong necessity in your final answer.)</p>",
+        "correctIndex": 0,
+        "options": [
+            "14cm",
+            "28cm",
+            "75cm",
+            "150cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1998,
+        "question": "Which of the following are true about the infra-red radiation? i. it is invisible ii. it is called heat ray iii. its frequency is higher than that of blue light iv. it travels as a transverse wave",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i, ii, iii and iv",
+            "i, ii, iv only",
+            "i, iii, iv only",
+            "ii, iii, iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1998,
+        "question": "The force of repulsion between two point positive charges 5\\(\\mu\\)C and 8\\(\\mu\\)C separated at a distance of 0.02 map art is. [\\(\\frac{1}{4{\\pi}{\\varepsilon}_o}\\) = 9 x 10<sup>9</sup>Nm<sup>2</sup>C<sup>-2</sup>]",
+        "explanation": "F =\\(\\frac{1}{4{\\pi}{\\varepsilon}_o}\\) x \\(\\frac {q_1q_2}{r^2}\\)<br><br>F =\\(\\frac {5 {\\times} 10 {\\times} 8 {\\times} 10}{0.002 {\\times} 0.002}\\) x 9 x 10<br><br>F = 900N",
+        "correctIndex": 2,
+        "options": [
+            "1.8 x 10<sup>-10</sup>N",
+            "9.0 x 10<sup>-8</sup>N",
+            "9.0 x 10<sup>2</sup>N",
+            "4.5 x 10<sup>3</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1998,
+        "question": "An ebonite rod rubbed with fur attracts a glass rod rubbed with silk because",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ebonite has a negative charge while glass has a positive charge",
+            "ebonite has a positive charge while glass has a negative charge",
+            "both have negative charges",
+            "both have positive charges"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1998,
+        "question": "Which of the following can be used to reduce local action in a Laclanche cell?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "A carbon rod as the positive pole",
+            "Pure zinc as the negative pole",
+            "Potassium permanganate solution in contact with the positive pole",
+            "common salt solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1998,
+        "question": "Find the work done in moving a 2 C charge between two points X and Y in an electric field if the potential difference is 100 volts",
+        "explanation": "V = \\(\\frac{W}{Q}\\)<br><br>W = VQ<br><br>W = 100 x 2<br><br>W = 200J",
+        "correctIndex": 2,
+        "options": [
+            "50J",
+            "100J",
+            "200J",
+            "400J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1998,
+        "question": "A parallel plate capacitor has a common plate area of 5 x 10<sup>-8</sup>m<sup>2</sup>and plate separation of 2 x 10<sup>3</sup>m, Assuming free space, What is the capacitance? [\\(\\varepsilon\\)<sub>o</sub>= 9.0 X 10<sup>-12</sup>C<sup>2</sup>N<sup>-1</sup>m<sup>-2</sup>]",
+        "explanation": "C = \\(\\frac{{\\varepsilon}_oA}{d}\\)<br><br>= \\(\\frac{5{\\times} 10^{-8} {\\times} 10^{-12}{\\times} 9}{2 {\\times}10^{-3}}\\)<br><br>= 22.5 x 10<sup>-17</sup>F",
+        "correctIndex": 2,
+        "options": [
+            "2.25 x 10<sup>-17</sup>F",
+            "4.50 x 10<sup>-17</sup>F",
+            "2.25 x 10<sup>-16</sup>F",
+            "4.50 x 10<sup>-16</sup>F"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1998,
+        "question": "The iron core of an induction coil is made from bundles of wire so as to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "minimize eddy-currents",
+            "generate eddy-current",
+            "prevent sparking at the contact breaker",
+            "get the greatest posible secondary voltage"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1998,
+        "question": "Electricity is supplied to a school along a cable of total resistance 0.5\\(\\Omega\\) with the maximum current drawn from the mains as 100A. The maximum energy dissipated as heat for 1 hr is",
+        "explanation": "Elect. energy = I<sup>2</sup>Rt<br><br>= 100 x 100 x 0.5 x 3600<br><br>= 1.8 x 10<sup>7</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "3.6 x 10<sup>3</sup>J",
+            "5.0 x 10<sup>3</sup>J",
+            "3.0 x 10<sup>5</sup>J",
+            "1.8 x 10<sup>7</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1998,
+        "question": "A transformer which can produce 8V from a 240v a.c. supply, has an efficiency of 80%. If the current in the secondary coil is 15A, calculate the current in the primary coil.",
+        "explanation": "Efficiency = \\(\\frac{I_sV_s}{I_pV_p}\\) x 100<br>",
+        "correctIndex": 0,
+        "options": [
+            "0.625A",
+            "1.600A",
+            "2.500A",
+            "6.250A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1998,
+        "question": "The electrochemical equivalent of a metal is 1.3 x 10<sup>-7</sup>kgC<sup>-1</sup>. The mass of the metal which 2.0 x 10<sup>4</sup>C of electricity will deposit from a suitable electrolyte is",
+        "explanation": "m = QZ<br><br>= 2 x 10<sup>4</sup>x 1.3 x 10<sup>-7</sup><br><br>= 2.6 x 10<sup>-3</sup>kg",
+        "correctIndex": 3,
+        "options": [
+            "6.5 x 10<sup>-2</sup>kg",
+            "2.6 x 10<sup>-2</sup>kg",
+            "6.5 x 10<sup>-3</sup>kg",
+            "2.6 x 10<sup>-3</sup>kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1998,
+        "question": "In a nuclear fusion experiment, the loss of mass amounts to 1.0 x 10<sup>-6</sup>kg. The amount of energy obtained from the fusion is",
+        "explanation": "Energy = mc<sup>2</sup><br><br>= 1 x (3 x 10<sup>8</sup>)<sup>2</sup>x 10<sup>6</sup><br><br>= 9 x 10<sup>10</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "3.0 x 10<sup>-4</sup>J",
+            "3.0 x 10<sup>-1</sup>J",
+            "9.0 x 10<sup>4</sup>J",
+            "9.0 x 10<sup>10</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1998,
+        "question": "In photoelectric effect, electrons will leave the metal surface when illuminated by light of appropriate frequency if the photon energy is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "greater than the work function",
+            "less than the work function",
+            "equal to the work function",
+            "equal to the maximium kinetic energy of the electron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26257098618_1998.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "5N in the direction of east",
+            "5N in the diretion of west",
+            "5V3N in the direction of west",
+            "10N in the southwest direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13128550470_19980001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "18.0Ω",
+            "11.0Ω",
+            "4.0Ω",
+            "2.0Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23339647456_19980002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "5000π Hz",
+            "2500π Hz",
+            "5000/π Hz",
+            "2500/π Hz"
+        ],
+        "type": "objectives"
+    }
+]

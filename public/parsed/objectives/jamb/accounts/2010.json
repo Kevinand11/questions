@@ -1,0 +1,787 @@
+[
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2010,
+        "question": "The major function of accounting bodies in Nigeria is to?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "provide proper financial management of businesses",
+            "provide good remuneration to the members",
+            "promote the ethics of the profession",
+            "show the dynamic nature of the profession"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2010,
+        "question": "<p>Ledger account is mainly classified into?</p>",
+        "explanation": "<p>General <em>Ledger</em> is divided into two types – Nominal Ledger and Private Ledger.</p>",
+        "correctIndex": 0,
+        "options": [
+            "nominal, real and personal accounts",
+            "fixed and current accounts",
+            "management, financial and public sector accounting",
+            "bank and cash accounts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2010,
+        "question": "<p>If salary account is debited instead of stationary account, the error committed is that of?</p>",
+        "explanation": "<p>An error of principle is an accounting mistake in which an entry is recorded in the incorrect account</p>",
+        "correctIndex": 0,
+        "options": [
+            "commission",
+            "omission",
+            "principle",
+            "compensation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2010,
+        "question": "<p>If stationery bought for N200 has been entered as N2000. To correct this error?</p>",
+        "explanation": "<p>To correct the error, we have to debit the amount in excess so as when it is being calculated, the debit side would balance with the credit side. </p><p>Remember income in recorded on the debit side while expenses are recorded on the credit side. Since stationary was bought, (expense) it is assumed that it was recorded on the credit side. hence we will debit the amount in excess </p>",
+        "correctIndex": 2,
+        "options": [
+            "debit stationery with N2,200",
+            "credit stationery with N1,800",
+            "debit stationery with N1,800",
+            "credit stationery with N2,200"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2010,
+        "question": "<p>The account which refers to the tangible assets of a company that is of permanent nature is the?</p>",
+        "explanation": "<p>Real account is an account dealing with the material assets of a business, such as its property.</p>",
+        "correctIndex": 1,
+        "options": [
+            "personal account",
+            "real account",
+            "nominal account",
+            "cash account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2010,
+        "question": "<p>Th major feature of an invoice is that, it?</p>",
+        "explanation": "<p><strong>Essential <strong>Elements</strong> Each <strong>Invoice</strong> Must Include</strong></p><ul>\n<li>The word Invoice.</li>\n<li>Seller's name and address, contact details and company registration number.</li>\n<li>Buyers name and address.</li>\n<li>Date: invoice issue date, payment due date, delivery date.</li>\n<li>A unique invoice reference number.</li>\n<li>Description of goods</li>\n</ul>",
+        "correctIndex": 2,
+        "options": [
+            "passes information through the sales day book",
+            "has cash and bank column",
+            "specifies the particular of goods bought",
+            "indicates only the cash sales"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2010,
+        "question": "<p>The source documents include?</p>",
+        "explanation": "<p>A credit note is one of the source documents used by a business. It is a receipt given by a seller to a buyer. </p><p>Credit notes are typically used when there has been an error in an already-issued invoice, such as an incorrect amount, or when a customer wishes to change their original order</p>",
+        "correctIndex": 3,
+        "options": [
+            "cash book",
+            "petty cash book",
+            "general ledger",
+            "credit notes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2010,
+        "question": "<p>A major cause of discrepancy between bank statement and the cash book that overstates the bank statement balance is the?</p>",
+        "explanation": "<p> Electronic charges or payment on the bank statement not yet recorded in the cashbooks can cause discrepancies on the cash book. If interest has being paid on the account and not recorded of the cashbook, the bank statement is likely going to be overstated with the amount paid and not recorded</p>",
+        "correctIndex": 1,
+        "options": [
+            "commission paid",
+            "interest received",
+            "direct payment",
+            "direct withdrawal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2010,
+        "question": "<p>The bank charges levied on a current account holder is the charge on?</p>",
+        "explanation": "<p>Charge on turnover (COT) also known as Commission on turnover are charges a customer incurs for debit transactions (transaction involving withdrawals and/or operating cost to the bank) from his current account. </p>",
+        "correctIndex": 1,
+        "options": [
+            "transaction",
+            "turnover",
+            "transfer",
+            "cash received"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2010,
+        "question": "<p>The course of discrepancies between the bank statement and the cash book that overstates the cash book is the?</p>",
+        "explanation": "<p>Uncredited cheques: These are cheques received from customers and other sources for which the firm has banked but the bank has not yet availed the funds by crediting the firm's account. In this case, the cash book balance will be more than the bank balance</p>",
+        "correctIndex": 2,
+        "options": [
+            "dividend received",
+            "uncredited expenses",
+            "uncredited cheques",
+            "interest on lodgement"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2010,
+        "question": "<p>Use the information below to answer question <br>\n<br>\nSales....................................N10,900<br>\nStock 1/1................................N1, 000<br>\nStock 31/12..............................N2, 000<br>\nPurchases................................N4, 000<br>\nReturns outwards.........................N800<br>\nReturns inwards..........................N600<br>\nCarriage outwards........................N300<br>\nCarriage inwards.........................N200<br>\n<br>\nFind the gross profit.</p>",
+        "explanation": "<p>sales                                                        10900<br>\n- Returns inwards                                      600<br>\n-carriage outwards                                  <ins>  300   </ins><br>\n                                                                10000 <br>\nopening stock           1000<br>\npurchase                  4000<br>\n- returns outwards      800       <ins>  3200  </ins>    <br>\n+ carriage inwards                     200<br>\ngoods avail. for sale                  <strong>4400</strong></p><p>less; closing stock     2000<br>\ncarriage outwards      300        2300        <ins>  2100</ins><br>\nGross profit                                              <ins> <strong> 7900</strong> </ins>                                       <br>\n                                 <br>\n<br>\n </p>",
+        "correctIndex": 1,
+        "options": [
+            "N7 800",
+            "N7 900",
+            "N9700",
+            "5700"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2010,
+        "question": "<p>Use the information below to answer question <br>\n<br>\nSales....................................N10,900<br>\nStock 1/1................................N1, 000<br>\nStock 31/12..............................N2, 000<br>\nPurchases................................N4, 000<br>\nReturns outwards.........................N800<br>\nReturns inwards..........................N600<br>\nCarriage outwards........................N300<br>\nCarriage inwards.........................N200</p><p>The cost of goods available for sale is?</p>",
+        "explanation": "<p>sales                                                        10900<br>\n- Returns inwards                                      600<br>\n-carriage outwards                                  <ins>  300   </ins><br>\n                                                                10000 <br>\nopening stock           1000<br>\npurchase                  4000<br>\n- returns outwards      800       <ins>  3200  </ins>    <br>\n+ carriage inwards                     200<br>\ngoods avail. for sale                  <strong>4400</strong></p><p>less; closing stock     2000<br>\ncarriage outwards      300        2300        <ins>  2100</ins><br>\nGross profit                                              <ins>  <strong>7900 </strong></ins></p>",
+        "correctIndex": 3,
+        "options": [
+            "N4 600",
+            "N5 000",
+            "N6 400",
+            "N4 400"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2010,
+        "question": "<p>Benefit enjoyed for which payments have not been made are?</p>",
+        "explanation": "<p> Accruals are expenses incurred but not yet paid</p>",
+        "correctIndex": 0,
+        "options": [
+            "accruals",
+            "prepayments",
+            "acquisitions",
+            "provisions"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2010,
+        "question": "<p>Use the information below to answer questions <br>\n<br>\nSundry debtor..................N20,000<br>\nProvision for bad debts........N500<br>\n<br>\nProvision for bad debt at 4% of sundry debtors.<br>\n<br>\nDetermine the provision for bad debts to profit and loss account?</p>",
+        "explanation": "<p>The business owner made a provision of 500 as bad debt. Total debt owed was 20,000. At the end of the period, bad debts was 4%. Hence we have; </p><p>4% x 20000<br>\n0.04 x 20000 = 800</p><p>we subtract the total bad debt from the amount that was initially provided for bad debt and charge it to the profit and loss account as a expense</p><p>Provision for bad debts = 500<br>\n800 - 500 = 300</p>",
+        "correctIndex": 3,
+        "options": [
+            "N500",
+            "N820",
+            "N1300",
+            "N300"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2010,
+        "question": "<p>Use the information below to answer questions<br>\n<br>\nSundry debtor..................N20,000<br>\nProvision for bad debts........N500<br>\n<br>\nProvision for bad debt at 4% of sundry debtors.<br>\n </p><p>Calculate the provision to be taken to the balance sheet?</p>",
+        "explanation": "<p>The business owner made a provision of 500 as bad debt. Total debt owed was 20,000. At the end of the period, bad debts was 4%. Hence we have; </p><p>4% x 20000<br>\n0.04 x 20000 = 800</p>",
+        "correctIndex": 1,
+        "options": [
+            "N780",
+            "N800",
+            "1200",
+            "N200"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2010,
+        "question": "<p>If an organization maintains a periodic stock system, the stock quantities are?</p>",
+        "explanation": "<p>In accounting, a financial period is calculated on a yearly basis. Accounts are prepared at the end of the year</p>",
+        "correctIndex": 0,
+        "options": [
+            "updated at the end of the accounting year",
+            "not considered in the updating process",
+            "updated continuously",
+            "updated at the beginning of the accounting year"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2010,
+        "question": "<p>If a company values its stock in the period of rising prices using LIFO method, there is a tendency for it to?</p>",
+        "explanation": "<p>During periods of inflation (rise in prices), the use of LIFO will result in the highest estimate of cost of goods sold among the three approaches, and the lowest net income.</p>",
+        "correctIndex": 0,
+        "options": [
+            "have a higher cost of goods sold",
+            "have a higher gross profit",
+            "pay higher gross profit",
+            "have a higher value for closing stock"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2010,
+        "question": "<p>Use the information below to answer questions 23 and 24.<br>\n<br>\n............................31/12/07.......31/12/08<br>\nStocks........................N4 200.........N3 900<br>\nRates in advance..............N1 000.........N1 500<br>\nAccrued wages.................N1 150.........N1 350<br>\n<br>\nCost of goods sold was valued at N6 000.<br>\nCash paid for rates and wages during the year was N1 300 and N2 200 respectively.<br>\n<br>\nWhat is the value of purchases for the year 2008?</p>",
+        "explanation": "<p>opening stock = 4200<br>\nclosing stock = 3900<br>\ncost of goods sold = 6000</p><p>purchase = opening stock - closing stock - cost of goods sold</p><p>4200 - 3900 = 300<br>\n 6000 - 300 = 5700</p>",
+        "correctIndex": 3,
+        "options": [
+            "N6 000",
+            "N9 900",
+            "N14 100",
+            "N5 700"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2010,
+        "question": "Determine the total expenses to be charged to profit and loss account?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "N2 350",
+            "N1 600",
+            "N800",
+            "N3 150",
+            "NO OPTION"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2010,
+        "question": "<p>Use the information below to answer questions 25 and 26.<br>\n<br>\n........................31/12/08...........31/12/09<br>\n<br>\nFurniture and fittings..N21 000,............N28 000<br>\nOffice equipment........N9 800,.............N13 200<br>\nDebtors.................N6 800,.............N5 200<br>\nCreditors...............N4 900,.............N5 100<br>\nCash at bank............N7 000,.............N4 600<br>\nAccrued electricity bills...................N1 200<br>\n<br>\nMonthly drawings average N330.<br>\n<br>\nFind the opening capital?</p>",
+        "explanation": "<p>furniture &amp; fittings + office equipt. + debtors + cash at bank - creditors<br>\n21000 + 9800 + 7000 + 6800 - 4900 = 39700</p>",
+        "correctIndex": 0,
+        "options": [
+            "N39 700",
+            "N35 900",
+            "N35 740",
+            "N43 660"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2010,
+        "question": "<p>Use the information below to answer questions<br>\n<br>\n........................31/12/08...........31/12/09<br>\n<br>\nFurniture and fittings..N21 000,............N28 000<br>\nOffice equipment........N9 800,.............N13 200<br>\nDebtors.................N6 800,.............N5 200<br>\nCreditors...............N4 900,.............N5 100<br>\nCash at bank............N7 000,.............N4 600<br>\nAccrued electricity bills...................N1 200<br>\n<br>\nMonthly drawings average N330.</p><p>Determine the net profit ?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N5 000",
+            "N3 960",
+            "N1 040",
+            "N8 960"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2010,
+        "question": "The gross loss on manufacturing is always transferred to the?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "credit side of balance sheet",
+            "debit side of profit and loss account",
+            "credit side of profit and loss account",
+            "debit side of balance sheet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2010,
+        "question": "<p>The depreciation on a motor vehicle that is being used for manufacturing and administration is charged to the?</p>",
+        "explanation": "<p>'The profit and loss account is used by manufacturing concerns to ascertain the cost of production at various stages.  A motor vehicle used by a manufacturing company would be depreciated to the debit side of  profit and loss account </p>",
+        "correctIndex": 1,
+        "options": [
+            "debit side of manufacturing and profit and loss account",
+            "debit side of profit and loss account only",
+            "credit side of profit and loss account only",
+            "debit side of manufacturing and balance sheet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2010,
+        "question": "<p>The prime cost is the total of the?</p>",
+        "explanation": "<p>The prime cost is the summation of all direct expenses and direct materials used in production. Its simply direct cost incurred during production</p>",
+        "correctIndex": 1,
+        "options": [
+            "production cost + selling expenses",
+            "direct material + direct labour + direct expenses",
+            "direct material + work overhead expenses",
+            "administrative expenses + selling + distribution expenses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2010,
+        "question": "<p>In the not-for-profit-making organization, the excess of income over expenditure is?</p>",
+        "explanation": "<p>Surplus is the excess of income over expenditure. A credit balance in the Income and expenditure account shows surplus. It is the profit earned and should be added to the capital fund on the liabilities side of the balance sheet</p>",
+        "correctIndex": 2,
+        "options": [
+            "deducted from the capital",
+            "added to the accumulated fund",
+            "added to the capital",
+            "deducted from the the accumulated fund"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2010,
+        "question": "<p>The equivalent of a club's receipts and payment account is the?</p>",
+        "explanation": "<p> A receipts and payments account is a summary of actual cash receipts and payments extracted from the cash book over a certain period.  Its equivalent is a cashbook</p>",
+        "correctIndex": 2,
+        "options": [
+            "trading account",
+            "revenue account",
+            "cash account",
+            "suspense account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2010,
+        "question": "<p>The summary of receipts and payments account represent?</p>",
+        "explanation": "<p> A receipts and payments account is a summary of actual cash receipts and payments extracted from the cash book over a certain period.  It represents the actual cah at hand</p>",
+        "correctIndex": 0,
+        "options": [
+            "cash at hand",
+            "journal proper",
+            "general journal",
+            "ledger accounts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2010,
+        "question": "The Akachala Limited has four department W, X Y and Z. The profits or loss of the departments were N20 000 loss, X N25 profit, Y were N30 000 loss and Z N1800 profit. How much is the net profit or loss of the company?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "N7 000 loss",
+            "N5 000 loss",
+            "N5 000 profit",
+            "N7 000 profit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2010,
+        "question": "<p>If goods were returned to branch by the customers, the correct posting for this transaction is to debit?</p>",
+        "explanation": "<p>Debit branch stock account (stock have increased by what was returned) and credit branch debtors' account</p>",
+        "correctIndex": 2,
+        "options": [
+            "branch debtor's account and credit head office account",
+            "head office account and credit branch stock account",
+            "branch stock account and credit branch debtors' account",
+            "branch cash account and credit branch stock account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2010,
+        "question": "<p>The branch expenses paid by the head office is recorded in the books by debiting branch?</p>",
+        "explanation": "<p><strong><em>Branch current account</em></strong>; This account is maintained in the head office books to record all transactions between head office and branch<strong>. </strong>This account is debited with the following</p><ul>\n<li>Goods sent to branch</li>\n<li>Expenses of the branch paid by the head office</li>\n<li>Profit of the branch</li>\n</ul><p>From the above explanation, we would debit expenses account and crediting the bank account</p>",
+        "correctIndex": 1,
+        "options": [
+            "bad debt account and crediting branch debtor's account",
+            "expenses account and crediting bank account",
+            "profit and loss account and crediting branch stock account",
+            "discount allowed account and crediting branch debtors' account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2010,
+        "question": "<p>Goods returned to branch by customers is recorded in the head office books be debiting?</p>",
+        "explanation": "<p>By debiting branch stock account and crediting branch debtors account</p>",
+        "correctIndex": 2,
+        "options": [
+            "bank account and crediting branch stock account",
+            "goods sent to branch account and crediting branch debtors''account",
+            "branch stock account and crediting branch debtors account",
+            "branch debtors' and credting cash acount"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2010,
+        "question": "<p>Which of the following is mostly used in treating partners' current earnings?</p>",
+        "explanation": "<p>Current account of partners' is also a type of Capital Account. So if there is a debit balance in Current Account, it means a loan give to the Partner by the Firm.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Savings account",
+            "Current account",
+            "Capital account",
+            "Share capital account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2010,
+        "question": "<p>The salary of a partner is usually debited to the?</p>",
+        "explanation": "<p>A partnership appropriation account is an intermediary account between the profit and loss account of the partnership and the individual capital accounts of each partner. The adjustments include such items as partner salaries and interest on partner capital, loans and drawings accounts</p>",
+        "correctIndex": 1,
+        "options": [
+            "sundry debtors' account",
+            "appropriation account",
+            "profit and loss account",
+            "sundry current account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2010,
+        "question": "<p>The rules which govern the internal management of a firm and its financial affairs in a partnership business is a?</p>",
+        "explanation": "<p>A partnership deed, also known as a partnership agreement, is a document that outlines in detail the rights and responsibilities of all parties to a business operation. </p>",
+        "correctIndex": 2,
+        "options": [
+            "memorandum",
+            "bye-law",
+            "deed",
+            "financial regulation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2010,
+        "question": "<p>The interest on partners' loans is?</p>",
+        "explanation": "<p>Interest on partners' loan to the firm is a charge against profit. Such interest is to be allowed whether there are profit or not. So, interest as a partners' loan is credited to his loan account and later on it is transferred to the debit of profit and loss account.</p>",
+        "correctIndex": 2,
+        "options": [
+            "debited in current account",
+            "credited in profit and loss account",
+            "debited in profit and loss account",
+            "credited in current account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2010,
+        "question": "<p>The capital contribution by the partners is treated in the?</p>",
+        "explanation": "<p>partnership capital account: Which shows the capital contribution of a partner, plus profits and minus losses and distributions.</p>",
+        "correctIndex": 1,
+        "options": [
+            "current account",
+            "capital account",
+            "trading account",
+            "balance sheet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2010,
+        "question": "<p>Given:<br>\n<br>\nN6 000 10% preference shares of N0.50 each<br>\nN6 000 ordinary shares of N1 each<br>\nCapital reserves N2 700 000<br>\nLong-term liabilities N4 000 000<br>\n<br>\nFind the value of authorized share capital?</p><p><br>\n<br>\n </p>",
+        "explanation": "<p>6000 x 0.50 = 3000<br>\n6000 x 1 = 6000</p><p>3000 + 6000 = 9000</p>",
+        "correctIndex": 2,
+        "options": [
+            "13 000 000",
+            "12 000 000",
+            "9 000 000",
+            "15 700 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2010,
+        "question": "The directors' salaries paid are items of?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "current liabilities",
+            "profit and loss account",
+            "trading account",
+            "current account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2010,
+        "question": "<p>Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800.<br>\nA provision of 2% was made for discount and 5% provision for bad and doubtful debts.<br>\n<br>\nFind the amount for sundry debtors after provision?</p><p> </p>",
+        "explanation": "<p>5% x 800 <br>\n5/100 x 800 = 40</p><p>800 - 40 = 760</p>",
+        "correctIndex": 0,
+        "options": [
+            "N760 000",
+            "N744800",
+            "N744 000",
+            "N784 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2010,
+        "question": "<p>The financial plan of the government for a year is contained in the?</p>",
+        "explanation": "<p>Budget in this context  refers to expenditures and revenue-collection decisions made in a given time frame at central or local levels of government. It contains the financial plan of the government for a given period of time</p>",
+        "correctIndex": 0,
+        "options": [
+            "budget",
+            "cash analysis book",
+            "vote book",
+            "gazette"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2010,
+        "question": "<p>An ordinary share of N80 was issued at N96. The share was issued at?</p>",
+        "explanation": "<p>Share premium is the amount by which the amount received by a company for a stock issue exceeds its face value. when shares are sold at an amount higher than the face value it is sold at premium</p>",
+        "correctIndex": 0,
+        "options": [
+            "premium",
+            "par",
+            "discount",
+            "loss"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2010,
+        "question": "<p>An increase in government expenditure within a year is taken care of by means of?</p>",
+        "explanation": "<p>Supplementary Budget / estimate is the request for additional funds by Ministries and Departments during the course of the year.</p>",
+        "correctIndex": 3,
+        "options": [
+            "financial regulations",
+            "virement",
+            "warrant",
+            "supplementary estimate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2010,
+        "question": "<p>As evidence of payments to a government ministry, the revenue collectors will issue?</p>",
+        "explanation": "<p>A receipt voucher is a type of voucher which is typically issued by a certain business or an organization upon receiving payment in cash or check during a business transaction. </p>",
+        "correctIndex": 1,
+        "options": [
+            "treasury receipt",
+            "receipts vourcher card",
+            "treasury card",
+            "stores receipts vourcher"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8777871984_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Since department K has the biggest shop space, its only fair that it pays the bigger chunk of rent. Hence it would be shared amongst the three department as;<br>\nDepartment k = 1200<br>\n                   L  = 800<br>\n                  M =  1000<br>\nTotal = 3000</p>",
+        "correctIndex": 0,
+        "options": [
+            "N1200",
+            "N1800",
+            "N2000",
+            "N750"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27796608847_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Department  difference M has a turnover of 89,000. That is 29,000 higher than department L and 49,000 higher than department K, This means department M has the highest selling and distribution cost because they sold the most. Hence the 1800 would be divided amongst the three departments in the ratio of their turnover</p><p>Department K = 400 <br>\n                   L  = 600<br>\n                  M = 800<br>\ntotal = 1800</p>",
+        "correctIndex": 0,
+        "options": [
+            "N 800",
+            "N 600",
+            "N400",
+            "N1800"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19018747176_IMG_5417.JPG\" class=\"img-fluid\">",
+        "explanation": "<p>credit sales = 160%  x 280,000 (cash receivable)</p><p>\\(\\frac{160}{100}\\) x 280,000</p><p>1.6 x 280,000 = 448,000</p><p>credit sales = 448,000</p><p>Bal c/d = debit side - credit side of the account. Hence we have;</p><p>Debit side = 87,000 + 488,000 + 58,000 + 50,000 = 643,000</p><p>credit side = 40,000 + 50,000 + 280,000 + 30,000 = 400,000</p><p>643,000 - 400,000 = 243,000</p><p>Bal c/d = 243,000</p>",
+        "correctIndex": 3,
+        "options": [
+            "N333 000",
+            "N234 000",
+            "N343 000",
+            "N243 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24870691263_IMG_5417.JPG\" class=\"img-fluid\">",
+        "explanation": "<p>credit sales = 160%  x 280,000 (cash receivable)</p><p>\\(\\frac{160}{100}\\) x 280,000</p><p>1.6 x 280,000 = 448,000</p><p>credit sales = 448,000</p>",
+        "correctIndex": 1,
+        "options": [
+            "N484 000",
+            "N448000",
+            "N584 000",
+            "N558 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13167493029_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Fatima cash purchase = 2000</p><p>Discount allowed = 2%</p><p>\\(\\frac{2}{100}\\) x 2000 = 40</p>",
+        "correctIndex": 1,
+        "options": [
+            "N20",
+            "N40",
+            "N60",
+            "N4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13167498186_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>cash balance = debit side of the cash column - credit side of cash column. Hence we have;</p><p>Discount allowed = 0.02 x 2000 = 40</p><p>Debit column = 3000 + 1000 + 2000 + 200 = <strong>6200 </strong><br>\n6200 - 40 (cash discount) = 6160</p><p>credit column = 200 + 3000 + 200 =<strong> 3400</strong></p><p>6160 - 3400 = 2760</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "N2760",
+            "N4 300",
+            "N6 200",
+            "N2.400"
+        ],
+        "type": "objectives"
+    }
+]

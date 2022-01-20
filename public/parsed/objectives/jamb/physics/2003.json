@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2003,
+        "question": "On top of a spiral spring of the force constant 500Nm<sup>-1</sup>is placed a mass of 5 x 10<sup>-3</sup>kg. If the spring is compressed downwards by a length of 0.02m and then released, calculate the height to which the mass is projected",
+        "explanation": "K = 500Nm<sup>-1</sup>; M = 5 x 10<sup>-3</sup>kg; e = 0.02m;<br>g = 10ms<sup>-2</sup>. The elastic potential energy stored in the compressed spring is given by =<sup>1</sup>/<sub>2</sub>Ke<sup>2</sup>, and the energy is transformed into gravitational potential energy = mgh, thus from the principle of energy conversion, we have that mgh =<sup>1</sup>/<sub>2</sub>Ke<sup>2</sup><br>5 x 10<sup>-3</sup>x 10 x h =<sup>1</sup>/<sub>2</sub>x 500 x (0.02)<sup>2</sup><br>∴ h = 1 x 500 x 0.02 x 0.022 x 5 x 10<sup>-3</sup>x 10<br>= 5 x 2 x 0.02___10<sup>-1</sup><br>= 10 x 0.02 x 10 = 2<br>∴ h = 2m",
+        "correctIndex": 2,
+        "options": [
+            "8 m",
+            "4 m",
+            "2 m",
+            "1 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2003,
+        "question": "A test tube of radius 1.0cm is loaded to 8.8g. If is placed upright in water, find the depth to which it would sink",
+        "explanation": "Pressure =<sup>F</sup>/<sub>A</sub>= pgh, where p = density, h = depth and g = 10ms<sup>-2</sup><br>But F = P x A<br>∴ Force exerted by the load test tube = cross-sectional Area x Pressure<br>i.e F = A x pgh<br><table><tbody><tr><td rowspan=\"2\">∴ h = </td><td style=\"border-bottom:solid 1px\">F_</td></tr><tr><td>A x pg</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">mg</td></tr><tr><td>A x P x g</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">8.8 x 10<sup>-3</sup> x 10</td></tr><tr><td>πr<sup>2</sup> x p x g</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\"> _8.8 x 10<sup>-3</sup> x 10</td></tr><tr><td>π x (1.0<sup>-2</sup>)<sup>2</sup> x 1000 x 10</td></tr></tbody></table><br>= 0.028m or 2.8m",
+        "correctIndex": 0,
+        "options": [
+            "2.8cm",
+            "5.2cm",
+            "25.5cm",
+            "28.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19029072748_phy20034.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.63 cm",
+            "1.64 cm",
+            "1.65 cm",
+            "1. 66 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2003,
+        "question": "A hose of cross-sectional area 0.5m<sup>2</sup>is used to discharge water from a water tanker at a velocity of 60ms<sup>-1</sup>in 20s into a container. If the container is filled completely, the volume of the container is",
+        "explanation": "Vol = cross-sectional area x length<br>∴ vol. of water disharged per sec<br>= 60ms<sup>-1</sup>x 0.5m<br>= 30m<sup>3</sup>5<sup>-1</sup><br>=&gt; Vol. of water discharged in the said 20s<br>= 30m<sup>3</sup>x 20 = 600m<sup>3</sup><br>∴ vol. of the container = 600m<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "240m<sup>3</sup>",
+            "600m<sup>3</sup>",
+            "2400m<sup>3</sup>",
+            "6000m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2003,
+        "question": "If an object just begins to slide on a surface inclined at 30<sup>o</sup>to the horizontal,the coefficient of friction is",
+        "explanation": "A body sliding down a plane inclined at 30<sup>o</sup>to the horizontal, has coefficient of friction<br>= tan 30<sup>o</sup>=<sup>1</sup>/<sub>√3</sub>",
+        "correctIndex": 3,
+        "options": [
+            "√3",
+            "<sup>√3</sup>/<sub>2</sub>",
+            "<sup>1</sup>/<sub>√2</sub>",
+            "<sup>1</sup>/<sub>√3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2003,
+        "question": "Water does not drop through an open umbrella of silk materials unless the inside of the umbrella is touched. This is due to",
+        "explanation": "Surface tension - The tendency of a liquid surface to behave as an elastic skin",
+        "correctIndex": 3,
+        "options": [
+            "capilarity",
+            "osmotic pressure",
+            "viscosity",
+            "surface tension"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2003,
+        "question": "The stylus of a phonograph record exerts a force of 7.7 x 10<sup>-2</sup>N on a groove of radius 10<sup>-5</sup>m. Compute the pressure exerted by the stylus on the groove",
+        "explanation": "Pressure P =<sup>F</sup>/<sub>A</sub><br>=<sup>F</sup>/<sub>πr<sup>2</sup></sub><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">7.7 x 10<sup>-2</sup></td></tr><tr><td>π x (10<sup>-5</sup>)<sup>2</sup><br>\n<table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">7.7 x 10<sup>-2</sup></td></tr><tr><td>π x 10<sup>-10</sup></td></tr></tbody></table><br>\n= 2.45 x 10<sup>8</sup> Nm<sup>-2</sup>\n\n<div class=\"clearfix\">\n<div class=\"float-md-right mb-2\">\n<a href=\"https://myschool.ng/classroom/physics/12270?exam_type=jamb&amp;type=obj&amp;exam_year=2003&amp;page=2\" class=\"btn btn-danger\">Previous</a>\n<a href=\"https://myschool.ng/classroom/physics/12272?exam_type=jamb&amp;type=obj&amp;exam_year=2003&amp;page=2\" class=\"btn btn-danger\">Next</a>\n</div>\n<a href=\"https://myschool.ng/classroom/physics?exam_type=jamb&amp;type=obj&amp;exam_year=2003&amp;page=2\" class=\"btn btn-danger\">Go back to Phy classroom</a>\n</div>\n<br>\n<a href=\"https://myschool.ng/classroom/report/12271\" class=\"btn btn-success mr-1 mb-2\">Report an Error</a>\n<a class=\"btn btn-success mr-1 mb-2\" href=\"https://myschool.ng/questions\">Ask A Question</a>\n<a href=\"https://myschool.ng/latest-jamb-cbt-practice-mobile-app-free-download\" class=\"btn btn-success mb-2\">Download App</a>\n<div class=\"row t_container\"><div class=\"mb-4 text-center col-12\"><script type=\"491a83367915b3c202ef4c70-text/javascript\">\r\n    google_ad_client = \"ca-pub-5017382253488153\";\r\n    google_ad_slot = \"5663691464\";\r\n    google_ad_width = 336;\r\n    google_ad_height = 280;\r\n</script>\n\n<script type=\"491a83367915b3c202ef4c70-text/javascript\" src=\"//pagead2.googlesyndication.com/pagead/show_ads.js\"></script></div></div>\n<div class=\"mt-5 mb-5\">\n<div class=\"sharethis-inline-share-buttons text-center\"></div>\n</div>\n<div id=\"commentsApp\" v-cloak>\n<div v-if=\"comments &amp;&amp; comments.data.length &gt; 0\" id=\"comment_posts\">\n<div class=\"dropdown float-right\">\n<button class=\"btn btn-secondary dropdown-toggle\" type=\"button\" data-toggle=\"dropdown\">\n{{ sortBys[selectedSort] }}\n</button>\n<div class=\"dropdown-menu dropdown-menu-right\">\n<a v-for=\"(text, key) in sortBys\" v-if=\"key !== selectedSort\" class=\"dropdown-item\" href=\"javascript:void(0)\">{{ text }}</a>\n</div>\n</div>\n<h4 class=\"mb-4 \">Contributions ({{ comment_count }})</h4>\n<div v-if=\"!is_loading\">\n<div class=\"mb-4\">\n<comment-pagination :data=\"comments\"></comment-pagination>\n</div>\n<div v-for=\"(comment, index) in comments.data\">\n<comment :comment=\"comment\" :is_alt=\"((index % 2) == 0)\" :is_opera_mini=\"is_opera_mini\" :settings=\"settings\" :user_ratings=\"user_ratings\" :user_follows=\"user_follows\" :current_user=\"current_user\" :type=\"type\" :post_id=\"post_id\" :token=\"token\">\n</comment>\n</div>\n<comment-pagination :data=\"comments\"></comment-pagination>\n</div>\n<h4 v-else class=\"p-3 mb-2 bg-light text-dark text-center\"><i class=\"fa fa-spinner fa-spin\"></i> Please wait...</h4>\n<div class=\"modal fade\" id=\"friendListModal\">\n<div class=\"modal-dialog\" role=\"document\">\n<div class=\"modal-content\">\n<div class=\"modal-header\">\n<h5 class=\"modal-title\">Modal title</h5>\n<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n<span aria-hidden=\"true\">×</span>\n</button>\n</div>\n<ul class=\"list-group list-group-flush\">\n<li v-for=\"rating in ratings\" class=\"list-group-item\">\n<div class=\"media\">\n<div class=\"d-flex mr-3\">\n<a :href=\"rating.profile_url\" target=\"_blank\"><img :src=\"rating.img_url\" class=\"img-fluid\"></a>\n</div>\n<div class=\"media-body\">\n<a :href=\"rating.profile_url\" target=\"_blank\">{{ rating.name }}</a>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<div v-else class=\"alert alert-info\">{{ settings.no_comment_msg ? settings.no_comment_msg : 'There are no comments' }}</div>\n</div>\n<script type=\"491a83367915b3c202ef4c70-text/javascript\">\r\n    Vue.component('comment-pagination', {\r\n        template: `\r\n            <ul v-if=\"hasPages\" class=\"pagination flex-wrap\">\r\n                <li v-if=\"data.current_page === 1\" class=\"disabled page-item\"><span class=\"page-link\">&laquo;</span></li>\r\n                <li v-else class=\"page-item\"><a class=\"page-link\" href=\"javascript:void(0)\" @click=\"navigate(data.prev_page_url)\" rel=\"prev\">&laquo;</a></li>\r\n\r\n                <li v-for=\"element in elements\" class=\"page-item\" :class=\"{active: element.isActive, disabled: (element.disabled && !element.isActive)}\">\r\n                    <a v-if=\"!element.isActive\" class=\"page-link\" href=\"javascript:void(0)\" @click=\"onPageSelect(element.page_num)\">{{ element.page_num }}</a>\r\n                    <span v-else class=\"page-link\">{{ element.page_num }}</span>\r\n                </li>\r\n\r\n                <li v-if=\"data.next_page_url\" class=\"page-item\"><a class=\"page-link\" href=\"javascript:void(0)\" @click=\"navigate(data.next_page_url)\" rel=\"next\">&raquo;</a></li>\r\n                <li v-else class=\"disabled page-item\"><span class=\"page-link\">&raquo;</span></li>\r\n            </ul>\r\n        `,\r\n        props: ['data'],\r\n        created() {\r\n            let num_pages = (this.data.total > this.data.per_page)\r\n                ? Math.ceil(parseFloat(this.data.total)/parseFloat(this.data.per_page)) : 0;\r\n\r\n            for(let i = 1; i <= num_pages; i++){\r\n                this.elements.push({\r\n                    page_num: i,\r\n                    isActive: i === this.data.current_page,\r\n                    disabled: i === this.data.current_page\r\n                })\r\n            }\r\n        },\r\n        data() {\r\n            return {\r\n                elements: [],\r\n            }\r\n        },\r\n        methods: {\r\n            onPageSelect(num){\r\n                let url = this.data.path + '?c_page=' + num;\r\n                this.navigate(url);\r\n            },\r\n            navigate(url){\r\n                window.bus.$emit('comment_nav', url);\r\n            }\r\n        },\r\n        computed: {\r\n            hasPages(){\r\n                return this.data.total > this.data.per_page;\r\n            }\r\n        }\r\n    });\r\n</script>\n<script type=\"491a83367915b3c202ef4c70-text/javascript\">\r\n    Vue.component('like-button', {\r\n            template: `\r\n        <span class=\"rate-container\">\r\n    <span class=\"rate-item\">\r\n        <a class=\"rate-btn link-unstyled\" href=\"javascript:void(0)\" @click=\"ratePost('like')\">\r\n            <i class=\"fa fa-thumbs-o-up\"></i> Like\r\n        </a>\r\n        <a class=\"get-raters-btn text-success\" href=\"javascript:void(0)\" @click=\"fetchRatings('like')\">\r\n            <span class=\"rate-count\">{{ comment.like_ratings_count }}</span>\r\n        </a>\r\n    </span>\r\n    &nbsp;&nbsp;\r\n    <span class=\"rate-item\">\r\n        <a class=\"rate-btn link-unstyled\" href=\"javascript:void(0)\" @click=\"ratePost('dislike')\">\r\n            <i class=\"fa fa-thumbs-o-down\"></i> Dislike\r\n        </a>\r\n        <a class=\"get-raters-btn text-danger\" href=\"javascript:void(0)\" @click=\"fetchRatings('dislike')\">\r\n            <span class=\"rate-count\">{{ comment.dislike_ratings_count }}</span>\r\n        </a>\r\n    </span>\r\n</span>\r\n        `,\r\n        props: ['comment', 'selection', 'token'],\r\n        data() {\r\n            return {\r\n                is_busy: false\r\n            }\r\n        },\r\n        methods: {\r\n            ratePost(type){\r\n                if(!IS_LOGGED_ON){\r\n                    window.bus.$emit('show_login', '');\r\n                    return;\r\n                }\r\n\r\n                if(this.is_busy) return;\r\n                this.is_busy = true;\r\n\r\n                let action = (this.selection && (this.selection === type)) ? '' : type;\r\n\r\n                if(action) {\r\n                    if (action === 'like')\r\n                        this.comment.like_ratings_count++;\r\n                    else\r\n                        this.comment.dislike_ratings_count++;\r\n                }\r\n\r\n                if(this.selection){\r\n                    if (this.selection === 'like')\r\n                        this.comment.like_ratings_count--;\r\n                    else\r\n                        this.comment.dislike_ratings_count--;\r\n                }\r\n\r\n                this.selection = action;\r\n                let formData = new FormData();\r\n                formData.append( 'comment_id', this.comment.id);\r\n                formData.append( 'rate', type);\r\n                formData.append( '_token', this.token);\r\n\r\n                fetch(`${BASE_URL}api/comments/rate_post`, {\r\n                    method: 'post',\r\n                    body: formData,\r\n                })\r\n                    .then(res => {\r\n                        if(res.status !== 200)\r\n                        {\r\n                            res.json().then(response => {\r\n                                console.log(response);\r\n                            });\r\n                        }\r\n                        else {\r\n                            res.json().then(response => {\r\n\r\n                            });\r\n                        }\r\n                    })\r\n                    .catch(err => console.log(err))\r\n                    .finally(() => {\r\n                        this.is_busy = false;\r\n                    });\r\n            },\r\n            fetchRatings(type){\r\n                if(this.is_busy) return;\r\n                this.is_busy = true;\r\n\r\n                fetch(`${BASE_URL}api/comments/ratings/${this.comment.id}/${type}`, {\r\n                    method: 'GET'\r\n                })\r\n                    .then(response => response.json())\r\n                    .then(data => {\r\n                        window.bus.$emit('ratings', {ratings: data, type});\r\n                    })\r\n                    .catch(err => console.log(err))\r\n                    .finally(() => { this.is_busy = false});\r\n            },\r\n        }\r\n    })\r\n</script><script type=\"491a83367915b3c202ef4c70-text/javascript\">\n    Vue.component('comment-view', {\n        template: `\n<div>\n<div v-html=\"comment.comment\"></div>\n\n    <div class=\"mt-3\" v-for=\"image in comment.images\">\n        <img :data-src=\"image.url\" class=\"img-fluid comment-img lazy\" />\n    </div>\n</div>\n    `,\n        props: ['comment'],\n        data() {\n            return {}\n        },\n        methods: {}\n    })\n</script><script type=\"491a83367915b3c202ef4c70-text/javascript\">\n    Vue.component('comment-reply', {\n        template: `\n<div class=\"media comment-reply\">\n\n    <div class=\"d-flex mr-3\">\n        <a :href=\"reply.posted_by.profile_url\">\n            <img :src=\"reply.posted_by.image_url\" class=\"img-fluid\" width=\"35\">\n        </a>\n    </div>\n\n    <div class=\"media-body\">\n\n        <div>\n            <a :href=\"reply.posted_by.profile_url\" class=\"text-danger\">{{ reply.posted_by.display_name }}</a>:\n\n            <comment-view :comment=\"reply\"></comment-view>\n        </div>\n\n        <div>\n            <like-button :comment=\"reply\" :selection=\"rate_selection\" :token=\"token\"></like-button>\n            &nbsp;\n            <small class=\"text-muted\">{{ reply.created_at }}</small>\n        </div>\n    </div>\n\n</div>`,\n        props: ['comment', 'reply', 'rate_selection', 'token'],\n        data() {\n            return {}\n        },\n        methods: {}\n    })\n</script><script type=\"491a83367915b3c202ef4c70-text/javascript\">\r\n    Vue.component('comment', {\r\n        template: `\r\n<div :id=\"'comment_' + comment.id\" class=\"comment-post\" :class=\"{alt: is_alt}\">\r\n    <div class=\"media\">\r\n\r\n        <div class=\"d-flex mr-3\">\r\n            <a href=\"\">\r\n                <img :src=\"comment.posted_by.image_url\" width=\"50\" class=\"img-fluid\">\r\n            </a>\r\n        </div>\r\n\r\n        <div class=\"media-body\" style=\"line-height: 1.1em\">\r\n            <a :href=\"comment.posted_by.profile_url\" class=\"text-danger\">{{ comment.posted_by.display_name }}</a><br>\r\n            <small class=\"text-muted\">{{ comment.created_at }}</small>\r\n        </div>\r\n\r\n    </div>\r\n\r\n    <div class=\"mt-2\">\r\n        <blockquote class=\"blockquote\" v-if=\"comment.quote\">\r\n            <div class=\"mb-0\">\r\n                <comment-view :comment=\"comment.quote\"></comment-view>\r\n            </div>\r\n            <footer class=\"blockquote-footer\">{{ comment.quote.posted_by.display_name }}</footer>\r\n        </blockquote>\r\n\r\n        <comment-view :comment=\"comment\"></comment-view>\r\n    </div>\r\n\r\n    <div>\r\n        <like-button :comment=\"comment\" :selection=\"user_rating(comment)\" :token=\"token\"></like-button>\r\n\r\n        &nbsp;&nbsp;<a href=\"javascript:void(0)\" @click=\"show_reply_box\"><i class=\"fa fa-reply\"></i> Reply</a>\r\n        &nbsp;&nbsp;<a href=\"javascript:void(0)\" @click=\"quote\"><i class=\"fa fa-quote-left\"></i> Quote</a>\r\n        <span v-if=\"!is_following\">&nbsp;&nbsp;<a href=\"javascript:void(0)\" @click=\"updateFollowStatus('follow')\"><i class=\"fa fa-user-plus\"></i> Follow</a></span>\r\n        <span v-else>&nbsp;&nbsp;<a href=\"javascript:void(0)\" @click=\"updateFollowStatus('unfollow')\"><i class=\"fa fa-bullhorn\"></i> Unfollow</a></span>\r\n    </div>\r\n\r\n    <ul class=\"reply-list\">\r\n        <li v-for=\"reply in comment.replies\" :id=\"'comment_' + reply.id\">\r\n            <comment-reply :comment=\"comment\" :reply=\"reply\" :rate_selection=\"user_rating(reply)\" :token=\"token\"></comment-reply>\r\n        </li>\r\n\r\n        <li v-if=\"comment.show_reply_box\" class=\"reply-form\">\r\n            <div class=\"media\">\r\n\r\n                <div class=\"d-flex mr-3\">\r\n                    <img :src=\"current_user.image_url\" width=\"35\" class=\"img-fluid\">\r\n                </div>\r\n\r\n                <div class=\"media-body\">\r\n                    <fieldset :disabled=\"comment.is_saving\">\r\n                        <form method=\"post\" @submit.prevent=\"save\">\r\n                            <textarea name=\"message\" v-if=\"is_opera_mini\" class=\"form-control reply-box\" rows=\"2\"></textarea>\r\n                            <textarea name=\"message\" v-else class=\"form-control reply-box emojionearea\" rows=\"2\"></textarea>\r\n\r\n                            <div class=\"form-group\">\r\n                                <label class=\"mb-0\">Image</label>\r\n                                <div v-for=\"(n, index) in settings.num_reply_img_upload\">\r\n                                    <input type=\"file\" name=\"image\" class=\"form-control-file mt-1\" accept=\"image/*\" @input=\"onImageSelect($event, index)\">\r\n                                </div>\r\n                            </div>\r\n\r\n                            <div v-if=\"comment.notification.message\" class=\"alert\" :class=\"comment.notification.class_name()\" role=\"alert\">\r\n                                <button type=\"button\" class=\"close\" @click=\"comment.notification.message = ''\"\r\n                                        aria-label=\"Close\">\r\n                                    <span aria-hidden=\"true\">&times;</span>\r\n                                </button>\r\n                                <span v-html=\"comment.notification.message\"></span>\r\n                            </div>\r\n\r\n                            <button type=\"submit\" class=\"btn btn-danger btn-sm\">Post Reply</button>\r\n                        </form>\r\n                    </fieldset>\r\n                </div>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n</div>\r\n        `,\r\n        props: ['comment', 'is_alt', 'is_opera_mini', 'current_user', 'settings', 'user_ratings', 'user_follows', 'type', 'post_id', 'token'],\r\n        data() {\r\n            return {\r\n                images: []\r\n            }\r\n        },\r\n        methods: {\r\n            user_rating(comment){\r\n                comment = (comment === undefined) ? this.comment : comment;\r\n                let rating = (comment && (comment.id in this.user_ratings)) ? this.user_ratings[comment.id] : '';\r\n                return rating;\r\n            },\r\n            show_reply_box(){\r\n                if(!IS_LOGGED_ON){\r\n                    this.comment.show_reply_box = false;\r\n                    window.bus.$emit('show_login', '');\r\n                    return;\r\n                }\r\n\r\n                this.comment.show_reply_box = !this.comment.show_reply_box;\r\n\r\n                if(this.comment.show_reply_box && !this.is_opera_mini) {\r\n                    setTimeout(function(){ $('textarea.emojionearea').emojioneArea(); }, 500);\r\n                }\r\n            },\r\n            save(submitEvent){\r\n                if(!IS_LOGGED_ON){\r\n                    window.bus.$emit('show_login', '');\r\n                    return;\r\n                }\r\n\r\n                if(this.comment.is_saving) return;\r\n\r\n                let formElements = submitEvent.target.elements;\r\n                let message = formElements.message.value;\r\n\r\n                if(!message && this.images.length < 1)\r\n                {\r\n                    this.comment.notification.error('No comment message or image specified');\r\n                    return;\r\n                }\r\n\r\n                this.comment.is_saving = true;\r\n\r\n                let formData = new FormData();\r\n                formData.append('comment', message);\r\n                formData.append('parent_id', this.comment.id);\r\n                formData.append( '_token', this.token);\r\n\r\n                this.images.forEach((image) => {\r\n                    formData.append('images[]', image);\r\n                });\r\n\r\n                fetch(`${BASE_URL}api/comments/${this.type}/${this.post_id}`, {\r\n                    method: 'post',\r\n                    body: formData,\r\n                })\r\n                    .then(res => {\r\n                        if(res.status !== 200)\r\n                        {\r\n                            res.json().then(response => {\r\n                                this.comment.notification.error(response.join());\r\n                            });\r\n                        }\r\n                        else {\r\n                            res.json().then(response => {\r\n                                this.comment.notification.success('Comment was successfully added.');\r\n                                this.$emit('save', response);\r\n\r\n                                //Clear form\r\n                                formElements.message.value = '';\r\n                                let d = submitEvent.target.querySelector('.emojionearea-editor');\r\n                                if(d) d.innerHTML = \"\";\r\n                                this.images = [];\r\n                                formElements.image.value = '';\r\n                            });\r\n                        }\r\n                    })\r\n                    .catch(err => console.log(err))\r\n                    .finally(() => {\r\n                        this.comment.is_saving = false;\r\n                    });\r\n            },\r\n            onImageSelect(event, index){\r\n                this.images[index] = event.target.files[0];\r\n            },\r\n            quote(){\r\n                if(!IS_LOGGED_ON){\r\n                    window.bus.$emit('show_login', '');\r\n                    return;\r\n                }\r\n\r\n                window.bus.$emit('quote', this.comment);\r\n                let elem = document.getElementById(\"comment_form\");\r\n                if(elem) elem.scrollIntoView();\r\n            },\r\n            updateFollowStatus(status){\r\n                if(!IS_LOGGED_ON){\r\n                    window.bus.$emit('show_login', '');\r\n                    return;\r\n                }\r\n\r\n                if(this.comment.is_saving) return;\r\n                this.comment.is_saving = true;\r\n\r\n                let formData = new FormData();\r\n                formData.append( 'comment_id', this.comment.id);\r\n                formData.append( 'status', status);\r\n                formData.append( '_token', this.token);\r\n\r\n                fetch(`${BASE_URL}api/comments/follow_status`, {\r\n                    method: 'post',\r\n                    body: formData,\r\n                })\r\n                    .then(res => {\r\n                        if(res.status !== 200)\r\n                        {\r\n                            res.json().then(response => {\r\n                                console.log(response);\r\n                            });\r\n                        }\r\n                        else {\r\n                            res.json().then(response => {\r\n                                if(status === 'follow') {\r\n                                    if(!this.user_follows.includes(this.comment.id))\r\n                                        this.user_follows.push(this.comment.id);\r\n                                }\r\n                                else{\r\n                                    if(this.user_follows.includes(this.comment.id)) {\r\n                                        let index = this.user_follows.indexOf(this.comment.id);\r\n                                        this.user_follows.splice(index, 1);\r\n                                    }\r\n                                }\r\n                            });\r\n                        }\r\n                    })\r\n                    .catch(err => console.log(err))\r\n                    .finally(() => {\r\n                        this.comment.is_saving = false;\r\n                    });\r\n            }\r\n        },\r\n        computed: {\r\n            is_following(){\r\n                return (this.comment && this.user_follows.includes(this.comment.id));\r\n            }\r\n        }\r\n    })\r\n</script>\n<script type=\"491a83367915b3c202ef4c70-text/javascript\">\r\n   new Vue({\r\n        el: '#commentsApp',\r\n        data: {\r\n            comments: null,\r\n            user_ratings: {},\r\n            user_follows: [],\r\n            comment_count: 0,\r\n            is_opera_mini: false,\r\n            current_user: null,\r\n            settings: {\"form_title\":\"Post your Contribution\",\"form_textarea_description\":\"Type your contribution in the box below\",\"form_button_text\":\"Post Contribution\",\"list_title\":\"Contributions\",\"title_css_class\":\"\",\"num_comment_img_upload\":3,\"num_reply_img_upload\":1,\"default_filter\":\"best\",\"no_comment_msg\":\"\",\"show_form_message\":true},\r\n            type: 'classroom',\r\n            post_id: 12271,\r\n            sortBys: {\"best\":\"Best\",\"oldest\":\"Oldest\",\"newest\":\"Newest\"},\r\n            selectedSort: 'best',\r\n            token: 'QQCYxt402B3Tu7J1I1pUNoW9tHgYXbC8DkdA2OCR',\r\n            is_loading: false,\r\n            ratings: []\r\n        },\r\n        created(){\r\n            window.bus.$on('new_comment', (data) => {\r\n                this.fetch();\r\n            });\r\n\r\n            window.bus.$on('comment_nav', (url) => {\r\n                this.fetch(url);\r\n            });\r\n\r\n            window.bus.$on('show_login', (data) => {\r\n                $('#member_login_modal').modal('show');\r\n            });\r\n\r\n            window.bus.$on('ratings', (data) => {\r\n                this.ratings = data.ratings;\r\n                let modalBox = $('#friendListModal');\r\n                if(modalBox.length)\r\n                {\r\n                    var title = (data.type === 'like') ? 'Like' : 'Dislike';\r\n                    title += (data.ratings.length > 1) ? 's' : '';\r\n                    modalBox.find('.modal-title').html(data.ratings.length + ' ' + title);\r\n                    modalBox.modal('show');\r\n                }\r\n            });\r\n\r\n            let comments = {\"user_ratings\":[],\"user_follows\":[],\"comment_count\":1,\"current_page\":1,\"data\":[{\"id\":1264421,\"comment\":\"correct\",\"user_id\":1362690,\"parent_id\":0,\"quote_id\":null,\"created_at\":\"5 months ago\",\"like_ratings_count\":0,\"dislike_ratings_count\":0,\"is_following\":false,\"posted_by\":{\"id\":1362690,\"display_name\":\"Esteem\",\"image\":\"NoydqoXwizS8fUT0jLfci3BEXbG9NDY2NVhiw3pp.jpeg\",\"slug\":\"daviesie2018\",\"image_url\":\"https:\\/\\/myschool.ng\\/storage\\/members\\/cache\\/50_0_NoydqoXwizS8fUT0jLfci3BEXbG9NDY2NVhiw3pp.jpeg\",\"profile_url\":\"https:\\/\\/myschool.ng\\/connect2me\\/profile\\/daviesie2018\"},\"images\":[],\"replies\":[]}],\"first_page_url\":\"https:\\/\\/myschool.ng\\/api\\/comments\\/classroom\\/12271?c_page=1\",\"from\":1,\"last_page\":1,\"last_page_url\":\"https:\\/\\/myschool.ng\\/api\\/comments\\/classroom\\/12271?c_page=1\",\"next_page_url\":null,\"path\":\"https:\\/\\/myschool.ng\\/api\\/comments\\/classroom\\/12271\",\"per_page\":15,\"prev_page_url\":null,\"to\":1,\"total\":1};\r\n            this.setComments(comments);\r\n        },\r\n        methods: {\r\n            fetch(url){\r\n                if(this.is_loading) return;\r\n\r\n                this.is_loading = true;\r\n                url = (url !== undefined) ? url + '&' : `${BASE_URL}api/comments/${this.type}/${this.post_id}` + '?';\r\n                url += $.param({filter: this.selectedSort});\r\n\r\n                let elem = document.getElementById(\"commentsApp\");\r\n                if(elem) elem.scrollIntoView();\r\n\r\n                fetch(url, {\r\n                    method: 'GET'\r\n                })\r\n                    .then(response => response.json())\r\n                    .then(data => {\r\n                        this.setComments(data);\r\n                    })\r\n                    .catch(err => console.log(err))\r\n                    .finally(() => { this.is_loading = false});\r\n            },\r\n            onSortByChange(sort){\r\n                this.selectedSort = sort;\r\n                this.fetch();\r\n            },\r\n            attachData(comment){\r\n                comment.show_reply_box = (IS_LOGGED_ON && comment.replies.length >= 5);\r\n                comment.is_saving = false;\r\n                comment.message = '';\r\n                if(!('images' in comment)) comment.images = [];\r\n                comment.notification = this.notification_obj();\r\n                if(!('like_ratings_count' in comment)) comment.like_ratings_count = 0;\r\n                if(!('dislike_ratings_count' in comment)) comment.dislike_ratings_count = 0;\r\n            },\r\n            setComments(comments){\r\n                comments.data.forEach((comment) => {\r\n                    this.attachData(comment);\r\n                });\r\n                this.comments = comments;\r\n                this.user_ratings = comments.user_ratings;\r\n                this.user_follows = comments.user_follows;\r\n                this.comment_count = comments.comment_count;\r\n\r\n                $(document).ready(function () {\r\n                    setTimeout(function(){ $('.lazy').lazy()}, 500);\r\n\r\n                    if(!this.is_opera_mini) {\r\n                        setTimeout(function(){ $('textarea.emojionearea').emojioneArea(); }, 500);\r\n                    }\r\n                });\r\n            },\r\n            newReplyHandler(comment, reply){\r\n                this.attachData(reply);\r\n                comment.replies.push(reply);\r\n                this.comment_count++;\r\n            },\r\n            notification_obj(){\r\n                return {\r\n                    type: 'error',\r\n                    message: '',\r\n                    class_name: function(){\r\n                        return this.type === 'success' ? 'alert-success' : 'alert-danger';\r\n                    },\r\n                    error: function (message) {\r\n                        this.type = 'error';\r\n                        this.message = message;\r\n                    },\r\n                    success: function (message) {\r\n                        this.type = 'success';\r\n                        this.message = message;\r\n                    }\r\n                };\r\n            }\r\n        },\r\n       watch: {\r\n           comment_count: function (count) {\r\n               $('.comment-count-d').html(count);\r\n           }\r\n       }\r\n    });\r\n</script>\n<h4 class=\"mt-5 mb-4\">Quick Questions</h4>\n<div class=\"mb-5\">\n<ul class=\"post-listings\">\n<li>\n<div class=\"media\">\n<div class=\"mr-3\">\n<a href=\"https://myschool.ng/connect2me/profile/catherinebenjamin64\">\n<img class=\"lazy\" data-src=\"https://myschool.ng/storage/members/cache/fit_50_50_no_image_placeholder.png\" width=\"50\" height=\"50\">\n</a>\n</div>\n<div class=\"media-body\">\n<div>\n<a href=\"https://myschool.ng/questions/view/academic-questions/227781\">\nThe second term of a geometric progression is 5 and the fourth term is 31.25 .Find the\na)common ratio r,...\n</a>\n<strong><a href=\"https://myschool.ng/questions/view/academic-questions/227781#comment_form\" class=\"text-danger\">Answer this</a></strong>\n</div>\n<div class=\"small text-muted\">\n1 Answers   ·  \n<a href=\"https://myschool.ng/questions/academic-questions/mathematics\">\nMathematics\n</a>   ·  \n18 minutes ago\n</div>\n</div>\n</div>\n</li>\n<li>\n<div class=\"media\">\n<div class=\"mr-3\">\n<a href=\"https://myschool.ng/connect2me/profile/ikibefavour65\">\n<img class=\"lazy\" data-src=\"https://myschool.ng/storage/members/cache/fit_50_50_no_image_placeholder.png\" width=\"50\" height=\"50\">\n</a>\n</div>\n<div class=\"media-body\">\n<div>\n<a href=\"https://myschool.ng/questions/view/academic-questions/227758\">\nWhat profit does an investor Who buys 2000 shares at 95k and sells them at N1.56&amp;1/2 make?\n</a>\n<strong><a href=\"https://myschool.ng/questions/view/academic-questions/227758#comment_form\" class=\"text-danger\">Answer this</a></strong>\n</div>\n<div class=\"small text-muted\">\n1 Answers   ·  \n<a href=\"https://myschool.ng/questions/academic-questions/mathematics\">\nMathematics\n</a>   ·  \n3 hours ago\n</div>\n</div>\n</div>\n</li>\n<li>\n<div class=\"media\">\n<div class=\"mr-3\">\n<a href=\"https://myschool.ng/connect2me/profile/owuluchinenye2006\">\n<img class=\"lazy\" data-src=\"https://myschool.ng/storage/members/cache/fit_50_50_no_image_placeholder.png\" width=\"50\" height=\"50\">\n</a>\n</div>\n<div class=\"media-body\">\n<div>\n<a href=\"https://myschool.ng/questions/view/academic-questions/227769\">\nIs the Public Service in Nigeria really working effectively? Justify your position with ten solid points.?\n</a>\n<strong><a href=\"https://myschool.ng/questions/view/academic-questions/227769#comment_form\" class=\"text-danger\">Answer this</a></strong>\n</div>\n<div class=\"small text-muted\">\n2 Answers   ·  \n<a href=\"https://myschool.ng/questions/academic-questions/current-affairs\">\nCurrent Affairs\n</a>   ·  \n53 minutes ago\n</div>\n</div>\n</div>\n</li>\n</ul> </div>\n<div id=\"comment_form\" v-cloak>\n<fieldset :disabled=\"is_saving\">\n<form method=\"post\">\n<h4 class=\"mb-3 \">Post your Contribution</h4>\n<p class=\"text-danger\">Please don't post or ask to join a \"Group\" or \"Whatsapp Group\" as a comment. It will be deleted. To join or start a group, please <a href=\"https://myschool.ng/groups\" target=\"_blank\">click here</a></p>\n<blockquote v-if=\"quote\" class=\"blockquote\">\n<div class=\"mb-0\">\n<comment-view :comment=\"quote\"></comment-view>\n</div>\n<footer class=\"blockquote-footer\">{{ quote.posted_by.display_name }}</footer>\n</blockquote>\n<div class=\"form-group\">\n{{ settings.form_textarea_description }}\n<textarea ref=\"comment\" v-if=\"is_opera_mini\" class=\"form-control\" rows=\"3\"></textarea>\n<textarea ref=\"comment\" v-else class=\"form-control emojionearea\" rows=\"3\"></textarea>\n</div>\n<div class=\"form-group\">\n<label>Image</label>\n<div class=\"mt-2\" v-for=\"(n, index) in settings.num_comment_img_upload\">\n<input type=\"file\" class=\"form-control-file\" accept=\"image/*\" index>\n</div>\n</div>\n<div v-if=\"notification.message\" class=\"alert\" :class=\"notification.class_name()\" role=\"alert\">\n<button type=\"button\" class=\"close\" aria-label=\"Close\">\n<span aria-hidden=\"true\">×</span>\n</button>\n<span v-html=\"notification.message\"></span>\n</div>\n<button type=\"submit\" class=\"btn btn-primary\">{{ settings.form_button_text }}</button>\n</form>\n</fieldset>\n</div>\n<script type=\"491a83367915b3c202ef4c70-text/javascript\">\n    new Vue({\n        el: '#comment_form',\n        data: {\n            is_opera_mini: false,\n            settings: {\"form_title\":\"Post your Contribution\",\"form_textarea_description\":\"Type your contribution in the box below\",\"form_button_text\":\"Post Contribution\",\"list_title\":\"Contributions\",\"title_css_class\":\"\",\"num_comment_img_upload\":3,\"num_reply_img_upload\":1,\"default_filter\":\"best\",\"no_comment_msg\":\"\",\"show_form_message\":true},\n            type: 'classroom',\n            post_id: 12271,\n            token: 'QQCYxt402B3Tu7J1I1pUNoW9tHgYXbC8DkdA2OCR',\n            quote: null,\n            images: [],\n            is_saving: false,\n            notification: null\n        },\n        created(){\n            this.notification = this.notification_obj();\n            window.bus.$on('quote', (data) => {\n                this.quote = data;\n            });\n        },\n        methods: {\n            create(){\n                if(!IS_LOGGED_ON){\n                    window.bus.$emit('show_login', '');\n                    return;\n                }\n\n                if(this.is_saving) return;\n\n                let comment = this.$refs['comment'].value;\n\n                if(!comment && this.images.length < 1)\n                {\n                    this.notification.error('No comment message or image specified');\n                    return;\n                }\n\n                this.is_saving = true;\n\n                let formData = new FormData();\n                formData.append('comment', comment);\n                formData.append( '_token', this.token);\n\n                if(this.quote) formData.append('qtid', this.quote.id);\n\n                this.images.forEach((image) => {\n                    formData.append('images[]', image);\n                });\n\n                fetch(`${BASE_URL}api/comments/${this.type}/${this.post_id}`, {\n                    method: 'post',\n                    body: formData,\n                })\n                    .then(res => {\n                        if(res.status !== 200)\n                        {\n                            res.json().then(response => {\n                                console.log(response);\n                                this.notification.error(response.join());\n                            });\n                        }\n                        else {\n                            res.json().then(response => {\n                                this.$refs['comment'].value = '';\n                                $('.emojionearea-editor').html('');\n                                this.images = [];\n                                $('input[type=file]').val('');\n                                window.bus.$emit('new_comment', response);\n                                this.notification.success('Comment was successfully added.');\n                            });\n                        }\n                    })\n                    .catch(err => console.log(err))\n                    .finally(() => {\n                        this.is_saving = false;\n                    });\n            },\n            onImageSelect(event, index){\n                this.images[index] = event.target.files[0];\n            },\n            notification_obj(){\n                return {\n                    type: 'error',\n                    message: '',\n                    class_name: function(){\n                        return this.type === 'success' ? 'alert-success' : 'alert-danger';\n                    },\n                    error: function (message) {\n                        this.type = 'error';\n                        this.message = message;\n                    },\n                    success: function (message) {\n                        this.type = 'success';\n                        this.message = message;\n                    }\n                };\n            }\n        }\n    });\n</script>\n<div class=\"clearfix\"> </div>\n\n\n<div id=\"right_col_sidebar\">\n<div class=\"row t_container\"><div class=\"mb-4 text-center col-12\"><a href=\"https://myschool.ng/serve/myschool-cbt-challenge-season-8-over-n500000-worth-of-prizes\" target=\"_self\"><img src=\"https://myschool.ng/storage/serve/aOtT9ojmxP9VPpMlzeQMFyaZ2yYqXWXhVx6FnmUU.png\" alt=\"Myschool CBT challenge season 8 - Over N500,000 worth of prizes\" class=\"img-fluid img-responsive\"></a></div><div class=\"mb-4 text-center col-12\"><a href=\"https://myschool.ng/serve/were-giving-20gb-data-every-week-till-2022\" target=\"_self\"><img src=\"https://myschool.ng/storage/serve/4aotrbh0h4LeI6EkZ4o0EpJ95lbYxGTA8rYYJcff.png\" alt=\"We're giving 20GB data every week till 2022\" class=\"img-fluid img-responsive\"></a></div></div>\n</div>\n\n<div class=\"modal fade\" id=\"member_login_modal\" tabindex=\"-1\">\n<div class=\"modal-dialog modal-sm\">\n<div class=\"modal-content\">\n<div class=\"modal-header\">\n<h5 class=\"modal-title\" id=\"exampleModalLongTitle\">Sign In</h5>\n<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n<span aria-hidden=\"true\">×</span>\n</button>\n</div>\n<div class=\"modal-body\">\n<form method=\"POST\" action=\"https://myschool.ng/login\" accept-charset=\"UTF-8\" id=\"login-modal\"><input name=\"_token\" type=\"hidden\" value=\"QQCYxt402B3Tu7J1I1pUNoW9tHgYXbC8DkdA2OCR\">\n<input class=\"redirect\" name=\"redirect\" type=\"hidden\">\n<div class=\"form-group\">\n<label>Username</label>\n<input class=\"form-control\" required=\"\" name=\"username\" type=\"text\">\n</div>\n<div class=\"form-group\">\n<label>Password</label>\n<input class=\"form-control\" required=\"\" name=\"password\" type=\"password\" value=\"\">\n</div>\n<div class=\"checkbox\">\n<label>\n<input name=\"remember\" type=\"checkbox\" value=\"1\"> Remember me\n</label>\n</div>\n<div class=\"form-group\">\n<button type=\"submit\" class=\"btn btn-primary btn-block\">Sign in</button>\n</div>\n</form>\n<div>Don't have an account, <a href=\"https://myschool.ng/register\">Click here to register</a></div>\n</div>\n</div>\n</div>\n</div>\n\n\n<footer id=\"footer\">\n<div class=\"footer_main\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-md-3 order-3 order-md-1\">\n<div class=\"footer-widget\">\n<h2 class=\"footer_main--column_title\">Welcome to Myschool</h2>\n<p>Yes! We are Nigeria's No1 Students' and Educational Resource Website.</p>\n<img data-src=\"https://myschool.ng/img/myschool_footer_logo.png\" class=\"lazy\">\n<div class=\"mt-3\">\nJoin us on Myschool<br>\n<a href=\"https://myschool.ng/register\" class=\"btn btn-success btn-sm\">REGISTER NOW!</a>\n</div>\n<p>\n</p><ul class=\"link-list\">\n<li><a href=\"https://myschool.ng/privacy-policy\">Privacy Policy</a></li>\n<li><a href=\"https://myschool.ng/terms-of-use\">Terms of Use</a></li>\n</ul>\n\n</div>\n</div>\n<div class=\"col-md-3 order-1 order-md-2\">\n<div class=\"footer-widget\">\n<h2 class=\"footer_main--column_title\">Explore</h2>\n<ul class=\"link-list\">\n\n<li><a href=\"https://myschool.ng/latest-jamb-cbt-practice-mobile-app-free-download\">JAMB CBT Mobile App</a></li>\n<li><a href=\"https://myschool.ng/latest-jamb-cbt-practice-software-free-download\">JAMB CBT Computer Software</a></li>\n<li><a href=\"https://myschool.ng/jamb-cbt-mobile-app-agent\">JAMB CBT Agent - Mobile App</a></li>\n<li><a href=\"https://myschool.ng/jamb-cbt-software-agent\">JAMB CBT Agent - Computer Software</a></li>\n<li><a href=\"https://myschool.ng/latest-waec-past-questions-app-free-download\">WAEC Past Questions App</a></li>\n<li><a href=\"https://myschool.ng/latest-waec-past-questions-software-free-download\">WAEC Past Questions Software</a></li>\n<li><a href=\"https://myschool.ng/materials/post-utme-past-questions\">Post-UTME Past Questions Papers</a></li>\n<li><a href=\"https://myschool.ng/latest-post-utme-app-for-cbt-practice-free-download\">Post-UTME App for CBT</a></li>\n<li><a href=\"https://myschool.ng/latest-post-utme-cbt-practice-software-free-download\">Post-UTME Software for CBT</a></li>\n<li><a href=\"https://myschool.ng/post-utme-past-questions-agent\">Post-UTME Past Questions Agent</a></li>\n<li><a href=\"https://myschool.ng/list-of-cbt-training-centres\">List of CBT Training Centres</a></li>\n<li><a href=\"https://myschool.ng/materials\">Project Topics &amp; Materials</a></li>\n<li><a href=\"https://myschool.ng/advertising\">Advertising With Us</a></li>\n</ul>\n</div>\n</div>\n<div class=\"col-md-3 order-2 order-md-3\">\n<div class=\"footer-widget\">\n<h2 class=\"footer_main--column_title\">Quick Links</h2>\n<ul class=\"link-list\">\n<li><a href=\"https://myschool.ng/home\">Home Page</a></li>\n<li><a href=\"https://myschool.ng/store\">Myschool Store</a></li>\n<li><a href=\"https://myschool.ng/news\">Latest News</a></li>\n<li><a href=\"https://myschool.ng/news/category/scholarships\">Scholarships</a></li>\n<li><a href=\"https://myschool.ng/classroom\">Classroom</a></li>\n<li><a href=\"https://myschool.ng/questions\">Ask a Question</a></li>\n<li><a href=\"https://myschool.ng/connect2me\">Connect2Me</a></li>\n<li><a href=\"https://myschool.ng/marketplace\">Marketplace</a></li>\n<li><a href=\"https://myschool.ng/events\">Upcoming Events</a></li>\n<li><a href=\"https://myschool.ng/groups\">Groups</a></li>\n<li><a href=\"https://myschool.ng/contact-us\">Contact Us</a></li>\n</ul>\n</div>\n</div>\n<div class=\"col-md-3 order-4 order-md-4\">\n<div class=\"footer-widget info-widget\">\n<h2 class=\"footer_main--column_title\">Connect with us</h2>\n<ul class=\"list-inline\">\n<li class=\"list-inline-item\">\n<a href=\"https://www.facebook.com/MyschoolNigeria\" target=\"_blank\">\n<i class=\"fa fa-facebook-square fa-2x\"></i>\n</a>\n</li>\n<li class=\"list-inline-item\">\n<a href=\"https://www.twitter.com/MyschoolNigeria\" target=\"_blank\">\n<i class=\"fa fa-twitter-square fa-2x\"></i>\n</a>\n</li>\n <li class=\"list-inline-item\">\n<a href=\"https://www.instagram.com/myschoolnigeria/\" target=\"_blank\">\n<i class=\"fa fa-instagram fa-2x\"></i>\n</a>\n</li>\n<li class=\"list-inline-item\">\n<a href=\"https://www.youtube.com/c/MyschoolNigeria/\" target=\"_blank\">\n<i class=\"fa fa-youtube-square fa-2x\"></i>\n</a>\n</li>\n<li class=\"list-inline-item\">\n<a href=\"https://myschool.ng/news/feeds\" target=\"_blank\">\n<i class=\"fa fa-rss-square fa-2x\"></i>\n</a>\n</li>\n</ul>\n<div>\nCall Hours: 9am - 5pm (Mon - Fri)<br>\n<i class=\"fa fa-phone\"></i>  +234-9062547747<br>\n<i class=\"fa fa-envelope\"></i>  info@myschool.ng\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"copyright\">\n<div class=\"container\">\n<div class=\"copyright-text text-center\">\nCopyright © 2021 Myschool Services. All Names, Acronyms and Trademarks displayed on this website are those of their respective owners.\n</div>\n</div>\n</div>\n</footer>\n<script type=\"491a83367915b3c202ef4c70-text/javascript\" src=\"https://myschool.ng/js/all.js?v=16\"></script>\n<script src=\"https://myschool.ng/plugins/ckeditor/ckeditor.js\" type=\"491a83367915b3c202ef4c70-text/javascript\"></script>\n<script src=\"https://myschool.ng/plugins/ckeditor/adapters/jquery.js\" type=\"491a83367915b3c202ef4c70-text/javascript\"></script>\n<script src=\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\" type=\"491a83367915b3c202ef4c70-text/javascript\"></script>\n<script src=\"/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js\" data-cf-settings=\"491a83367915b3c202ef4c70-|49\" defer></script></td></tr></tbody></table>",
+        "correctIndex": 0,
+        "options": [
+            "2.45 x 10<sup>8</sup>Nm<sup>-2</sup>",
+            "3.45 x 10<sup>8</sup>Nm<sup>-2</sup>",
+            "4.90 x 10<sup>8</sup>Nm<sup>-2</sup>",
+            "2.42 x 10<sup>8</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2003,
+        "question": "A piece of stone attached to one end of a string is whirled round in a horizontal circle and the string suddenly cuts. The stone will fly off in a direction",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/27185473660_phy200310a.jpg\" class=\"img-fluid\">\n</div>AS the stone is whirled round and te string suddenly cuts, say at A, B, C or D. The stone will fly off in the direction indicated V<sub>A</sub>, V<sub>B</sub>, V<sub>C</sub>or V<sub>D</sub>respectively which is tangential to the circular path",
+        "correctIndex": 2,
+        "options": [
+            "perpendicular to the circular path",
+            "parallel to the circular path",
+            "tangential to the circular path",
+            "towards the center of the circle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2003,
+        "question": "A 90cm uniform lever has a load of 30N suspended at 15cm from one of its ends. If the fulcrum is at the center of gravity, the force that must be applied at its other end to keep it in horizontal equilibrium is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23107660210_phy200311a.jpg\" class=\"img-fluid\">\n</div>Since the lever is a uniform one, its center of gravity will be acting half way (i.e 45cm)<br>∴from the principle of moments,<br>F x 45 = 30 x 30<br>∴ F = (30 x 30) / 45 = 20N",
+        "correctIndex": 1,
+        "options": [
+            "15N",
+            "20N",
+            "30N",
+            "60N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2003,
+        "question": "A satellite is in a parking orbit if its period is",
+        "explanation": "A satellite is said to be in a parking orbit if its period is exactly equal to the period of the earth as it turns its own orbit;. which is about 24hrs",
+        "correctIndex": 2,
+        "options": [
+            "less than the period of the earth",
+            "more than the period of the earth",
+            "equal to the period of the earth",
+            "the square of the period of the earth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2003,
+        "question": "T<sup>o</sup>C051015204060S.V.P(mmHg)4.586.518.9412.6717.5055.10149.00<br>The table above shows the saturation vapour pressure against temperature in a certain town. If the vapour pressure in this town at 20<sup>o</sup>C is 10mmHg, what is the relative humidity?",
+        "explanation": "R.H = Partial Pressure of Water Vapour Presentx100_1S.V.P at temperature of atmosphere<br>= _10x100_117.50<br>= 57.14%",
+        "correctIndex": 1,
+        "options": [
+            "170.0%",
+            "57.0%",
+            "17.5%",
+            "10.0%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2003,
+        "question": "A turning fork of frequency 340Hz is vibrated just above a cylindrical tube of height 1.2m. If water is slowly poured into the tube, at what maximum height will resonance occur.<br>[speed of sound in air = 340ms<sup>-1</sup>]",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19029950086_phy200318a.jpg\" class=\"img-fluid\">\n</div>In vibration in a closed pipe/tube, the first resonance occurs at a position L =<sup>V</sup>/<sub>4f</sub>,<br>when reading from the top of the tube,<br><table><tbody><tr><td rowspan=\"2\">L<sub>1</sub> =</td><td style=\"border-bottom:solid 1px\">_340</td></tr><tr><td>4 x 340</td></tr></tbody></table><br>= 0.25m<br>L<sub>2</sub>=<sup>3V</sup>/<sub>4f</sub><br><table><tbody><tr><td rowspan=\"2\">L<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">3 x 340</td></tr><tr><td>4 x 340</td></tr></tbody></table><br>= 0.75m<br>L<sub>3</sub>=<sup>5V</sup>/<sub>4f</sub><br><table><tbody><tr><td rowspan=\"2\">L<sub>3</sub> = </td><td style=\"border-bottom:solid 1px\">5 x 340</td></tr><tr><td>4 x 340</td></tr></tbody></table><br>= 1.25m<br>However, the effective length of the tube is 1.2m. Thus reading from below, the first position of resonance will be 1.20 - 0.75m = 0.45m",
+        "correctIndex": 3,
+        "options": [
+            "0.95m",
+            "0.60m",
+            "0.50m",
+            "0.45m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2003,
+        "question": "By what factor will the size of an object placed 10cm from a convex lens be increased if the image is seen on a screen placed 25cm from the lens?",
+        "explanation": "Form the lens formula =<sup>1</sup>/<sub>U</sub>+<sup>1</sup>/<sub>V</sub>=<sup>1</sup>/<sub>f</sub><br>=&gt;<sup>1</sup>/<sub>10</sub>+<sup>1</sup>/<sub>25</sub>=<sup>1</sup>/<sub>f</sub>;<br>∴ (5 + 2) / 50 =<sup>1</sup>/<sub>f</sub><br>∴ f =<sup>50</sup>/<sub>7</sub>cm<br>since the image is observed on a screen, it is a real image. Thus magnification<br>M =<sup>f</sup>/<sub>U-f</sub><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">__<sup>50</sup>/<sub>7</sub></td></tr><tr><td>10 - <sup>50</sup>/<sub>7</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">∴ M = </td><td style=\"border-bottom:solid 1px\"><sup>50</sup>/<sub>7</sub></td></tr><tr><td><sup>20</sup>/<sub>7</sub></td></tr></tbody></table><br>=<sup>50</sup>/<sub>7</sub>x<sup>7</sup>/<sub>20</sub>= 2.5",
+        "correctIndex": 1,
+        "options": [
+            "15.0",
+            "2.5",
+            "1.5",
+            "0.4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2003,
+        "question": "Thermal equilibrium between two object exist when",
+        "explanation": "Two thermal objects are said to be in a thermal equilibrium when the temperature of both objects are equal. Generally, heat flows from an object at a higher temperature to the one at a lower temperature until both temperature are the same, during which the two bodies are said to be in thermal equilibrium",
+        "correctIndex": 0,
+        "options": [
+            "the temperature of both objects are equal",
+            "the quantity of heat of both objects is the same",
+            "the heat capacities of both objects are the same",
+            "one object losses heat continuously to the other"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2003,
+        "question": "An open pipe closed at one end produces its first fundamental note. If the velocity of sound in air is P and t the length of the pipe, the frequency of the note is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/20389477425_phy200318a.jpg\" class=\"img-fluid\">\n</div>In vibration in a closed pipe/tube as shown in the figure, fundamental note is produced at the first position of resonance. When the length of the air column L =<sup>λ</sup>/<sub>4</sub>; =&gt; λ = 4L. Since the open end of the tube is taken as an antinode; and closed end as the node.<br>Thus the associated frequency is given by<br>f =<sup>V</sup>/<sub>λ</sub>=<sup>V</sup>/<sub>4L</sub><br>∴ f =<sup>V</sup>/<sub>4L</sub>",
+        "correctIndex": 2,
+        "options": [
+            "<sup>2v</sup>/<sub>t</sub>",
+            "<sup>v</sup>/<sub>5t</sub>",
+            "<sup>v</sup>/<sub>4t</sub>",
+            "<sup>v</sup>/<sub>2t</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2003,
+        "question": "On a fairly cool rainy day when the temperature is 20<sup>o</sup>C, the length of a steel railroad track is 20m. What will be its length on a hot a dry day when the temperature is 40<sup>o</sup>C?<br>[coefficient of linear expansion of steel = 11 x 10<sup>-6</sup>K<sup>-1</sup>]",
+        "explanation": "The increase in length of the steel rail is given by<br>= α 10<br>= 11 x 10<sup>-6</sup>x 20 x (40 -20)<br>= 11 x 10<sup>-6</sup>x 20 x 20<br>= 4.4 x 10<sup>-3</sup><br>∴ Final length will be original length plus increase in length<br>= 20 + 4.4 x 10<sup>-3</sup><br>= 20 + 0.0044<br>= 20.0044m",
+        "correctIndex": 2,
+        "options": [
+            "20.013m",
+            "20.009m",
+            "20.004m",
+            "20.002m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2003,
+        "question": "If an object is placed between two parallel plane mirrors with their reflecting surfaces facing each other, how many images of the object will be formed?",
+        "explanation": "The number of images to be observed will be infinite",
+        "correctIndex": 0,
+        "options": [
+            "Infinite",
+            "Eight",
+            "Four",
+            "Two"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2003,
+        "question": "The phenomenon where by the water droplets in the atmosphere combines with dust particles in the air to reduce visibility is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "cloud",
+            "mist",
+            "hail",
+            "fog"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2003,
+        "question": "At what position will an object be placed in front of a concave mirror in order to obtain an image at infinity?",
+        "explanation": "For a concave mirror to produce an image at infinity, the image has to be place at the principal focus of the mirror",
+        "correctIndex": 1,
+        "options": [
+            "At the pole of the mirror",
+            "At the principal focus",
+            "at the center of the curvature",
+            "Between the principal focus and the center of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2003,
+        "question": "If the distance from a point source of sound is doubled, by what factor does the intensity decrease?",
+        "explanation": "In general intensity of a wave is the rate of flow of energy across unit area normal to the direction of propagation of the wave intensity α<sup>1</sup>/<sub>r<sup>2</sup></sub>where r is the distance away from the point source. Thus if the distance from the point source of the sound wave is doubled, then the intensity will be decreased by a factor of 4",
+        "correctIndex": 0,
+        "options": [
+            "4.00",
+            "2.00",
+            "0.50",
+            "0.25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2003,
+        "question": "<p>A 2000W electric heater is used to heat a metal object of mass 5kg initially at 10oC. If a temperature rise of 30oC is obtained after 10min, the heat capacity of the material is</p>",
+        "explanation": "<p>2000W heater → 2000J/S<br>\n=&gt; Heat supplied by the heater within 10 min<br>\n(600 seconds) = 2000 x 600<br>\n= 1200000J<br>\n∴ Heat capacity MC = 1200000/(30-10)<br>\n= 60000J/C<br>\nHeat capacity = 6.0 x 104J/C</p>",
+        "correctIndex": 0,
+        "options": [
+            "6.0 x 10<sup>4</sup>J<sup>o</sup>C<sup>-1</sup>",
+            "4.0 x 10<sup>4</sup>J<sup>o</sup>C<sup>-1</sup>",
+            "1.2 x 10<sup>4</sup>J<sup>o</sup>C<sup>-1</sup>",
+            "8.0 x 10<sup>4</sup>J<sup>o</sup>C<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2003,
+        "question": "If 1.2 x 10<sup>6</sup>J of heat energy is given off in 1 sec from a vessel maintained at a temperature gradient of 30Km<sup>-1</sup>, the surface area of the vessel is",
+        "explanation": "Generally in thermal/heat conduction, if 1.2 x 10<sup>6</sup>J is the heat flow per seconds; 30KM<sup>-1</sup>is the temperature gradient of the materials; and 400Wm<sup>-1</sup>K<sup>-1</sup>the thermal conductivity of the material, then we have that:<br>heat flow per seconds per unit area = thermal conductivity x temp. gradient<br>i.e = 1.2 x 10<sup>6</sup>Area<br>= 400 x 30<br>=&gt; 400 x 30 x Area = 1.2 x 10<sup>6</sup><br>∴ Area = 1.2 x 10<sup>6</sup>400 x 30<br>Area = 100m<sup>2</sup>or 1.0 x 10<sup>2</sup>m<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "1.0 x 10<sup>2</sup>m<sup>2</sup>",
+            "9. 0 x 10<sup>2</sup>m<sup>2</sup>",
+            "1.0 x 10<sup>3</sup>m<sup>2</sup>",
+            "9.0 x 10<sup>4</sup>m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2003,
+        "question": "A positive charged rod X is brought near as uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that y has",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "no charge and a zero potential",
+            "a positive charge and zero potential",
+            "a negative charge and positive potential",
+            "a negative charge and a negative potential"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10875312696_phy200328.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/14953554968_phy200328.jpg\" class=\"img-fluid\">\n</div>From the above diagram, if each of the resistors can dissipate a maximum of 18W, the from the relation power, P = I<sup>2</sup>R, the current in the 2Ω series resistor is given by:<br>I<sup>2</sup>= P/R =<sup>18</sup>/<sub>2</sub>= 9 =&gt; I = √9 = 3A<br>The effective parallel arrangement of the two 2Ω resistors:<sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>2</sub>+<sup>1</sup>/<sub>2</sub>= 1Ω<br>∴ Total resistance in the circuit = 1 + 2 = 3Ω<br>current flowing the circuit = 3A<br>∴ Maxi. power = P = I<sup>2</sup>R = 3<sup>2</sup>x 3 = 27W",
+        "correctIndex": 0,
+        "options": [
+            "27W",
+            "18W",
+            "9W",
+            "5W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2003,
+        "question": "The operation of an optical fibre is based on the principal of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "dispersion of light",
+            "interference of light",
+            "refraction of light",
+            "polarization of light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20391222510_phy200330.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "It will increase because the equivalent resistance will increase",
+            "It will decrease if R<sub>2</sub>is greater than R<sub>1</sub>",
+            "It will increase because the effective resistance will decrease",
+            "It will decrease if R<sub>2</sub>is less than R<sub>1</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2003,
+        "question": "A wire of 5Ω resistance is drawn out so that its new length is two times the original length. If the resistivity of the wire remains the same and the cross-sectional area is halved, the new resistance is",
+        "explanation": "Let the original length = L<sub>1</sub><br>Let the original resistance = R<sub>1</sub>= 5Ω<br>Let the original resistivity = P<sub>1</sub><br>Let the original area = a<sub>1</sub><br>Let the new length = L<sub>2</sub>= 2L<sub>1</sub><br><br>let the new area = a<sub>2</sub>= 1/(2a<sub>2</sub>)<br>Let the new resistance = R<sub>2</sub><br>Let the new resistivity = P<sub>2</sub><br>But since the resistivity remains the same,<br>=&gt; P<sub>1</sub>= P<sub>2</sub><br><table><tbody><tr><td rowspan=\"2\">∴ P<sub>1</sub> = </td><td style=\"border-bottom:solid 1px\">R<sub>1</sub> a<sub>1</sub></td></tr><tr><td>_L<sub>1</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= P<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">R<sub>2</sub> a<sub>2</sub></td></tr><tr><td>_L<sub>2</sub></td></tr></tbody></table><br>But a<sub>2</sub>=<sup>1</sup>/<sub>2</sub>a<sub>1</sub>; and L<sub>2</sub>= 2L<sub>1</sub><br><table><tbody><tr><td rowspan=\"2\">∴</td><td style=\"border-bottom:solid 1px\">R<sub>1</sub> a<sub>1</sub></td></tr><tr><td>_L<sub>1</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">R<sub>2</sub> <sup> 2a<sub>1</sub></sup>/<sub>2</sub> </td></tr><tr><td>_2L<sub>1</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">=&gt; </td><td style=\"border-bottom:solid 1px\">5 x a<sub>1</sub></td></tr><tr><td>_L<sub>1</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">R<sub>2</sub> x a<sub>1</sub></td></tr><tr><td>_4L<sub>1</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">∴R<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">5 x a<sub>1</sub> x 4L<sub>1</sub></td></tr><tr><td>_a<sub>1</sub> x L<sub>1</sub></td></tr></tbody></table><br>= 20Ω",
+        "correctIndex": 1,
+        "options": [
+            "40Ω",
+            "20Ω",
+            "10Ω",
+            "5Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2003,
+        "question": "An electron of charge 1.6 x 10<sup>-19</sup>C is accelerated between two metal plates. If the kinetics energy of the electron is 4.8 x 10<sup>-17</sup>J, the potential difference between the plate is",
+        "explanation": "In general, if a charged particle is accelerated between two metal plates/a region by potential difference V volts, the work done on the charge, given by the product of the charge and the potential difference, is equal to the kinetic energy of the charge<br>Thus eV = K.E<br>1.6 x 10<sup>-19</sup>x V = 4.8 x 10<sup>-17</sup><br><table><tbody><tr><td rowspan=\"2\">∴ V = </td><td style=\"border-bottom:solid 1px\">4.8 x 10<sup>-17</sup></td></tr><tr><td>1.6 x 10<sup>-19</sup></td></tr></tbody></table><br>= 300V",
+        "correctIndex": 2,
+        "options": [
+            "30V",
+            "40V",
+            "300V",
+            "400V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2003,
+        "question": "A magnetic field is said to exist at a point if a force is",
+        "explanation": "A charge<u>in motion</u>always experienced a force on entering a magnetic field",
+        "correctIndex": 1,
+        "options": [
+            "exerted on a stationary charge at the point",
+            "exerted on a moving charge at the point",
+            "deflected at the point",
+            "strengthened at the point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2003,
+        "question": "<b>I It retains its magnetic much longer than steel.<br>\nII It is more easily magnetized than steel<br>\nIII It is more easily demagnetized than steel<br>\nIV It produces a stronger magnet than steel </b><br>Which combination of the above makes iron preferable to steel in the making of electromagnets?",
+        "explanation": "Iron (spft iron) is usually preferred to steel in the making of electromagnets because it is more easily magnetized and equally more easily demagnetized than [II and III]",
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "II and III only",
+            "I, III, and IV only",
+            "II, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2003,
+        "question": "Which of the following pairs of light rays show the widest separation in the spectrum of white light",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23110120535_phy200336a.jpg\" class=\"img-fluid\">\n</div>From the above diagram the widest separation is given by Blue and red",
+        "correctIndex": 0,
+        "options": [
+            "Blue and red",
+            "Green and yellow",
+            "Indigo and violet",
+            "Orange and red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2003,
+        "question": "The most suitable cell used for short interval switches in electric bells is a",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "lead- acid accumulator",
+            "Daniel cell",
+            "Leclanche cell",
+            "nickel iron accumulator"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2003,
+        "question": "A ray incident on a glass prism undergoes minimum deviation when the",
+        "explanation": "At minimum deviation, it is observed that light passes symmetrically through, the prism such that the angle of incidence (i<sup>o</sup>) is angle to the angle of emergency (e<sup>o</sup>).(i/e I<sup>o</sup>= e<sup>o</sup>)",
+        "correctIndex": 3,
+        "options": [
+            "incident angle is equal to the angle of refraction",
+            "refraction angle equals 90<sup>o</sup>",
+            "incident angle equals 90<sup>o</sup>",
+            "incident angle is equal to the angle of emergence"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2003,
+        "question": "The count rate of a radioactive material is 800 count/min. If the half-life of the material is 4 days, what would the count rate be in 16 days later",
+        "explanation": "116 days = 4 half - lives<br>Thus, after 4 half lives the fraction left of any radioactive materials is given by (<sup>1</sup>/<sub>2</sub>)<sup>4</sup>=<sup>1</sup>/<sub>16</sub><br>∴ Count rate / amount left =<sup>1</sup>/<sub>16</sub>x<sup>800</sup>/<sub>1</sub><br>= 50 count / min",
+        "correctIndex": 2,
+        "options": [
+            "200 count / min",
+            "100 count / min",
+            "50 count / min",
+            "25 count / min"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2003,
+        "question": "A circuit has an area of 0.4m<sup>2</sup>and consists of 50 loops of wire. If the loops are twisted and allowed to rotate at a constant angular velocity of 10 rad s<sup>-1</sup>in a uniform magnetic field of 0.4T, the amplitude of the induced voltage is",
+        "explanation": "The induced voltage = time rate of change of magnetic flux<br><table><tbody><tr><td rowspan=\"2\">i/e E = -</td><td style=\"border-bottom:solid 1px\">NΔ∅<sub>B</sub></td></tr><tr><td>Δt</td></tr></tbody></table><br>But ∅<sub>B</sub>= Magnetic Flux<br>= Magnetic Induction (B) x (A)<br>= 0.4T x 0.4m<sup>2</sup><br>= 0.16 volt second<br><table><tbody><tr><td rowspan=\"2\">i/e E = -</td><td style=\"border-bottom:solid 1px\">NΔ∅<sub>B</sub></td></tr><tr><td>Δt</td></tr></tbody></table><br>= 0.16 x 10 x 50<br>= 80 volts",
+        "correctIndex": 3,
+        "options": [
+            "8V",
+            "16V",
+            "20V",
+            "80V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2003,
+        "question": "The force on a charge moving with velocity v in a magnetic field B is half of the maximum force when the angle between v and B is",
+        "explanation": "the force on a moving charge in a magnetic field is given by: F = q V β sin θ<br>and this force is maximum when θ = 90<sup>o</sup>, during which sin 90<sup>o</sup>= 1: and for sinθ = 0.5, θ = 30<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "90<sup>o</sup>",
+            "45<sup>o</sup>",
+            "30<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2003,
+        "question": "The maximum kinetic energy of the photoelectron emitted from a metal surface is 0.34eV. If the work function of the metal surface is 1.83eV,find the stopping potential.",
+        "explanation": "The stopping potential is the potential required to stop the most energetic photo-emitted electron. From the relation e Vs = K.E,<sub>(max)</sub>where e is the electron charge, and Vs is the stopping potential =&gt; e x Vs = 0.34eV<br>∴ Vs = (0.34eV) / e = 0.34V<br>∴ stopping potential = 0.34V",
+        "correctIndex": 3,
+        "options": [
+            "2.17V",
+            "1.49V",
+            "1.09V",
+            "0.34V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2003,
+        "question": "When an alternating current given by I = 10sin (120π)t passes through a 12Ω resistor, the power dissipated in the resistor is",
+        "explanation": "An a.c current is usually expressed as I = Io sin wt; and comparing this with the given current I = 10sin (120π)t, =&gt; Io = 10.<br>and power in an a.c circuit is given as:<br>P = I<sup>2</sup>R<br>= (10<sup>2</sup>x 12)<br>= 1200W",
+        "correctIndex": 0,
+        "options": [
+            "1200W",
+            "600W",
+            "120W",
+            "30W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2003,
+        "question": "In a semi conductor junction diode, as the depletion or barrier layer is forward-biased, the layer",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "widens",
+            "narrows",
+            "remains constant",
+            "widens then narrows"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2003,
+        "question": "The major difference between a pure semiconductor and a pure metal is that",
+        "explanation": "Experiment shows that increase in temperature increases the resistance of a pure metal but decreases the resistance of pure semiconductor",
+        "correctIndex": 2,
+        "options": [
+            "metals are harder than semiconductor",
+            "while resistance of metals decrease with temperature , the reverse is the case for semiconductor",
+            "the resistance of metals increases with temperature, while for semiconductors, it is the reverse",
+            "metals have forbidden gaps while semiconductors have not"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2003,
+        "question": "When a nucleus is formed by bringing protons and neutrons together, the actual mass of the formed nucleus is less than the sum of the masses of the energy equivalent of this mass difference is the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "lost energy",
+            "work function",
+            "binding energy",
+            "stability energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2003,
+        "question": "A bead traveling on a straight wire is brought to rest at 0.2m by friction. If the mass of the bead is 0.01kg and the coefficient of friction between the bead and the wire is 0.1 determine the work done by the friction",
+        "explanation": "Work done by friction = Friction force x Displacement from the relation, f = uR<br><br>where u = coefficient of friction; R= Normal reaction<br><br>F = u mg (R =mg)<br>= 0.1 x 0.01 x 10<br>work done = F x Displacement<br>= 0.1 x 0.01 x 10 x 0.2<br>= 0.002 or \\( 2 \\times 10^{-3}J \\)",
+        "correctIndex": 1,
+        "options": [
+            "\\( 2 \\times 10^{-4}J \\)",
+            "\\( 2 \\times 10^{-3}J \\)",
+            "\\( 2 \\times 10^{1}J \\)",
+            "\\( 2 \\times 10^{2}J \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2003,
+        "question": "A ray of light is incident on an equilateral triangular glass prism of refractive index 3/2, Calculate the angle through which the ray is minimally deviated in the prism",
+        "explanation": "For the equilateral glass prism A = 60<sup>0</sup><br><br>\\( \\frac{3}{2} \\text{Sin} \\frac{\\left( \\frac{Dm + 60}{2}\\right)}{\\left(\\frac{60}{2}\\right)}= \\frac{\\left( \\text{ Sin }\\frac{Dm + 60}{2} \\right)}{0.5} \\\\<br><br>\\implies Dm = 37.2^{\\circ} \\)",
+        "correctIndex": 1,
+        "options": [
+            "30.0\\(^{\\circ} \\)",
+            "37.2\\(^{\\circ} \\)",
+            "42.0\\(^{\\circ} \\)",
+            "48.6\\(^{\\circ} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2003,
+        "question": "In the calibration of an ammeter using faraday's laws of electrolysis, the ammeter reading is kept constant at 1.2A. If 0.990g of copper is deposited in 40 minutes , the correction to be applied to the ammeter is",
+        "explanation": "From faraday's law of electrolysis<br><br>M = I t Z<br>0.990 = I x (40 x 60) x 3.3 x 10<sup>-4</sup><br><br>\\( \\implies \\frac{0.990}{2400 \\times 3.3 \\times 10^{-4}} = 1.25A \\\\<br>\\text{Thus the correction to be made } = 1.25 - 1.20 = 0.05A \\)",
+        "correctIndex": 2,
+        "options": [
+            "0.03A",
+            "0.04A",
+            "0.05A",
+            "0.06A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2003,
+        "question": "An electron makes a transition from a certain energy level E<sub>k</sub>to the ground state E<sub>0</sub>. If the frequency of emission is 8.0 x 10<sup>14</sup>Hz The energy emitted is",
+        "explanation": "Atomic emission and absorption of energy is usually in packets referred to as photon or quantum of energy of magnitude E =hf, where f is the frequency and h is the plancks constant<br><br>Energy emitted = hf<br><br>= 6.6 x 10<sup>-34</sup>x 8.0 x 10<sup>-14</sup><br>= 5.28 x 10<sup>-19</sup>J",
+        "correctIndex": 1,
+        "options": [
+            "8.25 x 10<sup>-19</sup>J",
+            "5.28 x 10<sup>-19</sup>J",
+            "5.28 x 10<sup>19</sup>J",
+            "8.25 x 10<sup>19</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2003,
+        "question": "A force of 100N was used to kick a football of mass 0.8kg. Find the velocity with which the ball moves if it takes 0.8s to be kicked",
+        "explanation": "From Newton's second law:<br><br>\\( F = \\frac{mV - mµ}{t} \\)<br><br>Let the final velocity = V; and since the football is initially at rest, its initial vel µ = 0, M = 0.8kg<br><br>\\( t = 0.8s \\\\<br><br>\\implies 100 = \\frac{0.8V - 0.8 \\times 0}{0.8} \\\\<br><br>\\text{Therefore } V = \\frac{100 \\times 0.8}{0.8} = 100ms^{-1} \\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(32ms^{-1} \\)",
+            "\\(50ms^{-1} \\)",
+            "\\(64ms^{-1} \\)",
+            "\\(100ms^{-1} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2003,
+        "question": "Given that young's modulus for aluminium is 7.0 x 10<sup>10</sup>Nm<sup>-2</sup>and density is 2.7 x 10<sup>3</sup>kgm<sup>-3</sup>find the speed of the sound produced if a solid bar is struck at one end with a hammer",
+        "explanation": "The speed of sound in a material is given as:<br><br>\\( V = \\sqrt{\\frac{E}{P}}, Where\\\\<br><br>E = \\text{Young's modulus} \\\\<br>P = \\text{Density }\\\\<br><br>\\text{Therefore } V = \\sqrt{\\frac{7.0 \\times 10^{10}}{2.7 \\times 10^3}} = 5091.75\\\\<br><br>= 5.1 \\times 10^3MS^{-1} \\)",
+        "correctIndex": 0,
+        "options": [
+            "5.1 x 10<sup>3</sup>ms<sup>-1</sup>",
+            "4.2 x 10<sup>3</sup>ms<sup>-1</sup>",
+            "3.6 x 10<sup>3</sup>ms<sup>-1</sup>",
+            "2.8 x 10<sup>3</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2003,
+        "question": "If the uncertainty in the measurement of the position of a particle is 5.0 x 10<sup>-10</sup>m, the uncertainty in the momentum of the particle is",
+        "explanation": "From the uncertainty principle the product of the position and momentum of a sub-atomic particle is equal or greater than planck's constant.<br><br>i.e \\( \\Delta x. \\Delta p \\geq h. \\\\<br>\\text{Thus} 5 \\times 10^{-10} \\times \\Delta p = 6.6 \\times 10^{-34} \\\\<br><br>\\Delta p = \\frac{6.6 \\times 10^{-34}}{5 \\times 10^{-10}} = 1.32 \\times 10^{-24}Ns\\\\<br><br>\\text{Therefore Uncertainty in the momentum } = 1.32 \\times 10^{-24}Ns \\)",
+        "correctIndex": 2,
+        "options": [
+            "1.32 x 10<sup>-44</sup>Ns",
+            "3.30 x 10<sup>-44</sup>Ns",
+            "1.32 x 10<sup>-24</sup>Ns",
+            "3.30 x 10<sup>-24</sup>Ns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2003,
+        "question": "In a fission process, the decrease in mass is 0.01%. How much energy could be obtained from the fission of 0.1g of the material",
+        "explanation": "In general, the energy released during nuclear fission is given by the Einstein's mass-energy equation, given by<br><br>\\( E = \\Delta MC^2 \\)<br><br>Where \\( \\Delta m\\) is the mass defect, and C is the speed of light.<br>Therefore<br>\\( \\Delta m = 0.01% \\text{of} 1.0g = \\frac{0.01}{100}<br>\\times 1.0g \\\\<br><br>= 1.0 \\times 10^{-4} \\\\<br>= 1.0 \\times 10^{-7}kg\\\\<br><br>\\text{Energy Released } = \\Delta MC^2 \\\\<br><br>= 1.0 \\times 10^{-7} \\times (3.0 \\times 10^8)^2\\\\<br>= 1.0 \\times 10^{-2} \\times 9.0 \\times 10^{16} \\\\<br><br>= 9.0 \\times 10^9 J \\)",
+        "correctIndex": 0,
+        "options": [
+            "\\( 9.0 \\times 10^{9}J \\)",
+            "\\( 9.0 \\times 10^{10}J \\)",
+            "\\( 6.3 \\times 10^{11}J \\)",
+            "\\( 9.0 \\times 10^{11}J \\)"
+        ],
+        "type": "objectives"
+    }
+]

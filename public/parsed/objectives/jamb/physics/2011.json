@@ -1,0 +1,775 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2011,
+        "question": "<p>A man standing on a lift that is descending does not feel any weight because</p>",
+        "explanation": "<p>The resultant force acting on the man is given by w = mg - R<br>\nMg - mg = 0<br>\nThe man feels weightless because the reaction, R is equal to the weight mg</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "the inside of the lift is air tight",
+            "the lift is in vacuum",
+            "the lift's acceleration is same as acceleration due to gravity",
+            "there is no gravitational pull on the man in the lift"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2011,
+        "question": "<p>Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms1 .How will their positions be one second later?</p>",
+        "explanation": "<p>v2 = U2 - 2G s<br>\n0 = 1002 - 2 x 10 x s = 10000 - 20s<br>\ns = (10000)/20 = 500m<br>\nWhich is independent of mass.the two bodies where acted upon by the same retarding force of gravity which is independent of mass of the body; therefore both will be 500 m from the point of throw.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "X and Y will be 500 m from each other",
+            "Y will be 500 m ahead of X",
+            "X will be 500 m ahead of Y",
+            "X and Y both be 500 m from the point of throw"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2011,
+        "question": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
+        "explanation": "S = (1)/2gt<sup>2</sup><br>S = (1)/2 x (10)/1 x 3<sup>2</sup>=5 x 9 = 45 m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "90 m",
+            "30 m",
+            "45 m",
+            "60 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2011,
+        "question": "An object of mass 2 kg moves with a velocity of 10 ms<sup>1</sup>round at circle of radius 4 m. Calculate the centripetal force on the object",
+        "explanation": "Centripetal force,<br>F = \\( \\frac{mv^2}{r} \\)<br>= \\( \\frac{2 \\times 10^2}{4} \\)<br>= \\( \\frac{200}{4} \\)= 50N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "25 N",
+            "100 N",
+            "50 N",
+            "40 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2011,
+        "question": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. the kinetic energy of the hammer just before hitting the ground is?<br><br>[g = 10 ms<sup>-2</sup>]",
+        "explanation": "K e just before hitting the gound<br>= P e at the maximum height (conservation of mechanical energy)<br>K e = P e = mgh = 1.5 x 10 x 20<br>= 300 J<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "600 J",
+            "150J",
+            "300 J",
+            "450 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2011,
+        "question": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
+        "explanation": "The liquid will rise up the capillary if it wets glass and falls below its wets glass and falls below its initial level if it does not wet glass<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "remain at the same level irrespective of whether the liquid wet the glass or not",
+            "fall below the liquid level if the liquid wets the glass",
+            "falls below the liquid level if the liquid does not wet the glass",
+            "rise above the liquid level if the liquid does not wet the glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2011,
+        "question": "An object weighs 22 kg in water and 30kg in air. what is the upthrust exerted by the liquid on the object.<br><br><br>[g = 10 ms<sup>2</sup>]",
+        "explanation": "upthrust = weight in air - weight in liquid = 30 x 10 - 22 x 10 = 300 - 220 = 80 N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "50 N",
+            "520 N",
+            "220 N",
+            "80 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2011,
+        "question": "A metal of volume 40 cm<sup>3</sup>is heated from 30 °c to 90 °c, the increase in volume is",
+        "explanation": "increase in volume, DV = RV<sub>1</sub>∆ θ = 3α Vsub&gt;1 Dθ<br>= 3 x 2.0 X 10<sup>-5</sup>x 40 x (90 - 30)<br>= 6 x 10<sup>-5</sup>x 40 x 60<br>0.144 cm<sup>3</sup><br>∴ No correct option<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 4,
+        "options": [
+            "0.12 cm<sup>3</sup>",
+            "4.00 cm<sup>3</sup>",
+            "1.20 cm<sup>3</sup>",
+            "0.40 cm<sup>3</sup>",
+            "no correct option"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2011,
+        "question": "<p>A copper wire was subjected to a tensile stress of 7.7 x 10^7. calculate strain of the wire.<br>\n<br>\n<br>\n[young modules = 1.1 x 1011 Nm-2]</p>",
+        "explanation": "<p>Young modules = \\( \\frac{\\text{Tensile stress}}{\\text{Tensile strain}}\\)<br>\n<br>\n= \\( 1.1 \\times 10^11 = \\frac{7.7 \\times 10^7}{\\text{Tensile Strain}} \\)<br>\n<br>\n∴ Tensile strain = \\( \\frac{7.7 \\times 10^7}{1.1 \\times 10^11} \\)<br>\n<br>\n= \\( 7.0 \\times 10^{7-11}<br>\n= 7.0 \\times 10^{-4} \\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2. 0 x 10<sup>-5</sup>",
+            "7.0 x 10<sup>-3</sup>",
+            "7.0 x 10<sup>-4</sup>",
+            "2.2 x 10<sup>-4</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2011,
+        "question": "I. High thermal capacity.<br>II. High sensitivity.<br>III.Easy readability.<br>IV. Accuracy over a wide range of temperature<br>From the statement above, the qualities of a good thermometer are",
+        "explanation": "A good thermometric liquid should not have a high thermal capacity so that the themperetue of the body being measured will not be affected<br>∴ II, III and IV are qualities of a good thermometer<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "I and II",
+            "I, II,III and IV",
+            "I, III and IV",
+            "II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2011,
+        "question": "A machine is used to lift a load of 20 N through a height of 10 m. if the efficiency of the machine is 40%, how much work is done?",
+        "explanation": "Efficiency = \\( \\frac{\\text{work output}}{\\text{work input}} \\times \\frac{100}{1} \\)<br><br>= 40 = \\( \\frac{20 \\times 10 }{x} \\times \\frac{100}{1} \\)<br>= 500J<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "80 J",
+            "500 J",
+            "300 J",
+            "120 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2011,
+        "question": "I. Density of the liquid.<br>II. Depth below the surface of the liquid.<br>III. Surface area of the liquid.<br>In which of the statement above will pressure be dependent?",
+        "explanation": "Pressure in liquid is independent of cross sectional area of the container/ liquid<br>∴ the correct options are I &amp; II<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "I and II only.",
+            "II and III only.",
+            "I, II and III only.",
+            "I and III only."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2011,
+        "question": "Which of the following could be effectively used to reduce friction?",
+        "explanation": "grease is more viscous than the rest of the liquids<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "kerosene",
+            "grease",
+            "water",
+            "petrol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2011,
+        "question": "Which of the following types of waves needs a medium for propagation?",
+        "explanation": "Sound is the only mechanical wave among the rest which are electromagnetic waves.<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "sound waves",
+            "light waves",
+            "radio waves",
+            "x - rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2011,
+        "question": "Which of the following electromagnetic waves has the highest frequency?",
+        "explanation": "r - rays has the highest frequency followed by X - rays, ultraviolet ray, visible light intra - red and the least is radio weaves<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "utra - violet rays",
+            "radio waves",
+            "x - rays",
+            "infrared - rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2011,
+        "question": "A perfect emitter or absorber of radiant energy is a",
+        "explanation": "Dull, black surface are good emitters or absorbers of energy<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "conductor",
+            "black body",
+            "white body",
+            "red body"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2011,
+        "question": "The ground is always cold at night because the",
+        "explanation": "The earth radiate heat to the atmosphere at night thereby lowering the temperature of the ground<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "atmosphere absorbs the sun's energy at night",
+            "earth radiates heat to the atmosphere at night",
+            "sun no longer shine at night",
+            "atmosphere reflects the sun's energy at night"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2011,
+        "question": "<p>A cannon is fired from town X,after how long is the sound heard at a town Y 4.95 km away?<br>\n<br>\n<br>\n<br>\n[velocity of sound in the air = 330 ms-1]</p>",
+        "explanation": "<p>V = X/t<br>\n330 = ( 4.95 x 10^3)/t<br>\nt = (4.95 x 10^3/330 = <br>\n= 15 secs</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "30 s",
+            "10 s",
+            "10 s",
+            "15 s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2011,
+        "question": "The phenomenon that shows that increase in pressure lowers the melting point can be observed in",
+        "explanation": "Regelation means refreezing a phenomenon whereby melted ice free from increased pressure refreezed when they are released from the pressure.<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "sublimation",
+            "condensation",
+            "coagulation",
+            "regelation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2011,
+        "question": "A block of aluminum is heated electrically by a 30 w heater if the temperature rises by 10°c in 5 minutes, the heat capacity of the aluminum is",
+        "explanation": "Heat supplied = Heat gained Pt = MCDθ<br>30 x 5 x 60 = c x 10<br>where c = mc which is the heat capacity<br>c = (30 x 5 x60)/10 = 900 JKg<sup>-1</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "900 JK<sup>-1</sup>",
+            "90 JK<sup>-1</sup>",
+            "100 JK<sup>-1</sup>",
+            "200 JK<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2011,
+        "question": "<p>Steam burn is more severe than that of boiling water because</p>",
+        "explanation": "<p>The specific latent heat of vaporization of steam is 2.1 x 106JKg-1<br>\nwhile the energy required to raise the temperature of a unit mass of water from 0°c to 100°c = C x Dt = 4200 x 100 = 420000 = 4.2 x 105 JKg-1<br>\n∴ steam possesses greater heat energy per unit mass</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "steam burn is independent of relative humidity",
+            "steam possesses greater heat energy per unit mass",
+            "water boils at a higher temperature",
+            "steam burn is dependent on relative humidity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2011,
+        "question": "I. change of state<br>II. Diffusion<br>III. Radiation<br>IV. Osmosis<br>which of the processes above can be explained using the kinetic theory?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I, II,III and IV",
+            "I, II and III",
+            "I, III and IV",
+            "I, II and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2011,
+        "question": "Three similar cells each of e.m.f 2 v and internal resistance 2Ω are connected in parallel, the total e.m.f and total internal resistance are respectively",
+        "explanation": "Total energy in parred connection is equal to emt of one cell, = 2v but total internal resistance is given by<br>(1)/r = (1)/r<sub>1</sub>+ (1)/r<sub>2</sub>+ (1)/r<sub>3</sub>= (1)/2 + (1)/2 + (1)/2 = (3)/2<br>∴ r = (2)/3 = 0.67Ω<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "6 v, 6.0Ω",
+            "2 v, 0.7Ω",
+            "2 v, 6.0Ω",
+            "6 v, 0.7Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2011,
+        "question": "<p>When the human eye loses its power of accomodation, the defect is known as</p>",
+        "explanation": "<p>presbyopia is loss of accommodation</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "short sightedness",
+            "presbyopia",
+            "astigmatism",
+            "long sightedness"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2011,
+        "question": "<p>When a red rose flower is observed in blue light, what colour does the observer see?</p>",
+        "explanation": "<p>The colour which an object presents to the eye is the colour of light it reflects. Red rose flower will therefore absorb any other colour and reflect red. Therefore when viewed in blue light, it has no colur to reflect and will therefore appear black. Although mixture of red light and blue light = magenta . </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 4,
+        "options": [
+            "Red",
+            "Blue",
+            "Magenta",
+            "yellow",
+            "No correct option"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2011,
+        "question": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
+        "explanation": "Dielectric constant = (c)/c<sub>°</sub>= (60)/20 = 3<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.3",
+            "6.0",
+            "3.0",
+            "2.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2011,
+        "question": "<p>A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.06 D",
+            "0.02 D",
+            "0.03 D",
+            "0.04 D",
+            "no option is correct"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2011,
+        "question": "The eclipse of the sun occurs when the",
+        "explanation": "Eclipse of the sun occurs when the moon which is opaque objects between the sun and the earth<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "moon is between the sun and the earth",
+            "earth is between the sun and the moon",
+            "moon is not completely hidden in the earth's shadow",
+            "moon's umbra falls on some part of the earth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2011,
+        "question": "Which of the following is a property of steel?",
+        "explanation": "Steel is not easily magnetized and dismagnetized<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "it cannot retain its magnetism longer than iron",
+            "it can be used for making temporary magnets",
+            "it can be used for making permanent magnets",
+            "it can easily be magnetized and demagnetized"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2011,
+        "question": "In measuring high frequency a.c, the instrument used is the",
+        "explanation": "Hot wire ammeter is used because the heat affect of A C is same as that of DC<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "d.c ammeter",
+            "moving coil ammeter",
+            "moving iron ammeter",
+            "hot wire ammeter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2011,
+        "question": "If the charge of electricity is K wh is N4, what is the cost of operating an electrical appliance rated 250 v,2 A for six hours?",
+        "explanation": "Energy consumed = power x time = lvt = 2 x 250 x 6hr = 300 wh = 3 kwh but 1 kwh = N4<br>3 kwh = 3 x N4 = N 12<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "N28",
+            "N12",
+            "N16",
+            "N24"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2011,
+        "question": "Under which of the following conditions do gases conduct electricity?",
+        "explanation": "Under high potential difference and low pressure gases are good conductor of electricity<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Low presssure and low p.d",
+            "low pressure and high p.d",
+            "high pressure an low p.d",
+            "high pressure and high p.d"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2011,
+        "question": "<p>Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?</p>",
+        "explanation": "<p>Inductance (L) in series: 4 + 8 = 12</p><p>Therefore Energy stored =  </p><p>W = \\(\\frac{1}{2} LI^2\\)</p><p>= \\(\\frac{1}{2} \\times 12 \\times 10^2\\)</p><p>= 600J</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "600 J",
+            "50 J",
+            "133 J",
+            "250 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2011,
+        "question": "Which of the following materials has an increase in resistance with temperature?",
+        "explanation": "Resistance in metals are proportional to temperature<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "water",
+            "metals",
+            "wood",
+            "electrolyte"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2011,
+        "question": "The bond between silicon and germanium is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "covalent",
+            "ionic",
+            "dative",
+            "electrovalent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2011,
+        "question": "<p>A radioactive isotope has a decay constant of 10-5s4. Calculate half life</p>",
+        "explanation": "<p>T (1)/2 = (0.693)/λ = (0.693)/10-5<br>\n= 0.693 x 105<br>\n= 6.93 x 104 sec</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "6.93 x 10<sup>-5</sup>s",
+            "6.93 x 10<sup>5</sup>s",
+            "6.93 x10<sup>4</sup>s",
+            "6.93 x 10<sup>-4</sup>s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2011,
+        "question": "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "saturation",
+            "bonding",
+            "amplification",
+            "dopping"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2011,
+        "question": "If the threshold frequency for tungsten is 1.3 x 10<sup>15</sup>Hz, what is its work function?<br><br><br>[H = 6.6 x 10<sup>-34</sup>Js]",
+        "explanation": "Work function, w = hfo 6.6 x 10<sup>-34</sup>x 1.3 x 10<sup>15</sup><br>= 8.58 x 10<sup>-19</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "8.58 x 10<sup>-19</sup>J",
+            "8.50 x 10<sup>-15</sup>J",
+            "8.58 x 10<sup>-17</sup>J",
+            "8.85 x 10<sup>-18</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2011,
+        "question": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
+        "explanation": "Metals and hydrogen are deposited at the cathode, while non-metals and oxygen are deposited on the anode<br>∴ metals Y will form the anode which is deposited at the cathode made of x<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "X is the anode and very high current is used",
+            "X is the anode and Y is the cathode",
+            "Y is the cathode and X is the anode",
+            "Y is the anode and very high current is used"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16370431332_phy20112.jpg\" class=\"img-fluid\">",
+        "explanation": "The resultant, R is given by pythagoras rule, R<sup>2</sup>= P<sup>2</sup>+ Q<sup>2</sup><br>= 6<sup>2</sup>+ 8<sup>2</sup>= 36 + 64 = 100<br>R = √100 = 10.0N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "14.0 N",
+            "10.0 N",
+            "12.0 N",
+            "13.0 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4092609036_phy20114.jpg\" class=\"img-fluid\">",
+        "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Z only",
+            "X only",
+            "Y and Z",
+            "Y and X"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2011,
+        "question": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?",
+        "explanation": "m =<sup>v</sup>/<sub>u</sub>= -3<br>v = -3u<br>f = 15cm<br><sup>1</sup>/<sub>v</sub>+<sup>1</sup>/<sub>U</sub>=<sup>1</sup>/<sub>f</sub><br><sup>1</sup>/<sub>-3U</sub>+<sup>1</sup>/<sub>u</sub>=<sup>1</sup>/<sub>15</sub><br><sup>2</sup>/<sub>3u</sub>=<sup>1</sup>/<sub>15</sub><br>3U = 15 x 2<br>U =<sup>30</sup>/<sub>3</sub><br>= 10 cm<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "10 cm",
+            "25 cm",
+            "16 cm",
+            "14 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2011,
+        "question": "<p>A length of wire has a frequency of 225Hz when stretched by a force of 225N. If the force increased to 324N, what is the new frequency of vibration?</p>",
+        "explanation": "<p>f1 = 225Hz, T1 = 225N<br>\nf2 = ? T2 = 324N<br>\nBut f ∝ √T =&gt; f = K√T<br>\n=&gt; K = f/√T<br>\n∴ f1/√T1 = f2/√T2<br>\n225/√225 = f2/√324</p><table>\n<tbody>\n<tr>\n<td rowspan=\"2\">f2 =</td>\n<td>225√324</td>\n</tr>\n<tr>\n<td>√225</td>\n</tr>\n</tbody>\n</table><p>f2 = 270Hz</p><p> </p><p> </p><p> </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "270 Hz",
+            "512 Hz",
+            "488 Hz",
+            "356 Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25920045917_phy201140.jpg\" class=\"img-fluid\">",
+        "explanation": "<table><tbody><tr><td rowspan=\"2\">I</td><td style=\"border-bottom:solid 1px\">V</td></tr><tr><td>R</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">12</td></tr><tr><td>12</td></tr></tbody></table><br>= 1A<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "14.4 A",
+            "1.0 A",
+            "3.2 A",
+            "9.6 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2011,
+        "question": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
+        "explanation": "Rate of diffusion is inversely proportional to the square root of density - Graham's law<br><br>\\( P \\propto \\frac{1}{v} \\) at constant temperature - Boyle's law<br><br>\\( P \\propto T \\) at constant volume - Pressure law<br><br>\\( P \\propto T \\) at constant pressure - Charles law<br><br>therefore no correct option<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 4,
+        "options": [
+            "Graham's Law",
+            "Boyle's Law",
+            "Pressure law",
+            "Charles Law",
+            "No Correct Option"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2011,
+        "question": "<p>In Homes, electrical appliances and lamps are connected in parallel because</p>",
+        "explanation": "<p>if appliances are connected in series, the effective voltage is the sum of individual voltages which will be high.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Parallel connections do not heat up the wires",
+            "independence switches can be used",
+            "less current will be used",
+            "less voltage will be used"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2011,
+        "question": "In an A.C circuit, the ratio of r.m.s value to peak value of current is",
+        "explanation": "Irms = \\( \\frac{I_0}{\\sqrt{2}} \\)<br><br>\\( \\text{Therefore } \\sqrt{2Irms} = I_0 \\\\<br><br>\\frac{Irms}{I_0} = \\frac{1}{\\sqrt{2}} \\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2",
+            "\\( \\frac{1}{2} \\)",
+            "\\( \\frac{1}{\\sqrt{2}} \\)",
+            "\\( \\sqrt{2} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2011,
+        "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "5:3",
+            "1:50",
+            "50:1",
+            "3:5",
+            "No Correct Option"
+        ],
+        "type": "objectives"
+    }
+]

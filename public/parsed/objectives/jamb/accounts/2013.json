@@ -1,0 +1,770 @@
+[
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2013,
+        "question": "<p>Accounting information seeks to provide</p>",
+        "explanation": "<p>Accounting is simply keeping of all business transaction records so as to help a business make informed decisions in future</p>",
+        "correctIndex": 0,
+        "options": [
+            "permanent records for all transactions",
+            "analysis of accounts to trade debtors",
+            "audited reports on the accounts of a company",
+            "data about the employees of a company"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2013,
+        "question": "<p>When the debit side total of an account, it means that the account has</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "been overdrawn",
+            "been understand",
+            "debit balance",
+            "credit balance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2013,
+        "question": "<p>July 1 - Started business with #10,500<br>\nJuly 31- Paid Agromachinex #6,000 owing<br>\nthem<br>\n<br>\nThe double entry for July 1 would be</p>",
+        "explanation": "<p>Starting a business with 10500 means the business owner must have bought good for resale with that amount of money. Therefore we will debit purchase/stock account and credit cash account</p><p>Note; capital (cash in this case) is the money used in started a business<br>\nPurchases in accounting are goods bought for resale.</p>",
+        "correctIndex": 3,
+        "options": [
+            "debit capital and credit cash",
+            "credit cash and debit bank",
+            "debit cash and credit capital",
+            "debit purchases and credit cash"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2013,
+        "question": "<p>July 1 - Started business with #10,500<br>\nJuly 31- Paid Agro machine x #6,000 owing them<br>\n<br>\nThe double entry for July 31 would be</p>",
+        "explanation": "<p>Debit the creditors account ( agr0-machine) and credit cash</p>",
+        "correctIndex": 0,
+        "options": [
+            "debit Agromachinex and credit cash",
+            "debit equipment and credit Agromachinex",
+            "credit capital and debit cash",
+            "credit cash and debit purchases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2013,
+        "question": "<p>The total credit sales for a period can be extracted from the</p>",
+        "explanation": "<p>The sales day book is a manually-maintained ledger in which is recorded the key detailed information for each individual credit <strong>sale</strong> to a customer, including the following: Customer name. Invoice number. Invoice date. Invoice amount</p>",
+        "correctIndex": 1,
+        "options": [
+            "cash book",
+            "sales day book",
+            "petty cash book",
+            "returns inwards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2013,
+        "question": "The major source document which enables an employer to calculate the employee wages is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "nominal roll of employees",
+            "record of number of hours worked",
+            "effort of the employee",
+            "record of number of dependants per employee"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2013,
+        "question": "<p>Which of the following items is a capital expenditure?</p>",
+        "explanation": "<p>capital expenditures are money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Maintenance of office machine",
+            "Purchase of office stationery",
+            "Carriage inwards",
+            "Purchase of office machinery"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2013,
+        "question": "<p>The corresponding entry of personal accounts found in the debit side of the cash is to</p>",
+        "explanation": "<p>For every debit entry, there must be a corresponding credit entry. Hence we credit the ledger </p>",
+        "correctIndex": 2,
+        "options": [
+            "credit real accounts",
+            "debit real accounts",
+            "credit the ledger",
+            "debit the ledger"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2013,
+        "question": "<p>Alaka who owed Saka #15,000, settled his debt after deducting cash discount of 10percent. To record the discount in the book of Saka, debit</p><p> </p>",
+        "explanation": "<p>Debit cash account and credit discount allowed account</p>",
+        "correctIndex": 3,
+        "options": [
+            "discount recieved account and credit Alaka's account",
+            "Alaka's account and credit discount recieved account",
+            "Saka's account and credit discount recieved account",
+            "discount allowed account and credit Alaka's account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2013,
+        "question": "<p>i The amount of the imprest is the same from one organization to another<br>\nii.At the end of a fixed period, the petty cashier received a fixed sum of money.<br>\niii At the end of a period, the petty cashier is reimbursed with the amount spent in that period.<br>\niv The system is a method by which a measure of control is kept on petty cash expenses.<br>\n<br>\nWhich of the above is correct about the imprest system?</p>",
+        "explanation": "<p>The basic characteristic of an imprest system is that a fixed amount is reserved, which after a certain period of time or when circumstances require, because money was spent, it will be replenished.</p>",
+        "correctIndex": 2,
+        "options": [
+            "i, ii and iii",
+            "i, iii and iv",
+            "i, ii and iv",
+            "iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2013,
+        "question": "<p>A machine bought for #35,000 was estimated to have a life span of 5 years with a scrap value of #9,000.<br>\n<br>\nIf the scrap value is presently #15,000 what will be the yearly depreciation using straight line method?</p>",
+        "explanation": "<p>35,000 - 15000 = 20000</p><p>20000/ 5=  4000</p>",
+        "correctIndex": 0,
+        "options": [
+            "#4,000",
+            "#7,000",
+            "#11,000",
+            "#24,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2013,
+        "question": "<p>The purchase of mattresses from Freehold enterprises by cheque amounted to #305,150. The correct entries for this transaction in the book of the buyer is to debit</p><p> </p>",
+        "explanation": "<p>In the book of the buyer, we debit stock or purchase account and credit bank</p>",
+        "correctIndex": 1,
+        "options": [
+            "sales account and credit bank account",
+            "purchases and credit bank account",
+            "cash and credit freehold",
+            "bank and credit freehold"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2013,
+        "question": "<p>Sales - #232,000<br>\nOpening stock - # 28,000<br>\nPurchases - #128,000<br>\nCarriage inwards - # 4,000<br>\nCarriage outwards - # 6,000<br>\nClosing stock - # 10,000<br>\nDiscount received - # 18,000<br>\nExpenses - # 20,000<br>\n<br>\nCalculate the gross profit</p>",
+        "explanation": "<p>sales                                                             232,000  <br>\nAdd: disc. received                                        18,000               <br>\nopening stock                           28,000<br>\n+ purchase                               128,000<br>\ncost of gds. avail. for sale        <ins>156,000</ins><br>\nLess:closing stock                    10,000<br>\nCost of gds sold                       146,000      <br>\nAdd Carriage inwards              <ins>  4000     </ins>       <ins>150000   </ins><br>\nGross profit                                                    100,000      <br>\n </p>",
+        "correctIndex": 0,
+        "options": [
+            "#100,000",
+            "#86,000",
+            "#82,000",
+            "#76,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2013,
+        "question": "<p>Sales - #232,000<br>\nOpening stock - # 28,000<br>\nPurchases - #128,000<br>\nCarriage inwards - # 4,000<br>\nCarriage outwards - # 6,000<br>\nClosing stock - # 10,000<br>\nDiscount received - # 18,000<br>\nExpenses - # 20,000<br>\n<br>\nCalculate the expenses debited to the profit and loss account</p>",
+        "explanation": "<p>Expenses debited to the profit and loss account would be;<br>\nExpenses + carriage outwards<br>\n20,000 + 6000 = 26000</p>",
+        "correctIndex": 2,
+        "options": [
+            "#17,000",
+            "#23,000",
+            "#26,000",
+            "#30,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2013,
+        "question": "<p>Given:<br>\n<br>\nOpening capital - #1,500<br>\nCapital introduced - # 500<br>\nProfit for the year - # 800<br>\nCash drawings - # 250<br>\n<br>\nCalculate the closing capital</p>",
+        "explanation": "<p>Closing capital = Opening <em>Capital</em> + Additional <em>Capital</em> + Profit - Less Loss - Drawings</p><p>1500 + 500 + 800 - 250 = 2550</p>",
+        "correctIndex": 0,
+        "options": [
+            "#2,550",
+            "#2,500",
+            "#2,350",
+            "#2,250"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2013,
+        "question": "<p>What type of stock valuation would a vegetable seller adopt in valuing it's product?</p>",
+        "explanation": "<p>FIFO is a method of stock valuation that stands for 'First-In, First-Out'. This assumes that the first (oldest) units of stock produced or received are also the first ones that are sold. This is also suitable for perishable items</p>",
+        "correctIndex": 1,
+        "options": [
+            "LIFO",
+            "FIFO",
+            "Simple average",
+            "Weighted average"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2013,
+        "question": "The total cash and cheques received from customers in a control account is derived from the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "purchases day book",
+            "cash book",
+            "income and expenditure account",
+            "sales journal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2013,
+        "question": "1/1/2010 31/12/2010<br>Creditors - #9,000 #9,800<br>Rent owing - #3,800 #2,500<br>Rates prepaid - #2,000 #3,500<br>Motor van - #8,000 #8,000<br>Premises - #10,000 #10,500<br><br>Find the opening capital",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "#5,700",
+            "#7,700",
+            "#9,800",
+            "#14,900"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2013,
+        "question": "<p>     1/1/2010                     31/12/2010<br>\nCreditors - #9,000            #9,800<br>\nRent owing - #3,800        #2,500<br>\nRates prepaid - #2,000   #3,500<br>\nMotor van - #8,000         #8,000<br>\nPremises - #10,000        #10,500<br>\n<br>\nCalculate the closing capital</p>",
+        "explanation": "<p>capital = assets - liabilities</p><p>8,000 +10,500 + 3500 - 2500 - 9800 = 9700</p>",
+        "correctIndex": 2,
+        "options": [
+            "#8,700",
+            "#9,500",
+            "#9,700",
+            "#10,700"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2013,
+        "question": "<p>Given:<br>\n<br>\nOpening capital - #50,000<br>\nClosing capital - #64,000<br>\nDrawings - #16,000<br>\n<br>\nDetermine the net profit</p>",
+        "explanation": "<p>closing capital - opening capital  + drawings</p><p>64,000 - 50,000 - 16,000 = 30,000</p>",
+        "correctIndex": 3,
+        "options": [
+            "#2,000",
+            "#14,000",
+            "#20,000",
+            "#30,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2013,
+        "question": "The estimated profit or loss for a period is calculated by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "closing capital less opening capital add drawings",
+            "opening capital less closing capital add drawings",
+            "opening capital less drawings add closing capital",
+            "opening capital add closing add drawings"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2013,
+        "question": "<p>Given:<br>\n<br>\nDrawings - #3,500<br>\nNet loss - #2,500<br>\nCapital 1/1/2007 - #35,000<br>\nAdditional capital - #10,000<br>\n<br>\nThe adjusted capital as at 31/1/2007 is</p>",
+        "explanation": "<p>Adjusted capital=</p><p>capital + additional capital - net loss - drawings</p><p>35,000 +10,000 -3500 -2500 = 39,000</p>",
+        "correctIndex": 1,
+        "options": [
+            "#35,000",
+            "#39,000",
+            "#45,000",
+            "#46,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2013,
+        "question": "<p>When goods produced are transferred at cost plus mark-up sale, the difference between the cost and the transferred price is a</p>",
+        "explanation": "<p>The Manufacturing Profit, is the excess of transfer value of goods manufactured over their actual production cost</p>",
+        "correctIndex": 2,
+        "options": [
+            "discount",
+            "sales commission",
+            "manufacturing profit",
+            "factory reserves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2013,
+        "question": "<p>The addition of prime cost, indirect cost and opening work-in-progress less the closing work-in-progress will result in cost of</p>",
+        "explanation": "<p>The cost of goods manufactured equation is calculated by adding the total manufacturing costs; including all direct materials, direct labor, and factory overhead; to the beginning work in process inventory and subtracting the ending goods in process inventory.</p>",
+        "correctIndex": 2,
+        "options": [
+            "goods available for sale",
+            "goods sold",
+            "goods manufactured",
+            "materials put into production"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2013,
+        "question": "<p>Opening stock of raw materials - #75,000<br>\nPurchase of raw materials - #330,000<br>\nClosing stock of raw materials - #80,000<br>\nDirect wages - #30,000<br>\nCarriages of raw materials - #10,000<br>\n<br>\nCalculate the cost of raw materials used</p>",
+        "explanation": "<p> To <strong>calculate</strong> direct <strong>materials</strong>, add beginning direct <strong>materials</strong> to direct <strong>materials</strong> purchases and subtract ending direct <strong>materials</strong>.</p><p>75,000 + 330,000 - 80,000 = 325,000</p>",
+        "correctIndex": 2,
+        "options": [
+            "#495,000",
+            "#415,000",
+            "#325,000",
+            "#305,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2013,
+        "question": "<p>Purchase of raw materials - #330,000<br>\nClosing stock of raw materials - #80,000<br>\nDirect wages - #30,000<br>\nCarriages of raw materials - #10,000<br>\n<br>\nDetermine the prime cost</p>",
+        "explanation": "<p>330,000 + 30000 + 10,000 = 370,000</p>",
+        "correctIndex": 3,
+        "options": [
+            "#525,000",
+            "#515,000",
+            "#465,000",
+            "#370,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2013,
+        "question": "<p>In manufacturing account, the work-in-progress at the end of the year is</p>",
+        "explanation": "<p>Work in progress for the year is gotten by = <strong>WIP</strong> beginning balance + manufacturing costs - the cost of goods completed.</p>",
+        "correctIndex": 0,
+        "options": [
+            "deducted from the cost of goods completed during this year",
+            "added to the cost of goods completed",
+            "stated in the profit and loss account",
+            "stated in the prime cost section"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2013,
+        "question": "<p>Which of the following is accounted for in receipts and payment account</p>",
+        "explanation": "<p> A receipts and payments account is a summary of actual cash receipts and payments extracted from the cash book over a certain period. All cash received and paid during the period whether capital or revenue is included in this account. It contains Subscriptions received in advance</p>",
+        "correctIndex": 0,
+        "options": [
+            "Subscriptions recieved in advance",
+            "Subscriptions due not yet recieved",
+            "Accrued expenses on annual dances",
+            "Depreciation of the club house"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2013,
+        "question": "<p>Which of the following expenses relates to the profit and loss account of a manufacturing firm</p>",
+        "explanation": "<p>Administrative overhead is those costs not involved in the development or production of goods or services. This is essentially all overhead that is not included in manufacturing overhead. Examples of administrative overhead costs are the costs of: Front office and sales salaries, wages, and commissions. Office supplies</p>",
+        "correctIndex": 2,
+        "options": [
+            "Direct materials",
+            "Direct labour",
+            "Administrative overhead",
+            "Work-in-progress"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2013,
+        "question": "<p>i. Direct materials<br>\nii.Direct labour<br>\niii.Direct expenses<br>\niv. Factory expenses<br>\n<br>\nPrime cost consist of</p>",
+        "explanation": "<p>Prime cost is the direct cost of a commodity in terms of the materials and labour involved in its production, excluding fixed costs. Direct material and direct labor costs are prime cost because they are the main incremental costs of a product.</p>",
+        "correctIndex": 0,
+        "options": [
+            "i, ii and iii",
+            "i, ii and iv",
+            "i, iii and iv",
+            "ii, iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2013,
+        "question": "<p>The amount paid by a new partner on admission as a compensation for the reputation built up by old partners is a</p>",
+        "explanation": "<p>Goodwill in accounting is an intangible asset that arises when a buyer acquires an existing business. Goodwill represents assets that are not separately identifiable.</p>",
+        "correctIndex": 3,
+        "options": [
+            "bonus",
+            "commission",
+            "premium",
+            "goodwill"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2013,
+        "question": "<p>A partnership's internal regulations are set out by</p>",
+        "explanation": "<p>A partnership deed, also known as a partnership agreement, is a document that outlines in detail the rights and responsibilities of all parties to a business operation. It has the force of law and is designed to guide the partners in the conduct of the business.</p>",
+        "correctIndex": 0,
+        "options": [
+            "a deed",
+            "a law",
+            "a constitution",
+            "an article"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2013,
+        "question": "<p>In a partnership account, interest on drawings is</p>",
+        "explanation": "<p>Charging interest on drawings is a means of discouraging partners from withdrawing excessive amounts from the business. From this, it follows that interest on drawings is a debit entry in the partners' current accounts and a credit entry in the Appropriation Account.</p>",
+        "correctIndex": 1,
+        "options": [
+            "debited to appropriation account",
+            "credited to appropiation account",
+            "treated as an expense in profit and loss account",
+            "recorded in the balance sheet as current assets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2013,
+        "question": "<p>When a share valued at 50k is issued at #1.59, it is said to be issued at</p>",
+        "explanation": "<p>Issue of shares at premium means that the issuing of shares above the face value (also called as nominal value or par value). Simply put, when shares are issued at a price higher than the face value, it is said to be issued at a premium.</p>",
+        "correctIndex": 1,
+        "options": [
+            "par",
+            "premium",
+            "discount",
+            "interest"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2013,
+        "question": "<p>The purchase consideration that is lower than the net asset implies that, the buyer has gained the advantage of</p>",
+        "explanation": "<p>Capital reserve is derived from the accumulated capital surplus of a company, created out of capital profit. </p>",
+        "correctIndex": 2,
+        "options": [
+            "net income",
+            "revenue reserve",
+            "capital reserve",
+            "net loss"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2013,
+        "question": "When shares are issued at a discount, entries are to debit",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "application allotment account and credit discount accoun",
+            "discount account and credit",
+            "cash account and credit discount account",
+            "discount account and credit bank account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2013,
+        "question": "When there is no basis of apportionment in an organization, the expenses should be apportioned based on",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "sales",
+            "purchases",
+            "equality",
+            "floor space"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2013,
+        "question": "<p>Department         K               Y<br>\nOpening stock    #2,500      #800<br>\nPurchases       #120,000    #100,000<br>\nSales               #180,000     #200,000<br>\nSalaries           #8,000         #30,000<br>\nClosing stock   #3,000        #1,500<br>\nRate expenses of #1,500 are apportioned in the ratio 1:2.<br>\n<br>\nThe gross profit for K is</p>",
+        "explanation": "<p>Sales - Cost of Goods Sold = Gross Profit.</p><p>cost of goods sold = opening stock + purchases - closing stock</p><p>COGS= 2500 + 120000 - 3000 = 119,500</p><p>180,000 - 119,500 =  60,500</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "#23,500",
+            "#60,500",
+            "#60,700",
+            "#82,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2013,
+        "question": "<p>Department        K                    Y<br>\nOpening stock  #2,500          #800<br>\nPurchases   #120,000        #100,000<br>\nSales         #180,000           #200,000<br>\nSalaries      #8,000             #30,000<br>\nClosing stock #3,000          #1,500<br>\nRate expenses of #1,500 are apportioned in the ratio 1:2.<br>\n<br>\nWhat is the net profit of Y?</p>",
+        "explanation": "<p>opening stock            800         <br>\npurchase                <ins> 100,000 </ins>    <br>\n                                100,800<br>\nless; closing stock   1500                          99,300</p><p>Salaries                                      30,000<br>\nRates(1:2 of 1500= 1/3x1500)   <ins>   500 </ins>    <ins> 30500 </ins><br>\n                                                                  <ins> 68,800</ins><br>\n                                                                                                <br>\n                                     </p>",
+        "correctIndex": 2,
+        "options": [
+            "#52,000",
+            "#68,300",
+            "#68,800",
+            "#69,300"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2013,
+        "question": "<p>The objective of departmental account is to</p>",
+        "explanation": "<p>To check out an interdepartmental performance.<br>\nTo evaluate the performance of the department with the previous period result.<br>\nThe gross profit of each department can ascertain.<br>\nUnprofitable departments will reveal.</p>",
+        "correctIndex": 1,
+        "options": [
+            "ascertain the cost of running the organization",
+            "ascertain the amount of profit or loss for each department",
+            "ascertain the amount of profits for losses for the enterprises",
+            "offset the loss of each treatment"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2013,
+        "question": "<p>Which of the following is the capital reserve of a company</p>",
+        "explanation": "<p>A capital reserve is an account in the equity section of the balance sheet that can be used for contingencies or to offset capital losses. It is derived from the accumulated capital surplus of a company, created out of capital profit.</p><p>Capital Reserve is a type of profit that is earned on capital transactions - an example would be the profit arising from the forfeiture of shares, share premium, Capital Redemption Reserve or Debenture Redemption Reserve.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Share premium",
+            "Retained profit",
+            "Accumulated depreciation",
+            "Loss on forfeited shares"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2013,
+        "question": "<p>Given:<br>\nApplications were invited by the directors of Abiodun PLC for 500,000 ordinary shares of #1:00 each at #1:10 per share payable as follows;<br>\nOn application 46k<br>\nOn allotment 20k<br>\n1st Call 15k<br>\n2nd Call 19k<br>\n<br>\nHow much is to be paid for application?</p>",
+        "explanation": "<p>46k x 500,000 = 23,000,000 k</p><p>23000000 / 100 = 230,000</p>",
+        "correctIndex": 0,
+        "options": [
+            "#230,000",
+            "#280,000",
+            "#500,000",
+            "#550,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2013,
+        "question": "<p>The issued share capital is the number of shares that are</p>",
+        "explanation": "<p> Issued shares are the shares sold to and held by investors of a company. They consists of the shares that have been sold to the shareholders against cash or some other consideration.</p>",
+        "correctIndex": 2,
+        "options": [
+            "authorized by share holders",
+            "shared among the directors",
+            "fully subscribed",
+            "in the share certificate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2013,
+        "question": "The distributable profit available to shareholders at the end of each year is the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "total profit and debtors balance",
+            "general reserve and retained profit",
+            "retained profit and fictitious assets",
+            "total profit less creditors balance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2013,
+        "question": "<p>The debenture issued at par above the nominal value is said to be issued at a</p>",
+        "explanation": "<p>If debentures are issued at a price more than its nominal value (face value) such an issue is called issue at a premium.</p>",
+        "correctIndex": 2,
+        "options": [
+            "cost price",
+            "mark-up",
+            "premium",
+            "margin"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2013,
+        "question": "<p>Accountant-general of the federation is responsible for</p>",
+        "explanation": "<p>The Accountant-General is vested with the <em>duties</em> of: receiving, keeping and disbursement of government funds; recording and reporting of government financial transactions; exercising supervisory powers over other ministries in terms of financial matters; managing government investments etc.</p>",
+        "correctIndex": 1,
+        "options": [
+            "the general supervision of all auditing personnel in all the ministeries",
+            "the compilation of annual financial statement",
+            "the interpretation of rules and regulations affecting the private sectors",
+            "ensuring the efficient operation of the ministries"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2013,
+        "question": "Given:<br><br>Assets and Liabilities of a Local Government<br>Bank balance #6,484,000<br>Cash # 900,000<br>General revenue balances #9,774,500<br>Accrued salaries #1,220,000<br>Investment in shares #1,480,000<br>Vehicles #7,620,000<br><br>Calculate the liabilities of the local government",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "#10,994,500",
+            "#17,394,500",
+            "#18,774,500",
+            "#18,874,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2013,
+        "question": "<p>An instrument which allows public officers to increase expenditure within a year is</p>",
+        "explanation": "<p>Supplementary Budget is the request for additional funds by Ministries and Departments during the course of the year.</p>",
+        "correctIndex": 1,
+        "options": [
+            "statutory allocation",
+            "supplementary budget",
+            "virement",
+            "warrant"
+        ],
+        "type": "objectives"
+    }
+]

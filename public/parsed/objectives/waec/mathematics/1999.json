@@ -1,0 +1,690 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1999,
+        "question": "<p>The side of a rhombus is 10cm long, correct to the nearest whole number. Between what limits should the perimeter P lie?</p>",
+        "explanation": "<p>If the side = 10 cm, correct to the nearest whole number, then</p><p>The side ranges from 9.5 cm to 10.5 cm. (9.5 \\(\\leq\\) s &lt; 10.5)</p><p>Perimeter of a rhombus = 4 x side</p><p>\\(\\therefore\\) 4 x 9.5 \\(\\leq\\) perimeter &lt; 4 x 10.5</p><p>= 38 cm \\(\\leq\\) P &lt; 42 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "39cm ≤ P ≤41cm",
+            "38cm ≤ P &lt; 42cm",
+            "38.5 ≤ P ≤ 41.5cm",
+            "38.5 ≤ P ≤ 40cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1999,
+        "question": "<p>Simplify log\\(_7\\) 8 - log\\(_7\\) 2 + log\\(_7\\) 4.</p>",
+        "explanation": "<p>log\\(_7\\) 8 - log\\(_7\\) 2 + log\\(_7\\) 4</p><p>= log\\(_7\\) (8/2 x 4)</p><p>= log\\(_7\\) 16</p><p>= 4 log\\(_7\\) 2</p>",
+        "correctIndex": 3,
+        "options": [
+            "0",
+            "\\(2log_7 2\\)",
+            "\\(3log_7 2\\)",
+            "\\(4log_7 2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1999,
+        "question": "<p>If \\(K\\sqrt{28}+\\sqrt{63}-\\sqrt{7}=0\\), find K.</p>",
+        "explanation": "<p>\\(K\\sqrt{28}+\\sqrt{63}-\\sqrt{7}=0\\\\</p><p>2K\\sqrt{7}+3\\sqrt{7}-\\sqrt{7}=0\\\\</p><p>2K\\sqrt{7}=-2\\sqrt{7}\\\\</p><p>K=\\frac{-2\\sqrt{7}}{2\\sqrt{7}}\\\\</p><p>K=-1\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "-2",
+            "-1",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1999,
+        "question": "<p>From a set \\(A = [3, \\sqrt{2}, 2\\sqrt{3}, \\sqrt{9}, \\sqrt{7}]\\), a number is selected at random. Find the probability that is a rational number</p>",
+        "explanation": "<p>\\(A = {3, \\sqrt{2}, 2\\sqrt{3}, \\sqrt{9}, \\sqrt{7}}\\)</p><p>n(A) = 5</p><p>Let the rational nos = R</p><p>n(R) = 2 (3, \\(\\sqrt{9}\\))</p><p>P(R) = 2/5</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{2}{5}\\)",
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{4}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23761443524_wamath9912.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Total angle in a circle = 360°</p><p>\\(\\therefore\\) 105 + 75 + 2k + k + 3k = 360°</p><p>6k = 360 - 180 = 180</p><p>k = 180/6 = 30°</p>",
+        "correctIndex": 1,
+        "options": [
+            "15<sup>o</sup>",
+            "30<sup>o</sup>",
+            "60<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1999,
+        "question": "<p><em><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191202_110348%20%282%29.jpg\" style=\"height:294px; width:300px\"></em></p><p><em>The pie chart illustrate the amount of private time a student spends in a week studying various subjects. use it to answer the question below</em><br>\n<br>\nIf he sends \\(2\\frac{1}{2}\\) hours week on science, find the total number of hours he studies in a week</p>",
+        "explanation": "<p>Let x represent the total number of hours spent per week</p><p>\\(∴ \\frac{75}{360} \\times x = \\frac{5}{2}\\\\</p><p>∴ x = \\frac{360 \\times 5}{725 \\times 2}=12 hours\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(3\\frac{1}{3}\\) hours",
+            "5 hours",
+            "8 hours",
+            "12 hours"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1999,
+        "question": "<p>A group of 11 people can speak either English or French or Both. Seven can speak English and six can speak French. What is the probability that a person chosen at random can speak both English and French?</p>",
+        "explanation": "<p>Let the number of people that speak both English and French = x</p><p>Then (7 - x) + x + (6 - x) = 11</p><p>13 - x = 11 \\(\\implies\\) x = 2.</p><p>\\(\\therefore\\) P(picking a person that speaks both languages) = 2/11</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{2}{11}\\)",
+            "\\(\\frac{4}{11}\\)",
+            "\\(\\frac{5}{11}\\)",
+            "\\(\\frac{11}{13}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1999,
+        "question": "<p>The interior angle of a regular polygon is twice the exterior angle. How many sides has the polygon?</p>",
+        "explanation": "<p>Let the exterior angle = d</p><p>Note: Exterior angle + Interior angle = 180°</p><p>\\(\\implies\\) d + 2d = 180°</p><p>3d = 180° \\(\\implies\\) d = 60°</p><p>Recall, exterior angle = \\(\\frac{360}{\\text{no of sides}}\\)</p><p>\\(\\therefore \\text{No of sides} = \\frac{360}{60}\\)</p><p>= 6 sides</p>",
+        "correctIndex": 1,
+        "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1999,
+        "question": "<p>Which of the following figures have one line of symmetry only? I. Isosceles triangle II. Rhombus III. Kite</p>",
+        "explanation": "<p>Isosceles triangle and Kite shapes have 1 line of symmetry each while the rhombus has 2 lines of symmetry.</p>",
+        "correctIndex": 2,
+        "options": [
+            "I and II only",
+            "II and III only",
+            "I and III only",
+            "I, II, and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15375113490_wamath9917.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In triangle RXY, &lt; RXY = &lt; RYX (base angles of an isosceles triangle)</p><p>\\(\\implies\\) 180° - 62° = 2 &lt; RYX</p><p>118° = 2 &lt; RYX \\(\\implies\\) &lt; RYX = 59°</p><p>In triangle RYZ, &lt; RZY = 62° (base angles of an isosceles triangle)</p><p>\\(\\therefore\\) &lt; RYZ = 180° - (62° + 62°)</p><p>= 180° - 124° = 56°</p><p>\\(\\therefore\\) &lt; XYZ = 56° + 59°</p><p>= 115°</p>",
+        "correctIndex": 3,
+        "options": [
+            "50<sup>o</sup>",
+            "62<sup>o</sup>",
+            "112<sup>o</sup>",
+            "115<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13977381410_wamath9919.jpg\" class=\"img-fluid\">",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191202_114412%20%282%29.jpg\" style=\"height:212px; width:250px\"></p><p>x = 180° - 123° = 57°</p><p>z = 180° - 105° = 75°</p><p>y = 180° - 57° - 75° = 48°</p>",
+        "correctIndex": 2,
+        "options": [
+            "18<sup>o</sup>",
+            "42<sup>o</sup>",
+            "48<sup>o</sup>",
+            "132<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25159302342_wamath9920.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; QOR = 50° x 2 = 100°</p><p>Reflex &lt; QOR = 360° - 100° = 260°</p><p>\\(\\therefore\\) 30° + 50° + 260° + m = (4 - 2) x 180°</p><p>340° + m = 360°</p><p>m = 360° - 340° = 20°</p>",
+        "correctIndex": 0,
+        "options": [
+            "20<sup>o</sup>",
+            "25<sup>o</sup>",
+            "30<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1999,
+        "question": "Given that m = -3 and n = 2 find the value of \\(\\frac{3n^2 - 2m^3}{m}\\)",
+        "explanation": "Given that m = -3, n = 2, the value of<br>\\(\\frac{3n^2 - 2n^3}{m}\\\\<br>\\frac{3(2)^2 -2(-3)^2}{-3}= \\frac{12+54}{-3}=-22\\)",
+        "correctIndex": 0,
+        "options": [
+            "-22",
+            "-14",
+            "14",
+            "22"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1999,
+        "question": "<p>Simplify \\(\\frac{2-18m^2}{1+3m}\\)</p>",
+        "explanation": "<p>\\(\\frac{2-18m^2}{1+3m}=\\frac{2(1-(3m)^2)}{1+3m}\\\\</p><p>\\frac{2(1-(3m)(1+3m)}{1+3m}=2(1-3m)\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(2(1+3m)\\)",
+            "\\(2(1+3m^2)\\)",
+            "\\(2(1-3m)\\)",
+            "\\(2(1-3m^2)\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1999,
+        "question": "<p>If \\(y = \\sqrt{ax-b}\\) express x in terms of y, a and b</p>",
+        "explanation": "<p>\\(y = \\sqrt{ax-b}\\)</p><p>\\(y^2 = ax-b\\)</p><p>\\(y^2 +b = ax\\)</p><p>\\(x = \\frac{y^2 + b}{a}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(x = \\frac{y^2-b}{a}\\)",
+            "\\(x = \\frac{y+b}{a}\\)",
+            "\\(x = \\frac{y-b}{a}\\)",
+            "\\(x = \\frac{y^2 + b}{a}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1999,
+        "question": "<p>Given that \\(81\\times 2^{2n-2} = K, find \\sqrt{K}\\)</p>",
+        "explanation": "<p>\\(K = 81 \\times 2^{2n - 2}\\)</p><p>\\(\\sqrt{K} = \\sqrt{81 \\times 2^{2n - 2}}\\)</p><p>= \\(9 \\times 2^{n - 1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(4.5\\times 2^{n}\\)",
+            "\\(4.5\\times 2^{2n}\\)",
+            "\\(9\\times 2^{n-1}\\)",
+            "\\(9\\times 2^{2n}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1999,
+        "question": "<p>Simplify \\(\\frac{4}{x+1}-\\frac{3}{x-1}\\)</p>",
+        "explanation": "<p>\\(\\frac{4}{x+1}-\\frac{3}{x-1} \\\\</p><p>=\\frac{4x - 4 - 3x - 3}{(x+1)(x-1)}=\\frac{x-7}{x^2 - 1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{x+7}{x^2 - 1}\\)",
+            "\\(\\frac{x-7}{x^2 + 1}\\)",
+            "\\(\\frac{x-7}{x^2 - 1}\\)",
+            "\\(\\frac{x-11}{x^2 - 1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1999,
+        "question": "<p>If y varies inversely as x\\(^2\\), how does x vary with y?</p>",
+        "explanation": "<p>\\(y \\propto \\frac{1}{x^2}\\)</p><p>\\(y = \\frac{k}{x^2}\\)</p><p>\\(x^2 = \\frac{k}{y}\\)</p><p>\\(x = \\frac{\\sqrt{k}}{\\sqrt{y}}\\)</p><p>Since k is a constant, then \\(\\sqrt{k}\\) is also a constant.</p><p>\\(\\therefore x \\propto \\frac{1}{\\sqrt{y}}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "x varies inversely as y<sup>2</sup>",
+            "x varies inversely as<sqrt>y</sqrt>",
+            "x varies directly as y<sup>2</sup>",
+            "x varies directly as<sqrt>y</sqrt>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1999,
+        "question": "<p>If \\(tan x = \\frac{1}{\\sqrt{3}}\\), find cos x - sin x such that \\(0^o \\leq x \\leq 90^o\\)</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191202_123812%20%282%29.jpg\" style=\"height:219px; width:250px\"></p><p>\\(\\cos x = \\frac{\\sqrt{3}}{2}\\)</p><p>\\(\\sin x = \\frac{1}{2}\\)</p><p>\\(\\cos x - \\sin x = \\frac{\\sqrt{3} - 1}{2}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{\\sqrt{3}+1}{2}\\)",
+            "\\(\\frac{2}{\\sqrt{3}+1}\\)",
+            "\\(\\frac{\\sqrt{3}-1}{2}\\)",
+            "\\(\\frac{2}{\\sqrt{3}-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1999,
+        "question": "<p>From the top of a cliff 20m high, a boat can be sighted at sea 75m from the foot of the cliff. Calculate the angle of depression of the boat from the top of the cliff</p>",
+        "explanation": "<p>\\(\\tan x = \\frac{20}{75} = 0.267\\)</p><p>\\(x = \\tan^{-1} 0.267 = 14.93°\\)</p><p>\\(\\approxeq\\) 14.9°</p>",
+        "correctIndex": 0,
+        "options": [
+            "14.9<sup>o</sup>",
+            "15.5<sup>o</sup>",
+            "74.5<sup>o</sup>",
+            "75.1<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9784311054_wamath9930.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{x}{sin 40^o}\\)",
+            "\\(\\frac{x}{cos 40^o}\\)",
+            "\\(\\frac{x}{2 sin 40^o}\\)",
+            "\\(\\frac{x}{2 cos 40^o}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8386555320_wamath9931.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; ABC = 40° (alternate angles)</p><p>\\(\\therefore\\) &lt; ACB = \\(\\frac{180° - 40°}{2}\\)</p><p>= 70°</p><p>\\(\\therefore\\) Bearing of A from C = 360° - 70° </p><p>= 290°</p>",
+        "correctIndex": 3,
+        "options": [
+            "040<sup>o</sup>",
+            "070<sup>o</sup>",
+            "110<sup>o</sup>",
+            "290<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1999,
+        "question": "A pole of length L leans against a vertical wall so that it makes an angle of 60<sup>o</sup>with the horizontal ground. If the top of the pole is 8m above the ground, calculate L.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/6988800975_wamath9931ans.jpg\" class=\"img-fluid\">\n</div>\\(sin 60 = \\frac{8}{L} = 8 \\div \\frac{\\sqrt{3}}{2}; L = \\frac{8}{sin 60}=\\frac{16}{\\sqrt{3}}\\)<br>When we rationalize gives \\(\\frac{16\\sqrt{3}}{3}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(16\\sqrt{3}m\\)",
+            "\\(4\\sqrt{3}m\\)",
+            "\\(\\frac{\\sqrt{3}}{16}\\)",
+            "\\(\\frac{16\\sqrt{3}}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23761928908_wamath9932.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>PR = 4 + 4 = 8 cm</p><p>Area of trapezium = \\(\\frac{1}{2} (a + b) h\\)</p><p>= \\(\\frac{1}{2} (4 + 8) \\times 5\\)</p><p>= 30 cm\\(^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "60cm<sup>2</sup>",
+            "50cm<sup>2</sup>",
+            "40cm<sup>2</sup>",
+            "30cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1999,
+        "question": "<p>The height of a pyramid on square base is 15cm. If the volume is 80cm\\(^3\\), find the length of the side of the base</p>",
+        "explanation": "<p>Volume = \\(\\frac{1}{3} b^2 h\\)</p><p>\\(\\therefore b = \\sqrt{\\frac{3v}{h}}\\)</p><p>\\(b = \\sqrt{\\frac{3(80)}{15}} \\)</p><p>\\(b = \\sqrt{16} = 4.0 cm\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "3.3cm",
+            "5.3cm",
+            "4.0cm",
+            "8.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1999,
+        "question": "Simplify 3.72 x 0.025 and express your answer in the standard form",
+        "explanation": "\\(3.72 \\times 0.025 = 0.093 = 9.3\\times 10^{-2}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(9.3\\times 10^3\\)",
+            "\\(9.3\\times 10^2\\)",
+            "\\(9.3\\times 10^{-2}\\)",
+            "\\(9.3\\times 10^{-3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1999,
+        "question": "<p>Two numbers 24\\(_{x}\\) and 31\\(_y\\) are equal in value when converted to base ten. Find the equation connecting x and y</p>",
+        "explanation": "<p>24\\(_x\\) = 31\\(_y\\)</p><p>\\(2 \\times x^1 + 4 \\times x^0 = 3 \\times y^1 + 1 \\times y^0\\)</p><p>\\(2x + 4 = 3y + 1 \\implies 2x = 3y + 1 - 4\\)</p><p>\\(2x = 3y - 3 = 3(y - 1)\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "2x = 3(y - 1)",
+            "4x - y = 1",
+            "3y + 2x = 3",
+            "3y = 2 (x + 3)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1999,
+        "question": "<p>A car travel at x km per hour for 1 hour and at y km per hour for 2 hours. Find its average speed</p>",
+        "explanation": "<p>Travelled x km/h for 1 hour \\(\\therefore\\) traveled x km in the first hour.</p><p>Traveled y km/h for 2 hours \\(\\therefore\\) traveled 2y km in the next 2 hours.</p><p>Average speed = \\(\\frac{x + 2y}{1 + 2}\\)</p><p>= \\(\\frac{x + 2y}{3} kmh^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2x + 2y}{3}kmh^{-1}\\)",
+            "\\(\\frac{x + y}{3}kmh^{-1}\\)",
+            "\\(\\frac{x + 2y}{3}kmh^{-1}\\)",
+            "\\(\\frac{2x + y}{3}kmh^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1999,
+        "question": "<p>The height and base of a triangle are in ratio 1:3 respectively. If the area of the triangle is 216 cm\\(^2\\), find the length of the base.</p>",
+        "explanation": "<p>Area = \\(\\frac{1}{2} \\times base \\times height\\)</p><p>\\(height : base = 1 : 3\\)</p><p>\\(\\implies base = 3 \\times height\\)</p><p>Let height = h;</p><p>Area = \\(\\frac{1}{2} \\times 3h \\times h = 216\\)</p><p>\\(3h^2 = 216 \\times 2 = 432\\)</p><p>\\(h^2 = \\frac{432}{3} = 144\\)</p><p>\\(h = \\sqrt{144} = 12.0 cm\\)</p><p>\\(\\therefore base = 3 \\times 12 = 36 cm\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "24cm",
+            "36cm",
+            "72cm",
+            "144cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1999,
+        "question": "<p>Water flows from a tap into cylindrical container at the rate 5πcm\\(^3\\) per second. If the radius of the container is 3cm, calculate the level of water in the container at the end of 9 seconds.</p>",
+        "explanation": "<p>Volume of water after 9 seconds = \\(5\\pi \\times 9 = 45\\pi cm^3\\)</p><p>Volume of cylinder = \\(\\pi r^2 h\\)</p><p>\\(\\therefore \\pi r^2 h = 45\\pi\\)</p><p>\\(\\pi \\times 3^2 \\times h = 45\\pi\\)</p><p>\\(\\implies 9h = 45 \\)</p><p>\\(h = 5 cm\\)</p><p>(where h = height of the water after 9 secs)</p>",
+        "correctIndex": 1,
+        "options": [
+            "2cm",
+            "5cm",
+            "8cm",
+            "15cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1999,
+        "question": "<p>Amina had m mangoes. She ate 3 and shared the remainder equally with her brother Uche. Each had at least 10. Which of the following inequalities represents the statements above.</p>",
+        "explanation": "<p>Total number of mangoes = m</p><p>Amina ate 3 mangoes \\(\\implies\\) Remainder = m - 3</p><p>Shared equally with Uche \\(\\implies \\frac{m - 3}{2}\\)</p><p>\\(\\frac{m - 3}{2} \\geq 10\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{m}{2}-3\\le 10\\)",
+            "\\(\\frac{m}{2}-3\\ge 10\\)",
+            "\\(\\frac{m-3}{2}\\ge10\\)",
+            "\\(\\frac{m-3}{2}\\le10\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20970482685_wamath9940.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(x",
+            "\\(x\\ge -2 and x&gt;1\\)",
+            "\\(x\\le -2 and x\\ge1\\)",
+            "\\(x&lt; -2 and x&gt;1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1999,
+        "question": "<p>If \\(x^2 +15x + 50 = ax^2 + bx + c = 0\\). Which of the following statement is not true?</p>",
+        "explanation": "<p>\\(x^2 + 15x + 50 = 0\\)</p><p>\\(x^2 + 5x + 10x + 50 = 0\\)</p><p>\\(x(x + 5) + 10(x + 5) = 0\\)</p><p>\\((x + 5)(x + 10) = 0\\)</p><p>x + 5 = 0 or x + 10 = 0.</p><p>Comparing \\(x^2 + 15x + 50\\) with \\(ax^2 + bx + c\\), b = 15 and c = 50.</p><p>\\(\\therefore\\) bc = 750.</p>",
+        "correctIndex": 1,
+        "options": [
+            "x = -5",
+            "x = 10",
+            "x + 10 = 0",
+            "bc = 750"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1999,
+        "question": "<p>The root of a quadratic equation in x, are -m and 2n. Find the equation</p>",
+        "explanation": "<p>x = -m \\(\\implies\\) x + m = 0;</p><p>x = 2n \\(\\implies\\) x - 2n = 0.</p><p>\\(\\implies (x + m)(x - 2n) = 0\\)</p><p>\\(x^2 + mx - 2nx - 2mn = 0\\)</p><p>\\(x^2 + x(m - 2n) - 2mn = 0\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(x^2 + x(m - 2n)-2mn=0\\)",
+            "\\(x^2 - x(m - 2n)-2mn=0\\)",
+            "\\(x^2 - x(m - 2n)+2mn=0\\)",
+            "\\(x^2 + x(m - 2n)+2mn=0\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1999,
+        "question": "<p>A survey shows that 28% of all the men in a village wear size 9 shoes. What is the probability that a man selected at random in the village wears size 9 shoes?</p>",
+        "explanation": "<p>P(man picked at random wears size 9 shoes) = \\(\\frac{28}{100}\\)</p><p>= \\(\\frac{7}{25}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{7}{25}\\)",
+            "\\(\\frac{41}{50}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1999,
+        "question": "Solve the inequality 2x + 3 &lt; 5x",
+        "explanation": "2x + 3 &lt; 5x<br>-3x &lt; -3<br>X &gt; 1",
+        "correctIndex": 0,
+        "options": [
+            "\\(x&gt;1\\)",
+            "\\(x",
+            "\\(x&gt;\\frac{3}{7}\\)",
+            "\\(x&gt;-1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11184270976_wamath9945.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{x}{x+y}=\\frac{y}{x+CE}\\\\<br>xy + xCE = xy + y^2\\\\<br>∴xCE = y^2\\\\<br>CE=\\frac{y^2}{x}\\)",
+        "correctIndex": 3,
+        "options": [
+            "x",
+            "\\(\\frac{x^2}{y}\\)",
+            "\\(\\frac{y}{x^2}\\)",
+            "\\(\\frac{y^2}{x}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19572478548_wamath9946.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Locus of points equidistant from X and Y",
+            "Locus of points equidistant from X and Z",
+            "Locus of points equidistant from \\(\\bar{ZX}\\) and \\(\\bar{ZY}\\)",
+            "Locus of points equidistant from \\(\\bar{XY}\\) and \\(\\bar{ZY}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11184275328_wamath9947.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "m + n = 90<sup>o</sup>",
+            "m = n",
+            "n &gt; 45<sup>o</sup>",
+            "m &lt; 45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22368558448_wamath49.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "15",
+            "30",
+            "45",
+            "75"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1999,
+        "question": "The sides of a right angle triangle in ascending order of magnitude are 8cm, (x-2)cm and x cm. Find x",
+        "explanation": "\\(8^2 + (x - 2)^2 = x^2\\\\<br>64 + x^2 - 4x + 4 = x^{2}\\\\<br>x^2 - 4x + 68 = x^2\\\\<br>-4x = -68\\\\<br>-x = \\frac{-68}{4} = 17\\)",
+        "correctIndex": 1,
+        "options": [
+            "16",
+            "17",
+            "34",
+            "90"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25164638424_wamath9950.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "30<sup>o</sup>",
+            "50<sup>o</sup>",
+            "65<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1999,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191202_113436%20%282%29.jpg\" style=\"height:189px; width:250px\"></p><p>In the diagram above, RST is a tangent to circle VSU center O ∠SVU = 50° and UV is a diameter. Calculate ∠RSV.</p>",
+        "explanation": "<p>&lt; VSU = 90° (angle in a semi-circle)</p><p>\\(\\therefore\\) &lt; SUV = 180° - 90° - 50°</p><p>= 40°</p><p>&lt; RSV = 40° (angle which chord makes tangent = angle in alternate segment)</p>",
+        "correctIndex": 3,
+        "options": [
+            "90°",
+            "50°",
+            "45°",
+            "40°"
+        ],
+        "type": "objectives"
+    }
+]

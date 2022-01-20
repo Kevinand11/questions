@@ -1,0 +1,763 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1983,
+        "question": "In a resonance tube experiment, a tube fixed length is closed at one end and several tuning forks of increasing frequency used to obtain resonance at the open end. If the tuning fork with the lowest frequency which gave resonance had a frequency f<sub>1</sub>and the next tuning fork to give resonance had a frequency f<sub>2</sub>, find the ratio \\(\\frac{f^2}{f^2}\\).",
+        "explanation": "\\(\\lambda_1\\) = 4L<sub>1</sub>and \\(\\lambda_2\\) = -L<sub>1</sub><br><br>F\\(\\lambda\\) = velocity<br><br>F<sub>1</sub>x \\(\\lambda_1\\) = F<sub>2</sub>x<br>\\(\\lambda_2\\) ; F<sub>1</sub>x 4\\(\\lambda_1\\) = F<sub>2</sub>x -\\(\\lambda_2\\)<br><br>= \\(\\frac{F_2}{F_1}\\) = 3",
+        "correctIndex": 1,
+        "options": [
+            "8",
+            "3",
+            "2",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1983,
+        "question": "Which of the following is NOT a vector quantity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Force",
+            "Altitude",
+            "weight",
+            "Displacement",
+            "Acceleration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1983,
+        "question": "Which of the following statements about friction is NOT correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The force of kinetic friction is less than the force of static friction",
+            "The force of kinetic friction between two surfaces is independent of the areas in contact provided the normal reaction is unchanged",
+            "The force of rolling friction between two surfaces is less than the force of sliding friction",
+            "The angle of friction is the angle between the normal reaction and the force of friction",
+            "Friction may be reduced by lubriction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1983,
+        "question": "<p>The force with which an object is attracted to the earth is called its</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "acceleration",
+            "mass",
+            "gravity",
+            "impulse",
+            "weight"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1983,
+        "question": "The refractive index of liquid is 1.5. If the velocity of light in vacuum is 3.0 x 10<sup>8</sup>ms<sup>-1</sup>, the velocity of light in the liquid is",
+        "explanation": "n = \\(\\frac{\\text{speed in air}}{\\text{speed in glass}}\\)<br><br>1.5 = \\(\\frac{3\\times10^4}{\\text{speed in glass}}\\)<br><br>speed in glass = 2 x 10<sup>8</sup>ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "1.5 x 10<sup>8</sup>m<sup>-1</sup>",
+            "2.0 x 10<sup>8</sup>m<sup>-1</sup>",
+            "3.0 x 10<sup>8</sup>m<sup>-1</sup>",
+            "4.5 x 10<sup>8</sup>m<sup>-1</sup>",
+            "9.0 x 10<sup>8</sup>m<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1983,
+        "question": "If relative density of a metal is 19, what will be the mass of 20cm<sup>3</sup>of the metal when immersed in water?",
+        "explanation": "R.d = 19, therefore, density = 19gcm<sup>-3</sup><br><br>mass = velocity x density<br><br>= 20 x 19<br><br>= 380g",
+        "correctIndex": 0,
+        "options": [
+            "380g",
+            "400g",
+            "360g",
+            "39g",
+            "180g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1983,
+        "question": "Which of the following statements is true about liquid pressure is NOT correct? The pressure",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "at a point in a liquid is proportional to the depth",
+            "at any point in a liquid is the same at the same level",
+            "is exerted equally in all directions at any point",
+            "of a liquid at any point on the wall of its container acts in a direction perpendicular to the wall",
+            "at a particular depth depends on the shape of the vessel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1983,
+        "question": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms<sup>-1</sup>, how much closer is the ship to the cliff?",
+        "explanation": "Difference in time = 1 sec.<br><br>echo time = 1 \\(\\div\\) 2 = 0.5 sec.<br><br>= 0.5 x 250<br><br>= 125m",
+        "correctIndex": 1,
+        "options": [
+            "10m",
+            "125m",
+            "175m",
+            "350m",
+            "1,000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1983,
+        "question": "which of the following is NOT correct? i. the pitch of a sound note depends on the frequency of vibrations. ii. the intensity of a sound note is proportional to the amplitude of vibrations. iii. beats are produced by two sources of sound because one wave is travelling faster than the other. iv. when two sources of sound of frequencies 500Hz and 502Hz are sounded together, a beat frequency of 2Hz is observed. v. the first harmonic of a tone have double the frequency of the fundamental note.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii",
+            "ii and iii",
+            "i and iii",
+            "iii and iv",
+            "iv and v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1983,
+        "question": "Which of the following statements about defects of vision is/are CORRECT? i. for a long sighted person, close objects appear blurred. ii. for a short sighted person, distant objects appear blurred. iii. short sight is corrected by using a pair of converging lenses.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "ii only",
+            "i and ii only",
+            "ii and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1983,
+        "question": "The range of wavelengths of the visible spectrum is 400nm - 700nm. The wavelength of gamma rays is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "longer than 700nm",
+            "shorter than 700nm but longer then 400nm",
+            "550nm",
+            "shorter than 400nm",
+            "infinite"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1983,
+        "question": "If the pressure on 100cm<sup>3</sup>of an ideal gas is doubled while its kelvin temperature is halved, then the new volume of the gas will become",
+        "explanation": "\\(\\frac{P_1V_1}{T_1}\\) = \\(\\frac{P_2V_2}{T_2}\\)<br><br>P<sub>2</sub>= 2P<sub></sub>; T<sub>1</sub>= 2T<sub>2</sub><br><br>therefore, \\(\\frac{P_1 \\times 1000}{2T_2}\\) = \\(\\frac{2P_2 \\times V_2}{T_2}\\)<br><br>= 25cm",
+        "correctIndex": 0,
+        "options": [
+            "25cm<sup>3</sup>",
+            "50cm<sup>3</sup>",
+            "100cm<sup>3</sup>",
+            "200cm<sup>3</sup>",
+            "400cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1983,
+        "question": "A train has an initial velocity of 44ms<sup>-1</sup>and an acceleration of -4ms<sup>-1</sup>. Its velocity after 10 seconds is",
+        "explanation": "Using V = at + u<br><br>V = (-4 x 10) + 44<br><br>= 4ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2ms<sup>-1</sup>",
+            "4ms<sup>-1</sup>",
+            "8ms<sup>-1</sup>",
+            "12ms<sup>-1</sup>",
+            "16ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1983,
+        "question": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media? i. light is passing from optically denser medium to optically less dense medium. ii. light is passing from optically less dense medium to optically denser medium. iii. angle of incidence is greater. iv. angle of incidence is lesser",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "ii and iv only",
+            "i and iii only",
+            "ii and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1983,
+        "question": "<p>A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms-2, the power expended is</p>",
+        "explanation": "<p>Power = \\(\\frac{\\text{force x distance}}{\\text{time}}\\)<br>\n<br>\n= (50 x 10 x 5)  / 5= 100W</p>",
+        "correctIndex": 0,
+        "options": [
+            "100W",
+            "200W",
+            "250W",
+            "400W",
+            "500W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1983,
+        "question": "Which of the following arrangements in the sequence shown can be used to obtain a pure spectrum of white light?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "source, slit, converging lens, prism, converging lens, screen.",
+            "source, slit, diverging lens, prism, diverging lens, screen.",
+            "source, converging lens, prism, diverging lens, screen.",
+            "source, slit, prism, diverging lens, converging lens, screen.",
+            "source, slit, prism, diverging lens, sreen."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1983,
+        "question": "A milliameter with full scale deflection of 10mA has an internal resistance of 5 ohms. It would be converted to an ammeter with a full scale deflection of 1A by connecting a resistance of",
+        "explanation": "I = 1 - (10 x 10<sup>-3</sup>)<br><br>= 0.99A<br><br>IR = 10 x 10 x 10<sup>-3</sup>x 5<br><br>R = \\(\\frac{5}{99}\\)\\(\\Omega\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{5}{99}\\)ohms in series with it",
+            "\\(\\frac{5}{99}\\)ohms in parallel with it",
+            "\\(\\frac{99}{5}\\)ohms in series with it",
+            "\\(\\frac{99}{5}\\)ohms in parallel with it",
+            "2 ohms in series with it"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1983,
+        "question": "The linear expansivity of brass is 2 x 10<sup>-5</sup><sup>o</sup>C<sup>-1</sup>. If the volume of a piece of brass is 10cm<sup>3</sup>at 0<sup>o</sup>C, what will be its volume at 100<sup>o</sup>C?",
+        "explanation": "3 x \\(\\alpha\\) = \\(\\frac{V_2 - V_1}{\\Delta \\theta \\times V_1}\\)<br><br>3 x 2 x 10<sup>-5</sup>= \\(\\frac{V_2 - 10}{10 \\times 100}\\)<br><br>V<sub>2</sub>= 10.06cm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "10.02cm<sup>3</sup>",
+            "10.04cm<sup>3</sup>",
+            "10.06cm<sup>3</sup>",
+            "10.20cm<sup>3</sup>",
+            "102.00cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1983,
+        "question": "A 24V potential difference is applied across a parallel combination of four 6-ohms resistor, The current in each resistor is",
+        "explanation": "I = \\(frac{24}{6}\\)<br><br>= 4A",
+        "correctIndex": 1,
+        "options": [
+            "1A",
+            "4A",
+            "16A",
+            "18A",
+            "36A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1983,
+        "question": "The electrochemical equivalent of a metal is 0.126 x 10<sup>-6</sup>kgC<sup>-1</sup>. The mass of the metal that a current of 5A will deposit from a suitable bath in 1 hour is",
+        "explanation": "m = Itz<br><br>= 5 x 3600 x 0.126 x 10<sup>-6</sup><br><br>= 2.268 x 10<sup>-3</sup>kg",
+        "correctIndex": 4,
+        "options": [
+            "0.0378 x 10<sup>-3</sup>kg",
+            "0.227 x 10<sup>-3</sup>kg",
+            "0.378 x 10<sup>-3</sup>kg",
+            "0.595 x 10<sup>-3</sup>kg",
+            "2.268 x 10<sup>-3</sup>kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1983,
+        "question": "Ripples on water are similar to light waves in that they both",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "have the same wavelength",
+            "are longitudinal",
+            "cannot be reflected",
+            "travel at the same speed",
+            "can be refracted and diffracted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1983,
+        "question": "A piece of wood is floating on water. The forces acting on the wood are",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "upthrust and reaction",
+            "weight and reaction",
+            "weight and upthrust",
+            "upthrust and viscousity",
+            "weight and viscousity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1983,
+        "question": "<p>Of the following derived units, the one that is not a unit of power is</p>",
+        "explanation": "<p>Power = \\(\\frac{Work done}{time}\\) = \\(Js^{-1}\\)</p><p>Power = \\(current \\times voltage\\) = \\(Ampere volt\\)</p><p>Power = \\(\\frac{voltage^{2}}{resistance}\\) = \\(\\frac{volts^{2}}{ohm}\\)</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "joule/second",
+            "ampere volt",
+            "ampere<sup>2</sup>volt",
+            "volts<sup>2</sup>/ohm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1983,
+        "question": "a force of 16N applied 4.0kg block that is at rest on a smooth, horizontal surface. What is the velocity of the block at t = 5 seconds?",
+        "explanation": "F = ma<br><br>= \\(\\frac{m(u - v)}{t}\\)<br><br>16 = \\(\\frac{4(v - 0)}{5}\\)<br><br>v = 20ms<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "4ms<sup>-1</sup>",
+            "10ms<sup>-1</sup>",
+            "20ms<sup>-1</sup>",
+            "50ms<sup>-1</sup>",
+            "80ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1983,
+        "question": "1,000 identical drops of oil of density 500kgm<sup>-3</sup>have a total mass of 5 x 10<sup>-4</sup>kg. One of the drops forms a thin film of area 0.5m<sup>2</sup>on water. The thickness of the film is",
+        "explanation": "Mass of one oil = \\(\\frac{5 \\times 10^{-4}}{1000}\\)<br><br>= 5 x 10<sup>-4</sup>kg<br><br>Density = \\(\\frac{\\text {mass}}{\\text{area x thickness}}\\)<br><br>500 = \\(\\frac{5 \\times 10^{-7}}{\\text{0.5 x thickness}}\\)<br><br>thickness = 2 x 10<sup>-9</sup>m",
+        "correctIndex": 1,
+        "options": [
+            "2 x 10<sup>-8</sup>m",
+            "2 x 10<sup>-9</sup>m",
+            "2 x 10<sup>-7</sup>m",
+            "3 x 10<sup>-9</sup>m",
+            "2.8 x 10<sup>-8</sup>m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1983,
+        "question": "The total length of a spring when a mass of 20g is hung from its end is 14cm, while its total length is 16cm when a mass of 30g is hung from the same end. Calculate the unstretched length of the spring assuming Hooke's law is obeyed.",
+        "explanation": "Let unstretched length = L<br><br>e<sub>1</sub>= 14 - L and e<sub>2</sub>= 16 - L<br><br>Using, \\(\\frac{m_1}{e_1}\\) = \\(\\frac{m_2}{e_2}\\)<br><br>\\(\\frac{20}{14 - L}\\) = \\(\\frac{30}{16 - L}\\)<br><br>L = 10cm",
+        "correctIndex": 1,
+        "options": [
+            "9.33cm",
+            "10.00cm",
+            "10.66cm",
+            "12.00cm",
+            "15.00cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1983,
+        "question": "Which of the following statements is CORRECT? i. the mass number is equal to the total number of protons and electrons in an atom. ii. the atomic number is equal to the number of protons in an atom. iii. the number of electrons in an atom is equal to the total number of protons and neutrons in the nucleus.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i only",
+            "ii only",
+            "iii only",
+            "i and ii only",
+            "ii and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1983,
+        "question": "A short response to time is obtained in liquid-in-glass thermometer when the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "bulb is large and thick-walled",
+            "stem is long and thin",
+            "bulb is small and thicked-walled",
+            "liquid is of high density and the bore is large",
+            "bulb is thin-walled and the liquid is a good conductor of heat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1983,
+        "question": "A machine has a velocity ratio of 5. It requires a 50kg weight to overcome a 200kg weight. The efficiency is",
+        "explanation": "Efficiency = M.A x 100%<br><br>= \\(\\frac{200}{50}\\) x \\(\\frac{1}{5}\\) x 100<br><br>= 80%",
+        "correctIndex": 4,
+        "options": [
+            "4%",
+            "5%",
+            "40%",
+            "50%",
+            "80%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1983,
+        "question": "If the normal atmospheric pressure in a laboratory supports a column of mercury 0.76m high and the relative density of mercury is 13.8, then the height of water column which atmospheric pressure will support in the same laboratory at the same time is",
+        "explanation": "Density of H<sub>2</sub>O = 1gcm<sup>3</sup><br><br>Density x pressure = constant<br><br>D<sub>1</sub>x P<sub>1</sub>= D<sub>2</sub>x P<sub>2</sub><br><br>13.6 x 0.76 = 1 x P<sub>2</sub><br><br>P<sub>2</sub>= 10m",
+        "correctIndex": 1,
+        "options": [
+            "0m",
+            "10m",
+            "13m",
+            "14m",
+            "18m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1983,
+        "question": "An electric current of 3Aflowing through an electric heating elements of resistance 20 embedded in 1,000g of an oil raises the temperature of the oil by 10<sup>o</sup>C in 10 seconds then the specific heat capacity of the oil is",
+        "explanation": "Heat energy = Electrical energy<br><br>mc\\(\\Omega\\) = I<sup>2</sup>RTt<br><br>1000 x c x 10 = 3 x 3 x 20 x 10<br><br>0.18Jg<sup>-1</sup><sup>o</sup>C",
+        "correctIndex": 2,
+        "options": [
+            "1.8Jg<sup>-1</sup><sup>o</sup>C",
+            "0.6Jg<sup>-1</sup><sup>o</sup>C",
+            "0.18Jg<sup>-1</sup><sup>o</sup>C",
+            "18Jg<sup>-1</sup><sup>o</sup>C",
+            "0.06Jg<sup>-1</sup><sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1983,
+        "question": "The difference of potential between the terminals of cells is 2.2 volts. When a 4ohm resistor is connected across the terminals of this cells, the potential difference is 2 volts. What is the internal resistance of the cell?",
+        "explanation": "IR = 2 and Ir = 0.2<br><br>I = \\(\\frac{2}{R}\\) ; I = \\(\\frac{0.2}{r}\\)<br><br>\\(\\frac{2}{4}\\) = \\(\\frac{0.2}{r}\\)<br><br>r = 0.4\\(\\Omega\\)",
+        "correctIndex": 2,
+        "options": [
+            "0.10 ohms",
+            "0.25ohms",
+            "0.40ohms",
+            "2.50ohms",
+            "4.00ohms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1983,
+        "question": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "heat \\( \\to \\) light \\( \\to \\) sound \\( \\to \\) kinetic",
+            "kinetic \\( \\to \\) light \\( \\to \\) heat \\( \\to \\) electricity",
+            "heat \\( \\to \\) kinetic\\( \\to \\) electricity \\( \\to \\) heat \\( \\to \\) light",
+            "electricity \\( \\to \\) kinetic \\( \\to \\) heat v light",
+            "heat \\(\\ to \\) sound \\( \\to \\) kninetic v electricity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1983,
+        "question": "the speed of light in vacuum is 3.0 x 10<sup>8</sup>ms<sup>-1</sup>. If the refractive index of a transparent liquid is \\(\\frac{4}{3}\\), then the speed of light in the liquid is",
+        "explanation": "n = \\(\\frac{\\text{speed in air }}{\\text{speed in water }}\\)<br><br>\\(\\frac{4}{3}\\) = \\(\\frac{3 \\times 10^8}{v}\\)<br><br>v = 2.25 x 10<sup>8</sup>ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "0.44 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "2.25 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "3.0 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "4.0 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "4.33 x 10<sup>8</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1983,
+        "question": "<p>If the force of a charge of 0.2 coulomb in an electric field is 4N, then the electric field intensity of the field is</p>",
+        "explanation": "<p>Field intensity = \\(\\frac{force}{charge}\\)<br>\n<br>\n\\(\\frac{4}{0.2}\\) = 20N/C</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.8",
+            "0.8N/C",
+            "20.0N/C",
+            "4.2N/C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1983,
+        "question": "The specific latent heat of vaporization of a substance is always",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "less than its specific latent heat of fusion",
+            "greater than its specific heat of fusion",
+            "equal to its specific latent heat of fusion",
+            "all of the above depending on the nature of the substance",
+            "none of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1983,
+        "question": "Longitudinal waves do not exhibit",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Refraction",
+            "Reflection",
+            "Diffraction",
+            "Polarization",
+            "Rarefaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1983,
+        "question": "Which of the following may be used to determine the relative humidity in a physics laboratory<br><br>I. Manometer<br>II. Wet-and-Dry Bulb Hygrometer<br>III. Hair Hygrometer<br>IV. A Hydrometer",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I Only",
+            "II and III Only",
+            "II Only",
+            "III Only",
+            "II,IIIand IV Only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18958011891_19830010.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "horizontal",
+            "parallel to the mirror",
+            "at infinity",
+            "vertical",
+            "highly magnified"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24791267722_19830011.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The U-tube is completely filled with water and that P should be higher that W",
+            "P should be lower than O and W",
+            "P should be lower than W and O should reach the botton of the table",
+            "The U-tube is completely filled with water and that P should be lower that W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13124796471_19830009.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "V1 = V3 =V2/2",
+            "V1 = 2V2 = V3",
+            "V1=1/2V3 =V3",
+            "V2 - V1 = V3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24791290417_19830007.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Upward",
+            "North",
+            "South",
+            "West",
+            "East"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14583116860_19830006.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I and V",
+            "I and II",
+            "II and IV",
+            "II and V",
+            "III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17499746124_19830005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV",
+            "V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1983,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11666509872_19830003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I<sub>1</sub>",
+            "I<sub>2</sub>",
+            "I<sub>3</sub>",
+            "I<sub>4</sub>",
+            "I<sub>5</sub>"
+        ],
+        "type": "objectives"
+    }
+]

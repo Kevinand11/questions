@@ -1,0 +1,110 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1997,
+        "question": "<p>(a) Copy and complete the binary multiplication table:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>10</td>\n<td>11</td>\n<td>100</td>\n<td>101</td>\n</tr>\n<tr>\n<td>10</td>\n<td>100</td>\n<td> </td>\n<td>1000</td>\n<td> </td>\n</tr>\n<tr>\n<td>11</td>\n<td>110</td>\n<td> </td>\n<td>1100</td>\n<td> </td>\n</tr>\n<tr>\n<td>100</td>\n<td> </td>\n<td> </td>\n<td>10000</td>\n<td>10100</td>\n</tr>\n</tbody>\n</table><p>(b) Convert \\(11.011_{two}\\)  to a number in base ten.</p><p>(c) Simplify \\(\\frac{9.6 \\times 10^{18}}{0.24 \\times 10^{5}}\\) and express your answer in the form \\(P \\times 10^{m}\\) where 1 &lt; P &lt; 10 and m is an integer.</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>10</td>\n<td>11</td>\n<td>100</td>\n<td>101</td>\n</tr>\n<tr>\n<td>10</td>\n<td>100</td>\n<td>110</td>\n<td>1000</td>\n<td>1010</td>\n</tr>\n<tr>\n<td>11</td>\n<td>110</td>\n<td>1001</td>\n<td>1100</td>\n<td>1111</td>\n</tr>\n<tr>\n<td>100</td>\n<td>1000</td>\n<td>1100</td>\n<td>10000</td>\n<td>10100</td>\n</tr>\n</tbody>\n</table><p>(b) \\(11.011_{two} = 1 \\times 2^{1} + 1 \\times 2^{0} + 0 \\times 2^{-1} + 1 \\times 2^{-2} + 1 \\times 2^{-3}\\)</p><p>= \\(2 + 1 + 0 + \\frac{1}{4} + \\frac{1}{8}\\)</p><p>= \\(3\\frac{3}{8}\\)</p><p>= \\(3.375\\)</p><p>(c) \\(\\frac{9.6 \\times 10^{18}}{0.24 \\times 10^{5}} \\equiv \\frac{9.6 \\times 10^{18}}{2.4 \\times 10^{4}}\\)</p><p>= \\(\\frac{9.6}{2.4} \\times 10^{18 - 4}\\)</p><p>= \\(4 \\times 10^{14}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1997,
+        "question": "<p>(a) The 6th term of an A.P is 35 and the 13th term is 77. Find the 20th term.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0339%20%282%29.jpg\" style=\"height:236px; width:250px\"> </p><p>The Venn diagram represents three subsets P, Q and R of the universal set U. Copy the Venn diagram. Shade and indicate the regions represented by (i) \\(P \\cap Q' \\cap R\\) ; (ii) \\(P' \\cap Q \\cap R'\\).</p>",
+        "answer": "<p>(a) \\(T_{n} = a + (n - 1)d\\) (terms of an A.P)</p><p>\\(T_{6} = a + 5d = 35 ... (1)\\)</p><p>\\(T_{13} = a + 12d = 77 ... (2)\\)</p><p>(2) - (1) : \\(7d = 42 \\implies d = 6\\)</p><p>\\(a + 5(6) = 35 \\implies a + 30 = 35\\)</p><p>\\(a = 5\\)</p><p>\\(\\therefore T_{20} = a + 19d = 5 + 19(6)\\)</p><p>= \\(5 + 114 = 119\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0341%20%282%29.jpg\" style=\"height:281px; width:300px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1997,
+        "question": "<p>(a) Given that \\(\\sin x = \\frac{5}{13}, 0° \\leq x \\leq 90°\\), find \\(\\frac{\\cos x - 2 \\sin x }{2\\tan x}\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0340%20%282%29.jpg\" style=\"height:150px; width:250px\"></p><p> The diagram represents the vertical cross-section of a mountain with height NQ standing on a horizontal ground PRN. If the angles of elevation of the top of the mountain from P and R are 30° and 70° respectively and PR = 500m, calculate, correct to 3 significant figures :</p><p>(i) |QP| ; (ii) the height of the mountain.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0341%20%283%29.jpg\" style=\"height:179px; width:250px\"> </p><p>\\(\\sin x = \\frac{5}{13}\\)</p><p>\\(AB = \\sqrt{13^{2} - 5^{2}} = 12\\)</p><p>\\(\\cos x = \\frac{12}{13}\\)</p><p>\\(\\tan x = \\frac{5}{12}\\)</p><p>\\(\\frac{\\cos x - 2 \\sin x}{2 \\tan x} = \\frac{\\frac{12}{15} - 2(\\frac{5}{13})}{2(\\frac{5}{12})}\\)</p><p>= \\(\\frac{\\frac{12}{13} - \\frac{10}{13}}{\\frac{5}{6}}\\)</p><p>= \\(\\frac{2}{13} \\times \\frac{6}{5} = \\frac{12}{65}\\)</p><p>(b) (i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0341%20%284%29.jpg\" style=\"height:154px; width:250px\"></p><p>&lt; QRP = 180° - 70° = 110° (angles on a straight line)</p><p>&lt; RQP = 180° - (110° + 30°) = 40° </p><p>\\(\\frac{PR}{\\sin 40°} = \\frac{PQ}{\\sin 110°}\\)</p><p>\\(\\frac{500}{\\sin 40°} = \\frac{PQ}{\\sin 110°}\\)</p><p>\\(PQ = \\frac{500 \\sin 110°}{\\sin 40°} = 730.94m\\)</p><p>\\(\\approxeq 731 m\\)</p><p>(ii) \\(\\sin 30° = \\frac{QN}{PQ} = \\frac{QN}{730.94}\\)</p><p>\\(QN = 730.94 \\times 0.5 = 365.47 m\\)</p><p>\\(\\approxeq 365 m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1997,
+        "question": "<p>The table below shows how a company's sales manager spent his 1995 annual salary.</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>Food</td>\n<td>30%</td>\n</tr>\n<tr>\n<td>Rent</td>\n<td>18%</td>\n</tr>\n<tr>\n<td>Car Maintenance</td>\n<td>25%</td>\n</tr>\n<tr>\n<td>Savings</td>\n<td>12%</td>\n</tr>\n<tr>\n<td>Taxes</td>\n<td>5%</td>\n</tr>\n<tr>\n<td>Others </td>\n<td>10%</td>\n</tr>\n</tbody>\n</table><p>(a) Represent this information on a pie chart.</p><p>(b) Find his savings at the end of the year if his annual salary was N60,000.00.</p><p> </p>",
+        "answer": "<p>Angle of sector:</p><p>\\(Food = \\frac{30}{100} \\times 360° = 108°\\)</p><p>\\(Rent = \\frac{18}{100} \\times 360° = 64.8°\\)</p><p>\\(\\text{Car Maintenance} = \\frac{25}{100} \\times 360° = 90°\\)</p><p>\\(Savings = \\frac{12}{100} \\times 360° = 43.2°\\)</p><p>\\(Taxes = \\frac{5}{100} \\times 360° = 18°\\)</p><p>\\(Others = \\frac{10}{100} \\times 360° = 36°\\)</p><p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0341%20%285%29.jpg\" style=\"height:224px; width:250px\"></p><p>(b) Annual Salary = N60,000.00</p><p>\\(\\therefore Savings = N(\\frac{12}{100} \\times 60,000) = N7,200\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1997,
+        "question": "<p>(a) Given that \\(\\frac{5y - x}{8y + 3x} = \\frac{1}{5}\\), find the value of \\(\\frac{x}{y}\\) to two decimal places.</p><p>(b) If 3 is a root of the quadratic equation \\(x^{2} + bx - 15 = 0\\), determine the value of b. Find the other root.</p>",
+        "answer": "<p>(a) \\(\\frac{5y - x}{8y + 3x} = \\frac{1}{5}\\)</p><p>\\(5(5y - x) = 8y + 3x \\implies 25y - 5x = 8y + 3x\\)</p><p>\\(25y - 8y = 3x + 5x \\implies 17y = 8x\\)</p><p>\\(\\therefore \\frac{x}{y} = \\frac{17}{8} = 2.125 \\approxeq 2.13\\)</p><p>(b) \\(x^{2} + bx - 15 = 0\\)</p><p>Since x = 3 is a root of the equation, f(3) = 0.</p><p>\\(3^{2} + 3b - 15 = 0 \\implies 3b = 6\\)</p><p>\\(b = 2\\)</p><p>\\(\\therefore\\) The equation is \\(x^{2} + 2x - 15 = 0\\)</p><p>\\(x^{2} - 3x + 5x - 15 = 0 \\implies x(x - 3) + 5(x - 3) = 0\\)</p><p>\\((x - 3)(x + 5) = 0\\)</p><p>The second root of the equation is x = -5.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1997,
+        "question": "<p>(a) Use logarithm tables to evaluate \\(\\frac{15.05 \\times \\sqrt{0.00695}}{6.95 \\times 10^{2}}\\).</p><p>(b) The first 5 students to arrive in a school on a Monday morning were 2 boys and 3 girls. Of these, two were chosen at random for an assignment. Find the probability that :</p><p>(i) both were boys ; (ii) the two were of different sexes.</p>",
+        "answer": "<p>(a) \\(\\frac{15.05 \\times \\sqrt{0.00695}}{6.95 \\times 10^{2}}\\)</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>No</td>\n<td>Log</td>\n</tr>\n<tr>\n<td>15.05</td>\n<td>\\(1.1775  = 1.1775\\)</td>\n</tr>\n<tr>\n<td>\\(\\sqrt{0.00695}\\)</td>\n<td>\\(\\bar{3}.8420 \\div 2 = \\bar{2}.9210\\)</td>\n</tr>\n<tr>\n<td> </td>\n<td>                      = 0.0985</td>\n</tr>\n<tr>\n<td>\\(6.95 \\times 10^{2}\\)</td>\n<td>                      - 2.8420</td>\n</tr>\n<tr>\n<td>Antilog = 0.001805</td>\n<td>                = \\(\\bar{3}.2565\\)</td>\n</tr>\n</tbody>\n</table><p>\\(\\therefore \\frac{15.05 \\times \\sqrt{0.00695}}{6.95 \\times 10^{2}} \\approxeq 0.00181\\) (3 sig. figs)</p><p>(b) No of boys = 2, No of girls = 3</p><p>\\(\\therefore\\) Total students = 5</p><p>(i) P(both are boys) = \\(\\frac{2}{5} \\times \\frac{1}{4} = \\frac{1}{10}\\)</p><p>(ii) P(both are of different sexes) = P(first a boy, then a girl) or P(first a girl, then a boy)</p><p>= \\(\\frac{2}{5} \\times \\frac{3}{4} + \\frac{3}{5} \\times \\frac{2}{4} \\)</p><p>= \\(\\frac{6}{20} + \\frac{6}{20}\\)</p><p>= \\(\\frac{12}{20} = \\frac{3}{5}\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1997,
+        "question": "<p>(a) Using a ruler and a pair of compasses only, construst \\(\\Delta\\) ABC in which |AB| = 7cm, |BC| = 5cm and &lt; ABC = 75°. Measure |AC|.</p><p>(b) In (a) above, locate by construction, a point D such that CD is parallel to AB and D is equidistant from points A and C. Measure &lt; BAD.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0341%20%286%29.jpg\" style=\"height:310px; width:400px\"></p><p>|AC| = 8.35 cm, &lt; BAD = 70°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1997,
+        "question": "<p>(a) Solve the simultaneous equation : \\(\\log_{10} x + \\log_{10} y = 4\\)</p><p>                                                            \\(\\log_{10} x + 2\\log_{10} y = 3\\)</p><p>(b) The time, t, taken to buy fuel at a petrol station varies directly as the number of vehicles V on queue and jointly varies inversely as the number of pumps P available in the station. In a station with 5 pumps, it took 10 minutes to fuel 20 vehicles. Find :</p><p>(i) the relationship between t, P and V ; (ii) the time it will take to fuel 50 vehicles in the station with 2 pumps ; (iii) the number of pumps required to fuel 40 vehicles in 20 minutes.</p>",
+        "answer": "<p>(a) \\(\\log_{10} x + \\log_{10} y = 4 ... (1)\\)</p><p>\\(\\log_{10} x + 2 \\log_{10} y = 3 ...(2)\\)</p><p>\\((1) \\implies \\log_{10} (xy) = 4 \\therefore xy = 10^{4} ... (3)\\)</p><p>\\((2) \\implies \\log_{10} (xy^{2}) = 3 \\therefore xy^{2} = 10^{3} ... (4)\\)</p><p>Divide (4) by (3) :</p><p>\\(y = 10^{-1} = 0.1\\)</p><p>Put y in (3), we have</p><p>\\(\\frac{x}{10} = 10^{4} \\implies x = 10^{5}\\)</p><p>\\((x, y) = (10^{5}, 10^{-1})\\)</p><p>(b) (i) \\(t \\propto \\frac{V}{P}\\)</p><p>\\(t = \\frac{kV}{P}\\)</p><p>when t = 10, V = 20 and P = 5.</p><p>\\(10 = \\frac{20k}{5} \\implies 50 = 20k\\)</p><p>\\(k = \\frac{5}{2}\\)</p><p>\\(\\therefore t = \\frac{5V}{2P}\\)</p><p>(ii) When V = 50, P = 2, we have</p><p>\\(t = \\frac{5(50)}{2(2)} = \\frac{250}{4}\\)</p><p>= \\(62.5 minutes\\)</p><p>(iii) when V = 40, t = 20 minutes </p><p>\\(20 = \\frac{5(40)}{2P} \\implies 40P = 200\\)</p><p>\\(P = \\frac{200}{40} = 5 pumps\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1997,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0340%20%283%29.jpg\" style=\"height:270px; width:250px\">  The solid is a cylinder surmounted by a hemispherical bowl. Calculate its</p><p>(a) total surface area ;</p><p>(b) volume (Take \\(\\pi = \\frac{22}{7}\\))</p>",
+        "answer": "<p>(a) Area of curved surface of cylinder = \\(2\\pi r h\\)</p><p>= \\(2 \\times \\frac{22}{7} \\times 7 \\times 10cm^{2} = 440 cm^{2}\\)</p><p>Area of the base of cylinder = \\(\\pi r^{2}\\)</p><p>= \\(\\frac{22}{7} \\times 7 \\times 7 = 154 cm^{2}\\)</p><p>Surface area of hemisphere =  \\(\\frac{4\\pi r^{2}}{2} = 2 \\pi r^{2}\\)</p><p>= \\(2 \\times \\frac{22}{7} \\times 7 \\times 7  = 308 cm^{2}\\)</p><p>\\(\\therefore\\) Total surface area = 440 + 154 + 308 = 902cm\\(^{2}\\)</p><p>(b) Volume of cylinder = \\(\\pi r^{2} h\\)</p><p>= \\(\\frac{22}{7} \\times 7 \\times 7 \\times 10 = 1540 cm^{3}\\)</p><p>Volume of hemisphere = \\(\\frac{1}{2}(\\frac{4\\pi r^{3}}{3})\\)</p><p>= \\(\\frac{4 \\times 22 \\times 7 \\times 7 \\times 7}{2 \\times 7 \\times 3}\\)</p><p>= \\(718.67 cm^{3}\\)</p><p>Total volume = 1540 + 718.67 = 2258.67 cm\\(^{3}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1997,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0340%20%284%29.jpg\" style=\"height:492px; width:400px\"></p><p>Above is the graph of the quadratic function \\(y = ax^{2} + bx + c\\) where a, b and c are constants. Using the graph, find :</p><p>(a)(i) the scales on both axes ; (ii) the equation of the line of symmetry of the curve ; (iii) the roots of the quadratic equation \\(ax^{2} + bx + c = 0\\)</p><p>(b) Use the coordinates of D, E and G to find the values of the constants a, b and c hence write down the quadratic function illustrated in the graph.</p><p>(c) Find the greatest value of y within the range \\(-3 \\leq x \\leq 5\\).</p>",
+        "answer": "<p>(a)(i) Scale : On x- axis, 2cm = 1 unit</p><p>                     On y- axis, 2cm = 5 units.</p><p>(ii) Equation of line of symmetry is x = 1.25.</p><p>(iii) Roots of the equation \\(ax^{2} + bx + c = 0\\) are x = 0.25 and x = 2.25.</p><p>(b) Coordinates are D(0, 1), E(1, -2) and G(3, 4).</p><p>Substituting for y and x  in \\(ax^{2} + bx + c = y\\)</p><p>D(0, 1) : \\(1 = a(0^{2}) + b(0) + c  \\implies c = 1\\)</p><p>E(1, -2) : \\(-2 = a(1^{2}) + b(1) + c \\implies -2 = a + b + c\\)</p><p>\\(a + b = -2 - 1 = -3 ... (1)\\)</p><p>G(3, 4) : \\(4 = a(3^{2}) + b(3) + c \\implies 4 = 9a + 3b + c\\)</p><p>\\(9a + 3b = 4 - 1 = 3 ... (2)\\)</p><p>\\(\\implies 3a + b = 1 ... (2a)\\)</p><p>(2a) - (1) : \\(2a = 4 \\implies a = 2\\)</p><p>\\(a + b = -3 \\implies 2 + b = -3\\)</p><p>\\(b = -3 - 2 = -5\\)</p><p>\\(\\therefore\\) The equation is \\(y = 2x^{2} - 5x + 1\\)</p><p>(c) The greatest value of y = 33.5.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1997,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0340%20%285%29.jpg\" style=\"height:248px; width:250px\"> PQRST is a circle with centre C. PCS is a straight line, RS // QT, |QR| = |RS| and &lt; QTS = 56°. Find (i) SQT (ii) PQT.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0340%20%286%29.jpg\" style=\"height:196px; width:250px\">   In the diagram, points B and C are on a horizontal plane and |BC| = 30cm. A and D are points vertically above B and C respectively. |DC| = 40 cm and |AB| = 26 cm. Calculate the angles of depression of : (i) B from D ; (ii) A from D ; correct to the nearest degree.</p>",
+        "answer": "<p>(a) From the figure &lt; QRS = 180° - 56° = 124° (opposite angles of a parallelogram)</p><p>\\(\\therefore\\) &lt; RQS = &lt; PQS = \\(\\frac{180° - 124°}{2} = 28°\\) (base angles of an isosceles triangle)</p><p>\\(\\therefore\\) &lt; SQT = &lt; RSQ = 28° (alternate angles PS // QT)</p><p>(ii) &lt; PQT = 90° - 28° = 62° (&lt; PQS is in a semi-circle)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%2813%29.jpg\" style=\"height:311px; width:250px\"> </p><p>\\(\\tan &lt; BDC = \\frac{30}{40} = 0.75\\)</p><p>\\(&lt; BDC = \\tan^{-1} (0.75) = 36.87°\\)</p><p>\\(\\therefore &lt; BDF = 90° - 36.87° = 53.13° \\approxeq 53°\\)</p><p>\\(\\tan &lt; ADF = \\frac{14}{30} = 0.4667\\)</p><p>\\(&lt; ADF = \\tan^{-1} (0.4667) = 25.02° \\approxeq 25°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1997,
+        "question": "<p>The table below shows the mark distribution of candidates in an aptitude test for selection into the public service.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>Marks (in %)</td>\n<td>Freq</td>\n</tr>\n<tr>\n<td>44 - 46</td>\n<td>2</td>\n</tr>\n<tr>\n<td>47 - 49</td>\n<td>5</td>\n</tr>\n<tr>\n<td>50 - 52</td>\n<td>11</td>\n</tr>\n<tr>\n<td>53 - 55</td>\n<td>20</td>\n</tr>\n<tr>\n<td>56 - 61</td>\n<td>42</td>\n</tr>\n<tr>\n<td>62 - 64</td>\n<td>46</td>\n</tr>\n<tr>\n<td>65 - 67</td>\n<td>36</td>\n</tr>\n<tr>\n<td>68 - 70</td>\n<td>9</td>\n</tr>\n<tr>\n<td>71 - 73</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>(a) Make a cumulative frequency for the distribution</p><p>(b) Draw the cumulative frequency curve.</p><p>(c) From your graph, estimate the median mark.</p><p>(d) The cut-off mark was 63%. What percentage of the candidates was selected?</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks (in %)</td>\n<td>Freq</td>\n<td>Class boundaries</td>\n<td>Cum Freq</td>\n</tr>\n<tr>\n<td>44 - 46</td>\n<td>2</td>\n<td>43.5 - 46.5</td>\n<td>2</td>\n</tr>\n<tr>\n<td>47 - 49</td>\n<td>5</td>\n<td>46.5 - 49.5</td>\n<td>7</td>\n</tr>\n<tr>\n<td>50 - 52</td>\n<td>11</td>\n<td>49.5 - 52.5</td>\n<td>18</td>\n</tr>\n<tr>\n<td>53 - 55</td>\n<td>20</td>\n<td>52.5 - 55.5</td>\n<td>38</td>\n</tr>\n<tr>\n<td>56 - 61</td>\n<td>42</td>\n<td>55.5 - 61.5</td>\n<td>80</td>\n</tr>\n<tr>\n<td>62 - 64</td>\n<td>46</td>\n<td>61.5 - 64.5</td>\n<td>126</td>\n</tr>\n<tr>\n<td>65 - 67</td>\n<td>36</td>\n<td>64.5 - 67.5</td>\n<td>162</td>\n</tr>\n<tr>\n<td>68 - 70</td>\n<td>9</td>\n<td>67.5 - 70.5</td>\n<td>171</td>\n</tr>\n<tr>\n<td>71 - 73</td>\n<td>3</td>\n<td>70.5 - 73.5</td>\n<td>174</td>\n</tr>\n</tbody>\n</table><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29%2811%29.jpg\" style=\"height:637px; width:400px\"></p>",
+        "type": "theory"
+    }
+]

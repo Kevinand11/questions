@@ -1,0 +1,817 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1979,
+        "question": "The density 400cm<sup>3</sup>of palm oil was 0.9gcm<sup>-3</sup>before frying. If the density of the oil was 0.6gm<sup>-3</sup>after frying,assuming no loss of oil due to spilling, its new volume was",
+        "explanation": "Since no loss of oil,<br><br>Density x volume = constant<br><br>D<sub>1</sub>V<sub>1</sub>= D<sub>2</sub>x V<sub>2</sub><br><br>0.9 x 400 = V<sub>2</sub><br><br>V<sub>2</sub>= 600cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "360cm<sup>3</sup>",
+            "600cm<sup>3</sup>",
+            "240cm<sup>3</sup>",
+            "800cm<sup>3</sup>",
+            "450cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1979,
+        "question": "Which of the following statements defines correctly the efficiency of a machine?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the load carried by the machine divided by effort required in carrying the load",
+            "the distance moved by the load divided by the distance moved by the effort",
+            "the useful work done by the machine divided by the total work put into the machine",
+            "the movement of the load divided by the movement of the effort about the same point",
+            "the temperature at the end of the application of the machine divided by the initial temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1979,
+        "question": "A 500kg car which was initially at rest travelled with an acceleration of 5m sec<sup>-2</sup>, its kinetic energy after 4 seconds was",
+        "explanation": "K.E = \\(\\frac{1}{2}\\)mv<sup>2</sup>; m (at + u)<sup>2</sup><br><br>since, v = at + u = \\(\\frac{1}{2}\\) x 500 [(5 x 4)+ 0]<sup>2</sup><br><br>= 10<sup>5</sup>J",
+        "correctIndex": 0,
+        "options": [
+            "10<sup>5</sup>J",
+            "2.5 x 10<sup>3</sup>J",
+            "2 x 10<sup>3</sup>J",
+            "5 x 10<sup>3</sup>J",
+            "5 x 10<sup>5J`</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1979,
+        "question": "<p>Two closed vessels contain equal volumes of boiling water and are identical except that one is blackened on the outside while the other is polished. Which of the following is correct?</p>",
+        "explanation": "<p>Black objects heat up faster than shiny ones, but they cool down faster too.</p>",
+        "correctIndex": 4,
+        "options": [
+            "the polished vessel will cool faster because a polished surface is a good radiator",
+            "the polished vessel will cool faster because it will absorbe less heat from the room",
+            "the black vessel will cool faster because it is a better conductor of heat",
+            "the polished vesselwill cool faster because it reflects heat better",
+            "the black vessel will cool faster because a black surface radiates heat faster than a polished one"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1979,
+        "question": "The temperature at which the water vapour present in the air saturates the air and begins to condense is known as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "boiling point",
+            "melting point",
+            "triple point",
+            "dew point",
+            "critical temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1979,
+        "question": "Which of the following types of waves cannot travel through a vacuum?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "sound waves",
+            "light waves",
+            "infra-red waves",
+            "x-radiation",
+            "redio waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1979,
+        "question": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of",
+        "explanation": "In simple pendulum, T = 2\\(\\pi\\)\\(\\sqrt\\frac{L}{g}\\)<br><br>\\(\\frac{T_2}{T_1}\\) = \\(\\sqrt\\frac{L_1}{L_2}\\) but, L<sub>2</sub>= 4L<sub>1</sub><br><br>\\(\\frac{T_2}{T_1}\\) = \\(\\sqrt\\frac{L_1}{4L_1}\\)<br><br><br>T<sub>2</sub>= 4T<sub>1</sub>",
+        "correctIndex": 4,
+        "options": [
+            "4",
+            "\\(\\frac{\\pi}{2}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "2\\(\\pi\\)",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1979,
+        "question": "In what range of temperature is the expansion of water anomalous?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "+208<sup>o</sup>C to +212<sup>o</sup>C",
+            "-80<sup>o</sup>C + -76<sup>o</sup>C",
+            "-4<sup>o</sup>C to 0<sup>o</sup>C",
+            "+96<sup>o</sup>C to +100<sup>o</sup>C",
+            "0<sup>o</sup>C to +4<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1979,
+        "question": "When the vapour of a substance is in equilibrium with its own liquid, it is said to be",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "gaseous",
+            "unsaturated",
+            "liquefied",
+            "diffused",
+            "saturated"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1979,
+        "question": "<p>If the wavelength of a wave travelling with a velocity of 360ms-1 is 60m, the period of the wave is</p>",
+        "explanation": "<p>V = \\(\\alpha\\)F and F = \\(\\frac{1}{T}\\)<br>\n<br>\nv = \\(\\frac{\\pi}{T}\\)<br>\n<br>\nT = \\(\\frac{60}{360}\\)<br>\n<br>\nT = 0.17s</p>",
+        "correctIndex": 2,
+        "options": [
+            "6s",
+            "3.6s",
+            "0.17s",
+            "0.61s",
+            "3s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1979,
+        "question": "The heights of the mercury thread in a mercury-in-glass thermometer when in melting ice and then in steam are 3cm and 18cm respectively. At a temperature of 60<sup>o</sup>C the height would be",
+        "explanation": "18cm .... 100<sup>o</sup>C<br><br>x .... 60<sup>o</sup>C<br><br>3cm .... 0<sup>o</sup>C<br><br>\\(\\frac{x - 3}{18 - 3}\\) = \\(\\frac{60 - 0}{100 - 0}\\)<br><br>= 12cm",
+        "correctIndex": 3,
+        "options": [
+            "7.5cm",
+            "9cm",
+            "10.8cm",
+            "12cm",
+            "12.6cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1979,
+        "question": "An object is placed 30cm from a concave mirror of focal length 15cm. the linear magnification of the image produced is",
+        "explanation": "U = 30cm = 2f = r<br><br>V = 30cm<br><br>hence, m = \\(\\frac{v}{u}\\) = \\(\\frac{30}{30}\\)<br><br>= 1",
+        "correctIndex": 2,
+        "options": [
+            "o",
+            "\\(\\frac{2}{3}\\)",
+            "1",
+            "2",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1979,
+        "question": "If a given mass at constant pressure obeys the relation...volume is proportional to the absolute temperature...the gas is said to obey",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Hooke's Law",
+            "Boyle's Law",
+            "Dalton's Law",
+            "Charles' Law",
+            "Newton's Law"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1979,
+        "question": "A man standing between two parallel mirrors in a barber's shop will see the following number of his own image",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "eight",
+            "two",
+            "four",
+            "one",
+            "infinite"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1979,
+        "question": "Which of the following statements is incorrect? The sensitivity of a galvanometer which incorporates an optical lever arrangement may be increased by providing",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "a larger number of turns in the coil",
+            "a thinner suspension with a small torsional control",
+            "a special alloy permanent magnet which gives a high magnetic flux",
+            "all of the above",
+            "a light source with a greater intensity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1979,
+        "question": "A landlord has eight 40W electric light bulbs, four 60W bulbs and two 100W bulb in his house. If he has all the points on for five hours daily and if N.E.P.A. charges 5k per unit, his bill for 30 days is",
+        "explanation": "Total power = (8 x 40) + (40 x 60) + (2 x 100)<br><br>= 760W<br><br>Energy(Kwhr) = power x time<br><br>= 760 x 10<sup>-3</sup>x 150<br><br>= 114kwhr.<br><br>If, 1kwhr. cost 5k<br><br>thus, 114 kwhr. will cost 5 x 114<br><br>= N5.70",
+        "correctIndex": 0,
+        "options": [
+            "N5.70",
+            "N7.23",
+            "N3.65",
+            "N8.05",
+            "N4.50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1979,
+        "question": "Which of the following statements is correct? The reading of pressure on a mercury barometer is independent of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the cross-sectional area of the tube",
+            "the atmospheric pressure",
+            "the density of mercury",
+            "the temperature of mercury",
+            "the acceleration due to gravity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1979,
+        "question": "What are the units of thermal conductivity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "kg.m.sec<sup>2</sup>",
+            "Joule sec<sup>-1</sup>m<sup>-1</sup>k<sup>-1</sup>",
+            "kg.m",
+            "Newton sec<sup>-1</sup>m<sup>2</sup>",
+            "m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1979,
+        "question": "Which of the following statements is correct? The magnetized state of an iron bar can be destroyed completely by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "heating the bar to a high temperature",
+            "breaking the bar",
+            "connecting opposite poles with a small piece of iron",
+            "placing the bar inside a strong magnetic field",
+            "none of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1979,
+        "question": "An electric cell has an internal resistance of 2 ohms. A current of 0.5A is found to flow when a resistor of 5 ohms resistance is connected across it. What is the electromotive force of the cell?",
+        "explanation": "E.m.f. = I(R + r) = 0.5(2+5) = 3.5 volts",
+        "correctIndex": 1,
+        "options": [
+            "5 volts",
+            "3.5 volts",
+            "2.5 volts",
+            "1 volts",
+            "10 volts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1979,
+        "question": "Which of the following is the correct definition of 'half-life'?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the average life-time of a radioactive material",
+            "the time it takes a radioactive material to decay to half of its original quantity",
+            "half the period a radioactive material decays completely",
+            "half of the decay constant",
+            "the decay constant times life-time"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1979,
+        "question": "The bulb of a motorcycle head-lamp is marked 40W, 6V. The resistance of the filament when it is switched on is",
+        "explanation": "Power \\(\\frac{V^2}{R}\\)<br><br>40 = \\(\\frac{6 \\times 6}{r}\\)<br><br>R = \\(\\frac{36}{40}\\)\\(\\Omega\\)",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{6^2}{40^2}\\)ohms",
+            "\\(\\frac{40}{6^2}\\)ohms",
+            "\\(\\frac{40}{6}\\)ohms",
+            "6 x 40 ohms",
+            "\\(\\frac{6^2}{40}\\)ohms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1979,
+        "question": "In an electrolysis experiment, a cathode of mass 5g is found o weigh 5.01g after a current of 5A flows for 50 seconds. What is the electrochemical equivalent of the deposited substance?",
+        "explanation": "M = Itz<br><br>5.01 - 5.00 = 50 x 5 x z<br><br>z = 0.00004g/C",
+        "correctIndex": 0,
+        "options": [
+            "0.00004g/C",
+            "0.00002g/C",
+            "0.02500g/C",
+            "0.05000g/C",
+            "0.00001g/C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1979,
+        "question": "Which of the following statements about radioactivity are true? i. alpha particle is positively charged ii. Beta particle is negatively charged iii. Gamma ray is neutral iv. Beta particle has the same mass as helium atom v. Gamma ray is charged",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i, ii, iii and iv only",
+            "iv and v only",
+            "i, ii and iii only",
+            "i, ii and v only",
+            "all"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1979,
+        "question": "<p>Consider a thick glass tumbler and a thin glass tumbler which are made of the same kind of glass. Some hot liquid is poured into them. Which of the following statements is correct?</p>",
+        "explanation": "<p>Usually,  when pour water into a glass, the more thick glass is easier to break. Because the glass tumbler is cold, when hot water is poured, and the inner wall expands rapidly due to thermal expansion and contraction. </p>",
+        "correctIndex": 3,
+        "options": [
+            "the thick tumbler is less likely to crack because it is stronger",
+            "the thick tumbler is less likely to crack because it insulates the heat beter, glass being a poor conductor of heat",
+            "Both tumblers are equally likely to crack because they are made of the same kind of glass",
+            "the thick tumbler is more likely to crack because uneven expansion persists for a longer time within the thicker glass",
+            "the thick tumbler is more likely to crack because it is heavier"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1979,
+        "question": "A capacitor and a resistor are connected in series with each other and in series with an accumulator of negligible internal resistance. The potential across the terminals of the capacitor is",
+        "explanation": "In D.C circuit,<br><br>X<sub>c</sub>= infinity<br><br>therefore, V<sub>c</sub>= infinity",
+        "correctIndex": 4,
+        "options": [
+            "twice the e.m.f of the accumulator",
+            "less than the e.m.f by the potential drop across the resistor",
+            "zero",
+            "the same as the e.m.f.",
+            "greater than"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1979,
+        "question": "Which of the following statements is true? The frequency of a vibrating string is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "proportional to its length",
+            "inversely proportional to the tension within it",
+            "proportional to the aptitude of vibration",
+            "inversely proportional to its cross-section",
+            "proportional to the square root of the tension within it"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1979,
+        "question": "An air bubble rises from the bottom to the top of a water dam which is 40m deep. The volume of the bubble just below the surface is 2.5cm<sup>3</sup>. Find its volume at the bottom of the dam, if atmospheric pressure is equivalent to 10m water",
+        "explanation": "At constant temperature P<sub>1</sub>V<sub>1</sub>= P<sub>2</sub>V<sub>2</sub><br><br>P<sub>2</sub>= P<sub>1</sub>+ 40<br><br>= 10 + 40 = 50m<br><br>10 x 2.5 = 50 x V<sub>2</sub><br><br>V<sub>2</sub>= 0.5cm<sup>3</sup>",
+        "correctIndex": 4,
+        "options": [
+            "0.0cm<sup>3</sup>",
+            "2.0cm<sup>3</sup>",
+            "1.6cm<sup>3</sup>",
+            "0.625cm<sup>3</sup>",
+            "0.5cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1979,
+        "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Radio waves",
+            "X-rays",
+            "Infra-red",
+            "Blue light",
+            "Ultraviolet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1979,
+        "question": "All the heat generated in a 5 ohms resistor by 2A flowing for 30 seconds is used to evaporate 5g of a liquid at its boiling point. Which of the following is the correct value of the specific latent heat of the liquid?",
+        "explanation": "Heat energy = Electrical energy<br><br>mL = I<sup>2</sup>RT<br><br>5 x L = 2 x 2 x 5 x 30<br><br>L = 120Jg<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "120J",
+            "60Jg<sup>-1</sup>",
+            "120Jg<sup>-1</sup>",
+            "1500J",
+            "1500Jg<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1979,
+        "question": "The speed of light in air is 3 x 10<sup>8</sup>ms<sup>-1</sup>. If the refractive index of light from air-to-water is \\(\\frac{4}{3}\\), then which of the following is the correct value of the speed of light in water?",
+        "explanation": "Air to water = \\(\\frac{\\text{speed in air}}{\\text{speed in water}}\\)<br><br>\\(\\frac{4}{3}\\) = \\(\\frac{3 \\times 10^8}{V}\\)<br><br>4V = 3(3 x 10<sup>8</sup>)<br><br>V = \\(\\frac{3(3 \\times 10^8)}{4}\\)<br><br>V = 2.25 x 10<sup>8</sup>ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "4 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "2.25 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "\\(\\frac{4}{9}\\) x 10<sup>8</sup>ms<sup>-1</sup>",
+            "2.25 x 10<sup>2</sup>ms<sup>-1</sup>",
+            "4.33 x 10<sup>8</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1979,
+        "question": "On which of the following is the operation of a moving coil galvanometer based?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Magnetic effect of electric current",
+            "Electromagnetic induction",
+            "Chemical reaction produced by electricity",
+            "Force on current carrying conductor in a magnetic field",
+            "Electrical energy and power"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1979,
+        "question": "A body is released from rest and allowed to fall freely from a given height under gravity. The kinetic energy at its half-way point is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a little above half of its initial energy",
+            "a little below half of its initial energy",
+            "a half of its initioal energy",
+            "a little above its initial energy",
+            "a little below its initial energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1979,
+        "question": "It is known that a neutron exists in a light atomic nucleus. Which of the following also exists in the nucleus?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "an electron",
+            "a \\(\\beta\\)-particle",
+            "an \\(\\alpha\\)-particle",
+            "a proton",
+            "an atom"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1979,
+        "question": "<p>A weight of 1000 grams hangs from a lever 20cm to the fulcrum. At the left is a 500-gram weight 20cm from the fulcrum, and a 200-gram weight x cm away from the fulcrum. What is the value of x that will make the lever balanced?</p>",
+        "explanation": "<p>Taking moment about F,<br>\n<br>\n200(X + 20) + (500 x 20) = (1000 x 20)</p><p>200X + 4000 + 10000 = 20000</p><p>200X + 14000 = 20000</p><p>200X = 20000 - 14000</p><p>200X = 6000</p><p>X = 30cm</p>",
+        "correctIndex": 3,
+        "options": [
+            "50cm",
+            "20cm",
+            "10cm",
+            "30cm",
+            "70cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1979,
+        "question": "Radio carrier waves are generated by causing electrons to oscillate rapidly in",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "a microphone",
+            "a television camera",
+            "an antenna",
+            "coaxial cables",
+            "a transmitter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1979,
+        "question": "Which of the following statements is correct? Silvered walls of a vacuum flask are used to prevent",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "heat loss due to conduction",
+            "vacuum loss",
+            "heat entry into the inner flask due to convection",
+            "heat loss due to radiation",
+            "heat loss due to convection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1979,
+        "question": "A concave lens of focal length 20cm form an image 1/2 the size of the object. The object distance is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "100cm",
+            "\\( \\frac{100}{q} \\)",
+            "60cm",
+            "\\( \\frac{60}{7} \\)",
+            "None of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16040359786_19790002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "A Compound Microscope",
+            "astronomical telescope",
+            "binocular",
+            "periscope",
+            "projection lantern"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11665718744_19790003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.5 ohm",
+            "0.62 ohm",
+            "1.0 ohm",
+            "2.0 ohm",
+            "3.0 ohm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10207505994_19790004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "90cm",
+            "76cm",
+            "75cm",
+            "60cm",
+            "50cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4374646098_19790005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "128HZ",
+            "256HZ",
+            "512HZ",
+            "768HZ",
+            "1024HZ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2916431290_19790007.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "4m",
+            "3.5m",
+            "3m",
+            "\\( 6 \\frac{2}{3} \\)m",
+            "7m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16040380279_19790006.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The wire will experience a force in the direction into the paper",
+            "The wire will experience a force in the direction out of the paper",
+            "The wire will vibrate in a direction into and out of the paper",
+            "the wire will move in the direction of the field i.e toward the s-pole",
+            "the wire will not move because it is made of copper which is non magnetic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20415030790_19790008.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "p",
+            "q",
+            "r",
+            "s",
+            "t"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26247970908_19790010.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "30",
+            "35",
+            "70",
+            "24.25",
+            "impossible to find"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5832883932_19790009.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "12/13A",
+            "13/12A",
+            "1/3A",
+            "3A",
+            "12/7A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10207586620_197912.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "900m",
+            "1920m",
+            "960m",
+            "860m"
+        ],
+        "type": "objectives"
+    }
+]

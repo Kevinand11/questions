@@ -1,0 +1,995 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2015,
+        "question": "<p>In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate</p>",
+        "explanation": "<p>Percentage birthrate = \\(\\frac{62}{6250} \\times 100%\\)</p><p>= \\(\\frac{6200}{6250}\\)</p><p>= 0.992% \\(\\approx\\) 1.0%.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3%",
+            "1.0%",
+            "2.5%",
+            "5.40%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2015,
+        "question": "Simplify 1¼ ÷ (2 ÷ ¼ of 28)",
+        "explanation": "1¼ ÷ [ 2 ÷ ¼] of 28<br><br>Apply BODMAS rules<br><br>\\( \\frac{5}{4}\\) ÷ [ 2 ÷ ¼ × 28 ]<br><br>\\( \\frac{5}{4} ÷ \\frac{2}{7} \\)<br><br><br>\\( \\frac{5}{4} × \\frac{7}{2} \\)<br><br>\\( \\frac{35}{8}\\)<br><br>= \\(4 \\frac{3}{8}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1 \\( \\frac{3}{8}\\)",
+            "2 \\( \\frac{3}{4}\\)",
+            "4 \\( \\frac{3}{8}\\)",
+            "3 \\( \\frac{1}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2015,
+        "question": "Factorize x<sup>2</sup>+ 9x + 20",
+        "explanation": "\\( x^2 + 9x + 20 \\)<br><br>Find the two numbers whose product is 20 and its sum is 9}<br><br>\\( 5x \\times 4x = 20x^2\\)<br><br><br>\\(5x + 4x = 9x\\)<br><br>\\((x^2 + 5x) + (4x + 20)\\)<br>\\(<br><br>x(x + 5)+ 4(x + 5)<br><br>= (x + 5)(x + 4)\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "(x − 5)<sup>2</sup>",
+            "(x + 5)(x + 4)",
+            "(x – 5)(x + 3)",
+            "(x + 3)<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2015,
+        "question": "<p>If three staff of Myschool Limited agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is N120,000.00K, How much does the second staff received?</p>",
+        "explanation": "<p>Total of their ages: 18 + 20 + 22 = 60</p><p>The second staff will get \\(\\frac{20}{60} \\times 120,000\\)</p><p>= N40,000.00K</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "N36,000",
+            "N44,000",
+            "N40,000",
+            "N15,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2015,
+        "question": "<p>X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y}</p>",
+        "explanation": "<p>n(X ∪ Y) = n(X) + n(Y) − n(X ∩ Y)<br>\n<br>\n= 15 + 12 − 7<br>\n<br>\n∴ n(X ∪ Y) = 20</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "21",
+            "225",
+            "15",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2015,
+        "question": "<p>Find the x and z intercepts of the graph of 3x - z \\(\\leq\\) 9</p>",
+        "explanation": "<p>Starting from 3x − z \\(\\leq\\) 9<br>\n<br>\nx = 0, substitute the value of x (i.e. x = 0) into the equation 3x − z \\(\\leq\\) 9<br>\n<br>\n3(0) − z \\(\\leq\\) 9<br>\n<br>\nz \\(\\leq\\) − 9<br>\n<br>\nIf z = 0<br>\n<br>\nThen, 3x − 0 \\(\\leq\\) 9<br>\n<br>\n3x \\(\\leq\\) 9<br>\n<br>\nx \\(\\leq\\) 3<br>\n<br>\nIntercept of x and z i.e (x,z)<br>\n<br>\n= (3, -9)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "(3, -9)",
+            "(-3, 9)",
+            "(-3, -9)",
+            "(-3, 0)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2015,
+        "question": "Simplify log<sub>10</sub>1.5 + 3 log<sub>10</sub>2 − log<sub>10</sub>0.3",
+        "explanation": "log<sub>10</sub>1.5 + 3 log<sub>10</sub>2 − log<sub>10</sub>0.3<br><br>log<sub>10</sub>1.5 + log<sub>10</sub>23 − log<sub>10</sub>0.3<br><br>[log<sub>10</sub>(1.5 × 23) ÷ log<sub>10</sub>0.3]<br><br>[log<sub>10</sub>(15/10 × 8 ) ÷ log<sub>10</sub>( 3/10)]<br><br>log<sub>10</sub>(15/10 × 8 × 10/3 )<br><br>log<sub>10</sub>40<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "log<sub>10</sub>4",
+            "log<sub>10</sub>40",
+            "log<sub>10</sub>-40",
+            "log<sub>10</sub>4<sup>-</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2015,
+        "question": "<p>Find the total surface area of a cylinder of base radius 5cm and length 7cm ( π = 3.14)</p>",
+        "explanation": "<p>The total surface area of a cylinder = 2πrl + 2πr2<br>\n<br>\n= 2πr(l + r)<br>\n<br>\n= 2 × 3.14 x 5(7+5)<br>\n<br>\n2 × 3.14 × 12 x 5<br>\n<br>\n= 377.1cm (1DP)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 4,
+        "options": [
+            "17.8cm<sup>2</sup>",
+            "15.8cm<sup>2</sup>",
+            "75.4cm<sup>2</sup>",
+            "54.7cm<sup>2</sup>",
+            "\\(377.0cm^{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2015,
+        "question": "<p>If x + y = 90 simplify (sinx + siny)2−2sinxsiny</p>",
+        "explanation": "<p>Given: \\(x + y = 90° ... (1)\\)</p><p>\\((\\sin x + \\sin y)^{2} - 2\\sin x \\sin y = \\sin^{2} x + \\sin^{2} y + 2\\sin x \\sin y - 2\\sin x \\sin y\\)</p><p>= \\(\\sin^{2} x + \\sin^{2} y ... (2)\\)</p><p>Recall: \\(\\sin x = \\cos (90 - x) ... (a)\\)</p><p>From (1), \\(y = 90 - x ... (b)\\)</p><p>Putting (a) and (b) in (2), we have</p><p>\\(\\sin^{2} x + \\sin^{2} y \\equiv \\cos^{2} (90 - x) + \\sin^{2} (90 - x)\\)</p><p>= 1</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1",
+            "0",
+            "2",
+            "-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2015,
+        "question": "<p>A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year?</p>",
+        "explanation": "<p>His annual salary = N2000<br>\n<br>\nHis allowances = N600<br>\n<br>\nSo his taxable income = Annual salary − allowance<br>\n<br>\n= N2000 − N600<br>\n<br>\n= N1400<br>\n<br>\nHe pay at 5%<br>\n<br>\nThen, his allowance income tax 5/100 × 1400 = N70</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "15",
+            "50",
+            "70",
+            "25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2015,
+        "question": "<p>Solve the equation \\( 3x^2 − 4x − 5 = 0 \\)</p>",
+        "explanation": "<p>Using the quadratic formula, we have</p><p>\\(x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}\\)</p><p>From the equation \\(3x^{2} - 4x - 5 = 0\\), a = 3, b = -4 and c = -5.</p><p>\\(\\therefore x = \\frac{-(-4) \\pm \\sqrt{(-4)^{2} - 4(3)(-5)}}{2(3)}\\)</p><p>= \\(\\frac{4 \\pm \\sqrt{16 + 60}}{6}\\)</p><p>= \\(\\frac{4 \\pm \\sqrt{76}}{6}\\)</p><p>= \\(\\frac{4 \\pm 8.72}{6}\\)</p><p>= \\(\\frac{4 + 8.72}{6} \\text{ or } \\frac{4 - 8.72}{6}\\)</p><p>= \\(\\frac{12.72}{6} \\text{ or } \\frac{-4.72}{6}\\)</p><p>\\(x = \\text{2.12 or -0.79}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "x = 1.75 or − 0.15",
+            "x = 2.12 or − 0.79",
+            "x = 1.5 or − 0.34",
+            "x = 2.35 or −1.23"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2015,
+        "question": "<p>The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms</p>",
+        "explanation": "<p>nth term of a linear sequence (AP) = a+(n − 1)d<br>\n<br>\nfirst term = 6, last term = 10 sum − 40<br>\n<br>\ni.e. a = 6, l = 10, S = 40<br>\n<br>\nS\\(_{n}\\)= n/2(2a + (n − 1)d or Sn = ÷2 (a + l)<br>\n<br>\nS\\(_{n}\\) = n/2(a + l)<br>\n<br>\n40 = n/2(6 + 10)<br>\n<br>\n40 = 8n<br>\n<br>\n8n = 40<br>\n<br>\n8n = 40<br>\n<br>\nn = 40/8<br>\n<br>\n= 5<br>\n<br>\nThe number of terms = 5</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "nth = 3",
+            "nth = 4",
+            "nth = 5",
+            "nth = 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2015,
+        "question": "<p>Find the equation of a line which is form origin and passes through the point (−3, −4)</p>",
+        "explanation": "<p>The slope of the line from (0, 0) passing through (-3, -4) = \\(\\frac{-4 - 0}{-3 - 0}\\)</p><p>= \\(\\frac{4}{3}\\)</p><p>Equation of a line is given as \\(y = mx + b\\), where m = slope and b = intercept.</p><p>To get the value of b, we use a point on the line, say (0, 0).</p><p>\\(y = \\frac{4}{3} x + b\\)</p><p>\\(0 = \\frac{4}{3}(0) + b\\)</p><p>\\(b = 0\\)</p><p>The equation of the line is \\(y = \\frac{4}{3} x\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "y = \\( \\frac{3x}{4} \\)",
+            "y = \\( \\frac{4x}{3} \\)",
+            "y = \\( \\frac{2x}{3} \\)",
+            "y = \\( \\frac{x}{2} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2015,
+        "question": "<p>The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)\\(^n\\). Find A, if P = 126, r = 4 and n = 2.</p>",
+        "explanation": "<p>\\( A = P \\left(1 + \\frac{r}{100}\\right)^n \\)<br>\n<br>\nWhere P = 126, r = 4,n = 2<br>\n<br>\nA=126 \\( \\left(1 + \\frac{4}{100}\\right)^2 \\text{Using LCM} \\)<br>\n<br>\n=126 \\( \\left(\\frac{100+4}{100}\\right)^2 = 126 \\left(\\frac{104}{100}\\right)^2 \\)<br>\n<br>\n<br>\n=126 \\( \\left(1.04^2 \\right) \\)<br>\n<br>\n= 126 * 1.04 * 1.04<br>\n<br>\n=136.28<br>\n<br>\nA = 136.30 (approx.)<br>\n<br>\nThe Amount A, = N136.30k</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "N132.50K",
+            "N136.30K",
+            "N125.40K",
+            "N257.42K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2015,
+        "question": "<p>Make x the subject of the equation<br>\ns = 2 + \\(\\frac{t}{5} \\)(x + ⅗y)</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "x = 5[(s − 2) ÷ t] - 3/5y",
+            "x = 25[(s − 2) ÷ t] − 3ty",
+            "x = [1 ÷ (s − 2)3ty]",
+            "x = [5(s − 2) 2 ÷ 3ty] × t"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2015,
+        "question": "If log<sub>5</sub>20 = x, find x",
+        "explanation": "log<sub>5</sub>20 = x<br><br>5x = 20(Take log<sub>10</sub>of both sides)<br><br>log<sub>5x</sub>= log<sub>20</sub><br><br>xlog<sub>5</sub>= log<sub>20</sub><br><br>x= [log<sub>20</sub>÷ log<sub>5</sub>]<br><br>[1.30103 ÷ 0.69897]<br><br>x = 1.861<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.761",
+            "1.354",
+            "1.861",
+            "2.549"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2015,
+        "question": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years.",
+        "explanation": "I = A − P<br><br>= N588 − N525<br><br>∴I = N63<br><br>I = PRT ÷ 100<br><br>R = [100I ÷PT]<br><br>R = [(100 × 63 ) ÷ (525 × 3)]<br><br>= (6300 ÷ 1575) = 4<br><br>∴ The rate = 4 %<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "3%",
+            "2%",
+            "5%",
+            "4%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2015,
+        "question": "Given that A = {1, 5, 7}<br><br>B = {3, 9, 12, 15}<br><br>C = {2, 4, 6, 8}<br><br>Find (A ∪ B) ∪ C",
+        "explanation": "{A ∪ B ∪ C}<br><br>{A ∪ B} = {1, 3, 5, 7, 9, 12, 15}<br><br>∪ C={2,4,6,8}<br><br>{A ∪ B} ∪ C = {1, 3, 5, 7, 9, 12, 15} ∪ {2, 4, 6, 8}<br><br>= {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}<br><br>{A ∪ B} ∪ C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+            "{1, 2, 3, 5, 6, 8, 12, 15}",
+            "{2, 4, 5, 9, 12, 15}",
+            "{1, 5, 6, 7, 8, 9, 12, 15}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2015,
+        "question": "<p>The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.</p>",
+        "explanation": "<p>Let the extension be E and the tension be T.</p><p>Then \\(E \\propto T\\)</p><p>\\(E = kT\\)</p><p>when T = 8N, E = 2cm</p><p>\\(2 = k \\times 8\\)</p><p>\\(k = \\frac{2}{8} = 0.25\\)</p><p>\\(\\therefore E = 0.25T\\)</p><p>when T = 12N, \\(E = 0.25 \\times 12 = 3cm\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2015,
+        "question": "Factorize \\( x^2 − 2x − 15 \\)",
+        "explanation": "x<sup>2</sup>− 2x − 15<br><br>(x<sup>2</sup>− 5x) + (3x − 15)<br><br>x(x − 5)+ 3(x − 5)<br><br>(x − 5)(x + 3)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "(x + 3)<sup>2</sup>",
+            "(x + 5)(x − 3)",
+            "(x − 5)<sup>2</sup>",
+            "(x − 5)(x + 3)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2015,
+        "question": "<p>If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point</p>",
+        "explanation": "<p>The coordinate of the midpoint is \\((\\frac{-3 + 4}{2}, \\frac{5 + (-1)}{2})\\)</p><p>= \\((\\frac{1}{2}, 2)\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2, ½",
+            "½ , 2",
+            "1, ½",
+            "0, 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2015,
+        "question": "Find the simple interest on N325 in 5years at 3% per annum.",
+        "explanation": "I =[ PRT ÷ 100]<br><br>[(325 × 5 × 3) ÷ (100)]<br><br>N(195 ÷ 4)<br><br>N48.75K<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "N48.75K",
+            "N50.10K",
+            "N75.50K",
+            "N15.75K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2015,
+        "question": "Simplify (0.09)<sup>2</sup>and give your answer correct to 4 significant figures",
+        "explanation": "(0.09)<sup>2</sup>= 0.09 × 0.09<br><br>= 0.0081<br><br>= 0.008100 to 4 significant figures<br><br>Please, start counting first from the non-zero digits i.e. 8<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.81",
+            "0.081",
+            "0.0081",
+            "8.0001"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2015,
+        "question": "Simplify \\( [1 ÷ (x^2 + 3x + 2)] + [1 ÷ (x^2 + 5x + 6)] \\)",
+        "explanation": "\\( [1 ÷ (x^2 + 3x + 2)] + [1 ÷ (x^2 + 5x + 6)] \\)<br><br>= \\( 1 ÷ (x^2 + 3x + 2) + [1 ÷ (x^2 +5x + 6)]\\)<br><br>= \\( [1 ÷ ((x^2 + x) + (2x + 2) )] + [1 ÷ ((x^2 + 3x) + (2x + 6) )] \\)<br><br>= [1 ÷ (x(x + 2) + 2(x +1))] + [1 ÷ (x(x + 3) +2(x + 3) )]<br><br>= [1 ÷ (x + 1)(x + 2)] + [1 ÷ ((x + 3) + (x + 2))]<br><br>=((x + 3) + (x + 1)) ÷ (x + 1)(x + 2)(x + 3)<br><br>Using the L.C.M<br><br>=((x + x + 3 + 1)) ÷ (x + 1)(x + 2)(x + 3)<br><br>=(2x+4)/(x+1)(x+2)(x+3) =2(x+2)/(x+1)(x+2)(x+3)<br><br>= \\( \\frac{2 }{(x + 1)(x + 3)} \\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\( \\frac{2}{(x + 1)^2} \\)",
+            "\\( \\frac{2}{(x + 1)(x + 2} \\)",
+            "\\( \\frac{2}{(x + 1)(x + 2} \\)",
+            "\\( \\frac{2}{(x + 1)(x + 3} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2015,
+        "question": "<p>One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue</p>",
+        "explanation": "<p><br>\n<br>\n </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\( \\frac{2}{15} \\)",
+            "\\( \\frac{3}{24} \\)",
+            "\\( \\frac{3}{21} \\)",
+            "\\( \\frac{3}{28} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2015,
+        "question": "<p>Given that A = {3, 4, 1, 10, ⅓ }<br>\n<br>\nB = {4, 3,⅓, ⅓, 7}.<br>\n<br>\nFind A∩B</p>",
+        "explanation": "<p>A ∩ B = {3, 4, ⅓}</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "{}",
+            "{⅓, 1, 2}",
+            "{3, 4, ⅓}",
+            "{1, 3, ⅓}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2015,
+        "question": "Find x if 132<sub>x</sub>= 70<sub>eight.</sub>",
+        "explanation": "132<sub>x</sub>= 70<sub>8</sub><br><br>\\( 1 × x^2 + 3 × x^1 + 2 × x^0 \\)<br><br>\\( 7 × 8^1 + 0 × 8^0 \\)<br><br>\\( x^2 + 3x + 2 − 56 = 0 \\)<br><br>\\( x^2 + 3x − 54 = 0 \\)<br><br>x(x + 9)−6(x + 9) = 0<br><br>(x + 9)(x − 6) = 0<br><br>Either (x + 9) = 0 or (x − 6) = 0<br><br>x = − 9 or +6<br><br>The positive values for x = 6<br><br>The base number for 132<sub>x</sub>= 132<sub>6</sub><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "3",
+            "6",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2015,
+        "question": "<p>A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him?</p>",
+        "explanation": "<p>Cost Price:<br>\n<br>\nSelling price = 100 : (100 + 15)<br>\n<br>\n= 100 : 115<br>\n<br>\nCost Price<br>\n<br>\n= 100 ÷ 115 of selling price (i.e N420,000)<br>\n<br>\n= 100 ÷ 115 × N420,000<br>\n<br>\n= N365,217.4<br>\n<br>\n∴ Cost Price = N365, 217</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "N410,000",
+            "N365, 217",
+            "N157, 250",
+            "N257,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2015,
+        "question": "Find the value of x if \\( [ 1 ÷ 64^{(x + 2)}]= [4^{(x − 3)} ÷ 16^x ] \\)",
+        "explanation": "\\( [ 1 ÷ 64^{(x + 2)}]= [4^{(x − 3)} ÷ 16^x ] \\)<br><br>\\( 64^{−(x + 2)} = [4^{(x − 3)}] ÷[16^x] \\)<br><br>breakdown 4,16,64 into a small index no<br><br>\\( 2^{−6(x + 2)} = 2^{2(x − 3)} ÷ 2^{4(x)} \\)<br><br>\\( 2^{−6x− 12} = 2^{2x − 4x − 6} \\)<br><br>\\( 2^{−6x −12} = 2^{−2x − 6} \\)<br><br>− 6x − 12 = − 2x − 6<br><br>Collect the like term<br><br>−6x + 2x = −6 + 12<br><br>−4x =6<br><br>x = \\( \\frac{6}{4} \\)<br><br>x = \\( \\frac{−3}{2} \\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\( \\frac{3}{2} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( \\frac{1}{3} \\)",
+            "\\( -\\frac{3}{2} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2015,
+        "question": "Solve x<sup>2</sup>− 2x − 3 = 0",
+        "explanation": "x<sup>2</sup>− 2x − 3 = 0<br><br>−3x + x = − 2x<br><br>− 3x × x = − 3x<sup>2</sup><br><br>(x<sup>2</sup>− 3x)(x − 3) = 0<br><br>(x − 3)(x + 1) = 0<br><br>Either (x − 3) = 0 or (x + 1) = 0<br><br>x = 3 or − 1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "x = 2 or 1",
+            "x = 3 or -1",
+            "x = 1 or 0",
+            "x = 1 or 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2015,
+        "question": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)",
+        "explanation": "“Explanation<br><br>V = πr<sup>2</sup>h<br><br>V = ?, h = 4cm, r = 5cm<br><br>V = 3.14(5)<sup>2</sup>(4)<br><br>V = 3.14(25)(4)<br><br>V = 3.14 × 1200<br><br>= 314cm<sup>2</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "3.13cm<sup>2</sup>",
+            "145cm<sup>2</sup>",
+            "314cm<sup>2</sup>",
+            "214cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2015,
+        "question": "<p>The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\( \\frac{2}{15} \\)",
+            "\\( \\frac{3}{4} \\)",
+            "\\( \\frac{9}{15} \\)",
+            "\\( \\frac{1}{15} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2015,
+        "question": "<p>If (159.75)10 = (x)6. Find x</p>",
+        "explanation": "<p>(159.75)10 = (y)6<br>\n<br>\n\\( \\begin{array}{c|c}<br>\n6 &amp; 159 \\\\<br>\n\\hline<br>\n6 &amp; 26 \\text{ rem 3} \\\\<br>\n6 &amp; 4 \\text{ rem 2} \\\\<br>\n&amp; 0 \\text{ rem 4} \\\\<br>\n\\end{array}\\uparrow \\)<br>\n<br>\n15910 = 4236<br>\n<br>\nThen Convert 0.75 to base 6<br>\n<br>\n0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5<br>\n0.5 x 6 = 3.00 423 + 1.5 =424.5<br>\n<br>\n159.75 = (424.5)6<br>\n<br>\n(159)10 = (424.5)6</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "x<sub>6</sub>= 123.34<sub>6</sub>",
+            "x<sub>6</sub>= 424.5<sub>6</sub>",
+            "x<sub>6</sub>= 122.43<sub>6</sub>",
+            "x<sub>6</sub>= 124.45<sub>6</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2015,
+        "question": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
+        "explanation": "Percentage Loss = (actual loss ) ÷ (Cost price) × 100<br><br>Actual loss = Cost Price − Selling Price (sold price)<br><br>= N800 − N520 = N280<br><br>Percentage loss = (280 ÷ 800) × 100 = 35%<br><br>∴ His loss percent = 35%<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "15%",
+            "25%",
+            "35%",
+            "10%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2015,
+        "question": "Simplify \\(6\\frac{1}{12} − 2 ¾ + 1 ½ \\)",
+        "explanation": "6½ − 2¾ + 1½<br><br>73/12 − 11/4 + 3/2<br><br>[(73 − 33 + 18) ÷ (12)]<br><br>58/12<br><br>29/6<br><br>\\( 4\\frac{5}{6}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\( 3 \\frac{5}{6}\\)",
+            "\\( 4 \\frac{5}{6}\\)",
+            "\\( 2 \\frac{1}{6}\\)",
+            "\\( \\frac{1}{3} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2015,
+        "question": "<p>Find the distance between the points (-2,-3) and (-2,4)</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "3m",
+            "2.4m",
+            "3.2m",
+            "7.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2015,
+        "question": "<p>Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively</p>",
+        "explanation": "<p>1st G.P. = a =2<br>\n<br>\n2nd G.P. = ar\\(^{2 −1}\\) = 54<br>\n<br>\n2(r) = 54<br>\n<br>\nr = 54/2 = 27<br>\n<br>\nr = 27<br>\n<br>\n3rd term = ar\\(^2\\) = (2) (27)\\(^2\\)<br>\n<br>\n2 × 27 × 27<br>\n<br>\n= 1458</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1458",
+            "1485",
+            "1345",
+            "1258"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2015,
+        "question": "Given that S and T are sets of real numbers such that S = {x : 0 \\(\\leq\\) x \\(\\leq\\) 5} and T = {x : − 2 &lt; x &lt; 3} Find S \\(\\cup\\) T",
+        "explanation": "S = {0, 1, 2, 3, 4, 5}<br><br>T = {− 1, 0, 1, 2}<br><br>S \\(\\cup\\) T = {− 1, 0, 1, 2, 3, 4, 5 }<br><br>⇒ − 2 &lt; x ≤ 5<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "−3 &lt; x &lt; \\(\\leq\\)3",
+            "−2&lt; x &lt; \\(\\leq\\)5",
+            "2&lt; x &lt; \\(\\geq\\) −5",
+            "−1&lt; x \\(\\geq\\) \\(\\leq\\)2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2015,
+        "question": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization.",
+        "explanation": "[Return ÷ Investment] as a ratio ;<br><br>i.e The Ratio is Return : Investmen<br><br>[(Return1÷ Investment1 ) = (Return2÷ Investment2)]<br><br>R1 = N 25000<br><br>R2 =?<br><br>I1 = N450,000,<br><br>I1 = N 700000<br><br>(25000 ÷ 450000) = (R2 ÷ 700000)<br><br>R2 = [(25000 × 700000 ) ÷ 450000]<br><br>= N38,888.90K<br><br>∴ The return on a investment of Y = N38888.90K<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "N14,950.50K",
+            "N25,150.30K",
+            "N15,000.00K",
+            "N38,888.90K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2015,
+        "question": "Evaluate log<sub>7</sub>17",
+        "explanation": "log<sub>7</sub>17<br><br>= [log 17 ÷ log7]<br><br>= [1.2304 ÷ 0.8451]<br><br>[10<sup>0.0899</sup>÷ 10<sup>1.9270</sup>]<br><br>= 1.455(antilog)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.35",
+            "1.353",
+            "1.455",
+            "0.455"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2015,
+        "question": "10011<sub>2</sub>+ *****<sub>2</sub>+ 11100<sub>2</sub>+ 101<sub>2</sub>= 1001111<sub>2</sub>",
+        "explanation": "Convert the binary to base 10 and they convert back to base two<br><br>10011<sub>2</sub>+ xxxxx<sub>2</sub>+ 11100<sub>2</sub>+ 101<sub>2</sub>= 1001111<sub>2</sub><br><br><br>(1 × 2<sup>4</sup>+ 0 × 2<sup>3</sup>+ 1 × 2<sup>2</sup>+ 1 × 2<sup>1</sup>+ 1 × 2<sup>0</sup>) + xxxxx<sub>2</sub>+(1 × 2<sup>4</sup>+ 1 × 2<sup>3</sup>+ 1 × 2<sup>2</sup>+ 0 × 2<sup>1</sup>+ 0 × 2<sup>0</sup>) + (1 × 2<sup>2</sup>+ 0 × 2<sup>1</sup>+ 1 × 2<sup>0</sup>)<br><br>= (16 + 0 + 0 + 2 + 1) + xxxxx<sub>2</sub>+ (16 + 8 + 4 + 0 + 0 ) + (4 + 0 + 1)<br><br>=(64 + 0 + 0 + 8 + 4 + 2 + 1)<br><br>19 + xxxxx<sub>2</sub>+ 33 = 79<br><br>xxxxx<sub>2</sub>+ 52 = 79<br><br>xxxxx<sub>2</sub>= 79 − 52<br><br>xxxxx<sub>2</sub>= 27<sub>10</sub><br><br>\\( \\begin{array}{c|c}<br>2 &amp; 27 \\\\<br>\\hline<br>2 &amp; 13 \\text{ rem 1}\\\\<br>2 &amp; 6 \\text{ rem 1}\\\\<br>2 &amp; 3 \\text{ rem 0}\\\\<br>2 &amp; 1 \\text{ rem 1}\\\\<br>&amp; 0 \\text{ rem 1}\\\\<br>\\end{array}\\uparrow \\)<br><br>27<sub>10</sub>= 11011<sub>2</sub><br><br>Therefore xxxxx<sub>2</sub>= 27<sub>10</sub>= 11011<sub>2</sub><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "1111<sub>2</sub>",
+            "11011<sub>2</sub>",
+            "10111<sub>2</sub>",
+            "11001<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2015,
+        "question": "<p>Evaluate log5(\\( y^2x^5 ÷ 125b½) \\)</p>",
+        "explanation": "<p>\\(\\log_{5}(y^{2} x^{5} \\div 125b^{\\frac{1}{2}})\\)</p><p>= \\(\\log_{5} y^{2} + \\log_{5} x^{5} - [\\log_{5} 125 + \\log_{5} b^{\\frac{1}{2}}\\)</p><p>= \\(2\\log_{5} y + 5\\log_{5} x - \\log_{5} 5^{3} - \\frac{1}{2} \\log_{5} b\\)</p><p>= \\(2\\log_{5} y + 5\\log_{5} x - 3 - \\frac{1}{2}\\log_{5} b\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "2 log<sub>5</sub>y + 5log<sub>5</sub>y<sup>2</sup>− 3",
+            "log<sub>5</sub>y<sup>2</sup>+ 5log<sub>5</sub>x + 3",
+            "25log<sub>y</sub>5 + 3",
+            "2log<sub>5</sub>y + 5log<sub>5</sub>x − ½ log<sub>5</sub>b −3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2015,
+        "question": "<p>Integral ∫\\( (5x^3 + 7x^2 − 2x + 5)\\)dx</p>",
+        "explanation": "<p>\\(\\int (5x^{3} + 7x^{2} - 2x + 5) \\mathrm d x\\)</p><p>= \\(\\frac{5x^{4}}{4} + \\frac{7x^{3}}{3} - \\frac{2x^{2}}{2} + 5x + c\\)</p><p>= \\(\\frac{5x^{4}}{4} + \\frac{7x^{3}}{3} - x^{2} + 5x + c\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\( \\frac{5x^4}{4} + \\frac{7x^3}{3} + 2x + C \\)",
+            "\\( \\frac{5x^4}{4} + \\frac{7x^3}{3} - x^2 + 5x + C \\)",
+            "\\( \\frac{5x^3}{3} + \\frac{7x^2}{x} - x + C \\)",
+            "\\( \\frac{2x^2}{3} + \\frac{x}{5} - C \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2015,
+        "question": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)",
+        "explanation": "Find the slant height<br><br>\\( l^2 = h^2 + r^2(h = 4cm,r = 3cm)\\)<br><br>\\( l^2 = 4^2 + 3^2 = 16 + 9 = 25 \\)<br><br>\\( l^2 = √ 25 \\)<br><br>Squaring both sides<br><br>l = 5cm<br><br>The area of curved surface (s) =π(3)(5)<br><br>15π = 15 × 3.14<br><br>= 47.1cm<sup>2</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "17.1cm<sup>2</sup>",
+            "27.2cm<sup>2</sup>",
+            "47.1cm<sup>2</sup>",
+            "37.3cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2015,
+        "question": "<p>Simplify \\( \\frac{1}{(x + 1)} + \\frac{1}{(x − 1)} \\)</p>",
+        "explanation": "<p>[1 ÷ (x+1)] + [1 ÷ (x − 1)]<br>\n<br>\n= ((x − 1) + [(x + 1)) ÷ (x+1)(x − 1)]<br>\n<br>\nUsing the L.C.M.<br>\n<br>\n= (x − 1 + x + 1) ÷ (x + 1)(x − 1)<br>\n<br>\n= (x + 2 − 1 + 1) ÷ (x + 1)(x − 1)<br>\n<br>\n= 2x ÷ (x + 1)(x − 1) =2x ÷ (x + 1)(x − 1)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2x/(x + 1)(x−3)",
+            "2x/(x + 1)(x−1)",
+            "2x/(x + 1)2",
+            "2x(x+1)2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2015,
+        "question": "The area of a circle of radius 4cm is equal to (Take π = 3.142 )",
+        "explanation": "Area of a circle (A) = πr<sup>2</sup><br><br>Radius = 4cm<br><br>π = 3.142<br><br>A = 3.142 × (4)<sup>2</sup><br><br>= 3.142 × 16<br><br>= 50.272<br><br>A = 50.3cm<sup>2</sup>(1dp)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "10.3cm<sup>2</sup>",
+            "15.7cm<sup>2</sup>",
+            "50.3cm<sup>2</sup>",
+            "17.4cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2015,
+        "question": "<p>The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "10.5cm",
+            "5cm",
+            "10cm",
+            "3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2015,
+        "question": "The volume of a cone (s) of height 6cm and base radius 5cm is",
+        "explanation": "V = ⅓ πr<sup>2</sup>h<br><br>Volume of a cone (Vc) = ⅓ × 3.14 × (5)<sup>2</sup>× 6<br><br>= 156.9<sup>3</sup><br><br>157cm3<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "157cm<sup>3</sup>",
+            "155cm<sup>3</sup>",
+            "175cm<sup>3</sup>",
+            "145cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2015,
+        "question": "The probability of an outcome A is 1/6 . The probability of the B outcome is 1/4 . If the probability of A or B or both is 1/12 . What is the probability of both outcomes A and B?",
+        "explanation": "Prob.(A outcome) = \\(\\frac{1}{6}\\), Prob.(B outcome) = ¼<br><br>P(A ∪ B) = 1/12, Prob.(A ∩ B)<br><br>Prob.(A ∩ B) = Prob.(A) + Prob.(B) − Prob.(A ∪ B)<br><br>1/6 + 1/4 − 1/12<br><br>= (2 + 3 − 1) ÷ 12<br><br>= 4/12<br><br>= 1/3<br><br>Prob.(A ∩ B) = 1/3<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "1/2",
+            "1/3",
+            "2/5",
+            "3/4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2015,
+        "question": "Given that Z = {1,2,4,5} what is the power of set Z?",
+        "explanation": "Z has 4 elements, power = number of subset = 2p<br><br>Z = 2<sub>n</sub>= 2<sub>4</sub><br><br>= 16<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "16",
+            "8",
+            "10",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 51,
+        "year": 2015,
+        "question": "Calculate the value of x and y if (27<sup>x</sup>÷ 81<sup>x+2y</sup>= 9 ,x + 4y = 0",
+        "explanation": "\\(27^x ÷ 81^{(x + 2y)} = 9 \\\\<br><br>(27)x = 9 × 81^{(x+2y)} \\\\<br><br>(3^3 )^x =32 \\times 3^{4(x + 2y)} \\\\<br><br>=3^{(2 + 4x + 8y)}\\\\<br><br>3^{3x} = 3^{ (2 + 4x + 8y)}\\\\<br><br>3x = 2 + 4x + 8y\\\\<br><br>3x − 4x − 8y = 2 … … … (1)\\\\<br><br>x + 4y = 0 … … … (2)\\\\<br><br>− 4y = 2\\\\<br><br>y = (− 2) ÷ 4 = − ½\\\\<br><br>y = − ½\\\\ \\)<br><br>Substitute the value of y into equation (2)<br><br>i.e x + 4y = 0<br><br>x + 4( − 1/2) = 0<br><br>x − 2 = 0<br><br>x = 2<br><br>∴ x = 2,y = − ½)<br><br>Method II<br><br>\\( 27^x ÷ 31^{(x + 2y) }= 9\\\\<br><br>3^{3x} × 3^{( − 4x − 8y)} = 32\\\\<br><br>3^{(3x − 8y)} = 32\\\\<br><br>− x − 8y=2 ……… (1)\\\\<br><br>x + 4y = 0 ……… (2)\\\\<br><br>− 4 = 2\\\\<br><br>y= 2/4 = ½\\\\<br><br>y = ½ \\)<br><br>Substitute the value of y into equation 2<br><br>x + 4y=0<br><br>x + 4 (− 1) ÷ 2) = 0<br><br>x − 2 = 0<br><br>x = 2<br><br>x = 2, y = ½<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "x = 1, y = 1/2",
+            "x = 2, y = – 1/2",
+            "x − 0, y = 1",
+            "x = 2, y = –1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 52,
+        "year": 2015,
+        "question": "Simplify √30 × √40",
+        "explanation": "√30 × √40<br><br>√(30 × 40)<br><br>√(3 × 10 × 4 × 10)<br><br>√(400 × 3)<br><br>√400 × √3<br><br>20 × √3<br><br>20√3<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "10 √3",
+            "5 √3",
+            "20 √3",
+            "15 √3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 53,
+        "year": 2015,
+        "question": "If √ (2x + 2) − √x =1 ,find x.",
+        "explanation": "√(2x + 2 ) − √x = 1<br><br>√(2x + 2) = 1 + √x<br><br>Square both sides<br><br>√(2x + 2)<sup>2</sup>= (1 + √x)<sup>2</sup><br><br>((2x + 2)<sup>2</sup>)<sup>½</sup>= 1 + √x + √x+ x<br><br>2x + 2 = 1 + 2√x +x<br><br>Collect the like term together<br><br>2x − x + 2 − 1 = 2 √x<br>x + 1 = 2√x<br><br>Square both sides<br><br>(x + 1)<sup>2</sup>= (2√x)<sup>2</sup><br><br>x<sup>2</sup>+ 2x + 1 = 4x<br><br>x<sup>2</sup>+ 2x − 4x + 1 = 0<br><br>(x<sup>2</sup>− x)(x + 1)= 0<br><br>x(x − 1) −1(x − 1)<br><br>(x − 1)(x −1)<br><br>Either (x − 1) = 0 or (x − 1) = 0<br><br>x = 1 or 1<br><br>x = 1 twice<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "x = 1 twice",
+            "x = 0 or 1",
+            "x = 3 or 1",
+            "x = 2 twice"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 54,
+        "year": 2015,
+        "question": "<p>The sum of two numbers is 5; their product is -14. Find the numbers.</p>",
+        "explanation": "<p>Let x represent the first number;<br>\n<br>\nThen, the other is (5 − x) , since their sum is 5 and their product is 14<br>\n<br>\nx(5 − x) = 14<br>\n<br>\n5x − x2 = 14<br>\n<br>\nx2 − 5x − 14 = 0<br>\n<br>\n(x2 − 7x) + (2x − 14) = 0<br>\n<br>\nx(x − 7) + 2(x − 7) = 0<br>\n<br>\n(x − 7)(x + 2) = 0<br>\n<br>\nEither (x − 7) = 0 or (x + 2) = 0<br>\n<br>\nx = 7 or x = − 2<br>\n<br>\nThe two numbers are 7 and − 2</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "x = 5 or 1",
+            "x = 7 or 1",
+            "x = 7 or 0",
+            "x = 7 or − 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 55,
+        "year": 2015,
+        "question": "Solve the equation<br>\\( 5^{(x − 2)} = (1 ÷ 125)^{(x +3)}\\)",
+        "explanation": "\\( 5^{(x − 2)} = (125^{−1} )^{(x + 3)}\\\\<br><br>5^{(x − 2)} = (5− 3)^{x + 3}\\\\<br><br>5^{(x − 2)} = 5^{− 3x − 9}\\\\<br><br>x + 3x = − 9 + 2\\\\<br><br>4x = − 7\\\\<br><br>x = \\frac{−7}{4} \\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3/2",
+            "− 7/4",
+            "4/7",
+            "7/4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 56,
+        "year": 2015,
+        "question": "How many sides has a regular polygon whose interior angles are 120°each",
+        "explanation": "Each exterior angle = 180 − 120=60<br><br>Exterior angle =360/n<br><br>60 = 360/n<br><br>n =360/6<br><br>= 6<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 57,
+        "year": 2015,
+        "question": "If duty is levied at 25%, find the duty to be added to a bill of N80.",
+        "explanation": "25% of N80 = 25/100 × 80<br><br>= N20.00<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "N100",
+            "N20",
+            "N80",
+            "N150"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 58,
+        "year": 2015,
+        "question": "Simplify 2.04 × 3.7 (Leave your answer in 2 decimal place)",
+        "explanation": "2.04 x 3.7<br>=<br>204<br>x 37<br>-----<br>7548 = 7.548<br><br>= 7.55(2dp)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "7.51",
+            "7.71",
+            "5.5",
+            "7.55"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 59,
+        "year": 2015,
+        "question": "A public car dealer marked up the cost of a car at 30% in an attempt to make 20% gross profit. Due to the value of dollar, he now placed 20% discount on the car. What profit or loss will he make?",
+        "explanation": "Let assume the cost price is 100%<br><br>Marked up price + cost price = 20 + 100 = 120%<br><br>Discount at 20% = 20/100 × 120 % of cost price<br><br>Selling price = cost price − gain<br><br>= (120 − 24)% of cost price<br><br>= 96% of cost price<br><br>Loss = (100− 96)% of cost price<br><br>= 4% of cost price<br><br>∴ He will wake 4% loss<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "3%",
+            "2%",
+            "4%",
+            "1%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 60,
+        "year": 2015,
+        "question": "Rationalize 5 ÷ (2 − √3)",
+        "explanation": "5÷ (2 − √3)<br><br>Using conjugate surds<br><br>[5 ÷ (2 − √3)]×(2 + √3) ÷ (2 + √3)]<br><br>[5(2+√3)÷((2− √3))2]<br><br>[5(2 +√3) ÷ (2)2− (√3)2]<br><br>[5(2 +√3) ÷(4− 3)]<br><br>= 5(2 + √3)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "3(2 + √5)",
+            "2(3 + √5)",
+            "5(2 + √3)",
+            "3 √2 + 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 61,
+        "year": 2015,
+        "question": "<p>Factorize \\( a^2 − b^2 − 4a + 4 \\)</p>",
+        "explanation": "<p>The trinomial = \\( a^2 − 4a + 4 \\\\<br>\n<br>\na^2 − b^2− 4a + 4 = (a^2 − 4a + 4) − b^2 \\\\<br>\n<br>\n(a^2 − 2a − 2a + 4) − b^2 \\\\<br>\n<br>\na(a − 2)− 2(a − 2)] − b^2 \\\\<br>\n<br>\n(a − 2)2 − b^2 \\\\<br>\n<br>\n(a − 2 + b)(a − 2 − b )\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "(a + b)(a − b)",
+            "(a − 2 + b)(a - 2- b)",
+            "(a + 1)(a − 2 + b)",
+            "(a + b) 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 62,
+        "year": 2015,
+        "question": "Given that tan x = \\(\\frac{2}{3}\\), where 0<sup>o</sup>d\" x d\" 90<sup>o</sup>, Find the value of 2sinx.",
+        "explanation": "tan x = \\(\\frac{2}{3}\\)(given), is illustrated in a right-angled \\(\\Delta\\)<br><br>thus m<sup>2</sup>= 2<sup>2</sup>+ 3<sup>2</sup><br><br>= 4 + 9 = 13<br><br>m = \\(\\sqrt{13}\\)<br><br>Hence, 2sin x = 2 x \\(\\frac{2}{m}\\)<br><br>2 x\\(\\frac{2}{\\sqrt{13}}\\)<br><br>= \\(\\frac{4}{\\sqrt{13}}\\)<br><br>= \\(\\frac{4}{\\sqrt{13}} = \\frac{\\sqrt{13}}{\\sqrt{13}}\\)<br><br>= \\(\\frac{4\\sqrt{13}}{13}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2\\sqrt{13}}{13}\\)",
+            "\\(\\frac{3\\sqrt{13}}{13}\\)",
+            "\\(\\frac{4\\sqrt{13}}{13}\\)",
+            "\\(\\frac{6\\sqrt{13}}{13}\\)"
+        ],
+        "type": "objectives"
+    }
+]

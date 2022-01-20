@@ -1,0 +1,786 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2008,
+        "question": "Chlorophyll obtained from given leaves of plant can be shown to be composed of more than one coloured component by the technique of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "crystallization",
+            "hydrolysis",
+            "chromatography",
+            "sublimation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2008,
+        "question": "In countries where the temperature falls below 273K, salt is always sprinkled on the icy road in order to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "lower the melting point of the ice",
+            "increase the density of the ice",
+            "make the ice impure",
+            "raise the melting point of the ice"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2008,
+        "question": "2Na<sub>(s)</sub>+ 2H<sub>2</sub>O<sub>(l)</sub>→ 2NaOH<sub>(aq)</sub>+ H<sub>2(g)</sub><br>From the equation above, calculate the mass of sodium hydroxide produced by 2.3g of sodium.<br>[H = 1, O = 16, Na = 23]",
+        "explanation": "2Na<sub>(s)</sub>+ 2H<sub>2</sub>O<sub>(l)</sub>→ 2NaOH<sub>(aq)</sub>+ H<sub>2(g)</sub><br>Relative molecular mass of NaOH = 23 + 16 + 1 = 40smol<sup>-1</sup><br>2 * 23g of sodium react with water to produce<br>2 * 40g of NaOH<br>∴ 2.3g of sodium will react with water to produce<br>(2.3 * 40 * 2)/(23 * 2) = 4.00g",
+        "correctIndex": 2,
+        "options": [
+            "0.40g",
+            "0.80g",
+            "4.00g",
+            "8.00g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2008,
+        "question": "16.8 g of sodium hydrogen trioxocarbonate (IV) is completely decomposed by heat. Calculate the volume of carbon(IV) oxide given off s.t.p<br>[Na 23, C = 12, O = 16, H = 1, Molar volume of a gas at s.t.p = 22.4 dm<sup>3</sup>]",
+        "explanation": "2NaHCO<sub>3(s)</sub>→ Na<sub>2</sub>CO<sub>3(s)</sub>+ H<sub>2</sub>O<sub>(l)</sub>+ CO<sub>2</sub><br>Relative molecular mass of NaHCO<sub>3</sub>= 23 +1 + 12 + 16 * 3 = 84smol<sup>-1</sup><br>2 * 84g of NaHCO<sub>3</sub>will be liberated 22.4dm<sup>3</sup>or CO<sub>2</sub>at s.t.p<br>16.8g of NaHCO<sub>3</sub>will libertae (16.8 * 22.4)/(2 * 84) = 2.24 dm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "22.40 dm<sup>3</sup>",
+            "11.20 dm<sup>3</sup>",
+            "2.24 dm<sup>3</sup>",
+            "1.12 dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2008,
+        "question": "300 cm<sup>3</sup>of gas has a pressure of 800 mmHg. If the pressure is reduced to 650 mmHg, find its volume",
+        "explanation": "P<sub>1</sub>V<sub>1</sub>= P<sub>2</sub>V<sub>2</sub><br>800 * 300 = 650 * V<sub>2</sub><br>V<sub>2</sub>= (800 * 300)/650 = 369.23 cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "243.75 cm<sup>3</sup>",
+            "369.23 cm<sup>3</sup>",
+            "738.46 cm<sup>3</sup>",
+            "1733.36 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2008,
+        "question": "Diffusion is slowest in solid particles than in particles of liquid and gases because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "solid particles have more kinetic energy than the particles of liquid and gases",
+            "solid particles have less kinetic energy than the particles of liqiud and gases",
+            "solid particles have less restriction in their movement than liquid and gas particles",
+            "the particles in solids are far apart and the cohesive forces between them are negligible"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2008,
+        "question": "The experiment that showed that atoms have tiny positively charged nucleus was first carried out by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Moseley",
+            "Rutherford",
+            "Millikan",
+            "Dalton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2008,
+        "question": "The atom of an element X is represented as<sub>z</sub><sup>y</sup>X. The basic chemical properties of X depends on the value of",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Y",
+            "Z",
+            "Y - Z",
+            "Z - Y"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9464983332_chem08%209.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "carbon",
+            "nitrogen",
+            "oxygen",
+            "flourine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2008,
+        "question": "In the periodic table, the electrical and thermal conductivities are properties of elements that",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "decrease across the period and increase down the group",
+            "increase across the period and decrease down the group",
+            "decrease across the period and down the group`",
+            "increase acrosss the period and down the group"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2008,
+        "question": "\\( _{11} ^{11}Na + _0^1n → _{11}^{24}Na \\)<br>The reaction above is an example of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "nuclear fission",
+            "nuclear fusion",
+            "artificial transmutation",
+            "beta decay"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2008,
+        "question": "Air boiled out of water as steam is richer in",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "nitrogen and oxygen",
+            "carbon (IV) oxide and oxygen",
+            "noble gases and carbon (IV) oxide",
+            "oxygen and noble gases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2008,
+        "question": "In the course of purifying water for town supply the water is passed through large settlings tanks, containing sodium aluminate (III) to remove",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "large particles",
+            "germs",
+            "fine particles",
+            "odour"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2008,
+        "question": "When a few drops of water is added to a blue anhydrous cobalt (II) chloride, the colour changes to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "white",
+            "pink",
+            "red",
+            "blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2008,
+        "question": "The vulcanizer's solution is prepared by dissolving rubber in",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "ethanol",
+            "kerosine",
+            "benzene",
+            "petrol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2008,
+        "question": "117.0g of sodium chloride was dissolved in the solubility in 1.0dm<sup>3</sup>of distilled water at 25<sup>o</sup>C. Determine the solubility in mol dm<sup>-3</sup>of sodium chloride at that temperature<br>[Na = 23, Cl = 35.5]",
+        "explanation": "Relative molecular mass of NaCl = 23 + 35.5 = 55.5 g/mol<br>No. of mole of NaCl = 117/55.5 = 2.1 mol",
+        "correctIndex": 1,
+        "options": [
+            "1.0",
+            "2.0",
+            "3.0",
+            "4.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2008,
+        "question": "The uncovered raw food that is sold along major roads is likely to contain some amounts of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Pb",
+            "Cu",
+            "Ag",
+            "Na"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2008,
+        "question": "What is the pH of 0.001 mol dm<sup>-3</sup>solution of sodium hydroxide",
+        "explanation": "[H<sup>+</sup>] [OH<sup>-</sup>] = 10<sup>-14</sup><br>[H<sup>+</sup>] = 10<sup>-14</sup>/[OH<sup>-</sup>] = 10<sup>-14</sup>/(1 * 10<sup>-3</sup>) = 10<sup>-11</sup><br>pH = -Log<sub>10</sub>[H<sup>+</sup>]<br>= - Log<sub>10</sub>[10<sup>-11</sup>] = - 1 * -11 Log<sub>10</sub>[10<sup>-11</sup>] = 1 = -1 * -11 * 1 = 11",
+        "correctIndex": 3,
+        "options": [
+            "14",
+            "13",
+            "12",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2008,
+        "question": "The basicity of CH<sub>3</sub>COOH is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2008,
+        "question": "0.05 mol dm<sup>-3</sup>HCl is neutralized by 25 cm<sup>3</sup>NaOH. If the volume of acid used is 32.00cm<sup>3</sup>, what is the concentration of the base",
+        "explanation": "HCl + NaOH → NaCl + H<sub>2</sub>O<br>CAVA = NA/NB = (0.05 * 32)/(CB * 25)<br>∴ CB = (0.05 * 32)/25 = 0.064 mol dm<sup>-3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "0.016 mol dm<sup>-3</sup>",
+            "0.032 mol dm<sup>-3</sup>",
+            "0.039 mol dm<sup>-3</sup>",
+            "0.064 mol dm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2008,
+        "question": "Insoluble salts can be prepared by",
+        "explanation": "Two soluble metal salts react with each other to form one soluble salt and one insoluble salt . Lead nitrate solution and sodium chloride solution react to produce solid lead chloride , leaving soluble sodium nitrate in solution. The lead chloride can be recovered by filtration.",
+        "correctIndex": 3,
+        "options": [
+            "titrating an alkali against an appropriate acid",
+            "reacting an acid with trioxocarbonatr (IV) salt",
+            "directing combination of the elements which make up the salt",
+            "mixing two soluble compounds containing the metallic radical and the acidic radical"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2008,
+        "question": "The oxidation state of carbon in HCOOH is",
+        "explanation": "HCOOH<br>O.N of H + O.N of C + 2* O.N of oxygen of<br>H = 0<br>1 + X + 2X - 2 + 1 = 0<br>2 + X -4 = 0<br>X = 4 - 2 = +2",
+        "correctIndex": 1,
+        "options": [
+            "-1",
+            "+2",
+            "+3",
+            "zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2008,
+        "question": "What is the IUPAC nomenclature of the compound NaCIO?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "sodium oxochlorate (I)",
+            "sodium chloro (I) oxide",
+            "sodium monooxochlorate (II)",
+            "sodium chloro (I) monoxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2008,
+        "question": "In recharging a lead-acid accumulator, the reaction at the cathode can be represented as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Pb<sup>2+</sup><sub>(aq)</sub>+ SO<sup>2-</sup><sub>4(aq)</sub>→PbSO<sub>4(s)</sub>",
+            "Pb<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>→Pb<sub>(s)</sub>",
+            "Pb<sup>2+</sup><sub>(aq)</sub>+ 2H<sub>2</sub>O<sub>(l)</sub>→ PbO<sub>2(s)</sub>+ 4H<sup>+</sup><sub>(aq)</sub>+ 4e<sup>-</sup>",
+            "Pb<sub>(s)</sub>→ Pb<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2008,
+        "question": "If a given quantity of electricity liberates 0.65g of Zn<sup>2+</sup>, what amount of Hg<sup>2+</sup>would be liberated by the same quantity of current?<br>[Zn = 65, Hg = 201]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.00g",
+            "2.10g",
+            "4.02g",
+            "8.04g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2008,
+        "question": "NH<sub>3(g)</sub>+ HCl<sub>(s)</sub>→ NH<sub>4</sub>Cl<sub>(s)</sub><br>The entropy change in the system above is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "positive",
+            "zero",
+            "negative",
+            "indeterminate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2008,
+        "question": "Which of the following reaction is endothermic?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "C<sub>(s)</sub>+ O<sub>2(g)</sub>→ CO<sub>2(g)</sub>",
+            "CaO<sub>(s)</sub>+ H<sub>2</sub>O<sub>(l)</sub>→ Ca(OH)<sub>2(s)</sub>",
+            "C<sub>(s)</sub>+ H<sub>2</sub>O<sub>(g)</sub>→ CO<sub>(g)</sub>+ H<sub>2(g)</sub>",
+            "HCl<sub>(aq)</sub>+ NaOH<sub>(aq)</sub>→ NaCl<sub>(aq)</sub>+ H<sub>2</sub>O<sub>(l)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2008,
+        "question": "A catalyst speeds up the rate of chemical reaction by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "taking part in the reaction",
+            "increasing the activation energy of the reaction",
+            "lowering the activation energy of the reaction",
+            "increasing the heat content"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2008,
+        "question": "The rate of a reaction usually decrease in the concentration of reactants because",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "kinetic energy decrease",
+            "temperature increase",
+            "speed increases",
+            "reactants collision decrease"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2008,
+        "question": "The substance that is used in the steel industry for the removal of carbon, sulphur and phosphorus impurities from pig iron is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "oxygen",
+            "chlorine",
+            "nitrogen",
+            "hydrogen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2008,
+        "question": "Which of the following compounds of trioxonitrate (V) will decomposes to give dinitrogen (i) oxide and water when heated?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "NaNO<sub>3</sub>",
+            "Zn(NO<sub>3</sub>)<sub>2</sub>",
+            "Cu(NO<sub>3</sub>)<sub>2</sub>",
+            "NH<sub>4</sub>NO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2008,
+        "question": "When a solution of ammonium trioxocarbonate (IV) is added to a solution of an unknown salt, a white precipitate which is soluble in dilute hydrochloric acid but insoluble in ethanoic acid is formed. This indicates the presence of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Ca<sup>2+</sup>",
+            "Na<sup>+</sup>",
+            "Zn<sup>2+</sup>",
+            "K<sup>+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2008,
+        "question": "Leads is used for making bullets and lead shots because of its",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "resistance to corrosion",
+            "low melting point",
+            "high density",
+            "flexibility"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2008,
+        "question": "which of the following gives a precipitate when treated with NaOH solution?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "AlCl<sub>3</sub>",
+            "NH<sub>4</sub>Cl",
+            "Na<sub>2</sub>CO<sub>3</sub>",
+            "CH<sub>3</sub>COONa"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2008,
+        "question": "The most common ores of iron include",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "haematite, malachite and limonite",
+            "chalcolite, calamine and bornite",
+            "magnetite, haematite and bornite",
+            "magnetite, chalcolite and bornite"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2008,
+        "question": "The type of isomerism shown by cis- and trans- isomers is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "optical isomerism",
+            "positional isomerism",
+            "functional isomerism",
+            "geometrical isomerism"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2008,
+        "question": "If the silver mirror test is positive, it indicates the presence of an",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "alkyne",
+            "alkanol",
+            "alkanone",
+            "alkanal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2008,
+        "question": "If glucose is heated with concentration tetraoxosulphate (VI) acid, it will be dehydrated to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "carbon",
+            "carbon (IV) oxide",
+            "ethene",
+            "ethanol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12171316122_chem%202008%2041.png\" class=\"img-fluid\">",
+        "explanation": "<p>The longest carbon chain in the compound is the pent-2-ene.</p><p>Counting all the attachments, the IUPAC nomenclature of the compound is 2,3 - dichloro-4,4,5 - trimethyl pent-2-ene.</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "2, 3 - dichloro - 4, 4, 5 - trimethyl pent - 2 - ene",
+            "4, 5 - dichloro - 2, 3 - dimethyl hex - 2 - ene",
+            "2, 3 - dichloro - 4, 4 - dimethyl hex - 2- ene",
+            "2, 3 dichloro - 2, 2 - dimethyl hex - 2 - ene"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2008,
+        "question": "A hydrocarbon X with a molar mass of 26 consists of 92.3% carbon. What is its molecular formular",
+        "explanation": "% of H<sub>2</sub>= 100 - 92.3 = 7.7%<br>mole = 92.3/12 7.7/1<br>7.1/7.1 7.1/7.1<br>empirical formula = CH<br>(CH)n = 26<br>(12 + 1)n = 26<br>(13)n = 26<br>n = 26/13 = 2<br>molecular formula = C<sub>2</sub>H<sub>2</sub>",
+        "correctIndex": 0,
+        "options": [
+            "C<sub>2</sub>H<sub>2</sub>",
+            "C<sub>3</sub>H<sub>3</sub>",
+            "C<sub>4</sub>H<sub>4</sub>",
+            "C<sub>5</sub>H<sub>5</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2008,
+        "question": "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CH<sub>2</sub>= CH - CH<sub>2</sub>- CH<sub>3</sub>",
+            "CH<sub>3</sub>CH<sub>2</sub>- C ≡ CH",
+            "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+            "CH<sub>3</sub>- C C - CH<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2008,
+        "question": "Reduction of nitroalkanes, nitrites and amides is a route for the preparation of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "amines",
+            "alkenes",
+            "polymers",
+            "detergents"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2008,
+        "question": "Reduction of alkanonoes with LialH<sub>4</sub>produces",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "primary alkanols",
+            "secondary alkanols",
+            "tertiary alkanols",
+            "polyhydric alkanols"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2008,
+        "question": "The product obtained when a mixture of benzene vapour and hydrogen are passed over nickel catalyst at 180<sup>o</sup>C is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "cyclohexane",
+            "cyclopentane",
+            "n- hexane",
+            "n - pentane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2008,
+        "question": "Polyvinyl chloride is used in the production of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "glass",
+            "alloy",
+            "pipes",
+            "ceramics"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2008,
+        "question": "Detergents are manufactured with straight hydrocarbon chains so as to make them",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "soluble",
+            "biodegradable",
+            "cheaper",
+            "foamy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18522266659_scan%20work11.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "hydrogen chloride",
+            "hydrogen sulphide",
+            "nitrogen(ll) oxide",
+            "dinitrogen (l) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15672688064_scan%20work11.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "blue",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5699162324_co.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    }
+]

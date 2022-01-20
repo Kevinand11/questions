@@ -1,0 +1,970 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1998,
+        "question": "<p>which of the following pairs of physical quantities comprises vectors?</p>",
+        "explanation": "<p>Friction and Momentum both have magnitudes and directions.</p>",
+        "correctIndex": 2,
+        "options": [
+            "capacitance and inductance",
+            "force ratio and velocity ratio",
+            "friction and momentum",
+            "energy and power",
+            "electric field potential and electric field intensity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1998,
+        "question": "A piece of stone attached to one end pf string is whirled round in a horizontal circle. When the string is suddenly cut, the stone will",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "move towards te centre of the circle",
+            "stop moving immediately",
+            "move along a circular path of smaller radius",
+            "fly off in a direction tangential to the circular path",
+            "acquire greater centripetal force"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1998,
+        "question": "The term torque means",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the moment",
+            "the resultant of several forces acting on a body in equilibrum",
+            "two equal and oposite forces whose lines of action do not coincide",
+            "two coplaner forces at right angles to each other",
+            "the equilibrant of two concurrent forces"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1998,
+        "question": "A rectangular block of wood floats in water with two-thirds of its volume immersed. When placed in another liquid, it floats with half of its volume immersed. Calculate the relative density of the liquid",
+        "explanation": "R.D = \\(\\frac{\\text{volume of liquid displaced}}{\\text{volume of water displaced}}\\)<br><br>= \\(\\frac{1}{2} - \\frac{2}{3} = \\frac{1}{2} \\times \\frac{3}{2} = \\frac{3}{4}\\)<br><br>= 0.75",
+        "correctIndex": 4,
+        "options": [
+            "1.43",
+            "1.33",
+            "1.00",
+            "0.83",
+            "0.75"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27152971535_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increase",
+            "decrease",
+            "remain the same",
+            "be slightly greater than W",
+            "be independent of w"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5716441856_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\mu = \\frac{F}{R} = \\frac{W sin \\theta}{W cos q}\\)<br><br>= tan\\(\\theta\\)",
+        "correctIndex": 2,
+        "options": [
+            "sin\\(\\alpha\\)",
+            "cos\\(\\alpha\\)",
+            "tan\\(\\alpha\\)",
+            "sec\\(\\alpha\\)",
+            "cot\\(\\alpha\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15720153856_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "PR/PQ",
+            "OR/PQ",
+            "OR/PR",
+            "PQ/PR",
+            "PQ/QR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1998,
+        "question": "<p>a pilot records the atmospheric pressure outside his plane as 63cm of Hg while a ground observer records a reading of 75cm of Hg with his barometer. Assuming that the density of air is constant, calculate the height of the plane above the ground. (take the relative densities of air and mecury as 0.00136 and 13.6 respectively)</p>",
+        "explanation": "<p>pressure change for air = pressure change for mercury<br>\n<br>\nhpg = Hpg<br>\n<br>\nh x 0.00136 x g = (75 - 63) x 13.6 x g<br>\n<br>\nh = \\(\\frac{12 \\times 13.6}{0.00136}\\)<br>\n<br>\n= 120,000cm</p><p>= 1,200m</p>",
+        "correctIndex": 3,
+        "options": [
+            "120m",
+            "138m",
+            "274m",
+            "1200m",
+            "120,000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1998,
+        "question": "An object is protected with a velocity of 100m<sup>-1</sup>at an angle of 60<sup>o</sup>to the vertical. Calculate the time taken by the object to reach the highest point (Take g as 10ms<sup>-2</sup>",
+        "explanation": "t = \\(\\frac{T}{2} = \\frac{1}{2} = \\frac{2u \\sin \\theta}{g} = \\frac{100 \\times \\sin 60}{10}\\)<br><br>10 sin60 = 10 x 0.8660<br><br>= 8.7",
+        "correctIndex": 1,
+        "options": [
+            "5.0s",
+            "8.7s",
+            "10.0s",
+            "17.3s",
+            "20.0s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1998,
+        "question": "The earth is not a perfect sphere because its equatorial axis is longer than the polar axis. where on the earth's surface would an object have its greatest weight?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "half way between the equator and the north pole",
+            "near the equator",
+            "half way between the equator and the south pole",
+            "at either pole",
+            "at the equator"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1998,
+        "question": "a ball of mass 5.0kg hits a smooth vertical wall normally with a speed of 2m<sup>-1</sup>and rebounds with the same speed. Determine the impulse experienced by the ball",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "20.0kgm<sup>-1</sup>",
+            "5.0kgm<sup>-1</sup>",
+            "1.3kgm<sup>-1</sup>",
+            "0.0kgm<sup>-1</sup>",
+            "10.0kgm<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1998,
+        "question": "An object is heated from 30<sup>o</sup>C to 57<sup>o</sup>C. The increases in its temperature on the kelvin scale is",
+        "explanation": "57<sup>o</sup>C - 30<sup>o</sup>C = (27 + 273)<br><br>= 300k",
+        "correctIndex": 4,
+        "options": [
+            "17k",
+            "27k",
+            "81k",
+            "246k",
+            "300k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1998,
+        "question": "The lower and upper fixed points of a mecury-in-glass thermometer are marked Y and 180mm respectively. On a particular the mecury meniscus in the thermometer rises to 45mm. If the corresponding reading on a scale is 10<sup>o</sup>, calculate the value of Y.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "4mm",
+            "18mm",
+            "30mm",
+            "135mm",
+            "450mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1998,
+        "question": "A piece of brass of mass 170kg has its temperature raised from 0<sup>o</sup>C to 30<sup>o</sup>C. Calculate its increase in volume, given the density of brass at 0<sup>o</sup>C as 8.5 x 10<sup>3</sup>kgm<sup>3</sup>and its cubic expansivity as 5.7 x 10<sup>-1</sup>k<sup>1</sup>",
+        "explanation": "V = \\(\\frac{m}{p}= \\frac{170}{8.5 x 10^{-3}}\\) = 0.02<br><br>= \\(\\Delta\\)\\(\\frac{\\delta V}{V \\delta T}\\)<br><br>\\(\\delta V\\) = \\(\\Delta\\) x V x \\(\\delta\\)T<br><br>= 5.7 x 10<sup>-5</sup>x 0,02 x 30<br><br>= 0 3.42 x 10<sup>-5</sup>",
+        "correctIndex": 2,
+        "options": [
+            "3.4 x 10<sup>-5</sup>m<sup>3</sup>",
+            "4.3 x 10<sup>-5</sup>m<sup>3</sup>",
+            "3.4 x 10<sup>-5</sup>m<sup>3</sup>",
+            "3.4 x 10<sup>-3</sup>m<sup>3</sup>",
+            "3.4 x 10<sup>-2</sup>m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1998,
+        "question": "The average kinetic energy of the molecules of a perfect gas is directly proportional to the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "pressure exerted by the gas",
+            "volume of the gas molecule",
+            "kelvin temperature of the gas",
+            "volume of the gas container",
+            "celcius temperature of the gas"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1998,
+        "question": "How much heat is emitted when a body of mass 200g cools from 37<sup>o</sup>C to 31<sup>o</sup>C? (specific heat capacity of the body = 0.4Jg<sup>-1</sup>K<sup>-1</sup>,)",
+        "explanation": "H = mC\\(\\theta\\) = 200 x 0.4 x 6<br><br>= 480J",
+        "correctIndex": 2,
+        "options": [
+            "4800J",
+            "1200J",
+            "480J",
+            "202J",
+            "80J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1998,
+        "question": "If the cubic expansivity of brass between 27<sup>o</sup>C and 100<sup>o</sup>C is 5.7 x 10<sup>-5</sup>K<sup>-1</sup>, What is its linear expansivity?",
+        "explanation": "\\(\\alpha\\) = \\(\\frac{\\Delta}{3} = \\frac{5.7 \\times 10^{-5}}{3}\\)<br><br>= 1.90 x 10<sup>-5</sup>K<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2.85 x 10<sup>-5</sup>K<sup>-1</sup>",
+            "1.90 x 10<sup>-5</sup>K<sup>-1</sup>",
+            "1.86 x 10<sup>-5</sup>K<sup>-1</sup>",
+            "1.70 x 10<sup>-5</sup>K<sup>-1</sup>",
+            "1.63 x 10<sup>-5</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1998,
+        "question": "Air at temperature 527<sup>o</sup>C and pressure 30 atmospheres is admitted into the cylinder of an engine. Calculate the pressure of the gas when it has expanded to 5 times its volume and cooled to 127<sup>o</sup>C as it leaves the engine",
+        "explanation": "\\(\\frac{V_1P_1}{T_1} = \\frac{V_2P_2}{T_2}\\)<br><br>\\(\\frac{1 \\times 30}{527 + 2733} = \\frac{5P_2}{127 + 273}\\)<br><br>\\(\\frac{30}{800} = \\frac{5p_2}{400}\\)<br><br>P<sub>2</sub>= \\(\\frac{400 \\times 30}{800 \\times 5}\\)<br><br>= 3",
+        "correctIndex": 2,
+        "options": [
+            "1.5 atmospheres",
+            "2.5 atmospheres",
+            "3.0 atmospheres",
+            "12.8 atmospheres",
+            "15.0 atmospheres"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1998,
+        "question": "The inside of a vacuum flak is usually coated with silver to reduce heat loss by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "evaporation",
+            "radiation",
+            "conduction",
+            "convention",
+            "condensation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1998,
+        "question": "Dry oxygen is trapped by a pellet of mercury in a uniform capillary tube which is sealed at one end. The length of the column of oxygen at 27<sup>o</sup>C is 50cm. if the pressure of the oxygen is constant, at what temperature will the length be 60cm?",
+        "explanation": "T<sub>1</sub>= \\(\\frac{V_1T_2}{V_2} = \\frac{60 \\times (273 + 27)}{50}\\)<br><br>= 360k<br><br>= 360 - 273<br><br>= 87.0<sup>o</sup>C",
+        "correctIndex": 3,
+        "options": [
+            "360.0<sup>o</sup>C",
+            "240.6<sup>o</sup>C",
+            "237.0<sup>o</sup>C",
+            "87.0<sup>o</sup>C",
+            "36<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1998,
+        "question": "A waterfall is 1.260m high. Calculate the change in temperature of a quantity of water that falls from the top to the bottom of the waterfall. (Neglect heat losses to the surroundings, take g as 10m<sup>-2</sup>and specific heat capacity of water as 4200Jkg<sup>-1</sup>K<sup>-1</sup>)",
+        "explanation": "\\(\\Delta t = \\frac{gh}{c} = \\frac{1260 \\times 10}{4200}\\)<br><br>= 3.0<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "0.3<sup>o</sup>C",
+            "3.0<sup>o</sup>C",
+            "33.3<sup>o</sup>C",
+            "42.0<sup>o</sup>C",
+            "100.0<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1998,
+        "question": "A piece of metal is heated until it becomes red-hot, it is then quickly transferred into a beaker containing boiling water. What effect will this have on the boiling water?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the boiling water rises slightly",
+            "the boiling point rises sharply",
+            "the rate of vaporisation of the boiling water increases",
+            "the boiling point first rises and then falls",
+            "neither the boiling point nor the rate of vaporisation increases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1998,
+        "question": "A 90-W immersion heater is used to supply energy for five minutes. The energy supplied is used to completely melt 180g of a solid at is melting point. Neglecting energy losses to the surroundings, calculate the specific latent heat of fusion of the solid",
+        "explanation": "Pt = mL<br><br>L = \\(\\frac{pt}{m} = \\frac{90 \\times 5}{180}\\)<br><br>= 2.5",
+        "correctIndex": 1,
+        "options": [
+            "0.5Jg<sup>-1</sup>",
+            "2.5Jg<sup>-1</sup>",
+            "15.0Jg<sup>-1</sup>",
+            "450.0Jg<sup>-1</sup>",
+            "150Jg<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1998,
+        "question": "If an ebonite rod is rubbed with fur",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "both the ebonite rod and the fur will be negatively charged",
+            "the ebonite rod will be positively charged while the fur will have no charge",
+            "there will be electron transfer only if the ebonite rod is earthed",
+            "the ebonite rod will be negatively charged while the fur will be positively charged",
+            "the ebonite rod will be positively charged while the fur will be negatively charged"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1998,
+        "question": "An eclipse of the sun by the moon occurs when the sun, the moon and the earth are in a straight line and the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "earth casts a shadow on the moon",
+            "moon casts a shadow on the sun",
+            "moon is between the sun and the earth",
+            "earth is between the sun and the moon",
+            "sun is between the moon and the earth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1998,
+        "question": "The phenomenon which occurs when light changes direction as it passes from one medium to another is called",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "reflection",
+            "polarisation",
+            "interference",
+            "diffraction",
+            "refraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1998,
+        "question": "What is the image distance of an object placed at a distance of 2f from a converging lens of focal length f?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "f/4",
+            "f/2",
+            "f",
+            "2f",
+            "4f"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1998,
+        "question": "The images formed by diverging lenses are always",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "diminished, virtual and inverted",
+            "diminished, virtual and errect",
+            "diminished inverted and real",
+            "magnidied, virtual and errect",
+            "magnified, real and inverted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1998,
+        "question": "A converging lens of focal length 5cm is used as a magnifying glass by a man whose nearpoint is 35cm. Calculate the magnification given by the lens",
+        "explanation": "\\(\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}\\)<br><br>= \\(\\frac{1}{5} - \\frac{1}{35} = \\frac{30}{175}\\)<br><br>U = \\(\\frac{175}{30}\\) = 5.8m<br><br>\\(\\frac{v}{u} = \\frac{35}{5.8}\\)<br><br>= 6",
+        "correctIndex": 2,
+        "options": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1998,
+        "question": "An astronomical telescope having an objective of focal length 100cm and an eyepiece of focal length 10cm is used in normal adjustment, calculate the separation of the lenses",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.10m",
+            "0.90cm",
+            "1.10m",
+            "1.80m",
+            "2.20m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1998,
+        "question": "A lantern gives an image of 3m square of a slide 7.62cm square on a screen. If the screen is 10m from the projection lens of the lantern, calculate the focal length of the lens",
+        "explanation": "M = \\(\\frac{V_H}{U_H} = \\frac{300}{7.62}\\)<br><br>= 39.3<br><br>U = \\(\\frac{V}{M} = \\frac{1000}{39.3}\\) = 25.44<br><br>\\(\\frac{1}{f} = \\frac{I}{U} + \\frac{I}{V} = \\frac{I}{25.44} = \\frac{I}{1000} = \\frac{1025.44}{25440}\\)<br><br>f = \\(\\frac{25440}{1025.44} = 24.8\\)",
+        "correctIndex": 2,
+        "options": [
+            "40.3cm",
+            "26.1cm",
+            "24.8cm",
+            "0.7cm",
+            "0.3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1998,
+        "question": "The intensity of light falling on the film in a camera depend on the i. brightness of the object. ii. diameter of the aperture stop. iii. speed of the shutter. Which of the statements is/are correct/",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "i, ii and iii",
+            "i and ii only",
+            "i and ii only",
+            "ii and iii only",
+            "iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1998,
+        "question": "the shortest length of the air column in a resonance tube at resonance is 0.12m and the next resonance length is 0.37m. calculate the frequency of vibration given that the speed of sound in air is 340m<sup>-1</sup>",
+        "explanation": "f = \\(\\frac{v}{2(l_2 - l_1)} = \\frac{340}{2(0.37 - 0.12)} = \\frac{34}{0.5}\\) = 680",
+        "correctIndex": 2,
+        "options": [
+            "1360Hz",
+            "694Hz",
+            "680Hz",
+            "34Hz",
+            "340Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1998,
+        "question": "A sonometer wire under a tension of N10N, produces a frequency of 250Hz when plucked. Keeping the length of the wire constant, the tension is adjusted to produce a new frequency of 350Hz. Calculate the new tension",
+        "explanation": "f \\(\\alpha\\) \\(\\sqrt{T}\\)<br><br>\\(\\frac{f_1}{f_2} = \\sqrt{\\frac{T_1}{T_2}}\\)<br><br>\\(\\frac{250}{350} = \\sqrt{\\frac{10}{T_2}}\\)<br><br>\\(\\frac{5}{7} = \\sqrt{\\frac{10}{T_2}}\\)<br><br>\\(\\frac{25}{49} = \\frac{10}{T_2}\\)<br><br>T<sup>2</sup>= \\(\\frac{49 \\times 10}{25} = 19.6\\)",
+        "correctIndex": 1,
+        "options": [
+            "39.2N",
+            "19.6N",
+            "14.2N",
+            "7.4N",
+            "5.1N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1998,
+        "question": "Calculate he wavelength of a note which is one octave lower than a note of 256Hz in a medium in which the speed of sound is 352ms<sup>-1</sup>",
+        "explanation": "\\(\\lambda\\) = \\(\\frac{v}{f} = \\frac{352}{256}\\)<br><br>= 1.38",
+        "correctIndex": 1,
+        "options": [
+            "0.69m",
+            "1.38m",
+            "2.75m",
+            "5.50m",
+            "9.30m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1998,
+        "question": "Which of the following are both mechanical and transverse?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "infra-red rays",
+            "gamma rays",
+            "sound waves",
+            "water waves",
+            "micro waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1998,
+        "question": "An electromagnetic wave of frequency 5.0 x 10<sup>14</sup>Hz, is incident on the surface of water of refractive index \\(\\frac{4}{3}\\). Taking the speed of the wave in air as 3.0 x 10<sup>8</sup>ms<sup>-1</sup>, calculate the wavelength of the wave in water.",
+        "explanation": "\\(_an_w = \\frac{\\lambda_a}{\\lambda_w}\\)<br><br>\\(\\frac{4}{3} = \\frac{\\lambda_a}{\\lambda}\\)<br><br>\\(\\lambda_w = \\frac{v}{f}\\)<br><br>= \\(\\frac{3.0 \\times 10^8}{5.0 \\times 10^{14}} = 0.6 \\times 10^{-6}\\)<br><br>\\(\\lambda_w = \\frac{3}{4} \\lambda_a = \\frac{3}{4} \\times 0.6 \\times 10^{-6}\\)<br><br>= 4.5 x 10<sup>-7</sup>m",
+        "correctIndex": 4,
+        "options": [
+            "2.2 x 10<sup>-6</sup>m",
+            "1.7 x 10<sup>-7</sup>m",
+            "8.0 x 10<sup>-7</sup>m",
+            "6.0 x 10<sup>-7</sup>m",
+            "4.5 x 10<sup>-7</sup>m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1998,
+        "question": "The gravitational force of the moon is one-sixth that of the earth. If a body weighs 6.0N on the moon. Calculate its weight on the earth",
+        "explanation": "\\(\\frac{1}{6}F_E = F_{MOON}\\)<br><br>F<sub>E</sub>= R = 6F<sub>m</sub><br><br>= 6 x 6 = 36N",
+        "correctIndex": 0,
+        "options": [
+            "36.0N",
+            "12.0N",
+            "6.0N",
+            "2.0N",
+            "1.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1998,
+        "question": "In the electrical method of magnetisation, the polarity of the magnet depends on the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "amount of current passed",
+            "direction of current",
+            "magnetic material used",
+            "size of the magnetic material",
+            "orientation of the magnetic material in space"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1998,
+        "question": "A cell of e.m.f. 1.5v is connected in series with a resistor of 3\\(\\Omega\\). A high resistance voltmeter connected across the cell registers only 0.9v. Calculate the internal resistance of the cell",
+        "explanation": "I = \\(\\frac{V}{R} = \\frac{0.9}{3} = 3\\)<br><br>r = \\(\\frac{E}{I} = \\frac{1.5}{0.3} = 5\\)",
+        "correctIndex": 0,
+        "options": [
+            "5.0\\(\\Omega\\)",
+            "4.5\\(\\Omega\\)",
+            "2.4\\(\\Omega\\)",
+            "2.0\\(\\Omega\\)",
+            "1.8\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1998,
+        "question": "Calculate the resistance of the filament of lamp rated at 240V 60W",
+        "explanation": "P = \\(\\frac{V^2}{R} = \\frac{240^2}{60} = 960\\)",
+        "correctIndex": 2,
+        "options": [
+            "240\\(\\Omega\\)",
+            "360\\(\\Omega\\)",
+            "960\\(\\Omega\\)",
+            "144\\(\\Omega\\)",
+            "2880\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17151134316_maths-44.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "depression",
+            "declination",
+            "variation",
+            "elevation",
+            "dip"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1998,
+        "question": "Lenz's law of electromagnet states that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the induced charge is constant for a fixed change of force",
+            "a force is exerted on a current-carrying conductor in a magnetic field",
+            "the magnitude of the induced e.m.f in a circuit is proportional to the rate of change of the number of lines of force linking the circuit",
+            "the induced current in a conductor is in such a direction as to oppose the change producing it",
+            "e.m.f. is induced in a circuit whenever there is a change in the magnetic flux linked with the circuit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1998,
+        "question": "A proton of charge 1.6 x 10<sup>19</sup>C is projected into a uniform magnetic field of flux density with a constant speed of 1.6 x 10<sup>6</sup>ms<sup>-1</sup>, calculate the magnitude of the force exerted on it by the field",
+        "explanation": "F = Bqv = 5.0 x 10<sup>-5</sup>x 1.6 x 10<sup>-19</sup>x 10<sup>6</sup><br><br>= 1.3 x 10<sup>-17</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0.0N",
+            "2.0 x 10<sup>-21</sup>N",
+            "1.3 x 10<sup>-17</sup>N",
+            "5.1 x 10<sup>-14</sup>N",
+            "2.3 x 10<sup>13</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1998,
+        "question": "The direction of the magnetic field at a point in the vicinity of a bar magnetic is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "along the line joining the point to the neutral point",
+            "always away from the south pole of the magnet",
+            "opposite the direction of theresultant field at that point",
+            "always towards the north pole of the magnet",
+            "the direction towards which the north pole of a compass needle would point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28585475460_maths-50.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>cos\\(\\theta = \\frac{R}{Z}\\)<br>\n<br>\nR = \\(\\frac{V}{I} = \\frac{40}{2} = 20\\)<br>\n<br>\nZ² = R² + \\(^X_L\\)² = 20²  + 15²  = √625 = 25<br>\n<br>\ncos \\(\\theta = \\frac{R}{Z} = \\frac{20}{25} = 0.8\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.33",
+            "1.25",
+            "0.80",
+            "0.75",
+            "0.60"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14292738720_maths-50.jpg\" class=\"img-fluid\">",
+        "explanation": "P = I<sup>2</sup>R<br><br>= 2<sup>2</sup>x 20 = 80",
+        "correctIndex": 1,
+        "options": [
+            "100W",
+            "80W",
+            "60W",
+            "20W",
+            "10W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 1998,
+        "question": "Use the following data to determine the length L of a wire when a fore of 30N is applied, assuming Hooke's law is obeyed<br>\\(\\begin{array}{c|c}\\text{Force applied/N} &amp; 0 &amp; 5 &amp; 10 &amp; 30\\\\ \\hline \\text{length of wire/mm} &amp; 500.0 &amp; 500.0 &amp; 501.0 &amp; L \\end{array}\\)",
+        "explanation": "F \\(\\alpha\\) e<br><br>F = ke<br><br>K = \\(\\frac{F}{e} = \\frac{5}{0.5} = 10\\)<br><br>when F = 30, e = \\(\\frac{F}{K} = \\frac{30}{10} = 3\\)<br><br>L = 500 + 3 = 503.00",
+        "correctIndex": 2,
+        "options": [
+            "3.0mm",
+            "3.5mm",
+            "503.00mm",
+            "503.5mm",
+            "506.0mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 1998,
+        "question": "Which of the following explains the concave meniscus of water in a clean glass tube? the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "adhension between water and glass molecules is greater than the sdhension between water molecules",
+            "cohension between water molecules is greater then the adhension between glass and water molecule",
+            "molecules of water near the glass move faster than the molecules at the centre of the tube",
+            "molecules of water at the water-air boundary are often attracted to the centre of the tube",
+            "weight of the water pulls the centre part of the surface down"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 1998,
+        "question": "An electron is accelerated from rest through a potential difference of 70kV in a vacuum. Calculate the maximum speed acquired by the electron (electronic charge = -1.6 x 10<sup>-19</sup>; mass of an electron = 9.1 x 10<sup>-31</sup>kg)",
+        "explanation": "ev = \\(\\frac{1}{2}\\)mv<sup>2</sup><br><br>v<sup>2</sup>= \\(\\frac{ev}{\\frac{1}{2}m}\\)<br><br>V = \\(\\sqrt{\\frac{ev}{\\frac{1}{2m}}} = \\sqrt{\\frac{1.6 \\times 10^{-19} \\times 70 \\times 10^3}{\\frac{1}{2} \\times 9.1 \\times 10^{-31}}}\\)<br><br>= \\(\\sqrt{246.2 \\times 10^{14}}\\) = 1.57 x 10<sup>8</sup>",
+        "correctIndex": 2,
+        "options": [
+            "3.00 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "2.46 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "1.57 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "1.32 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "1.11 x 10<sup>8</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 51,
+        "year": 1998,
+        "question": "When light from a source is sent through a gas. i. certain wavelengths are absorbed. ii. a dark line is left. Which of the following is/are correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "iii only",
+            "i and ii only",
+            "i and iii only",
+            "ii and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 52,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8575695648_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "T<sub>\\(\\frac{1}{2}\\)</sub>= \\(\\frac{0.693}{\\pi}\\)<br><br>= \\(\\frac{0.693}{0.077}\\) = 9.0",
+        "correctIndex": 2,
+        "options": [
+            "5.22cm",
+            "5.24cm",
+            "5.26",
+            "5.35"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 53,
+        "year": 1998,
+        "question": "The process of increasing the energy of an atom via inelastic collision with an electron is known as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "ionization",
+            "excitation",
+            "field emission",
+            "photoemission",
+            "thermonic emission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 54,
+        "year": 1998,
+        "question": "<p>A radioactive nuclide of proton number X emits a \\(\\beta\\)-particle to form a new nuclide to proton number Y. The correct equation relating X and Y is</p>",
+        "explanation": "<p>There is an increase in proton number by one in a beta-decay.</p>",
+        "correctIndex": 1,
+        "options": [
+            "X = Y - 1",
+            "X = Y + 1",
+            "X = 1 - Y",
+            "X = \\(\\frac{1}{y}\\)",
+            "X = Y"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 55,
+        "year": 1998,
+        "question": "The frictional effect between the layers of a moving fluid is called",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "capillarity",
+            "turbulence",
+            "diffusion",
+            "osmosis",
+            "viscosity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 56,
+        "year": 1998,
+        "question": "Two radioactive elements X and Y have half-lives of 100 and 50 years respectively. Samples of X and Y initially contain equal number of atoms. What is the ratio of the number of the remaining atoms of X to that of Y after 200 years?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "4:1",
+            "3:1",
+            "1:1",
+            "1:2",
+            "1:4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 57,
+        "year": 1998,
+        "question": "It is always not possible to determine exactly and simultaneously the position and momentum of a particle. This statement is known as the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "De broglie's law",
+            "Heisenberg's uncertainty principle",
+            "Compton effect",
+            "Frank-Hertz experimental law",
+            "Wave particle paradox"
+        ],
+        "type": "objectives"
+    }
+]

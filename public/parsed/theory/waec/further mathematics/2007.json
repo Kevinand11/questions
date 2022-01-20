@@ -1,0 +1,146 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2007,
+        "question": "<p>The second term of a geometric progression is 3. If its sum to infinity is \\(\\frac{25}{2}\\), find the value of its common ratio.</p>",
+        "answer": "<p>\\(T_{n} = ar^{n - 1}\\) (Terms of a geometric progression)</p><p>\\(T_{2} = ar = 3 ..... (1)\\)</p><p>\\(S_{\\infty} = \\frac{a}{1 - r}\\) (Sum to infinity of a GP)</p><p>\\(\\frac{a}{1 - r} = \\frac{25}{2} \\implies 2a = 25(1 - r)\\)</p><p>\\(a = \\frac{25 - 25r}{2}\\)</p><p>\\(3 = (\\frac{25 - 25r}{2})r\\)</p><p>\\(6 = 25r - 25r^{2}\\)</p><p>\\(25r^{2} - 25r + 6 = 0\\)</p><p>\\(25r^{2} - 15r - 10r + 6 = 0\\)</p><p>\\(5r(5r - 3) - 2(5r - 3) = 0 \\implies (5r - 3)(5r - 2) = 0\\)</p><p>\\(r = \\frac{2}{5} \\text{or r = } \\frac{3}{5}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2007,
+        "question": "<p>Solve \\(x^{\\frac{2}{3}} - 5x^{\\frac{1}{3}} + 6 = 0\\).</p>",
+        "answer": "<p>Let \\(x^{\\frac{1}{3}} = b\\) so that the equation is </p><p>\\((x^{\\frac{1}{3}})^{2} - 5x^{\\frac{1}{3}} + 6 = 0\\)</p><p>= \\(b^{2} - 5b + 6 = 0\\)</p><p>\\(b^{2} - 3b - 2b + 6 = 0\\)</p><p>\\(b(b - 3) - 2(b - 3) = 0 \\implies b = \\text{2 or 3}\\)</p><p>\\(x^{\\frac{1}{3}} = 2 \\implies x = 2^{3} = 8\\)</p><p>\\(x^{\\frac{1}{3}} = 3 \\implies x = 3^{3} = 27\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2007,
+        "question": "<p>The normal to the curve \\(y = 2x^{2} + x - 3\\) at the point (2, 7) meets the x- axis at the point P. Find the coordinates of P.</p>",
+        "answer": "<p>\\(y = 2x^{2} + x - 3\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = 4x + 1\\)</p><p>At (2, 7), the gradient is \\(4(2) + 1 = 9\\)</p><p>The gradient of normal = \\(-1 \\div 9  = \\frac{-1}{9}\\)</p><p>Equation of the normal = \\(y - 7 = \\frac{-1}{9}(x - 2)\\)</p><p>\\(9y - 63 = 2 - x\\)</p><p>At the point of meeting the x- axis, y = 0</p><p>\\(0 - 63 = 2 - x \\implies x = 65\\)</p><p>The coordinate of P = (65, 0).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2007,
+        "question": "<p>(a) Write down the first four terms of the binomial expansion of \\((2 - \\frac{1}{2})^{5}\\) in ascending powers of x.</p><p>(b) Use your expansion in (a) above to find, correct to two decimal places, the value of \\((1.99)^{5}\\).</p>",
+        "answer": "<p>(a) From Paschal's triangle, coefficients of the power of 5 are </p><p>1, 5, 10, 10, 5, 1</p><p>\\((2 - \\frac{1}{2}x)^{5} = (1)(2^{5}) + 5(2^{4})(-\\frac{1}{2}x) + 10(2^{3})(-\\frac{1}{2}x)^{2} + 10(2^{2})(-\\frac{1}{2}x)^{3} + ...\\)</p><p>= \\(32 - 40x + 20x^{2} - 5x^{3} + ...\\)</p><p>(b) \\((1.99)^{5} = (2 - 0.01)^{5} = (2 - \\frac{1}{2}(0.02))^{5}\\)</p><p>Using the expansion above, \\(32 - 40x + 20x^{2} - 5x^{3} + ...\\)</p><p>\\((1.99)^{5} \\approxeq 32 - 40(0.02) + 20(0.02)^{2} - 5(0.02)^{3} \\)</p><p>\\(\\approxeq 32 - 0.08 + 0.008\\)</p><p>= \\(31.928\\)</p><p>= \\(31.93\\) (to 2 decimal place)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2007,
+        "question": "<p>Five digit numbers are formed from digits 4, 5, 6, 7 and 8.</p><p>(a)How many such numbers can be formed if repitition of digits is (i) allowed  (ii) not allowed?</p><p>(b) How many of the numbers are odd, if repetition of digits is not allowed?</p>",
+        "answer": "<p>(a)(i) If repetition is allowed, the numbers can be formed as follows:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Position</td>\n<td>1st</td>\n<td>2nd</td>\n<td>3rd</td>\n<td>4th</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>Ways</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p>Number of ways = \\(5^{5} = 3125\\)</p><p>(ii) If no repetition = \\(5!\\) ways</p><p> = 120 ways</p><p>(b) No repetition and the numbers odd</p><p>The 5th position is filled by 5 and 7 for it to be odd ie 2 ways</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Position</td>\n<td>1st</td>\n<td>2nd</td>\n<td>3rd</td>\n<td>4th</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>Ways</td>\n<td>4</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>2</td>\n</tr>\n</tbody>\n</table><p>Ways = \\(4 \\times 3 \\times 2 \\times 1 \\times 2 = 48\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2007,
+        "question": "<p>Four boys participated in a competition in which their respective chances of winning prizes are \\(\\frac{1}{5}, \\frac{1}{4}, \\frac{1}{3}\\) and \\(\\frac{1}{2}\\). What is the probability that at most two of them win prizes?</p>",
+        "answer": "<p>P(at most two winning prizes) = 1 - [P(all winning) + P(three winning)]</p><p>P(three winning) = \\(P(ABCD') + P(ABC'D) + P(AB'CD) + P(A'BCD)</p><p>P(A) = \\(\\frac{1}{5}\\), P(A') = \\(\\frac{4}{5}\\)</p><p>P(B) = \\(\\frac{1}{4}\\), P(B') = \\(\\frac{3}{4}\\)</p><p>P(C) = \\(\\frac{1}{3}\\), P(C') = \\(\\frac{2}{3}\\)</p><p>P(D) = \\(\\frac{1}{2}\\), P(D') = \\(\\frac{1}{2}\\)</p><p>P(three winning) = \\((\\frac{1}{5} \\times \\frac{1}{4} \\times \\frac{1}{3} \\times \\frac{1}{2}) + (\\frac{1}{5} \\times \\frac{1}{4} \\times \\frac{2}{3} \\times \\frac{1}{2}) + (\\frac{1}{5} \\times \\frac{3}{4} \\times \\frac{1}{3} \\times \\frac{1}{2}) + (\\frac{4}{5} \\times \\frac{1}{4} \\times \\frac{1}{3} \\times \\frac{1}{2})\\)</p><p>= \\(\\frac{1}{120} + \\frac{2}{120} + \\frac{3}{120} + \\frac{4}{120}\\)</p><p>= \\(\\frac{10}{120}\\)</p><p>P(all winning) = \\(\\frac{1}{5} \\times \\frac{1}{4} \\times \\frac{1}{3} \\times \\frac{1}{2}\\)</p><p>= \\(\\frac{1}{120}\\)</p><p>P(at most 2 winning) = \\(1 - [\\frac{1}{120} + \\frac{10}{120}]\\)</p><p>= \\(\\frac{109}{120}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2007,
+        "question": "<p>Forces \\(F_{1} = (10 N, 090°), F_{2} = (20 N, 210°)\\) and \\(F_{3} = (4 N, 330°)\\) act on a body at rest on a smooth table. Find, correct to one decimal place, the magnitude of the resultant force.</p>",
+        "answer": "<p>\\(F_{R} = F_{1} + F_{2} + F_{3}\\)</p><p>\\(F_{1} = (10 N, 090°) = \\begin{pmatrix} 10 \\cos 90 \\\\ 10 \\sin 90 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 10 \\end{pmatrix}\\)</p><p>\\(F_{2} = (20 N, 210°) = \\begin{pmatrix} 20 \\cos 210 \\\\ 20 \\sin 210 \\end{pmatrix} = \\begin{pmatrix} -10\\sqrt{3} \\\\ - 10 \\end{pmatrix}\\)</p><p>\\(F_{3} = (4 N, 330°) = \\begin{pmatrix} 4 \\cos 330 \\\\ 4 \\sin 330 \\end{pmatrix} = \\begin{pmatrix} 2\\sqrt{3} \\\\ -2 \\end{pmatrix}\\)</p><p>\\(F_{R} = \\begin{pmatrix} 0 \\\\ 10 \\end{pmatrix} + \\begin{pmatrix} -10\\sqrt{3} \\\\ -10 \\end{pmatrix} + \\begin{pmatrix} 2\\sqrt{3} \\\\ -2 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -8\\sqrt{3} \\\\ -2 \\end{pmatrix}\\)</p><p>\\(|F_{R}|  = \\sqrt{(8\\sqrt{3})^{2} + (-2)^{2}}\\)</p><p>= \\(\\sqrt{192 + 4} \\)</p><p>= \\(\\sqrt{196} = 14 N\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2007,
+        "question": "<p>An object is projected vertically upwards. Its height, h m, at time t seconds is given by \\(h = 20t - \\frac{3}{2}t^{2} - \\frac{2}{3}t^{3}\\). Find </p><p>(a) the time at which it is momentarily at rest  (b) correct to two decimal places, the maximum height reached by the object.</p>",
+        "answer": "<p>\\(h = 20t - \\frac{3}{2}t^{2} - \\frac{2}{3}t^{3}\\)</p><p>Velocity, \\(\\frac{\\mathrm d h}{\\mathrm d t} = 20 - 3t - 2t^{2}\\)</p><p>At point of rest, v = 0</p><p>\\(2t^{2} + 3t - 20 = 0\\)</p><p>\\(\\implies 2t^{2} - 5t + 8t - 20 = 0\\)</p><p>\\(t(2t - 5) + 4(2t - 5) = 0 \\implies t = \\frac{5}{2}; -4\\)</p><p>The value of time cannot be negative hence \\(t = \\frac{5}{2}secs\\)</p><p>(b) Maximum height, \\(h_{m}\\) is at time \\(t = \\frac{5}{2}s\\).</p><p>\\(h_{m} = 20(\\frac{5}{2}) - \\frac{3}{2}(\\frac{5}{2})^{2} - \\frac{2}{3}(\\frac{5}{2})^{3}\\)</p><p>= \\(50 - \\frac{75}{8} - \\frac{250}{16} = \\frac{400}{16} = 25 m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2007,
+        "question": "<p>(a) The roots of the equation \\(x^{2} + mx + 11 = 0\\) are \\(\\alpha\\) and \\(\\beta\\), where m is a constant. If \\(\\alpha^{2} + \\beta^{2} = 27\\), find the values of m.</p><p>(b) The line \\(2x + 3y = 1\\) intersects the circle \\(2x^{2} + 2y^{2} + 4x + 9y - 9 = 0\\) at points P and Q where Q lies in the fourth quadrant. Find the coordinates of P and Q.</p>",
+        "answer": "<p>(a) \\(x^{2} + mx + 11 = 0\\)</p><p>Roots are \\(\\alpha\\) and \\(\\beta\\).</p><p>\\(\\therefore \\alpha + \\beta = \\frac{-b}{a} = - m &amp; \\alpha \\beta = \\frac{c}{a} = 11\\)</p><p>\\(\\alpha^{2} + \\beta^{2} = (\\alpha + \\beta)^{2} - 2\\alpha \\beta\\)</p><p>\\(27 = (-m)^{2} - 2(11)\\)</p><p>\\(m^{2} = 22 + 27 = 49\\)</p><p>\\(m = \\pm 7\\)</p><p>(b) Equation of line : \\(2x + 3y = 1 i.e. y = \\frac{1 - 2x}{3}\\)</p><p>Substitute for y in the equation of the circle:</p><p>\\(2x^{2} + 2(\\frac{1 - 2x}{3})^{2} + 4x + 9(\\frac{1 - 2x}{3}) - 9 = 0\\)</p><p>\\(2x^{2} + 2(\\frac{1 - 4x + 4x^{2}}{9} + 4x + 3(1 - 2x) - 9 = 0\\)</p><p>\\(18x^{2} + 2 - 8x + 8x^{2} + 36x + 27 - 54x - 81 = 0\\)</p><p>\\(26x^{2} - 26x - 52 = 0\\)</p><p>\\(x^{2} - x - 2 = 0\\)</p><p>\\((x - 2)(x + 1) = 0\\)</p><p>\\(x = \\text{2 or -1}\\)</p><p>Substitute for x in \\(y = \\frac{1 - 2x}{3}\\); when x = 2,</p><p>\\(y = \\frac{1 - 2(2)}{3} = \\frac{-3}{3} = -1\\)</p><p>Coordinate = \\((2, -1)\\).</p><p>When x = -1,</p><p>\\(y = \\frac{1 - 2(-1)}{3} = \\frac{3}{3} = 1\\)</p><p>Coordinate = \\((-1, 1)\\)</p><p>Since Q lies in the fourth quadrant, we have P(-1, 1) and Q(2, -1). </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2007,
+        "question": "<p>(a) Solve the equation : \\(\\sqrt{4x - 3} - \\sqrt{2x - 5} = 2\\).</p><p>(b) Find the finite area enclosed by the curve \\(y^{2} = 4x\\) and the line \\(y + x = 0\\).</p>",
+        "answer": "<p>(a) \\(\\sqrt{4x - 3} - \\sqrt{2x - 5} = 2\\)</p><p>Squaring both sides, we have</p><p>\\(4x - 3 - 2\\sqrt{8x^{2} - 26x + 15} + 2x - 5 = 4\\)</p><p>\\(6x - 8 - 4 = 2\\sqrt{8x^{2} - 26x + 15}\\)</p><p>\\(6x - 12 = 2\\sqrt{8x^{2} - 26x + 15}\\)</p><p>\\(3x - 6 = \\sqrt{8x^{2} - 26x + 15}\\)</p><p>Squaring both sides, we have</p><p>\\(9x^{2} - 36x + 36 = 8x^{2} - 26x + 15\\)</p><p>\\(9x^{2} - 8x^{2} - 36x + 26x + 36 - 15 = 0\\)</p><p>\\(x^{2} - 10x + 21 = 0\\)</p><p>Factorising, we have</p><p>\\((x - 7)(x - 3) = 0\\)</p><p>\\(\\text{x = 7 or 3}\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0089%20%282%29.jpg\" style=\"height:619px; width:719px\"></p><p>We integrate with respect to y.</p><p>\\(y^{2} = 4x \\implies x = \\frac{y^{2}}{4}\\)</p><p>\\(x + y = 0 \\implies x = -y\\)</p><p>To get the boundary, equate the two values of x;</p><p>\\(\\frac{y^{2}}{4} = - y \\implies y^{2} = -4y\\)</p><p>\\(y^{2} + 4y = 0 \\implies y(y + 4) = 0\\)</p><p>\\(y = 0; y = -4\\)</p><p>\\(\\int_{-4}^{0} (\\frac{y^{2}}{4}) \\mathrm {d} y = [\\frac{y^{3}}{12}]|_{-4}^{0}\\)</p><p>\\(0 - \\frac{-4^{3}}{12} = 0 - \\frac{-64}{12} = \\frac{64}{12} sq. units\\)</p><p>\\(\\int_{-4}^{0} - y \\mathrm {d} y = [-\\frac{y^{2}}{2}]|_{-4}^{0}\\)</p><p>\\(0 - \\frac{-(-4^{2})}{2} = \\frac{16}{2} = 8 sq. units\\)</p><p>Area enclosed = \\(8 - \\frac{64}{12} = \\frac{32}{12} = 2\\frac{2}{3} sq. units\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2007,
+        "question": "<p>(a) Given that \\(\\begin{vmatrix} 5 &amp; 2 &amp; -3 \\\\ -1 &amp; k &amp; 6 \\\\ 3 &amp; 9 &amp; (k + 2) \\end{vmatrix} = -207\\), find the values of the constant k.</p><p>(b) The equation of a curve is \\(x(y^{2} + 1) - y(x^{2} + 1) + 4 = 0\\). Find the:</p><p>(i) gradient of the curve at any point (x, y).</p><p>(ii) equation of the tangent to the curve at the point (-1, -3).</p>",
+        "answer": "<p>(a) \\(\\begin{vmatrix} 5 &amp; 2 &amp; -3 \\\\ -1 &amp; k &amp; 6 \\\\ 3 &amp; 9 &amp; (k + 2) \\end{vmatrix} = - 207\\)</p><p>\\(5[(k)(k + 2) - 54] - 2[(-1)(k + 2) - 18] - 3[-9 - 3k] = - 207\\)</p><p>\\(5k^{2} + 10k - 270 + 2k + 4 + 36 + 27 + 9k = - 207\\)</p><p>\\(5k^{2} + 21k - 203 + 207 = 0\\)</p><p>\\(5k^{2} + 21k + 4 = 0\\)</p><p>\\(5k^{2} + 20k + k + 4 = 0\\)</p><p>\\(5k(k + 4) + 1(k + 4) = 0\\)</p><p>\\((5k + 1)(k + 4) = 0\\)</p><p>\\(k = -\\frac{1}{5}; k = -4\\)</p><p>(b) Equation of curve:</p><p>\\(x(y^{2} + 1) - y(x^{2} + 1) + 4 = 0\\)</p><p>(i) Differentiating, we have</p><p>\\(x(2y\\frac{\\mathrm d y}{\\mathrm d x}) + y^{2} + 1 - y(2x) - (x^{2} + 1)\\frac{\\mathrm d y}{\\mathrm d x} = 0\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x}(2xy) - \\frac{\\mathrm d y}{\\mathrm d x}(x^{2} + 1) + y^{2} + 1 - 2xy = 0\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x}(2xy - x^{2} - 1) = 2xy - y^{2} - 1\\)</p><p>The gradient of the curve at (x, y) </p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{2xy - y^{2} - 1}{2xy - x^{2} - 1}\\)</p><p>(ii) Gradient of the tangent at (-1, -3) is</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{2(-1)(-3) - (-3)^{2} - 1}{2(-1)(-3) - (-1)^{2} - 1}\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{-4}{4} = -1\\)</p><p>Equation : \\(\\frac{y - (-3)}{x - (-1)} = -1\\)</p><p>\\(y + 3 = - x - 1\\)</p><p>\\(y = - x -4\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2007,
+        "question": "<p>(a) Using the trapezium rule with seven ordinates, evaluate \\(\\int_{0}^{3} \\frac{\\mathrm d x}{x^{2} + 1}\\), correct to two decimal places.</p><p>(b) Using matrix method, solve \\(-2x + y = 3; - x + 4y = 1\\).</p>",
+        "answer": "<p>(a) \\(\\int_{0}^{3} \\frac{\\mathrm d x}{x^{2} + 1}\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:80%\">\n<tbody>\n<tr>\n<td>\\(x\\)</td>\n<td>0</td>\n<td>0.5</td>\n<td>1.0</td>\n<td>1.5</td>\n<td>2.0</td>\n<td>2.5</td>\n<td>3</td>\n</tr>\n<tr>\n<td>\\(x^{2} + 1\\)</td>\n<td>1</td>\n<td>1.25</td>\n<td>2.0</td>\n<td>3.25</td>\n<td>5.0</td>\n<td>7.25</td>\n<td>10.0</td>\n</tr>\n<tr>\n<td>\\(\\frac{1}{x^{2} + 1}\\)</td>\n<td>1</td>\n<td>0.8</td>\n<td>0.5</td>\n<td>0.308</td>\n<td>0.2</td>\n<td>0.138</td>\n<td>0.1</td>\n</tr>\n</tbody>\n</table><p>h = 0.5</p><p>\\(y_{1} = 1; y_{2} = 0.8; y_{3} = 0.5; y_{4} = 0.308; y_{5} = 0.2; y_{6} = 0.138; y_{7} = 0.1\\)</p><p>\\(y_{1} + y_{7} = 1 + 0.1 = 1.1\\)</p><p>\\(2(y_{2} + ... + y_{6}) = 2(0.8 + 0.5 + 0.308 + 0.2 + 0.138) = 2(1.946) = 3.892\\)</p><p>\\(\\int_{0}^{3} \\frac{\\mathrm d x}{x^{2} + 1} = \\frac{1}{2} \\times 0.5 (1.1 +  3.892) = 0.25(4.992)\\)</p><p>= \\(1.248 \\approxeq 1.25 (\\text{to 2 decimal place})\\)</p><p>(b) -2x + y = 3</p><p>     -x + 4y = 1</p><p>\\(det = \\begin{vmatrix} -2 &amp; 1 \\\\ -1 &amp; 4 \\end{vmatrix} = -7\\)</p><p>\\(det_{1} = \\begin{vmatrix} 3 &amp; 1 \\\\ 1 &amp; 4 \\end{vmatrix} = 11\\)</p><p>\\(det_{2} = \\begin{vmatrix} -2 &amp; 3 \\\\ -1 &amp; 1 \\end{vmatrix} = 1\\)</p><p>\\(\\therefore x = \\frac{det_{1}}{det} = \\frac{11}{-7} = -1\\frac{4}{7}\\)</p><p>\\(\\therefore y = \\frac{det_{2}}{det} = \\frac{1}{-7}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2007,
+        "question": "<p>(a) If \\(^{18}C_{r} = ^{18}C_{r + 2}\\), find \\(^{r}C_{5}\\).</p><p>(b) In a community, 10% of the people tested positive to the HIV virus. If 6 persons from the community are selected at random, one after the other with replacement, calculate, correct to four decimal places, the probability that : (i) exactly 5 (ii) none (iii) at most 2; tested positive to the virus.</p>",
+        "answer": "<p>(a) \\(^{18}C_{r} = ^{18}C_{r + 2}\\)</p><p>\\(\\frac{18!}{r! (18 - r)!} = \\frac{18!}{(r + 2)! (18 - r - 2)!}\\)</p><p>\\(r! (18 - r)! = (r + 2)(r + 1)r! (18 - r - 2)!\\)</p><p>\\((18 - r)! = (r + 2)(r + 1)(18 - r - 2)!\\)</p><p>\\((18 - r)(18 - r - 1)(18 - r - 2)! = (r + 2)(r + 1)(18 - r - 2)!\\)</p><p>\\((18 - r)(17 - r ) = r^{2} + 3r + 2\\)</p><p>\\(306 - 35r + r^{2} = r^{2} + 3r + 2\\)</p><p>\\(306 -2  = r^{2} - r^{2} + 3r + 35r\\)</p><p>\\(304 = 38r \\implies r = 8\\)</p><p>\\(\\therefore ^{8}C_{5} = \\frac{8!}{5! (8 - 5)!}\\)</p><p>\\(\\frac{8 \\times 7 \\times 6}{3 \\times 2} = 56\\)</p><p>(b) p(H) = 10% = 0.1 = a; p(H') = 0.9 = b</p><p>6 persons tested. We use the binomial probability distribution.</p><p>\\((a + b)^{6} = a^{6} + 6a^{5}b + 15a^{4}b^{2} +20a^{3}b^{3} + 15a^{2}b^{4} + 6ab^{5} + b^{6}\\)</p><p>(i) p(exactly 5 tested positive to the virus) = \\(6a^{5}b\\)</p><p>= \\(6 \\times (0.1)^{5} \\times (0.9) = 0.000054 \\approxeq 0.0001\\) (to 4 d.p)</p><p>(ii) p(none tested positive) = \\(b^{6}\\)</p><p>= \\((0.9)^{6} = 0.531441 \\approxeq 0.5314\\) (to 4 d.p)</p><p>(iii) p(at most 2) = p(none) + p(one) + p(two)</p><p>= \\(b^{6} + 6ab^{5} + 15a^{2}b^{4}\\)</p><p>= \\((0.9)^{6} + 6(0.1)(0.9)^{5} + 15(0.1^{2})(0.9^{4})\\)</p><p>= \\(0.531441 + 0.354294 + 0.098415 = 0.98415\\)</p><p>\\(\\approxeq 0.9842\\) (to 4 d.p)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2007,
+        "question": "<p>The table below shows the distribution of ages of workers in a company.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:85%\">\n<tbody>\n<tr>\n<td>Age/ yr</td>\n<td>17 - 21</td>\n<td>22 - 26</td>\n<td>27 - 31</td>\n<td>32 - 36</td>\n<td>37 - 41</td>\n<td>42 - 46</td>\n<td>47 - 51</td>\n<td>52 - 56</td>\n</tr>\n<tr>\n<td>Workers</td>\n<td>12</td>\n<td>24</td>\n<td>30</td>\n<td>37</td>\n<td>45</td>\n<td>25</td>\n<td>10</td>\n<td>7</td>\n</tr>\n</tbody>\n</table><p>(a) Using an assumed mean of 39, calculate the (i) mean (ii) standard deviation; of the distribution.</p><p>(b) If a worker is selected at random from the company for an award, what is the probability that he is at most 36 years old?</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:90%\">\n<tbody>\n<tr>\n<td>\n<p>Age</p>\n<p>(in years)</p>\n</td>\n<td>\n<p>No of </p>\n<p>workers</p>\n</td>\n<td>Mid-point (x)</td>\n<td>\\(d = x - A\\)</td>\n<td>\\(d^{2}\\)</td>\n<td>\\(fd^{2}\\)</td>\n<td>\\(fd\\)</td>\n</tr>\n<tr>\n<td>17 - 21</td>\n<td>12</td>\n<td>19</td>\n<td>-20</td>\n<td>400</td>\n<td>4800</td>\n<td>-240</td>\n</tr>\n<tr>\n<td>22 - 26</td>\n<td>24</td>\n<td>24</td>\n<td>-15</td>\n<td>225</td>\n<td>5400</td>\n<td>-360</td>\n</tr>\n<tr>\n<td>27 - 31</td>\n<td>30</td>\n<td>29</td>\n<td>-10</td>\n<td>100</td>\n<td>3000</td>\n<td>-300</td>\n</tr>\n<tr>\n<td>32 - 36</td>\n<td>37</td>\n<td>34</td>\n<td>-5</td>\n<td>25</td>\n<td>925</td>\n<td>-185</td>\n</tr>\n<tr>\n<td>37 - 41</td>\n<td>45</td>\n<td>39</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>42 - 46</td>\n<td>25</td>\n<td>44</td>\n<td>5</td>\n<td>25</td>\n<td>625</td>\n<td>125</td>\n</tr>\n<tr>\n<td>47 - 51</td>\n<td>10</td>\n<td>49</td>\n<td>10</td>\n<td>100</td>\n<td>1000</td>\n<td>100</td>\n</tr>\n<tr>\n<td>52 - 56</td>\n<td>7</td>\n<td>54</td>\n<td>15</td>\n<td>225</td>\n<td>1575</td>\n<td>105</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>190</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>17325</td>\n<td>-755</td>\n</tr>\n</tbody>\n</table><p>(a)(i) Mean, \\(\\bar{x}\\) = \\(A + \\frac{\\sum fd}{\\sum f}\\)</p><p>= \\(39 + \\frac{-755}{190}\\)</p><p>= \\(39 - 3.974 = 35.026\\)</p><p>(ii) Standard deviation \\(SD = \\sqrt{\\frac{\\sum fd^{2}}{N} - (\\frac{\\sum fd}{N})^{2}}\\)</p><p>= \\(\\sqrt{\\frac{17325}{190} - (\\frac{-755}{190})^{2}}\\)</p><p>= \\(\\sqrt{91.184 - (-3.974)^{2}}\\)</p><p>\\(\\sqrt{91. 184 - 15.794} = \\sqrt{75.39}\\)</p><p>= \\(8.68\\)</p><p>(b) Total number of workers = 190</p><p>No of workers who are at most 36 years old = 12 + 24 + 30 + 37 = 103</p><p>p(award to a person at most 36 years old) = \\(\\frac{103}{190}\\)</p><p>= 0.542</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2007,
+        "question": "<p>The table shows the marks obtained by some candidates in Physics (y) and Mathematics (x) tests.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Mathematics</td>\n<td>43</td>\n<td>46</td>\n<td>48</td>\n<td>39</td>\n<td>30</td>\n<td>60</td>\n<td>8</td>\n<td>45</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Physics</td>\n<td>54</td>\n<td>53</td>\n<td>63</td>\n<td>30</td>\n<td>44</td>\n<td>75</td>\n<td>20</td>\n<td>33</td>\n<td>49</td>\n</tr>\n</tbody>\n</table><p>(a)(i) Represent this information on a scatter diagram.</p><p>(ii) Find \\(\\bar{x}\\) and \\(\\bar{y}\\), the mean of x and y respectively.</p><p>(iii) Draw the line of best fit to pass through (x, y).</p><p>(b) Find the equation of the line in a(iii).</p><p>(c) Use your equation in (b) to find, correct to one decimal place, the mark in Physics for a candidate who scored 28 in Mathematics.</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Mathematics (x)</td>\n<td>43</td>\n<td>46</td>\n<td>48</td>\n<td>39</td>\n<td>30</td>\n<td>60</td>\n<td>8</td>\n<td>45</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Physics (y)</td>\n<td>54</td>\n<td>53</td>\n<td>63</td>\n<td>30</td>\n<td>44</td>\n<td>75</td>\n<td>20</td>\n<td>33</td>\n<td>49</td>\n</tr>\n</tbody>\n</table><p> </p><p>(a)(i) and (iii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0090%20%282%29.jpg\" style=\"height:1102px; width:993px\">Scale: On each axis, 2 cm represents 10 marks.</p><p>(ii) \\(\\bar{x} = \\frac{43 + 46 + 48 + 39 + 30 + 60 + 8 + 45 + 40}{9} = \\frac{359}{9} = 39.89 \\approxeq 39.9\\)</p><p>\\(\\bar{y} = \\frac{54 + 53 + 63 + 30 + 44 + 75 + 20 + 33 + 48}{9} = \\frac{421}{9} = 46.78 \\approxeq 46.8\\)</p><p>\\((\\bar{x}, \\bar{y}) = (39.9, 46.8)\\)</p><p>(b) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>\\(x\\)</td>\n<td>\\(y\\)</td>\n<td>\\(xy\\)</td>\n<td>\\(x^{2}\\)</td>\n</tr>\n<tr>\n<td>43</td>\n<td>54</td>\n<td>2322</td>\n<td>1849</td>\n</tr>\n<tr>\n<td>46</td>\n<td>53</td>\n<td>2438</td>\n<td>2116</td>\n</tr>\n<tr>\n<td>48</td>\n<td>63</td>\n<td>3024</td>\n<td>2304</td>\n</tr>\n<tr>\n<td>39</td>\n<td>30</td>\n<td>1170</td>\n<td>1521</td>\n</tr>\n<tr>\n<td>30 </td>\n<td>44</td>\n<td>1320</td>\n<td>900</td>\n</tr>\n<tr>\n<td>60</td>\n<td>75</td>\n<td>4500</td>\n<td>3600</td>\n</tr>\n<tr>\n<td>8</td>\n<td>20</td>\n<td>160</td>\n<td>64</td>\n</tr>\n<tr>\n<td>45</td>\n<td>33</td>\n<td>1485</td>\n<td>2025</td>\n</tr>\n<tr>\n<td>40</td>\n<td>49</td>\n<td>1960</td>\n<td>1600</td>\n</tr>\n<tr>\n<td>Total</td>\n<td> </td>\n<td>18379</td>\n<td>15979</td>\n</tr>\n</tbody>\n</table><p>The equation of the line :</p><p>\\(y - \\bar{y} = m(x - \\bar{x})\\)</p><p>\\(m = \\frac{\\sum {xy} - N(\\bar{x})(\\bar{y})}{\\sum {x^{2}} - N(\\bar{x})^{2}}\\)</p><p>= \\(\\frac{18379 - 9 \\times 39.9 \\times 46.8}{15979 - (39.9)^{2}} = \\frac{18379 - 16805.88}{15979 - 9 \\times (39.9)^{2}}\\)</p><p>= \\(\\frac{1573.12}{1650.91} \\approxeq 0.95\\)</p><p>Substituting in the equation, \\(y - \\bar{y} = m(x - \\bar{x})\\)</p><p>\\(y - 46.8 = 0.95(x - 39.9)\\)</p><p>= \\(y = 0.95x + 8.895\\)</p><p>(c) y = 0.95x + 8.895</p><p>when x = 28,</p><p>\\(y = (0.95 \\times 28) + 8.895\\)</p><p>= \\(26.6 + 8.895 \\approxeq 35.5 marks\\).</p><p>For a student who scored 28 in Mathematics, his mark in Physics is 35.5.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2007,
+        "question": "<p>(a) Find, correct to one decimal place, the angle between  \\(p = \\begin{pmatrix}  3 \\\\ -1 \\end{pmatrix}\\) and \\(q = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}\\).</p><p>(b) ABCD is a square with vertices at A(0, 0), B(2, 0), C(2, 2) and D(0, 2). Forces of magnitude 10 N, 15 N, 20 N and 5 N act along \\(\\overrightarrow{BA}, \\overrightarrow{BC}, \\overrightarrow{DC}\\) and \\(\\overrightarrow{AD}\\) respectively. Find the (i) magnitude (ii) direction; of the resultant.</p>",
+        "answer": "<p>(a) \\(p = \\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix} = 3i - j ; q = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix} = 3i + 4j\\)</p><p>Let the angle be \\(\\theta\\), </p><p>\\(p . q = |p||q| \\cos \\theta\\)</p><p>\\((3i - j).(3i + 4j) = 9 - 4 = 5\\)</p><p>\\(|3i - j| = \\sqrt{3^{2} + (-1)^{2}} = \\sqrt{10}\\)</p><p>\\(|3i + 4j| = \\sqrt{3^{2} + 4^{2}} = \\sqrt{25} = 5\\)</p><p>\\(5 = (\\sqrt{10})(5) \\cos \\theta \\implies \\cos \\theta = \\frac{\\sqrt{10}}{10} = 0.3162\\)</p><p>\\(\\theta = \\cos^{-1} 0.3162 = 71.567° \\approxeq 71.6°\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0091%20%282%29.jpg\" style=\"height:424px; width:502px\"></p><p>(i) Resolving the forces along the x and y axes, we obtain</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0091%20%283%29.jpg\" style=\"height:296px; width:440px\"></p><p>Resultant (R) = (10i + 20j) N.</p><p>Magnitude = \\(\\sqrt{10^{2} + 20^{2}} = \\sqrt{500}\\)</p><p>= \\(10\\sqrt{5} \\approxeq 22.4 N\\)</p><p>(ii) Direction : \\(\\tan \\theta = \\frac{20}{10} = 2\\)</p><p>\\(\\theta = \\tan^{-1} 2 = 63.4°\\).</p>",
+        "type": "theory"
+    }
+]

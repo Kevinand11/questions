@@ -1,0 +1,137 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2001,
+        "question": "<p> A ball thrown vertically upward reaches a maximum height of 50 m above the level of projection. Calculate the;</p><p>(i) time taken to reach the maximum height,</p><p>(ii) speed of the throw. [g = 10 ms\\(^{-2}\\)]</p>",
+        "answer": "<p>V\\(_1\\) = U - gt</p><p>U = V + gt = 0 + 10t</p><p>h = ut\\(\\frac{1}{2}\\) - gt\\(^2\\),</p><p>50 = 10t\\(^2\\) \\(\\frac{1}{2}\\) x 10 t\\(^2\\)</p><p>50 = 10t\\(^2\\) - 5t\\(^2\\)</p><p>50 = 5t\\(^2\\) = 10</p><p>t\\(^2\\) = 10</p><p>t = \\(\\sqrt{10}\\) = 3.16s</p><p>(ii) V = U - gt, O = U - 10 x 3.16 </p><p>U = 31.16</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2001,
+        "question": "<p>A lead shot is projected from tha ground level with a velocity u at an angle \\(\\theta\\) to the horizontal. Given the time, t for the lead shot to reach its maximum height as; t = \\(\\frac{u \\sin \\theta}{g}\\) where \"g\" is the acceleration of free fall due to gravity, show that the greatest height reached by the body is h\\(_{\\text{max}} = \\frac{u^2 \\sin^2 \\theta}{2g}\\)</p><p> </p>",
+        "answer": "<p>For verticsl motion of projectile h = (U sin \\(\\theta\\)) t \\(\\frac{1}{2}\\)gt\\(^2\\)</p><p>= U sin \\(\\theta\\) (\\(\\frac{Usin \\theta}{g}\\))\\(\\frac{1}{2}\\)g (\\(\\frac{Usin \\theta}{g}\\)) = (\\(\\frac{U^2 \\sin^2 \\theta}{g}\\))</p><p> </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2001,
+        "question": "<p>(a) What is electrolysis?</p><p>(b) A current of 2A is passed through a copper voltameter for 5 minutes. If the electrochemical equivalent of copper is 3.27 x 10\\(^{-7}\\) kg. Determine the mass of the corper deposited.</p>",
+        "answer": "<p>(a) Electrolysis is the decomposition of an electrolyte into ions by passing current through the electrolyte.</p><p>(b) Mass of copper deposited M = zlt</p><p>= 3.27 x 10\\(^{7}\\) x 2 x 300 = 1.962 x 10\\(^{-4}\\) kg</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2001,
+        "question": "<p>The value of the e.m.f of a voltaic cell, which has dilute tetraoxosulphate (VI) acid as its electrolyte and copper and zinc as its electrodes becomes less with use. Explain this observation and state how it can be corrected.</p>",
+        "answer": "<p>Explanation: This is due to the accumulation of hydrogen bubbles in the positive copper plate, thereby insulating the electrodes. The hydrogen-zinc pair sets up opposing e.m.f. that reduces the e.m.f. originally established. Correction: It can be corrected by introducing a suitable depolarises.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2001,
+        "question": "<p>(a) What is meant by 'a beam of polarised light?</p><p>(b) With the aid of well labelled diagrams, illustrate the action in of a polaroid spectacle on a beam of sunlight.</p>",
+        "answer": "<p> (a) A beam of polarised light is on constrained in a single plane perpendicular to the beam.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%282%29.jpg\" style=\"height:142px; width:190px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2001,
+        "question": "<p>(a) Explain how a gas can be made to conduct electricity.</p><p>(b) Name the electric charge carriers in gases.</p>",
+        "answer": "<p> (a) The molecule or atoms of a gas must be ionised before the gas can conduct electricity. Ionisation of the gas requires that light the gas pressure is greatly reduced within the enclosure and a high voltage is applied to the enclosed gas.</p><p>(b) The electric charge carriers in gases are electrons and ions.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2001,
+        "question": "<p>(a) State two properties of cathode rays.</p><p>(b) Explain how the intensity and energy of cathode rays may be increased.</p>",
+        "answer": "<p> (a) Cathode rays:</p><p>(i) Are negatively charged particles</p><p>(ii) In field free space travel in straight line.</p><p>(iii) Are deflected by electric and magnetic fields.</p><p>(b) The intensity of the cathode rays may be increased by increasing the current through the filament. The energy of the cathode rays may be increased by increasing the p.d. between the anode and the cathode i.e. the anode potential.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2001,
+        "question": "<p>(a) The mass and wavelength of a moving electron are 9.0 x 10\\(^{-31}\\) kg and 1.0 x 10\\(^{-10}\\)m respectively. Calculate the kinetic energy of the electron. [ h = 6.6 x 10\\(^{-34}\\) Js]</p>",
+        "answer": "<p>\\(\\lambda = \\frac{h}{p} = \\frac{h}{mv}\\)</p><p>V = \\(\\frac{h}{m_2}\\)</p><p>Electron kitenic energy = \\(\\frac{1}{2} MV^2 = \\frac{h^2}{2m \\lambda^2}\\)</p><p>= \\(\\frac{(6.6 \\times 10^{-34})^2}{2 \\times 9.0 \\times 10^{-37} \\times 1.0 \\times 10^{-20}}\\) = 2.39 x 10\\(^{-17}\\)J</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2001,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%281%29.jpg\" style=\"height:140px; width:204px\"></p><p>The above reprt the graph electron energy against the frequency of the radiation incident on a metal surface. lnterprete the;</p><p>(i) slope of the graph;</p><p>(ii) intercept, OC;</p><p>(iii) intercept, OK.</p>",
+        "answer": "<p>(i) Slope represents the Planck's constant, h.</p><p>(ii) Intercept OC represents the work function of the metal.</p><p>(iii) The intercept OK represents the threshold frequency of the radiation.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2001,
+        "question": "<p>(a) Distinguish between stress and strain as used in elasticity.</p><p>(b) When a force of 40 N is applied to the free end of an elastic cord, an extension of 5cm is produced in the cord. Calculate the work done on the cord.</p>",
+        "answer": "<p>(a)(i) Stress is force per unit cross sectional area, while strain is extension over original length</p><p>(ii) Stress has unit of Nm\\(^{-2}\\) while strain has no unit.</p><p>(b) Work done on the cord = \\(\\frac{1}{2}\\) Fe</p><p>= \\(\\frac{1}{2}\\) x 40 x 0.05 = 1.0J</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2001,
+        "question": "<p>(a) In his first attempt, a long jumper took off from the springboard with a speed of 8 ms\\(^{-1}\\) at 30° to the horizontal. He makes a second attempt with the same speed at 45° to the horizontal. Given that the expression for the horizontal range of a projectile is \\(\\frac{v^2 sin \\theta}{g}\\) where all the symbols have their usual meanings, show that he gains a distance of 0.8576 m in his second attempt.</p><p>(b)(i) State Hooke's law of elasticity.</p><p>(ii) Describe an experiment to verify Hooke's law.</p><p>(iii) State two precautions you would take if you were to perform this experiment in the laboratory.</p><p>(c) A spiral spring of natural length 20.00 cm has a scale pan hanging freely in its lower end. When an object of mass 40 g is placed in the pan, its length becomes 21.80 cm. When another object of mass 60g Is placed in the pan, the length becomes 22.05cm. Calculate the mass of the scale pan. [g = 10 ms\\(^{-2}\\)]</p>",
+        "answer": "<p>(a) Range = \\(\\frac{U^2 sin 2\\theta}{g}\\)</p><p>for first attempy, Range = \\(\\frac{8^2 \\sin 60}{10} = \\frac{64 x\\times 0.8660}{10}\\)</p><p>= 5.5424m</p><p>for second attemt; Range = \\(\\frac{8^2 \\sin 90}{10} = \\frac{64 \\times 1}{10}\\) </p><p>= 6.4m</p><p>gain 6.40 - 5.54 = 0.8576m</p><p>(b)(i) Hooke's law states that provided the limit of proportionality is not exceeded, the force is proportional to the extension in an elastic material.</p><p>(ii)<strong> Description</strong>: Suspend the spiral spring from a rigid support with a pointer attached at the free end. Suspend a stretching weight from the free end, and note the position of the pointer. Suspend a known mass, note the new position and determine the extension. Repeat the experiment using various known masses. Repeat the above procedure while unloading and determine mean extension. Plot a graph of load against mean extension. A straight line graph through the origin verifies Hooke's law.</p><p><strong>Precautions</strong>: (i) Loading beyond elastic limit should be avoided</p><p>(ii) Pointer to be rigidly attached to the free end and made perpendicular to the spring.</p><p>(iii) Avoid parallax error while taking readings.</p><p>(c) mg = Ke, m = total mass If m = mass of scale pan then;</p><p>(m + 40)g = 1.8k-----------(i)</p><p>(m + 60) = 2.05k --------- (ii)</p><p>Dividing (i) by (ii) \\(\\frac{m + 40}{m + 60} = \\frac{1.8}{2.05}\\)</p><p>2.05(m + 40) = 1.8 (m + 60)</p><p>M = \\(\\frac{26}{0.25}\\) = 104gm</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2001,
+        "question": "<p>(a) Define specific heat capacity.</p><p>(b)(i) With the aid of a labelled diagram, describe an experiment to determine the specific heat capacity of copper using a copper ball.</p><p>(ii) State two precautions necessary to obtain accurate results.</p><p>(c) A piece of copper block of mass 24 g at 230°C is placed in a copper calorimeter of mass 60 g containing 54 g of water at 31°C. Assuming heat losses are negligible, calculate the final steady temperature of the mixture. [specific heat capacity of water = 4200 J kg\\(^{-1}\\) K\\(^{-1}\\)] [specific heat capacity of copper = 400 J kg\\(^{-1}\\) K\\(^{-1}\\)]</p>",
+        "answer": "<p>(a) Specific heat capacity is the quantity of heat energy required to change the temperature of unit mass (1kg) of a substance by 1k.</p><p>(b) Diagram</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%283%29.jpg\" style=\"height:140px; width:205px\"></p><p>Method Weigh empty calorimeter plus stirrer and record the mass M\\(_1\\), weigh empty calorimeter plus stirrer plus water and record the mass m. Weigh copper ball and record the mass Mc. Take the initial temperature of the water T\\(_1\\). Heat copper ball in water to temperature T and record T. Quickly transfer the copper ball into the calorimeter and stir. Take the final temperature of the mixture T\\(_2\\). Heat lost by copper ball = Heat gained by calorimeter; water and stirrer.</p><p>McCc (T - T\\(_2\\)) = (M\\(_2\\) - M\\(_1\\))C\\(_w\\)</p><p>(T\\(_2\\) - T\\(_1\\)) + M\\(_1\\) Cal(T\\(_2\\) - T\\(_1\\))</p><p>Were Cc, Cw and Cz = specific heat capacity of copper, water and calorimeter respectively.</p><p>Cc = \\(\\frac{ (M - M_1C + M Cal (T - T)}{Mc(T - T_2)}\\)</p><p> Precautions: </p><p>(i) Calorimeter should be lagged.</p><p>(ii) Quickly transfer the hot ball to the calorimeter.</p><p>(iii) Shake off water from hot calorimeter metal ball before transfer.</p><p>(iv) Mix thoroughly the mixture with stirrer.</p><p>(c) Heat lost = 0.024 x 400 (230 - T).</p><p>Heat gained by water = 0.054 x 4200 (T - 31)</p><p>Heat gained by calorimeter = 0.060 x 400 (T - 31)</p><p>Heat lost = Heat gained = 0.024 x 400 (230 - T) = 0.054 x 4200</p><p>(T - 31) + 0.060 x 400 (T - 31) T = 38.34°C</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2001,
+        "question": "<p>(a)(i) What is an echo? (ii) State two useful applications of echoes.</p><p>(iii) Why are the walls, floors and ceilings of a recording studio heavily padded?</p><p>(b)(i) Explain timbre and overtones.</p><p>(ii) What is resonance?</p><p>(c) As a ship approaches a cliff, its siren is sounded and the echo is heard in the ship after 12 seconds. 2.1 minutes later the siren was sounded again and the echo was heard 8 seconds later. If the speed of sound in air is 340 ms\\(^{-1}\\), calculate the velocity at which the ship was approaching the cliff.</p>",
+        "answer": "<p>(a)(i) An echo is a reflected sound.</p><p>(ii) Echoes can be used to:</p><p>- Determine the speed of sound in air.</p><p>- Determine the depth of a sea bed.</p><p>- Locate the positions of shoals of fish.</p><p>- Echo sounding is used in mineral prospecting.</p><p>(iii) Padding absorbs sound and minimizes reflections at the walls, floors or ceilings. This helps to minimize the effects of echoes.</p><p>(b)(i) Timbre is the characteristic quality of a sound produced by a particular voice or instrument. Timbre of the note is pure and it comes out unaccompanied by undesired notes. Overtones are sound notes which accompany the fundamental notes.</p><p>(ii) Resonance is said to occur whenever a particular body or system is set in oscillation at its own natural frequency as a result of impulses received from some other system which is vibrating with the same frequency.</p><p>(c) Let S\\(_1\\) = distance i between the ship and the cliff in the first instance</p><p>\\(\\frac{2S}{12}\\)  = 340; S\\(_1\\) = 2040m </p><p>In the second instance \\(\\frac{2S_2}{8}\\) = 340</p><p>S\\(_2\\) = 1360m</p><p>Distance travelled by ship in 2.1 minute S\\(_1\\) - S\\(_2\\)</p><p>= 2040 - 1360 = 680m</p><p>Ship velocity V = \\(\\frac{680 }{2.1 \\times 60}\\) = 5.4ms\\(^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2001,
+        "question": "<p>(a) Explain the statement the capacitance of a capacitor is 5\\(\\mu\\)F.</p><p>(b)(i) State the factors upon which the capacitance of a parallel plate capacitor depend.</p><p>(ii) State how the capacitance depends on each of these factors stated in (b)(i).</p><p>(c) A series arrangement of three capacitors of values 8uF, 12\\(\\mu\\)F, and 24\\(\\mu\\)F is connected in series with 90-V battery.</p><p>(i) Draw an open-circuit diagram for this arrangement.</p><p>(ii) Calculate the effective capacitance in the circuit.</p><p>(iii) On closed circuit, calculate the charge on each capacitor when fully charged.</p><p>(iv) Determine the p.d across the 8\\(\\mu\\)F capacitor.</p>",
+        "answer": "<p>(a) The statement means that an electric charge of 5\\(\\mu\\)F is stored by the fully charged capacitor when connected to a d.c source of 1V.</p><p>(b)(i)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td>\n<p>(i) Factors</p>\n</td>\n<td>\n<p>(ii) Form of dependence </p>\n</td>\n</tr>\n<tr>\n<td>\n<p>- Common area of plates</p>\n<p>- Distance between plates</p>\n<p>- Permitivity or nature of dielectric</p>\n</td>\n<td>\n<p>- Direct proportionality</p>\n<p>-  Inverse proportionality</p>\n<p>- Direct proportionality</p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p>(c)(i)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%284%29.jpg\" style=\"height:132px; width:277px\"></p><p> </p><p>(ii) \\(\\frac{1}{C} = \\frac{1}{C_1} + \\frac{1}{C_1} + \\frac{1}{C_3}\\)</p><p>= \\(\\frac{1}{8} + \\frac{1}{12} + \\frac{1}{20} = \\frac{3 + 2 + 1}{24}\\)</p><p>C = \\(\\frac{24}{6} = 4 \\mu F\\)</p><p>(iii) Q = CV = 4 x 10\\(^{-6}\\) x 90 = 360\\(\\mu\\)C</p><p>charge on 8\\(\\mu\\) FV = \\(\\frac{Q}{C} = \\frac{360}{8}\\) = 45V</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2001,
+        "question": "<p>(a) When nitrogen (atomic mass = 14, atomic number = 7) is bombarded with neutrons, the collisions result in disintegrations in which alpha particles are produced. Represent this transmutation in a symbolic equation.</p><p>(b)(i) How does a radioactive atom differ from a stable one?</p><p>(ii) Explain 'half life'.</p><p>(iii) A sample of radioactive material has a haft life of 35 days. Calculate the fraction of the original quantity that will remain after 105 days.</p><p>(c) Light of wavelength 5.00 x 10\\(^{-7}\\)m is incident on a material of work function 1.90 eV. Calculate</p><p>(i) photon energy.</p><p>(ii) kinetic energy of the most energetic photo electron.</p><p>(iii) stopping potential [Plancks constant h =6.6 x 10\\(^{-34}\\)Js] [c= 3.0 x10\\(^8\\)ms\\(^{-2}\\), leV= 1.6 x 10\\(^{19}\\)J]</p>",
+        "answer": "<p>(a) \\(^{14}_7 + ^1_0n\\) -&gt; \\(^4_2He + ^{11}_5X\\)</p><p> </p><p>(b)(i) The radioactive atom disintegrates spontaneously while a stable atom does not disintegrate on its own.</p><p>(ii) The time at which the number of radioactive atoms remaining is just one-half of the original number is called half-life of the element. The half-life T\\(_{\\frac{1}{2}}\\) is related to the decay constant (\\(\\lambda\\)) of the isotope by the equation.</p><p>\\(T \\frac{1}{2} = \\frac{0.693}{ \\lambda}\\)</p><p> (iii) After 35days, 1/2 of it remains.</p><p>After 70 days, 1/2 of 1/2  i.e. 1/4 remains. After 105 days, % of 1/4 i.e. 1/8 remains.</p><p> </p><p>(c)(i) The photon energy Ep = hf = \\(\\frac{hc}{f}\\)</p><p>= \\(\\frac{6.6 \\times 10^{-34} x 3.0  \\times 10^8}{ 5.0 x 10^{-7}}\\)</p><p>= 3.96x 10-19J<br>\n(ii) The kinetic energy E\\(_k\\) = (Ep - W)</p><p>E\\(_k\\) = hf - W =  \\(\\frac{hc - W}{\\lambda}\\)</p><p>  W = 1.9eV = 1.6 x 10\\(^{19}\\) x 1.9</p><p>= 3.044 x 10\\(^{-19}\\)J.</p><p>E\\(_k\\) = 3.96 x 10\\(^{-19}\\) - 3.044 x 10\\(^{19}\\) = 9.2 x 10\\(^{-20}\\)J.</p><p>(iii) Stopping potential Vs = energy needed to stop most energetic electron.</p><p>eVs =E\\(_{kmax}\\)  </p><p>Vs = \\(\\frac{E_{max}}{e}\\)</p><p>= \\(\\frac{9.20 \\times 10^{-20}}{1.6 \\times 10^{-19}}\\)</p><p>= 0.575 V</p>",
+        "type": "theory"
+    }
+]

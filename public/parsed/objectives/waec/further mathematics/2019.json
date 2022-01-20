@@ -1,0 +1,642 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2019,
+        "question": "<p>Solve: 8\\(^{x - 2}\\) = 4\\(^{3x}\\)</p><p> </p>",
+        "explanation": "<p>8\\(^{x - 2}\\) = 4\\(^{3x}\\)</p><p>2\\(^{3(x - 2)}\\) = 2\\(^{2(3x)}\\)</p><p>2 \\(^{3x - 4}\\) = 2\\(^{6x}\\)</p><p>2 \\(^{x - 4}\\)  = 6\\(^x\\)</p><p>\\(\\frac{-4x}{-4}\\) = \\(\\frac{4}{-4}\\)</p><p>x = -1</p>",
+        "correctIndex": 1,
+        "options": [
+            "-2",
+            "-1",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2019,
+        "question": "<p>Solve; \\(\\frac{P}{2} + \\frac{k}{3}\\) = 5 and 2p = k = 6 simultaneously</p>",
+        "explanation": "<p>\\(\\frac{P}{2} + \\frac{k}{3}\\) = 5</p><p>\\(\\frac{3p + 2k}{6}\\) = 5</p><p>2p + 3k = 30</p><p>- 2p - k = 6</p><p>\\(\\overline{\\frac{4k}{4} = \\frac{24}{4}}\\) </p><p>k = 6</p><p> </p><p>From 2p - k = 6</p><p>2p - 6 = 6</p><p>\\(\\frac{2p}{2} = \\frac{12}{2}\\)</p><p>p = 6</p>",
+        "correctIndex": 2,
+        "options": [
+            "p = -6, k = -6",
+            "p = -6, k = 6",
+            "p = 6, k = 6",
+            "p = 6, k = -6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2019,
+        "question": "<p>Evaluate tan 75\\(^o\\); leaving the answer in surd form (radicals) </p>",
+        "explanation": "<p>Tan 75\\(^o\\) Tan (45\\(^o\\) + 30\\(^o\\))</p><p>= \\(\\frac{\\tan 45^o + \\tan 30^o}{1 - \\tan 45^o \\tan 30^o}\\)</p><p>= \\(\\frac{1 + \\sqrt{3}}{1 - \\sqrt{3}} \\times \\frac{1 + \\sqrt{3}}{1 - \\sqrt{3}}\\)</p><p>= \\(\\frac{4 + 2\\sqrt{3}}{1 - 3}\\)</p><p>= \\(\\frac{2(2 + \\sqrt{3}}{-2}\\)</p><p>= - (\\(\\sqrt{3}\\) + 3) </p><p>= - \\(\\sqrt{3}\\) - 3</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\sqrt{3 + 2}\\)",
+            "\\(\\sqrt{3 + 1}\\)",
+            "\\(\\sqrt{3 - 1}\\)",
+            "\\(\\sqrt{3 - 2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2019,
+        "question": "<p>Rationalize; \\(\\frac{1}{\\sqrt{2 + 1}}\\)</p>",
+        "explanation": "<p>\\(\\frac{1}{\\sqrt{2} + 1}\\) x \\(\\frac{\\sqrt{2} - 1}{\\sqrt{2} - 1}\\)</p><p>= \\(\\frac{\\sqrt{2} - 1}{2 - 1}\\)</p><p>= \\(\\frac{\\sqrt{2} - 1}{1} = \\sqrt{2} - 1\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\sqrt{2}\\) - 1",
+            "1 - \\(\\sqrt{2}\\)",
+            "\\(\\frac{\\sqrt{2} - 1}{2}\\)",
+            "\\(\\frac{1 - \\sqrt{2}}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2019,
+        "question": "<p>If \\(^nC_2\\) = 15, find the value of n</p>",
+        "explanation": "<p>\\(^nC_2\\) = 15</p><p>\\(\\frac{n!}{(n - 3)! 2!}\\) = 15</p><p>\\(\\frac{n(n - 1)(n - 2)!}{(n - 2)!2}\\) = 15 </p><p>n\\(^2\\) - n = 30</p><p>n\\(^2\\) - n - 30 = 0</p><p>(n - 6)(n + 5) = 0</p><p>n = 6 or n = -5 </p>",
+        "correctIndex": 2,
+        "options": [
+            "8",
+            "7",
+            "6",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2019,
+        "question": "<p>An operation (*) is defined on the set T = {-1, 0, ...., 5} by x * y = x + y - xy. Which of the following operation(s) will give an image which is an element of T?</p><p>I. 2(*)5 II. 3(*)5 III. 3(*)4 </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2019,
+        "question": "<p>Given that g ; x \\(\\to\\) 3x and f ; x \\(\\to\\) cos x. Find the value of g\\(^o\\) f(20\\(^o\\)) </p>",
+        "explanation": "<p>f(20\\(^o\\)) = cos 20\\(^o\\) = 0.9397</p><p>g(0.9397) = 3(0.9397)</p><p>= 2.82</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.50",
+            "0.94",
+            "2.60",
+            "2.82"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2019,
+        "question": "<p>A linear transformation is defined by T: (x, y) \\(\\to\\) (-x + y, -4y). Find the image, Q`, of Q(-3, 2) under T</p>",
+        "explanation": "<p>Q(3 -3, 2) = [-(-3) + 2, -4(2)]</p><p>= (3 + 2, -8) </p><p>= (5, -8) </p>",
+        "correctIndex": 0,
+        "options": [
+            "Q`(5, -8)",
+            "Q`(-8, 5)",
+            "Q`(5, -3)",
+            "Q`(-5, -8)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2019,
+        "question": "<p>If g : r \\(\\to\\) 5 - 2r, r is a real number, find the image of -3</p>",
+        "explanation": "<p>g(-3) = 5 - 2(-3)</p><p>= 5 + 6 = 11</p>",
+        "correctIndex": 1,
+        "options": [
+            "13",
+            "11",
+            "-1",
+            "-9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2019,
+        "question": "<p>Consider the following statements:</p><p>p: Birds fly</p><p>q: The sky is blue</p><p>r: The grass is green<br>\nWhat is the symbolic representation of \"If the grass is green and the sky is not blue, then the birds do not fly\"?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A. (r ^ p) \\(\\to\\) q",
+            "(r ^~ p) \\(\\to\\) q",
+            "(r ^ q) \\(\\to\\) p",
+            "(r ~ ^ p) \\(\\to\\) q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2019,
+        "question": "<p>Given that \\(\\frac{1}{x^2 - 4} = \\frac{p}{(x + 2)} + \\frac{Q}{(x - 2})\\)</p><p>x \\(\\neq \\pm 2\\)</p><p>Find the value of (P + Q)</p>",
+        "explanation": "<p>\\(\\frac{1}{x^2 - 4} = \\frac{P}{(x + 2)} + \\frac{Q}{(x - 2)}\\)</p><p>I = p(x - 2) + Q(x + 2)</p><p>Let x = 2</p><p>I = P(2 - 2) + Q(2+ 2)</p><p>I = -4Q </p><p>Q = \\(\\frac{1}{4}\\) </p><p>Let x = -2</p><p>I = P(-2  - 2) + Q(-2 + 2)</p><p>I = -4p </p><p>P = \\(\\frac{1}{-4}\\) </p><p>PQQ = - \\(\\frac{1}{4} + \\frac{1}{4}\\)</p><p>= 0</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{2}\\)",
+            "1",
+            "\\(\\frac{1}{2}\\)",
+            "0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2019,
+        "question": "<p>Find the sum of the first 20 terms of the sequence -7-3, 1, ......</p>",
+        "explanation": "<p>d = -3 - (-7) = 4</p><p>S\\(_{20}\\) = \\(\\frac{20}{2}\\){2(-7) + (20 - 1) 4}</p><p>= 10(- 14 + 76)</p><p>= 620</p>",
+        "correctIndex": 0,
+        "options": [
+            "620",
+            "660",
+            "690",
+            "1240"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2019,
+        "question": "<p>Find the value of x for which 6\\(\\sqrt{4x^2 + 1}\\) = 13x, where x &gt; 0</p>",
+        "explanation": "<p>\\(\\sqrt{4x^2 + 1}\\) = \\(\\frac{13x}{6}\\)</p><p>4x\\(^2\\) + 1 = \\(\\frac{169x^2}{36}\\)</p><p>4 + x\\(^2\\)  = \\(\\frac{169x^2}{36}\\) </p><p>cross multiply</p><p>169x\\(^2\\) - 144x\\(^2\\) = 36</p><p>25x\\(^2\\) = 36</p><p>x\\(^2\\) = \\(\\frac{36}{25}\\)</p><p>: x = \\(\\pm\\frac{6}{5}\\)</p><p> </p><p> </p><p> </p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{6}{5}\\)",
+            "\\(\\frac{25}{24}\\)",
+            "\\(\\frac{24}{25}\\)",
+            "\\(\\frac{5}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2019,
+        "question": "<p>Calculate the distance between points (-2, -5) and (-1, 3) </p>",
+        "explanation": "<p>distance = \\(\\sqrt{(3 - (-5)^2 + (-1 - (-2)^2)}\\)</p><p>= \\(\\sqrt{8^2 + 1^2}\\)</p><p>= \\(\\sqrt{65}\\) units</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\sqrt{5}\\) units",
+            "\\(\\sqrt{17}\\) units",
+            "\\(\\sqrt{65}\\) units",
+            "\\(\\sqrt{73}\\) units"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2019,
+        "question": "<p>If P = \\(\\begin {pmatrix} 2 &amp; 3\\\\  -4 &amp; 1 \\end {pmatrix}\\), Q = \\(\\begin{pmatrix} 6 \\\\ 8 \\end {pmatrix}\\) and PQ = k \\(\\begin {pmatrix} 45\\\\ -20 \\end {pmatrix}\\). Find the value of k.</p>",
+        "explanation": "<p>PQ = \\(\\begin {pmatrix} 2 &amp; 3\\\\ -4 &amp; 1\\end {pmatrix}\\) = \\(\\begin {pmatrix} 6 \\\\ 8 \\end {pmatrix}\\) = \\(\\begin {pmatrix} 36 \\\\ - 16\\end {pmatrix}\\)</p><p>\\(\\begin {pmatrix} 36 \\\\ -16 \\end {pmatrix} \\) = k = \\(\\begin {pmatrix} 45 \\\\ -20 \\end {pmatrix} \\)</p><p>k = \\(\\frac{36}{45}\\) </p><p>= \\(\\frac{4}{5}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "-\\(\\frac{5}{4}\\)",
+            "-\\(\\frac{4}{5}\\)",
+            "\\(\\frac{4}{5}\\)",
+            "\\(\\frac{5}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2019,
+        "question": "<p>The second and fourth terms of an exponential sequence (G.P) are \\(\\frac{2}{9}\\) and \\(\\frac{8}{81}\\) respectively. Find the sixth term of the sequence </p>",
+        "explanation": "<p>ar = \\(\\frac{2}{9}\\) .....(i) </p><p>ar\\(^3\\) = \\(\\frac{8}{81}\\) ......(ii) </p><p>\\(\\frac{ar3}{ar} = \\frac{8}{81} \\times \\frac{9}{2}\\) </p><p>r\\(^2 = \\frac{4}{9}\\) </p><p>r = \\(\\sqrt{\\frac{4}{9}}\\) </p><p>= \\(\\frac{2}{3}\\) </p><p>ar = \\(\\frac{2}{9}\\) </p><p>a(\\(\\frac{2}{3}\\)) = \\(\\frac{2}{9}\\)</p><p>a = (\\(\\frac{2}{3}\\)) = \\(\\frac{2}{9}\\)</p><p>a = \\(\\frac{2}{9} \\times \\frac{3}{2}\\)</p><p>a = \\(\\frac{1}{3}\\) </p><p>T\\(_r\\) = ar\\(^5\\) = (\\(\\frac{1}{3}\\))(\\(\\frac{2}{5}\\))\\(^5\\) </p><p>= \\(\\frac{32}{729}\\) </p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{81}{32}\\)",
+            "\\(\\frac{9}{8}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{32}{729}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2019,
+        "question": "<p>Point X and Y are on the same horizontal base as the foot of a building such that X is 96m due east of the building and Y is due west. If the angle of elevation of the top of that building from X is 30\\(^o\\) and that of Y is 50\\(^o\\), calculate the distance of Y from the base of the building.</p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/239115862_857746921542926_6913233118812417415_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEYg2MUWraKF_lR8u9BeqXv9HWWOXrOUBv0dZY5es5QG5w4-c9IYOqvo23-_8HWA1Gbn2Cl25PS7PpmZbG5G1n_&amp;_nc_ohc=8rtiST_jgEwAX_HrWBf&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=0aca0262d10607fab3c60e62ce4658c1&amp;oe=6149CBA6\"></p><p> </p><p>h = 96 Tan 30\\(^o\\) = 55.425</p><p>P = \\(\\frac{55.425}{Tan60^o}\\) </p><p>= 32m </p>",
+        "correctIndex": 1,
+        "options": [
+            "30m",
+            "32m",
+            "42m",
+            "50m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2019,
+        "question": "<p>Find the coordinates of the point in the curve y = 3x\\(^2\\) - 2x - 5 where the tangent is parallel to the line y = - 5 = 8x</p>",
+        "explanation": "<p>y = 8x + 5 </p><p>m = 8</p><p>y = 3x\\(^2\\) - 2x - 5 </p><p>\\(\\frac{dy}{dx}\\) = 6x - 2x - 5</p><p>\\(\\frac{6x}{6} = \\frac{10}{6}\\) </p><p>x = \\(\\frac{5}{3}\\)</p><p>y = 0 </p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\begin{pmatrix} - \\frac{5}{3} &amp;, 0 \\end {pmatrix}\\)",
+            "\\(\\begin{pmatrix} 0, &amp; - \\frac{5}{3} \\end {pmatrix}\\)",
+            "\\(\\begin{pmatrix} 0, &amp; \\frac{5}{3} \\end {pmatrix}\\)",
+            "\\(\\begin{pmatrix} \\frac{5}{3} &amp;, 0 \\end {pmatrix}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2019,
+        "question": "<p>If the mean of 2, 5, (x + 1), (x + 2), 7 and 9 is 6, find the median.</p>",
+        "explanation": "<p>\\(\\frac{1 + 5 + x + 6 + x + 2 + 7 + 9}{6}\\) = 6</p><p>26 + 2x = 36 </p><p>2x = 36 - 26</p><p>2x = 10 </p><p>x = \\(\\frac{10}{2}\\) = 5</p><p>2, 5, 6, 7, 7, 9</p><p>Median = \\(\\frac{6 + 7}{2}\\) = 6.5 </p>",
+        "correctIndex": 2,
+        "options": [
+            "6.5",
+            "6.0",
+            "5.5",
+            "5.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2019,
+        "question": "<p>Calculate the mean deviation of 5, 8, 2, 9 and 6</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>x</td>\n<td>x - \\(\\bar{x}\\)</td>\n<td>(x - \\(\\bar{x}\\))</td>\n</tr>\n<tr>\n<td>\n<p>5</p>\n<p>8</p>\n<p>2</p>\n<p>9</p>\n<p>6</p>\n</td>\n<td>\n<p>-1</p>\n<p>2</p>\n<p>-4</p>\n<p>3</p>\n<p>0</p>\n</td>\n<td>\n<p>1</p>\n<p>2</p>\n<p>4</p>\n<p>3</p>\n<p>0</p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p>\\(\\bar{x}\\) = \\(\\frac{30}{5}\\) = 6</p><p>\\(\\sum |x - \\bar{x}|\\)</p><p>= 10</p><p>Mean deviation = \\(\\frac{10}{5}\\)</p><p>= 2</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2019,
+        "question": "<p>A particle starts from rest and moves in a straight line such that its velocity, V ms\\(^{-1}\\), at time t second is given by V = 3t\\(^2\\) - 6t. Calculate the acceleration in the 3rd second. </p>",
+        "explanation": "<p>V = 3t\\(^2\\) - 6t</p><p>\\(\\frac{ds}{dt} = 3t^2 - 6t\\)</p><p>s = \\(\\int 3t^2 - 6t\\)</p><p>s = \\(\\frac{3t^3}{3} - \\frac{6t^2}{2} + k\\)</p><p>s = t\\(^3\\) - 3t\\(^2\\) + k</p><p>s = 0, t = 0</p><p>s = t\\(^3\\) - 3t\\(^2\\) </p><p>s = 4\\(^3\\) - 3t\\(^2\\) </p><p>s = 4\\(^3\\) - 3(4)\\(^2\\) </p><p>= 64 - 48 = 16m</p>",
+        "correctIndex": 1,
+        "options": [
+            "12m",
+            "16m",
+            "64m",
+            "96m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2019,
+        "question": "<p>A particle starts from rest and moves in a straight line such that its velocity, V ms\\(^{-1}\\), at time t second is given by V = 3t\\(^2\\) - 6t. Calculate the acceleration in the 3rd second. </p>",
+        "explanation": "<p>V = 3t\\(^2\\) - 6t</p><p>\\(\\frac{dx}{dt}\\) = 6r - 6</p><p>at t = 4</p><p>\\(\\frac{dx}{dt}\\) = 6 x 4 - 6 = 24 - 6</p><p>= 18</p><p>at t = 3</p><p>\\(\\frac{dy}{dt}\\) = 6 x 4 - 6 </p><p>= 24 - 6</p><p>= 18 </p><p>at t = 3</p><p>\\(\\frac{dx}{dt}\\) = 6 x 3 - 6 = 18 - 6</p><p>= 12</p><p>\\(\\frac{dy}{dt}\\) = 18 - 12 </p><p>= 6ms\\(^{-2}\\) </p>",
+        "correctIndex": 2,
+        "options": [
+            "0 ms\\(^{-2}\\)",
+            "3 ms\\(^{-2}\\)",
+            "6 ms\\(^{-2}\\)",
+            "9 ms\\(^{-2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2019,
+        "question": "<p>Find the constant term in the binomial expansion of (2x\\(^2\\) +  \\(\\frac{1}{x^2}\\))\\(^4\\)</p>",
+        "explanation": "<p>6(2x\\(^2\\))\\(^2\\) (\\(\\frac{1}{x^2}\\))\\(^2\\)  </p><p>= 6 x 2</p><p>= 12</p>",
+        "correctIndex": 1,
+        "options": [
+            "10",
+            "12",
+            "24",
+            "42"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2019,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&amp;_nc_ohc=h0CetEoWf8QAX-lzQxC&amp;_nc_ht=scontent.flos8-1.fna&amp;oh=c4949bfbbcd5cbecc9046f4d21f793d5&amp;oe=6148ABD2\"></p><p>Which of these inequalities is represented by the shaded portion of the graph? </p>",
+        "explanation": "<p>(0, 1.5), (-3, 0) </p><p>m = \\(\\frac{0 - 1.5}{-3, 0}\\) = 0.5</p><p>0.5 = \\(\\frac{y - 1.5}{-3.0}\\) = 0.5</p><p>y = 0.5x + 1.5 </p><p>2y = x + 3</p><p>2y - x - 3 &lt; 0</p>",
+        "correctIndex": 1,
+        "options": [
+            "2y + x - 3 &lt; 0",
+            "2y - x - 3 &lt; 0",
+            "2y - x + 3 &lt; 0",
+            "2y + x +3 &lt; 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2019,
+        "question": "<p>A 35 N force acts on a body of mass 5 kg for 2 seconds. Calculate the change in momentum of the body.</p>",
+        "explanation": "<p>Change in momentum </p><p>= F x t = 35N x 2 </p><p>= 70kg ms\\(^{-1}\\) </p>",
+        "correctIndex": 0,
+        "options": [
+            "70 kg ms\\(^{-1}\\)",
+            "55 kg ms\\(^{-1}\\)",
+            "50 kg ms\\(^{-1}\\)",
+            "35 kg ms\\(^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2019,
+        "question": "<p>Solve, correct to three significant figures, (0.3)\\(^x\\) =  (0,5)\\(^8\\)</p>",
+        "explanation": "<p>(0,3)\\(^x\\) = (0.5)\\(^8\\) </p><p>xlog 0,3 = 9 log 0.5</p><p>x = \\(\\frac{8 \\log 0.5}{\\log 0.3}\\)</p><p>= 4.606</p>",
+        "correctIndex": 1,
+        "options": [
+            "4.61",
+            "4.606",
+            "0.461",
+            "0.0130"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2019,
+        "question": "<p>Given that P and Q are non-empty subsets of the universal set, U. Find P \\(\\cap\\) (Q U Q`).</p>",
+        "explanation": "<p>P \\(\\cap\\) (Q U Q`)</p><p>P \\(\\cap\\) U = P</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "p",
+            "P`",
+            "Q",
+            "Q`"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2019,
+        "question": "<p>Find the coefficient of the term in the binomial expansion of [2x + \\(\\frac{3y}{4}\\)]\\(^3\\) in descending powers of x.</p>",
+        "explanation": "<p>(2x + \\(\\frac{3y}{4}\\))\\(^3\\)</p><p>= 3(2x) (\\(\\frac{3y}{4}\\))\\(^2\\)</p><p>= \\(\\frac{27}{8}\\)y\\(^2\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{27}{64}\\)y\\(^2\\)",
+            "\\(\\frac{27}{8}\\)y\\(^2\\)",
+            "8y\\(^2\\)",
+            "9y\\(^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2019,
+        "question": "<p>Find the coordinates of the centre of the circle 3x\\(^2\\) + 3y\\(^2\\) - 6x + 9y - 5 = 0</p>",
+        "explanation": "<p>\\(\\frac{3x^2}{3} + \\frac{3y^2}{3} - \\frac{6x}{3} + \\frac{9y}{3} - \\frac{5}{3}\\) = 0</p><p>2gx = -2x, 2 fy = 3y </p><p>g = -1, f = \\(\\frac{3}{2}\\)</p><p>Centre (1, - \\(\\frac{3}{2}\\)) </p>",
+        "correctIndex": 2,
+        "options": [
+            "(-3. \\(\\frac{9}{2}\\))",
+            "(-1. \\(\\frac{3}{2}\\))",
+            "(1, - \\(\\frac{3}{2}\\))",
+            "(3. -\\(\\frac{9}{2}\\))"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2019,
+        "question": "<p>Evaluate \\(\\int^0_0 \\sqrt{x} dx\\)</p>",
+        "explanation": "<p>\\(\\int^0_0 \\sqrt{x} dx\\)</p><p>\\(\\frac{x^{\\frac{1}{2}} + 1}{\\frac{1}{2} + 1}\\) |\\(^9_0\\)</p><p>\\(\\frac{2x^{\\frac{3}{2}}}{3}\\)|\\(^9_0\\)</p><p>= \\(\\frac{2(9)^{\\frac{3}{2}}}{3}\\)</p><p>= \\(\\frac{2(3)^3}{3}\\)</p><p>= \\(\\frac{2 \\times 27}{3}\\)</p><p>= 2 x 9</p><p>= 18</p>",
+        "correctIndex": 2,
+        "options": [
+            "3",
+            "9",
+            "18",
+            "27"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2019,
+        "question": "<p>The function f : x \\(\\to\\) x\\(^2\\) + px + q has turning point when x = -3 and remainder of -6 when divided by (x + 2). Find the value of q.</p>",
+        "explanation": "<p>f (x) = x\\(^2\\) + px + q</p><p>\\(\\frac{dy}{dx}\\) = 2x + p</p><p>2x + p = 0</p><p>2(-3) + p = 0</p><p>p = +6</p><p>f(-2) = -2\\(^2\\) + p(-2) + q</p><p>= -6 2p + q = -10</p><p>-2(-16) + q = -10</p><p>-12 + q = -10 </p><p>q = -10 + 12 </p><p>= 2</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "6",
+            "2",
+            "-2",
+            "-8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2019,
+        "question": "<p>If y = (5 - x)\\(^{-3}\\), and \\(\\frac{dy}{dx}\\)</p>",
+        "explanation": "<p>y = (5 - x)\\(^{-3}\\) </p><p>\\(\\frac{dy}{dx}\\) = -3(5 - x)\\(^{-4}\\)</p><p>= \\(\\frac{-3}{(5 - x)^4}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{-15}{(5 - x)^4}\\)",
+            "\\(\\frac{-3}{(5 - x)^4}\\)",
+            "\\(\\frac{3}{(5 - x)^4}\\)",
+            "\\(\\frac{15}{(5 - x)^4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2019,
+        "question": "<p>Which of the following vectors is perpendicular to \\(\\begin{pmatrix} -1 &amp; 3 \\end{pmatrix}\\)?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\begin{pmatrix} -3 &amp; 1 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} 1 &amp; 3 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} 1 &amp; -3 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} 1 &amp; 3 \\end{pmatrix}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2019,
+        "question": "<p>Find correct to the nearest degree,5 the angle between p = 12i - 5j and q = 4i +3j</p>",
+        "explanation": "<p>Cos \\(\\theta\\) = \\(\\frac{4(12) + (-5)(3)}{\\sqrt{12^2 + (-5)^2}\\sqrt{4^2 + 3^2}}\\)</p><p>Cos\\(\\theta\\) = \\(\\frac{48 - 15}{(\\sqrt{189})(\\sqrt{25})}\\)</p><p>\\(\\theta = cos^{-1}\\) (\\(\\frac{33}{61.28}\\))</p><p>\\(\\theta\\) = cos\\(^{-1}\\)0.5367</p><p>\\(\\theta\\) = 59\\(^o\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "59\\(^o\\)",
+            "60\\(^o\\)",
+            "75\\(^o\\)",
+            "76\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2019,
+        "question": "<p>Find the area between line y = x + 1 and the x-axis from x = -2 to x = 0. </p>",
+        "explanation": "<p>\\(\\int^0_{-2} x + 1\\) x\\(^2 + x|^0_{-2}\\)</p><p>0 - (2\\(^2 - 2\\))</p><p>= 2 square units</p>",
+        "correctIndex": 2,
+        "options": [
+            "5 square units",
+            "4 square units",
+            "2 square units",
+            "1 square unit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2019,
+        "question": "<p>How many numbers greater than 200 can be formed from the digits 1,2,3,4, 5 if no digit is to be repeated in any particular number? </p>",
+        "explanation": "<p>No of ways </p><p>= 4 x 5 x 3</p><p>= 60 ways</p>",
+        "correctIndex": 1,
+        "options": [
+            "50",
+            "60",
+            "288",
+            "300"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2019,
+        "question": "<p>The probabilities that John and Jane will pass an examination are 0.9 and 0.7 respectively. Find the probability that at least one of them will pass the examination.</p>",
+        "explanation": "<p>(0.9 x 0.7) + (0.1 x 0.7) </p><p>= (0.9 x 0.3)</p><p>= 0.63 + 0.07 + 0.27 </p><p>= 0.97</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.28",
+            "0.67",
+            "0.72",
+            "0.97"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2019,
+        "question": "<p>Given that X and Y are independent events such that P(X) = 0.5, P(Y) = m and P(X U Y) = 0.75, find the value of m. </p>",
+        "explanation": "<p>P(X \\(\\cup\\) Y) = P(X)P(Y) </p><p>0.15 = 0.5m</p><p>m = \\(\\frac{0.015}{0.5}\\)</p><p>= 0.3 </p>",
+        "correctIndex": 2,
+        "options": [
+            "0.6",
+            "0.5",
+            "0.4",
+            "0.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2019,
+        "question": "<p>A uniform beam, PQ. is 100 m long and weighs 35 N. It is placed on a support at a point 40 cm from P. If weights of 54 N and FN are attached at P and Q respectively in order to keep it in a horizontal position, calculate, correct to the nearest whole number, the value of F.</p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240129827_369235384748245_2556700208620116961_n.jpg?_nc_cat=110&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeF8tcS_ubjHtGm7c266vF2MNvlqhZrvpe42-WqFmu-l7s1k52fa4m_pJA1tOypfwaRlvJyedGYhS7vsZimIuu_X&amp;_nc_ohc=d2USrt_S_rAAX9-jopN&amp;_nc_oc=AQmqyMA1ncjEbeTgQuCFqgqvHwein2xx5_TCQpumnOk02AU0M-xQJw4no2mhLWrV0hFCvuOeIw_U8qrRa_6fGUDs&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=3ce2ada68a451a7820b5e3a86e381290&amp;oe=614DAC81\"></p><p> </p><p>54 x 40 = 35 x 10 + 60F </p><p>160 = 350 + 60F </p><p>F = \\(\\frac{1810}{60}\\) </p><p>= 30N </p>",
+        "correctIndex": 3,
+        "options": [
+            "69",
+            "60",
+            "35",
+            "30"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2019,
+        "question": "<p>Evaluate: \\(^{lim}_{x \\to 1} \\begin{pmatrix} \\frac{1 - x}{x^2 - 3x + 2} \\end {pmatrix}\\)</p><pre></pre>",
+        "explanation": "<p>Lim(\\(\\frac{1 - x}{x^2 - 3x + 2}\\))</p><p>= \\(^{lim}_{x \\to 1} \\begin{pmatrix} \\frac{1 - x}{x^2 - 3x + 2} \\end {pmatrix}\\)</p><p>= \\(^{lim}_{x \\to 1} \\begin{pmatrix} \\frac{x - 1}{(x - 2)(x + 1)} \\end {pmatrix}\\)</p><p>= \\(\\frac{-1}{1 - 2}\\)</p><p>= \\(\\frac{-1}{-1}\\) </p><p>= 1</p>",
+        "correctIndex": 3,
+        "options": [
+            "-1",
+            "- \\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "1"
+        ],
+        "type": "objectives"
+    }
+]

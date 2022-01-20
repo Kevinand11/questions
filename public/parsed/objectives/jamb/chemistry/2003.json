@@ -1,0 +1,770 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2003,
+        "question": "What volume of oxygen is produced from the decomposition of 2 mole of KCIO<sub>3</sub>at s.t.p?<br>[Molar volume of a gas at s.t.p = 22.4 dm<sup>3</sup>]",
+        "explanation": "2KClO<sub>3</sub>→ 2KCl + 3O<sub>2</sub><br>3 moles of oxygen is produced<br>1 moles of oxygen is 22.4 dm<sup>3</sup><br>3 moles of oxygen is 67.2 dm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "22.4 dm<sup>3</sup>",
+            "33.6 dm<sup>3</sup>",
+            "44.8 dm<sup>3</sup>",
+            "67.2 dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2003,
+        "question": "Which of the following is physical change?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Burning kerosene",
+            "Freezing ice cream",
+            "Exposing white phosphorus",
+            "Dissolving calcium in water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2003,
+        "question": "What is the percentage by mass of oxygen in Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. 2H<sub>2</sub>O?<br>[Al = 27, S = 32, H = 1, O = 16]",
+        "explanation": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. 2H<sub>2</sub>O<br>2 * 27 + 3*32 + 14 * 16 + 4 * 1 =<br>54 + 96 + 224 + 4 = 378<br>% O<sub>2</sub>= (224/378) * (100/1) = 59.25%",
+        "correctIndex": 3,
+        "options": [
+            "14.29%",
+            "25.39%",
+            "50.79%",
+            "59.25%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2003,
+        "question": "The filter in the cigarette reduces the nicotine content by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Burning",
+            "Adsorption",
+            "Evaporation",
+            "Absorption"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2003,
+        "question": "3Cu + pHNO<sub>3</sub>→3Cu(NO<sub3 sub>)<sub>2</sub> + 4H<sub>2</sub> O + xNO<br>\nIn the equation above, the values of p and x respectively are</sub3>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1 and 3",
+            "2 and 3",
+            "6 and 2",
+            "8 and 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2003,
+        "question": "Neutral atoms of neon with atomic number 10 have the same number of electron as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "O<sup>2+</sup>",
+            "Ca<sup>2+</sup>",
+            "K<sup>+</sup>",
+            "Mg<sup>2+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2003,
+        "question": "The noble gases owe their inactivity to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Octet configuration",
+            "Cyclic shape",
+            "Hexagonal shape",
+            "Obtuse configuration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2003,
+        "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Decrease",
+            "Increase",
+            "Remain constant",
+            "Be zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2003,
+        "question": "<b>I. H = 1s<sup>1</sup> II. N = 1s<sup>2</sup> 2s<sup>2</sup> p<sup>3</sup> III. O = 1s<sup>2</sup> 2s<sup>2</sup> p<sup>4</sup> IV. Zn = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup> 3d<sup>10</sup></b><br>From the above, which of the following pairs is like to be paramagnetic?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "<b>I</b>and<b>II</b>",
+            "<b>I</b>and<b>III</b>",
+            "<b>I</b>and<b>IV</b>",
+            "<b>III</b>and<b>IV</b>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2003,
+        "question": "A gas exerts pressure on its container because",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "some of its molecules are moving faster than others",
+            "of the collision of the molecules with each other",
+            "of the mass of the molecules of gas",
+            "the molecules of a gas colide with the walls of the container"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2003,
+        "question": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "negatively charged",
+            "positvely charged",
+            "neutral",
+            "bipolar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2003,
+        "question": "The weakest attractive force that can be observed between two molecules is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ionic",
+            "covalent",
+            "coordinate covalent",
+            "van der Waals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2003,
+        "question": "A consequence of global warming is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "air pollution",
+            "water pollution",
+            "increased humudity",
+            "flooding"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2003,
+        "question": "<p>Which of the following ions is acidic?</p>",
+        "explanation": "<p>Acids are substances which produces hydrogen ions (or protons) as the only positive ion when dissolved in water.</p><p>\\(H_{3}O^{+} \\to 2H^{+} + OH^{-}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "K<sup>+</sup>",
+            "KNO<sub>3</sub><sup>-</sup>",
+            "S<sup>2-</sup>",
+            "H<sub>3</sub>O<sup>+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2003,
+        "question": "The structural component that makes detergent dissolve more quickly in water than soap is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "-SO<sub>3</sub>- Na<sup>+</sup>",
+            "-COO-Na<sup>-</sup>",
+            "-SO<sub>4</sub>- Na<sup>+</sup>",
+            "-COO-K<sup>+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2003,
+        "question": "<p>A liquid that will dissolve fat is?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Hydrochloric acid",
+            "Calcium hydroxide",
+            "Kerosene",
+            "Water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2003,
+        "question": "What mass of K<sub>2</sub>CrO<sub>4</sub>is required to prepare 250cm<sup>3</sup>of 0.020 mol dm<sup>3</sup>solution?<br>[K<sub>2</sub>CrO<sub>4</sub>= 194.2g mol<sup>-1</sup>]",
+        "explanation": "1 mole m<sup>-3</sup>K<sub>2</sub>CrO<sub>4</sub>contains 194.2g mol<sup>-1</sup>in 1000cm<sup>3</sup><br>1 mole m<sup>-3</sup>K<sub>2</sub>CrO<sub>4</sub>contains 92.2g mol<sup>-1</sup>in 500cm<sup>3</sup><br>1 mole m<sup>-3</sup>K<sub>2</sub>CrO<sub>4</sub>contains 48.55g mol<sup>-1</sup>in 250cm<sup>3</sup><br>If n molm<sup>-3</sup>K<sub>2</sub>CrO<sub>4</sub>contain 48.55<br>0.02 molm<sup>-3</sup>will contain (0.02/1) * (48.55/1) = 0.97g",
+        "correctIndex": 0,
+        "options": [
+            "0.97g",
+            "9.70g",
+            "19.42g",
+            "97.10g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2003,
+        "question": "Farmlands affected by crude-oil spillage can be decontaminated by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Adding acidic solution",
+            "Using aerobic bacteria",
+            "Pouring water on the affected water area",
+            "Burning off the oil from the area"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2003,
+        "question": "When 10g of sodium hydroxide is dissolved in 1000cm<sup>3</sup>of water, the sodium formed is approximately<br>[Na = 23, H = 1, O = 16]",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.01 mol dm<sup>-3</sup>",
+            "0.10 mol dm<sup>-3</sup>",
+            "0.25 mol dm<sup>-3</sup>",
+            "0.50 mol dm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2003,
+        "question": "<p>A change in temperature of a saturated solution disturb the equilibrium between the</p>",
+        "explanation": "<p>A saturated solution is one in which no more solute can be dissolved in a given amount of solvent at a <strong>specified temperature</strong> and pressure.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Dissolved solute and the solvent",
+            "Solvent and undissolved solute",
+            "Dissolved solute and undissolved solute",
+            "Dissolved solute and the solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2003,
+        "question": "If an equilibrium reaction has ΔH &gt; 0, the reaction will proceed favourably in the forward direction at",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "High temperature",
+            "Any temperature",
+            "Low temperature",
+            "Minimum temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2003,
+        "question": "The commonest feature of reactions at the anode is that",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "electrons are consumed",
+            "oxidation is involved",
+            "ions are reduced",
+            "electrode dissolves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2003,
+        "question": "Which of the following will change when a catalyst is added to a chemical reaction?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The activation energy",
+            "The potential energy of the reactants",
+            "The heat of the reaction",
+            "the potential energy of the product"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2003,
+        "question": "If y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Y increases in oxidation number",
+            "Y becomes reduced",
+            "Z loses protons",
+            "Z gains protons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2003,
+        "question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "2SO<sub>3(g)</sub>↔ 2SO<sub>2(g)</sub>+ O<sub>2(g)</sub>",
+            "2CO<sub>2(g)</sub>↔ 2CO<sub>(g)</sub>+ O<sub>2(g)</sub>",
+            "2H<sub>2(g)</sub>+ O<sub>2(g)</sub>↔ 2H<sub>2</sub>O<sub>(g)</sub>",
+            "2NO<sub>(g)</sub>↔ N<sub>2(g)</sub>+ O<sub>2(g)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2003,
+        "question": "In the electrolysis of a concentrated solution of sodium chloride using electrodes, which of the following ions are discharged at the cathode and anode respectively?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Na<sup>+</sup>and Cl<sup>-</sup>",
+            "Na<sup>+</sup>and OH<sup>-</sup>",
+            "H<sup>+</sup>and OH<sup>-</sup>",
+            "H<sup>+</sup>and Cl<sup>-</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2003,
+        "question": "CO<sub>(g)</sub>+ H<sub>2</sub>O<sub>(g)</sub>→ CO<sub>2(g)</sub>+ H<sub>2(g)</sub><br>From the reaction above, calculate the standard enthalpies of formation of CO<sub>2(g)</sub>, H<sub>2</sub>O<sub>(g)</sub>and CO<sub>(g)</sub>in kJ mol<sup>-1</sup>are -394, -242, and -110 respectively.",
+        "explanation": "CO + H<sub>2</sub>O → CO<sub>2</sub>+ H<sub>2</sub>DH = 394 kJ mol<sup>-1</sup><br>-242 + 110 = -352 kJ mol<sup>-1</sup><br>35 = -394 -(352)<br>= -394 + 352<br>= -42 kJ mol<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "-262 kJ mol<sup>-1</sup>",
+            "-42 kJ mol<sup>-1</sup>",
+            "+42 kJ mol<sup>-1</sup>",
+            "+262 kJ mol<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2003,
+        "question": "When sugar is dissolved in tea, the reaction is always accomplished by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "positive change",
+            "negative entropy change",
+            "no entropy change",
+            "a minimum entropy change"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2003,
+        "question": "Which of the following is an electrolyte?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Alcohol",
+            "Sodium acetate solution",
+            "Solid potassium hydroxide",
+            "Mercury"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2003,
+        "question": "Chlorine gas is prepared in the laboratory by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "adding concentrated hydrochloric acid to solid manganese (IV) oxide",
+            "aciding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
+            "dropping concentrated hydrochloric acid onto potassium tetraoxomanganate (VI) crystals",
+            "aciding concentrated tetraoxosulphate (VI) acid to hydrochloric acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2003,
+        "question": "Metals of the first transition series have special properties which are different from those of groups I and II elements because they have partially filled",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "s orbitals",
+            "p orbitals",
+            "d orbitals",
+            "f orbitals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2003,
+        "question": "Hydrogen can be displaced from a hot alkaline solution by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Fe",
+            "Cu",
+            "Ca",
+            "Sn"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2003,
+        "question": "Which of the following statements is true of sulphur (IV) oxide?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "It forms tetraoxosulphate (VI) acid with water",
+            "It is an odourless gas",
+            "It is an acid hybride",
+            "It forms white precipitate with acidified barium chloride"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2003,
+        "question": "The salt that will form a precipitate soluble in excess ammonia solution is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Ca(NO<sub>3</sub>)<sub>2</sub>",
+            "Cu(NO<sub>3<sub>)<sub>2</sub>\n</sub></sub>",
+            "Mg(NO<sub>3<sub>)<sub>2</sub>\n</sub></sub>",
+            "Al(NO<sub>3<sub>)<sub>3</sub>\n</sub></sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2003,
+        "question": "<p>The metal that liberates hydrogen from cold water in bubbles only is?</p>",
+        "explanation": "<p>After a second or so, the <strong>calcium</strong> metal begins to bubble vigorously as it <strong>reacts</strong> with the <strong>water</strong>, producing hydrogen gas, and a cloudy white precipitate of <strong>calcium</strong> hydroxide.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Na",
+            "K",
+            "Ca",
+            "Al"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2003,
+        "question": "Chlorine gas turns a damp starch-iodide paper",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "pink",
+            "colourless",
+            "red",
+            "dark blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2003,
+        "question": "The modern process of manufacturing steel for iron is by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "treatment with acids",
+            "oxidation",
+            "blast reduction",
+            "treatment with alkanal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2003,
+        "question": "Ethene reacts with hydrogen bromide to give",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CH<sub>2</sub>Br<sub>2</sub>",
+            "CH<sub>3</sub>CH<sub>2</sub>Br",
+            "C<sub>2</sub>H<sub>2</sub>Br<sub>2</sub>",
+            "CHBr<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2003,
+        "question": "How many isomers does pentane have?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "6",
+            "5",
+            "4",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2003,
+        "question": "<p>The leachate of a certain plant ash is used in local soap making because it contains</p>",
+        "explanation": "<p>Lye is the most commonly used alkali for soap-making. The chemical name for lye is sodium hydroxide. (A <strong>lye</strong> is a metal hydroxide traditionally obtained by leaching ashes (containing largely potassium carbonate or \"potash\"), or a strong alkali which is highly soluble in water producing caustic basic solutions.)</p>",
+        "correctIndex": 1,
+        "options": [
+            "sodium chloride and potassium hydroxide",
+            "sodium hydroxide",
+            "potassium hydroxide",
+            "soluble carbonates and hydrogen carbonates"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2003,
+        "question": "<p>The formula for ethyl butanoate is</p>",
+        "explanation": "<p>Ethyl butyrate, also known as ethyl butanoate, or butyric ether, is an ester with the chemical formula CH₃CH₂CH₂COOCH₂CH₃.</p>",
+        "correctIndex": 0,
+        "options": [
+            "C<sub>3</sub>H<sub>7</sub>COOC<sub>2</sub>H<sub>5</sub>",
+            "C<sub>2</sub>H<sub>5</sub>COOC<sub>3</sub>H<sub>7</sub>",
+            "C<sub>4</sub>H<sub>9</sub>COOC<sub>2</sub>H<sub>5</sub>",
+            "C<sub>2</sub>H<sub>5</sub>COOC<sub>4</sub>H<sub>9</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2003,
+        "question": "The type of reaction that is peculiar to benzene is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "addition",
+            "hydrolysis",
+            "polymerization",
+            "substitution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2003,
+        "question": "Ethanol reacts with excess acidified K<sub>2</sub>Cr<sub>2</sub>O to produce",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ethanedioic acid",
+            "ethanal",
+            "ethylethanoate",
+            "ethanoic acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2003,
+        "question": "A compound contains 40.0% carbon 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula.<br>[H = 1, C = 12, O = 16]",
+        "explanation": "C - 40% ; 40/12 = 3.33<br>H - 6.7% ; 6.7/1 = 6.7<br>O - 53.3% ; 53.3/16 = 3.33<br>C = 3.33/3.33 = 1<br>H = 6.7/3.33 = 2<br>O = 3.33/3.33 = 1<br>CH<sub>2</sub>O<br>(CH<sub>2</sub>O)<sub>n</sub>= 180<br>(12 + 2 + 16)~<sub>n</sub>= 180<br>30n = 180<br>n = 6<br>= C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+        "correctIndex": 2,
+        "options": [
+            "CH<sub>2</sub>O",
+            "C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>",
+            "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+            "C<sub>6</sub>H<sub>12</sub>O<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2003,
+        "question": "The process by which atoms are rearranged into different molecular structure in the petroleum refining process is referred to as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "catalytic cracking",
+            "hydrocracking",
+            "polymerization",
+            "reforming"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2003,
+        "question": "Which of the following is found in cotton",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Fat",
+            "Oil"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2003,
+        "question": "The principal constituent of natural gas is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "methane",
+            "ethane",
+            "propane",
+            "butane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1424777288_co.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "L",
+            "M",
+            "N",
+            "P"
+        ],
+        "type": "objectives"
+    }
+]

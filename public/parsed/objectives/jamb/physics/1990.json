@@ -1,0 +1,739 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1990,
+        "question": "Which of the following is a fundamental unit?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Newton",
+            "Watt",
+            "Joule",
+            "Second"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1990,
+        "question": "<p>A car moving with a speed of 90kmh-1 was brought uniformly to rest by the application of the brakes in 10s. How far did the car travel after the brakes were applied?</p>",
+        "explanation": "<p>speed = \\(\\frac{90 \\times 10^3}{3600}\\) = 25ms-1<br>\n<br>\nAcceleration = velocity change / time = 25 / 10</p><p>: Acceleration = 2.5<br>\n<br>\nUsing S = Ut + \\(\\frac{1}{2}\\) at^2</p><p>S =  \\(\\frac{1}{2}\\) X 2.5 X 10^2 = 125m</p>",
+        "correctIndex": 0,
+        "options": [
+            "125m",
+            "150m",
+            "250m",
+            "15km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1990,
+        "question": "A particle of mass M which is at rest splits up into two. If the mass and velocity of one of the particles are m and v respectively, calculate the velocity of the second particle",
+        "explanation": "(M - m)V<sub>2</sub>= mv<br><br>V<sub>2</sub>= \\(\\frac{mv}{M - m}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{mv}{M}\\)",
+            "\\(\\frac{Mv}{M - m}\\)",
+            "\\(\\frac{mv}{M + m}\\)",
+            "\\(\\frac{mv}{M - m}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1990,
+        "question": "Which of the following statements are correct about an object in equilibrium under parallel forces? i. the total clockwise moments of the forces about any point equals the total anti-clockwise moments about the same point. ii. the total forces in one direction equals the total forces in the opposite direction. iii. the resolved components along the x-axis equals the resolved components along the y-axis.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "ii and iii",
+            "i, ii, and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1990,
+        "question": "To keep a vehicle moving at a constant speed v, requires power P, from the engine. The force provided by the engine is",
+        "explanation": "power = speed x force<br><br>force = \\(\\frac{power}{speed}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{p}{v}\\)",
+            "\\(\\frac{1}{2}\\) v",
+            "pv",
+            "\\(\\frac{p}{v^2}\\) v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1990,
+        "question": "A stone of mass m kg is held h meters above the floor for 50s. The work done in joules over this period is",
+        "explanation": "work = mgh(no motion)",
+        "correctIndex": 3,
+        "options": [
+            "mh",
+            "mgh",
+            "\\(\\frac{mgh}{50}\\)",
+            "O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1990,
+        "question": "A body of mass 10kg rests on a rough inclined plane whose angle of tilt \\(\\theta\\) is variable. \\(\\theta\\) is gradually increased until the body starts to slide down the plane at 30<sup>o</sup>. The coefficient of limiting friction between the body and the plane",
+        "explanation": "n = tan 30 = 0.58",
+        "correctIndex": 2,
+        "options": [
+            "0.30",
+            "0.50",
+            "0.58",
+            "0.87"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1990,
+        "question": "An inclined plane which makes an angle of 30<sup>o</sup>with the horizontal has a velocity ratio of",
+        "explanation": "V.R = \\(\\frac{1}{sin\\theta}\\)<br><br>= \\(\\frac{1}{sin30}\\)<br><br>= 2",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "1",
+            "0.866",
+            "0.50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1990,
+        "question": "What is the length of liquid column in a barometer tube that would support an atmospheric pressure of 102000Nm<sup>-2</sup>if the density of the liquid is 2600kgm<sup>-3</sup>? [g = 10ms<sup>-2</sup>]",
+        "explanation": "pressure = g x density x height<br><br>102000 = 10 x 2600 x height<br><br>height = 3.92m",
+        "correctIndex": 2,
+        "options": [
+            "0.75m",
+            "0.76m",
+            "3.92m",
+            "39.23m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1990,
+        "question": "40m<sup>3</sup>of liquid is mixed with 60m<sup>3</sup>of another liquid Q. If the density of P and Q are 1.00kgm<sup>-3</sup>and 1.6kgm<sup>-3</sup>respectively, what is the density of the mixture?",
+        "explanation": "M<sub>p</sub>= 1 x 40 = 40kg ; mQ = 1.6 x 60 = 96kg<br><br>volume of mixture = 40 + 60 = 100m<sup>3</sup><br><br>mass of mixture = 40 + 96 = 136kg<br><br>density of mixture = \\(\\frac{136}{100}\\)<br><br>= 1.36kgm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "0.05kgm<sup>-3</sup>",
+            "1.25kgm<sup>-3</sup>",
+            "1.30kgm<sup>-3</sup>",
+            "1.36kgm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1990,
+        "question": "The resistances of platinum wire at the ice and steam points are 0.75 ohm and 1.05 ohm respectively. Determine the temperature at which the resistance of the wire is 0.90 ohm",
+        "explanation": "100<sup>o</sup>C .... 1.05\\(\\theta\\)<br><br>\\(\\theta\\)<sup>o</sup>C .... 0.9\\(\\theta\\)<br><br>0<sup>o</sup>C .... 0.75\\(\\theta\\)<br><br>\\(\\frac{\\theta - 0}{100 - 0}\\) = \\(\\frac{0.9 - 0.75}{1.05 - 0.75}\\)<br><br>\\(\\theta\\) = 50<sup>o</sup>C",
+        "correctIndex": 1,
+        "options": [
+            "43.0<sup>o</sup>C",
+            "50.0<sup>o</sup>C",
+            "69.9<sup>o</sup>C",
+            "87.0<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1990,
+        "question": "A bar of initial length /<sub>0</sub>is heated through a temperature change \\(\\Delta\\)t to a new length I. The linear expansivity, a, of the bar is",
+        "explanation": "\\(\\frac{L - L_o}{L_o \\Delta t}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{/ - /_o}{/ \\Delta t}\\)",
+            "\\(\\frac{/ - /_o}{/_o \\Delta t}\\)",
+            "/<sub>o</sub>(1 + \\(\\Delta\\) t)",
+            "\\(\\frac{/ - /_o}{/(1 + \\Delta t)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1990,
+        "question": "The pressure of a gas when cooled at constant volume will decrease because the molecules",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "collide less frequently with the walls of the container",
+            "have the same average kinetic energy",
+            "break up into smaller molecules",
+            "decrease in number"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1990,
+        "question": "1kg of copper is transferred quickly from boiling water to a block of ice. Calculate the mass of ice melted, neglecting heat loss. [specific heat capacity of copper 400Jkg<sup>-1</sup>K<sup>-1</sup>and latent heat of fusion of ice 333 x 10<sup>3</sup>Jkg<sup>-1</sup>]",
+        "explanation": "Heat lost = heat gained<br><br>1 x 400 x (100 - 0) = m x 333000<br><br>m = 0.12kg<br><br>converting to grams; 0.12 x 1000<br><br>= 120g",
+        "correctIndex": 2,
+        "options": [
+            "60g",
+            "67g",
+            "120g",
+            "133g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1990,
+        "question": "Which of the following conditions will make water boil at a temperature of 100<sup>o</sup>C when the atmospheric pressure is 750mmHg?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increase the external pressure",
+            "reduce the external pressure",
+            "heat more rapidly at the same pressure",
+            "reduce the external pressure by a quarter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1990,
+        "question": "Which of the following statements? i. land and sea breezes are natural convection currents. ii. convection may occur in liquids or gasses but not in solids. iii. the vacuum in a thermos flask prevents heat loss due to convection only.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "i and iii only",
+            "i, ii, and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1990,
+        "question": "A light wave of frequency 5 x 10<sup>14</sup>Hz moves through water which has a refractive index of \\(\\frac{4}{3}\\). Calculate the wavelength in water if the velocity of light in air is 3 x 10<sup>8</sup>ms<sup>-1</sup>",
+        "explanation": "\\(\\frac{1}{4}\\) = \\(\\frac{3 \\times 10}{v}\\)<br><br>v = 2.25 x 10<sup>8</sup>ms<sup>-1</sup><br><br>\\(\\lambda\\) = \\(\\frac{V}{F}\\)<br><br>= \\(\\frac{2.25 \\times 10^8}{5 \\times 10^14}\\)<br><br>\\(\\lambda\\) = 0.45 x 10<sup>-6</sup>m",
+        "correctIndex": 0,
+        "options": [
+            "4.5 x 10<sup>-7</sup>m",
+            "6.0 x 10<sup>-7</sup>m",
+            "1.7 x 10<sup>6</sup>m",
+            "2.2 x 10<sup>6</sup>m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1990,
+        "question": "A wave disturbance travelling in air enters a medium in which its velocity is less than that in air. Which of the following statements is true about the wave medium?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "both the frequency of the wave and the wavelength are decreased",
+            "the frequency of the wave is decreased while the wavelength is increased",
+            "the frequency of the wave is unaltered while the wavelength is decreased",
+            "the frequency of the wave is decreased while the wavelength is unaltered"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1990,
+        "question": "Shadows and eclipses result from the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "refraction of light",
+            "rectilinear propagation of light",
+            "defraction of light",
+            "reflection of light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1990,
+        "question": "An object which is 3cm high is placed vertically 10cm in front of a concave mirror. If this object produces an image 40cm from the mirror, the height of the image is",
+        "explanation": "\\(\\frac{\\text {object height}}{\\text{image height}}\\) = \\(\\frac{\\text {object distance}}{\\text{image distance}}\\)<br><br>\\(\\frac{3}{\\text{image height}}\\) = \\(\\frac{10}{40}\\)<br><br>Image height = 12cm",
+        "correctIndex": 3,
+        "options": [
+            "0.75cm",
+            "4.00cm",
+            "8.00cm",
+            "12.00cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1990,
+        "question": "A boy looks at the image of an object in a plane mirror. He observes two images, a main bright one and the other faint. The observed images result from",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "reflection only",
+            "refraction only",
+            "diffraction and interference",
+            "reflection and refraction",
+            "reflection and diffraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1990,
+        "question": "What must be the distance between an object and a converging lens of focal length 20cm to produce an erect image two times the object height?",
+        "explanation": "F = \\(\\frac{uv}{u + v}\\); v = 2u<br><br>20 = \\(\\frac{ux - 2u}{u + (-2u)}\\); u = 10cm",
+        "correctIndex": 2,
+        "options": [
+            "20cm",
+            "15cm",
+            "10cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1990,
+        "question": "For a short sighted person, light rays from a point on a very distant object is focused",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "in front of the retina",
+            "on the retina by a converging lens",
+            "behind the retina by a diverging lens",
+            "in front of the retina, a distance 2F from the lens"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1990,
+        "question": "When light is incident on an object which is magenta in colour, which of the following colour would be absorbed?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Red and blue",
+            "Green only",
+            "Red and green",
+            "Red only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1990,
+        "question": "In a resonance tube experiment, the effective length of the air column for the first resonance is 20cm when set into vibration by a tuning fork of frequency 480Hz. Neglecting and effect, the velocity of sound in air is",
+        "explanation": "\\(\\lambda\\) = 4(L + C) ; where C = o<br><br>\\(\\lambda\\) = 4 x 20 = 80cm<br><br>V = \\(\\lambda\\)F<br><br>= 80 x 10<sup>-2</sup>x 480 = 384ms<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "96ms<sup>-1</sup>",
+            "255ms<sup>-1</sup>",
+            "340ms<sup>-1</sup>",
+            "384ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1990,
+        "question": "<p>An organic pipe closed at one end is 80cm long. Determine the frequency of the fundamental note assuming that the speed of sound in air is 340ms-1</p>",
+        "explanation": "<p>\\(\\lambda\\) = 4L<br>\n<br>\n= 4 x 80 = 320cm</p><p>Converting 320cm to m, we have 3.2m<br>\n<br>\nF = \\(\\frac{V}{\\lambda}\\)<br>\n<br>\n= \\(\\frac{340}{3.2}\\)<br>\n<br>\n= 106.25Hz</p><p>\\(\\approxeq\\) 106Hz</p>",
+        "correctIndex": 0,
+        "options": [
+            "106Hz",
+            "213Hz",
+            "318Hz",
+            "425Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1990,
+        "question": "A sonometer wire of length 100cm under a tension of 10N, has a frequency of 250Hz. Keeping the length of the wire constant, the tension is adjusted to produce a new frequency of 350Hz. The new tension is",
+        "explanation": "\\(\\frac{F_1}{F_2}\\) = \\(\\sqrt\\frac{T_1}{T_2}\\)<br><br>\\(\\frac{250}{350}\\) = \\(\\sqrt\\frac{10}{T_2}\\)<br><br>T<sub>2</sub>= 19.6N",
+        "correctIndex": 3,
+        "options": [
+            "5.1N",
+            "7.1N",
+            "14.0N",
+            "19.6N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1990,
+        "question": "One of the properties of the earth's magnetic field is that the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "north pole lies in the northern hemisphere",
+            "geographic and magnetic meridians coincide",
+            "earth's magnetic flux is entirely horizontal at a place where the magnetic dip is zero",
+            "earth's magnetic flux is entirely vertical at a place where the magnetic dip is zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1990,
+        "question": "Which of the following statements are true of an insulated charged body carrying positive charge? i. it contains excess positive charges. ii. it creates an electric field. iii. it possesses potential energy. iv. it carries electric current.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and iv only",
+            "i and ii only",
+            "i, ii, iii only",
+            "i, ii, iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1990,
+        "question": "Which of the following is a vector?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Electric charge",
+            "Electric field",
+            "Electrical potential difference",
+            "Electrical capacitance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1990,
+        "question": "Three cells each of e.m.f. 1.5v and an internal resistance of 1.0\\(\\Omega\\) are connected in parallel across a load resistance of 2.67\\(\\Omega\\). Calculate the current in the load?",
+        "explanation": "E = 1.5v<br><br>r<sub>T</sub>= \\(\\frac{1 \\times 1\\times 1}{(1\\times1)+ (1\\times1) +(1\\times1)}\\)<br><br>E.m. f = I(R + r) = 0.33\\(\\Omega\\)<br><br>1.5 = I(2.67 + 0.33)<br><br>I = 0.5A",
+        "correctIndex": 2,
+        "options": [
+            "0.26A",
+            "0.41A",
+            "0.50A",
+            "0.79A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1990,
+        "question": "When a known standard resistor of 2\\(\\Omega\\) is connected to the 0.0cm end of a meter bridge, the balance point is found to be at 55.0cm. What is the value of the unknown resistor?",
+        "explanation": "\\(\\frac{R_1}{R_2}\\) = \\(\\frac{L_1}{R_2}\\)<br><br>\\(\\frac{2}{R_2}\\) = \\(\\frac{55}{45}\\)<br><br>R = 1.64\\(\\Omega\\)",
+        "correctIndex": 1,
+        "options": [
+            "1.10\\(\\Omega\\)",
+            "1.64\\(\\Omega\\)",
+            "2.44\\(\\Omega\\)",
+            "27.50\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1990,
+        "question": "The total energy required to send a unit positive charge round a complete electrical circuit is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "kinetic energy",
+            "potential difference",
+            "electromotive force",
+            "electrical energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1990,
+        "question": "Which of the following is an essential physical property of the wires used for making fuses?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "low density",
+            "high thermal conductivity",
+            "low electrical resistivity",
+            "low melting point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1990,
+        "question": "Which of the following is most suitable for protecting the circuit of 2000W electric iron connected to a 250V mains?",
+        "explanation": "P = IV \\(\\Rightarrow\\) I = \\(\\frac{2000}{250}\\)<br><br>= 8A",
+        "correctIndex": 1,
+        "options": [
+            "13A",
+            "8A",
+            "5A",
+            "3A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1990,
+        "question": "Electrical power is transmitted at a high voltage rather than low voltage because the amount of energy loss is reduced due to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "heat dissipation",
+            "production of eddy currents",
+            "excessive current discharge",
+            "excessive voltage distance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1990,
+        "question": "A lamp is rated 240V, 60W. The resistance of the filament is",
+        "explanation": "P = \\(\\frac{V_2}{R}\\) \\(\\Rightarrow\\) R = \\(\\frac{V_2}{p}\\)<br><br>= \\(\\frac{240\\times 240}{60}\\)<br><br>= 960\\(\\Omega\\)",
+        "correctIndex": 0,
+        "options": [
+            "960\\(\\Omega\\)",
+            "16\\(\\Omega\\)",
+            "15\\(\\Omega\\)",
+            "4\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1990,
+        "question": "A 0 - 10mA galvanometer with a coil resistance of 30\\(\\Omega\\) can be converted to a 0 - 10A ammeter by using",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.03\\(\\Omega\\) series resistor",
+            "0.03\\(\\Omega\\) shunt resistor",
+            "9.99\\(\\Omega\\) shunt resistor",
+            "9.99\\(\\Omega\\) series resistor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1990,
+        "question": "The number of neutrons contained in the nucleus \\(^{238}_{92}U\\) is",
+        "explanation": "238 - 92 = 146",
+        "correctIndex": 1,
+        "options": [
+            "92",
+            "146",
+            "238",
+            "330"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1990,
+        "question": "What precaution should a manufacturer take to ensure that energy loss in a transformer is minimized?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the winding of the transformer should be made of high resistance wire",
+            "the core should be made of thin sheets of metal",
+            "no magnetic material should be used to make the core",
+            "the flux linking the primary with the secondary coils should be minimum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1990,
+        "question": "A substance has a half of 3mins. after 6mins. the count rate was observed to be 400. What was its count rate at zero time?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "200",
+            "1200",
+            "1600",
+            "2400"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1990,
+        "question": "The photocell works on the principle of the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "voltaic cell",
+            "emision of electrons by incident radiation",
+            "emision of protons by incident electrons",
+            "photographic plate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24795728199_19900001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "1.88cm",
+            "1.80cm",
+            "1.28cm",
+            "1.97cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18961441668_19900002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2√3/3N",
+            "√2N",
+            "4√3/3",
+            "2V3N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14585726050_19900003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "85.0ms<sup>-1</sup>",
+            "17.0ms<sup>-1</sup>",
+            "8.5ms<sup>-1</sup>",
+            "1.7ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23337163648_1990.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0Nm",
+            "3Nm",
+            "7Nm",
+            "10Nm"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2005,
+        "question": "Which of the following phenomena is the practical evidence for the existence of the continual motion of molecules?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Translational motion",
+            "rotational motion",
+            "brownian motion",
+            "oscillatory motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2005,
+        "question": "Each of the following physical quantities is classified as a vector or a scalar quantity. Which of the classifications is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "electric potential (Vector)",
+            "momentum (scalar)",
+            "gravitational field intensity (scalar)",
+            "magnetic flux density (vector)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2005,
+        "question": "Which of the following statements about a spring balance and/or a chemical balance is not correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the chemical balance operates on the principle of moments",
+            "the sprin balance operates on Hooke's law",
+            "either may be used to measure the weight of a substance",
+            "the reading of a spring balance changes over the surface of the earth, while that of the chemical balance remaind constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2005,
+        "question": "The friction which exists between two layers of liquid in relative motion is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "capillarity",
+            "surface tension",
+            "viscosity",
+            "cohension"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2005,
+        "question": "A body of mass 25kg, moving at 3ms<sup>-1</sup>on a rough horizontal floor is at rest after sliding through a distance of 2.50m on the floor. Calculate the co-efficient of sliding friction. [g = 10.0ms<sup>-2</sup>]",
+        "explanation": "a = \\(\\frac{v^2 - u^2}{2a} = \\frac{0^2 - 3^2}{2 \\times 2.5}\\) = 1.8m/s<sup>2</sup><br><br>F = ma = 25 x 1.8 = 45N<br><br>but \\(\\mu = \\frac{F}{R} = \\frac{45}{25 \\times 10} = 0.18\\)",
+        "correctIndex": 1,
+        "options": [
+            "0.09",
+            "0.18",
+            "0.36",
+            "0.54"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2005,
+        "question": "Which of the following simple machines is a second class lever?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "wheel barrow",
+            "crowbar",
+            "claw hammer",
+            "seesae"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2005,
+        "question": "A wheel and axle of radii 800mm and 200mm respectively is used to raise a body of weight 800N by the application of 250N. Calculate the efficiency of the machine",
+        "explanation": "V.R = \\(\\frac{R}{r} = \\frac{800}{200} = 4\\)<br><br>M.A = \\(\\frac{L}{E} = \\frac{800}{250} = 3.2\\)<br><br>y = \\(\\frac{M.A}{v.R} \\times \\frac{100}{1} = 80\\)%",
+        "correctIndex": 1,
+        "options": [
+            "85%",
+            "80%",
+            "60%",
+            "20%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2005,
+        "question": "Masses,m<sup>1</sup>and m<sup>2</sup>at the 20-cm and 65-cm marks respectively of a uniform metre rule freely suspended at its centre of gravity. If the metre rule balances horizontally, determine the ratio m<sup>2</sup>: m<sup>1</sup>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2 : 1",
+            "3 : 3",
+            "2 : 3",
+            "1 : 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2005,
+        "question": "Which of the following type of motion does a body undergo when acted upon by a couple?V",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "vibrational",
+            "translational",
+            "rotational",
+            "random"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2005,
+        "question": "<p>A body starts from rest and accelerates uniformly at 5ms^-2 until it attains a velocity of 25ms-1. Calculate the time taken to attain this velocity</p>",
+        "explanation": "<p>V = u + at = 25 = 0 + 5t<br>\n<br>\nt = 5s</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.5s",
+            "5.0s",
+            "10.0s",
+            "125.0s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2005,
+        "question": "The frequency of a swinging pendulum is the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "number of complete oscillations the pendulum makes in a second",
+            "number of amplitudes the bob makes in a second",
+            "angle the bob swings through in a second",
+            "distance the bob covers in a second"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2005,
+        "question": "Which of the following about an object performing simple harmonic motion is correct? Its acceleration",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "is maximum at the extreme ends",
+            "is constant and directed towards a fixed point",
+            "is zero when it is displayed from the equilibrum position",
+            "varies linearly with the displacement from a fixed point and is directed towards the fixed point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2005,
+        "question": "A body of mass 5kg moving with a velocity of 10ms<sup>-1</sup>collides with a stationary body of mass 6kg. If the two bodies stick together and move in the same direction after their collision, calculate their common velocity",
+        "explanation": "\\(M_1V_1 + M_2U_2 = V(M_1 + M_2)\\)<br><br>5 x 10 + 6 x 0 = V(5 + 6)<br><br>V = \\(\\frac{50}{11} = 4.55\\)m/s",
+        "correctIndex": 0,
+        "options": [
+            "4.55ms<sup>-1</sup>",
+            "12.00ms<sup>-1</sup>",
+            "30.00ms<sup>-1</sup>",
+            "50.00ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2005,
+        "question": "Fuel was consumed at a steady rate of 5.0 x 10<sup>-2</sup>kg per second in a rocket engine and ejected as a gas with a speed of 4 x 10<sup>3</sup>ms<sup>-1</sup>. Determine the thrust on the rocket",
+        "explanation": "F = ma = \\(\\frac{mv}{t} = \\frac{5 \\times 10^{-2} \\times 4 \\times 10^{3}}{1}\\)<br><br>= 200N",
+        "correctIndex": 2,
+        "options": [
+            "20N",
+            "80N",
+            "200N",
+            "800N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2005,
+        "question": "Which of the following quantities has the same unit as energy?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "power",
+            "work",
+            "force",
+            "momentum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2005,
+        "question": "Which of the following source of energy is renewable?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "sun",
+            "petroleum",
+            "coal",
+            "uranium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2005,
+        "question": "The lower and upper fixed point of a thermometer are 30mm and 180mm respectively. Calculate the temperature in degrees Celsius when the thermometer reads 45mm",
+        "explanation": "100....180<br>A......45<br>0......30<br><br>\\(\\frac{45 - 30}{180 - 30} = \\frac{A - 0}{100 - 0}\\)<br><br>A = \\(\\frac{15 \\times 100}{150} = 10^oC\\)",
+        "correctIndex": 0,
+        "options": [
+            "10.0<sup>o</sup>C",
+            "15.0<sup>o</sup>C",
+            "20.0<sup>o</sup>C",
+            "30.0<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2005,
+        "question": "A body of mass m, has a specific heat capacity s, and a heat capacity c. If the temperature of the body changes by \\(\\theta^oC\\), Which of the following equation is correct?",
+        "explanation": "Q = ms\\(\\theta\\) = c \\(\\theta\\)<br><br>ms = C",
+        "correctIndex": 1,
+        "options": [
+            "ms\\(\\theta\\) = mv<sup>-1</sup>",
+            "ms = C",
+            "ms = s\\(\\theta\\)",
+            "ms = c\\(\\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2005,
+        "question": "An immersion heater rated 400W, 220V is used to heat a liquid of mass 0.5kg. If the temperature of the liquid increases uniformly at the rate of 2.5<sup>o</sup>C per second, calculate the specific heat capacity of the liquid. [Assume no heat is lost]",
+        "explanation": "pt = mc\\(\\theta\\)<br><br>C = \\(\\frac{pt}{m \\theta}\\)<br><br>= \\(\\frac{400 \\times 1}{0.5 \\times 2.5}\\)<br><br>= 320Jkg<sup>-1</sup>K<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "1100Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "320Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "200Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "176Jkg<sup>-1</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2005,
+        "question": "Water falls through a height of 50m. Determine the temperature rise at the bottom of the fall. [Neglect energy losses. Specific heat capacity of water = 4200Jkg<sup>-1</sup>K<sup>-1</sup>, g = 10ms<sup>2</sup>]",
+        "explanation": "mgh = mc\\(\\theta\\)<br><br>\\(\\theta = \\frac{gh}{c} = \\frac{10 \\times 50}{4200}\\)<br><br>= 0.119<sup>o</sup>C",
+        "correctIndex": 0,
+        "options": [
+            "0.119<sup>o</sup>C",
+            "0.840<sup>o</sup>C",
+            "1.190<sup>o</sup>C",
+            "8.400<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2005,
+        "question": "The energy required to change a solid to liquid at constant temperature is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "thermal capacity",
+            "has lower specific heat capacity",
+            "latent heat of fusion",
+            "latent heat of vaporisation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2005,
+        "question": "Which of the following statements about boiling and evaporation at atmospheric pressure is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "evaporation and boiling of water take place at 100<sup>o</sup>",
+            "evaporation of water takes place at a temperature greater than 100<sup>o</sup>C, while boiling takes place at 100<sup>o</sup>C",
+            "evaporation of water takes place at 100<sup>o</sup>C while boiling takes place at a higher temperature",
+            "boiling takes place at 100<sup>o</sup>while evaporation my take place at temperatures lower than 100<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2005,
+        "question": "Which of the following statements is correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the density of a liquid decreases when it expands",
+            "the density of a liquid increases when the liquids are heated",
+            "the real expansivity of a liquid is less than its apparent expansivity",
+            "a liquid changes to solid when heated to a sufficiently high temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2005,
+        "question": "The pressure exerted by a given mass of gas in a container",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "decreases if the container is heated",
+            "increases if the molecules of the gas move faster",
+            "increases if the container is doubled",
+            "decreases as the kinetic energy of the gas molecules inceases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2005,
+        "question": "Which of the following statements about a progressive mechanical wave is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "it can be a plane polarised",
+            "its energy is localised at specific points of its profile",
+            "it does not require a material medium for its propagation",
+            "its frequency remains constant as it travels between different media"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2005,
+        "question": "The distance between two points in phase on a progressive wave is 5cm. If the sped of the wave is 0.2ms<sup>-1</sup>, calculate its period",
+        "explanation": "F = \\(\\frac{v}{\\lambda} = \\frac{0.2}{5 \\times 10^{-2}} = 4Hz\\)<br><br>T = \\(\\frac{1}{f} = \\frac{1}{4} = 0.25s\\)",
+        "correctIndex": 2,
+        "options": [
+            "4.00s",
+            "2.50s",
+            "0.25s",
+            "0.04s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2005,
+        "question": "Radio waves travel in air at 3.0 x 10<sup>8</sup>ms<sup>-1</sup>. If the waves enter water of refractive index \\(\\frac{4}{3}\\), calculate the speed of radio waves in water",
+        "explanation": "\\(_an_w = \\frac{4}{3} = \\frac{\\text{speed of light in air}}{\\text{speed of light in water}}\\)<br><br>\\(\\frac{4}{3} = \\frac{3 \\times 10^8}{x}\\)<br><br>x = \\(\\frac{9 \\times 10^4}{4}\\)<br><br>= 2.25 x 10<sup>8</sup>m/s",
+        "correctIndex": 2,
+        "options": [
+            "4.33 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "4.00 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "2.25 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "1.33 x 10<sup>8</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2005,
+        "question": "The amplitude of a wave is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "distance travelled by the wave in a complete cycle of its motion",
+            "maximum diplacement of the wave particle from the equilibrum position",
+            "separation of two adjacent particles vibrating in a phase",
+            "distance between two successive troughs of the wave"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2005,
+        "question": "Which of the following optical instruments does not depend on the use of plane mirrors?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "kaleidoscope",
+            "simple microscope",
+            "sextant",
+            "simple periscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2005,
+        "question": "A ray of light is incident normally on a plan mirror. If the incident ray is kept fixed while the mirror is rotated through an angle of 30<sup>o</sup>, determine the initial and final angles of reflection respectively",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0<sup>o</sup>and 60<sup>o</sup>",
+            "90<sup>o</sup>and 30<sup>o</sup>",
+            "0<sup>o</sup>and 30<sup>o</sup>",
+            "90<sup>o</sup>and 60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2005,
+        "question": "In which of the following media is the transmission of sound wave fastest?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Vacuum",
+            "Air",
+            "Wood",
+            "Iron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2005,
+        "question": "The ability of a material to store an electric charge when its plates are at different potentials is referred to as its",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "conductance",
+            "inductance",
+            "capacitance",
+            "resistance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2005,
+        "question": "Two capacitors if capacitance 0.4\\(\\mu F\\) and 0.5\\(\\mu F\\) are connected in parallel and charged to a p.d. of 50V, Determine the total charge acquired",
+        "explanation": "C = \\(C_1 + C_2\\) = 0.4 + 0.5 = 0.9\\(\\mu F\\)<br><br>Q = Cv = 0.9 x 50 = 45\\(\\mu C\\)",
+        "correctIndex": 0,
+        "options": [
+            "45\\(\\mu C\\)",
+            "25\\(\\mu C\\)",
+            "20\\(\\mu C\\)",
+            "10\\(\\mu C\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2005,
+        "question": "A parallel plate capacitor of capacitance 600\\(\\mu F\\) has a potential difference of 200V between its plates. Calculate the charge on either plate of the capacitor",
+        "explanation": "Q = CV<br><br>= 600 x 10<sup>-6</sup>x 200 = 1.2C",
+        "correctIndex": 0,
+        "options": [
+            "1.2C",
+            "3.3C",
+            "3330.0C",
+            "12.0000.0C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2005,
+        "question": "A parallel plate capacitor of capacitance 600\\(\\mu F\\) has a potential difference of 200V between its plates. Calculate the charge on either plate of the capacitor",
+        "explanation": "Q = CV<br><br>= 600 x 10<sup>-6</sup>x 200 = 1.2C",
+        "correctIndex": 0,
+        "options": [
+            "1.2C",
+            "3.3C",
+            "3330.0C",
+            "12.0000.0C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2005,
+        "question": "a chemical cell of internal resistance 1\\(\\Omega\\) supplies electric current to an external resistor of resistance 3\\(\\Omega\\). Calculate the efficiency of the cell",
+        "explanation": "R = \\(r_1 + R = 1 + 3 = 4\\Omega\\)<br><br>\\(\\frac{3}{4} \\times \\frac{100}{1} = 75\\)%",
+        "correctIndex": 0,
+        "options": [
+            "75%",
+            "50%",
+            "33%",
+            "25%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2005,
+        "question": "An electric lamp is rated 240V, 40W. What is the cost of running the lamp for 72 hours if the electricity authority charges N2.50 per kWh?",
+        "explanation": "Cost = \\(\\frac{Pt}{1000}\\) x cost per kWh<br><br>= \\(\\frac{40 \\times 72}{1000} \\times 2.50 = N7.20\\)",
+        "correctIndex": 0,
+        "options": [
+            "N7.20",
+            "N18.00",
+            "180.00",
+            "N720.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2005,
+        "question": "Which of the following statements explains lost volt in an electric circuit? The",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "total p.d from a source to maintain a flow of current through the circuit as well as the source",
+            "p.d to drive current through the circuit component except the source",
+            "p.d across all external components connected to the source of electricity",
+            "p.d across the internal resistance of the cell"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2005,
+        "question": "A constantan wire has a cross sectional area of 4 x 10<sup>-8</sup>m<sup>2</sup>and a resistivity of 1.1 x 10<sup>-6</sup>\\(\\Omega\\)m. If a resistor of resistance 11\\(\\Omega\\) is to be made from this wire, calculate the length of the wire required",
+        "explanation": "L = \\(\\frac{RA}{e} = \\frac{11 \\times 4 \\times 10^{-8}}{1.1 \\times 10{-4}} = 0.4m\\)",
+        "correctIndex": 0,
+        "options": [
+            "0.4m",
+            "0.8m",
+            "2.5m",
+            "5.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2005,
+        "question": "The mass and weight of a body on earth are 8kg and 80N respectively. Determine the mass and weight of the body respectively on a planet where the pull of gravity is \\(\\frac{1}{8}\\) that on earth",
+        "explanation": "m = 8kg, wt = 80 x \\(\\frac{1}{8}\\) = 10N",
+        "correctIndex": 3,
+        "options": [
+            "8kg, 8N",
+            "1kg, 10N",
+            "64kg, 10N",
+            "8kg, 10N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2005,
+        "question": "Lenz's law of electromagnetic induction states that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "a force is exerted on a current-carrying conductor in a magnetic field",
+            "electromotive force id induced in a circuit whenever there is a change in the magnetic flux linked with the circuit",
+            "the magnitude of the induced electromotive force in a circuit is proportional to the rate of change of flux linking the circuit",
+            "the induced current in a coil is in such a direction that it sets up a magnetic field which opposes the change producing it"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2005,
+        "question": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the magnet is moved away from the stationary solenoid",
+            "the solenoid is moved away from the stationary magnet",
+            "the magnet is moved towards the stationary solenoid",
+            "there is no relative motion between the magnet and the solenoid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2005,
+        "question": "an electric motor is a machine that converts",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "mechanical energy into electrical energy",
+            "electrical energy into mechanical energy",
+            "high voltage to low voltage",
+            "low voltage to high voltage"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2005,
+        "question": "Which of the following statements is an advantage of nuclear fusion over nuclear fission?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The resulting chain reaction which produces large amount of energy",
+            "no radioactve wave is produced as bye product",
+            "very high temperature is required in the process",
+            "the end product is lead"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2005,
+        "question": "Which of the following statements is not a reason for using soft iron in making the core of a transformer? It",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "retains its magnetism for a long time",
+            "is easily magnitised",
+            "reduces energy loss due to hysteresis",
+            "is easily demagnetised"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2005,
+        "question": "Beta particles are faster-moving",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "protons",
+            "electrons",
+            "neutrons",
+            "photons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2005,
+        "question": "A process by which two light atoms join to form a new atom of higher atomic mass is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "natural radioactivity",
+            "nuclear fission",
+            "nuclear fusion",
+            "chain reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2005,
+        "question": "Light of energy 5.0 eV falls on a metal of work function 3.0 eV and electrons are emitted, determine the stopping potential. [electronic charge, e = 1.60 x 10<sup>8</sup>ms<sup>-19</sup>]",
+        "explanation": "\\(V_8 \\frac{hf - w_o}{e} = \\frac{5.0 \\times 1.60 \\times 10^{-19} - 3.0 \\times 1.6 \\times 10^{-19}}{1.6 \\times 10^{-19}} = 2.0V\\)",
+        "correctIndex": 1,
+        "options": [
+            "1.7V",
+            "2.0V",
+            "8.0V",
+            "15.0V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2005,
+        "question": "The mass of a proton is 1.0089\\(\\mu\\) and that of a neutron is 1.0089\\(\\mu\\). Determine the energy evolved in stabilizing the nucleus of nitrogen of mass number 14 with 7 protons and 7 neutrons. [speed of light = 3.0 x 10<sup>8</sup>ms<sup>-1</sup>; 1\\(\\mu\\) = 1.67 x 10<sup>-27</sup>kg]",
+        "explanation": "E = DMC<sup>2</sup>= 14,1141 x 1.67 x 10<sup>-27</sup>x 9 x 10<sup>16</sup><br><br>= 2.332 x 10<sup>-9</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "1.710 x 10<sup>-8</sup>J",
+            "3.131 x 10<sup>-8</sup>J",
+            "1.476 x 10<sup>-8</sup>J",
+            "2.332 x 10<sup>-9</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2005,
+        "question": "Uranium of atom number 92 and mass number 238 emits an alpha particle from its nucleus. The new nucleus formed has respectively, atomic number and mass number",
+        "explanation": "\\(U^{238 - 4}_{92 - 2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "94 and 238",
+            "90 and 236",
+            "88 and 234",
+            "90 and 234"
+        ],
+        "type": "objectives"
+    }
+]

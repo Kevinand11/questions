@@ -1,0 +1,738 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2003,
+        "question": "A tuber of cassava can be processed into powder. This explains the face that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "matter can change sponteneously from one state to another",
+            "matter cannot be destroyed",
+            "force is required to change natter from one state to another",
+            "matter is made up of tiny particle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2003,
+        "question": "A piece of metal of relative density 5.0 weighs 60N in air. Calculate its weight when fully immersed in water",
+        "explanation": "R.D = \\(\\frac{m}{m - m_2} = 5 = \\frac{6}{60 - m_1} = \\frac{240}{5} = 48N\\)",
+        "correctIndex": 2,
+        "options": [
+            "4N",
+            "5N",
+            "48N",
+            "60N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2003,
+        "question": "The tendency of a body to remain at least when a force is supplied to it is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "impulse",
+            "momentum",
+            "inertia",
+            "friction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2003,
+        "question": "A force acts on a body for 0.5s changing its momentum from 16.0kg ms<sup>-1</sup>to 21.0kgms<sup>-1</sup>, calculate the magnitude of the force",
+        "explanation": "F = \\(\\frac{mv - mu}{1} = \\frac{21 - 16}{0.5} = 10N\\)",
+        "correctIndex": 3,
+        "options": [
+            "42.0N",
+            "37.0N",
+            "32.0N",
+            "10.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2003,
+        "question": "A moving object is said to have a uniform acceleration if its",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "displacement decreases at a constant rate",
+            "speed is directly proportional with time",
+            "velocity increases by equal amount in equal time intervals",
+            "velocity varies inversely with time"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2003,
+        "question": "The period of an oscillatory motion is defined as the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "average of the time used in completing different numbers of oscillations",
+            "time to complete a number of oscillations",
+            "time to complete one oscillation",
+            "time taken to move from one extreme position to another"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2003,
+        "question": "The mass on a loaded spiral spring oscillates vertically between two extreme positions P and R equidistant from the equilibrium position Q. Which of the following statements about the system is not correct",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the momentum of the mass is maximum at Q",
+            "the elastic potential energy of the spring is maximum at Q",
+            "the kinetic energy of the mass is maximum at P",
+            "the total energy of the system is always constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2003,
+        "question": "A ball f mass 5.0kg hits a smooth vertical wall normally with a speed of 2ms<sup>-1</sup>. Determine the magnitude of the resulting impulse",
+        "explanation": "I = Ft = m(v - u) = 5 x 2<br><br>= 10kgms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2.0kgms<sup>-1</sup>",
+            "10.0kgms<sup>-1</sup>",
+            "5.0kgms<sup>-1</sup>",
+            "2.5kgms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2003,
+        "question": "Which of the following statements correctly defines a simple machine? a device",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "that can provide electric current",
+            "which can only carry people from one place to another",
+            "with which work can be done easily",
+            "which changes the state of rest or of uniform motion of an object along a straight ine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2003,
+        "question": "A platinum resistance thermometer has a resistance 4\\(\\Omega\\) at 0<sup>o</sup>C and 100\\(\\Omega\\) at 100<sup>o</sup>C. Assuming the resistance changes uniformly with temperature. Calculate the resistance of the thermometer when the temperature is 45<sup>o</sup>C",
+        "explanation": "\\(\\frac{R - 4}{10 - 4} = \\frac{45 - 0}{100 - 0}\\)<br><br>R = \\(\\frac{670}{100} = 6.7\\Omega\\)",
+        "correctIndex": 1,
+        "options": [
+            "14.0\\(\\Omega\\)",
+            "6.7\\(\\Omega\\)",
+            "3.2\\(\\Omega\\)",
+            "2.7\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2003,
+        "question": "a metal rod of length 100cm is heated through 100<sup>o</sup>C, calculate the change in length of the rod [linear expansivity of the material of the rod is 3 x 10<sup>-6</sup>K<sup>-1</sup>]",
+        "explanation": "\\(I_2 - I_1 = I_1, \\theta\\alpha - 1 \\times 100 \\times 3 \\times 10^{-5}\\)<br><br>= 3 x 10<sup>-3</sup>m<br><br>= 3mm",
+        "correctIndex": 1,
+        "options": [
+            "4mm",
+            "3mm",
+            "2mm",
+            "1mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2003,
+        "question": "The heat capacity of a calorimeter is the amount of energy required to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "change the temperature of 1kg of the calorimeter by 1k",
+            "change 1kg mass of the calorimeter to liquid at the same temperature",
+            "change the temperature of the calorimeter",
+            "melt the calorimeter into liquid at a constant temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2003,
+        "question": "Which of the following statement about latent heat of vaporization is correct? It",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "weakens the adhesive force between molecules of a liquid and those of its container",
+            "breaks completely the force of attraction completely between the molecules of a liquid",
+            "add to the heat content of a liquid",
+            "increases the cohesive forces between liquid molecules"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2003,
+        "question": "When the pressure of a fixed mass of gas is doubled at constant temperature, the volume of the gas is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "increased four times",
+            "doubled",
+            "unchangeable",
+            "halved"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2003,
+        "question": "The volume of a given mass of an ideal gas at 327k and 9.52 x 10<sup>4</sup>Pa is 40cm<sup>3</sup>. calculate the volume of the gas at 273k and 1.034 x 10<sup>5</sup>Pa.",
+        "explanation": "\\(V_2 = \\frac{P_1V_1T_2}{P_2T_1} = \\frac{9.52 \\times 10^4 \\times 40 \\times 273}{1.034 \\times 10^5 \\times 327}\\)<br><br>= 30.75cm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "68.23cm<sup>3</sup>",
+            "47.91cm<sup>3</sup>",
+            "44.60cm<sup>3</sup>",
+            "30.75cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2003,
+        "question": "A wave of weight length 0.30m travels 900m in 3.0s, calculate its frequency",
+        "explanation": "V = \\(\\frac{s}{t} = \\frac{900}{3} = 300\\)m\\s<br><br>f = \\(\\frac{v}{\\pi} = \\frac{300}{0.30}\\)<br><br>= 1000Hz",
+        "correctIndex": 2,
+        "options": [
+            "68.0Hz",
+            "225.0Hz",
+            "1000Hz",
+            "750.0Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2003,
+        "question": "Which of the following condition is necessary for the occurrence of total internal reflection of light?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "light must travel from an optical less dense to a denser medium",
+            "the angle of incidence must be equal to the critical angle",
+            "the angle of incidence must be greater than the critical angle",
+            "the angle of refraction must be 90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2003,
+        "question": "The image which cannot be formed on a screen is said to be",
+        "explanation": "Any image that can be formed on a screen are called real image. Such images are formed by light rays emanating from the object, when reflected and/or refracted by devices such as lenses and mirrors converge at some specific point.<br><br>In contrast there are other images which are formed by the rays of light reaching the observer appearing to converge at some point. This happens when the rays reaching the observer are diverging and when the line of these rays are projected backward. Such images, which cannot be formed on a screen, are called virtual image.",
+        "correctIndex": 3,
+        "options": [
+            "inverted",
+            "erect",
+            "real",
+            "virtual"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2003,
+        "question": "An object is placed on the principal axis and at the centre of curvature of a concave mirror, the image of the image formed by the mirror is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "real and magnified",
+            "real and inverted",
+            "erect and magnified",
+            "erect and virtual"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2003,
+        "question": "A converging lens produces an image four times as large as an object placed 25cm from the lens. Calculate its focal length",
+        "explanation": "M = \\(\\frac{v}{u}\\)<br><br>v = mu = 4 x 25 = 100m<br><br>\\(\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}\\)<br><br>\\(\\frac{1}{100} + \\frac{1}{25} = \\frac{1}{f}\\)<br><br>f = 20cm",
+        "correctIndex": 3,
+        "options": [
+            "100cm",
+            "33cm",
+            "29cm",
+            "20cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2003,
+        "question": "The horizontal floor of a water reservoir appears to be 1.0m deep when viewed vertically from above. If the refractive index of water is 1.35, calculate the real depth of the reservoir",
+        "explanation": "n = \\(\\frac{R.d}{A.d}\\)<br><br>1.35 = \\(\\frac{R.d}{1}\\)<br><br>R.d = 1.35m",
+        "correctIndex": 1,
+        "options": [
+            "2.35m",
+            "1.35m",
+            "1.00m",
+            "0.35m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2003,
+        "question": "A converging lens has a focal length of 5cm. Determine its power",
+        "explanation": "p = \\(\\frac{100}{f} = \\frac{100}{+5} = +20\\)",
+        "correctIndex": 0,
+        "options": [
+            "+20.0",
+            "+0.2",
+            "-20.00",
+            "-0.2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2003,
+        "question": "Which of the following pairs of rays shows the widest separation in the spectrum of white light?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "green and blue",
+            "orange and indigo",
+            "blue and violet",
+            "red and yellow"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2003,
+        "question": "Which of the following statements about the human eye and the camera is correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "both form virtual image of objects",
+            "the image formed by the eye is upright in the retina while that formed by the camera is inverted on the film",
+            "the inside of both of them is blackened to absorb unwanted light",
+            "the focal length of both eye lens and the camera lens can be varied"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2003,
+        "question": "The speed of sound in air is is directly proportional to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "its temperature on the celsius scale",
+            "ite temperature in the thermodynamic scale",
+            "the cube root of its temperature on its celcius csale",
+            "the square roor of its temperature on the absolute scale"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2003,
+        "question": "A sonometer wire of linear density 0.08kg m<sup>-1</sup>subjected to a tension of 800N is plucked. Calculate the speed of a pulse which moves from one end of the wire to the other",
+        "explanation": "v = \\(\\sqrt{\\frac{T}{m}} = \\sqrt{\\frac{800}{0.08}} = 100\\)m/s",
+        "correctIndex": 1,
+        "options": [
+            "179.0ms<sup>-1</sup>",
+            "100.0ms<sup>-1</sup>",
+            "15.8ms<sup>-1</sup>",
+            "8.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2003,
+        "question": "Which of the following instruments gives a pure note when sounded?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "talking drum",
+            "siren",
+            "tunning fork",
+            "guitar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2003,
+        "question": "Which of the following features of an electrostatic line of force is not correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "it is an imaginary line which a positive charge will describe if it is free to move",
+            "the tangent drawn at any point on a curved line of force shows the direction of the electric field intensity at that point",
+            "it is sometimes curved",
+            "it can cross another line of force in a region of intense electric field"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2003,
+        "question": "<p>Which of the following statement about force is correct ?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electrostatic, gravitational and magnetic forces are always attractive",
+            "electric, gravitational and magnetic field obeys inverse square law",
+            "fields are real but their corresponding field lines are imaginary",
+            "field lines and their corresponding fields are both real"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2003,
+        "question": "A positively charged glass rod is placed by near the cap of a positively charge electroscope. The divergence of the leaf is observed to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "decrease",
+            "increase",
+            "remain the same",
+            "increase and collapse immediately"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2003,
+        "question": "Two identical cells each of e.m.f 2v and internal resistance 1.0\\(\\Omega\\) are connected in parallel. The combination is connected to an external load of 1.5\\(\\Omega\\). Calculate the current in the circuit",
+        "explanation": "I = \\(\\frac{E}{R + r} = \\frac{2}{1.5 + 0.5}\\)<br><br>= 1A",
+        "correctIndex": 1,
+        "options": [
+            "0.57A",
+            "1.00A",
+            "1.14A",
+            "2.00A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2003,
+        "question": "Which of the following factors does not affect the the electric resistance of a wire?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "length",
+            "mass",
+            "temperature",
+            "cross sectional area"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2003,
+        "question": "A current of 10A passes through a conductor for 10s, calculate the charge flowing through the conductor",
+        "explanation": "Q = it<br><br>= 10 x 10 = 100C",
+        "correctIndex": 0,
+        "options": [
+            "100.0C",
+            "10.0C",
+            "1.0C",
+            "0.1C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2003,
+        "question": "A lamp is rated 240V 60W, calculate the resistance of its filament",
+        "explanation": "R = \\(\\frac{V^2}{P} = \\frac{240^2}{60} = 960\\Omega\\)",
+        "correctIndex": 2,
+        "options": [
+            "240\\(\\Omega\\)",
+            "360\\(\\Omega\\)",
+            "960\\(\\Omega\\)",
+            "1440\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2003,
+        "question": "The maximum power dissipated by a 100\\(\\Omega\\) resistor in a circuit is 4W. Calculate the voltage across the resistor",
+        "explanation": "\\(V^2 = PR = V = \\sqrt{4} \\times 100\\)<br><br>= 20V",
+        "correctIndex": 1,
+        "options": [
+            "10V",
+            "20V",
+            "25V",
+            "400V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2003,
+        "question": "One difference between a reactance and a resistance in an alternating current circuit is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "resistance is larger than reactance",
+            "energy is not diaaipated in a reactance",
+            "energy is stored in a resistance but not in a reactance",
+            "the current in a reactance is lower than in the resistance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2003,
+        "question": "The direction of induced current in a straight wire placed in magnetic field is determined by using",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Fleming's right hand rule",
+            "Maxwell's screw rule",
+            "Faraday's law",
+            "Lenz's law"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2003,
+        "question": "Which of the following statements about an electromagnet is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "it is a temporary magnet",
+            "its strength depends on the current",
+            "its stength depends on the number of turns in its coil",
+            "it has permanent poles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2003,
+        "question": "Which of the following statements is not true of the isotopes of an element? They",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "are atoms of the same element",
+            "have the same chemical properties",
+            "have the same atomic number",
+            "have the same mass number"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2003,
+        "question": "Which of the following statements is true of ultra violet radiations? It",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "supports the sensation of hearing",
+            "does not cause the emission of electrons from metals",
+            "is an electromagnetic wave",
+            "is not capable of causing sun burns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2003,
+        "question": "A radioactive element has a decay constant of 0.077s<sup>-1</sup>, calculate its half life",
+        "explanation": "T = \\(\\frac{0.692}{\\lambda} = \\frac{0.692}{0.077}\\)<br><br>= 9s",
+        "correctIndex": 1,
+        "options": [
+            "12.5s",
+            "9.0s",
+            "5.1s",
+            "0.5s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2003,
+        "question": "The minimum energy required to remove an electron from an atom is known as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "excitation energy",
+            "ionization energy",
+            "binding energy",
+            "photon energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2003,
+        "question": "Nuclear fission is preferred to nuclear fusion in the generation of energy because",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "very high temperature are required for fusion",
+            "the raw material of fusion are not easily obtained",
+            "energy obtained from fusion is relatively smaller",
+            "the by product of fusion are very dangerous"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2003,
+        "question": "Which of the following reactions represents nuclear fusion?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(^2_1H + ^2_1H \\to ^3_2He + ^1_0n\\)",
+            "\\(^235_92U + ^1_0n \\to ^145_56Ba + ^90_36Kr \\)",
+            "\\(^234_90TH \\to ^0_-1n + ^3_2He + ^1_0Pa\\)",
+            "\\(^238_92U \\to ^4_2H \\to ^3_2He + ^234_90Th\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27172533764_maths-41.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "P is negatively charged while S is positively charged",
+            "P is positively charged while S is negatively charged",
+            "both P and S are positively charge",
+            "both P and Q are negatively charged"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13493237004_Scan.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "conduction",
+            "single touch",
+            "induction",
+            "divided touch"
+        ],
+        "type": "objectives"
+    }
+]

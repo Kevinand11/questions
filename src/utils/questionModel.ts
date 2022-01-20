@@ -39,9 +39,10 @@ export type Media = File | {
 	size: number
 }
 
-export const examTypes = ['utme', 'wassce', 'neco', 'gce', 'jupeb']
+export const examTypes = ['jamb', 'waec', 'neco', 'gce', 'jupeb']
 export const subjects = ['accounts', 'agriculture', 'biology', 'chemistry', 'civic', 'commerce', 'crk', 'economics', 'english', 'further mathematics', 'geography', 'government', 'history', 'igbo', 'irk', 'literature', 'mathematics', 'physics', 'yoruba']
 const startYear = 1978
 const endYear = 2023
 export const years = new Array(1 + endYear - startYear).fill(0).map((_, idx) => startYear + idx)
 export const answers = ['a', 'b', 'c', 'd', 'e']
+export const questionTypes = ['objectives', 'theory', 'practical']

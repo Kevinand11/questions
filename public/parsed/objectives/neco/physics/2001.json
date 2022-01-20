@@ -1,0 +1,784 @@
+[
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 1,
+        "year": 2001,
+        "question": "The invisible part of the spectrum of white light consists of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Infra-red and ultra-violet only",
+            "Infra-red, ultra-violet and blue only",
+            "red, orange and green only",
+            "red and violet only",
+            "yellow and indigo only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 2,
+        "year": 2001,
+        "question": "50cm<sup>3</sup>of air at a pressure of 5Nm<sup>-2</sup>is enclosed in a metal tube by a piston. If the piston is pushed in a distance of 10cm, what will the pressure of the air become, if the cross-sectional area of the tube is 2cm<sup>-2</sup>? (Assume that the temperature remains constant throughout)",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "12.5 Nm<sup>-2</sup>",
+            "8.7 Nm<sup>-2</sup>",
+            "8.3 Nm<sup>-2</sup>",
+            "3.8Nm<sup>-2</sup>",
+            "3.0Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 3,
+        "year": 2001,
+        "question": "Which scientist discovered natural radioactivity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Enrico Fermi",
+            "Henri Becquerel",
+            "Marie Curie",
+            "Micheal Faraday",
+            "Niels Bohr"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 4,
+        "year": 2001,
+        "question": "Totally reflecting prisms are preferred to mirrors in periscopes because<br><br>I. mirror givegive multiple images<br>II. silvering on mirrors is easy damaged<br>III. mirrors reflect less light than totally reflecting prisms",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "I and II only",
+            "I and III only",
+            "II and III only",
+            "I,II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 5,
+        "year": 2001,
+        "question": "What is the energy stored in a 10μ F capacitor if the potential difference between the plates is 40 V?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2.0 × 10<sup>-4</sup>J",
+            "8.0 ×10<sup>-4</sup>J",
+            "4.0 × 10<sup>-3</sup>J",
+            "8.0 × 10<sup>-3</sup>J",
+            "1.6 × 10<sup>-2</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 6,
+        "year": 2001,
+        "question": "<p>Notes of the same frequency sounded on a piano and on a flute may differ in<br>\n<br>\nI. pitch<br>\nII. quality<br>\nIII. Loudness</p>",
+        "explanation": "<p>Quality is that characteristic note which distinguishes the two sounds of the same loudness and same pitch but emitted by two different instruments.</p>",
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "I and III only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 7,
+        "year": 2001,
+        "question": "What is X in the equation given below? 42He + 94Be → 126C + X",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "electron",
+            "hydrogen",
+            "lithium",
+            "neutron",
+            "proton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 8,
+        "year": 2001,
+        "question": "<p>A waterfall is 630m high. What is the change in temperature of a quantity of water that falls from the top to the bottom of the waterfall? (Neglect heat losses to the surroundings, take g as 10 ms-2 and specific heat capacity of weather as 4200,J kg-1K-1</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.15°C",
+            "1.50°C",
+            "15.00°C",
+            "21.00 °C",
+            "50.00°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 9,
+        "year": 2001,
+        "question": "N.N.P.C. gas cylinder containing 15kg of cooking gas was left open, and the gas emptied in 3.8 minutes, at an average speed of 20 ms<sup>-1</sup>. What force was exerted on the gas in the cylinder?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "132N",
+            "13.2N",
+            "1.32N",
+            "0.132N",
+            "0.013N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 10,
+        "year": 2001,
+        "question": "An object placed 15cm from a converging lens forms a real image whose magnification is 2.0. What is the focal length of the lens?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "5.00cm",
+            "10.00cm",
+            "15.00 cm",
+            "18.00 cm",
+            "20.00cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 11,
+        "year": 2001,
+        "question": "Which statement about the concept of temperature is NOT true?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Temperature decides the direction of heat flow between two bodies",
+            "Temperature is a measure of coldness of a body",
+            "Temperature is a vector quantity",
+            "Temperature is a measure of hotness of a body.",
+            "Temperature scales include Fahrenheit, Celsius and Kelvin"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 12,
+        "year": 2001,
+        "question": "Which is a stringed Instrument?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "drum",
+            "flute",
+            "piano",
+            "saxophone",
+            "trumpet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 13,
+        "year": 2001,
+        "question": "The statement that the mechanical advantage of a machine is 3 means that the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "efficiency is 33\\(\\frac{1}{3}\\)%",
+            "effort is three times as large as the load",
+            "mechanical advantage is 3 times as large as the velocity ratio",
+            "ratio of the effort to the load is 1: 3",
+            "Velocity ratio is 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 14,
+        "year": 2001,
+        "question": "The wavelength of a stationary wave is 24.0cm. What is the distance between a node and the next antinodes?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "6.0cm",
+            "12.0cm",
+            "18.0cm",
+            "24.0cm",
+            "48.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 15,
+        "year": 2001,
+        "question": "How much heat is required to convert 5.0g of ice at 0 ° C to water at the boiling point? (Specific latent heat of ice = 336Jg<sup>-1</sup>specific heat capacity of water = 4.2Jg<sup>-1</sup>K<sup>-1</sup>)",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "420 J",
+            "1680 J",
+            "1701 J",
+            "2100 J",
+            "3780 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 16,
+        "year": 2001,
+        "question": "What gives rise to the line spectra observed in atoms?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "change of an electron from a higher to a lower energy level in the atom",
+            "disturbed protons in the nucleus",
+            "excitation of an electron in the atom",
+            "kinetic energy of a moving atom",
+            "potential energy of an electron inside an atom"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 17,
+        "year": 2001,
+        "question": "A lead-acid accumulator is used in preference to a dry battery in a car because",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a dry battery cannot supply the necessary high voltage",
+            "a dry battery would not operate on a cold frosty morning",
+            "the accumulator can give a bigger current and can be recharged",
+            "the accumulator can supply a.c",
+            "the chemicals used in a dry battery constitute a fire hazard."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 18,
+        "year": 2001,
+        "question": "<p>A metal has a work function of 3.0 eV. What is the threshold frequency of the metal when electrons are just liberated from the metal.(1 eV = 1.6 × 10-19J; h = 6.6 × 10-34Js)</p>",
+        "explanation": "<p>The work function (\\(\\phi\\)) of a metal is defined as:</p><p>\\(\\phi = hf_0\\)</p><p>\\(f_0 = \\frac{\\phi}{h}\\)</p><p>\\(\\phi = 3.0 eV = 3.0 \\times 1.6 \\times 10^{-19}\\)</p><p>= \\(4.8 \\times 10^{-19} J\\)</p><p>\\(f_0 = \\frac{4.8 \\times 10^{-19}}{6.6 \\times 10^{34}}\\)</p><p>= \\(0.727 \\times 10^{15} s^{-1}\\)</p><p>= \\(7.27 \\times 10^{14} s^{-1}\\)</p><p>\\(\\approxeq 7.3 \\times 10^{14} Hz\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "4.8 × 10<sup>-19</sup>Hz",
+            "9.3 × 10<sup>-7</sup>Hz",
+            "4.8 × 10<sup>14</sup>Hz",
+            "7.3 × 10<sup>14</sup>Hz",
+            "9.3 × 10<sup>14</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 19,
+        "year": 2001,
+        "question": "A body whose initial velocity is u is uniformly accelerated to a final velocity v in t seconds. If the distance travelled is s, and the acceleration is a, which equation is INCORRECT for the motion of the body?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "s = ut+\\(\\frac{1}{2}\\)at<sup>2</sup>",
+            "v<sup>2</sup>= u<sup>2</sup>+ 2as",
+            "v =u + at",
+            "v = u + 2as",
+            "s = \\(\\frac{1}{2}\\)(u+v)t"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 20,
+        "year": 2001,
+        "question": "Which material is best for making a permanent magnet?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "aluminium",
+            "cobalt",
+            "copper",
+            "soft iron",
+            "steel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 21,
+        "year": 2001,
+        "question": "A cell can supply currents of 0.60 A and 0.30 A through a 2.0 ω and a 5.0 ω resistor respectively. What is the internal resistance of the cell?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.2 ω",
+            "0.4 ω",
+            "1.0 ω",
+            "3.0 ω",
+            "9.0 ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 22,
+        "year": 2001,
+        "question": "Which statement is a correct consequence of the uncertainly principle?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A particle’s kinetic energy cannot be measured accurately at any time",
+            "Both momemtum and energy of a particle can be known with absolute certainly",
+            "It is possible to measure exactly both the position and momentum of a particle at the same time",
+            "The complete knowledge of the position of a particle implies the complete ignorance of its energy",
+            "The uncertainty in our knowledge of energy and the duration taken to measure it, are each less than Planck’s constant."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 23,
+        "year": 2001,
+        "question": "Which statements(s) is/are NOT true?<br><br>I. A saturated vapour is one that is in equilibrium with its liquid in a closed space. II. A vapour contains molecules with varying kinetic energy and their distances apart are smaller than those of the molecules of a liquid<br>III. Relative Humidity = \\(\\frac{\\text{Saturated vapour pressure at dew point}} {\\text{Saturated vapour pressure at air temperature}}\\) x 100%<br><br>IV. The saturated vapour pressure of water increases with temperature",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "II and III only",
+            "III and IV only",
+            "II, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 24,
+        "year": 2001,
+        "question": "A 220 V, 60 Hz alternating current supply is connected to an inductor of 3.5H. What is the current passing through the inductor?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.0167 A",
+            "0.1670 A",
+            "1.6700 A",
+            "16.7000 A",
+            "167.0000 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 25,
+        "year": 2001,
+        "question": "The speed of sound travelling in various media increases in the order:",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "air, iron bar, water",
+            "air, water, iron bar",
+            "iron, bar water, air",
+            "water, air, iron bar",
+            "water, iron bar, air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 26,
+        "year": 2001,
+        "question": "The lower and upper fixed points of a mercury-in-glass thermometer are marked X and 180 mm respectively. On a particular day the mercury meniscus in the thermometer rises to 60mm. If the corresponding reading on a Celsius scale is 20 ° C, what is the value X?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "6.0mm",
+            "18.0mm",
+            "30.0mm",
+            "60.0mm",
+            "120.0mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 27,
+        "year": 2001,
+        "question": "When water is heated between 0°C and 4°C, it's density",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increases for a while and then decreases",
+            "decreases for a while and then increases",
+            "increases",
+            "decreases",
+            "remains constant."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 28,
+        "year": 2001,
+        "question": "If N.E.P.A. charges 65 kobo per kilowatt-hour for electricity supplied to consumers, what bill would an electric iron rated at 750 watts attract when used for 24 hours?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "N9.70",
+            "N11.70",
+            "N12.40",
+            "N15.90",
+            "N17.60"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 29,
+        "year": 2001,
+        "question": "An object is placed 15cm in front of a concave mirror of focal length 20cm. The image formed is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "real, inverted and diminished",
+            "real, inverted and magnified",
+            "virtual, erect and diminished",
+            "virtual, erect and magnified",
+            "virtual, inverted and magnified"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 30,
+        "year": 2001,
+        "question": "Given the same amount of beat, a quantity of water will reach a higher temperature in a brass pot than in a clay pot of the same mass because",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "brass is less dense than clay",
+            "clay expands more slowly than brass",
+            "clay loses heat faster than brass",
+            "the specific heat capacity of brass is higher than that of clay",
+            "the specific heat capacity of brass is lower than of clay."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 31,
+        "year": 2001,
+        "question": "<p>When an astronomical telescope is in normal adjustment, the focal length of the objective lens is 50cm and that of the eye piece is 5.0cm. What is the distance between the lenses?</p>",
+        "explanation": "<p>An astronomical telescope is said to be in NORMAL adjustment when the distance between the objective lens and the eyepiece equals the sum of their focal lengths.</p><p>hence,</p><p>D = F\\(_{e}\\) + F\\(_{o}\\)</p><p>= 50cm + 5cm</p><p>= 55cm</p>",
+        "correctIndex": 3,
+        "options": [
+            "10.0cm",
+            "30.0cm",
+            "45.0cm",
+            "55.0cm",
+            "250.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 32,
+        "year": 2001,
+        "question": "The main function of the commutator in a simple d.c. motor is to",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "enable the armature to rotate freely",
+            "increase the flux linking the armature windings",
+            "maintain a direct current in the armature",
+            "provide uniform magnetic field around the armature",
+            "reverse the direction of the current in the armature."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 33,
+        "year": 2001,
+        "question": "An object 3.00m high is placed at a distance of 7.50m from a pin-hole camera. If the image height is 6.00 cm, what is the distance of the film from the pin-hole?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3.75cm",
+            "7.50cm",
+            "15.00cm",
+            "30.00cm",
+            "150.00 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 34,
+        "year": 2001,
+        "question": "The falling of light energy on a metal such that electrons are liberated from the metal is called",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "electron effect",
+            "metal electron effect",
+            "metal emission",
+            "photoelectric effect",
+            "photoemission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 35,
+        "year": 2001,
+        "question": "A transformer is connected to a 250 V a.c. supply. The primary coil has 5000 turns and the secondary voltage is found to be 10 V. What is the number of turns in the secondary coil?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "100",
+            "150",
+            "200",
+            "250",
+            "300"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 36,
+        "year": 2001,
+        "question": "Which statement is TRUE of a block of stone of mass m, with zero momentum?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The acceleration of the stone is non-uniform",
+            "The stone is stationary",
+            "The stone moves at a constant velocity",
+            "The stone moves with maximum velocity",
+            "The stone moves with minimum velocity."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 37,
+        "year": 2001,
+        "question": "An electron of charge a = 1.6 × 10<sup>-19</sup>C is situated in a uniform electric field of intensity 2.4 × 105 V m<sup>-1</sup>. What is the force on the electron?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1.60 × 10<sup>-19</sup>N",
+            "3.84 × 10<sup>19</sup>N",
+            "1.92 × 10<sup>-14</sup>N",
+            "3.84 × 10<sup>-14</sup>N",
+            "7.68 × 10<sup>-14</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 38,
+        "year": 2001,
+        "question": "Which is NOT one of the laws of solid friction?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The frictional force between two surfaces opposes their relative motion",
+            "The ratio of frictional force to the normal reaction varies for two given surfaces",
+            "The ratio of frictional force to the normal reaction is constant for two given surfaces",
+            "The limiting frictional force is independent of the area of surface in contact.",
+            "Dynamic frictional force is independent of the relative velocity of the surfaces in contact."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 39,
+        "year": 2001,
+        "question": "What part of a camera functions in a similar way to the retina of the eye?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "diaphragm",
+            "film",
+            "focusing ring",
+            "lens",
+            "shutter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 40,
+        "year": 2001,
+        "question": "An astronaut is walking on the moon where the magnitude of the acceleration due to gravity \"g’ is one-sixth that on earth. Compared with their magnitudes on the earth, his mass and weight on the moon are",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "both less",
+            "less and the same respectively",
+            "the same and less respectively",
+            "the same as on earth",
+            "both greater."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 41,
+        "year": 2001,
+        "question": "Which statement is NOT correct about molecules?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "The number of molecules in a unit volume of a solid is greater than that in a unit volume of a liquid or gas.",
+            "Molecules are made up of atoms",
+            "The force of attraction between two molecules of a solid is greater than that between two molecules of a liquid or gas",
+            "Molecules of gases are in regular motion",
+            "Molecules of a solid vibrate about their mean positions."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 42,
+        "year": 2001,
+        "question": "The inside of a vacuum flask is usually coated with silver to reduce heat loss by",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "condensation",
+            "conduction",
+            "convection",
+            "evaporation",
+            "radiation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 43,
+        "year": 2001,
+        "question": "What is the angular velocity of an object in a horizontal circular path of radius 1.5m with a constant speed of 12ms<sup>-1</sup>?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.6 rads<sup>-1</sup>",
+            "4.0 rads<sup>-1</sup>",
+            "8.0 rads<sup>-1</sup>",
+            "16.0rads<sup>-1</sup>",
+            "32.0 rads<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 44,
+        "year": 2001,
+        "question": "A wave is represented by the equation y = 0.5 sin 0.4 Ω(X - 60t), where the distance (X) is measured in centimetres and time (t) in seconds. What is the wave length of the wave?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.2cm",
+            "0.4cm",
+            "0.8cm",
+            "5.0cm",
+            "10.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 45,
+        "year": 2001,
+        "question": "The magnetic effect of a current-carrying coil is NOT utilized in the making of a/an",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "carbon microphone",
+            "electric bells",
+            "magnetic relay",
+            "telephone earpiece",
+            "thermostat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 46,
+        "year": 2001,
+        "question": "In 24 days a radioactive isotope decreases in mass from 128g to 2g. What is the half-life of the radioactive material?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2.54 days",
+            "4.00 days",
+            "4.80 days",
+            "6.00 days",
+            "8.00 days"
+        ],
+        "type": "objectives"
+    }
+]

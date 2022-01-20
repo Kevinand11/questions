@@ -1,0 +1,596 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 1,
+        "year": 2001,
+        "question": "<p>If s = \\(\\sqrt{(\\frac{a^2}{x^2} - \\frac{b^2}{y^2})}\\)what does y equal?</p>",
+        "explanation": "<p>s = \\(\\sqrt{(\\frac{a^2}{x^2} - \\frac{b^2}{y^2})}\\)</p><p>s\\(^2\\) = \\(\\frac{a^2}{x^2} - \\frac{b^2}{y^2}\\)</p><p>\\(\\frac{b^2}{y^2}\\) = \\(\\frac{a^2}{x^2}\\) - s\\(^2\\)</p><p>\\(\\frac{b^2}{y^2}\\) = \\(\\frac{a^2 - s^2 x^2}{x^2}\\)</p><p>\\(\\frac{1}{y^2}\\) = \\((\\frac{a^2 - s^2 x^2}{x^2}) \\times \\frac{1}{b^2}\\)</p><p>\\(\\frac{1}{y^2}\\) = \\(\\frac{a^2 - s^2 x^2}{b^2 x^2}\\)</p><p>\\(\\therefore\\) y\\(^2\\) = \\(\\frac{b^2 x^2}{a^2 - s^2 x^2}\\)</p><p>y = \\(\\sqrt{\\frac{b^2 x^2}{a^2 - s^2 x^2}}\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\sqrt{\\frac{(b^2 - a^2)}{(s^2 - x^2)}}\\)",
+            "\\(\\sqrt{\\frac{(b^2 - a^2)}{(s^2 \\times 2)}}\\)",
+            "\\(\\sqrt{\\frac{x^2 - a^2 - b^2}{s}}\\)",
+            "\\(\\frac{x^2 - a^2 - b^2}{s}\\)",
+            "\\(\\sqrt{\\frac{(b^2 x^2)}{(a^2 - s^2 x^2)}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 2,
+        "year": 2001,
+        "question": "<p>Mr Aborowa bought a car for N200,000.00 and later sold it for N170,000.00. What is the percentage loss?</p>",
+        "explanation": "<p>Using these:</p><p>Loss = C.p - S.p</p><p>: Percentage Loss = ( Loss X 100) ÷ C.p</p><p>= %17.65</p>",
+        "correctIndex": 3,
+        "options": [
+            "117.60%",
+            "117.60%",
+            "117.60%",
+            "17.65%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 3,
+        "year": 2001,
+        "question": "Find the 19th term of the A.P. \\(\\frac{5}{6}\\), \\(\\frac{8}{6}\\), \\(\\frac{11}{6}\\).................",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "7\\(\\frac{1}{2}\\)",
+            "9",
+            "9\\(\\frac{1}{2}\\)",
+            "9\\(\\frac{5}{6}\\)",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 4,
+        "year": 2001,
+        "question": "Simplify 27\\(^{-\\frac{1}{3}}\\) \\(\\times\\) 64\\(^{-\\frac{1}{3}}\\) \\(\\times\\) 4\\(^{\\frac{1}{3}}\\)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "48",
+            "12",
+            "\\(\\frac{4}{3}\\)",
+            "\\(\\frac{1}{12}\\)",
+            "\\(\\frac{1}{48}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 5,
+        "year": 2001,
+        "question": "The bearing of a point Y from point x is 150°. What is the bearing of X from Y?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "330°",
+            "240°",
+            "150°",
+            "120°",
+            "30°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 6,
+        "year": 2001,
+        "question": "<p>If the mean of 3, 5, 8, k, 14 and 17 is 11, what is the value of k</p>",
+        "explanation": "<p>To calculate Mean:</p><p>add up all the numbers ⇒ 3+5+8+k+14+17 = 47 + k</p><p> then divide by how many numbers there are ⇒ 6</p><p>The Mean is already given as 11 </p><p>11 = (47 + k) / 6</p><p>Cross multiply to solve for k</p><p>: k = (6 X 11) - 47 </p><p>k = 19</p>",
+        "correctIndex": 2,
+        "options": [
+            "58",
+            "38",
+            "19",
+            "11",
+            "967"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 7,
+        "year": 2001,
+        "question": "From the kip of a storey-buliding, the angle of depression of a mango on a tree 20 m away from the base of the storey-building is 68°. if the mango is 4.5 m above the ground, what is the height of the storey-building to the nearest metre?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "55m",
+            "54m",
+            "50m",
+            "49m",
+            "45m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 8,
+        "year": 2001,
+        "question": "The mean age of 12 boys involved survey is 19 years, 3 months. lf the-age of one of the boys is 22 years, what is the mean age of the other-boys?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "10.5 years",
+            "19.0 years",
+            "35.4 years",
+            "264.0 years",
+            "423.5 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 9,
+        "year": 2001,
+        "question": "If cos x = - \\( \\frac{5}{13}\\) where 180° &lt; X &lt; 270°, what lathe value of tan x -sin x ?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{111}{13}\\)",
+            "\\(\\frac{321}{65}\\)",
+            "\\(\\frac{214}{65}\\)",
+            "\\(\\frac{112}{13}\\)",
+            "\\(\\frac{131}{65}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 10,
+        "year": 2001,
+        "question": "Given that (3 - y) ÷ 2x = (6y + 7) ÷ (4x - 5), find the value of x when y = 2",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{64}{5}\\)",
+            "6",
+            "\\(\\frac{5}{34}\\)",
+            "\\(\\frac{-5}{34}\\)",
+            "\\(\\frac{-64}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 11,
+        "year": 2001,
+        "question": "An arc of a circle subtends an angle of 75° at the centre of the circle. If the diameter of the circle is 7cm, what Is the length of the arc? (take π = 3.142)",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "4.58 cm",
+            "8.02 cm",
+            "16.04 cm",
+            "32.08 cm",
+            "34 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 12,
+        "year": 2001,
+        "question": "If n{A} = 6, n{B} = 5 and n{A ∩ B} = 2, find n{A ∪ B}",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "7",
+            "8",
+            "9",
+            "13",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 13,
+        "year": 2001,
+        "question": "If 3 boys shared x oranges among themselves in the ratio 3:5:8, and smallest share was 45 oranges, find the value of x",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "75",
+            "120",
+            "165",
+            "195",
+            "240"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 14,
+        "year": 2001,
+        "question": "Find the value of k such that \\(t^2\\) + kt + \\(\\frac{25}{4}\\) is a perfect square",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "5",
+            "3",
+            "\\(\\frac{5}{2}\\)",
+            "\\(\\frac{5}{4}\\)",
+            "\\(\\frac{1}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 15,
+        "year": 2001,
+        "question": "The angle of elevation of the top T of a pole from a point X on the horizontal ground is 32°, if X is 68 m away from the foot F of the pole, calculate the height FT of the pole, correct to one decimal place.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "128.3m",
+            "108.8m",
+            "80.2m",
+            "57.7m",
+            "42.5m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 16,
+        "year": 2001,
+        "question": "If the volume of a cube is (8 x 103)cm\\(^3\\), what is the surface area the cube?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2,400 cm\\(^3\\)",
+            "1,600 cm\\(^3\\)",
+            "120 cm\\(^3\\)",
+            "24 cm\\(^3\\)",
+            "16 cm\\(^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 17,
+        "year": 2001,
+        "question": "A chord is drawn 12cm away from the centre of a circle of radius 13cm. What is the length of the chord?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "169.00 cm",
+            "144.00 cm",
+            "25.00 cm",
+            "17.69 cm",
+            "10.00 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 18,
+        "year": 2001,
+        "question": "A bottle of malt costs three times as much as a bottle of Mirinda. If 5 bottles of malt and 4 bottles of Mirinda cost N380.00 altogether, how much does a bottle of malt cost?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N90.00",
+            "N80.000",
+            "N60,000",
+            "N40,000",
+            "N20,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 19,
+        "year": 2001,
+        "question": "Two beads are drawn at random, one after the other, with replacement, from a box containing 5 red and 7 white identical beads. What is the probability that the beads are the same colour",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{119}{144}\\)",
+            "\\(\\frac{95}{144}\\)",
+            "\\(\\frac{37}{72}\\)",
+            "\\(\\frac{49}{144}\\)",
+            "\\(\\frac{1}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 20,
+        "year": 2001,
+        "question": "Simplify \\(\\sqrt{6a} \\times \\sqrt{576a^6}\\)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "± 16a2",
+            "± 16a",
+            "± 14a2",
+            "± 12a2",
+            "± 12a"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 21,
+        "year": 2001,
+        "question": "Find the value of x in the equation: 9x = 729",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "81",
+            "27",
+            "18",
+            "9",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 22,
+        "year": 2001,
+        "question": "In an acute angle-triangle XYZ, XZ = 9cm, YZ = 11cm and ∠XZY = 35° Calculate ∠YXZ, correct to the nearest degree.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "57°",
+            "45°",
+            "33°",
+            "16°",
+            "89°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 23,
+        "year": 2001,
+        "question": "<p>The surface area of a sphere is 616m2. what is the volume of-the sphere (correct to two significant figures)? (take π = 3.142)</p>",
+        "explanation": "<p>\\(Surface area (A) = 4\\pi r^{2} = 616m^{2}\\)</p><p>solving, we have</p><p>\\(r = 7m\\)</p><p>\\(Volume = \\frac{4}{3}\\pi r^{3}\\)</p><p>\\(Volume = \\frac{4\\times 3.142 \\times 7^{3}}{3}\\)</p><p>\\(Volume = \\frac{4310.824}{3}\\)</p><p>= \\(1436.941m^{3} \\approxeq 1400m^{3}(2 sig. fig)\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "14 cm\\(^3\\)",
+            "210 cm\\(^3\\)",
+            "1,400 cm\\(^3\\)",
+            "2,100 cm\\(^3\\)",
+            "4,300 cm\\(^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 24,
+        "year": 2001,
+        "question": "<p>51 women wore coloured shoes to a party, out of which 21 wore purple and 9 wore white. if a woman is selected at Random. What is the probability that she is wearing neither a purple shoe nor a white shoe?</p>",
+        "explanation": "<p>No of women wearing both purple and white shoes = 21 + 9</p><p>= 30 women.</p><p>No of women wearing neither purple nor white shoes = 51 - 30</p><p>= 21 women</p><p>\\(\\therefore\\) Probability of picking a woman wearing neither purple nor white shoes </p><p>= \\(\\frac{21}{51}\\)</p><p>= \\(\\frac{7}{17}\\).</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{10}{17}\\)",
+            "\\(\\frac{7}{17}\\)",
+            "\\(\\frac{20}{51}\\)",
+            "\\(\\frac{3}{17}\\)",
+            "\\(\\frac{1}{51}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 25,
+        "year": 2001,
+        "question": "<p>The radius of a sphere is 21cm. If s and v represent the curved surface area and volume respectively, what is s : v? (take π = 3.142)</p>",
+        "explanation": "<p>C.S.A = 5,544</p><p>Volume = 38,808</p><p>S : V =  <strong>1 : 07</strong></p>",
+        "correctIndex": 1,
+        "options": [
+            "1:03",
+            "1:07",
+            "3:01",
+            "3:07",
+            "7:01"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 26,
+        "year": 2001,
+        "question": "A trader sold an article for N4,600.00 thereby making a profit of 15%. Calculate the cost price of the article",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N3450.00",
+            "N3910.00",
+            "N4000.00",
+            "N5290.00",
+            "N6900.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 27,
+        "year": 2001,
+        "question": "The first term of a G.P is 7. Find its 4th term, if its common ratio is 3.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "567",
+            "280",
+            "189",
+            "63",
+            "21"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 28,
+        "year": 2001,
+        "question": "Express 0.03785 in standard form correct to 3 significant figures.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3 × 10\\(^{-2}\\)",
+            "3.78 × 10\\(^{-2}\\)",
+            "3.79 × 10\\(^{-2}\\)",
+            "3.79 × 10\\(^{-1}\\)",
+            "3.78 × 10\\(^{-2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 29,
+        "year": 2001,
+        "question": "Convert 101.011<sub>2</sub>to base 10",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "63",
+            "43",
+            "10",
+            "\\(\\frac{77}{8}\\)",
+            "\\(\\frac{53}{8}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 30,
+        "year": 2001,
+        "question": "Solve the equation x<sup>2</sup>- 3x - 10 = 0",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "-2 or -5",
+            "-3 or -10",
+            "5 or -2",
+            "2 or 5",
+            "3 or 10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 31,
+        "year": 2001,
+        "question": "Evaluate (\\(\\frac{1}{343}\\))\\(^{\\frac{1}{3}}\\) + (64)\\(^{-\\frac{1}{3}}\\) - \\(\\frac{4}{9}\\)\\(^{-\\frac{1}{2}}\\)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-\\(\\frac{17}{36}\\)",
+            "-\\(\\frac{3}{28}\\)",
+            "\\(\\frac{13}{28}\\)",
+            "\\(\\frac{17}{36}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 32,
+        "year": 2001,
+        "question": "<p>If sin θ = 4/5 where 0° ∠ θ ∠ 900, what is the value of cos θ + tan θ?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{14}{15}\\)",
+            "\\(\\frac{29}{15}\\)",
+            "\\(\\frac{13}{8}\\)",
+            "\\(\\frac{144}{15}\\)",
+            "\\(\\frac{24}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 33,
+        "year": 2001,
+        "question": "The lengths of the sides of a triangle are 15m, 21m, and 28cm. What is the size of the angle facing the side 21m (correct to one decimal place)?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "85.7°",
+            "47.5°",
+            "41.5°",
+            "41.4°",
+            "38.2°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 34,
+        "year": 2001,
+        "question": "If t varies inversely as the cube of s, and t = 24, when s = 3, find t when s = 2",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "8",
+            "24",
+            "27",
+            "81",
+            "648"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 35,
+        "year": 2001,
+        "question": "<p>Two fair coins are tossed at the same time. what is the probability of getting a head?</p>",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "1",
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    }
+]

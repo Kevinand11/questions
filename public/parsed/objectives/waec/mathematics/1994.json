@@ -1,0 +1,851 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1994,
+        "question": "<p>If the 2nd and 5th terms of a G.P are 6 and 48 respectively, find the sum of the first for term</p>",
+        "explanation": "<p>T\\(_{2}\\) = ar = 6</p><p>T\\(_{5}\\) = ar\\(^{4}\\) = 48</p><p>\\(\\frac{T_5}{T_2}\\) = \\(\\frac{ar^{4}}{ar}\\) = \\(\\frac{48}{6}\\)</p><p>= r\\(^{3}\\) = 8</p><p>⇒ r = 2</p><p>S\\(_{n}\\) = \\(\\frac{a((r^n) - 1)}{r - 1}\\)</p><p>S\\(_{4}\\) = \\(\\frac{a((r^4) - 1)}{r - 1}\\)</p><p>S\\(_{4}\\) = \\(\\frac{3((2^4) - 1)}{2 - 1}\\)</p><p>= 3(16 -1)</p><p>= 45 </p>",
+        "correctIndex": 4,
+        "options": [
+            "-45",
+            "-15",
+            "15",
+            "33",
+            "45"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1994,
+        "question": "<p>If sin\\( \\theta \\) = K find tan\\(\\theta\\), 0° \\(\\leq\\) \\(\\theta\\) \\(\\leq\\) 90°.</p>",
+        "explanation": "<p>\\(\\sin \\theta = \\frac{k}{1}\\)</p><p>\\(\\implies 1^2 = k^2 + adj^2\\)</p><p>\\(adj = \\sqrt{1 - k^2}\\)</p><p>\\(\\therefore \\tan \\theta = \\frac{k}{\\sqrt{1 - k^2}}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1-K",
+            "\\( \\frac{k}{k - 1} \\)",
+            "\\( \\frac{k}{\\sqrt{1 - k^2}} \\)",
+            "\\( \\frac{k}{1 - k} \\)",
+            "\\( \\frac{k}{\\sqrt{ k^2 - 1}} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1994,
+        "question": "<p>Simplify: \\(2\\frac{1}{3} \\div 2\\frac{2}{3} \\times 1\\frac{1}{7}\\)</p>",
+        "explanation": "<p>\\(2\\frac{1}{3} \\div 2\\frac{2}{3} \\times 1\\frac{1}{7}\\)</p><p>= \\(\\frac{7}{3} \\div \\frac{8}{3} \\times \\frac{8}{7}\\)</p><p>= \\(\\frac{7}{3} \\times \\frac{3}{8} \\times \\frac{8}{7}\\)</p><p>= 1</p>",
+        "correctIndex": 1,
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1994,
+        "question": "<p>Which of the following is equal to \\(\\frac{72}{125}\\)</p>",
+        "explanation": "<p>\\(\\frac{72}{125} = \\frac{8 \\times 9}{5 \\times 5 \\times 5}\\)</p><p>= \\(\\frac{2^3 \\times 3^2}{5^3}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\( \\frac{2^3 \\times 3^2}{5^3} \\)",
+            "\\( \\frac{2^4 \\times 3}{5^3} \\)",
+            "\\( \\frac{2^3 \\times 3}{5^3} \\)",
+            "\\( \\frac{2^4 \\times 3}{5^5} \\)",
+            "\\( \\frac{2^2 \\times 3^2 \\times 4^2}{5^2} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1994,
+        "question": "<p>Express in \\( \\frac{8.75}{0.025} \\)standard form</p>",
+        "explanation": "<p>\\(\\frac{8.75}{0.025}\\)</p><p>= \\(\\frac{8750}{25}\\)</p><p>= \\(350\\)</p><p>= \\(3.5 \\times 10^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "3.5 x 10<sup>-3</sup>",
+            "3.5 x 10<sup>-2</sup>",
+            "3.5 x 10<sup>1</sup>",
+            "3.5 x 10<sup>2</sup>",
+            "3.5 x 10<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1994,
+        "question": "<p>Evaluate \\( \\frac{27^{\\frac{1}{3}}}{16^{-\\frac{1}{4}}} \\)</p>",
+        "explanation": "<p>\\(\\frac{27^{\\frac{1}{3}}}{16^{-\\frac{1}{4}}} \\)</p><p>= \\(\\frac{(3^3)^{\\frac{1}{3}}}{(2^4)^{-\\frac{1}{4}}}\\)</p><p>= \\(\\frac{3}{2^{-1}}\\)</p><p>= 6</p>",
+        "correctIndex": 0,
+        "options": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1994,
+        "question": "<p>Simplify: 16\\(^{\\frac{5}{4}}\\) x 2\\(^{-3}\\) x 3\\(^0\\)</p>",
+        "explanation": "<p>16\\(^{\\frac{5}{4}}\\) x 2\\(^{-3}\\) x 3\\(^0\\)</p><p>= \\((2^4)^{\\frac{5}{4}} \\times 2^{-3} \\times 1\\)</p><p>= \\(2^5 \\times 2^{-3} \\times 1\\)</p><p>= \\(2^2\\)</p><p>= 4.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0",
+            "2",
+            "4",
+            "10",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1994,
+        "question": "<p>simplify; 2log\\(_{3}\\) 6 + log\\(_{3}\\) 12 - log\\(_{3}\\) 16</p>",
+        "explanation": "<p>2log\\(_{3}\\) 6 + log\\(_{3}\\) 12 - log\\(_{3}\\) 16</p><p>= \\(\\log_3 6^2 + \\log_3 12 - \\log_3 16\\)</p><p>= \\(\\log_{3} (\\frac{36 \\times 12}{16})\\)</p><p>= \\(\\log_{3} (27)\\)</p><p>= \\(\\log_{3} 3^3\\)</p><p>= \\(3 \\log_{3} 3\\)</p><p>= 3</p>",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "3",
+            "2 - 2log<sub>3</sub>2",
+            "3 - log<sub>3</sub>2",
+            "4 - log<sub>3</sub>2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1994,
+        "question": "<p>What is the number whose logarithm to base 10 is \\(\\bar{3}.4771\\)?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "3.0",
+            "0.3",
+            "0.03",
+            "0.003",
+            "0.0003"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1994,
+        "question": "<p>A house bought for N100,000 was later auctioned for N80,000. Find the loss percent.</p>",
+        "explanation": "<p>Loss = N(100,000 - 80,000)</p><p>= N20,000.</p><p>Loss percentage = \\(\\frac{20,000}{100,000} \\times 100%\\)</p><p>= 20%</p>",
+        "correctIndex": 0,
+        "options": [
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1994,
+        "question": "<p>A string is 4.8m. A boy measured it to be 4.95m. Find the percentage error.</p>",
+        "explanation": "<p>4.95m - 4.8m = 0.15m</p><p>\\(\\frac{0.15}{4.8} \\times 100%\\)</p><p>= \\(\\frac{25}{8}\\)</p><p>= \\(3\\frac{1}{8} %)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\( \\frac{5}{16} \\)%",
+            "\\(1\\frac{5}{16} \\)%",
+            "\\( 3\\frac{1}{33} \\)%",
+            "\\( 3\\frac{1}{8} \\)%",
+            "25%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1994,
+        "question": "<p>The sum of the 1st and 2nd terms of an A.P. is 4 and the 10th term is 19. Find the sum of the 5th and 6th terms.</p>",
+        "explanation": "<p>\\(T_{n} = a + (n - 1) d\\) (terms of an A.P)</p><p>\\(T_{1} = a\\)</p><p>\\(T_{2} = a + d\\)</p><p>\\(T_{10} = a + 9d\\)</p><p>\\(a + a + d = 2a + d = 4 ... (i)\\)</p><p>\\(a + 9d = 19 ... (ii)\\)</p><p>(ii) x 2: \\(2a + 18d = 38 ... (iii)\\)</p><p>(iii) - (i) : \\(17d = 34 \\implies d = 2\\) </p><p>\\(2a + 2 = 4 \\implies 2a = 2\\)</p><p>\\(a = 1\\)</p><p>\\(T_{5} + T_{6}\\)</p><p>= \\((a + 4d) + (a + 5d)\\)</p><p>= \\(2a + 9d\\)</p><p>= \\(2(1) + 9(2)\\)</p><p>= 20</p>",
+        "correctIndex": 1,
+        "options": [
+            "11",
+            "20",
+            "21",
+            "22",
+            "24"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1994,
+        "question": "<p>E = (integers \\(\\leq\\) 20), P = (multiples of 3), Q = (multiples of 4), what are the elements of P'∩Q? </p>",
+        "explanation": "<p>E = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}</p><p>P = {3, 6, 9, 12, 15, 18}</p><p>Q = {4, 8, 12, 16, 20}</p><p>P' = {1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20}</p><p>P' \\(\\cap\\) Q = {4, 8, 16, 20}</p>",
+        "correctIndex": 1,
+        "options": [
+            "(12)",
+            "(4, 8, 16, 20)",
+            "(3, 6, 9, 15, 18)",
+            "(1,2,5,7,10,11,13,17,19)",
+            "(3, 4, 6, 8, 9, 12, 15, 16, 18, 20)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1994,
+        "question": "<p>Given that 2p - m = 6 and 2p + 4m = 1, find the value of (4p + 3m).</p>",
+        "explanation": "<p>2p - m = 6 ... (i)</p><p>2p + 4m = 1 ... (ii)</p><p>From (i), m = 2p - 6.</p><p>2p + 4(2p - 6) = 1</p><p>2p + 8p - 24 = 1</p><p>10p = 1 + 24 = 25</p><p>p = 2.5</p><p>m = 2(2.5) - 6</p><p>= 5 - 6</p><p>= -1</p><p>\\(\\therefore\\) 4p + 3m = 4(2.5) + 3(-1)</p><p>= 10 - 3</p><p>= 7</p>",
+        "correctIndex": 3,
+        "options": [
+            "1",
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1994,
+        "question": "<p>Which of the following is a point on the curve y = x\\(^2\\) - 4x + 7?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "(0,6)",
+            "(1,4)",
+            "(2,0)",
+            "(7,0)",
+            "(3,2)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1994,
+        "question": "<p>If 8x- 4 = 6x- 10, find the value of 5x,</p>",
+        "explanation": "<p>8x - 4 = 6x - 10</p><p>8x - 6x = -10 + 4</p><p>2x = -6</p><p>x = -3</p><p>\\(\\therefore\\) 5x = 5(-3)</p><p>= -15</p>",
+        "correctIndex": 1,
+        "options": [
+            "-35",
+            "-15",
+            "-3",
+            "3",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1994,
+        "question": "<p>For what value of x is the expression \\(\\frac{x^2 + 15x + 50}{x - 5}\\) not defined ?</p>",
+        "explanation": "<p>\\(\\frac{x^2 + 15x + 50}{x - 5}\\)</p><p>It is undefined when x - 5 = 0.</p><p>That is at x = 5.</p>",
+        "correctIndex": 3,
+        "options": [
+            "-10",
+            "-5",
+            "o",
+            "5",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1994,
+        "question": "<p>If x is positive, for what range of values of x is 4 + 3x &lt; 10?</p>",
+        "explanation": "<p>4 + 3x &lt; 10</p><p>3x &lt; 10 - 4</p><p>3x &lt; 6</p><p>x &lt; 2</p>",
+        "correctIndex": 1,
+        "options": [
+            "0 &lt; x &lt; 2",
+            "x &lt; 2",
+            "1 &lt; x &lt; 2",
+            "0 &lt; x &lt; 4<sup>3</sup><sub>4</sub>",
+            "0 &gt; x &gt; 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22165981232_wcmath199418.jpg\" class=\"img-fluid\">",
+        "explanation": "-1-(-3)/-2-(-0.5) = 2/-1.5 = 20/-15 = -1<sup>1</sup><sub>3</sub>",
+        "correctIndex": 0,
+        "options": [
+            "-1<sup>1</sup><sub>3</sub>",
+            "-<sup>3</sup><sub>4</sub>",
+            "3/7",
+            "3/4",
+            "1<sup>1</sup><sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1385374454_wcmath199419.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The points P(-2, 3) and Q(2, 7) are on the line.</p><p>Gradient of the line = \\(\\frac{7 - 3}{2 - (-2)}\\)</p><p>= \\(\\frac{4}{4}\\)</p><p>= 1</p><p>y = x + b</p><p>To find the intercept, we have</p><p>7 = 2 + b or 3 = -2 + b.</p><p>Solving for b, we get b = 5.</p><p>\\(\\therefore\\) The line is y = x + 5.</p>",
+        "correctIndex": 2,
+        "options": [
+            "y = x - 5",
+            "y = x + 3",
+            "y = x + 5",
+            "y = 2x + 3",
+            "y = 2x - 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15239121326_wcmath199419.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The points of intersection of the curve and the line are at x = -2 and x = 2.</p><p>\\(\\therefore\\) (x + 2) = 0; (x - 2) = 0.</p><p>(x + 2)(x - 2) = 0</p><p>\\(x^2 - 4 = 0\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "x<sup>2</sup>- 2 = 0",
+            "x<sup>2</sup>- 4 = 0",
+            "x<sup>2</sup>+ 6 = 0",
+            "X<sup>2</sup>- X – 2 = 0",
+            "x<sup>2</sup>- x + 4 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1994,
+        "question": "<p>Which of the following is not a factors of 2p\\(^2\\) - 2?</p>",
+        "explanation": "<p>2p\\(^2\\) - 2 </p><p>2(p\\(^2\\) - 1)</p><p>= 2(p + 1)(p - 1)</p>",
+        "correctIndex": 4,
+        "options": [
+            "2",
+            "p - 1",
+            "p + 1",
+            "2p - 2",
+            "2p + 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1994,
+        "question": "<p>Find the quadratic equation whose roots are 3 and \\(\\frac{2}{3}\\).</p>",
+        "explanation": "<p>x = 3; x = \\(\\frac{2}{3}\\).</p><p>(x - 3)(x - \\(\\frac{2}{3}\\)) = 0</p><p>\\(x^2 - \\frac{2x}{3} - 3x + 2 = 0\\)</p><p>\\(x^2 - \\frac{11x}{3} + 2 = 0\\)</p><p>\\(3x^2 - 11x + 6 = 0\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "x<sup>2</sup>- 11 / 3x + 6 = 0",
+            "x<sup>2</sup>- 11x + 6 = O",
+            "3x<sup>2</sup>- 11x + 2 = O",
+            "3X<sup>2</sup>- 11x – 2 = 0",
+            "3x<sup>2</sup>- 11x + 6 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1994,
+        "question": "<p>Which of the following is a root of the equation x\\(^2\\) +6x = 0?</p>",
+        "explanation": "<p>\\(x^2 + 6x = 0\\)</p><p>\\(x(x + 6) = 0\\)</p><p>\\(x = 0\\) or \\(x = -6\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "It does not have any root."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1994,
+        "question": "<p>Factorise: 6x\\(^2\\) + 7xy - 5y\\(^2\\)</p>",
+        "explanation": "<p>\\(6x^2 + 7xy - 5y^2\\)</p><p>= \\(6x^2 + 10xy - 3xy - 5y^2\\)</p><p>= \\(2x(3x + 5y) - y(3x + 5y)\\)</p><p>= \\((2x - y)(3x + 5y)\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "(6x + 5y)(x - y)",
+            "(2x + 5y)(3x - y)",
+            "(3x + y)(2x - 5y)",
+            "(3x + 5y)(2x - y)",
+            "(2x + y)(3x - 5y)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1994,
+        "question": "Solve the equation log<sub>8</sub>x - 4log<sub>8</sub>x = 2",
+        "explanation": "log<sub>8</sub>x - 4log<sub>8</sub>x = 2; log<sub>8</sub>x - log<sub>8</sub>x<sup>4</sup>= 2<br>log<sub>8</sub>x/x<sup>4</sup>= 2<br>x/x<sup>4</sup>= 8<sup>2</sup>= 1/x<sup>3</sup>= 64<br>x<sup>3</sup>= (1/4)<sup>3</sup>; x = 1/4",
+        "correctIndex": 0,
+        "options": [
+            "<sup>1</sup>/<sub>4</sub>",
+            "<sup>1</sup>/<sub>2</sub>",
+            "1",
+            "2",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1994,
+        "question": "<p>The angle subtended at the centre by a chord of a circle radius 6cm is 120°. Find the length of the chord.</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/22166035824_wcmath199426ans.jpg\" class=\"img-fluid\">\n</div><p>\\(\\frac{r}{6} = \\sin 60 \\)</p><p>\\(r = 6 \\sin 60\\)</p><p>= \\(6 \\times \\frac{\\sqrt{3}}{2}\\)</p><p>= \\(3\\sqrt{3}\\)</p><p>Chord = 2r = \\( 2 \\times 3\\sqrt{3}\\)</p><p>= \\(6\\sqrt{3}\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "3cm",
+            "6cm",
+            "\\(4\\sqrt{2}\\) cm",
+            "\\(3\\sqrt{3}\\) cm",
+            "\\(6\\sqrt{3}\\) cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1994,
+        "question": "<p>A cuboid of base 12.5cm by 20cm holds exactly 1 litre of water. What is the height of the cuboid? (1 litre =1000cm3)</p>",
+        "explanation": "<p>Volume of cuboid = length x breadth x height</p><p>12.5 x 20 x h = 1000</p><p>250h = 1000</p><p>h = 4 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "2cm",
+            "4cm",
+            "5cm",
+            "8cm",
+            "10cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1994,
+        "question": "Two ships on the equator are on longitudes 45<sup>o</sup>W and 45<sup>o</sup>E respectively. How far are they apart along the equator, correct to 2 significant figures? (Take the radius of earth = 6400km and π = 22/7)",
+        "explanation": "D =<sup>θ</sup>/<sub>360</sub>x 2πR<br><div class=\"eq-c\"><div class=\"fraction\"><span class=\"fr_num\">45 + 45</span><span class=\"bar\">/</span><span class=\"fr_den\">360<sup>o</sup></span></div> x <div class=\"fraction\"><span class=\"fr_num\">44</span><span class=\"bar\">/</span><span class=\"fr_den\">7</span></div> x 6400</div><br>= 10057 ≅ 10000km",
+        "correctIndex": 1,
+        "options": [
+            "15,000km",
+            "10,000km",
+            "6,400km",
+            "5,000km",
+            "3,200km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1994,
+        "question": "<p>Calculate, correct to 2 significant figures, the length of the arc of a circle of radius 3.5cm which subtends an angle of 75° at the centre of the circle. [Take π = 22/7].</p>",
+        "explanation": "<p>Length of arc = \\(\\frac{\\theta}{360} \\times 2\\pi r\\)</p><p>= \\(\\frac{75}{360} \\times 2 \\times \\frac{22}{7} \\times 3.5\\)</p><p>= \\(4.583 cm\\)</p><p>\\(\\approxeq\\) 4.6 cm (to 2 sig. figs)</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.3cm",
+            "4.6cm",
+            "8cm",
+            "16cm",
+            "110cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1994,
+        "question": "A circle has radius x cm. What is the area of a sector of the circle with angle 135°, leaving the answer in terms of x and π?",
+        "explanation": "A =<sup>θ</sup><sub>360</sub>x πr<sup>2</sup>=<sup>135</sup><sub>360</sub>x π x x<sup>2</sup>= (3πx<sup>2</sup>)/8",
+        "correctIndex": 1,
+        "options": [
+            "\\( \\frac{\\pi x^2}{8} \\)",
+            "\\( \\frac{3\\pi x^2}{8} \\)",
+            "\\( \\frac{5\\pi x^2}{8} \\)",
+            "\\( \\frac{3\\pi x}{8} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2770757430_wcmath199431.jpg\" class=\"img-fluid\">",
+        "explanation": "A =<sup>1</sup>/<sub>2</sub>(A + B)h =<sup>1</sup>/<sub>2</sub>(24 + 12) x 9 = 162",
+        "correctIndex": 3,
+        "options": [
+            "96cm<sup>2</sup>",
+            "108cm<sup>2</sup>",
+            "135cm<sup>2</sup>",
+            "162cm<sup>2</sup>",
+            "216cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1994,
+        "question": "Two solid spheres have volumes 250cm<sup>o</sup>and 128cm<sup>o</sup>respectively. Find the ratio of their radii.",
+        "explanation": "<div class=\"eq-c\"><div class=\"fraction\"><span class=\"fr_num\"><sup>4</sup>/<sub>3</sub>πR<sup>3</sup></span><span class=\"bar\">/</span><span class=\"fr_den\"><sup>4</sup>/<sub>3</sub>πr<sup>3</sup></span></div> = <div class=\"fraction\"><span class=\"fr_num\">250</span><span class=\"bar\">/</span><span class=\"fr_den\">180</span></div> = (<sup>R</sup>/<sub>r</sub>)<sup>3</sup> = 5:4</div>",
+        "correctIndex": 4,
+        "options": [
+            "125:64",
+            "25:16",
+            "2:1",
+            "4:3",
+            "5:4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2770783198_wcmath199433.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "7cm",
+            "8cm",
+            "8 2/3cm",
+            "10cm",
+            "10 2/3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27707835980_wcmath199435.jpg\" class=\"img-fluid\">",
+        "explanation": "Join PR to a pentagon<br>90 + 90 + 140 + 55 + x = 540<sup>o</sup><br>x = 165<sup>o</sup>",
+        "correctIndex": 4,
+        "options": [
+            "145<sup>o</sup>",
+            "150<sup>o</sup>",
+            "155<sup>o</sup>",
+            "160<sup>o</sup>",
+            "165<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1994,
+        "question": "IF the exterior angles of a quadilateral are y<sup>o</sup>, (2y + 5)<sup>o</sup>, (y + 15)<sup>o</sup>and (3y - 10)<sup>o</sup>, find y<sup>o</sup>",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "61.43",
+            "60",
+            "52.86",
+            "51.43",
+            "50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1994,
+        "question": "The sum of the angles of regular polygon is 2520<sup>o</sup>. How many sides does the polygon have?",
+        "explanation": "2(n-2) x 90<sup>o</sup>= 2520; n = 16",
+        "correctIndex": 3,
+        "options": [
+            "20",
+            "18",
+            "17",
+            "16",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1994,
+        "question": "Which of the following is not a property of all parallelogram?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the diagonal bisects each other",
+            "Each diagonal bisects the area",
+            "the diagonal cut at right angles",
+            "The opposite sides are equal",
+            "The opposite angles are equal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5541623548_wcmath199438.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"eq-c\">∠TSR = 68<sup>o</sup> ∴ STR = <div class=\"fraction\"><span class=\"fr_num\">180-68</span><span class=\"bar\">/</span><span class=\"fr_den\">2</span></div> = 56<sup>o</sup></div><br>PTS= 180-(68+56) = 56<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "68<sup>o</sup>",
+            "62<sup>o</sup>",
+            "61<sup>o</sup>",
+            "56<sup>o</sup>",
+            "34<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11083251392_wcmath199440.jpg\" class=\"img-fluid\">",
+        "explanation": "PSQ = 54<sup>o</sup>∴PQS = 180<sup>o</sup>- (97 + 54)<sup>o</sup>= 29<sup>o</sup>",
+        "correctIndex": 4,
+        "options": [
+            "61<sup>o</sup>",
+            "51<sup>o</sup>",
+            "43<sup>o</sup>",
+            "39<sup>o</sup>",
+            "29<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23551913373_wcmath199439.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "32<sup>o</sup>",
+            "37<sup>o</sup>",
+            "48<sup>o</sup>",
+            "53<sup>o</sup>",
+            "74<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1994,
+        "question": "A ladder 6m long leans against a vertical wall so that it makes an angle of 60<sup>o</sup>with the wall. Calculate the distance of the foot of the ladder from the wall",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "3m",
+            "6m",
+            "2√3m",
+            "3√3m",
+            "6√3m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1994,
+        "question": "The bearing of Q from P is 122<sup>o</sup>, what is the bearing of P from Q?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "212<sup>o</sup>",
+            "238<sup>o</sup>",
+            "248<sup>o</sup>",
+            "292<sup>o</sup>",
+            "302<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1994,
+        "question": "cos 57<sup>o</sup>has the same value as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "sin 213<sup>o</sup>",
+            "-cos 303<sup>o</sup>",
+            "sin 147<sup>o</sup>",
+            "cos 123<sup>o</sup>",
+            "cos237<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19395714926_wcmath199444.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{67 + 68}{2} = 67.5 = 68kg\\)",
+        "correctIndex": 4,
+        "options": [
+            "9.5kg",
+            "11kg",
+            "67kg",
+            "65.5kg",
+            "68kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16624915116_wcmath199444.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "56%",
+            "62.5%",
+            "68%",
+            "70%",
+            "87.5%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1994,
+        "question": "The mean heights of the three groups of students consisting of 20, 16 and 14 students are 1.67m, 1.50m and 1.40m respectively. Find the mean height of the students",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.52m",
+            "1.53m",
+            "1.54m",
+            "1.55m",
+            "1.56m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 1994,
+        "question": "Two cards are drawn one after the other with replacement from a well-shuffled ordinary deck of 52 cards containing four Aces. Find the probability that they are both Aces",
+        "explanation": "1st card prob = 4/52 2nd card prob = 4/52<br>prob.both are aces = (4/52) x (4/52) = 1/169",
+        "correctIndex": 1,
+        "options": [
+            "1/221",
+            "1/169",
+            "1/52",
+            "1/26",
+            "1/13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 1994,
+        "question": "Find the probability that a number selected from the number 30 to 50 inclusive is a prime",
+        "explanation": "30 (31) 32 33 34 35 36 (37) 38 39 40 (41) 42 (43) 44 45 46 (47) 48 49 50<br>prob =<sup>5</sup>/<sub>21</sub>",
+        "correctIndex": 1,
+        "options": [
+            "1/4",
+            "5/21",
+            "2/7",
+            "3/10",
+            "1/3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 50,
+        "year": 1994,
+        "question": "<p>The length of an exercise book is given as 20cm correct to the nearest centimeter. In which of the following ranges of possible measurement does the actual length lie?</p>",
+        "explanation": "<p>In mathematics, numbers ranging from 0.5 - 0.9 are approximated to 1, while 0.1 - 0.4 are taken down to 0.</p>",
+        "correctIndex": 0,
+        "options": [
+            "19.5 - 20.4cm",
+            "19.1 - 20.9cm",
+            "19.9 - 20.1cm",
+            "19.95 - 20.05cm",
+            "19 - 21cm"
+        ],
+        "type": "objectives"
+    }
+]

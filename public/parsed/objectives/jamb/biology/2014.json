@@ -1,0 +1,786 @@
+[
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2014,
+        "question": "The lowest level of organization in living organisms is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "organ",
+            "cell",
+            "system",
+            "tissue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2014,
+        "question": "<p>Which of the following is the most complex according to their cellular level of organization?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Heart",
+            "Hair",
+            "Euglena",
+            "Hydra"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2014,
+        "question": "<p>Which of the following organisms is multicellular?</p>",
+        "explanation": "<p>A spirogyra is a multi-cellular organism that is also an informal grouping of diverse eukaryotic organisms. All other options are unicellular organisms.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Chlamydomonas",
+            "Spirogyra",
+            "Amoeba",
+            "Euglena"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2014,
+        "question": "In bryophytes, sex organs are produced in the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "protonema",
+            "sporophyte",
+            "gametophyte",
+            "rhizoid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2014,
+        "question": "Seed plants are the most dominant vegetation on land because of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "their motile gamates",
+            "their ability to photosynthesize",
+            "efficient seed dispersal",
+            "availability of water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2014,
+        "question": "Which of the following is an aboreal organism?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Elephant",
+            "Fish",
+            "Antelope",
+            "Bird"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2014,
+        "question": "i2/1, c0/0, pm3/2, m3/3. The general formula above represent that of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "an omnivore",
+            "a detritus feeder",
+            "a carnivore",
+            "a herbivore"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2014,
+        "question": "A circulatory system is very essential in mammals but not in smaller organisms like Amoeba because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Amoeba lives in freshwater",
+            "Diffusion is sufficient to transport materials in Amoeba",
+            "Amoeba lacks blood containing haemoglobin",
+            "Amoeba exibits anaerobic respiration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2014,
+        "question": "In vascular plants, the sieve tubes and companion cells are present in the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "cambium",
+            "cortex",
+            "xylem",
+            "phloem"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2014,
+        "question": "The stomata of leaves are similar in function to the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "pharynx of humans",
+            "scales of fish",
+            "spiracle of insects",
+            "trachea of toads"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2014,
+        "question": "The use of moist skin for respiration in amphibians is known as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "cellular respiration",
+            "cutaneous respiration",
+            "buccal respiration",
+            "pulmonary respiration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2014,
+        "question": "Water in plants is removed as water vapour through the process of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "diffusion",
+            "osmosis",
+            "evaporation",
+            "transpiration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2014,
+        "question": "An example of an organ of perennation in plants is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "rhizome",
+            "seed",
+            "petal of a flower",
+            "calyx of flower"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2014,
+        "question": "Alternation of generation is a feature shown in",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "mosses",
+            "fungi",
+            "grasses",
+            "conifers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2014,
+        "question": "Coordination and regulation of body activities in mammals are achieved by the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "nerves and muscle",
+            "nerves and hormones",
+            "nerves only",
+            "hormones only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2014,
+        "question": "The Cerebellum of the Brain controls",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Reflex Action",
+            "Muscular Activity",
+            "Emotional Expressions",
+            "the Endocrine System"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2014,
+        "question": "The part of the brain responsible for peristalsis is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Olfactory Lobe",
+            "Medulla Oblongata",
+            "Hypothallamus",
+            "Thalamus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2014,
+        "question": "Which of the following instruments is used for measuring atmospheric pressure?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Hydrometer",
+            "Hygrometer",
+            "Thermometer",
+            "Barometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2014,
+        "question": "The influence of soil on organisms in a habitat is referred to as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Edaphic",
+            "Physiographic",
+            "Biotic",
+            "Topographic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2014,
+        "question": "The genetic make-up of an organism is described as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Allele",
+            "Chromosome",
+            "Phenotype",
+            "Genotype"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2014,
+        "question": "The major limiting factor of productivity in the aquatic habitat is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Food",
+            "Temperature",
+            "Water",
+            "Sunlight"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2014,
+        "question": "Which of the following group of organisms feeds directly on green plants?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Primary Consumers",
+            "Secondary Consumers",
+            "Producers",
+            "Decomposers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2014,
+        "question": "A characteristic feature of tropical rainforest is that it",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Contains trees with narrow leaves",
+            "Contains large number of plant species",
+            "Contains fewer number of plant species",
+            "Has total annual rainfall of less than 50cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2014,
+        "question": "The study of how and why population size change over time is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Population estimation",
+            "Population dynamics",
+            "Population ecology",
+            "Population Cycle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2014,
+        "question": "A severe and long dry season is a characteristic feature of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Sahel Savanna",
+            "Mangrove Swamps",
+            "Sudan Savanna",
+            "Guinea Savanna"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2014,
+        "question": "<p>Which of the following is a nitrogen-fixing blue-green algae of soil?</p>",
+        "explanation": "<p>Anabaena is a genus of filamentous cyanobacteria that exist as plankton. They are known for nitrogen-fixing abilities, and they form symbiotic relationships with certain plants.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Rhizobium",
+            "Nitrosomonas",
+            "Clostridium",
+            "Anabaena"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2014,
+        "question": "The soil with highest water-retaining capacity is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Clayey Soil",
+            "Stoney soil",
+            "Sandy soil",
+            "Loamy Soil"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2014,
+        "question": "The causative agent of Poliomyelitis is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Virus",
+            "Fungus",
+            "Protozoan",
+            "Bacterium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2014,
+        "question": "One of the ways of controlling noise pollution in urban areas is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "by siting industries away from residential areas",
+            "that fuel should be completely combusted by engines",
+            "by planting trees on both sides of the road",
+            "by wearing ear devices"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2014,
+        "question": "A constituent of the exhaust fumes from electricity generating sets which causes serious pollution is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Carbon (II) Oxide",
+            "Water Vapour",
+            "Ozone",
+            "Carbon (IV) Oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2014,
+        "question": "Which of the following is true of small pox?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "It is transmitted by bacteria",
+            "It can effectively be controlled with antibiotics",
+            "It can effectively be controlled by vaccination",
+            "It is a water-borne infection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2014,
+        "question": "A pollutant that is mostly associated with acid rain is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Nitrogen (IV) Oxide",
+            "Ozone",
+            "Fluorine",
+            "Carbon (IV) Oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2014,
+        "question": "When the adults have reach a certain degree of weakness, the process of binary fission is replaced by conjugation in",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Paramecium",
+            "Euglena",
+            "Amoeba",
+            "Plasmodium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2014,
+        "question": "Whorls, arches, loops and compounds are types of variation in",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Colour",
+            "Finger prints",
+            "Hair Colour",
+            "Blood group"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2014,
+        "question": "A couple has 10 children, all female. Which of the following best explains the situation",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The sex determination was by the man's X chromosome",
+            "The man's sperm count is low",
+            "The woman is not capable of producing male children",
+            "The sex determination was by the man's Y chromosome"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2014,
+        "question": "A biological agent with antiviral property is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Interferon",
+            "enzyme",
+            "antibiotic",
+            "disinfectant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2014,
+        "question": "One of the advantages of outbreeding is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "pests tolerance",
+            "disease resistance",
+            "fast growth",
+            "tall height"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2014,
+        "question": "An individual with blood group AB can receive blood from those in blood group(s)",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A, B, AB, O",
+            "A, AB and O only",
+            "AB only",
+            "A and B only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2014,
+        "question": "The stream-lined shape of fishes is an adaptation for",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Securing mates",
+            "easy movement",
+            "obtaining food",
+            "defence and attack"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2014,
+        "question": "An example of a poikilothermic organism is a",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Lizard",
+            "Cockroach",
+            "rabbit",
+            "bird"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2014,
+        "question": "All living organisms are constantly involved in a struggle for existence. This was proposed by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Morgan",
+            "Darwin",
+            "Lamarck",
+            "Wallace"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2014,
+        "question": "<p>Adaptive radiation is illustrated in</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "modified insect mouthparts",
+            "dentition in mammals",
+            "wings in birds and bats",
+            "appendages in insects"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2014,
+        "question": "i. Growth is mainly apical ii. Growth is specific with definite shape iii. Growth is throughout life. Which of the above correctly describes the growth pattern in plants?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i, ii and iii only",
+            "ii and iii only",
+            "i and ii only",
+            "i and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18513099449_bio_2014_1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "nucleus",
+            "eyespot",
+            "basal granule",
+            "contractile vacuole"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24209444031_bio_2014_1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "III",
+            "IV",
+            "I",
+            "II"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27057631986_bio-2014-2.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "III",
+            "IV",
+            "I",
+            "II"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15804673423_2014-2.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ii and iii",
+            "iii and iv",
+            "i and ii",
+            "i and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8620731822_2014-3.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "xylem",
+            "phleom",
+            "root hairs",
+            "cortex"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4310366256_2014-3.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "monocotyledonous stem",
+            "dicotyledonous stem",
+            "monocotyledonous root",
+            "dicotyledonous root"
+        ],
+        "type": "objectives"
+    }
+]

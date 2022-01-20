@@ -1,0 +1,800 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1990,
+        "question": "<p>Simplify 125\\(^{\\frac{-1}{3}}\\) x 49\\(^{\\frac{-1}{2}}\\) x 10\\(^0\\)</p>",
+        "explanation": "<p>125\\(^{\\frac{-1}{3}}\\) x 49\\(^{\\frac{-1}{2}}\\) x 10\\(^0\\)</p><p>= 5\\(^{-1}\\) x 7\\(^{-1}\\) x 1</p><p>= \\(\\frac{1}{35}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "350",
+            "35",
+            "1/35",
+            "1/350"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1990,
+        "question": "<p>If 3\\(^{2x}\\) = 27, what is x?</p>",
+        "explanation": "<p>3\\(^{2x}\\) = 27</p><p>3\\(^{2x}\\) = 3\\(^3\\)</p><p>2x = 3</p><p>x = 1.5</p>",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "1.5",
+            "4.5",
+            "18",
+            "40.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1990,
+        "question": "<p>Express 0.00562 in standard form</p>",
+        "explanation": "<p>0.00562 = 5.62 x 10\\(^{-3}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "5.62 x 10<sup>-3</sup>",
+            "5.62 x 10<sup>-2</sup>",
+            "562 x 10<sup>-2</sup>",
+            "5.62 x 10<sup>2</sup>",
+            "5.62 x 10<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1990,
+        "question": "Given that 1/3log<sub>10</sub>P = 1, find the value of P",
+        "explanation": "<sup>1</sup>/<sub>3</sub>log<sub>10</sub>P = 1<br>log<sub>10</sub>P<sup>1/3</sup>= log<sub>10</sub>10<br>P<sup>1/3</sup>= 10 P = 1000",
+        "correctIndex": 4,
+        "options": [
+            "1/10",
+            "3",
+            "10",
+            "100",
+            "1000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1990,
+        "question": "<p>Simplify \\(\\frac{\\log \\sqrt{8}}{\\log 8}\\)</p>",
+        "explanation": "<p>\\(\\frac{\\log \\sqrt{8}}{\\log 8}\\)</p><p>= \\(\\frac{\\log 8^{\\frac{1}{2}}}{log 8}\\)</p><p>= \\(\\frac{\\frac{1}{2} \\log 8}{\\log 8}\\)</p><p>= \\(\\frac{1}{2}\\) </p>",
+        "correctIndex": 1,
+        "options": [
+            "1/3",
+            "1/2",
+            "<sup>1</sup>/<sub>3</sub>log√2",
+            "<sup>1</sup>/<sub>3</sub>log√8",
+            "<sup>1</sup>/<sub>2</sub>log√2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1990,
+        "question": "Evaluate using the logarithm table, log(0.65)<sup>2</sup>",
+        "explanation": "log(0.65)<sup>2</sup>= 2log(0.65) but log0.65 = 1.8129<br>∴2 x 1.8129 = 3.6258",
+        "correctIndex": 3,
+        "options": [
+            "1.6258",
+            "0.6272",
+            "0.6258",
+            "3.6258",
+            "1.6272"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1990,
+        "question": "<p>If log x = \\(\\bar{2}.3675\\) and log y = 0.9750, what is the value of x + y? Correct to three significant figures</p>",
+        "explanation": "<p>log x = \\(\\bar{2}.3675\\) ; log y = 0.9750</p><p>\\(x = 10^{\\bar{2}.3675} = 0.02331 \\)</p><p>\\(y = 10^{0.9750} = 9.441 \\)</p><p>\\(x + y = 9.4641 \\approxeq 9.46\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "1.18",
+            "1.31",
+            "9.03",
+            "9.44",
+            "9.46"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1990,
+        "question": "<p>While doing his physics practical, Idowu recorded a reading as 1.12cm instead of 1.21cm. Calculate his percentage error</p>",
+        "explanation": "<p>%error = \\(\\frac{1.21 - 1.12}{1.21} \\times 100%\\)</p><p>= \\(\\frac{9}{121} \\times 100%\\)</p><p>= 7.44%</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.17%",
+            "6.38%",
+            "7.44%",
+            "8.035%",
+            "9.00%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1990,
+        "question": "<p>Find the 4th term of an A.P, whose first term is 2 and the common difference is 0.5</p>",
+        "explanation": "<p>\\(U_{n} = a + (n - 1)d\\)</p><p>\\(U_{4} = 2 + (4 - 1) \\times 0.5\\)</p><p>= \\(2 + 1.5\\)</p><p>= 3.5</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.5",
+            "2.5",
+            "3.5",
+            "4",
+            "4.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2766617246_wcmath199010.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "-3, 4",
+            "-2, -6",
+            "-2, 1.5",
+            "-1, 1",
+            "2, 1.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24899558184_wcmath199010.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-2.5, 2.0",
+            "-2.6, 2.1",
+            "-2.0, 1.5",
+            "-2.0, 2.0",
+            "0, 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1990,
+        "question": "<p>An arc of length 22cm subtends an angle of θ at the center of the circle. What is the value of θ if the radius of the circle is 15cm?[Take π = 22/7]</p>",
+        "explanation": "<p>\\(2\\pi r = 2 \\times 3.142 \\times 15 = 94.28cm\\)</p><p>\\(94.28cm = 360°\\)</p><p>\\(1cm = \\frac{360°}{94.28}\\)</p><p>\\(\\therefore 22cm = \\frac{360°}{94.28} \\times 22\\)</p><p>= 84°</p>",
+        "correctIndex": 1,
+        "options": [
+            "70<sup>o</sup>",
+            "84<sup>o</sup>",
+            "96<sup>o</sup>",
+            "156<sup>o</sup>",
+            "168<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1990,
+        "question": "<p>Find the sum of the first five terms of the G.P 2,6, 18 ....</p>",
+        "explanation": "<p>\\(S_{n} = \\frac{a(r^n - 1)}{r - 1}\\)</p><p>a = 2; r = 6/2 = 3.</p><p>\\(S_{5} = \\frac{2(3^5 - 1)}{3 - 1}\\)</p><p>= \\(243 - 1 = 242\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "484",
+            "243",
+            "242",
+            "130",
+            "121"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1990,
+        "question": "<p>Let J be the set of positive integers, If H = {x: x∈J, x\\(^2\\) &lt; 3 and x ≠ 0}, then</p>",
+        "explanation": "<p>H = {x: x is a positive integer, x\\(^2\\) &lt; 3 and x \\(\\neq\\) 0}</p><p>H = {1}</p>",
+        "correctIndex": 0,
+        "options": [
+            "H = {1}",
+            "H is an infinite set",
+            "H = {0, 1, 2}",
+            "H = {}",
+            "J ≤ H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1990,
+        "question": "In a class of 80 students, every students had to study economics or geography, or both economics and geography, if 65 students studied economics and 50 studied geography, how many studied both subjects?",
+        "explanation": "∩(E∩G) = ∩(E) + ∩(G) - ∩(E∩G)<br>80 = 65 + 50 - ∩(F∩G)<br>∴∩(E∩G) = 115 - 80 = 35",
+        "correctIndex": 2,
+        "options": [
+            "15",
+            "30",
+            "35",
+            "45",
+            "50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16599726444_wcmath199016.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "y ≥ x, y + 3 ≥ 2x, x ≤ 3",
+            "y ≤ x, y + 2x ≥ -3, x ≤ 3",
+            "y ≤ -x, y + 2x ≤ 3, x ≥ -3",
+            "y ≥ -x, y + 3 ≤ 2x, x ≥ -3",
+            "y ≤ x, y ≤ 2x - 3, x ≥ 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24899598666_wcmath199016.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "y ≤ x, y + 2x ≤ -3",
+            "y ≥ x, y + 2x ≥ - 3",
+            "y ≤ x, y &lt; 2x - 3, x ≤ 3",
+            "y ≤ -x, y ≤ 2x - 3, x ≤ 3",
+            "y ≥ x, y + 2x ≥ 3, x ≤ 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13833112870_wcmath199018.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In the figure, &lt; AOC = 2 x &lt; ABC = 60° (angle subtended at the centre)</p><p>\\(\\therefore\\) Arc AC = \\(\\frac{60}{360} \\times 2 \\times 10 \\times 3.14\\)</p><p>= \\(\\frac{31.4}{3}\\)</p><p>= 10.466 cm \\(\\approxeq\\) 10.5 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "5.2cm",
+            "10.5cm",
+            "13.2cm",
+            "20.6cm",
+            "31.4cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1990,
+        "question": "<p>Factorize x\\(^2\\) + 4x - 192</p>",
+        "explanation": "<p>x\\(^2\\) + 4x - 192</p><p>x\\(^2\\) + 16x - 12x - 192</p><p>x(x + 16) - 12(x + 16)</p><p>(x + 16)(x - 12)</p>",
+        "correctIndex": 2,
+        "options": [
+            "(x-4) (x+48)",
+            "(x-48) (x+4)",
+            "(x-12) (x+16)",
+            "(x-12) (x-16)",
+            "(x+12) (x+16)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1990,
+        "question": "<p>Factorize 2e\\(^2\\) - 3e + 1</p>",
+        "explanation": "<p>2e\\(^2\\) - 3e + 1</p><p>2e\\(^2\\) - 2e - e + 1</p><p>2e(e - 1) - 1(e - 1)</p><p>(2e - 1)(e - 1)</p>",
+        "correctIndex": 0,
+        "options": [
+            "(2e-1) (e-1)",
+            "(e+1) (2e+1)",
+            "(2e+3) (e+2)",
+            "(2e-3) (e-1)",
+            "(e<sup>2</sup>-3(2e-1)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1990,
+        "question": "<p>Solve the equation 7y\\(^2\\) = 3y</p>",
+        "explanation": "<p>7y\\(^2\\) = 3y</p><p>7y\\(^2\\) - 3y = 0</p><p>y(7y - 3) = 0</p><p>y = 0 or y = \\(\\frac{3}{7}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "y = 3 or 7",
+            "y = 0 or 7",
+            "y = 0 or 3/7",
+            "y = 0 or 9",
+            "y = 0 or 10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1990,
+        "question": "<p>Find the value of m which makes x\\(^2\\) + 8 + m a perfect square</p>",
+        "explanation": "<p>x\\(^2\\) + 8 + m</p><p>To make it a perfect square, we add \\((\\frac{b}{2})^2\\)</p><p>= \\((\\frac{8}{2})^2\\)</p><p>= 16</p>",
+        "correctIndex": 4,
+        "options": [
+            "2",
+            "4",
+            "8",
+            "12",
+            "16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1990,
+        "question": "<p>Solve the equation 2a\\(^2\\) - 3a - 27 = 0</p>",
+        "explanation": "<p>2a\\(^2\\) - 3a - 27 = 0</p><p>2a\\(^2\\) - 9a + 6a - 27 = 0</p><p>a(2a - 9) + 3(2a - 9) = 0</p><p>(a + 3)(2a - 9) = 0</p><p>a = -3 or a = \\(\\frac{9}{2}\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "3/2, 9",
+            "-2/3, 9",
+            "3, 9/2",
+            "-3, -9/2",
+            "-3, 9/2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1990,
+        "question": "A sector of a circle of radius 7cm has an area of 44cm<sup>2</sup>. Calculate the angle of the sector correct to the nearest degree [Take π = 22/7]",
+        "explanation": "πr<sup>2</sup>= 360<sup>o</sup><br><div class=\"eq-c\">44cm<sup>2</sup> = θ; ∴ θ = <div class=\"fraction\"><span class=\"fr_num\">44</span><span class=\"bar\">/</span><span class=\"fr_den\">πr<sup>2</sup></span></div> x 360<sup>o</sup> = 102.9<sup>o</sup> = 103<sup>o</sup></div>",
+        "correctIndex": 3,
+        "options": [
+            "6<sup>o</sup>",
+            "26<sup>o</sup>",
+            "52<sup>o</sup>",
+            "103<sup>o</sup>",
+            "206<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1990,
+        "question": "<p>calculate the surface area of a sphere of radius 7cm [Take π = 22/7]</p>",
+        "explanation": "<p>Surface area of a sphere = \\(4\\pi r^2\\)</p><p>= \\(4 \\times \\frac{22}{7} \\times 7 \\times 7\\)</p><p>= \\(616 cm^2\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "86cm<sup>2</sup>",
+            "154cm<sup>2</sup>",
+            "616cm<sup>2</sup>",
+            "1434cm<sup>2</sup>",
+            "4312cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1990,
+        "question": "<p>If the radius of the parallel of latitude 30°N is equal to the radius of the parallel of latitude θ°S, what is the value of θ?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191119_154320%20%282%29.jpg\" style=\"height:262px; width:250px\"></p><p>\\(\\theta_{1} = \\theta_{2} = 30°\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "75<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>",
+            "30<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1990,
+        "question": "<p>A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take π = 22/7]<br>\nFind the total surface area of the container</p>",
+        "explanation": "<p>TSA of a cylinder = \\(2\\pi r^2 + 2\\pi rh\\)</p><p>= \\(2\\pi r (r + h)\\)</p><p>= \\(2 \\times \\frac{22}{7} \\times 7 (7 + 5)\\)</p><p>= \\(44 \\times 12\\)</p><p>= \\(528 cm^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "35cm<sup>2</sup>",
+            "154cm<sup>2</sup>",
+            "220cm<sup>2</sup>",
+            "528cm<sup>2</sup>",
+            "770cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1990,
+        "question": "<p>A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take π = 22/7]. What is the volume of the container?</p>",
+        "explanation": "<p>Volume = \\(\\pi r^2 h\\)</p><p>= \\(\\frac{22}{7} \\times 7^2 \\times 5\\)</p><p>= \\(770 cm^3\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "35cm<sup>3</sup>",
+            "154cm<sup>3</sup>",
+            "220cm<sup>3</sup>",
+            "528cm<sup>3</sup>",
+            "770cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9683201675_wcmath199030.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the figure, &lt; PSR = 32° (base angles of an isos. triangle)</p><p>\\(\\therefore\\) &lt; PRS = 180° - (32° + 32°) = 116° (sum of angles in a triangle)</p><p>&lt; QRP = 180° - 116° = 64° (angle on a straight line)</p><p>&lt; PQR = 64° (base angles of an isos. triangle)</p><p>&lt; QPR = 180° - (64° + 64°) = 52°</p>",
+        "correctIndex": 2,
+        "options": [
+            "72<sup>o</sup>",
+            "64<sup>o</sup>",
+            "52<sup>o</sup>",
+            "32<sup>o</sup>",
+            "26<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13833147380_wcmath199031.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Diagonals bisect at 90°;  &lt; YXZ = 90° - 20° = 70°</p><p>But ZY = XY (sides of a rhombus)</p><p>\\(\\therefore\\) &lt; XYZ = 70° (base angle of an isos. triangle)</p>",
+        "correctIndex": 4,
+        "options": [
+            "20<sup>o</sup>",
+            "30<sup>o</sup>",
+            "45<sup>o</sup>",
+            "60<sup>o</sup>",
+            "70<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1383314934_wcmath199032.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of a triangle = \\(\\frac{1}{2} \\times b \\times h\\)</p><p>Area of \\(\\Delta\\) SQR = \\(\\frac{1}{2} \\times 6.4 \\times 3.2\\)</p><p>= 10.24 cm\\(^2\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "5.12cm<sup>2</sup>",
+            "9.60cm<sup>2</sup>",
+            "10.24cm<sup>2</sup>",
+            "20.48cm<sup>2</sup>",
+            "40.96cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17983095702_wcmath199033.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; VWZ = &lt; VXZ (angles in the same segment)</p>",
+        "correctIndex": 0,
+        "options": [
+            "∠VXZ",
+            "∠VYX",
+            "∠XZW",
+            "∠YXZ",
+            "∠VYW"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1383315211_wcmath199033.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of \\(\\Delta\\) VYZ = Area of \\(\\Delta\\) VWZ (same base and within same parallel)</p>",
+        "correctIndex": 1,
+        "options": [
+            "ΔVXZ",
+            "ΔVYZ",
+            "ΔXYV",
+            "ΔWYV",
+            "ΔWYZ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4149952824_wcmath199034.jpg\" class=\"img-fluid\">",
+        "explanation": "PQR = 180<sup>o</sup>- 86<sup>o</sup>= 94<sup>o</sup><br>∴PRQ = 180<sup>o</sup>- 94<sup>o</sup>- 36<sup>o</sup>= 48<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "58<sup>o</sup>",
+            "53<sup>o</sup>",
+            "48<sup>o</sup>",
+            "43<sup>o</sup>",
+            "38<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16599820752_wcmath199036.jpg\" class=\"img-fluid\">",
+        "explanation": "360<sup>o</sup>- 290<sup>o</sup>= 70<sup>o</sup><br>70/2 = 35<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "110<sup>o</sup>",
+            "70<sup>o</sup>",
+            "55<sup>o</sup>",
+            "35<sup>o</sup>",
+            "20<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2766637120_wcmath199037.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the figure &lt; TAB = &lt; BTQ = 40° (alternate segment)</p><p>\\(\\therefore\\)&lt; ATB = 180° - (70° + 40°) = 70° (angle on a straight line)</p><p>&lt; BTC = \\(\\frac{40°}{2} = \\frac{&lt; BTQ}{2}\\)</p><p>\\(\\therefore &lt; BTQ = 40°\\)</p><p>x° = 180° - (40° + 70° + 20°) </p><p>= 50° </p>",
+        "correctIndex": 4,
+        "options": [
+            "20<sup>o</sup>",
+            "30<sup>o</sup>",
+            "35<sup>o</sup>",
+            "40<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20749784595_wcmath199039.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1990,
+        "question": "<p>Use mathematical table to evaluate (cos40° - sin30°)</p>",
+        "explanation": "<p>(cos 40° - sin 30°)</p><p>= 0.7660 - 0.5</p><p>= 0.2660</p>",
+        "correctIndex": 3,
+        "options": [
+            "-0.2660",
+            "-0.0266",
+            "0.0266",
+            "0.2660",
+            "1.5320"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1990,
+        "question": "If the shadow of a pole 7m high is 1/2 its length what is the angle of elevation of the sun, correct to the nearest degree?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9683235639_wcmath199041ans.jpg\" class=\"img-fluid\">\n</div>tan θ - 7/3.5 = 2<br>tan θ= 2.0000<br>θ = 63<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "90<sup>o</sup>",
+            "63<sup>o</sup>",
+            "60<sup>o</sup>",
+            "26<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1990,
+        "question": "From the top of a building 10m high, the angle of depression of a stone lying on the horizontal ground is 69<sup>o</sup>. Calculate ,correct to one decimal place, the distance of the stone from the foot of the building",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19366520824_wcmath199042ans.jpg\" class=\"img-fluid\">\n</div>tan21<sup>o</sup>=x/10<br>x = 10 tan 21<sup>o</sup><br>= 3.3839 = 3.8m",
+        "correctIndex": 1,
+        "options": [
+            "3.6m",
+            "3.8m",
+            "6.0m",
+            "9.3m",
+            "26.1m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1990,
+        "question": "<p>The bearing of a point X from a point Y is 074°. What is the bearing of Y from X?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191120_093938%282%29.jpg\" style=\"height:176px; width:250px\"></p><p>&lt; YXS = 74° (alternate angles, N\\(_1\\) S\\(_1\\) // N\\(_2\\) S\\(_2\\))</p><p>N\\(_2\\) E\\(_2\\) S\\(_2\\) = 180°</p><p>\\(\\therefore\\) Bearing of Y from X = 180° + 74°</p><p>= 254°</p>",
+        "correctIndex": 3,
+        "options": [
+            "106<sup>o</sup>",
+            "146<sup>o</sup>",
+            "164<sup>o</sup>",
+            "254<sup>o</sup>",
+            "286<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/d6GuqqrqlEYBWSTkZwq8pgEk6FvWoQ6OmfBUYFpW.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Agric project = \\(\\frac{120}{360} \\times N12,000.00\\)</p><p>= \\(N4,000.00\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "N1,200.00",
+            "N1,440.00",
+            "N2,000.00",
+            "N2,910.00",
+            "N4,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23516524184_wcmath199047.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Mode = 12</p>",
+        "correctIndex": 3,
+        "options": [
+            "N3",
+            "N6",
+            "N9",
+            "N12",
+            "N15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16599901824_wcmath199047.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N3.00",
+            "N9.00",
+            "N12.00",
+            "N15.00",
+            "N18.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1990,
+        "question": "<p>Two groups of male students cast their votes on a particular proposal. The result are as follows:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td> </td>\n<td>In favor</td>\n<td>Against</td>\n</tr>\n<tr>\n<td>Group A</td>\n<td>128</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Group B</td>\n<td>96</td>\n<td>48</td>\n</tr>\n</tbody>\n</table><p>If a student in favor of the proposal is selected for a post, what is the probability that he is from group A?</p>",
+        "explanation": "<p>Probability that a student in favor is group A</p><p>= \\(\\frac{128}{128 + 32 + 96 + 48}\\)</p><p>= \\(\\frac{128}{304}\\)</p><p>= \\(\\frac{8}{19}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "8/19",
+            "16/35",
+            "10/19",
+            "4/7",
+            "4/5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1990,
+        "question": "<p>Two groups of male students cast their vote on a particular proposal. The results are as follows:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td> </td>\n<td>In favor</td>\n<td>Against</td>\n</tr>\n<tr>\n<td>Group A</td>\n<td>128</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Group B</td>\n<td>96</td>\n<td>48</td>\n</tr>\n</tbody>\n</table><p>If a student is chosen at random, what is probability that he is against the proposal?</p>",
+        "explanation": "<p>Probability that the student is against the proposal</p><p>= \\(\\frac{32 + 48}{128 + 32 + 96 + 48}\\)</p><p>= \\(\\frac{80}{304}\\)</p><p>= \\(\\frac{5}{19}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "3/19",
+            "4/19",
+            "5/19",
+            "9/19",
+            "10/19"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1990,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20200218_100339%20%282%29.jpg\" style=\"height:198px; width:200px\"></p><p>The annual salary of Mr. Johnson Mohammed for 1989 was N12,000.00. He spent this on agriculture projects, education of his children, food items, saving , maintenance and miscellaneous items as shown in the pie chart</p><p>How much did he spend on food items?</p>",
+        "explanation": "<p>Degree for food items = 360° - (120° + 80° + 43° + 30° + 18°)</p><p>= 360° - 291°</p><p>= 69°</p><p>∴∴ Amount spent on food items = \\(\\frac{69}{360}\\)×12,000.00</p><p>= N2300.00</p>",
+        "correctIndex": 4,
+        "options": [
+            "N9,700.00",
+            "N6,700.00",
+            "N2,000.00",
+            "N4,000.00",
+            "N2,300.00"
+        ],
+        "type": "objectives"
+    }
+]

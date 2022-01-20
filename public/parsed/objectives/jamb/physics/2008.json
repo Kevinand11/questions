@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2008,
+        "question": "I. Force (N)<br>II.Torque (NM)<br>III. Current (A)<br>IV. Power (W)<br>Which of the above are the correct S. I: units of the quantities indicated?",
+        "explanation": "Torque has the same unit as moment = Nm<br>∴i, iii and iv have correct units.",
+        "correctIndex": 3,
+        "options": [
+            "I and II only",
+            "I and III only",
+            "I, II and III only",
+            "I, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2008,
+        "question": "Which of the following is NOT a vector quantity?",
+        "explanation": "Altitude is just a measure of height, regardless of direction.",
+        "correctIndex": 0,
+        "options": [
+            "altitude",
+            "acceleration",
+            "displacement",
+            "weight"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2008,
+        "question": "If a wheel 1.2 m in diameter rotates at one revolation per second, calculate the velocity of the wheel.",
+        "explanation": "V = wr = 2πf r = 2 x (22)/7 x 1 x 0.6<br>= 3.77ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "3.6 ms<sup>-1</sup>",
+            "3.77 ms<sup>-1</sup>",
+            "4.0 ms<sup>-1</sup>",
+            "7.5 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2008,
+        "question": "<p>I. All the three forces must be concurrent.<br>\nII. The upward force is equal to the downward force.<br>\nIII. The algebraic sum of the moment about any point must be zero.<br>\n<br>\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?</p>",
+        "explanation": "<p>The condition (ii) is a condition for an equilibrium of parallel forces only while conditions (i) and (iii) are correct for both parallel and non- parallel coplanar forces.</p>",
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "I and III only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2008,
+        "question": "What is the frquency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
+        "explanation": "Frequency = (No. of revolutions)/ Time = (90)/25 = 3.6 Hz",
+        "correctIndex": 3,
+        "options": [
+            "0.01 Hz",
+            "0.04 Hz",
+            "2.27 Hz",
+            "3.60 Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2008,
+        "question": "If a body mass 5kg is thrown vertically upwards with velocity u,at what height will the potential energy equal to the kinetic energy?",
+        "explanation": "From V<sup>2</sup>= U<sup>2</sup>+ 2as<br>O = U<sup>2</sup>- 2gH, since at maximum height H, the final velocity, v = O.<br>∴ H = (U)<sup>2</sup>/2g<br>PE = KE at (1)/2 H = (U)<sup>2</sup>/2g x (1)/2 = U<sup>2</sup>4g",
+        "correctIndex": 1,
+        "options": [
+            "h =(u)<sup>2</sup>/g",
+            "h = (u)<sup>2</sup>/4g",
+            "h = (2u)<sup>2</sup>/g",
+            "h = (u)<sup>2</sup>/2g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2008,
+        "question": "counting of currency notes with moist fingers is based on the principles of?",
+        "explanation": "since currency and finger contain unlike molecules, the force involved is adhesion",
+        "correctIndex": 2,
+        "options": [
+            "diffusion",
+            "cohesion",
+            "adhesion",
+            "viscosity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2008,
+        "question": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms<sup>-1</sup>. find the coefficient of friction between the road and the tyres.",
+        "explanation": "F = (mv)<sup>2</sup>/r = (100 x 5)<sup>2</sup>= 250N<br>R = mg = 100 x 10 - 1000N<br>coefficient of friction,<br>µ = (F)/R = (250)/1000 = 0.25",
+        "correctIndex": 3,
+        "options": [
+            "25.00",
+            "2.50",
+            "0.50",
+            "0.25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2008,
+        "question": "A spring of force constant 500 NM<sup>-1</sup>is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
+        "explanation": "Energy stored in a spring = (1)/2 K e<sup>2</sup>= (1)/2 x 500(0.05)<sup>2</sup>= 0.625J",
+        "correctIndex": 0,
+        "options": [
+            "0.625 J",
+            "6.250 J",
+            "62.500 J",
+            "625.000 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2008,
+        "question": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?",
+        "explanation": "h<sub>l</sub>p<sub>l</sub>= h<sub>w</sub>p<sub>w</sub><br>where, L =liquid and W = water<br>(pl)/pw = (h<sub>w</sub>)/h<sub>l</sub>= (26.5)/20.4<br>= 1.299",
+        "correctIndex": 3,
+        "options": [
+            "0.8",
+            "1.1",
+            "1.2",
+            "1.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2008,
+        "question": "When cold water is poured on a can containing hot water, the can collapses because the",
+        "explanation": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.",
+        "correctIndex": 3,
+        "options": [
+            "steam condeses and occupies the partial vacuum in the can",
+            "external air pressure counter balances the pressure within the can",
+            "steam expands to occupy the vacuum remaining in the can",
+            "external pressure becomes greater than the pressure within the can."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2008,
+        "question": "An empty density bottle weighs 2 N. if its weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is",
+        "explanation": "relative density = (weight of substance )/weight of equal volume of water = (4 - 2)/5 - 2 = (2)/3",
+        "correctIndex": 1,
+        "options": [
+            "(1)/3",
+            "(2)/3",
+            "(1)/5",
+            "(2)/5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2008,
+        "question": "The thermometric properties of a thermocouple is the change in?",
+        "explanation": "Temperature difference between hot and cold junctions of thermocouple is proportional to the emf. generated",
+        "correctIndex": 1,
+        "options": [
+            "equivalent resistance",
+            "electromotive force",
+            "colour",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2008,
+        "question": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
+        "explanation": "The elastic potential energy of the balance wheel reduces as the wheel expands, therefore the clock will loose time.",
+        "correctIndex": 2,
+        "options": [
+            "the clock gians time",
+            "the accuracy of the clock is not affected",
+            "the clock losses time",
+            "the clock stops working"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2008,
+        "question": "A sealed flask contains 600cm<sup>3</sup>of air at 27°C and is heated to 35°C at constant pressure. The new volume is?",
+        "explanation": "V<sub>1</sub>= 600cm<sub>3</sub>, T<sub>1</sub>= 27 = 273 = 300k<br>T<sub>2</sub>= 35 + 273 = 308K, V<sub>2</sub>= ?<br>(V)<sub>1</sub>/T<sub>1</sub><br>= (V)<sub>2</sub>/T<sub>2</sub>= V<sub>2</sub><br>= (V)<sub>1</sub>/T<sub>1</sub>x X T<sub>2</sub><br>= (600 X 308)/300 = 616 cm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "508 cm<sup>3</sup>",
+            "516 cm<sup>3</sup>",
+            "608 cm<sup>3</sup>",
+            "616 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2008,
+        "question": "A block of aluminum is heated electrically by a 25 W heater. if the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is?",
+        "explanation": "Heat supplied = Heat gained<br>P x t = C ∆ Ø<br>(25 x 5 x 60)/300 = 750 JK<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "850 JK<sup>-1</sup>",
+            "750 JK<sup>-1</sup>",
+            "650 JK<sup>-1</sup>",
+            "500 JK<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2008,
+        "question": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
+        "explanation": "Relative<br>Humidity = (S.V.P. of water at dew point)/S.V.P of water at air temperature =(18)/24 x 100% = 75%",
+        "correctIndex": 2,
+        "options": [
+            "25%",
+            "33%",
+            "75%",
+            "82%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2008,
+        "question": "In a good thermos flask, the main cause of heat loss is?",
+        "explanation": "Since the cork is in contact with the walls of the flask, little conduction takes place",
+        "correctIndex": 0,
+        "options": [
+            "conduction through the cork",
+            "the plastic base of the thermos flask",
+            "the silvered walls and shiny metals",
+            "the outer cover or jacker"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2008,
+        "question": "Given the progressive wave equation y = 5 sin (2000 πt - 0.4x), calculate wave length",
+        "explanation": "Comparing y = 5sin (200 πt - 0.4X) with the wave equation y = A sin (wt -KX) K = (2π)/λ = 0.4<br>∴ λ = (2π)/0.4 = 15.7M",
+        "correctIndex": 1,
+        "options": [
+            "12.4 m",
+            "15.7 m",
+            "17.5 m",
+            "18.6 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2008,
+        "question": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
+        "explanation": "Timber/ quality depends on the overtones or harmonics, and timber is a characteristic property of source of sound.",
+        "correctIndex": 1,
+        "options": [
+            "wavelength",
+            "harmonies",
+            "frequency",
+            "velocity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2008,
+        "question": "I. Total internal reflection of light.<br>II. Conservation of light energy.<br>III. Relative motion of the earth, sun and moon.<br>IV. Rectilinear propation of light.<br>which of the above is a phenomenon of total solar eclipse?",
+        "explanation": "Due to rectilinear propagation of light we have ecslipse which occur as a result relative motion of the earth, sun and moon",
+        "correctIndex": 3,
+        "options": [
+            "I and IV only",
+            "II and IV only",
+            "I and III only",
+            "III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2008,
+        "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
+        "explanation": "Magnification = (image height)/object height<br>= (lenght camera)/object distance from pin-hole<br>∴(2)/4 = (6)/X<br>X (4 x 6)/2 = 12 cm",
+        "correctIndex": 2,
+        "options": [
+            "3.0 cm",
+            "8.0 cm",
+            "12.0 cm",
+            "16.0 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2008,
+        "question": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
+        "explanation": "(1)/V + (1)/U = (1)/f<br>(1)/V + (1)/20 = (1)/10<br>(1)/V = (1)/10 - (1)/20 = (2 -1)/20 = (1)/20<br>∴ V = 20 cm<br>mag = (image height)/object height = (v)/u<br>(X)/5 = (20)/50<br>X = 5 cm",
+        "correctIndex": 3,
+        "options": [
+            "20 cm",
+            "15 cm",
+            "10 cm",
+            "5 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2008,
+        "question": "Convex mirror are used as driving mirrors because images formed are?",
+        "explanation": "Image formed by convex mirror is always erect, virtual and diminished",
+        "correctIndex": 0,
+        "options": [
+            "erect, virtual and diminished",
+            "erect, real and diminished",
+            "erect, virtual and magnified",
+            "inverted virtual and diminished"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2008,
+        "question": "An object placed at the bottom of a well full of clear water appears closer to the surface due to?",
+        "explanation": "Real depth and apparent dept is due to refraction",
+        "correctIndex": 2,
+        "options": [
+            "diffraction",
+            "reflection",
+            "refraction",
+            "polarization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2008,
+        "question": "In the microscope, the eyepiece lens merely acts as?",
+        "explanation": "The basic function of microscope is magnification",
+        "correctIndex": 3,
+        "options": [
+            "an inverter",
+            "a refiner",
+            "a diminisher",
+            "a magnifier"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2008,
+        "question": "An observer with normal eyes views an object with magnifying glass of focal length 5 cm. the angular magnification is?<br><br><br>[least distance of distinct vision D = 25 cm]",
+        "explanation": "Angular magnification, M = ((D)/F + 1) where D is least distance of distinct vision<br>∴ M = ((25)/5 + 1) = -6",
+        "correctIndex": 0,
+        "options": [
+            "-6",
+            "-5",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2008,
+        "question": "A short chain is sometimes attached to the back of a petrol tanker to?",
+        "explanation": "The friction between the tanker and air creates charges which the chain conducts to the ground.",
+        "correctIndex": 3,
+        "options": [
+            "generate more friction",
+            "ensure the balancing of the tanker",
+            "caution the driver when overspeeding",
+            "conduct excess charges to the car"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2008,
+        "question": "An electric generator has e.m.f. of 240 V and an internal resistance of 1Ω if the current supplied by the generatoris 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated?",
+        "explanation": "Power supplied = IE = 20 X 240 = 4800 W<br>Power dissipated = IV = 20 X 220 = 4400 W<br>(Power supplied)/Power dissipated = (4800 W)/4400 W<br>= (12)/11",
+        "correctIndex": 2,
+        "options": [
+            "11:1",
+            "1:11",
+            "12:11",
+            "11:12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2008,
+        "question": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
+        "explanation": "Energy consumed = power x time<br>= (60 W x 10 + 40 W x 5) x 24 h<br>= (600 W + 200 W ) x 24 h<br>= 800 W x 24h = 19200 w h<br>= 19.2 kWh",
+        "correctIndex": 1,
+        "options": [
+            "0.96 kWh",
+            "19.2 kWh",
+            "9.60 kWh",
+            "19.20 kWh"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2008,
+        "question": "The d.c generator has essentially the same components as the a.c generator except the presence of?",
+        "explanation": "To correct and A.C generator with a D.C generator the slip ring is replaced with split-ring communicator",
+        "correctIndex": 2,
+        "options": [
+            "slip-ring",
+            "carbon brushes",
+            "split ring",
+            "armature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2008,
+        "question": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer.",
+        "explanation": "Efficiency = (power output)/power input x 100%<br>= 1<sub>s</sub>V<sub>S</sub>x 100% 1<sub>p</sub><br>V<sub>p</sub><br>∴ (80)/100 = (50)/I<sub>P</sub>x 200<br>I P = (50 x 100)/80 x 200 = 3.125 A",
+        "correctIndex": 0,
+        "options": [
+            "0.31 A",
+            "3.20 A",
+            "3.40 A",
+            "5.00 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2008,
+        "question": "caesium has a work function of 3 x 10<sup>-19</sup>J. the maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10<sup>14</sup><br><br>HZ is?<br><br><br><br>[h = 6.6 x 1010<sup>-34</sup>Js]",
+        "explanation": "Max kinetic energy = Energy of incident electron - work function. EK = hf - w<br>= 6.6 x 10<sup>-34</sup>x 6.7 x 10<sup>14</sup>- 3 x 10<sup>-19</sup><br>= 4.422 x 10<sup>-19</sup>- 3 x 10<sup>-19</sup><br>= 1.422 x 10<sup>-19</sup>J",
+        "correctIndex": 0,
+        "options": [
+            "1.42 x 10<sup>-19</sup>J",
+            "3.00 x 10<sup>-19</sup>J",
+            "4.42 x 1010<sup>-19</sup>J",
+            "7.42 x 10<sup>-19</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2008,
+        "question": "zener diode is used for?",
+        "explanation": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.",
+        "correctIndex": 2,
+        "options": [
+            "current amplification",
+            "power amplification",
+            "voltage regulation",
+            "energy conversion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2008,
+        "question": "When a pure semiconductor is heated, its resistance",
+        "explanation": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating",
+        "correctIndex": 1,
+        "options": [
+            "increases",
+            "decreases",
+            "remains the same",
+            "increases and then decreases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2008,
+        "question": "I. for current amplification.<br><br>II. for voltage stabilization.<br><br>III. for power amplification.<br><br>IV. as a switch.<br><br>which of the above are the uses of transistor?",
+        "explanation": "Transistor is used for amplification of current, power and as a switch in logic gates.",
+        "correctIndex": 1,
+        "options": [
+            "I,II,III and IV",
+            "I,III, and IV only",
+            "I, II and III only",
+            "I,II and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2008,
+        "question": "The dimension of electromotive force are `",
+        "explanation": "Electrical work W = QE,<br>Where Q is the quantity of change and E is the electromotive force.<br>∴ E = W = FxDQ_It<br>Where D is the displacement,I = current and t = time<br>But dimension of force,<br>= unit of mass x unit of Acceleration<br>= unit of mass xunit of velocityunit of time<br>= unit of mass x unit of displacement__unit of time x unit of time<br>ML/T<sup>2</sup>= MLT<sup>-2</sup><br>∴ Dimension of emf E<br>= MLT<sup>-2</sup>L = ML<sup>2</sup>T<sup>-3</sup>I<sup>-1</sup>__IT",
+        "correctIndex": 0,
+        "options": [
+            "ML<sup>2</sup>T<sup>-3</sup>I<sup>-1</sup>",
+            "ML<sup>2</sup>T<sup>-3</sup>I<sup>-2</sup>",
+            "M<sup>2</sup>LT<sup>-2</sup>I<sup>-1</sup>",
+            "M<sup>2</sup>L<sup>2</sup>T<sup>-1</sup>I<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2008,
+        "question": "The resultant of two forces 12N and 5N is 13N. What is the angle between the two forces?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9547788586_PHY20083.jpg\" class=\"img-fluid\">\n</div>R<sup>2</sup>- P<sup>2</sup>+ Q<sup>2</sup>= 12<sup>2</sup>+ 5<sup>2</sup><br>= 144 + 25 = 169<br>∴R = √169 = 13N<br>∴ angle between the forces is 90<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0<sup>o</sup>",
+            "45<sup>o</sup>",
+            "90<sup>o</sup>",
+            "180<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2008,
+        "question": "<p>A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?</p>",
+        "explanation": "<p>The force which is centripetal<br>\nF = MV2_R<br>\n=5 x 723.5<br>\n= 70</p><p>Since, force is 70 N when speed is 7m/s</p><p>Hence 3 * 70N will equal 21 m/s<br>\nV = √(Fr) and if F is tripped, then<br>\n </p>",
+        "correctIndex": 3,
+        "options": [
+            "4.0 ms<sup>-1</sup>",
+            "6.6 ms<sup>-1</sup>",
+            "12.1 ms<sup>-1</sup>",
+            "21.0 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2008,
+        "question": "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6N and 8N. Calculate the acceleration of the motion",
+        "explanation": "Smooth plane has negligible friction<br>∴ only the resultant of the perpendicular forces is acting on the body, which is given as<br>F =<br>√ 8<sup>2</sup>+ 6<sup>2</sup><br><br>=<br>√ 64 + 36<br><br>=<br>√ 100<br><br>= 10N<br>But F = Ma<br>∴ a =<sup>F</sup>/<sub>M</sub>=<sup>10</sup>/<sub>4</sub>= 2.5 ms<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "2.5 ms<sup>-1</sup>",
+            "3.0 ms<sup>-1</sup>",
+            "4.0 ms<sup>-1</sup>",
+            "4.5 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16367684100_phy20088.jpg\" class=\"img-fluid\">",
+        "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+        "correctIndex": 1,
+        "options": [
+            "moving Q nearer to O",
+            "moving P nearer to O",
+            "addding a weight Q to Q",
+            "moving P further away from O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17731695150_phy200814.jpg\" class=\"img-fluid\">",
+        "explanation": "VR = No. of pulleys = 4<br>Efficiency =<sup>M.A</sup>/<sub>V.R</sub>x 100% = load<br>Effort x 100%_V.R<br>∴80 = 1200 x 100 x 1100__Effort4<br>∴ Effort = 1200 x 100 = 375N_80 x 4",
+        "correctIndex": 2,
+        "options": [
+            "275N",
+            "325N",
+            "375N",
+            "573N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2727953822_phy200823.jpg\" class=\"img-fluid\">",
+        "explanation": "At melting point there is no change temperature",
+        "correctIndex": 0,
+        "options": [
+            "melting region",
+            "boiling region",
+            "sublimation region",
+            "evaporating process"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27279551640_phy200827.jpg\" class=\"img-fluid\">",
+        "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave",
+        "correctIndex": 1,
+        "options": [
+            "parallel to OX",
+            "parallel to OY",
+            "60<sup>o</sup>to OX",
+            "60v to OY"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2008,
+        "question": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
+        "explanation": "Magnifications =<sup>V</sup>/<sub>U</sub>= 4<br>∴ V = 4U<br><sup>1</sup>/<sub>V</sub>+<sup>1</sup>/<sub>U</sub>=<sup>1</sup>/<sub>f</sub><br><sup>1</sup>/<sub>4u</sub>+<sup>1</sup>/<sub>U</sub>=<sup>1</sup>/<sub>12</sub><br><sup>5</sup>/<sub>4U</sub>=<sup>1</sup>/<sub>12</sub><br>4U = 12 x 5 = 60<br>∴ U = 15 cm",
+        "correctIndex": 1,
+        "options": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9547921418_phy200839.jpg\" class=\"img-fluid\">",
+        "explanation": "The resistors are in series<br>∴ Reff = R<sub>1</sub>+ R<sub>2</sub>+ .....<br>= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
+        "correctIndex": 3,
+        "options": [
+            "6 Ω",
+            "12 Ω",
+            "18 Ω",
+            "24 Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4091967714_phy200844.jpg\" class=\"img-fluid\">",
+        "explanation": "Left = L<sub>1</sub>+ L<sub>2</sub>+ L<sub>3</sub><br>= 5mH + 10mH + 20mH = 35mH",
+        "correctIndex": 3,
+        "options": [
+            "0.35mH",
+            "3.50mH",
+            "2.90mH",
+            "35.0mH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2008,
+        "question": "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron<br>[m = 9.1 x 10<sup>-31</sup>kg, e = 1.6 x 10<sup>-19</sup>C, h = 6.6 x 10<sup>-34</sup>js]",
+        "explanation": "<table><tbody><tr><td rowspan=\"2\">λ = </td><td style=\"border-bottom:solid 1px\">__h</td></tr><tr><td>√(2evm)</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">____6.6 x 10<sup>-34</sup></td></tr><tr><td>√(2 x 1.6x10<sup>-19</sup> x 10000 x 9.1x10<sup>-34</sup>)</td></tr></tbody></table><br>1.223 x 10<sup>-11</sup>m",
+        "correctIndex": 0,
+        "options": [
+            "1.22 x 10<sup>-11</sup>m",
+            "3.87 x 10<sup>-10</sup>m",
+            "2.27 x 10<sup>11</sup>m",
+            "2.27 x 10<sup>14</sup>m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2008,
+        "question": "<table><tbody><tr><td>14</td><td rowspan=\"2\">N + </td><td>4</td><td rowspan=\"2\">He → </td><td>17</td><td rowspan=\"2\">O + X</td></tr><tr><td>7</td><td>2</td><td>8</td></tr></tbody></table><br>In the equation above, the particles X is",
+        "explanation": "for the conversion of mass 14 + 4 = 17 + x<br>∴ X = 18 - 17 = 1<br>for conservation pf charge:7 + 2 = 8 + y<br>y = 9 - 8 = 1<br>Thus, the element is<sub>1</sub><sup>1</sup>X which is equal to hydrogen nucleus ( proton)",
+        "correctIndex": 0,
+        "options": [
+            "a proton",
+            "a neutron",
+            "an α - particle",
+            "a β - particle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2008,
+        "question": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
+        "explanation": "0, 0, 1, 1, \\(\\bigcirc{2}\\), 4, 4, 4, 4<br><br>median = 2",
+        "correctIndex": 2,
+        "options": [
+            "o",
+            "1",
+            "2",
+            "4"
+        ],
+        "type": "objectives"
+    }
+]

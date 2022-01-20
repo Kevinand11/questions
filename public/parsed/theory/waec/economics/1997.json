@@ -1,0 +1,92 @@
+[
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1997,
+        "question": "<p>The data here shows an hypothetical age distribution of the population of a town in Nigeria. </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td><strong>Sex</strong></td>\n<td> </td>\n<td><strong>Age in years</strong></td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td>10 and below</td>\n<td>11-14   15-3</td>\n<td>36 - 64</td>\n<td>65 and above</td>\n</tr>\n<tr>\n<td>Male</td>\n<td>1350</td>\n<td>2275    1135</td>\n<td>        Y</td>\n<td>3250</td>\n</tr>\n<tr>\n<td>Female</td>\n<td>2650</td>\n<td>2725    1365</td>\n<td>4265</td>\n<td>  Z</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>4000</td>\n<td>X          2500</td>\n<td>7500</td>\n<td>6000</td>\n</tr>\n</tbody>\n</table><p>From this data, calculate:<br>\n(a) X, Y, Z.<br>\n(b) The total population of the town.<br>\n(c) The difference be-tween the population of male and female aged 14 and below.<br>\n(d) The percentage of the population aged 14 and below.<br>\n(e) The dependency ratio in the town. <br>\n </p>",
+        "answer": "<p>(a) X = Male (2275) + Female (2725) 5000<br>\n     Y = Total - Female = 7500 - 4265 = 3235<br>\n     Z = Total - Male = 6000 - 3250 = 2750</p><p>(b) Total population:<br>\n10 and above: 4,000<br>\n11 - 14        5,000<br>\n15 - 35       2,500<br>\n36 - 64       7,500<br>\n65 &amp; above <ins>6,000</ins>  <br>\nTotal           <ins>25,000  </ins></p><p>(c) Females of 14 years and below = 2650 + 2725 = 5375<br>\nMales of 14 years and below = 1350 + 2275 = 3625<br>\nDifference between the population of male and female aged 14 and below = 5375 - 3625 = 1750</p><p>(d) Percentage of population aged 14 years and below:<br>\nFemale aged 14 years and below plus male aged 14 years and below. 5375 + 3625 = 9000 or 4000 + 5000 = 9000<br>\n=  \\(\\frac{9000}{25000} \\times \\frac{100}{1}\\)  = 36%</p><p>(e) Dependency ratio =<br>\n<ins>Population of Less than 14 years +population of more than 65 years </ins><br>\n        population of 15 - 35 + population of 36 - 64 years<br>\n= \\(\\frac{9000 + 6000}{2500+7500} = \\frac{15,000}{10000}\\) = \\(\\frac{3}{2}\\) = 3:2 <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1997,
+        "question": "<p>Use the table to answer the following questions:</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td><strong>Quantity of yams(kg)</strong></td>\n<td><strong>Total Revenue (TR)</strong></td>\n<td><strong>Marginal Revenue (MR)</strong></td>\n<td><strong>Total Cost (TC)</strong></td>\n<td><strong>Marginal Cost (MC)</strong></td>\n</tr>\n<tr>\n<td> </td>\n<td>N</td>\n<td>N</td>\n<td>N</td>\n<td>N</td>\n</tr>\n<tr>\n<td>0</td>\n<td>0</td>\n<td>-</td>\n<td>5</td>\n<td>-</td>\n</tr>\n<tr>\n<td>1</td>\n<td>9</td>\n<td>9</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>2</td>\n<td>18</td>\n<td>9</td>\n<td>6</td>\n<td>T</td>\n</tr>\n<tr>\n<td>3</td>\n<td>24</td>\n<td>6</td>\n<td>21</td>\n<td>5</td>\n</tr>\n<tr>\n<td>4</td>\n<td>28</td>\n<td>Q</td>\n<td>25</td>\n<td>4</td>\n</tr>\n<tr>\n<td>5</td>\n<td>30</td>\n<td>2</td>\n<td>25</td>\n<td>U</td>\n</tr>\n<tr>\n<td>6</td>\n<td>P</td>\n<td>1</td>\n<td>25</td>\n<td>0</td>\n</tr>\n<tr>\n<td>7</td>\n<td>28</td>\n<td>-3</td>\n<td>S</td>\n<td>1</td>\n</tr>\n<tr>\n<td>8</td>\n<td>24</td>\n<td>R</td>\n<td>24</td>\n<td>-2</td>\n</tr>\n</tbody>\n</table><p>(a) Complete the table by calculating the missing figures P,Q,R,S,T,U.<br>\n(b)At what out-put is profit maximized?<br>\n(c) Calculate the profit when quantity sold is 5.<br>\n(d) At what output does MC begin to rise? </p>",
+        "answer": "<p>(a)Total Revenue at P = 30 + 1 = N31<br>\nMarginal Revenue at Q = N28 - N24 = N4<br>\nMarginal Revenue at R = N24 - N28 = -N4 Total Cost at S = N25 + Ni = N26 <br>\nMarginal cost at T = N16 - N8 = N8<br>\nMarginal cost at U = N25 - N25 = NO</p><p>(b) The profit is maximized at output 4kg of yams when MC = MR</p><p>(c) At output 5kg, Profit = TR - TC = N30 - N25 = N5</p><p>(d) Marginal cost (MC) begins to rise from output</p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1997,
+        "question": "<p>(a) Explain the term opportunity cost.<br>\n(b) Highlight the relevance of the opportunity cost concept to individuals, firms and government. </p>",
+        "answer": "<p>(a)Opportunity cost means the alternative forgone in order to satisfy a particular want. It refers to the satisfaction of one want at the expense of another want. It arises as a result of scarce resources to satisfy numerous wants and desires, e.g. the opportunity cost of purchasing a textbook, to a student, is the shirt he should have bought which he sacrificed to get the textbook. Opportunity cost means real cost and it is different from money cost. The real cost of the text-book is the shirt forgone.</p><p><strong>(b)(i)Importance of opportunity cost to individuals: </strong>It helps individuals to make judicious use of their scarce resources to satisfy unlimited wants. For example, a farmer can use a piece of land for planting cocoa or coffee. If he grows cocoa because of the present economic value of cocoa, the opportunity cost of cocoa is the coffee forgone.</p><p><strong>(ii) Importance of opportunity cost to the Government:</strong> It helps the government in deciding which sector will receive more resources. It helps the government in making decision on how to spend its revenue in carrying out its numerous projects, e.g. the government may allocate more resources to defence or infrastructure.</p><p><strong>(iii) Importance of opportunity cost to the firms: </strong>It helps the firms or industry in making decision on which resources to use in production and the method of production to be used, i.e. capital intensive or labour intensive. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1997,
+        "question": "<p>Describe any five problems of distribution in Nigeria. <br>\n </p>",
+        "answer": "<p><strong>Problems of distribution in Nigeria are:</strong><br>\n(I) Inadequate infrastructural facilities: Facilities like electricity, telecommunication are not adequate.</p><p><strong>(ii) Inadequate storage facilities/warehouse:</strong> This especially affects perishable products which come seasonally. During harvests, there is excess supply of these products, but there is scarcity as soon as the excess is over.</p><p><strong>(iii) Hoarding and speculation in Nigeria: </strong>The traders can create artificial scarcity for some commodities especially during festive periods such as Christmas and Ramadan. Artificial scar-city can also occur as a result of change in government policies. This disrupts the distributive process and increases prices unnecessarily.</p><p><strong>(iv) Packaging problems: </strong>The packaging of goods is not standardized. This may result in damage or loss in transit.</p><p><strong>(v) Inadequate transport facilities:</strong> The poor transport system also affects commodity distribution and marketing in the country. The roads are so bad that commodities sustain great damage due to accidents.</p><p><strong>(vi) Long chain of distribution: </strong>There are too many middlemen. The numerous links along the chain of distribution make the price of commodities to increase considerably.</p><p><strong>(vii) Insecurity on Nigerian roads:</strong> Distribution is affected as a result of the activities of armed bandits on the road.</p><p><strong>(viii) Administrative bottle-necks in the collection and handling of goods:</strong> Excessive delay in the supply and delivery of commodities is a common feature in the Nigerian distribution system. Processing of necessary papers at supply point or depots causes considerable loss of time. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1997,
+        "question": "<p>(a) Define population census.<br>\n(b) State the implications of<br>\n(i) optimum population.<br>\n(ii) over- population. <br>\n </p>",
+        "answer": "<p>(a) Population census is the head count of all nationals of a country at a particular time. It is usually carried out once in every 10 years. It provides information about age, sex, occupation, residence etc.</p><p><strong>(bi) Implications of optimum population: </strong>Optimum population may be defined as the population which combines with the available resources and the given level of existing technology to secure a maximum return per head. An optimum population is the population that produces full employment and the highest standard of living in a country. Optimum population is a dynamic population that changes with the changing quantity and quality of a country's available resources.</p><p><strong>(bii)Implications of over population: Over population is the population that exceeds the available resources of a country. Its implications are:</strong><br>\n(i) It will lead to unemployment.<br>\n(ii) Over population causes a fall in the standard of living of the people of a country.<br>\n(iii) It causes shortage of social amenities like schools, roads, pipe borne water and electricity.<br>\n(iv) Overpopulation will reduce output per head.<br>\n(v) It leads to congestion in the cities.<br>\n(vi) Over population leads to high rate of illiteracy.<br>\n(vii) Over population leads to high import bills. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1997,
+        "question": "<p>With the aid of a diagram, explain the super-normal profit of a monopolist. <br>\n </p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/97%202.jpg\" style=\"height:107px; width:200px\"><br>\nFrom this graph, the monopolist is at equilibrium, where his marginal cost (MC) is equal to marginal Revenue (MR). At the point of equilibrium, the quantity produced is OQ while the price is OP. At that point he is able to cover both the AC and MC. The super -normal profit can now be determined thus: Total Revenue = OPOQ<br>\nTotal Cost = OCOQ<br>\nProfit = TR - TC = OPOQ - OCOQ<br>\nQuantity =PCSE or the shaded portion <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1997,
+        "question": "<p> What is money? Why do people prefer to hold money? <br>\n </p>",
+        "answer": "<p>(a)Money is any commodity that is generally accepted as a means of payments for goods and services.</p><p><strong>(b) Reasons for holding money are: </strong><br>\n<strong>(i) Transactionary motives:</strong> People desire to keep or hold money for day to day transactions or current expenditures. Households need to hold money in order to cater for the interval between the receipt of incomes and their expenditures.</p><p><strong>(ii) Precautionary motives:</strong> This is when people demand for money in order to meet up with unforeseen circumstances or unexpected expenditures. These may include sickness, unexpected visitors etc. Due to uncertainties in life, people keep money against future emergencies that may require monetary expenditures.</p><p><strong>(iii) Speculative motives: </strong>This motive is specifically a business motive and refers to the desire to hold cash balances in order to embark on speculative dealings in the bond market. The demand to hold money for speculative purposes is interest elastic. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1997,
+        "question": "<p>Explain any five reasons why a joint stock company is preferable to a one-man business. </p>",
+        "answer": "<p><strong>Reasons why Joint stock is preferable to .a one - man business are: </strong><br>\n(i) A company is a legal entity - It can sue and be sued<br>\n(ii) It enjoys limited liability.<br>\n(iii) There is continuity of existence in spite of death of owners.<br>\n(iv) There is separation of ownership from management.<br>\n(v) It enjoys economy of large scale production.<br>\n(vi) Shares are easily transferable without affecting the company.<br>\n(vii) Ability to attract large financial resources from various sources e.g. bank loan, debenture, sales of share etc.<br>\n(viii) It has the opportunity of bringing expertise into business. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1997,
+        "question": "<p>State any three positive and any two negative effects of petroleum industry on the economy of Nigeria. </p>",
+        "answer": "<p><strong>Positive effects of petroleum industry on the economy of Nigeria are: </strong><br>\n(i) The development of basic infrastructural base for developmental purposes.<br>\n(ii) Provision of internal energy requirement, e.g. kerosene, gas.<br>\n(iii) Provision of revenue in form of petroleum tax/sales of petroleum products.<br>\n(iv) It is a source of foreign exchange.<br>\n(v) Many people have been gainfully employed in the industry.<br>\n(vi) Emergence of petroleum has led to the establishment of petrochemical industry in the country and some other allied industries such as liquified natural gas industries.</p><p><strong>Negative effects of Petroleum industry on the economy of Nigeria are: </strong><br>\n(i) The presence of oil and its wealth has escalated social vices such as corruption, armed robbery, etc.<br>\n(ii) Oil exploration in Nigeria has caused ecological problem like pollution.<br>\n(iii) Nigeria has become mono-economy. Other sectors like agriculture have been relegated to the background.<br>\n(iv) Another major effect is the problem of rural - urban migration.<br>\n(v) The discovery of oil led to rapid monetary expansion which has caused a high rate of inflation. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1997,
+        "question": "<p>(a) Define the term Balance of Payments.<br>\n(b) What are its main components?</p>",
+        "answer": "<p>(a) Balance of payments means the relationship between the sum total of a country's payment for her import receipts for her export . It is thus a statement of income and expenditure on international account, for a period of usually one year.</p><p><strong>(b) Components of balance of payments are: </strong><br>\n<strong>(I) Current account: </strong>This is made up of the total receipts and payments on both visible and invisible goods e.g. banking, insurance, shipping and tourism. It consists of visible and invisible trade account.</p><p><strong>(ii) Capital account: </strong>This account is made up of the movement or flow of money from one country to another such as investments, international grants and loans. These are short and long term capital movements. A country's balance of payments is favourable when money received is more than the amount she pays out and vice versa.</p><p><strong>(iii) Monetary movement account: </strong>This shows how the balance on both current and capital accounts is settled. It shows how the surplus or deficit on both accounts is settled. </p>",
+        "type": "theory"
+    }
+]

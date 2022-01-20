@@ -1,0 +1,110 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1989,
+        "question": "<p>(a) Without using Mathematical tables, find x, given that \\(6 \\log (x + 4) = \\log 64\\)</p><p>(b) If \\(U = {1, 2, 3,4, 5, 6, 7, 8, 9, 10}, X = {1, 2, 4, 6, 7, 8, 9}, Y = {1, 2, 3, 4, 7, 9}\\) and \\(Z = {2, 3, 4, 7, 9}\\). What is \\(X \\cap Y \\cap Z' \\)?</p>",
+        "answer": "<p>(a) \\(6 \\log (x + 4) = \\log 64\\)</p><p>\\(\\implies (x + 4)^{6} = 64\\)</p><p>\\((x + 4)^{6} = 2^{6}\\)</p><p>\\(\\implies x + 4 = 2 ; x = 2 - 4 = -2\\)</p><p>\\(\\therefore x = -2\\)</p><p>(b) \\(U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\\)</p><p>\\(X = {1, 2, 4, 6, 7, 8, 9}; Y = {1, 2, 3, 4, 7, 9} ; Z = {2, 3, 4, 7,9}\\)</p><p>\\(X \\cap Y = {1, 2, 4, 7, 9}\\)</p><p>\\({1, 2, 4, 7, 9} \\cap Z' = {1, 2, 4, 7, 9} \\cap {1, 5, 6, 8, 10}\\)</p><p>= {1}</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1989,
+        "question": "<p>The table shows the weights, to the nearest kilogram, of twelve students in a Further Mathematics class</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Weight in kg</td>\n<td>55</td>\n<td>57</td>\n<td>59</td>\n<td>61</td>\n<td>63</td>\n</tr>\n<tr>\n<td>No of students</td>\n<td>2</td>\n<td>1</td>\n<td>2</td>\n<td>4</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>(a) Draw a bar chart to illustrate the above information;</p><p>(b) What is (i) the mode; (ii) the median of the distribution?</p><p>(c) Calculate the mean weight correct to the nearest kilogram.</p><p> </p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0371%20%282%29.jpg\" style=\"height:147px; width:400px\"></p><p>(b)(i) The mode is 61kg.</p><p>(ii) From the total number of students = 12, then the median is the average of the 6th and 7th weight.</p><p>From the table, the median = 61kg.</p><p>(c) Mean weight = \\(\\frac{\\sum fx}{\\sum f} = \\frac{55 \\times 2 + 57 \\times 1 + 59 \\times 2 + 61 \\times 4 + 63 \\times 3}{12}\\)</p><p>= \\(\\frac{110 + 57 + 118 + 244 + 189}{12} = \\frac{718}{12} = 59.833kg\\)</p><p>\\(\\approxeq 60kg\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1989,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0370%20%282%29.jpg\" style=\"height:344px; width:250px\"></p><p>The diagram shows a wooden structure in the form of a cone, mounted on a hemispherical base. The vertical height of the cone is 24cm and the base height 7cm. Calculate, correct to three significant figures, the surface area of the structure. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>Let the slant height = L ; height = 24cm ; r = 7cm.</p><p>\\(\\therefore L^{2} = 24^{2} + 7^{2} = 576 + 49 = 625\\)</p><p>\\(L = \\sqrt{625} = 25cm\\)</p><p>Surface area of the structure = Area of cone + Area of hemisphere</p><p>= \\(\\pi r L + 2 \\pi r^{2} = \\pi r (L + 2r)\\)</p><p>= \\(\\frac{22}{7} \\times 7 (25 + 2(7))\\)</p><p>= \\(22 \\times 39 = 858 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1989,
+        "question": "<p>Using a ruler and a pair of compasses only, construct a triangle ABC, given that |AB| = 8.4cm, |BC| = 6.5cm and &lt; ABC = 30°. Construct the locus: </p><p>(a) \\(l_{1}\\) of points equidistant from AB and BC, and within the angle ABC;</p><p>(b) \\(l_{2}\\) of points equidistant from B and C. Locate the point of intersection P of \\(l_{1}\\) and \\(l_{2}\\). Measure |AP|. </p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0371%20%283%29.jpg\" style=\"height:225px; width:450px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1989,
+        "question": "<p>(a) If \\(\\cos \\alpha = 0.6717\\), use mathematical tables to find (i) \\(\\alpha\\) ; (ii) \\(\\sin \\alpha\\)</p><p>(b) The angle of depression of a point P on the ground, from the top T of a building is 23.6°. If the distance of P from the foot of the building is 50m, calculate the height of the building, correct to the nearest metre.</p>",
+        "answer": "<p>(a) (i) Given \\(\\cos \\alpha = 0.6717\\)</p><p>\\(\\alpha = \\cos^{-1} 0.6717 = 47.8°\\)</p><p>(From cosine of angle table)</p><p>(ii) \\(\\sin 47.8° = 0.7408\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0371%20%284%29.jpg\" style=\"height:270px; width:250px\"></p><p>From the diagram, \\(&lt; BPT = &lt; PTR = 23.6°\\)</p><p>\\(\\therefore |BT| = |BP| \\tan 23.6°\\)</p><p>= \\(50 \\tan 23.6° = 50 \\times 0.4369\\)</p><p>= \\(21.8469 m\\)</p><p>\\(\\therefore\\) The height of the building = 22m (to the nearest metre).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1989,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0370%20%283%29.jpg\" style=\"height:251px; width:250px\"></p><p>In the diagram, O is the centre of the circle radius 3.2cm. If &lt; PRQ = 42°, calculate, correct to two decimal places, the area of the:</p><p>(i) minor sector POQ ; (ii) shaded part.</p><p>(b) If the sector POQ in (a) is used to form the curved surface of a cone with vertex O, calculate the base radius of the cone, correct to one decimal place.</p>",
+        "answer": "<p>(a) (i) Area of minor segment POQ = \\(\\frac{84}{360} \\times \\frac{22}{7} \\times (3.2)^{2}\\)</p><p>= \\(\\frac{11 \\times 10.24}{15}\\)</p><p>= \\(7.5093 cm^{2} \\approxeq 7.51 cm^{2}\\) (2 decimal places)</p><p>(ii) Area of \\(\\Delta\\) in POQ = \\(\\frac{1}{2} \\times 3.2 \\times 3.2 \\times \\sin 84°\\)</p><p>= \\(\\frac{127.296}{25} = 5.0918 cm^{2}\\)</p><p>Area of segment PQ (shaded part) = Area of sector POQ - Area of triangle</p><p>= \\(7.5093 cm^{2} - 5.0918 cm^{2} = 2.4175 cm^{2}\\)</p><p>\\(\\approxeq 2.42 cm^{2}\\)</p><p>(b) Area of sector POQ = Curved surface area of the cone </p><p>\\(7.5093 cm^{2} = \\pi rl\\)</p><p>where r = base radius, L = slant height = 3.2cm</p><p>\\(7.5093 = \\frac{22}{7} \\times r \\times 3.2 = \\frac{70.4r}{7}\\)</p><p>\\(70.4r = 7.5093 \\times 7 \\implies r = \\frac{7.5093 \\times 7}{70.4} = 0.7467 cm\\)</p><p>\\(\\approxeq 0.7cm\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1989,
+        "question": "<p>When a stone is thrown vertically upwards, its distance d metres after t seconds is given by the formula \\(d = 60t - 10t^{2}\\). Draw the graph of \\(d = 60t - 10t^{2}\\) for values of t from 1 to 5 seconds using 2cm to 1 unit on the t- axis and 2cm to 20 units on the d- axis.</p><p>(a) Using your graph, (i) how long does it take to reach a height of 70 metres? (ii) determine the height of the stone after 5 seconds. (iii) after how many seconds does it reach its maximum height.</p><p>(b) Determine the slope of the graph when t = 4 seconds.</p>",
+        "answer": "<p>Table of values of \\(d = 60t - 10t^{2}\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>t</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(60t\\)</td>\n<td>60</td>\n<td>120</td>\n<td>180</td>\n<td>240</td>\n<td>300</td>\n</tr>\n<tr>\n<td>\\(- 10t^{2}\\)</td>\n<td>-10</td>\n<td>-40</td>\n<td>-90</td>\n<td>-160</td>\n<td>-250</td>\n</tr>\n<tr>\n<td>d</td>\n<td>50</td>\n<td>80</td>\n<td>90</td>\n<td>80</td>\n<td>50</td>\n</tr>\n</tbody>\n</table><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0372%20%282%29.jpg\" style=\"height:275px; width:400px\"></p><p>(a)(i) It takes 1.6 seconds to reach a height of 70 metres.</p><p>(ii) Height of stone at 5 seconds was 50 metres but after 5 seconds, d &lt; 50 metres.</p><p>(iii) It reaches its maximum height after 2.9 seconds.</p><p>(b) From the graph, the gradient of the slope = \\(\\frac{AB}{BC}\\)</p><p>= \\(\\frac{56}{2.8} = 20 m/s\\)</p><p>But it is a negative slope, hence the slope = -20 m/s.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1989,
+        "question": "<p>(a) (i) Prove that the angle which an arc of a circle subtends at the centre is twice that which it subtends at any point on the remaining part of the circumference.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0370%20%284%29.jpg\" style=\"height:232px; width:250px\"></p><p>(ii) In the diagram above, O is the centre of the circle and PT is a diameter. If &lt; PTQ = 22° and &lt; TOR = 98°, calculate &lt; QRS.</p><p>(b) ABCD is a cyclic quadrilateral and the diagonals AC and BD intersect at H. If &lt; DAC = 41° and &lt; AHB = 70°, calculate &lt; ABC.</p>",
+        "answer": "<p>(a)(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0372%20%283%29.jpg\" style=\"height:263px; width:250px\"></p><p>Given a circle APB with centre O.</p><p>To prove that &lt; AOB = 2 &lt; APB.</p><p>Construction: Draw PO and produce it to Q.</p><p>Proof : Referring to the lettering in the figure, |OA| = |OB| (radius)</p><p>\\(\\therefore x_{1} = x_{2}\\) (base angles of isosceles triangle)</p><p>\\(&lt; AOQ = x_{1} + x_{2}\\) (exterior angles of triangle AOP)</p><p>\\(\\therefore &lt; AOQ = 2x_{2} (x_{1} = x_{2})\\)</p><p>Similarly, \\(&lt; BOQ = 2y_{2}\\)</p><p>\\(&lt; AOB = &lt; AOQ + &lt; BOQ \\)</p><p>Hence, \\(&lt; AOB = 2x_{2} + 2y_{2} = 2(x_{2} + y_{2})\\)</p><p>= \\(2 \\times &lt; APB\\)</p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0372%20%284%29.jpg\" style=\"height:236px; width:250px\"></p><p>From the figure, \\(|OQ| = |QT|\\) (radius)</p><p>\\(&lt; OQT = 22° = &lt; QTO\\) (base angles of isosceles triangle)</p><p>\\(\\therefore &lt; POQ = 44° \\) (exterior angle of \\(\\Delta\\) QOT)</p><p>\\(&lt; QOR = 180° - (44° + 98°) = 180° - 142° = 38°\\) (Angles on a straight line)</p><p>\\(&lt; QOR = 2 \\times &lt; QSR = 38°\\)</p><p>\\(\\therefore &lt; QSR = \\frac{38°}{2} = 19°\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0372%20%285%29.jpg\" style=\"height:272px; width:250px\"></p><p>\\(&lt; BHC = (180° - 70°) = 110°\\) (angle on a straight line)</p><p>\\(&lt; DAC = 41° = &lt; DBC\\) (angles on the same segment)</p><p>But \\(&lt; DBC = &lt; HBC\\)</p><p>\\(&lt; AHB = &lt; HBC + &lt; HCB \\) (exterior angles of \\(\\Delta\\) BHC)</p><p>\\(70° = 41° + &lt; HCB \\implies &lt; HCB = 70° - 41° = 29°\\)</p><p>\\(&lt; ACB = &lt; HCB = 29°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1989,
+        "question": "<p>(a) In an A.P, the difference between the 8th and 4th terms is 20 and the 8th term is \\(1\\frac{1}{2}\\) times the 4th term. What is the:</p><p>(i) common difference ; (ii) first term of the sequence?</p><p>(b) The value of a machine depreciates each year by 5% of its value at the beginning of that year. If its value when new on 1st January 1980 was N10,250.00, what was its value in January 1989 when it was 9 years old? Give your answer correct to three significant figures.</p>",
+        "answer": "<p>(a) \\(T_{n} = a + (n - 1) d\\) (terms of an A.P)</p><p>Given: \\(T_{8} - T_{4} = 20\\)</p><p>\\(T_{8} = 1\\frac{1}{2} \\times T_{4}\\)</p><p>\\(\\therefore a + 7d - (a + 3d) = 20\\)</p><p>\\(4d = 20 \\implies d = 5\\)</p><p>(ii) Put d = 5 in the equation</p><p>\\(a + 7d = 1\\frac{1}{2} \\times (a + 3d)\\)</p><p>\\(a + 7d = 1.5a + 4.5d\\)</p><p>\\(7d - 4.5d = 1.5a - a \\implies 2.5d = 0.5a\\)</p><p>\\(a = \\frac{2.5 \\times 5}{0.5} = 25\\)</p><p>(b) \\(A = P(1 - \\frac{r}{100})^{n}\\) </p><p>where P = N10,250.00</p><p>r = 5% </p><p>n = 9</p><p>\\(\\therefore A = (10,250) (1 - \\frac{5}{100})^{9}\\)</p><p>= \\(10,250 \\times (0.95)^{9} = 10,250 \\times 0.6302\\)</p><p>= \\(N6,460.056 \\approxeq N6,460\\) (to 3 sig. figs)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1989,
+        "question": "<p>(a) A pair of fair dice each numbered 1 to 6 is tossed. Find the probability of getting a sum of at least 9.</p><p>(b) If the probability that a civil servant owns a car is \\(\\frac{1}{6}\\), find the probability that:</p><p>(i) two civil servants, A and B, selected at random each owns a car ; (ii) of two civil servants, C and D selected at random, only one owns a car ; (iii) of three civil servants, X, Y and Z, selected at random, only one owns a car.</p>",
+        "answer": "<p>(a) Sample space for a pair of fair dice = 36 results</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>+</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n</tr>\n<tr>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n</tr>\n<tr>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n</tr>\n<tr>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>11</td>\n</tr>\n<tr>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>11</td>\n<td>12</td>\n</tr>\n</tbody>\n</table><p>Total with sum at least 9 = 10</p><p>P(sum at least 9) = \\(\\frac{10}{36} = \\frac{5}{18}\\)</p><p>(b) P(civil servant owns a car) = \\(\\frac{1}{6}\\)</p><p>P(civil servant owns no car) = \\(\\frac{5}{6}\\)</p><p>(i) P(A and B own a car) = \\(\\frac{1}{6} \\times \\frac{1}{6} = \\frac{1}{36}\\)</p><p>(ii) P(C and D, only one owns a car) = P(C owns, not D) + P(not C but D owns)</p><p>= \\((\\frac{1}{6} \\times \\frac{5}{6}) + (\\frac{5}{6} \\times \\frac{1}{6})\\)</p><p>= \\(\\frac{5}{36} + \\frac{5}{36}\\)</p><p>= \\(\\frac{10}{36} = \\frac{5}{18}\\)</p><p>(iii) P(of X, Y and Z, only one owns a car) = P(X owns a car, not Y, not Z) + P(not X, Y owns a car, not Z) + P(not X, not Y, Z owns a car)</p><p>= \\(3(\\frac{1}{6} \\times \\frac{5}{6} \\times \\frac{5}{6})\\)</p><p>= \\(3 \\times \\frac{25}{216}\\)</p><p>= \\(\\frac{25}{72}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1989,
+        "question": "<p>(a) Triangle PQR is right-angled at Q. PQ = 3a cm and QR = 4a cm. Determine PR in terms of a. </p><p>(b) Ayo travels a distance of 24km from X on a bearing of 060° to Y. He then travels a distance of 18km to a point Z  and Z is 30km from X.</p><p>(i) Draw the diagram to show the positions of X, Y and Z ; (ii) What is the bearing of Z from Y ; (iii) Calculate the bearing of X from Z.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0373%20%282%29.jpg\" style=\"height:266px; width:250px\"></p><p>From the diagram and by Pythagoras theorem,</p><p>\\(|PR|^{2} = |PQ|^{2} + |QR|^{2}\\)</p><p>\\(|PR|^{2} = (3a)^{2} + (4a)^{2}\\)</p><p>\\(|PR|^{2} = 9a^{2} + 16a^{2} = 25a^{2}\\)</p><p>\\(|PR| = \\sqrt{25a^{2}} = 5a\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0373%20%283%29.jpg\" style=\"height:156px; width:250px\"></p><p>(ii) From the figure, Bearing of Y from X = 060°</p><p>Using cosine rule,</p><p>\\(\\cos XYZ = \\frac{24^{2} + 18^{2} - 30^{2}}{2 \\times 24 \\times 18}\\)</p><p>\\(\\cos XYZ = 0 \\implies &lt; XYZ = 90°\\)</p><p>\\(&lt; RYZ = 90° - 60° = 30°\\)</p><p>\\(&lt; N_{2} YZ = 180° - 30° = 150°\\) (angles on a straight line)</p><p>The bearing of Z from Y is 150°.</p><p>(iii) \\(\\cos XZY = \\frac{30^{2} + 18^{2} - 24^{2}}{2 \\times 30 \\times 18}\\)</p><p>= \\(\\frac{900 + 324 - 576}{1080}\\)</p><p>\\(\\cos XZY = \\frac{648}{1080} = 0.6\\)</p><p>\\(&lt; XZY = \\cos^{-1} (0.6) = 53.13°\\)</p><p>\\(\\therefore\\) The bearing of X from Y = 360° - (53.13° + 30°) = 276.87°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1989,
+        "question": "<p>(a) Derive the smallest equation whose coefficients are integers and which has roots of \\(\\frac{1}{2}\\) and -7. </p><p>(b) Three years ago, a father was four times as old as his daughter is now. The product of their present ages is 430. Calculate the ages of the father and daughter. </p>",
+        "answer": "<p>(a) Roots of the equation = \\(\\frac{1}{2}\\) and -7</p><p>\\(\\therefore (x - \\frac{1}{2})(x + 7) = 0\\) </p><p>\\(x^{2} - \\frac{1}{2} x + 7x - \\frac{7}{2} = 0\\)</p><p>\\(x^{2} + \\frac{13}{2} x - \\frac{7}{2} = 0\\)</p><p>Multiply through by 2 to get integers as coefficients,</p><p>\\(2x^{2} + 13x - 7 = 0\\)</p><p>(b) Let the father and daughter's present ages be r and t respectively.</p><p>Three years ago, father = (r - 3) years</p><p>\\((r - 3) = 4t \\implies r = (4t + 3) ... (1)\\)</p><p>\\(r \\times t = 430 ... (2)\\)</p><p>Substitute (1) in (2),</p><p>\\((4t + 3) \\times t = 430 \\implies 4t^{2} + 3t = 430\\)</p><p>\\(\\implies 4t^{2} + 3t - 430 = 0\\)</p><p>\\(4t^{2} - 40t + 43t - 430 = 0\\)</p><p>\\(4t(t - 10) + 43(t - 10) = 0\\)</p><p>\\(\\therefore (4t + 43)(t - 10) = 0\\)</p><p>\\(t = \\frac{-43}{4}; t = 10\\)</p><p>Since t is age, it cannot be negative. Hence, t = 10 years.</p><p>Recall : \\(r = 4t + 3\\)</p><p>\\(\\therefore r = 4(10) + 3 = 40 + 3 = 43\\)</p><p>Therefore, the father's present age is 43 years while the daughter's age is 10 years.</p>",
+        "type": "theory"
+    }
+]

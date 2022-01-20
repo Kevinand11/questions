@@ -1,0 +1,119 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1999,
+        "question": "<p>(a) Simplify \\((\\frac{4}{25})^{-\\frac{1}{2}} \\times 2^{4} \\div (\\frac{15}{2})^{-2}\\)</p><p>(b) Evaluate \\(\\log_{5} (\\frac{3}{5}) + 3 \\log_{5} (\\frac{5}{2}) - \\log_{5} (\\frac{81}{8})\\).</p>",
+        "answer": "<p>(a) \\((\\frac{4}{25})^{-\\frac{1}{2}} \\times 2^{4} \\div (\\frac{15}{2})^{-2}\\)</p><p>= \\((\\frac{25}{4})^{\\frac{1}{2}} \\times 2^{4} \\div (\\frac{2}{15})^{2}\\)</p><p>= \\(\\frac{5}{2} \\times 16 \\times \\frac{225}{4} = 2250\\)</p><p>(b) \\(\\log_{5} (\\frac{3}{5}) + 3\\log_{5} (\\frac{15}{2}) - \\log_{5} (\\frac{81}{8})\\)</p><p>= \\(\\log_{5} 3 - \\log_{5} 5 + 3\\log_{5} 15 - 3\\log_{5} 2 - \\log_{5} 81 + \\log_{5} 8\\)</p><p>= \\(\\log_{5} 3 - \\log_{5} 5 + 3\\log_{5} (3 \\times 5) - 3\\log_{5} 2 - \\log_{5} 3^{4} + \\log_{5} 2^{3}\\)</p><p>= \\(\\log_{5} 3 - \\log_{5} 5 + 3\\log_{5} 3 + 3\\log_{5} 5 - 3\\log_{5} 2 - 4\\log_{5} 3 + 3\\log_{5} 2\\)</p><p>= \\(2\\log_{5} 5 \\)</p><p>= \\(2\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1999,
+        "question": "<p>(a) If \\(\\varepsilon\\) is the set \\({1, 2, 3,..., 19, 20}\\) and A, B and C are subsets of \\(\\varepsilon\\) such that A = { multiples of five}, B = {multiples of four} and C = {multiples of three}, list the elements of (i) A ; (ii) B ; (iii) C ; </p><p>(b) Find : (i) \\(A \\cap B\\) ; (ii) \\(A \\cap C\\) ; (iii) \\(B \\cup C\\).</p><p>(c) Using your results in (b), show that \\((A \\cap B) \\cup (A \\cap C) = A \\cap (B \\cup C)\\).</p>",
+        "answer": "<p>(a)(i) A = {5, 10, 15, 20}</p><p>(ii) B = {4, 8, 12, 16, 20}</p><p>(iii) C = {3, 6, 9, 12, 15, 18}</p><p>(b) (i) \\(A \\cap B = {20}\\)</p><p>(ii) \\(A \\cap C = {15}\\)</p><p>(iii) \\(B \\cap C = {12}\\)</p><p>(c) \\((A \\cap B) \\cup (A \\cap C) = A \\cap (B \\cup C)\\)</p><p>\\((A \\cap B) \\cup (A \\cap C) = {15, 20}\\)</p><p>\\(A \\cap (B \\cup C) = {5, 10, 15, 20} \\cap {3, 4, 6, 8, 9, 12, 15, 16, 18, 20}\\)</p><p>= \\({15, 20}\\)</p><p>\\(\\therefore (A \\cap B) \\cup (A \\cap C) = A \\cap (B \\cup C)\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1999,
+        "question": "<p>ABC is a triangle, right-angled at C. P is the mid-point of AC, &lt; PBC = 37° and |BC| = 5 cm. Calculate : </p><p>(a) |AC|, correct to 3 significant figures ;</p><p>(b) &lt; PBA.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0333%20%283%29.jpg\" style=\"height:206px; width:250px\"></p><p>Let |PC| = x cm; Hence, |AC| = 2x cm</p><p>\\(\\tan 37° = \\frac{x}{5}\\)</p><p>\\(x = 5 \\tan 37 \\)</p><p>\\(x = 3.768 cm\\)</p><p>\\(\\therefore |AC| = 2 \\times 3.768\\)</p><p>= \\(7.536 cm\\)</p><p>\\(\\approxeq 7.54 cm\\) (3 sig. figs)</p><p>(b) From \\(\\Delta ABC\\), </p><p>\\(\\tan &lt; ABC = \\frac{7.536}{5} = 1.5072\\)</p><p>\\(&lt; ABC = \\tan^{-1} (1.5072) = 56.436°\\)</p><p>\\(\\therefore &lt; PBA = &lt; ABC - &lt; PBC\\)</p><p>= \\(56.436° - 37°\\)</p><p>= \\(19.436° \\approxeq 19.44°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1999,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%2811%29.jpg\" style=\"height:202px; width:250px\"></p><p>In the diagram, ABCD is a trapezium in which \\(AD \\parallel BC\\) and \\(&lt; ABC\\) is a right angle. If |AD| = 15 cm, |BD| = 17 cm and |BC| = 9 cm, calculate :</p><p>(a) |AB| ;</p><p>(b) the area of the triangle BCD ;</p><p>(c) |CD| ;</p><p>(d) perimeter of the trapezium.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0333%20%284%29.jpg\" style=\"height:165px; width:250px\"></p><p>(a) \\(|AB| = \\sqrt{|BD|^{2} - |AD|^{2}}\\)</p><p>= \\(\\sqrt{17^{2} - 15^{2}} = \\sqrt{289 - 225}\\)</p><p>= \\(\\sqrt{64} = 8 cm\\)</p><p>(b) Area of triangle BCD = \\(\\frac{1}{2} \\times 9 \\times 8 \\)</p><p>= \\(36 cm^{2}\\)</p><p>(c) \\(|EC| = 6 cm\\)</p><p>\\(|CD| = \\sqrt{8^{2} + 6^{2}} = \\sqrt{100}\\)</p><p>= 10 cm.</p><p>(d) Perimeter of the trapezium = 15 cm + 8 cm + 9 cm + 10 cm</p><p>= 42 cm.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1999,
+        "question": "<p>(a) Solve the simultaneous equations 3y - 2x = 21 ; 4y + 5x = 5.</p><p>(b) Six identical cards numbered 1 - 6 are placed face down. A card is to be picked at random. A person wins $60.00 if he picks the card numbered 6. If he picks any of the other cards, he loses $10.00 times the number on the card. Calculate the probability of (i) losing ; (ii) losing $20.00 after two picks.</p>",
+        "answer": "<p>(a) \\(3y - 2x = 21 ... (1)\\)</p><p>\\(4y + 5x = 5 .... (2)\\)</p><p>Multiply (1) by 4 and (2) by 3 so we have,</p><p>\\(12y - 8x = 84 ... (3)\\)</p><p>\\(12y + 15x = 15 ... (4)\\)</p><p>(3) - (4) : \\(-8x - 15x = 69 \\implies -23x = 69\\)</p><p>\\(x = \\frac{69}{-23} = -3\\)</p><p>Put x = -3 in (1),</p><p>\\(3y - 2(-3) = 21\\)</p><p>\\(3y + 6 = 21 \\implies 3y = 21 - 6 = 15\\)</p><p>\\(y = \\frac{15}{3} = 5\\)</p><p>\\(x, y = -3, 5\\).</p><p>(b)(i) Probability of losing</p><p>Probability of winning = \\(\\frac{1}{6}\\)</p><p>\\(\\therefore\\) Probability of losing = \\(1 - \\frac{1}{6} = \\frac{5}{6}\\).</p><p>(ii) Losing $20.00 after two picks = picking the card numbered 1 twice.</p><p>= \\(\\frac{1}{6} \\times \\frac{1}{6} = \\frac{1}{36}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1999,
+        "question": "<p>The table gives the frequency distribution of marks obtained by a group of students in a test.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>5</td>\n<td>x - 1</td>\n<td>x</td>\n<td>9</td>\n<td>4</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>If the mean is 5,</p><p>(a) Calculate the value of x;</p><p>(b) Find the : (i) mode ; (ii) median of the distribution.</p><p>(c) If one of the students is selected at random, find the probability that he scored at least 7 marks.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>5</td>\n<td>x - 1</td>\n<td>x</td>\n<td>9</td>\n<td>4</td>\n<td>1</td>\n</tr>\n<tr>\n<td>fx</td>\n<td>15</td>\n<td>4x - 4</td>\n<td>5x</td>\n<td>54</td>\n<td>28</td>\n<td>8</td>\n</tr>\n</tbody>\n</table><p>\\(\\sum fx = 15 + 4x - 4 + 5x + 54 + 28 + 8 = 101 + 9x\\)</p><p>\\(\\sum f = 5 + x - 1 + x + 9 + 4 + 1 = 18 + 2x\\)</p><p>\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)</p><p>\\(5 = \\frac{101 + 9x}{18 + 2x} \\implies 101 + 9x = 5(18 + 2x)\\)</p><p>\\(101 + 9x = 90 + 10x \\implies 101 - 90 = 10x - 9x\\)</p><p>\\(11 = x \\)</p><p>(b)(i) Mode = 5.</p><p>(ii) Median</p><p>Frequency = 18 + 2(11) = 40.</p><p>Median position = \\(\\frac{40}{2} = 20\\)</p><p>20th position = 5.</p><p>(c) No of students that scored at least 7 marks = 4 + 1 = 5.</p><p>Probability of scoring at least 7 marks = \\(\\frac{5}{40} = \\frac{1}{8}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1999,
+        "question": "<p>(a) A cylindrical pipe is 28 metres long. Its internal radius is 3.5 cm and external radius 5 cm. Calaulate : (i) the volume, in cm\\(^{3}\\), of metal used in making the pipe ;  (ii) the volume of water in litres that the pipe can hold when full, correct to 1 decimal place. [Take \\(\\pi = \\frac{22}{7}\\)]</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29%2810%29.jpg\" style=\"height:212px; width:250px\">  In the diagram, MP is a tangent to the circle LMN at M. If the chord LN is parallel to MP, show that the triangle LMN is isosceles.</p>",
+        "answer": "<p>(a)(i) Volume of outer pipe = \\(\\pi r^{2} h\\)</p><p>= \\(\\frac{22}{7} \\times (5.0)^{2} \\times 28 \\times 100\\)</p><p>Volume of inner pipe = \\(\\frac{22}{7} \\times (3.5)^{2} \\times 28 \\times 100\\)</p><p>Volume of metal used = Volume of outer pipe - Volume of inner pipe</p><p>= \\(22 \\times 400 \\times (5.0^{2} - 3.5^{2})\\)</p><p>= \\(22 \\times 400 \\times (5.0 - 3.5) \\times (5.0 + 3.5)\\)</p><p>= \\(112,200 cm^{3}\\)</p><p>(ii) Vol of water the pipe can hold = vol of inner pipe</p><p>= \\(\\frac{22}{7} \\times (3.5)^{2} \\times 28 \\times 100\\)</p><p>= \\(107,800 cm^{3}\\)</p><p>= 107.8 litres.</p><p>(b) &lt; PMN = &lt; LNM (alternate angles)</p><p>&lt; PMN = &lt; LMN (angles in alternate segment)</p><p>\\(\\therefore\\) &lt; LNM = &lt; NLM, then \\(\\Delta\\) LMN is isosceles.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1999,
+        "question": "<p>(a) Given that \\(\\sin(A + B) = \\sin A \\cos B + \\cos A \\sin B\\). Without using mathematical tables or calculator, evaluate \\(\\sin 105°\\), leaving your answer in the surd form.</p><p>(You may use 105° = 60° + 45°)</p><p>(b) The houses on one side of a particular street are assigned odd numbers, starting from 11. If the sum of the numbers is 551, how many houses are there?</p><p>(c) The 1st and 3rd terms of a Geometric Progression (G.P) are \\(2\\) and \\(\\frac{2}{9}\\) respectively. Find :</p><p>(i) the common difference ; (ii) the 5th term.</p>",
+        "answer": "<p>(a) \\(\\sin 105° = \\sin(60 + 45)\\)</p><p>= \\(\\sin 60° \\cos 45° + \\cos 60° \\sin 45°\\)</p><p>= \\(\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{2}}{2} + \\frac{1}{2} \\times \\frac{\\sqrt{2}}{2}\\)</p><p>= \\(\\frac{\\sqrt{6}}{4} + \\frac{\\sqrt{2}}{4}\\)</p><p>(b) a = 11, d = 2.</p><p>\\(S_{n} = \\frac{n}{2} (2a + (n - 1) d\\)</p><p>\\(551 = \\frac{n}{2} (2(11) + (n - 1) 2\\)</p><p>\\(551 = \\frac{n}{2} (22 + 2n - 2)\\)</p><p>\\(551 = \\frac{n}{2} (2n + 20)\\)</p><p>\\(1102 = 2n^{2} + 20n \\implies 2n^{2} + 20n - 1102 = 0\\)</p><p>Divide through by 2.</p><p>\\(n^{2} + 10n - 551 = 0\\)</p><p>\\(n^{2} - 19n + 29n - 551 = 0\\)</p><p>\\(n(n - 19) + 29(n - 19) = 0\\)</p><p>\\(\\text{n = 19 or -29}\\)</p><p>Since n cannot be negative, n = 19 houses.</p><p>(c)(i) \\(T_{n} = ar^{n - 1}\\) (terms of a G.P)</p><p>\\(a = 2\\)</p><p>\\(T_{3} = 2 \\times r^{3 - 1} = \\frac{2}{9}\\)</p><p>\\(r^{2} = \\frac{1}{9} \\implies r = \\frac{1}{3}\\)</p><p>(ii) \\(T_{5} = ar^{5 - 1}\\)</p><p>= \\(2 \\times (\\frac{1}{3})^{4}\\)</p><p>= \\(2 \\times \\frac{1}{81}\\)</p><p>= \\(\\frac{2}{81}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1999,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0333%20%282%29.jpg\" style=\"height:291px; width:250px\"></p><p>In the diagram, a ladder TF, 10 metres long is placed against a wall at an angle of 70° to the horizontal.</p><p>(a) How high up the wall, correct to the nearest metre, does the ladder reach?</p><p>(b) If the foot (F) of the ladder is pulled from the wall to F\\(^{1}\\) by 1 metre, (i) how far, correct to 2 significant figures, does the top T slide down the wall to T\\(^{1}\\).</p><p>(ii) Calculate, correct to the nearest degree, \\(QF^{1}T^{1}\\).</p>",
+        "answer": "<p>(a) \\(TQ = 10 \\sin 70° = 10 \\times 0.9397 = 9.397m\\)</p><p>\\(\\approxeq 9m\\)</p><p>(b)(i) \\(QF = 10 \\cos 70° = 10 \\times 0.3420 = 3.42m\\)</p><p>\\(QF^{1} = 3.42m + 1m = 4.42m\\)</p><p>\\(QT^{1} = \\sqrt{10^{2} - 4.42^{2}} = \\sqrt{100 - 19.5364}\\)</p><p>= \\(\\sqrt{80.4636} = 8.97m\\)</p><p>\\(TT^{1} = 9.397 - 8.97 = 0.43m\\)</p><p>(ii) \\(\\sin &lt; QF^{1}T^{1} = \\frac{8,97}{10} = 0.897\\)</p><p>\\(&lt; QF^{1} T^{1} = 63.768° \\approxeq 64°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1999,
+        "question": "<p>The cost of maintaining a school is partly constant and partly varies as the number of pupils. With 50 pupils, the cost is $15,705.00 and with 40 pupils, it is $13,305.00.</p><p>(a) Find the cost when there are 44 pupils.</p><p>(b) If the fee per pupil is $360.00, what is the least number of pupils for which the school can run without a loss?</p>",
+        "answer": "<p>Let P represent the cost ; n, the number of pupils and k and c, constant terms.</p><p>\\(\\therefore P = k + cn\\)</p><p>\\(15705 = k + 50c ... (1)\\)</p><p>\\(13305 = k + 40c .... (2)\\)</p><p>(1) - (2) :</p><p>\\(2400 = 10c \\implies c = \\frac{2400}{10} = 240\\)</p><p>Put c = 240 in (1), so that</p><p>\\(15705 = k + (50)(240)\\)</p><p>\\(15705 = k + 12000 \\implies k = 3705\\)</p><p>\\(P = 3705 + 240n\\) ------ formula connecting price and number of pupils.</p><p>(a) When number of pupils, n = 44</p><p>\\(P = 3705 + 240(44) = 3705 + 10560 = $14265\\)</p><p>(b) For school not to be at loss:</p><p>\\(360 \\geq k + cn\\)</p><p>\\(360n \\geq 3705 + 240n\\)</p><p>\\(360n - 240n \\geq 3705 \\implies 120n \\geq 3705\\)</p><p>\\(n \\geq \\frac{3705}{120}\\)</p><p>\\(n \\geq 30.875 \\)</p><p>\\(n \\geq 31\\)</p><p>The pupils should be 31 at least for the school not to run at loss.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1999,
+        "question": "<p>On a graph sheet, using a scale of 2cm to 2 units on both axes, </p><p>(a) Draw the straight line joining points P(-5, 3) and Q(2, 3);</p><p>(b) construct the locus L of points equidistant from P and Q;</p><p>(c) by construction, locate points R and S on L, such that PRQS forms a rhombus of sides 5cm;</p><p>(d) find : (i) coordinates of R and S; (ii) area of the rhombus in cm\\(^{2}\\).</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0334%20%282%29.jpg\" style=\"height:509px; width:400px\"></p><p>Coordinate of R and S : R(-1.6, 6.5) and S(-1.6, 0.6).</p><p>Area of rhombus PRQS : \\(\\frac{(5 + 2) \\times (6.5 + 0.6)}{2} = \\frac{49.7}{2}\\)</p><p>= \\(24.85 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1999,
+        "question": "<p>(a) A shop owner marked a shirt at a price to enable him to make a gain of 20%. During a special sales period, the shirt was sold at 10% reduction to a customer at N864.00. What was the original cost to the shop owner?</p><p>(b) A rectangular lawn of length (x + 5) metres is (x - 2) metres wide. If the diagonal is (x + 6) metres, find ;</p><p>(i) the value of x ; (ii) the area of lawn.</p>",
+        "answer": "<p>(a) Price with 20% gain = 100% = x</p><p>Selling price = 100% - 10% = 90%</p><p>i.e. 90% of x = 864</p><p>\\(\\therefore x = 864 \\times \\frac{100}{90} = N960\\)</p><p>Let cost price = y = 100%</p><p>x = 20% of y + y = 120% of y.</p><p>\\(y = \\frac{100}{120} x = \\frac{100}{120} \\times N960 = N800\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0334%20%283%29.jpg\" style=\"height:121px; width:250px\"></p><p>(i) \\((x + 6)^{2} = (x + 5)^{2} + (x - 2)^{2}\\)</p><p>\\(x^{2} + 12x + 36 = x^{2} + 10x + 25 + x^{2} - 4x + 4\\)</p><p>\\(x^{2} + 12x + 36 = 2x^{2} + 6x + 29\\)</p><p>\\(2x^{2} - x^{2} + 6x - 12x + 29 - 36 = 0\\)</p><p>\\(x^{2} - 6x - 7 = 0\\)</p><p>\\(x^{2} - 7x + x - 7 = 0 \\implies x(x - 7) + 1(x - 7) = 0\\)</p><p>\\((x - 7)(x + 1) = 0 \\implies \\text{x = 7 or -1}\\)</p><p>Since measurements cannot be negative, then x = 7 is the suitable answer.</p><p>(ii) Length of the lawn = (x + 5) metres = (7 + 5) = 12 metres.</p><p>Width of the lawn = (x - 2) metres = (7 - 2) = 5 metres</p><p>\\(\\therefore \\text{The area of the lawn} = 12 \\times 5 = 60 m^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1999,
+        "question": "<p>(a) Copy and complete the following table of values for \\(y = 9 \\cos x + 5 \\sin x\\) to one decimal place.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td>10.3</td>\n<td> </td>\n<td> </td>\n<td>-0.2</td>\n<td>-5.3</td>\n<td> </td>\n<td>-10.3</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2cm to 30° on the x- axis and 2 cm to 1 unit on the y- axis, draw the graph of \\(y = 9 \\cos x + 5 \\sin x\\) for \\(0° \\leq x \\leq 210°\\).</p><p>(c) Use your graph to solve the equation: (i) \\(9\\cos x + 5\\sin x = 0\\); (ii) \\(9\\cos x+ 5\\sin x = 3.5\\), correct to the nearest degree.</p><p>(d) Find the maximum value of y correct to one decimal place.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n</tr>\n<tr>\n<td>y</td>\n<td>9</td>\n<td>10.3</td>\n<td>8.8</td>\n<td>5</td>\n<td>-0.2</td>\n<td>-5.3</td>\n<td>-9</td>\n<td>-10.3</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0335%20%282%29.jpg\" style=\"height:518px; width:400px\"></p><p>(c)(i) From the graph, \\(9\\cos x + 5\\sin x = 0 \\implies x = 119°\\)</p><p>(d) Maximum value of y = 10.3.</p>",
+        "type": "theory"
+    }
+]

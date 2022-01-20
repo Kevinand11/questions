@@ -1,0 +1,802 @@
+[
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 1,
+        "year": 2015,
+        "question": "<p>Which of the following describes a trial balance?</p>",
+        "explanation": "<p>A <em>trial balance</em> is a bookkeeping or accounting report that lists the balances in each of an organization's general ledger accounts.</p>",
+        "correctIndex": 1,
+        "options": [
+            "It is a special account",
+            "It is a list of balances in the books",
+            "It reveals the financial position of a business",
+            "It shows all the entries in the books of a business"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 2,
+        "year": 2015,
+        "question": "<p>Which of the following is not a feature of accounting information?</p>",
+        "explanation": "<ul>\n<li><strong>Relevance</strong>: information makes a difference in decision making</li>\n<li><strong>Reliability</strong>: information is verifiable, factual, and neutral</li>\n<li><strong>Comparability</strong>: information can be used to compare different entities</li>\n<li><strong>Consistency</strong>: information is consistently presented from year to year</li>\n</ul>",
+        "correctIndex": 0,
+        "options": [
+            "Affordability",
+            "Timeliness",
+            "Accuracy",
+            "Completeness"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 3,
+        "year": 2015,
+        "question": "<p>Which of the following is the equation for determining net profit or loss from the records of a firm?</p>",
+        "explanation": "<p>Your net income or net loss equals your total revenues <strong>minus</strong> your total expenses for an accounting period. If your revenues are greater than expenses, you have net income. If revenues are less than expenses, you have a net loss. example</p><p>Net profit or loss = Revenue - total expenses</p>",
+        "correctIndex": 2,
+        "options": [
+            "Closing Capital - Drawings - Capital Introduced",
+            "Opening Capital + Drawings - Closing Capital",
+            "Closing Capital + Opening Capital - Drawings",
+            "Closing Capital + Drawings - Opening Capital"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 4,
+        "year": 2015,
+        "question": "<p>Purchase invoice is first entered in the</p>",
+        "explanation": "<p>Purchases account. The purchases account is a general ledger account in which is recorded the inventory purchases of a business. This account is used to calculate the amount of inventory available for sale in a periodic inventory system.</p><p><em>Purchase journal is used for recording goods bought on credit</em></p>",
+        "correctIndex": 0,
+        "options": [
+            "Purchases Account",
+            "Cash Book",
+            "Sales Journal",
+            "Purchases Journal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 5,
+        "year": 2015,
+        "question": "<p>Assets acquired is recorded by debiting _______?</p>",
+        "explanation": "<p>Debit the appropriate asset account in a journal entry in your records by the cost of the asset. Credit the cash account in the same journal entry by the amount of cash you used toward the purchase. If you paid all cash, this amount is the same as the asset's cost.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Asset Account, Crediting Cash Account",
+            "Cash Account, Crediting Asset Account",
+            "Purchase of Business Account, Crediting Sale of Business Account",
+            "Asset Account, Crediting Purchase of Business Account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 6,
+        "year": 2015,
+        "question": "<p>Goods returned to a supplier is</p>",
+        "explanation": "<p>When merchandise purchased for cash are <strong>returned to supplier</strong>, we need to record two <strong>journal entries</strong>. In first <strong>entry</strong> we debit accounts receivable account and credit purchases returns and allowances account (returns outwards would ve credited because goods are going out of the business). This <strong>entry</strong> is made to recognize the <strong>return </strong>of merchandise.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Debited to returns outward account",
+            "Credited to returns outwards account",
+            "Debited to returns inwards account",
+            "Credited to returns inwards account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 7,
+        "year": 2015,
+        "question": "<p>Which of the following is not a real account?</p>",
+        "explanation": "<p><strong><strong>Examples</strong> of <strong>real accounts</strong> are:</strong></p><ul>\n<li>Cash.</li>\n<li><strong>Accounts</strong> receivable.</li>\n<li>Fixed assets.</li>\n<li><strong>Accounts</strong> payable.</li>\n<li>Retained earnings.</li>\n</ul>",
+        "correctIndex": 1,
+        "options": [
+            "Plant account",
+            "Salaries account",
+            "Creditors account",
+            "Trading account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 8,
+        "year": 2015,
+        "question": "<p>The accounting ledger for goods sold on credit are debit</p>",
+        "explanation": "<p>Accounting and journal <strong>entry for credit sales</strong> include 2 accounts, debtor and <strong>sales</strong>. In case of a journal <strong>entry</strong> for cash <strong>sales</strong>, cash account and <strong>sales</strong> account are used. The person who owes the money is called a “debtor” and the amount owed is a current asset for the company. Since the goods were sold on credit, debtor acount will be debited (increase in the amount of money being owed to the business), and sales account will be credited.</p>",
+        "correctIndex": 0,
+        "options": [
+            "debtors account, credit sales account",
+            "creditors account, credit sales account",
+            "sales account, credit debtors account",
+            "sales account, credit creditors account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 9,
+        "year": 2015,
+        "question": "<p>Which of the following is not a book of original entry?</p>",
+        "explanation": "<p><strong>Books of original entry</strong> refers to the accounting journals in which business transactions are initially recorded. They include;</p><ol>\n<li>Sales journal</li>\n<li>purchase day book</li>\n<li>returns inwards</li>\n<li>returns outwards</li>\n<li>cash book</li>\n<li>general ledger</li>\n</ol>",
+        "correctIndex": 1,
+        "options": [
+            "Sales journal",
+            "Purchases account",
+            "Cash account",
+            "Return inwards journal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 10,
+        "year": 2015,
+        "question": "<p>What is a ledger entry for the sale of plant and machinery on credit to Wilson?</p>",
+        "explanation": "<p>The sales and receipts classes of transactions are the typical journal entries, that debit accounts receivable (debtors) and credit sales revenue, and debit cash and credit accounts receivable  in which the amount owed will be paid at a later date. </p>",
+        "correctIndex": 2,
+        "options": [
+            "Credit sales account and debit cash account",
+            "Credit plant and machinery account and debit Wilson's account",
+            "Credit sales account and debit Wilson's Account",
+            "Credit plant and machinery account and debit cash account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 11,
+        "year": 2015,
+        "question": "<p>Discount received account is a</p>",
+        "explanation": "<p>In <em>accounting</em>, <em>nominal accounts</em> are the general ledger <em>accounts</em> that are closed at the end of each <em>accounting</em> year. As a result, the <em>nominal accounts</em> are also referred to as temporary <em>accounts</em>. The closing process also means that each <em>nominal account</em> will start the next <em>accounting</em> year with a zero balance. <strong>Nominal Accounts</strong> are <strong>accounts</strong> related and associated to losses, expenses, income or gains.<strong>Examples</strong> include purchase <strong>account</strong>, sales <strong>account</strong>, salary A/C, commission A/C etc.</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "Real account",
+            "Personal account",
+            "Nominal account",
+            "Profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 12,
+        "year": 2015,
+        "question": "<p>Which of the following accounts has a credit balance?</p>",
+        "explanation": "<p>Normal <strong>balance is</strong> the side where the <strong>balance</strong> of the account <strong>is</strong> normally found. Asset accounts normally <strong>have</strong> debit <strong>balances</strong>, while liabilities and <strong>capital</strong> normally<strong>have credit balances</strong>. Income <strong>has</strong> a normal <strong>credit balance</strong> since it increases<strong>capital</strong> . </p>",
+        "correctIndex": 0,
+        "options": [
+            "Capital",
+            "Cash",
+            "Drawings",
+            "Premises"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 13,
+        "year": 2015,
+        "question": "<p>The accounting entry to correct sales day book overcast is?</p>",
+        "explanation": "<p>Remember an overcast is a situation where a customer pays an amount higher and above the real value for goods, due to an error in the total amount calculated in the invoice. The suplier is expected to send a credit note to the customer, noting an error in the invoice and  accepting to refund the excess amount to the customer. In the sales day book, the sales account will be debited (because a sale had occur) and a suspense account credited.</p><p><em>A suspense account is an account in the books of an organization in which items are entered temporarily before allocation to the correct or final account.</em></p>",
+        "correctIndex": 3,
+        "options": [
+            "Debit sales account and credit debtors account",
+            "Debit suspense account and credit sales account",
+            "Debit debtors account and credit suspense account",
+            "Debit sales account and credit suspense account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 14,
+        "year": 2015,
+        "question": "<p>Which of the following expresses the accounting equation?</p>",
+        "explanation": "<p>The net working <strong>capital formula</strong> is calculated by subtracting the current liabilities from the current assets. Here is what the basic equation looks like. Typical current assets that are included in the net working <strong>capital</strong> calculation are cash, accounts receivable, inventory, and short-term investments.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Capital + assets = liabilities",
+            "Assets - liabilities = Capital",
+            "Liabilities + Current Assets = Fixed assets",
+            "Liabilities - Capital = Current assets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 15,
+        "year": 2015,
+        "question": "<p>When the invoice of a customer is overcast, the supplier will send to him a</p>",
+        "explanation": "<p>Overcasting is when the estimated value turns out to be above the realized value.</p><p>A <strong>credit note</strong> is a letter sent by the supplier to the customer notifying the customer that he or she has been credited a certain amount due to an error in the original invoice or other reasons. A credit note is issued when a customer pays an amount above the real amount due to an error in the sales invoice that overstated the said amount to be paid.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Cheque",
+            "Payment voucher",
+            "Debit note",
+            "Credit note"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 16,
+        "year": 2015,
+        "question": "<p>Unpresented cheques are cheques_________</p>",
+        "explanation": "<p><strong>Unpresented cheques</strong> are <strong>cheques</strong> which have not yet cleared through the banking system. It is a term used in the preparation of a bank reconciliation statement. For example, if a business writes a <strong>cheque</strong>, it will post it to its cash book that day and then send it on to its supplier.</p>",
+        "correctIndex": 0,
+        "options": [
+            "That have been recorded in the cash book but not by the bank",
+            "That have been received by the bank, but not recorded in the cash book",
+            "Returned by the bank",
+            "Written but not handed over to customers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 17,
+        "year": 2015,
+        "question": "Use the following information to answer the questions below.<br>Extracts from the books of a firm as at June 30, 2012 showed the following balances.<br><br>\\(\\begin{array}{c|c}<br>&amp; \\text{Dr GH¢} &amp; \\text{Cr GH¢} \\\\<br>\\hline Advertising &amp; 36,000 &amp; - \\\\<br>\\hline<br>Electricity &amp; 60,000 &amp; -<br>\\end{array}\\)<br><br><b>Advertising was paid by cheque covering 12 months installments ending March 31 2012. Electricity was paid by cash covering 15 monthly installments from March 1, 2011.</b><br><br>Advertising owing in respect of the year ended June 30, 2012 is _______?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "GH¢ 12,000",
+            "GH¢ 9,000",
+            "GH¢ 6,000",
+            "GH¢ 3,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 18,
+        "year": 2015,
+        "question": "Use the following information to answer the questions below.<br>Extracts from the books of a firm as at June 30, 2012 showed the following balances.<br><br>\\(\\begin{array}{c|c}<br>&amp; \\text{Dr GH¢} &amp; \\text{Cr GH¢} \\\\<br>\\hline Advertising &amp; 36,000 &amp; - \\\\<br>\\hline<br>Electricity &amp; 60,000 &amp; -<br>\\end{array}\\)<br><br><b>Advertising was paid by cheque covering 12 months installments ending March 31 2012. Electricity was paid by cash covering 15 monthly installments from March 1, 2011.</b><br><br>What was the amount charged to the profit and loss account in respect of advertising for the ended June 30 2012 is_____?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "GH¢ 36,000",
+            "GH¢ 30,000",
+            "GH¢ 27,000",
+            "GH¢ 24,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 19,
+        "year": 2015,
+        "question": "Use the following information to answer the questions below.<br>Extracts from the books of a firm as at June 30, 2012 showed the following balances.<br><br>\\(\\begin{array}{c|c}<br>&amp; \\text{Dr GH¢} &amp; \\text{Cr GH¢} \\\\<br>\\hline Advertising &amp; 36,000 &amp; - \\\\<br>\\hline<br>Electricity &amp; 60,000 &amp; -<br>\\end{array}\\)<br><br><b>Advertising was paid by cheque covering 12 months installments ending March 31 2012. Electricity was paid by cash covering 15 monthly installments from March 1, 2011.</b><br><br>Electricity in arrears as at June 30, 2012 amounted to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "GH¢ 12,000",
+            "GH¢ 10,000",
+            "GH¢ 8,000",
+            "GH¢ 4,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 20,
+        "year": 2015,
+        "question": "<p>The cost of putting goods into a saleable condition is charged to</p>",
+        "explanation": "<p>Profit and loss account is an account in the books of an organization to which incomes and gains are credited and expenses and losses debited, so as to show the net profit or loss over a given period. It includes the cost of materials both direct and indirect that were used up in the production process to convert the product into a saleable and consumable goods.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Balance sheet",
+            "Trial balance",
+            "Profit and loss account",
+            "Trading account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 21,
+        "year": 2015,
+        "question": "<p>Which of the following is not a method of depreciating fixed assets?</p>",
+        "explanation": "<p>Depreciation methods</p><ol>\n<li>Straight-line</li>\n<li>Double declining balance</li>\n<li>Units of production</li>\n<li>Sum of years digits</li>\n<li>Revaluation</li>\n</ol>",
+        "correctIndex": 3,
+        "options": [
+            "Revaluation",
+            "Straight Line",
+            "Diminishing balance",
+            "Obsolescence"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 22,
+        "year": 2015,
+        "question": "<p>In preparing a profit and loss account, a decrease in provision for doubtful debts accounts is treated as</p>",
+        "explanation": "<p>The effects of provision for doubtful debts in financial statements may be summed up as follows:</p><p>(1) Income Statement: Only change (increase or decrease) in provision for doubtful is shown in the income statement. When there is an increase, then its considered an expense which will be (deducted from profit) and when it decreases, then it is an income and will be (added in profits).</p>",
+        "correctIndex": 2,
+        "options": [
+            "Current liability",
+            "Expenses",
+            "Income",
+            "Current asset"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 23,
+        "year": 2015,
+        "question": "<p>The process of using sales ledger balance to cancel off purchases ledger balance is</p>",
+        "explanation": "<p>A <strong>set</strong>-<strong>off</strong> clause is a legal clause that gives a lender the authority to seize a debtor's deposits when they default on a loan. A <strong>set</strong>-<strong>off</strong> clause can also refer to a settlement of mutual debt between a creditor and a debtor through offsetting transaction claims.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Balancing",
+            "Set off",
+            "Reconcilation",
+            "Cancelling"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 24,
+        "year": 2015,
+        "question": "<p>Which of the following items is found in the sales ledger control account?</p>",
+        "explanation": "<p>A <strong>discount allowed</strong> is when the seller of goods or services grants a payment <strong>discount</strong> to a buyer. Discount allowed has to do with purchases</p>",
+        "correctIndex": 2,
+        "options": [
+            "Discount received",
+            "Total credit purchases",
+            "Discount allowed",
+            "Returns outwards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 25,
+        "year": 2015,
+        "question": "<p>The total of the returns outwards journal is posted to the</p>",
+        "explanation": "<p>When merchandise (goods) purchased for cash are returned to supplier, we need to record two journal entries. In first entry we debit <strong>accounts receivable account</strong> and credit <strong>purchases returns and allowances account</strong>. This entry is made to recognize the return of merchandise. In second entry we debit <strong>cash account</strong> and <strong>credit accounts receivable account</strong>. This entry is made when a refund is received from supplier for merchandise returned to him.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Credit side of the returns outwards book",
+            "Debit side of the returns outwards account",
+            "Debit side of the purchases returns book",
+            "Credit side of the returns outwards account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 26,
+        "year": 2015,
+        "question": "<p>Which of the following is a not revealed by a firm's accounting records?</p>",
+        "explanation": "<p><strong>Accounting records</strong> include <strong>records</strong> of assets and liabilities, monetary transactions, ledgers, journals and any supporting <strong>documents</strong> such as checks and invoices. The firm quality of labour force isnt included in an acounting record.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Profit of a period",
+            "Quality of labour force",
+            "Credit worthiness",
+            "Value of assets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 27,
+        "year": 2015,
+        "question": "Use the following information to answer the question below<br><br>\\(\\begin{array}{c|c}<br>&amp; 1/7/10 &amp; 30/6/11 \\\\<br>&amp; D &amp; D \\\\<br>\\hline<br>\\text{Stock} &amp; 1,460 &amp; 4,200 \\\\<br>\\hline<br>\\text{Motor Car} &amp; 3,600 &amp; 3,200 \\\\<br>\\hline<br>\\text{Creditors} &amp; 600 &amp; 700<br>\\end{array}\\)<br>Drawings during the year amounted to D1,500.<br><br>Opening capital is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "D5,660",
+            "D5,060",
+            "D4,460",
+            "D2,960"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 28,
+        "year": 2015,
+        "question": "Use the following information to answer the question below<br><br>\\(\\begin{array}{c|c}<br>&amp; 1/7/10 &amp; 30/6/11 \\\\<br>&amp; D &amp; D \\\\<br>\\hline<br>\\text{Stock} &amp; 1,460 &amp; 4,200 \\\\<br>\\hline<br>\\text{Motor Car} &amp; 3,600 &amp; 3,200 \\\\<br>\\hline<br>\\text{Creditors} &amp; 600 &amp; 700<br>\\end{array}\\)<br>Drawings during the year amounted to D1,500.<br><br>Closing capital is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "D8,100",
+            "D7,400",
+            "D6,700",
+            "D5,200"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 29,
+        "year": 2015,
+        "question": "Use the following information to answer the question below<br><br>\\(\\begin{array}{c|c}<br>&amp; 1/7/10 &amp; 30/6/11 \\\\<br>&amp; D &amp; D \\\\<br>\\hline<br>\\text{Stock} &amp; 1,460 &amp; 4,200 \\\\<br>\\hline<br>\\text{Motor Car} &amp; 3,600 &amp; 3,200 \\\\<br>\\hline<br>\\text{Creditors} &amp; 600 &amp; 700<br>\\end{array}\\)<br>Drawings during the year amounted to D1,500.<br><br>Net profit for the year is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "D12,260",
+            "D3,740",
+            "D2,440",
+            "D2,040"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 30,
+        "year": 2015,
+        "question": "<p>In the balance sheet of a social club, subscription owing is treated as a</p>",
+        "explanation": "<p><strong>Outstanding Subscription </strong>(subscription owing)  It is that amount of <strong>Subscription </strong>which has been due from Previous year(s) and still remains unpaid. Therefore, It is deducted while ascertaining <strong>Subscription</strong> received during the Current Year and on the Other hand, it is shown on the Assets side of Opening Balance Sheet.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Current liability",
+            "Current asset",
+            "Tangible asset",
+            "Long term liability"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 31,
+        "year": 2015,
+        "question": "<p>The accounting concept that allows the cost of kitchen cutlery to be expensed , though it will be used for more than one year is</p>",
+        "explanation": "<p>In <strong>accounting</strong>, the concept of <strong>materiality</strong> allows you to violate another <strong>accounting </strong>principle if the amount is so small that the reader of the financial statements will not be misled. This means that, an accounting standard can be ignored if the net impact of doing so has such a small impact on the financial statements that a reader of the financial statements would not be misled.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Materiality",
+            "Accural",
+            "Going concern",
+            "Business Entity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 32,
+        "year": 2015,
+        "question": "<p>The accounting concept that assumes that a business will continue operating for an indefinite period is</p>",
+        "explanation": "<p>The <em>going concern concept</em> of accounting implies that the business entity will continue its operations in the future and will not liquidate or be forced to discontinue operations due to any reason.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Business entity",
+            "Going concern",
+            "Consistency",
+            "Duality"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 33,
+        "year": 2015,
+        "question": "<p>The accounting concept that states that a firm's financial affairs must be separated from that of the owner's private transactions is</p>",
+        "explanation": "<p>The <strong>business entity concept</strong> states that the transactions associated with a<strong>business</strong> must be separately recorded from those of its owners or other<strong>businesses</strong>. </p>",
+        "correctIndex": 0,
+        "options": [
+            "Business entity",
+            "Going concern",
+            "Consistency",
+            "Duality"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 34,
+        "year": 2015,
+        "question": "<p>Goodwill is recognized in partnership accounts when</p>",
+        "explanation": "<p>Goodwill is recorded in the books only when some consideration in money or money’s worth is paid for it. Thus, in the context of a partnership firm, the need for valuation of goodwill arises at the time of:</p><ol>\n<li>Change in the profit sharing ratio amongst the existing partners</li>\n<li>Admission of a new partner</li>\n<li>The retirement of a partner</li>\n<li>Death of a partner</li>\n<li>Dissolution of a firm where business is sold as going concern.</li>\n<li>Amalgamation of partnership firms</li>\n</ol>",
+        "correctIndex": 3,
+        "options": [
+            "The business makes a huge profit",
+            "The business has good customer relationship",
+            "A partner is dormant",
+            "A new partner is admitted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 35,
+        "year": 2015,
+        "question": "<p>In which of the following is not stated in the partnership agreement?</p>",
+        "explanation": "<p>Although each <strong>partnership agreement</strong> differs based on business objectives, certain terms should be detailed in the document, including percentage of ownership, division of profit and loss, length of the <strong>partnership</strong>, decision making and resolving disputes, <strong>partner</strong> authority, and withdrawal or death of a <strong>partner</strong>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Profit sharing ratio",
+            "Interest on capital",
+            "Interest on fixed asset",
+            "Purpose of partnership"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 36,
+        "year": 2015,
+        "question": "<p>In which of the following accounts is interest on partners capital found?</p>",
+        "explanation": "<p>The main intention of preparing a <strong>profit and loss appropriation</strong> account is to show the distribution of <strong>profits</strong> among the partners. It is debited with interest on capital and remuneration to partners and credited with the net <strong>profits</strong> b/d from the <strong>profit and loss</strong> account and interest on drawings.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Profit and Loss",
+            "Trading",
+            "Income surplus",
+            "Profit and Loss appropriation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 37,
+        "year": 2015,
+        "question": "Use the following information to answer the question below<br><br>\\(\\begin{array}{c|c}<br>&amp; Ade(N) &amp; Bola(N) \\\\<br>\\hline<br>Capital &amp; 40,000 &amp; 30,000 \\\\<br>\\hline<br>Drawings &amp; 10,000 &amp; 15,000<br>\\end{array}\\)<br>Interest on drawing is 5%; profit is shared equally.<br><br>Ade's share of profit is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N5,500",
+            "N4,250",
+            "N2,750",
+            "N1,250"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 38,
+        "year": 2015,
+        "question": "Use the following information to answer the question below<br><br>\\(\\begin{array}{c|c}<br>&amp; Ade(N) &amp; Bola(N) \\\\<br>\\hline<br>Capital &amp; 40,000 &amp; 30,000 \\\\<br>\\hline<br>Drawings &amp; 10,000 &amp; 15,000<br>\\end{array}\\)<br>Interest on drawing is 5%; profit is shared equally.<br><br>Bola's share of profit is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N4,500",
+            "N4,250",
+            "N3,000",
+            "N2,750"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 39,
+        "year": 2015,
+        "question": "<p>Use the following information to answer the question below<br>\n<br>\n<strong>Mr White acquired Mr Black's business for GH¢ 410,000. The total assets were GH¢ 670,000 and liabilities amounted to GH¢ 320,000</strong>.<br>\n<br>\nHow much was paid for goodwill?</p>",
+        "explanation": "<p>Assets 670,000 - liabilities 320,000 = 350,000 (business value after liabilities claims)</p><p>Purchase price 410,000 - 350,000 business value =  60,000 goodwill</p>",
+        "correctIndex": 3,
+        "options": [
+            "GH¢ 350,000",
+            "GH¢ 260,000",
+            "GH¢ 90,000",
+            "GH¢ 60,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 40,
+        "year": 2015,
+        "question": "<p>Use the following information to answer the question below<br>\n<br>\n<strong>Mr White acquired Mr Black's business for GH¢ 410,000. The total assets were GH¢ 670,000 and liabilities amounted to GH¢ 320,000</strong>.<br>\n<br>\nThe double entry to record the good will in the books is debit</p>",
+        "explanation": "<p>Goodwill is the established reputation of a business regarded as a quantifiable asset and calculated as part of its value when it is sold. In order to <strong>calculate goodwill</strong>, the fair market value of identifiable assets and liabilities of the company acquired is deducted from the purchase price. </p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "Cash account and credit goodwill account",
+            "Goodwill account and credit purchase of business account",
+            "Goodwill account and credit cash account",
+            "Purchase of business account and credit cash account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 41,
+        "year": 2015,
+        "question": "<p>The document which sets out the internal arrangement for the proper management of a company is the</p>",
+        "explanation": "<p><strong>Articles of association are</strong> a document that specifies the regulations for a company's operations and defines the company's purpose. The document lays out how tasks <strong>are</strong> to be accomplished within the organization, including the process for appointing directors and the handling of financial records. it outlines the internal regulations of the company.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Prospectus",
+            "Article of association",
+            "Memorandum of association",
+            "Certificate of incorporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 42,
+        "year": 2015,
+        "question": "<p>A person who has applied to purchase shares in a company is referred to as ?</p>",
+        "explanation": "<p>companies issue their shares for subc=scription either publicly or by private placement. People who apply to subscribe (buy) the shares are subscribers.</p>",
+        "correctIndex": 1,
+        "options": [
+            "A promoter",
+            "A subscriber",
+            "An allottee",
+            "An underwriter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 43,
+        "year": 2015,
+        "question": "Which of the following expenses is allocated according to the floor area?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Wages and Salaries",
+            "Rent and Rates",
+            "Canteen Expenses",
+            "Discount allowed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 44,
+        "year": 2015,
+        "question": "<p>Goods stolen at the branch is debited to</p>",
+        "explanation": "<p>Defalcation predominantly refers to the theft, misuse or misappropriation of money or funds held by an official trustee, or other senior-level fiduciary. In this regard a defalcation account will be opened to record the stolen goods.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Defalcations account",
+            "Branch stock account",
+            "Branch adjustment account",
+            "Branch debtors account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 45,
+        "year": 2015,
+        "question": "<p>Which of the following is a source of revenue for a local government?</p>",
+        "explanation": "<p> <strong>Local revenue</strong> comes from property, sales, and other taxes; dues, fines, charges and fees; and transfers from federal and state <strong>governments</strong>. </p>",
+        "correctIndex": 3,
+        "options": [
+            "Personal income tax",
+            "Company registration fees",
+            "Royalties",
+            "Market tolls"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 46,
+        "year": 2015,
+        "question": "<p>The instrument used to release fund which the minister of finance has earlier withheld is</p>",
+        "explanation": "<p> Supplementary general warrant: This is the authority authorizing the account General and the officer controlling expenditure to release fund as contained in the approved supplementary budget.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Reserve expenditure warrant",
+            "Supplementary general warrant",
+            "Provisional general warrant",
+            "Supplementary statutory warrant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 47,
+        "year": 2015,
+        "question": "<p>Which of the following relates to cash basis of accounting?</p>",
+        "explanation": "<p>The cash basis is a method of recording accounting transactions for revenue and expenses only when the corresponding cash is received or payments are made. Thus, you record revenue only when a customer pays for a billed product or service, and you record a payable only when it is paid by the company.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Accruals and prepayments are considered",
+            "Debtors and creditors are recorded",
+            "Fixed assets are written off in the year of purchase",
+            "Profits are maximized"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 48,
+        "year": 2015,
+        "question": "<p>Which of the following is found on the credit side of a partnership's appropriation of profit account?</p>",
+        "explanation": "<p><em>Interest on drawings</em> is an expense to the partner, and hence it is credited to the <em>profit</em> and loss <em>appropriation account</em>. </p>",
+        "correctIndex": 1,
+        "options": [
+            "Interest on capital",
+            "Interest on drawings",
+            "Share of profit",
+            "Drawings"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 49,
+        "year": 2015,
+        "question": "<p>Which of the following is a spreadsheet application?</p>",
+        "explanation": "<p>A spreadsheet is a sheet of paper that shows accounting or other data in rows and columns; a spreadsheet is also a computer application program that simulates a physical spreadsheet by capturing, displaying, and manipulating data arranged in rows and columns. Excel is an example of a spread sheet application</p>",
+        "correctIndex": 0,
+        "options": [
+            "Excel",
+            "Word",
+            "Internet",
+            "Windows"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "waec",
+        "order": 50,
+        "year": 2015,
+        "question": "<p>The quality of output information depends on the</p>",
+        "explanation": "<p>The <em>output is</em> an instant reaction to the input. The value derived from output depends on the quality of input and your process for converting raw ideas and feedback into effective solutions.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Quality of input data",
+            "Time of processing",
+            "Speed of processing",
+            "Quantity of output service"
+        ],
+        "type": "objectives"
+    }
+]

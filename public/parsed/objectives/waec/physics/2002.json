@@ -1,0 +1,770 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2002,
+        "question": "The force between the molecules of a liquid in contact with that of a solid is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "adhesive",
+            "cohesive",
+            "magnetic",
+            "repulsive"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2002,
+        "question": "A reservoir is filled with a liquid of density 2000kgm<sup>-3</sup>. Calculate the depth at which the pressure in the liquid will equal to 9100Nm<sup>-2</sup>[g = 10ms<sup>-2</sup>]",
+        "explanation": "h = \\(\\frac{p}{eg} = \\frac{9100}{2000 \\times 10} = 0.455m\\)",
+        "correctIndex": 1,
+        "options": [
+            "0.262m",
+            "0.455m",
+            "0.664m",
+            "0.819m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2002,
+        "question": "A solid weight 45N and 15N respectively in air and water. Determine the relative density of the solid",
+        "explanation": "R.d = \\(\\frac{\\text{weight in air}}{\\text{apparent loss of weight in water}} = \\frac{45}{45 - 15}\\)<br><br>= \\(\\frac{45}{30} = 1.50\\)",
+        "correctIndex": 2,
+        "options": [
+            "0.33",
+            "0.50",
+            "1.50",
+            "3.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2002,
+        "question": "One common characteristics of solids, liquids and gasses is that",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "all the three has fixed volume",
+            "their molecule have the same size",
+            "their molecules are always in motion",
+            "all the three have the same inter molecular forces"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2002,
+        "question": "A boy travels 8 km eastward to a point B and then 6km northward to another point C. Determine the difference between the magnitude of displacement of the boy and distance travelled by him",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/17156410788_maths-4.jpg\" class=\"img-fluid\">\n</div>AC = \\(\\sqrt{8^2 + 6^2}\\) = 10km<br><br>Distance travelled = 8 + 6 = 14km<br><br>Difference = 4 - 10 = 4km",
+        "correctIndex": 1,
+        "options": [
+            "2.0km",
+            "4.0km",
+            "10.0km",
+            "13.0km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2002,
+        "question": "The magnitude of the force required to make an object of mass, m move with speed, v in a circular of radius r is given by the expression",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{mr}{v}\\)",
+            "\\(\\frac{mr^2}{v}\\)",
+            "\\(\\frac{mv^2}{r}\\)",
+            "\\(\\frac{mv}{r^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2002,
+        "question": "A man was moving round a circular path continuously for 4 minutes and covered the following distances in the times stated :<br>Distance (in metres) 200, 400, 600, 300<br>Time(in minutes) : 1, 2, 3, 4 respectively. Which of the following statements is correct about the motion of the man?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the man was moving without uniform velocity",
+            "the speed was changing constantly",
+            "the velocity was uniform",
+            "it was an instance of motion in which both speed and velocity are the same"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2002,
+        "question": "A car takes off from rest and covers a distance of 80m on a straight road in 10s. Calculate the magnitude of its acceleration",
+        "explanation": "s = \\(ut + \\frac{1}{2}at^2\\)<br><br>80 = 0 x 10 + \\(\\frac{1}{2}\\) x a x 10<sup>2</sup><br><br>a = \\(\\frac{80}{50} = 1.6ms^2\\)",
+        "correctIndex": 1,
+        "options": [
+            "1.25ms<sup>-2</sup>",
+            "1.60ms<sup>-2</sup>",
+            "4.00ms<sup>-2</sup>",
+            "8.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2002,
+        "question": "An object is released from rest at a height of 25m. Calculate the time it takes to fall to the ground. [g = 10ms<sup>-2</sup>]",
+        "explanation": "t = \\(\\sqrt{\\frac{2s}{g}} = \\sqrt{\\frac{2 \\times 25}{10}} = 2.24\\)",
+        "correctIndex": 3,
+        "options": [
+            "25.00s",
+            "10.00s",
+            "2.50s",
+            "2.24s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2002,
+        "question": "An object is acted upon by a system of parallel forces causing the object to be in static equilibrium. Which of the following statements is not correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The resultant of the parallel force is zero",
+            "the algebraic sum of the moment of the forces is zero",
+            "all the parallel forces must be equal in magnitude and in direction",
+            "the sum of the forces in one direction must be equal to the sum of forces in the opposite direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10007938521_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": "W = \\(\\sqrt{15^2 + 8^2}\\) = 17N",
+        "correctIndex": 1,
+        "options": [
+            "23N",
+            "17N",
+            "7N",
+            "5N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2002,
+        "question": "A spiral spring of natural length 30.0cm and force constant of 20Nm<sup>-1</sup>is compressed to 20.0cm. Calculate the energy stored in the spring",
+        "explanation": "Energy = \\(\\frac{1}{2} ke^2 = \\frac{1}{2} \\times 20 \\times 0.1^2\\)<br><br>= 0.1J",
+        "correctIndex": 0,
+        "options": [
+            "0.1J",
+            "1.0J",
+            "10.0J",
+            "100.0J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15726810946_maths-14.jpg\" class=\"img-fluid\">",
+        "explanation": "m = \\(\\frac{0.7 \\times 40}{35} = 0.8kg\\)",
+        "correctIndex": 3,
+        "options": [
+            "0.280kg",
+            "0.400kg",
+            "0.613kg",
+            "0.800kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2002,
+        "question": "<p>Which of the following statements correctly defines quantitatively the work done by a force? the product of the force and the distance moved</p>",
+        "explanation": "<p>The quantity of work done (or energy converted) by a force, when the force moves, depends on two obvious factors:<br>\n- the distance moved (in the direction along which the force acts) and<br>\n- the magnitude (strength) of the force</p>",
+        "correctIndex": 0,
+        "options": [
+            "parallel to the line of action of the force from a reference point",
+            "perpendicular to the line of action of the force from a reference point",
+            "on a line through the reference point",
+            "by the object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2002,
+        "question": "a load of mass120kg is raised vertically through a height of 2m in 30s by a machine whose efficiency is 100%. Calculate the power generated by the machine. [g = 10ms<sup>-2</sup>]",
+        "explanation": "p = \\(\\frac{mgh}{t} = \\frac{120 \\times 10 \\times 2}{30} = 80W\\)",
+        "correctIndex": 1,
+        "options": [
+            "60W",
+            "80W",
+            "100W",
+            "120W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2002,
+        "question": "A block and tackle system has 6 pulleys. If the efficiency of the machine is 60%, determine its mechanical advantages",
+        "explanation": "M.A = \\(\\frac{Z \\times V.R}{100} = \\frac{60 \\times 5}{100} = 3.6\\)",
+        "correctIndex": 2,
+        "options": [
+            "12.0",
+            "10.0",
+            "3.6",
+            "1.8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2002,
+        "question": "Which of the following actions will improve the efficiency of the pulley system?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "reducing the mass of the pulley",
+            "increasing the friction force between the string and the pulley",
+            "increasing the mass per unit length of the string of the pulley",
+            "increasing the mass of the pulley"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2002,
+        "question": "The ice and steam points of a certain thermometer are -20<sup>o</sup>and 100<sup>o</sup>respectively. Calculate the Celsius temperature temperature corresponding to 70<sup>o</sup>on the thermometer",
+        "explanation": "\\(\\frac{70 - 20}{100 - 20} = \\frac{\\theta - 0}{100 - 0}\\)<br><br>\\(\\theta = \\frac{90 \\times 100}{120} = 75^oC\\)",
+        "correctIndex": 1,
+        "options": [
+            "84.0<sup>o</sup>",
+            "75.0<sup>o</sup>",
+            "64.0<sup>o</sup>",
+            "58.0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2002,
+        "question": "The silver coating on the inside of a vacuum flask reduces heat loss by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "conduction",
+            "radiation",
+            "condensation",
+            "convention"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2002,
+        "question": "<p>Water of mass 120g at 50oC is added to 200g of water at 10oC and the mixture is well stirred. Calculate the temperature of the mixture. [Neglect heat losses to the surrounding]</p>",
+        "explanation": "<p>120 x 4.2(50 - \\(\\theta\\)) = 200 x 4.2(\\(\\theta\\) - 10)<br>\n<br>\n\\(\\theta = \\frac{33600}{1344} = 25^oC\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "60<sup>o</sup>C",
+            "40<sup>o</sup>C",
+            "25<sup>o</sup>C",
+            "10<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2002,
+        "question": "Calculate the energy required to vapourise 50g of water initially at 80<sup>o</sup>C.[specific heat capacity of water = 2260Jg<sup>-1</sup>K<sup>-1</sup>][specific latent heat of vaporisation of water = 2260Jg<sup>-1</sup>]",
+        "explanation": "mc\\(\\theta\\) + ML = 50 x 4.2 x 20 + 50 x 2260<br><br>= 117,200J",
+        "correctIndex": 1,
+        "options": [
+            "113,000J",
+            "117,200J",
+            "234,400J",
+            "420,000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2002,
+        "question": "What type of motion does the skin of a 'talking' drum perform when it is struck with a drum stick?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Random",
+            "Rational",
+            "Translational",
+            "vibratory"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2002,
+        "question": "A slinky spring fixed at one end is placed horizontally on a table. The free end is displaced parallel to the table and then released. The resultimg wavelength is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "transverse",
+            "longitudinal",
+            "stationary",
+            "electromagnetic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2002,
+        "question": "<p>A radio wave has a wavelength of 150m. If the velocity of radio waves is free spaces is 3 x 10\\(^8\\) ms\\(^{-1}\\), calculate the frequency of the radio wave</p>",
+        "explanation": "<p>f = \\(\\frac{V}{\\lambda} = \\frac{3 \\times 10^8}{150}\\)<br>\n<br>\n= 2.0 x 10\\(^6\\) Hz</p>",
+        "correctIndex": 3,
+        "options": [
+            "4.50 x 10<sup>10</sup>Hz",
+            "5.0 x 10<sup>9</sup>Hz",
+            "4.5 x 10<sup>9</sup>Hz",
+            "2.0 x 10<sup>6</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2002,
+        "question": "In the wave equation y = E<sub>o</sub>, sin(299t - \\(\\pi\\)), E<sub>o</sub>represents the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "amplitude",
+            "frequency",
+            "period",
+            "wavelength"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2002,
+        "question": "The size of the hole of a pin hole camera is increased. The resultant image formed becomes",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "sharper",
+            "reduced in size",
+            "enlarged",
+            "blurred"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2002,
+        "question": "The refractive index of a medium relative to air is 1.8. Calculate to the nearest degree, the critical angle for the medium",
+        "explanation": "c = \\(\\sin^{-1} \\frac{1}{n} = \\sin^{-1} \\frac{1}{1.8} = 34^o\\)",
+        "correctIndex": 2,
+        "options": [
+            "68<sup>o</sup>",
+            "56<sup>o</sup>",
+            "34<sup>o</sup>",
+            "18<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2002,
+        "question": "A converging lens of focal length 15cm forms a virtual image at a point 10cm from the lens. Calculate the distance of the object from the lens",
+        "explanation": "\\(\\frac{1}{u} + \\frac{1}{v} = \\frac{1}{f} = \\frac{1}{15} + \\frac{1}{10}\\)<br><br>u = 6.00",
+        "correctIndex": 1,
+        "options": [
+            "10.00cm",
+            "6.00cm",
+            "5.00cm",
+            "1.50cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2002,
+        "question": "In a compound microscope, the image formed by the objective lens is at a distance of 3.0cm from the eye lens. Calculate the focal length of the eye lens",
+        "explanation": "\\(\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v} = \\frac{1}{3} - \\frac{1}{25} = \\frac{22}{75}\\)<br><br>f = 3.4cm",
+        "correctIndex": 2,
+        "options": [
+            "0.3cm",
+            "2.7cm",
+            "3.4cm",
+            "8.3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2002,
+        "question": "A pulse of a sound is transmitted from a ship and the reflection from the sea bed is recorded after 0.2s. Calculate the depth of the sea. [Take speed of sound in sea water = 1560ms<sup>-1</sup>]",
+        "explanation": "x = \\(\\frac{vt}{2} = \\frac{1560 \\times 0.2}{2} = 156m\\)",
+        "correctIndex": 1,
+        "options": [
+            "312.0m",
+            "156.0m",
+            "78.0m",
+            "31.2m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2002,
+        "question": "When two notes of nearly equal frequencies are sounded together, a periodic rise and fall in sound intensity can be heard. This phenomenon can be called",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "beats",
+            "diffraction",
+            "overtones",
+            "resonance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2002,
+        "question": "Which of the following instruments is not a wind instrument?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "clarinet",
+            "saxophone",
+            "trumpet",
+            "xylophone"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2002,
+        "question": "Which of the following actions will not cause an increase in the frequency of a vibrating string?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "increasing the tension of the string",
+            "decrease the mass per unit lengthof the string",
+            "decrease the length of the string",
+            "increasing the cross sectional area of the string"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2002,
+        "question": "Which of the following items can be used to compare the relative magnitudes of electric charges on two bodies?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "ebonite rod",
+            "gold leaf electroscope",
+            "proof plane",
+            "the electrophorus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2002,
+        "question": "Three capacitors each of capacitance 18\\(\\mu F\\) are connected in series. Calculate the effective capacitance of the capacitors",
+        "explanation": "\\(\\frac{1}{c} = \\frac{1}{18} + \\frac{1}{18} + \\frac{1}{18} = \\frac{3}{18}\\)<br><br>c = 6\\(\\mu F\\)",
+        "correctIndex": 2,
+        "options": [
+            "54.00\\(\\mu F\\)",
+            "18.00\\(\\mu F\\)",
+            "6.00\\(\\mu F\\)",
+            "0.17\\(\\mu F\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2002,
+        "question": "Two spheres of masses 100kg and 90kg respectively have their centres separated by a distance of 1.0m. Calculate the magnitude of the force of attraction between them. [G = 6.70 x 10<sup>-11</sup>Nm<sup>-2</sup>kg<sup>-2</sup>]",
+        "explanation": "F = \\(\\frac{Gm_1m_2}{r^2} = 6.7 \\times 10^{11} \\times \\frac{100 \\times 90}{1^2} = 6.03 \\times 10^{-7}N\\)",
+        "correctIndex": 3,
+        "options": [
+            "6.70 x 10<sup>-11</sup>N",
+            "6.70 x 10<sup>-10</sup>N",
+            "6.03 x 10<sup>-11</sup>N",
+            "6.03 x 10<sup>-7</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2002,
+        "question": "The magnitude of the gravitational attraction between the earth and a particle is 40N. If the mass of the particle is 4kg. Calculate the magnitude of the gravitational field intensity of the earth on the particle",
+        "explanation": "g = \\(\\frac{f}{m} = \\frac{40}{4} = 10N kg^{-1}\\)",
+        "correctIndex": 0,
+        "options": [
+            "10.0N kg<sup>-1</sup>",
+            "12.6N kg<sup>-1</sup>",
+            "25.0N kg<sup>-1</sup>",
+            "160.0N kg<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2002,
+        "question": "Local actions is normally prevented in a simple electric cell by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "introducing an oxidizing agent in the acid",
+            "not drawing current continously for long period",
+            "amalgamating the surface of the zinc plate",
+            "using a porous pot to isolate the zinc plate from the acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2002,
+        "question": "The lead-acid accumulator consists of a",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "lead as the positive electrode",
+            "lead ocide as the negative electrode",
+            "hydrochloric acid as the electrolyte",
+            "tetraoxosulphate(VI) acid as the electrolyte"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2002,
+        "question": "Which of the following actions will not lead to an increase in the induced e.m.f. in a coil of wire rotating between the poles of a magnet? Increasing the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "strength of the magnet",
+            "number of turns in the coil",
+            "speed of location in the coil",
+            "gap between the poles of the magnet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2002,
+        "question": "A transformer has 400 turns and 200 turns in the primary and secondary windings respectively. If the current in the primary and secondary windings are 3A and 5A respectively. calculate the efficiency of the transformer?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "85.0%",
+            "83.3%",
+            "37.5%",
+            "30.0%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2002,
+        "question": "A freely-suspended magnet swinging in a horizontal plane comes to rest with its axis pointing approximately",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "north-south",
+            "south-west",
+            "north-east",
+            "south-east"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12868170948_maths-44.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>XL = \\(\\frac{V}{I} = \\frac{240}{2} = 120\\Omega\\)<br>\n<br>\nL = \\(\\frac{X_L}{2 \\pi f}\\)<br>\n<br>\n= \\(\\frac{120 \\times \\pi}{2 \\times \\pi \\times 100}\\)<br>\n<br>\n= 0.6H</p>",
+        "correctIndex": 1,
+        "options": [
+            "3.8H",
+            "0.6H",
+            "0.4H",
+            "0.2H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2002,
+        "question": "In a model of the hydrogen atom, the energy levels W<sub>n</sub>are given by the formula W<sub>n</sub>= -\\(\\frac{R}{n^2}\\), where n is an integer and R is a constant. Determine the energy released in the transition from n = 3 to n = 2.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{R}{5}\\)",
+            "-\\(\\frac{R}{4}\\)",
+            "\\(\\frac{5R}{36}\\)",
+            "\\(\\frac{-5R}{36}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2002,
+        "question": "If a radioactive atom emits a beta particle, Its mass number",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increases by one",
+            "remains the same",
+            "decreases by one",
+            "increases by two"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2002,
+        "question": "Which of the following is usually used to cause fission in an atomic reactor?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Alpha particles",
+            "beta particles",
+            "electrons",
+            "Neutrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2002,
+        "question": "Which of the following materials is used to control the rate of neutron production in a nuclear reactor?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "boron rods",
+            "concrete shield",
+            "graphite rods",
+            "uranium rods"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2002,
+        "question": "A nuclide X is produced by bombarding a nitrogen(N) nucleus with an alpha(\\alpha\\) particle with the release of heavy hydrogen(D) nucleus as shown by the following nuclear equation, \\(\\alpha + ^{14}_{7}N \\to ^p_qX + ^2_1D\\). Determine the values of p and q in the equation",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "12 and 6",
+            "14 and 7",
+            "16 and 8",
+            "19 and 8"
+        ],
+        "type": "objectives"
+    }
+]

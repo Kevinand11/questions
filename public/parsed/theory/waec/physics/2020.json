@@ -1,0 +1,110 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2020,
+        "question": "<p>An elastic material of length 3m is to be stretched to reduce an extension three times its original length. Calculate the force required to produce the extension</p>",
+        "answer": "<p>Calculation of the force needed to produce extension of material<br>\nF = Ke<br>\n= 988.3 x 3 x 3<br>\n= 8840.74N</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2020,
+        "question": "<p>In a solar panel for heat supply, state the function of each of the following parts: (a) metal flat plate; (b) thermal insulator: (c) tubes.</p>",
+        "answer": "<p>(a) Function of metal flat plate of solar panel<br>\n- Receives and absorbs solar radiation to produce heat</p><p>(b) Function of internal insulator of solar panel</p><p>- Minimises heat loss</p><p>(c) Function of tubes of solar panel<br>\n- Helps to circulate the heat </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2020,
+        "question": "<p>(a) In the design of an optical fibre, what type of material is most suitable for the design of the core?</p><p>(b) State one condition necessary to confine signals to the core of an optical fibre.<br>\n </p>",
+        "answer": "<p>(a) Type of material most suitable for the design of the core of an optical fibre</p><p>-  Glass/plasties</p><p>(b) Condition necessary confine signal to the core of an optical fibre</p><p>- The refractive index of the core must be greater than that of the cladding,</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2020,
+        "question": "<p>The velocity v, of a wave in a stretched string, depends on the tension T, in the spring and the mass per unit length of the spring. Obtain an expression for v in terms of T and u, using the method of dimensions.</p>",
+        "answer": "<p>Expression for v</p><p>c = kT\\(^a\\)U\\(^b\\), k is dimensionless</p><p>[v] = k[T]\\(^a\\)[\\(\\mu\\)]\\(^b\\)</p><p>Lt\\(^{-1}\\) = kM\\(^{a \\div b}\\) L\\(^{a + b}\\) T\\(^{-2a}\\)</p><p>For T, -1 = 2a</p><p>a = \\(\\frac{1}{2}\\) </p><p>For M, </p><p>0 = a + b </p><p>b = -a</p><p>= \\(\\frac{1}{2}\\)</p><p>v = KT\\(^{\\frac{1}{2}}\\)\\(\\mu^{- \\frac{1}{2}}\\)</p><p>OR </p><p>v = k\\(\\sqrt{\\frac{T}{\\mu}}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2020,
+        "question": "<p>A satellite launched with velocity V\\(_E\\) just escapes the earth's gravitational attraction. Given that the radius of the earth is R, show that V\\(_E\\) = \\(\\sqrt{20R}\\) [g = 10ms\\(^{-2}\\)</p><p> </p>",
+        "answer": "<p>To show that V\\(_E\\) = \\(\\sqrt{20R}\\)</p><p>KE = Gravitational Potential Energy</p><p>\\(\\frac{1}{2}\\)MV\\(_E^2\\) = \\(\\frac{GmM}{R}\\)</p><p>V\\(_E^2\\) = \\(\\frac{2GM}{R}\\)</p><p>but GM = gR\\(^2\\)</p><p>V\\(_E^2\\) = \\(\\frac{2gR^2}{R}\\) = 2gR</p><p>V\\(_E^2\\) = \\(\\sqrt{2 \\times 10 \\times R}\\)</p><p>= \\(\\sqrt{20R}\\) </p><p>OR</p><p> </p><p>P.E = K.E </p><p>mgR = \\(\\frac{1}{2}\\)mv\\(^2\\)</p><p>v\\(^2\\) = 2gR</p><p>v = \\(\\sqrt{2gR}\\)</p><p>= \\(\\sqrt{20R}\\) </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2020,
+        "question": "<p>A bullet is fired from a gun at 30\\(^o\\) to the horizontal. The bullet remains in flight for 25s before touching the ground. Calculating the velocity of projection. [g = 10ms\\(^{-2}\\)]</p>",
+        "answer": "<p>Calculation of velocity of fired bullet</p><p>Time of flight T = \\(\\frac{2u sin \\theta}{g}\\)</p><p>25 = \\(\\frac{2u sin 30}{g}\\)</p><p>u = 250ms\\(^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2020,
+        "question": "<p>State three properties of lasers that make them preferable to ordinary light beam.<br>\n </p>",
+        "answer": "<p>- Travels a very long distance without losing its intensity</p><p>- Has a very narrow optical bandwidth.</p><p>- Gives more intense light/power</p><p>- Is monochromatic </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2020,
+        "question": "<p>(a)i) Define a torque.</p><p>(ii)State three factors that determine a torque</p><p>(b)(i) Define free fall.</p><p>(ii) A body is thrown vertically upwards from the top of a tower 40.0m high with a velocity of 10.0ms\\(^{-1}\\). Calculate the time taken for the body to reach the ground. [g.= 10.0ms\\(^{-2}\\)]</p><p>c) A cube of wood of side 8.0cm, floats at the interface between oil and water with 2.0cm of its surface below the interface as shown in the diagram below. Given that the relative densities of oil and water are 0.72 and 1.00 respectively, calculate the mass of the wood</p><p><img alt=\"Open Photo\" src=\"https://scontent-los2-1.xx.fbcdn.net/v/t1.15752-9/p296x100/238921793_1230870140687454_181791713488871610_n.jpg?_nc_cat=111&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFbQWrLDHqj_VbgWRbeXEgRBmrF56BxMvoGasXnoHEy-mzcw6W4G1t6lUJUSifZ4ez-ayegHgtm7uv-bn2RDX9f&amp;_nc_ohc=_0x8iltJVHgAX8hrn13&amp;_nc_ht=scontent-los2-1.xx&amp;oh=6b3746faf3f892eda17de4846e9926fd&amp;oe=6143F4F8\"></p>",
+        "answer": "<p>(a)i) Definition of a torque</p><p>- The turning effect of force about an axis/pivot</p><p>(ii) Factors that determine a torque</p><p>- perpendicular distance of the force from the pivot</p><p>- direction of the force.</p><p>- magnitude of the force</p><p> </p><p>(b)(i) Definition of free fall:</p><p>- The vertical motion of a body only under the influence of gravity/its own weight</p><p>(ii) Calculation of the time taken by a body thrown vertically upward to reach the ground</p><p>S = 10t - \\(\\frac{1}{2}\\)10t\\(^2\\)</p><p>-40 = 10t - \\(\\frac{1}{2}\\)10t\\(^2\\) x 10 t\\(^2\\)</p><p>(t + 2)(t - 4) = 0</p><p>Time to fall to the ground, t = 4s</p><p>(c) Calculation of the mass of wood:</p><p>- Mass of wood = upthrust due to water displace + upthrust due to oil displaced</p><p>= 1000 x 2 x 8 x 8 x 10 + 720 x 6 x 8 x 8 x 10</p><p>= 0.404kg </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2020,
+        "question": "<p>(a)Explain resonance frequency as applied in RLC series Circuit. </p><p>(ii) Sketch a diagram to illustrate the variation of frequency, f, with the resistance, R, the capacitive reactance, X\\(_c\\) and the inductive reactance X\\(_L\\), in RLC series circuit.</p><p>(iii) Using the diagram drawn in (a)(ii) state whether the current in the circuit leads, lags or is in phase with the supply voltage when: (\\(\\alpha\\)) f = f\\(_o\\); (\\(\\beta\\)) f &lt; f\\(_o\\) ; (\\(\\gamma\\))f\\(_o\\); when f\\(_o\\) is the resonant frequency.</p><p>b)(i) Define mutual inductance.</p><p>(i) The coil of an electric generator has 500 turns and 8.0cm diameter. If it rotates in a magnetic field of density 0.25T, calculate the angular speed when its peak voltage is 480V. [\\(\\pi\\) = 3.142].</p>",
+        "answer": "<p>(a)i) Explanation of resonance frequency as applied to RLC series circuit</p><p>- It is the frequency of oscillation of an RLC series circuit when the capacitive reactance is equal to the inductive reactance. The impedance is equal to the resistance /the impedance is minimum.</p><p>(ii) A sketched graph </p><p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/238700463_859703851607954_3736620356232500448_n.jpg?_nc_cat=108&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEFKl2e7ijpudqIjdKbG3ip2nmd2zaOEhraeZ3bNo4SGmFCPS4YlNOUxFtuqTjkMyt7hUdO-T0nzdg5uJXlzofI&amp;_nc_ohc=M0qUNVFIDG0AX_BsInP&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=22485b08222155f2345788095699f3c1&amp;oe=6140DAAC\"></p><p>(iii) \\(\\alpha\\) Relationship between current and voltage when f = f\\(_o\\);</p><p>Current is in phase with the supply voltage (\\(\\beta\\))</p><p>- Relationship when current and voltage when  f = f\\(_o\\);</p><p>Current lags the Supply voltage (\\(\\gamma\\))</p><p>- Relationship between current and voltage when f &gt; f\\(_o\\);<br>\n Current leads the supply voltage.</p><p> </p><p>(b) (i) Definition of mutual inductance:</p><p>The ratio of the induced emf in one coil/circuit to the time rate of change of current in the other coil. OR The production of e.m.f in a circuit as a result of the change in the magnetic flux/magnetic circuit in an adjacent circuit linked to it</p><p>. <br>\n(ii) Calculation of angular speed of the coil of an electric generator: E = \\(\\omega\\)BAN</p><p>480 = \\(\\omega\\) x 0.25 x \\(\\pi\\) x (\\(\\frac{8.0 \\times 10^{-2}}{2}\\)) x 500 = \\(\\omega\\) = 763.8 rad/s<br>\n<br>\n(c)(i) Explanation of eddy current:</p><p>The current is induced and flows within a metal block when there is a change in magnetic flux linking the block.</p><p>OR<br>\nLoops of electric current induced within a conductor by the changing magnetic flux/field in the conductor.</p><p> <br>\nOR</p><p>The localised electric current/loops of electric current</p><p>(ii) Practical Uses of eddy current:</p><p>- induction furnaces</p><p>- induction coils</p><p>- speedometers</p><p>- induction meters </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2020,
+        "question": "<p>(a) (i) Define Optical angle.</p><p>(ii) Explain two conditions necessary for total internal reflection to occur. </p><p>(iii) List three practical applications of total internal reflection.</p><p>(b) State two effects of refraction. </p><p>(c)(i) Define progressive waves.</p><p>(ii) A plane progressive wave is represented by the equation y = 0.5 sin(1000\\(\\pi\\)r = \\(\\frac{100 \\pi \\lambda}{17}\\)) where y is in millimetres, t in seconds and x in metres.  Calculate the: (\\(\\alpha\\)) frequency of the wave; (\\(\\beta\\))of the wave; (\\(\\gamma\\)) speed of the wave</p>",
+        "answer": "<p>(a) (i) The angle of incidence in the optically denser medium for which the angle of refraction in the less dense medium is 90\\(^o\\)</p><p>(ii) Conditions necessary for total internal reflection to occur:<br>\n- Light rays must travel from a dense medium to a less dense medium.</p><p>- Angle of incidence in the dense medium must be greater than the critical angle.</p><p>iii) Practical applications of total internal reflection</p><p>- Prism periscopes.</p><p>- Prism Binoculars.</p><p>- Fibre optics</p><p>- Fish eye view.</p><p>- Transmission of radio signals</p><p> </p><p>(b) Effects of refraction</p><p>- straight objects placed in liquid appear bent (on the interface or boundary)</p><p>- mirages.</p><p>- dispersion of white light/formation of rainbow.</p><p>- apparent displacement of objects placed in liquids/apparent shadows of pools base.</p><p>(c)(i) Definition of progressive waves: A disturbance which travels through a medium that enables energy to be transferred from its source to another (without the particles of the medium transferred). OR Transfer of energy and momentum from the source of disturbances. </p><p> </p><p>(ii) (\\(\\alpha\\)) calculation of frequency of wave</p><p>y = 0.5 sin (1000) \\(\\pi\\) t - 100 \\(\\pi \\frac{x}{17}\\)</p><p>= a sin (2\\(\\pi ft - 2 \\pi \\frac{x}{\\gamma}\\))</p><p>= 2\\(\\pi f = 1000 \\pi\\)</p><p>f = 500Hz</p><p>(\\(\\beta\\)) calculation of wavelength of wave</p><p>\\(\\frac{2\\pi}{\\lambda} = \\frac{100\\pi}{17}\\)</p><p>\\(\\lambda\\) = \\(\\frac{2 \\times 17}{100}\\)</p><p>= 0.34m</p><p>(\\(\\gamma\\) calculation of speed of wave)</p><p>v = f\\(\\lambda\\)</p><p>= 500 x 0.34</p><p>170ms\\(^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2020,
+        "question": "<p>(a) In an experiment to measure the specific latent heat of vapourisation of water, a student places a heater in a beaker containing water.  The beaker stands on an electronic balance so that the mass of the beaker and water could be measured. The heater is switched on and readings were taken every 100s when the water starts boiling.</p><p><br>\nThe table below shows the readings.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>Time/s</td>\n<td>0</td>\n<td>100</td>\n<td>200</td>\n<td>300</td>\n<td>400</td>\n</tr>\n<tr>\n<td>Reading on balance/g</td>\n<td>203.22</td>\n<td>201.62</td>\n<td>199.79</td>\n<td>198.26</td>\n<td>196.50</td>\n</tr>\n<tr>\n<td>Mass of water evaporated/g</td>\n<td>0</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Energy supplied by heated/J</td>\n<td>0</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table><p> </p><p>(I) Fill in the mass of water evaporated.</p><p>(ii) Given that the heater supplies energy at the rate of 38J/s, fill in the values of the energy supplied by the heater in 100s, 200s, 300s, and 400s. </p><p>(ii) Plot a graph of energy supplied on the vertical axis and mass of water evaporated on the horizontal axis, starting both axes from the origin(0,0). </p><p>(iv) Determine the slope of the graph.</p><p>(v) what does the value of the slope mean? </p>",
+        "answer": "<p>(a)(i)</p><p> </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td>Time/s</td>\n<td>0</td>\n<td>100</td>\n<td>200</td>\n<td>300</td>\n<td>400</td>\n</tr>\n<tr>\n<td>Reading on balance/g</td>\n<td>203.22</td>\n<td>201.62</td>\n<td>199.79</td>\n<td>198.26</td>\n<td>196.50</td>\n</tr>\n<tr>\n<td>Mass of water evaporated/g</td>\n<td>0</td>\n<td>\n<p>1.60 (\\(\\frac{1}{2}\\))</p>\n<p> </p>\n</td>\n<td>3.43 (\\(\\frac{1}{2}\\))\n<p> </p>\n</td>\n<td>4.96 (\\(\\frac{1}{2}\\))</td>\n<td>\n<p>6.72 (\\(\\frac{1}{2}\\))</p>\n</td>\n</tr>\n<tr>\n<td>Energy supplied by heated/J</td>\n<td>0</td>\n <td>3800 (\\(\\frac{1}{2}\\))</td>\n<td>7600 (\\(\\frac{1}{2}\\))</td>\n<td>11400 (\\(\\frac{1}{2}\\))</td>\n<td>\n<p>15200 (\\(\\frac{1}{2}\\))</p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p> </p><p><img alt=\"Open Photo\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/s240x240/238868557_1917598851742155_4749532052832638073_n.jpg?_nc_cat=106&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeHz2WUsHozw5u_ej7jOaICE2FtMie25ThDYW0yJ7blOEP5NY0NmnLLkVLiOJrBYj31pQSVqLqpDODTf1KWvcpuX&amp;_nc_ohc=aIi-JlVTdi0AX9HjaSs&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=4906dc06fc30547a39d62ffaa4c73350&amp;oe=61453DB9\"></p><p> </p><p>(iv)</p><p>Determination of slope of graph</p><p>Slope = \\(\\frac{\\Delta Q}{\\Delta M}\\)</p><p>= \\(\\frac{14.0 - 2.0) \\times 10^3}{6.1 - 0.8}\\)</p><p>= 2.26 x 10\\(^3\\)J/g</p><p>(v) Meaning of the value of the slope of graph</p><p>2.26 x 10\\(^2\\)J of heat energy is needed to evaporate 1g of water at constant temperature.</p><p> </p><p>(b)(i) Explanation of saturated vapour pressure;</p><p>At any given temperature, some energetic molecules of a liquid in a given system escape from the liquid surface as vapour and at the same time some return to the liquid. Vapour pressure is built up above the liquid in the process. When the rate of escape equals the rate of return, the vapour is said to be saturated and the pressure it exerts is called saturated vapour pressure at that temperature.</p><p>(ii) Factor that affects saturated vapour pressure;</p><p>- Temperature</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2020,
+        "question": "<p>(a) Define isotopes.</p><p>(b) Mention two uses of radioactive tracers in each of the following areas:</p><p>(\\(\\alpha\\)) medicine</p><p>(\\(\\beta\\)) industry</p><p>(\\(\\gamma\\)) agriculture.</p><p> </p><p>(c) State three features of electromagnetic waves.</p><p>(d)) Mention four components of the nuclear reactor.</p><p>(i) State the functions of each of the components stated in (d)(i).</p>",
+        "answer": "<p>(a)i) Definition of isotopes;</p><p>Atoms of the same element that have the same number of protons but different number of neutron. </p><p>OR</p><p>Same atomic number but different mass number</p><p><br>\n(ii) (\\(\\alpha\\)) Uses of Radioactive Tracers in Medicine;</p><p>- monitoring the function of the thyroid gland/other organs. <br>\n- detection of blood clots in the brain.                                                                                               </p><p>- diagnosis and treatment of disease<br>\n- sterilization of medical equipment</p><p>(\\(\\beta\\)) Uses of tracers in industry</p><p>Detection of;</p><p>- leakages in underground pipes</p><p>- wear and tear of moving parts of machinery:</p><p>- environmental pollution</p><p>(\\(\\gamma\\) ) Uses of tracers in agriculture</p><p>- determination of plants absorption of mineral elements;</p><p>- study of the mechanism of photosynthesis;</p><p>- seed preservation;</p><p>- sterilization of insects;</p><p>- food preservation.</p><p><br>\n(b) Calculation of the minimum frequency of radiation</p><p><br>\nOR</p><p>f\\(_o\\) = f - \\(\\frac{E}{b}\\)</p><p>= 5.4 x 10\\(\\frac{1}{2}\\) - \\(\\frac{1.2 \\times 10^{-19}}{6.6 \\times 10^{34}}\\) </p><p>= 3.6 x 10\\(^4\\)Hz</p><p> </p><p>(c)  Features of electromagnetic waves</p><p>- Transverse waves,</p><p>- Travel with the speed of light in vacuum;</p><p>- Undergo refraction/reflection/diffraction/polarization/interference</p><p>- Travel through vacuum.</p><p> </p><p>(d)(i) Components of the nuclear reactor;</p><p>- uranium fuel</p><p>- graphite moderator;</p><p>- (boron) control rod</p><p>- coolant;</p><p>- heat exchanger;</p><p>- shield</p><p>(ii) Functions of the component of the nuclear reactor;</p><p>- uranium rods</p><p>- serves as fuel;</p><p>- graphite moderator </p><p>- control neutron speed; (boron) control rod</p><p>- Controls neutron population; coolant</p><p>- reduces the excessive heat produced in the reaction; heat exchanger</p><p>- converts the heat energy produced to other forms; shield</p><p>- to protect operator and surroundings against extraneous radiation</p>",
+        "type": "theory"
+    }
+]

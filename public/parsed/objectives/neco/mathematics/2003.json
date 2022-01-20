@@ -1,0 +1,36 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 1,
+        "year": 2003,
+        "question": "<p>The ratio of the circumference to the diameter of a circle is approximately of a circle is approximately equal to</p>",
+        "explanation": "<p>To calculate the <em>circumference of a circle</em>, use the <em>formula</em> C = πd, where \"C\" is the circumference, \"d\" is the diameter, and π is 3.14</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.5",
+            "3.14",
+            "4.83",
+            "6.52",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "neco",
+        "order": 2,
+        "year": 2003,
+        "question": "Two similar cylindrical cans have heights of 7cm and 21cm, if the smaller holds 250g of sugar, how many kg of sugar will the larger one hold?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "0.75",
+            "1.5",
+            "2.25",
+            "3.5",
+            "6.75"
+        ],
+        "type": "objectives"
+    }
+]

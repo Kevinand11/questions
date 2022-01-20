@@ -1,0 +1,786 @@
+[
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2013,
+        "question": "<p>If P = \\(\\frac{1}{4}\\)(Qs + 10). What is the quantity supplied at N14?</p>",
+        "explanation": "<p>P = \\(\\frac{1}{4}\\)(Qs + 10)<br>\n14 = \\(\\frac{\\text{Qs + 10}}{4}\\)<br>\n56 = Qs + 10<br>\n56 - 10 = Qs<br>\nQs = 46</p>",
+        "correctIndex": 2,
+        "options": [
+            "14",
+            "60",
+            "46",
+            "32"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2013,
+        "question": "<p>The profit of a monopolist can be eliminated where price equals</p>",
+        "explanation": "<p>Monopolies make profits by creating prices that are higher, and output that is lower. Profits would be eliminated when price is equal to marginal cost. That is the cost incurred by a firm by producing one additional unit of a product or service. The monopoly would no longer make profits if the price it charges for its product is equal to the additional cost it incurred in producing that good.</p>",
+        "correctIndex": 1,
+        "options": [
+            "AFC",
+            "MC",
+            "AC",
+            "AVC"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2013,
+        "question": "<p>An economy in which both the public and private sectors contribute to economic growth is as</p>",
+        "explanation": "<p>A mixed economy is an economic system combining private and state enterprise. This means economic activities in a country are undertaken by both private indiduals and the government.</p>",
+        "correctIndex": 3,
+        "options": [
+            "feudal economy",
+            "capitalist economy",
+            "socialist economy",
+            "mixed economy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2013,
+        "question": "<p>If the standard deviation of a given data is 53, what is the variance?</p>",
+        "explanation": "<p>The root of the standard deviation is the variance. Therefore we have;</p><p>53\\(^2\\) = 53 x 53 =  2809</p>",
+        "correctIndex": 1,
+        "options": [
+            "2082",
+            "2809",
+            "2808",
+            "2209"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2013,
+        "question": "<p>Which of the following set of statistical tools is used for further economic analysis?</p>",
+        "explanation": "<p>The mean is useful for predicting future results when there are no extreme values in the data set. Standard deviation is a number used to tell how measurements for a group are spread out from the average (mean), or expected value</p>",
+        "correctIndex": 1,
+        "options": [
+            "the median and standard deviation",
+            "the mean and mode",
+            "the mean and standard deviation",
+            "the mode and median"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2013,
+        "question": "An advantage of the range as a measure of dispersion is that it",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "can be used to calculate open-ended distribution",
+            "make use of all values of observations in a distribution",
+            "takes all values into consideration",
+            "is useful for further statistical calculation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2013,
+        "question": "<p>Find the median of the following set of data 35,10,14,38,15,18,22,30 and 28</p>",
+        "explanation": "<p>Recall that the median is the middle number. To get the median, we will arrange the numbers from ascending order (that is, from smallest to the biggest). hence we have;</p><p>median = 10, 14, 15, 18, <ins><strong>22,</strong></ins> 28, 30, 35, 38</p><p>22 is the middle number in the set.</p>",
+        "correctIndex": 3,
+        "options": [
+            "10",
+            "38",
+            "35",
+            "22"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2013,
+        "question": "<p>An increase in demand without a corresponding change in supply will lead to</p>",
+        "explanation": "<p>An increase in demand without a corresponding increase in supply will lead to a rise in price and a decrease in the quantity available for sale.</p>",
+        "correctIndex": 3,
+        "options": [
+            "a decrease in equilirium price and increase in equilibrium quantity",
+            "an increase in equilibrium price and quantity",
+            "a decrease in equilibrium price and quantity",
+            "an increase in equilibrium price and a decrease in equilibrium quantity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2013,
+        "question": "<p>An increase in the price of a commodity will result in</p>",
+        "explanation": "<p>According to the law of demand, a rise in price will cause a decrease in the quantity demanded and vice versa.</p>",
+        "correctIndex": 0,
+        "options": [
+            "a decrease in the quantity demanded",
+            "an increase in demand",
+            "an increase in quantity demanded",
+            "a decrease in demand"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2013,
+        "question": "<p>If the price of a bicycle changes from N120 to N80 and quantity bought changes from 300 to 500 units, the elasticity of demand for bicycle is</p>",
+        "explanation": "<p>change in price = 120- 80 = 40</p><p>change in quantity = 500 - 300 = 200</p><p>% change = 40/100 = 0.4</p><p>200/100 = 2</p><p>0.4/2 = 0.2</p>",
+        "correctIndex": 3,
+        "options": [
+            "66.7",
+            "0.5",
+            "1.5",
+            "2.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2013,
+        "question": "<p>One of the assumptions of the cardinal approach is</p>",
+        "explanation": "<p>According to the Cardinalist school, the utility/satisfaction which is derived from the consumption of a good is a function of the quantity of that good alone.</p>",
+        "correctIndex": 2,
+        "options": [
+            "diminishing marginal rate of substitution",
+            "the consistency and transitivity of choice",
+            "that total utility depends on the quantity of the commodities consumed",
+            "unstable marginal utility of money"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2013,
+        "question": "<p>Utility is the satisfaction derived from the</p>",
+        "explanation": "<p>Utility is simply the satisfaction a consumer derives from the consumption of  goods and services.</p>",
+        "correctIndex": 1,
+        "options": [
+            "distribution of goods and services",
+            "use of goods and services",
+            "demand of goods and services",
+            "production of goods and services"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2013,
+        "question": "<p>One of the major factors that brings about changes in supply is</p>",
+        "explanation": "<p>The available of facilities to store produced goods would affect the quantity of goods supplied to the market. Producers maybe willing to produce, but if there are no storage facilities to store the manufactured goods pending when the demand for it will arise, producers would cut down on production thereby affecting the quantity of goods supplied.</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "market discrimination",
+            "availability of storage facilities",
+            "the cost of storage",
+            "incentives granted to workers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2013,
+        "question": "<p>If the supply of a product is elastic, a small reduction in price will</p>",
+        "explanation": "<p>Elastic demand means a change in price would cause a change in the quantity demanded. In an elastic demand,  a small reduction in price would increase the quantity demanded and a decrease in the quantity supplied. This is so because, suppliers will not be willing to supply much goods when the price for it is low.</p>",
+        "correctIndex": 1,
+        "options": [
+            "reduce the cost of production",
+            "reduce the quantity supplied",
+            "increase the quantity supplied",
+            "lead to no change in the quantity supplied"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2013,
+        "question": "<p>If the price of a commodity is fixed below equilibrium, this will lead to</p>",
+        "explanation": "<p>Just like the law of demand, the higher the price, the lower the quantity demanded and the lower the price the higher the quantity demanded. When the prices of goods are set below equilibrium, it will invariably lead to high demand for the product.</p>",
+        "correctIndex": 0,
+        "options": [
+            "excess demand",
+            "a decrease in price",
+            "an increase in price",
+            "excess supply"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2013,
+        "question": "<p>One of the criticisms of the price mechanism is that</p>",
+        "explanation": "<p>Price mechanism refers to the system where the forces of demand and supply determine the prices of commodities. This means that, prices are left in the fate of market forces negating the concept of consumer sovereignty.</p><p>Consumers are forced to purchase those goods which producers want. Thus, the producer is sovereign, not the consumer. </p>",
+        "correctIndex": 0,
+        "options": [
+            "producers are sovereign",
+            "it provides low degree of freedom",
+            "it widens the inequitable gap",
+            "consumers are sovereign"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2013,
+        "question": "<p>In Nigeria, the government can reduce the cost of accommodation by fixing the rent</p>",
+        "explanation": "<p>The government can reduce the cost of accommodation by fixing the rent at a maximum price. Maximum prices occur when a government sets a legal limit on the price of a good or service – with the aim of reducing prices below the market equilibrium price.</p><p>Governments try to control the rate charged for rent by keeping the cost of renting below a certain level. However, </p><p>setting the price below equilibrium maximum will cause a shortage – demand will be greater than supply.</p>",
+        "correctIndex": 3,
+        "options": [
+            "at the prevailing rate",
+            "at the equilibrium price",
+            "above the equilibrium price",
+            "below the equilibrium price"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2013,
+        "question": "<p>If a refinery achieves a reduction in cost by purchasing and transporting crude oil in large quantities, it enjoys</p>",
+        "explanation": "<p>Economies of scale is a proportionate saving in costs gained by an increased level of production. This means that, a firm begin to enjoy certain benefits such as a reduction in its direct and overhead cost as its scale of transaction and operation expands.</p>",
+        "correctIndex": 0,
+        "options": [
+            "economies of scale",
+            "specialization",
+            "division of labour",
+            "diseconomies of scale"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2013,
+        "question": "An isoquant lying above to the right of another represents",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a higher output level",
+            "constant returns to scale",
+            "over-capacity utilization",
+            "a lower output level"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2013,
+        "question": "<p>A measure of national income used as comparison of standard of living among nations is</p>",
+        "explanation": "<p>Per capita income is a measure of the amount of income earned per person in a nation or geographical region. It is used to measure the national income of a country. The national income is then used to ascertain the standard of living. The higher the per capital income, the higher the standard of living and development of a region.</p>",
+        "correctIndex": 3,
+        "options": [
+            "net national product",
+            "gross domestic product",
+            "gross national product",
+            "per capita income"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2013,
+        "question": "<p>The speculative demand for money is inversely related to the</p>",
+        "explanation": "<p>The speculative demand for money is simply a need for money for investment purposes, which is indirectly influenced by interest rates. When the rates of interest is high, people would most likely want to invest their money so as to get a high return on investment. </p>",
+        "correctIndex": 0,
+        "options": [
+            "interest rate",
+            "level of income",
+            "exchange rate",
+            "inflation rate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2013,
+        "question": "<p>If Mr .K obtains a N50.000 loan from a bank for the purpose of providing household needs, the demand for money is said to be</p>",
+        "explanation": "<p>The transactionary motive of money is when people hold money for the purpose of meeting their daily needs and wants. It is simply the desire to hold money in order to finance transactions. </p>",
+        "correctIndex": 0,
+        "options": [
+            "transactionary",
+            "speculative",
+            "precautionary and speculative",
+            "transactional and speculative"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2013,
+        "question": "<p>Which of the following is used by the Central Bank of Nigeria to control inflation?</p>",
+        "explanation": "<p>Discount rate is the minimum interest rate set by the central bank of a country. It is used in controlling inflation. We all know inflation is an economic situation where the value of money falls and causes a rise in the general price level. Inflation occurs when there is excess money in circulation. This means that, much money will be used to purchase few goods. </p><p>The central bank uses discount rates to control inflation by taking out the excess money in circulation. They do this by increasing interest rates to encourage people to save or invest and discourage borrowings. By saving and investment, the excess money in the economy is taken out. For instance, if interest rates are set at 20%, people would prefer to save or invest their monies so as to get a high return on investment rather than borrowing from the banks and pay high interest rates.  </p>",
+        "correctIndex": 3,
+        "options": [
+            "Tariff on imports",
+            "Tax rate",
+            "Exchange rate",
+            "Discount rate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2013,
+        "question": "<p>If CBN reduces money supply, the interest rate will</p>",
+        "explanation": "<p>The interest rates will be high if CBN reduces money supply. This is done to discourage borrowing and control the flow of money in the economy. It is mostly done when there is excess money in circulation. CBN would raise the interest rates to discourage borrowing and encourage savings and investments, thereby mopping out the excess money in circulation.</p>",
+        "correctIndex": 1,
+        "options": [
+            "fluctuate",
+            "rise",
+            "fall",
+            "remain unchanged"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2013,
+        "question": "<p>A tax on land will ultimately fall</p>",
+        "explanation": "<p>The seller is responsible for the maintenance of the property, any repairs and for paying property taxes and insurance, the same as any landlord. </p>",
+        "correctIndex": 2,
+        "options": [
+            "partly on agents and users",
+            "entirely on users",
+            "entirely on owners",
+            "partly on users and owners"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2013,
+        "question": "<p>An example of an expansionary fiscal policy action is</p>",
+        "explanation": "<p>Expansionary fiscal policy is when the government expands the money supply in the economy using budgetary tools to either increase spending or cut taxes—both of which provide consumers and businesses with more money to spend. Cutting down on tax rates would mean higher profits for businesses. This is done to increase the supply of money in the economy.</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "decrease in the corporate profit tax rates",
+            "decrease in welfare payments",
+            "purchase of government securities",
+            "decrease in the bank rate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2013,
+        "question": "<p>One of the goals of development plans in Nigeria is to</p>",
+        "explanation": "<p>Nigeria economic development plan is aimed at creating and maintaining a strong, vibrant local economy that will improve the standard of living of its citizens. This is done by putting in place policy direction for economic growth, and identify strategies, programs, and projects to improve the economy.</p>",
+        "correctIndex": 2,
+        "options": [
+            "increase the profitability of multinational businesses",
+            "improve the country's GDP",
+            "achieve higher standard of living for the citizens",
+            "deregulate the economy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2013,
+        "question": "<p>Life insurance companies contribute to economic development by holding a part of their assets in</p>",
+        "explanation": "<p> </p><p>Life insurance is a contract in which an insurer (insurance company) in exchange for a premium, guarantees payment to an insured's beneficiaries when the insured dies. This means that, the insurance company would compensate the beneficiary of a deceased person when they die. The premium paid by the insured are considered cash and near money assets.</p><p>Near money assets are highly liquid assets that can be easily converted to cash. </p>",
+        "correctIndex": 2,
+        "options": [
+            "long-term financial instruments",
+            "money market instruments",
+            "cash and near money",
+            "short-term financial instruments"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2013,
+        "question": "<p>In order to add value to Nigeria agricultural produce, there is need to</p>",
+        "explanation": "<p>Most agricultural produce are perishables and do not last past a few days after it has been harvested. The agricultural sector needs to adopt new and modern methods of produce processing and storage to preserve the quality and nutritional value of the foods.</p>",
+        "correctIndex": 2,
+        "options": [
+            "cultivate high breed crops",
+            "process them into finished goods",
+            "adopt modern storage methods",
+            "advertise them in European markets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2013,
+        "question": "<p>The main reason for low agricultural produce in west Africa is need to</p>",
+        "explanation": "<p>Farming implements used by farmers especially at the rural level has been known to lower productivity due to the amount of labour needed to increase production. These farmers still use outdated farm tools. This is one of the major reason for low productivity in the agricultural. </p>",
+        "correctIndex": 3,
+        "options": [
+            "the presence of large-scale agro-allied industries",
+            "high dependency ratio",
+            "over dependence on agriculture for subsistence",
+            "the use of crude implements in farming process"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2013,
+        "question": "<p>The most important determinant for the location of a brick industry is the availability of</p>",
+        "explanation": "<p>The most important determinant of the location of an industry that is into bricks production is the market. This has to do with people who are willing and able to patronize the product of the company. The market to buy produced goods/materials is very important. If the industry is located in a rural area, the patronage would be low because urban areas are the highest consumers of building materials.</p>",
+        "correctIndex": 0,
+        "options": [
+            "market",
+            "power supply",
+            "water",
+            "raw materials"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2013,
+        "question": "<p>In Nigeria, efficiency in public corporations can be achieved through</p>",
+        "explanation": "<p>Privatization of public corporations is one of the ways to maintain efficiency in the sector. This happens when government owned and controlled enterprises are transferred to private shareholders which include corporate bodies and  individuals.</p><p>The main reason for privatization is for economic growth and development, to reduce waste and to encourage the development of the economic sectors.</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "public offer",
+            "indigenization",
+            "privatization",
+            "nationalization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2013,
+        "question": "Government participation in the oil industry was necessitated by the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "annual increase in production",
+            "formation of OPEC",
+            "high demand for crude oil",
+            "huge investment outlay"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2013,
+        "question": "<p>The deregulation of the petroleum sector in Nigeria will bring about</p>",
+        "explanation": "<p>To understand this, we first have to understand what deregulation means. Deregulation is the removal of regulations or restrictions, especially in a particular industry. In this context it is the removal of regulations and restrictions such as subsidy paid by the Nigerian government on petroleum products.</p><p>One of the main reasons for deregulating the petroleum sector is to make the sector competitive, efficient and with lower product prices. The government has been paying for subsidy and this has led to stealing and corruption in that sector as well as high cost of refined products. If the sector is deregulated, petroleum products would be refined and sold in Nigeria eliminating the extra cost of paying for subsidy by re-importing the refined products.</p>",
+        "correctIndex": 0,
+        "options": [
+            "efficiency in pricing and distribution of the products",
+            "an end to the importation of fuel",
+            "an end to foreign firms' dominance",
+            "fixing appropriate production quotas"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2013,
+        "question": "<p>A distinguishing characteristic of consumer co-operative society is that the</p>",
+        "explanation": "<p><strong>Some Characteristics of consumers' co-operative society: </strong></p><p>(1) A consumers' co-operative society is a voluntary association of persons and is registered under the Co-operative Societies Act owned and run by members.<br>\n(2) The membership of these stores is open to all the adults.<br>\n(3) There is a democratic control and management of the affairs of these societies.</p>",
+        "correctIndex": 1,
+        "options": [
+            "the maximum number of shareholders is 20",
+            "members are the owners",
+            "members are the workers",
+            "the minimum number of shareholders is 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2013,
+        "question": "<p>A major disadvantage of partnership business is</p>",
+        "explanation": "<p>Distrust among partners often stems from poor communication, leading to suspicion when none is warranted. This often lead to serious disagreement that may eventually end the partnership.</p>",
+        "correctIndex": 1,
+        "options": [
+            "difficulty in the transfer of shares",
+            "distrust among members",
+            "limited liability",
+            "large capital outlay"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2013,
+        "question": "The quality of labour force in Nigeria can be improved by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "establishing more tertiary institutions",
+            "creating sufficient job opportunities",
+            "encouraging the study of science and technology",
+            "establishing more skills acquisition centres"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2013,
+        "question": "<p>The effect of emigration on a country's population is</p>",
+        "explanation": "<p>Emigration is the act of leaving one's own country to settle permanently in another. The effect on the emigrating country is a reduction in the population and labour force and an increase in the population of the new country of residence</p>",
+        "correctIndex": 0,
+        "options": [
+            "decrease in the population",
+            "decrease in job opportunities",
+            "increase in population",
+            "increase in dependency ratio"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2013,
+        "question": "<p>A measure for preventing the external value of the naira from falling is for the government to</p>",
+        "explanation": "<p>If the naira can be valued to the point where it can compete with other foreign currencies in the foreign exchange market, the value will be high in the international market.</p>",
+        "correctIndex": 1,
+        "options": [
+            "increase its spending with foreign reserve",
+            "sell its own currency",
+            "reduce interest rate",
+            "buy its currency with foreign reserve"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2013,
+        "question": "<p>A fiscal policy instrument that can influence the demand pattern in an economy is</p>",
+        "explanation": "<p>An income tax is a tax that governments impose on income generated by businesses and individuals within their jurisdiction. The higher the rate of taxation, the higher the cost of product or service. This will affect the rate of demand.</p>",
+        "correctIndex": 2,
+        "options": [
+            "government spending",
+            "interest rate",
+            "income tax",
+            "tariff"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2013,
+        "question": "<p>One of the main achievements of the Economic Commission for Africa is</p>",
+        "explanation": "<p> The Economic Commission for Africa was established to encourage economic cooperation among its member states (the nations of the African continent). They have achieved this  by eliminating barriers to trade among member states</p>",
+        "correctIndex": 0,
+        "options": [
+            "eliminating trade restrictions among states",
+            "encouraging transport and communication development",
+            "guaranteeing a steady flow of foreign investment into Africa",
+            "providing the machinery for collaboration on monetary issues"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2013,
+        "question": "<p>The rate of interest change on loans depends largely on</p>",
+        "explanation": "<p>Interest rates are determined, in large part by central banks who actively commit to maintaining a target interest rate. They do this by using the open market operations. To discourage borrowing, interest rates would be set high and set low to encourage lending. Therefore interest rates are determined mainly by the prevailing exchange rate</p>",
+        "correctIndex": 0,
+        "options": [
+            "the prevailing exchange rate",
+            "marginal efficiency of capital",
+            "the risk associated with the loan",
+            "the prevailing tax rate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2013,
+        "question": "<p>A valid explanation for real wage growth is</p>",
+        "explanation": "<p>Real wage growth is largely due to increased in economic activity creating competition between businesses to attract and retain workers. The higher the rate of economic activities (production, buying and selling) in the economy, the higher the real wage growth.</p>",
+        "correctIndex": 0,
+        "options": [
+            "an increase in the rate of productivity",
+            "the rising cost of capital accumulation",
+            "a contraction of emploment in service industries",
+            "an increase in the quantity of labour"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2013,
+        "question": "<p>If Mr. X lost his clerical job at a store and searched for a similar job for ten months before finding one this implies that Mr.X was</p>",
+        "explanation": "<p>Frictional unemployment happens when people move from one job to another. Mr X was frictionally unemployed for ten months</p>",
+        "correctIndex": 1,
+        "options": [
+            "structurally unemployed",
+            "frictionally unemployed",
+            "seasonally unemployed",
+            "cyclically unemployed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18533380957_co6%201.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>price elasticity of demand is the degree to which a change in price would affect the quantity demanded or supplied of a product. From the diagram above, price elasticity of demand is perfectly inelastic (that is,  the quantity demanded does not respond to price.) When price was zero, the quantity demanded remained unchanged/ the same.</p>",
+        "correctIndex": 2,
+        "options": [
+            "unitarily elastic",
+            "perfectly elastic",
+            "perfectly inelastic",
+            "fairly inelastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15682102612_f4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the above diagram, consumers would mostly likely get the highest level of utility at point S. Because at point S, 3 of Y = 3 of X </p>",
+        "correctIndex": 1,
+        "options": [
+            "F",
+            "S",
+            "M",
+            "K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2851291694_f5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>R represents Total cost which is the total economic cost of production and is made up of variable cost and fixed cost.<br>\nThe diagram below would help you know how to identify the various types of cost,<br>\n<img alt=\"\" src=\"/storage/classroom/editor_images/download%20%282%29.jpg\" style=\"height:181px; width:278px\"></p>",
+        "correctIndex": 1,
+        "options": [
+            "marginal cost",
+            "total cost",
+            "variable cost",
+            "fixed cost"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5702584276_f6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "BC",
+            "OB",
+            "OS",
+            "BS"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18533400626_f6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "GHEF",
+            "GHJC",
+            "EFJC",
+            "GHOB"
+        ],
+        "type": "objectives"
+    }
+]

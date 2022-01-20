@@ -1,0 +1,788 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2010,
+        "question": "Two cars moving in the same direction have speeds of 100 kmh<sup>-1</sup>and 130 kmh<sup>-1</sup>what is the velocity of the faster car as measured by an observer in the slower car?",
+        "explanation": "Since the cars are moving in the same direction, the velocity of a body A, V<sub>a</sub>,relative to another body B, V<sub>b</sub>is given by V = V<sub>a</sub>- V<sub>b</sub><br>∴ the velocity of faster car is measured by the observer in the slower car is V = 130kmh<sup>-1</sup>- 100 kmh<sup>-1</sup>= 30 kmh<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "30 kmh<sup>-1</sup>",
+            "130 kmh<sup>-1</sup>",
+            "200 kmh<sup></sup>",
+            "230 kmh<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2010,
+        "question": "A stone and a feather are dropped from the same height above the earth surface. ignoring air resistance, which of the following is correct?",
+        "explanation": "The acceleration of free fall due to gravity is independent of mass of the body. Therefore, ignoring air resistance, which affects feather more than the stone, the stone and the feather will both reach the ground at the same time",
+        "correctIndex": 1,
+        "options": [
+            "the feather will be brown away by the wind while stone will drop steadily",
+            "the stone and the feather will both reach the ground a the same time",
+            "the feather will reach the ground first",
+            "the stone will reach the ground first"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2010,
+        "question": "A car moves with an initial velocity of 25 ms<sup>-1</sup>and reaches a velocity of 45 ms<sup>-1</sup>in 10s. what is the acceleration of the car?",
+        "explanation": "Acceleration = (increase in velocity)/time taken<br>= (45 - 25)/10 = (20)/10 = 2ms<sup>-2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "2 ms<sup>-2</sup>",
+            "5 ms<sup>-2</sup>",
+            "20 ms<sup>-2</sup>",
+            "25 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2010,
+        "question": "The surfaces of conveyor belts are made rough so as to",
+        "explanation": "Rough surface promotes friction. Therefore, roughness of conveyor belt prevents the load from slipping",
+        "correctIndex": 1,
+        "options": [
+            "protect them while carrying loads",
+            "prevent the loads from slipping",
+            "enable them to carry more load",
+            "make them stronger"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2010,
+        "question": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through I m. Find the efficiency of the machine",
+        "explanation": "Efficiency = (MA)/V.R x 100% = (load)/Effort x (1)/V.R<br>= (800)/400 x (1)/6 x 100% = 33.3%",
+        "correctIndex": 2,
+        "options": [
+            "55. 6 %",
+            "50.0%",
+            "33.3%",
+            "22.2%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2010,
+        "question": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
+        "explanation": "Energy stored in a stretched wire (strain energy)<br>= average force x extension<br>= (1)/2 Fe<br>= (1)/2 x 300 N (30.5 - 30.0) x 10<sup>-2</sup>m<br>= (300)/2 x 0.5 x 10<sup>-2</sup>= 0.75J",
+        "correctIndex": 0,
+        "options": [
+            "0.75 J",
+            "7.50 J",
+            "75.00 J",
+            "750.00 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2010,
+        "question": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m<sup>2</sup>?",
+        "explanation": "Thrust = pressure x area = 100 pa x 3 m<sup>2</sup>= 300 N",
+        "correctIndex": 0,
+        "options": [
+            "300 N",
+            "200 N",
+            "150 N",
+            "100 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2010,
+        "question": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and",
+        "explanation": "Since relative density = mass of substance<br>mass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
+        "correctIndex": 0,
+        "options": [
+            "a density bottle",
+            "an eureka can",
+            "a pipette",
+            "a burette"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2010,
+        "question": "A hydrometer is an instrument used in measuring",
+        "explanation": "The instrument used in measuring relative density is hydrometer",
+        "correctIndex": 3,
+        "options": [
+            "vapour pressure of a fluid",
+            "density of liquid",
+            "relative humidity of a liquid",
+            "relative density of a liquid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2010,
+        "question": "One special advantage of alcohol over mercury as a thermometric liquid is its",
+        "explanation": "The low freezing point of alcohol, -115°c enable low temperatures to be measured. mercury freezes at 39°c, and cannot be used in countries like Russia where winter temperatures of -40°c are common",
+        "correctIndex": 1,
+        "options": [
+            "low density",
+            "low freezing point",
+            "high specific",
+            "low boiling point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2010,
+        "question": "<p>The density of a certain oil on frying becomes 0.4 kgm\\(^{-3}\\) with the volume of 20m\\(^{3}\\). what will be its initial volume when its initial density is 0.8 kgm\\(^{-3}\\) assuming no loss of oil due to spillage?</p>",
+        "explanation": "<p>Density (D) = \\(\\frac{mass}{volume}\\)</p><p>\\(\\therefore Mass = Density \\times volume\\)</p><p>= \\(0.4 \\times 20 = 8kg\\)</p><p>The initial volume = \\(\\frac{Mass}{\\text{Initial density}}\\)</p><p>= \\(\\frac{8}{0.8} = 10m^{3}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "12m<sup>3\n</sup>",
+            "10m<sup>3\n</sup>",
+            "8m<sup>3\n</sup>",
+            "5m<sup>3\n</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2010,
+        "question": "Heat is radiated by hot objects in the form",
+        "explanation": "Inform falling on the skin causes the skin causes the sensation of warmth. since the objects are hot, the correct option is informed.",
+        "correctIndex": 2,
+        "options": [
+            "x-rays",
+            "light energy",
+            "infrared rays",
+            "solar energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2010,
+        "question": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
+        "explanation": "Due to anomalous expansion of water at temperature range (0 - 4)°c, when a given mass of water turns into ice, its volume will increase, while the mass remains constant. Thus, when a given volum of ice melts, the volume of water formed will be less than the volume of ice. Hence, the level of water in the container will drop.",
+        "correctIndex": 3,
+        "options": [
+            "the level of water goes up",
+            "the water in the glass outflows",
+            "the level of water remains unchanged",
+            "the level of water drops"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2010,
+        "question": "The small droplet of water that forms on the grass in the early hours of the morning is",
+        "explanation": "Dew point is the temperature at which the water vapour present in air is just sufficient to saturate it. Dew is formed when air is cooled below its dew point",
+        "correctIndex": 1,
+        "options": [
+            "hail",
+            "dew",
+            "fog",
+            "mist"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2010,
+        "question": "A vapour is said to be saturated when",
+        "explanation": "A saturated vapour is one which is in dynamic equilibrium with its own liquid; that is as many go from the liquid to the vapour state every second return back to liquid.",
+        "correctIndex": 0,
+        "options": [
+            "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
+            "a dynamic aquilibrium exists such that more molecules return to the liquid than are living it",
+            "the temperature of the vapour varies",
+            "the vapour pressure is atmospheric"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2010,
+        "question": "The pressure of one mole of an ideal gas of volume 10<sup>-2</sup>m<sup>3</sup>at a temperature of 27°c is<br><br><br>[molar gas constant = 8.3 J mol<sup>-1</sup>k<sup>-1</sup>]",
+        "explanation": "T = 27 + 273 = 300 K, volume, V = 10<sup>-2</sup>m<sup>3</sup>molar gass constant, R = 8.3 Jmol- 1k - 1 number of mole, n = 1<br>PV = NRT<br>i.e P = (NRT)/V = (1 x 8.3 x 300)/10<sup>-2</sup><br>= 2.49 x 10<sup>5</sup>Nm<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "2.49 x 10<sup>4</sup>Nm<sup>-2</sup>",
+            "2.24 x 10<sup>4</sup>Nm<sup>-2</sup>",
+            "2.49 x 10<sup>5</sup>Nm<sup>-1</sup>",
+            "2.24 x 10<sup>5</sup>Nm<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2010,
+        "question": "Which of the following has no effect on radiation?",
+        "explanation": "Radiation depends on nature of the surface area and temperature. It is independent of density.",
+        "correctIndex": 1,
+        "options": [
+            "nature of surface",
+            "density",
+            "surface area",
+            "temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2010,
+        "question": "The wavelength of a wave traveling with a velocity of 420 ms<sup>-1</sup>is 42 m. what is its period?",
+        "explanation": "V = fλ<br>f = (v)/λ = (420)/42 = 10 HZ<br>Period, T = (1)/F = (1)/10 = 0.1 secs",
+        "correctIndex": 3,
+        "options": [
+            "1.2 s",
+            "1.0 s",
+            "0.5 s",
+            "0.1 s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2010,
+        "question": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because",
+        "explanation": "Sound wave requires a material medium for its propagation. so when air is being pumped out the density of the medium is being reduced and the sound dies down. when all the air has been pumped out of the glass, no sound will be heard, as sound sound cannot travel through vacuum",
+        "correctIndex": 2,
+        "options": [
+            "the wavelength of sound becomes greater in the bottle",
+            "sound cannot pass through the bottle",
+            "sound needs a material medium",
+            "sound can pass through a vacuum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2010,
+        "question": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as",
+        "explanation": "The lengthening effect of sound is known as reverberation.",
+        "correctIndex": 3,
+        "options": [
+            "diffraction of sound",
+            "refraction of sound",
+            "superposition",
+            "reveraberation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2010,
+        "question": "In comparing the camera and the human eye, the film of the camera function as the",
+        "explanation": "The retina is light sensitive layer living the inner wall of the eye where image is formed. in the camera, image is formed on a light sensitive film.",
+        "correctIndex": 0,
+        "options": [
+            "retina",
+            "iris",
+            "cornea",
+            "pupil"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2010,
+        "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is",
+        "explanation": "(1)/v + (1)/u = (1)/f<br>(1)/v + (1)/15 = (1)/5<br>(1)/v = (1)/5 - (1)/15 = (3 - 1)/15 = (2)/15<br>∴ v = (15)/2 = 7.5 cm<br>magnification = (v)/u = (image size)/object size<br>(7.5)/15 = (X)/4<br>∴ image size. X = (7.5 x 4)/15 = 2 cm",
+        "correctIndex": 0,
+        "options": [
+            "2 cm",
+            "3 cm",
+            "4 cm",
+            "5 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2010,
+        "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is",
+        "explanation": "Refraction index, n = (real depth)/apparent depth<br>1.5 = (10)/X<br>X = (10)/1.5 = 6.67 cm",
+        "correctIndex": 1,
+        "options": [
+            "2.50 cm",
+            "6.67 cm",
+            "7.50 cm",
+            "7.63 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2010,
+        "question": "Which of the following is used for the correction of short sightedness?",
+        "explanation": "Concave lens diverges parallel rays of light. A short sighted person has the image formed before the retina,and the rays have to be diverged so that they intersect to form image onto the retina",
+        "correctIndex": 1,
+        "options": [
+            "convex lens",
+            "concave lens",
+            "convex mirror",
+            "concave mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2010,
+        "question": "Dispersion occurs when white light passes through a glass prism because of the",
+        "explanation": "Dispersion is the splitting of white light into its spectral component colours and is caused by different speed of the colours in the prisma",
+        "correctIndex": 1,
+        "options": [
+            "different hidden colours in the glass",
+            "different speeds of the colour in the glass",
+            "defects in the glass",
+            "high density of the glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2010,
+        "question": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will",
+        "explanation": "Since the charged rod is not in contact with the electroscope, the leaves divergence will be induced",
+        "correctIndex": 2,
+        "options": [
+            "be induced",
+            "converge",
+            "diverge",
+            "remain constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2010,
+        "question": "Power supply is transmitted at a very high voltage and low current in order to",
+        "explanation": "H eat generated in a wire carrying current, H = 1<sup>2</sup>Rt.<br>so, when voltage is high and current is low heat generated in the wire will be minimal.<br>Therefore, high voltage and low current prevent overheating of the coil.",
+        "correctIndex": 3,
+        "options": [
+            "make pass through the trasformers",
+            "increase the power supply",
+            "make it travel fast",
+            "prevent overheating of the coil"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2010,
+        "question": "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v. the resistance of the galvanometer is",
+        "explanation": "R = (Vg)/lg = G, where lg = current through galvanometer<br>R = resistance of the multiplier<br>G = resistance of the galvanometer<br>∴ G = (vg-R)/lg 5(1000/10) - 490 = 500 -490 = 10Ω",
+        "correctIndex": 3,
+        "options": [
+            "1Ω",
+            "2Ω",
+            "5Ω",
+            "10Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2010,
+        "question": "Two inductors of inductances 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is",
+        "explanation": "Total inductance,L = L<sup>1</sup>+ L<sup>2</sup>= m<br>15 + 5 = 20mH = (20)H/1000<br>1 = 5A<br>Energy of inductor, (1)/2 L I<sup>2</sup><br>= (1)/2 X (20)/1000 X 5<sup>-2</sup><br>= 0.25 J",
+        "correctIndex": 4,
+        "options": [
+            "500.0J",
+            "250.0J",
+            "62.5J",
+            "50.0J",
+            "no correct option"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2010,
+        "question": "In alternating current circuit at resonance, the angel of lead or lag is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "π°",
+            "(π)/2°",
+            "(π)/3°",
+            "0°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2010,
+        "question": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at",
+        "explanation": "pumping out of the gas in the discharge tube reduces the pressure inside the tube, therefore, electricity is conducted at low pressure",
+        "correctIndex": 3,
+        "options": [
+            "low voltage",
+            "steady voltage",
+            "high pressure",
+            "low pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2010,
+        "question": "The ground stated energy for the hydrogen atom is 5.44 x 10<sup>-19</sup>J . If an electron drops from zero energy to ground state, calculate the frequency of the emitted radiation.<br><br>[h = 6.6 x 10<sup>-34</sup>Js]",
+        "explanation": "∆E = hf<br>f = (∆E)/h = (5.44 x 10<sup>-19</sup>)/6.6 x 10<sup>-34</sup>= 8.24 x 10<sup>14</sup>",
+        "correctIndex": 4,
+        "options": [
+            "5.0 x 10<sup>16</sup>Hz",
+            "2.0 x 10<sup>16</sup>Hz",
+            "5.0 x 10<sup>15</sup>Hz",
+            "2.0 x 10<sup>15</sup>Hz",
+            "No correct option"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2010,
+        "question": "Transistors are used for the",
+        "explanation": "transistor serve the same purpose as triode valve, which is amplification of signals.",
+        "correctIndex": 2,
+        "options": [
+            "rectification of signals",
+            "conversion of a.c to d.c",
+            "amplification of signals",
+            "conversion of d.c to a.c"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2010,
+        "question": "Which of the following is a pure semiconductor?",
+        "explanation": "A semiconductor is a material whose conductivity is between good conductor and insulator. Example of pure semi conductors are silicon and germanium",
+        "correctIndex": 1,
+        "options": [
+            "carbon",
+            "silicon",
+            "transistor",
+            "phosphorus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8184705780_phy20103.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/2728235260_phy20103a.jpg\" class=\"img-fluid\">\n</div>Above are the V-t graphs for<br>I Uniform acceleration<br>II uniform retardation<br>III Uniform velocity<br>Thus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity",
+        "correctIndex": 0,
+        "options": [
+            "has no acceleration between point F and G",
+            "decelerates between F and H",
+            "has a constant soeed between points E and F",
+            "Accelerates between points F and G"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20461779795_phy20107.jpg\" class=\"img-fluid\">",
+        "explanation": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium",
+        "correctIndex": 2,
+        "options": [
+            "III, IV and VIII",
+            "II, V and VIII",
+            "III, VI and IX",
+            "I, IV and VII"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2010,
+        "question": "<p>A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increase from zero is applied to pull the bob until the string makes an angle of 60o with the vertical. The work done is</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15005318856_phy20108a.jpg\" class=\"img-fluid\">\n</div><p>Length of the string<br>\nL = y + x = 0.5m<br>\n∴ x = L - y<br>\n= distance moved in the direction of force (which is the weight) when the body is released But cos 60o = y/0.5<br>\n∴ y = 0.5cos60 = 0.5 x 1/2 = 0.25<br>\n∴ x = l - y = 0.5 - 0.25 = 0.25m<br>\nWork done = force x distance moved in the direction of force.<br>\n= 0.1 x 0.25 = 0.025J</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.500 J",
+            "0.250 J",
+            "0.050 J",
+            "0.025 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2010,
+        "question": "Two metals P and Q of length l<sub>1</sub>and l<sub>2</sub>are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
+        "explanation": "Metals P, Q<br>original length lP, lQ<br>Increase in length ΔlP, ΔlQ<br>Linear expansivities αP, αQ<br>∴<sup>αP</sup>/<sub>αQ</sub>=<sup>2</sup>/<sub>3</sub>; and<sup>lP</sup>/<sub>lQ</sub>=<sup>3</sup>/<sub>4</sub><br>But increase in length, Δl = αlΔθ<br>∴ΔlP = αPlPΔθ<br>ΔlQ = αQlQΔθ<br><table><tbody><tr><td rowspan=\"2\">∴ </td><td style=\"border-bottom:solid 1px\">ΔlP</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">αPlPΔθ</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">2</td><td rowspan=\"2\"> x </td><td style=\"border-bottom:solid 1px\">3</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">1</td></tr><tr><td>ΔlQ</td><td>αQlQΔθ</td><td>3</td><td>4</td><td>2</td></tr></tbody></table><br>∴ Ratio of increase in length of P to Q = 1:2",
+        "correctIndex": 2,
+        "options": [
+            "7:5",
+            "5:7",
+            "1:2",
+            "2:1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2010,
+        "question": "THe velocity of sound in air at 16<sup>o</sup>C is 340ms<sup>-1</sup>. What will it be when the pressure is doubled and its temperature raised to 127<sup>o</sup>C?",
+        "explanation": "The velocity of sound in air, V∝√T, where T is absolute temperature<br>Thus V = K√T or K =<sup>V</sup>/<sub>T</sub><br>V is independent of pressure and density at a fixed temperature.<br>∴<sup>V<sub>1</sub></sup>/<sub>√T<sub>1</sub></sub>=<sup>V<sub>2</sub></sup>/<sub>√T<sub>2</sub></sub><br>T<sub>1</sub>= 16 + 273 = 289K, V<sub>1</sub>= 340ms<sup>-1</sup><br>T<sub>2</sub>= 127 + 273 = 400K, V<sub>2</sub>= ?<br><table><tbody><tr><td style=\"border-bottom:solid 1px\">340</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">V<sub>2</sub></td></tr><tr><td>√289</td><td>√400</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">∴ V<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">340√400</td></tr><tr><td>_√289</td></tr></tbody></table><br>= 400m/s",
+        "correctIndex": 0,
+        "options": [
+            "400 ms<sup>-1</sup>",
+            "4,000 ms<sup>-1</sup>",
+            "8,000 ms<sup>-1</sup>",
+            "160,000 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2010,
+        "question": "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13641559390_phy201034a.jpg\" class=\"img-fluid\">\n</div>C = C1 + C2 + C3<br>= 2 + 4 + 8 = 14μF<br>V = 6V<br>Energy =<sup>1</sup>/<sub>2</sub>CV<sup>2</sup><br><sup>1</sup>/<sub>2</sub>x 14 x 10<sup>-6</sup>x 6<sup>2</sup><br>= 2.52 x 10<sup>-4</sup>J",
+        "correctIndex": 2,
+        "options": [
+            "2.52 x 10<sup>-6</sup>J",
+            "6.90 x 10<sup>-6</sup>J",
+            "2.52 x 10<sup>-4</sup>J",
+            "6.90 x 10<sup>-4</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2010,
+        "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5456632140_phy201035a.jpg\" class=\"img-fluid\">\n</div>I = E/(R+r)<br>= 12/6 = 2A",
+        "correctIndex": 3,
+        "options": [
+            "5 A",
+            "4 A",
+            "3 A",
+            "2 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19098223536_phy201036.jpg\" class=\"img-fluid\">",
+        "explanation": "<sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>8</sub>+<sup>1</sup>/<sub>8</sub>=<sup>2</sup>/<sub>8</sub><br>∴ R = 4Ω<br><sup>l</sup>/<sub>l<sub>1</sub></sub>=<sup>R</sup>/<sub>R<sub>1</sub></sub><br>(x)/(100-x) = 4/8<br>4(100-x) = 8x<br>400-4x = 8x<br>400 = 8x + 4x = 12x<br>x = 400/12 = 33.3cm",
+        "correctIndex": 2,
+        "options": [
+            "75.0 cm",
+            "66.7 cm",
+            "33.3 cm",
+            "25.0 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2010,
+        "question": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/16370417304_phy201037a.jpg\" class=\"img-fluid\">\n</div><sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>4</sub>+<sup>1</sup>/<sub>4</sub>+<sup>1</sup>/<sub>4</sub>=<sup>3</sup>/<sub>4</sub><br>R =<sup>4</sup>/<sub>3</sub><br>I =<sup>V</sup>/<sub>R</sub><br><table><tbody><tr><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">16</td></tr><tr><td><sup>4</sup>/<sub>3</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">16 x 3</td></tr><tr><td>_4</td></tr></tbody></table><br>= 12 A",
+        "correctIndex": 1,
+        "options": [
+            "14 A",
+            "12 A",
+            "10 A",
+            "8 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17734599181_phy201038.jpg\" class=\"img-fluid\">",
+        "explanation": "Energy consumed = power x time<br>= 200W x 24hr = 4800wh<br>= 4.8 kwh<br>But 1 kwh cost N40<br>∴ 4.8kwh costs 4.8 x 40<br>= N192",
+        "correctIndex": 1,
+        "options": [
+            "N1,920.00",
+            "N192.00",
+            "N19.20",
+            "N1.92"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25919826239_phy201040.jpg\" class=\"img-fluid\">",
+        "explanation": "IN magnetisation by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+        "correctIndex": 2,
+        "options": [
+            "south and north",
+            "north and south",
+            "north and north",
+            "south and south"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2010,
+        "question": "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives",
+        "explanation": "In Faradays law of electrolysis<br>M = It = Q<br>Where M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+        "correctIndex": 1,
+        "options": [
+            "the energy released",
+            "the electrochemical equivalent",
+            "the current flowing",
+            "the charge released"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2010,
+        "question": "Rationalize \\( \\frac{2\\sqrt{3}} + \\sqrt{5} \\sqrt{5} - \\sqrt{3} \\)",
+        "explanation": "\\(\\frac{2\\sqrt{3}} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}\\) = \\(\\frac{\\sqrt{5}} + 2\\sqrt{3}}{\\sqrt{5} - \\sqrt{3}\\) x \\(\\frac{\\sqrt{5}} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}\\)<br><br>\\(\\frac{5 + \\sqrt{15} + 2\\sqrt{15} + 2 \\times 3}{(\\sqrt{5} - \\sqrt{3})^2\\)<br><br>= \\(\\frac{5 + 3\\sqrt{15} +6} {5 - 3)\\)<br><br>= \\(\\frac{11 + 3\\sqrt{15}}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "3√15 - 11",
+            "\\(\\frac{3\\sqrt {15} - 11}{2}\\)",
+            "3√15 + 11",
+            "\\(\\frac{3\\sqrt {15} + 11}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2010,
+        "question": "An object is weighted at different locations on the earth. What will be the right observation?",
+        "explanation": "The weight of a body is the resultant of earth's gravitational pull on it. The earth is not a perfect sphere, it is more flattened at the poles and bulges at the equator. Hence an object at the pole is closer to the earth's center than the one at the equator. The weight of a body at the poles should be more than that of when weighed at the equator.<br><br>Thus weight varies from place to place while the mass of a body being the quantity of matter it contains remains the same at different points on the earth.",
+        "correctIndex": 2,
+        "options": [
+            "Both the mass and weight are constant",
+            "Both the mass and weight vary",
+            "the mass is constant while the weight varies",
+            "the weight is constant while the mass varies"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2010,
+        "question": "The radioisotope \\( ^{235}_{92}U \\) decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "215 and 88",
+            "91 and 227",
+            "227 and 91",
+            "92 and 238"
+        ],
+        "type": "objectives"
+    }
+]

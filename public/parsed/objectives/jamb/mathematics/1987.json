@@ -1,0 +1,754 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1987,
+        "question": "Convert 241 in base 5 to base 8,",
+        "explanation": "241<sub>5</sub>= 2 x 5<sup>2</sup>+ 4 x 5 + 1 x 5 + 1 x 5<sup>o</sup><br><br>50 + 20 + 1 = 71<sub>10</sub><br><br>Convert 71<sub>10</sub>to base 8<br>\\(\\begin{array}{c|c} 8 &amp; 71 \\\\ 8 &amp; 8 R 7\\\\8 &amp; 1 R 0\\\\8 &amp; 0 R 1\\end{array}\\)<br><br>= 107<sub>8</sub>",
+        "correctIndex": 1,
+        "options": [
+            "71<sub>8</sub>",
+            "107<sub>8</sub>",
+            "176<sub>8</sub>",
+            "241<sub>8</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1987,
+        "question": "Find the least length of a rod which can be cut into exactly equal strips, each of either 40cm or 48cm in length",
+        "explanation": "The least length is \\(\\frac{40}{48}\\) = \\(\\frac{5}{8}\\)<br><br>for the rod to be cut in exactly equal trips<br><br>Ratio \\(\\frac{5}{6}\\) : \\(\\frac{48}{40}\\)<br><br>\\(\\frac{\\frac{5}{6}}{\\frac{40}{48}}\\) = 1<br><br>\\(\\frac{5}{6}\\) x \\(\\frac{48}{40}\\) = \\(\\frac{240}{240}\\) = 1<br><br>The least length = 240cm",
+        "correctIndex": 1,
+        "options": [
+            "120cm",
+            "240cm",
+            "360cm",
+            "480cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1987,
+        "question": "<p>A rectangular lawn has an area of 1815 square yards. if its length is 50 meters, find its width in meters given that 1 metre equals 1.1 yards</p>",
+        "explanation": "<p>1m = 1.1 yard, length(L)= 50m<br>\n<br>\n= (50 x 1.1)yards<br>\n<br>\n= 55 yards<br>\n<br>\nArea(A) = length(L) y width (W)<br>\n<br>\n1815 = 55y width (W)<br>\n<br>\nwidth (w) = \\(\\frac{1815}{55}\\)<br>\n<br>\n= 33 yards</p><p>But 33 yards = 30 meters</p>",
+        "correctIndex": 3,
+        "options": [
+            "39.93",
+            "35.00",
+            "33.00",
+            "30.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1987,
+        "question": "Reduce each number to two significant figures and then evaluate \\(\\frac{0.021741 \\times 1.2047}{0.023789}\\)",
+        "explanation": "\\(\\frac{0.021741 \\times 1.2047}{0.023789}\\) = \\(\\frac{0.022 \\times 1.2}{0.024}\\) (to 216)<br><br>= \\(\\frac{0.0264}{0.024}\\)<br><br>= 1.1",
+        "correctIndex": 2,
+        "options": [
+            "0.8",
+            "0.9",
+            "1.1",
+            "1.2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1987,
+        "question": "A train moves from P to Q at an average speed of 90km/h and immediately returns from Q to P through the same route at an average speed of 45km/h. Find the average speed for the entire journey",
+        "explanation": "Average speed from P to Q = 90km\\h<br><br>Average speed from O to P = 45km/h<br><br>Average for the entire journey = 90 + 45<br><br>\\(\\frac{135}{2}\\) = 67.50 km/h",
+        "correctIndex": 2,
+        "options": [
+            "55.00km/h",
+            "60.00km/h",
+            "67.50km\\h",
+            "75.00km\\h"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1987,
+        "question": "If the length of a square is increased by 20% while while its width is decreased by 20% to form a rectangle, what is the ratio of the area of the rectangle to the area of the square?",
+        "explanation": "Length and width of a square is 100%<br><br>Length increased by 20% and<br><br>Width decreased by 20% to form a rectangle<br><br>Length of rectangle = 120% to form a rectangle<br><br>Length of rectangle = 120% and<br><br>Width of rectangle = 80%<br><br>Area of rectangle = L x W<br><br>Area of square = W<br><br>Ratio of the area of the rectangle to the area of the square<br><br>A = \\(\\frac{\\text{Area of rectangle}}{\\text{Area of square}}\\)<br><br>\\(\\frac{120 \\times 30}{100 \\times 100}\\) = \\(\\frac{96}{100}\\)<br><br>= 24 : 25",
+        "correctIndex": 3,
+        "options": [
+            "6 : 5",
+            "25 : 24",
+            "5 : 6",
+            "24 : 25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1987,
+        "question": "Two brothers invested a total of N5,000.00 on a farm project, the farm yield was sold for N 15,000.00 at the end of the season. If the profit was shared in the ratio 2 : 3, what is the difference in the amount to profit received by the brothers?",
+        "explanation": "Total amount invested by A and B = N5,000<br><br>farm yield was sold for N15,000.00<br><br>profit = 15,000.00 - 5,000.00<br><br>= N10,000.00<br><br>Profit was shared in ratio 2 : 3<br><br>2 + 3 = 5<br><br>A received \\(\\frac{2}{5}\\) of profit = \\(\\frac{2}{5}\\) x 10,000 = N4,000.00<br><br>A receive \\(\\frac{3}{5}\\) of profit = \\(\\frac{3}{5}\\) x 10,000 = N6,000.00<br><br>Difference in profit received = N6,0000 - N4,000.00<br><br>= N2,000.00",
+        "correctIndex": 0,
+        "options": [
+            "N2,000.00",
+            "N4,000.00",
+            "N6,000.00",
+            "N10,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1987,
+        "question": "A man invests a sum of money at 4% per annum simple invest. After 3 years, the principal amounts to N7,000.00. Find the sum invested",
+        "explanation": "I = \\(\\frac{PRT}{100}\\)<br><br>100(A - P) = prt<br><br>P = \\(\\frac{100A}{100 + RT}\\)<br><br>= \\(\\frac{100 \\times 7000}{100 + (4 \\times 3)}\\)<br><br>p = \\(\\frac{700,000}{112}\\)<br><br>= N6,250.00",
+        "correctIndex": 1,
+        "options": [
+            "N7,840",
+            "N6,250.00",
+            "N616.00",
+            "N5,833.33"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1987,
+        "question": "By selling 20 oranges for N1.35 a trader makes a profit of 8%. What is his percentage gain or loss if he sells the same 20 oranges for N1.10?",
+        "explanation": "profit 8% of N1.35 = \\(\\frac{8}{100}\\) x N1.35 = N0.08<br><br>Cost price = N1.35 - N0.10 = N1.25<br><br>If he sells the 20 oranges for N1.10 now<br><br>%loss = \\(\\frac{\\text{actual loss}}{\\text{Cost price}}\\) x 100<br><br>\\(\\frac{125 - 1.10}{1.25}\\) x 100<br><br>= \\(\\frac{0.15 \\times 100}{1.25}\\)<br><br>= \\(\\frac{15}{1.25}\\)<br><br>= 12%",
+        "correctIndex": 2,
+        "options": [
+            "8%",
+            "10%",
+            "12%",
+            "15%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1987,
+        "question": "Four boys and ten girls can cut a field in 5 hours if the boys work at \\(\\frac{5}{4}\\) the rate at which the girls work. How many boys will be needed to cut the field in 3 hours?",
+        "explanation": "Let x represents number of boys that can work at \\(\\frac{5}{4}\\) the rate at which the 10 girls work<br><br>For 1hr. x boys will work for \\(\\frac{\\frac{1}{5}}{4}\\) x 10<br><br>x = \\(\\frac{4}{5}\\) x 10 = 8 boys<br><br>8 boys will do the work of ten girls at the same rate 4 + 8 = 12 boys cut the field in 5 hrs<br><br>For 3 hrs, \\(\\frac{12 \\times 5}{3}\\) boys will be needed = 20 boys",
+        "correctIndex": 3,
+        "options": [
+            "180",
+            "60",
+            "25",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1987,
+        "question": "Evaluate without using tables (0.008) -\\(\\frac{1}{3}\\) x (0.16) - \\(\\frac{3}{2}\\)",
+        "explanation": "(0.008) -\\(\\frac{1}{3}\\) x (0.16) - \\(\\frac{3}{2}\\) = (8 x 10<sup>-3</sup>)10<sup>-3</sup>x (16 x 10<sup>-2</sup>)-\\(\\frac{3}{2}\\)<br><br>= \\(\\frac{(2^3)}{10^3}\\) - 3 x \\(\\frac{(2^4)}{10}\\) - \\(\\frac{-3}{2}\\)<br><br>= \\(\\frac{625}{8}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{625}{8}\\)",
+            "\\(\\frac{8}{625}\\)",
+            "\\(\\frac{1}{8}\\)",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1987,
+        "question": "Simplify without using tables \\(\\frac{log_26}{log_28}\\) - \\(\\frac{log_23}{log_2\\frac{1}{2}}\\)",
+        "explanation": "log<sub>2</sub>6 - log<sub>2</sub>3 = log<sub>2</sub>(\\(\\frac{6}{3}\\)) = log<sub>2</sub>2<br><br>log<sub>2</sub>8 - 2\\(\\frac{1}{2}\\) log<sub>2</sub>8 - log<sub>2</sub>\\(\\frac{1}{2}\\) log<sub>2</sub>8 - log<sub>2</sub>\\(\\frac{1}{4}\\)<br><br>\\(\\frac{log_22}{log_232} = \\frac{log_22}{5log_22}\\)<br><br>= \\(\\frac{1}{5}\\)<br><br>N.B. log<sub>2</sub>2 = 1",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{-1}{2}\\)",
+            "\\(\\frac{log_23}{log_27}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1987,
+        "question": "<p>Simplify without using tables \\(\\frac{2\\sqrt{14} \\times 3\\sqrt{21}}{7\\sqrt{24} \\times 2\\sqrt{98}}\\)</p>",
+        "explanation": "<p>\\(\\frac{2\\sqrt{14} \\times 3\\sqrt{21}}{7 \\sqrt{24} \\times 2\\sqrt{98}}\\) = \\(\\frac{6\\sqrt{14} \\times 3 \\times \\sqrt{7} \\times \\sqrt{3}}{7 \\times 2 \\sqrt{6} \\times \\sqrt{7} \\times \\sqrt{14}}\\)<br>\n<br>\n= \\(\\frac{3\\sqrt{3}}{14\\sqrt{6}}\\)<br>\n<br>\n= \\(\\frac{3\\sqrt{3}}{14\\sqrt{2} \\times \\sqrt{3}}\\)<br>\n<br>\n<br>\n<br>\n= \\(\\frac{3\\sqrt{2}}{28}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\frac{3\\sqrt{14}}{4}\\)",
+            "\\(\\frac{3\\sqrt{2}}{4}\\)",
+            "\\(\\frac{3\\sqrt{14}}{28}\\)",
+            "\\(\\frac{3\\sqrt{2}}{28}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1987,
+        "question": "If P = \\(\\frac{2}{3}\\) (\\(\\frac{1 - r^2}{n^2}\\)), find n when r = \\(\\frac{1}{3}\\) and p = 1",
+        "explanation": "If P = \\(\\frac{2}{3}\\) (\\(\\frac{1 - r^2}{n^2}\\)), find n when r = \\(\\frac{1}{3}\\) and p = 1<br><br>p = \\(\\frac{2(1 - r^2)}{3n^2}\\) when r = \\(\\frac{1}{3}\\) and p = 1<br><br>1 = \\(\\frac{2}{3}\\) \\(\\frac{(1 - (\\frac{1}{3})^2)}{n^2}\\)<br><br>n<sup>2</sup>= \\(\\frac{2(3 - 1)}{3 \\times 3}\\)<br><br>n<sup>2</sup>= \\(\\frac{2 \\times 2}{3 \\times 3}\\)<br><br>= \\(\\frac{4}{9}\\)<br><br>n = \\(\\frac{4}{9}\\)<br><br>= \\(\\frac{2}{3}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "3",
+            "\\(\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1987,
+        "question": "If a u<sup>2</sup>- 3v<sup>2</sup>and b = 2uv + v<sup>2</sup>evaluate (2a - b)(a - b<sup>2</sup>), when u = 1 and v = -1",
+        "explanation": "a = u<sup>2</sup>- 3y<sup>2</sup>= (1)<sup>2</sup>- 3(-1) = -2<br><br>b = 2uu + v<sup>2</sup>+ v<sup>2</sup><br><br>= 2(1)(-1) + (-1)<sup>2</sup>= -1<br><br>∴ 2(2a - b)(a - b∴) = [2(-2) - 1](-2 - (-1)2)<br><br>= -3 - 3<br><br>= 9",
+        "correctIndex": 0,
+        "options": [
+            "9",
+            "15",
+            "27",
+            "33"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1987,
+        "question": "<p>The formula Q = 1.5 + 0.5n gives the cost Q(in Naira)of feeding n people for a week. Find (in kobo) the extra cost of feeding one additional person</p>",
+        "explanation": "<p>Q = 1.5 + 0.5n gives the cost 1(in Naira) of feeding n people for a week. Extra cost of feeding one additional person = n = 1<br>\n<br>\nSubt. for n in the formula Q = 1.5 + 0.5(1)<br>\n<br>\n= 15 + 0.5<br>\n<br>\nQ = N2<br>\n<br>\n= 200k</p>",
+        "correctIndex": 1,
+        "options": [
+            "350k",
+            "200k",
+            "150k",
+            "50k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1987,
+        "question": "If P varies inversely as V and V varies directly as R<sup>2</sup>, find the relationship between P and R given that R = 7 when P = 2",
+        "explanation": "P = \\(\\frac{1}{v}\\) and vR<sup>2</sup>= P = \\(\\frac{k}{v}\\)......(i)<br><br>and v KR<sup>2</sup>.......(ii)<br><br>(where k is constant)<br><br>Subst. for v in equation (i) = p = \\(\\frac{1^2}{KR}\\).....(ii)<br><br>when r = 7, p = 2<br><br>2 = \\(\\frac{k}{7^2}\\)<br><br>k = 2 x 49<br><br>= 98<br><br>Subt. foe k in ....(iii)<br><br>P = \\(\\frac{98}{R^2}\\)<br><br>PR<sup>2</sup>= 98",
+        "correctIndex": 1,
+        "options": [
+            "P = 98R<sup>2</sup>",
+            "PR<sup>2</sup>= 98",
+            "P = \\(\\frac{1}{98R<sup>2</sup>",
+            "P = \\(\\frac{PR<sup>2</sup>}{98}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1987,
+        "question": "<p>Make y the subject of the formula Z = x\\(^2\\) + \\(\\frac{1}{y^3}\\)</p>",
+        "explanation": "<p>Z = x\\(^2\\) + \\(\\frac{1}{y^3}\\)<br>\n<br>\nZ - x\\(^2\\) = \\(\\frac{1}{y^3}\\)<br>\n<br>\ny\\(^3\\) = \\(\\frac{1}{Z - x^2}\\)<br>\n<br>\ny = \\(\\sqrt[3]{\\frac{1}{Z - x^2}}\\)<br>\n<br>\n∴ y = \\(\\frac{1}{\\sqrt[3]{Z - x^2}}\\)</p><p>y = \\(\\frac{1}{(Z - x^2)^{\\frac{1}{3}}}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "y = \\(\\frac{1}{(Z - x^2)^3}\\)",
+            "y = \\(\\frac{1}{(Z + x^2)^{\\frac{1}{3}}}\\)",
+            "y = \\(\\frac{1}{(Z - x^2)^{\\frac{1}{3}}}\\)",
+            "y = \\(\\frac{1}{\\sqrt[3]{Z} - \\sqrt[3]{x^2}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1987,
+        "question": "Find the values of m which make the following quadratic function a perfect square. x<sup>2</sup>+ 2(m + 1)x + m + 3",
+        "explanation": "x<sup>2</sup>+ 2(m + 1)x + m + 3 from (A + B)<sup>2</sup>= a<sup>2</sup>+ 2AB + b<sup>2</sup><br><br>2B = \\(\\frac{2(m + 1)}{2}\\) = m + 1 .......(i)<br><br>Also B<sup>2</sup>= m + 3..........(ii)<br><br>Subst. for B in equation ..........(iii)<br><br>= (m + 1)<sup>2</sup>= m + 3 = m<sup>2</sup>+ 2m + 1 = m + 3<br><br>= m<sup>2</sup>+ 2m - m + 1 - 3 = 0<br><br>m<sup>2</sup>+ m - 2 = 0<br><br>(m + 2)(m - 1) = 0 or m - 1 = 0<br><br>m = -2 or 1",
+        "correctIndex": 2,
+        "options": [
+            "-1, 1",
+            "-1, 2",
+            "1, -2",
+            "2, -2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1987,
+        "question": "Factorize 6<sup>2x + 1</sup>+ 7(6<sup>x</sup>) - 5",
+        "explanation": "6<sup>2x + 1</sup>+ 7(6<sup>x</sup>) - 5<br><br>Let 6<sup>x</sup>= y....(i)<br><br>6y<sup>x</sup>+ 7y - 5 = 0<br><br>(3y + 5)(2y - 1) = 0.....(i)<br><br>Subt. for y from eqn. (i) in eqn. (ii)<br><br>= [3(6<sup>x</sup>) + 5][2(6<sup>x</sup>) - 1]",
+        "correctIndex": 1,
+        "options": [
+            "[3(6<sup>x</sup>) - 5][2(6<sup>x</sup>)m + 1]",
+            "[3(6<sup>x</sup>) + 5][2(6<sup>x</sup>) - 1]",
+            "[(6<sup>x</sup>) - 5][3(6<sup>x</sup>) + 1]",
+            "[2(6<sup>x</sup>) + 5][3(6<sup>x</sup>) - 1]"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1987,
+        "question": "Find the values of y which satisfy the simultaneous equations x + y = 5, x<sup>2</sup>- 2y<sup>2</sup>= 1",
+        "explanation": "x + y = 5.......(i)<br><br>x<sup>2</sup>- 2y<sup>2</sup>= 1.......(ii)<br><br>x = 5 - y.........(iii)<br><br>Subst. for x in eqn.(ii) = (5 - y)<sup>2</sup>- 2y<sup>2</sup>= 1<br><br>25- 10y + y<sup>2</sup>- 2y<sup>2</sup>= 1<br><br>25 - 1 = y<sup>2</sup>+ 10y<br><br>y<sup>2</sup>+ 10y<sup>2</sup>- 24 = 0<br><br>(y + 12)(y - 2) = 0<br><br>Then Either y + 12 = 0 or y - 2 = 0<br><br>= (12, -2)",
+        "correctIndex": 2,
+        "options": [
+            "-12, -2",
+            "-12, 12",
+            "12, -2",
+            "2, -2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1987,
+        "question": "An (n - 2)<sup>2</sup>sided figure has n diagonals. Find the number n diagonals for 25-sided figure",
+        "explanation": "(n - 2)<sup>2</sup>= 25<br><br>n - 2 = 25 = 5<br><br>n = 5 + 2<br><br>= 7",
+        "correctIndex": 0,
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1987,
+        "question": "Solve the inequality x - 1 &gt; 4(x + 2)",
+        "explanation": "x - 1 &gt; 4(x + 2) = x - 1 &gt; 4x + 8<br><br>4x + 8 &lt; x - 1 = 4x - x &lt; -1 -8<br><br>= 3x &lt; -9<br><br>∴ x &lt; -3",
+        "correctIndex": 1,
+        "options": [
+            "x &gt; -3",
+            "x &lt; -3",
+            "2 &lt; x &lt; 3",
+            "-3 &lt; x &lt; -2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1987,
+        "question": "<p>Simplify \\(\\frac{x^2 - y^2}{2x^2 + xy - y^2}\\)</p>",
+        "explanation": "<p>\\(\\frac{x^{2} - y^{2}}{2x^{2} + xy - y^{2}}\\)</p><p>\\(2x^{2} + xy - y^{2} = 2x^{2} - xy + 2xy - y^{2}\\)</p><p>= \\(x(2x - y) + y(2x - y) \\)</p><p>= \\((x + y)(2x - y)\\)</p><p>\\(\\frac{x^{2} - y^{2}}{2x^{2} + xy - y^{2}} = \\frac{(x + y)(x - y)}{(x + y)(2x - y)}\\)</p><p>= \\(\\frac{x - y}{2x - y}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{x + y}{2x + y}\\)",
+            "\\(\\frac{x + y}{2x - y}\\)",
+            "\\(\\frac{x - y}{2x - y}\\)",
+            "\\(\\frac{x - y}{2x + y}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1987,
+        "question": "<p>The minimum value of y in the equation y = x\\(^2\\) - 6x + 8 is</p>",
+        "explanation": "<p>y = x\\(^2\\) - 6x + 8<br>\n<br>\n\\(\\frac{dy}{dx}\\) = 2x - 6<br>\n<br>\n\\(\\frac{dy}{dx}\\) = 0<br>\n<br>\n2x - 6 = 0<br>\n<br>\nx = 3</p><p>\\(\\therefore\\) y = 3\\(^2\\) - 6(3) + 8</p><p>= 9 - 18 + 8</p><p>= -1</p>",
+        "correctIndex": 3,
+        "options": [
+            "8",
+            "3",
+            "7",
+            "-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1987,
+        "question": "Find the eleventh term of the progression 4, 8, 16.....",
+        "explanation": "a = 4, r = \\(\\frac{4}{2}\\)<br><br>\\(\\frac{8}{4}\\) = 2<br><br>n = 11<br><br>T<sub>n</sub>= ar<sup>n - 1</sup><br><br>T<sub>11</sub>= 4(2)<sup>11 - 1</sup><br><br>4(2)<sup>10</sup>= 2<sup>12</sup><br><br>since 4 = 2<sup>2</sup><br><br>= 2<sup>12</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2<sup>13</sup>",
+            "2<sup>12</sup>",
+            "2<sup>11</sup>",
+            "2<sup>10</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1987,
+        "question": "<p>Three angles of a nonagon are equal and the sum of six other angles is 1110o. Calculate the size of one of the equal angles</p>",
+        "explanation": "<p>Sum of interior angles of any polygon is (2n - 4) right angle; n angles of the Nonagon = 9<br>\n<br>\nWhere 3 are equal and 6 other angles = 1110o<br>\n<br>\n(2 x 9 - 4)90o = (18 - 4)90o<br>\n<br>\n14 x 90o = 1260o<br>\n<br>\n9 angles = 1260°; 6 angles = 110o<br>\n<br>\nRemaining 3 angles = 1260o - 1110o = 150o<br>\n<br>\nSize of one of the 3 angles \\(\\frac{150}{3}\\) = 50o</p>",
+        "correctIndex": 3,
+        "options": [
+            "210<sup>o</sup>",
+            "150<sup>o</sup>",
+            "105<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1987,
+        "question": "<p>Two chords QR and NP of a circle intersect inside the circle at x. If RQP = 37o, RQN = 49o and QPN = 35o, find PRQ</p>",
+        "explanation": "<p>In PNO, ONP<br>\n<br>\n= 180 - (35 + 86)<br>\n<br>\n= 180 - 121<br>\n<br>\n= 59°<br>\n<br>\nPRQ = QNP = 59°(angles in the same segment of a circle are equal)</p>",
+        "correctIndex": 3,
+        "options": [
+            "35<sup>o</sup>",
+            "37<sup>o</sup>",
+            "49<sup>o</sup>",
+            "59<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1987,
+        "question": "<p>The sine, cosine and tangent of 210o are respectively</p>",
+        "explanation": "<p>210o = 180o - 210o = - 30o<br>\n<br>\nFrom ratio of sides, sin -30o = -\\(\\frac{1}{2}\\)<br>\n<br>\nCos 210o = 180o - 210o = -30o<br>\n<br>\n= cos -30o = \\(\\frac{-3}{2}\\)<br>\n<br>\nBut tan 30o = \\(\\frac{1}{\\sqrt{3}}\\), rationalizing this<br>\n<br>\n= \\(\\frac{1}{\\sqrt{3}}\\) x \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\) = \\(\\frac{\\sqrt{3}}{3}\\)<br>\n<br>\n∴ = \\(\\frac{-1}{2}\\), \\(\\frac{\\sqrt{-3}}{2}\\), \\(\\frac{\\sqrt{3}}{3}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{2}\\), \\(\\frac{\\sqrt{3}}{2}\\), \\(\\frac{\\sqrt{3}}{2}\\)",
+            "\\(\\frac{1}{2}\\), \\(\\frac{\\sqrt{3}}{2}\\), \\(\\frac{\\sqrt{3}}{3}\\)",
+            "\\(\\frac{1}{2}\\), \\(\\frac{\\sqrt{3}}{2}\\), \\(\\frac{\\sqrt{3}}{2}\\)",
+            "\\(\\frac{-1}{2}\\), \\(\\frac{\\sqrt{-3}}{2}\\), \\(\\frac{\\sqrt{3}}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1987,
+        "question": "If tan \\(\\theta\\) = \\(\\frac{m^2 - n^2}{2mn}\\) find sec\\(\\theta\\)",
+        "explanation": "Tan \\(\\theta\\) = \\(\\frac{m^2 - n^2}{2mn}\\)<br><br>\\(\\frac{\\text{Opp}}{\\text{Adj}}\\) by pathagoras theorem<br><br>= Hyp<sup>2</sup>= Opp<sup>2</sup>+ Adj<sup>2</sup><br><br>Hyp<sup>2</sup>= (m<sup>2</sup>- n<sup>2</sup>) + (2mn)<sup>2</sup><br><br>Hyp<sup>2</sup>= m<sup>4</sup>- 2m<sup>2</sup>n<sup>4</sup>- 4m<sup>2</sup>- n<sup>2</sup><br><br>Hyp<sup>2</sup>= m<sup>4</sup>+ 2m<sup>2</sup>+ n<sup>2</sup>n<br><br>Hyp<sup>2</sup>= (m<sup>2</sup>- n<sup>2</sup>)<sup>2</sup><br><br>Hyp<sup>2</sup>= \\(\\frac{m^2 + n^2}{2mn}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{m^2 + n^2}{(m^2 - n^2)}\\)",
+            "\\(\\frac{m^2 + n^2}{2mn}\\)",
+            "\\(\\frac{mn}{2(m^2 + n^2)}\\)",
+            "\\(\\frac{m^2n^2}{2(m^2 - n^2)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1987,
+        "question": "From two points x and y, 8m apart, and in line with a pole, the angle of elevation of the top of the pole are 30<sup>o</sup>and 60<sup>o</sup>respectively. Fins the height of the pole assuming that x, y and the foot of the pole are the same horizontal plane and x and y are on the same side of the pole.",
+        "explanation": "From the diagram, WYZ = 60<sup>o</sup>, XYW = 180<sup>o</sup>- 60<sup>o</sup><br><br>= 120<sup>o</sup><br><br>LX = 30<sup>o</sup><br><br>XWY = 180<sup>o</sup>- 120<sup>o</sup>+ 30<sup>o</sup><br><br>XWY = 30<sup>o</sup><br><br>WXY = XYW = 30<sup>o</sup><br><br>Side XY = YW<br><br>YW = 8m, sin 60<sup>o</sup>= \\(\\frac{3}{2}\\)<br><br>∴ sin 60<sup>o</sup>= \\(\\frac{h}{YW}\\), sin 60<sup>o</sup>= \\(\\frac{h}{8}\\)<br><br>h = 8 x \\(\\frac{3}{2}\\)<br><br>= 4\\(\\sqrt{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\sqrt{6}\\)",
+            "4\\(\\sqrt{3}\\)",
+            "\\(\\sqrt{3}\\)",
+            "\\(\\frac{12}{\\sqrt{3}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1987,
+        "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room",
+        "explanation": "ABCD is the floor, by pythagoras<br><br>AC<sup>2</sup>= 144 + 81 = \\(\\sqrt{225}\\)<br><br>AC = 15cm<br><br>Height of room is 8m, diagonal of floor is 15m<br><br>∴ The cosine of the angle which a diagonal of the room makes with the floor is EC<sup>2</sup>= 15<sup>2</sup><br><br>cosine = \\(\\frac{\\text{adj}}{\\text{hyp}}\\) = \\(\\frac{15}{17}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{5}{17}\\)",
+            "\\(\\frac{8}{17}\\)",
+            "\\(\\frac{8}{15}\\)",
+            "\\(\\frac{12}{17}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1987,
+        "question": "<p>What is the circumference of latitude 0°S if R is the radius of the earth?</p>",
+        "explanation": "<p>Circumference of Latitude 0oS where R is the radius of the earth is = 2\\(\\pi\\) R cos \\(\\theta\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "R cos\\(\\theta\\)",
+            "2\\(\\pi\\) R cos \\(\\theta\\)",
+            "R sin \\(\\theta\\)",
+            "2\\(\\pi\\) R sin \\(\\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1987,
+        "question": "The base of a pyramid is a square of side 8cm. If its vertex is directly above the centre, find the height, given that the edge is 4.3cm",
+        "explanation": "Base of pyramid of a square of side 8cm vertex directly above the centre edge = \\(4\\sqrt{3}\\)cm<br><br>From the diagram, the diagonal of one base is AC<sup>2</sup>= 8<sup>2</sup>+ 8<sup>2</sup><br><br>Ac<sup>2</sup>= 64 + 64 = 128<br><br>AC = \\(8\\sqrt{2}\\)<br><br>but OC = \\(\\frac{1}{2}\\)AC = 8\\(\\sqrt{\\frac{2}{2}}\\) = \\(4\\sqrt{2}\\)cm<br><br>OE = h = height<br><br>h<sup>2</sup>= (\\(4\\sqrt{3}\\))<sup>2</sup><br><br>16 x 2 - 16 x 2<br><br>48 - 32 = 16<br><br>h = \\(\\sqrt{16}\\)<br><br>= 4",
+        "correctIndex": 2,
+        "options": [
+            "6cm",
+            "5cm",
+            "4cm",
+            "3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1987,
+        "question": "<p>What is the locus of the mid-points of all chords of length 6cm within a circle of radius 5cm and with centre 0</p>",
+        "explanation": "<p>The locus of the mid-point of all chords of length 6cm within a circle of radius 5cm and with centre O is the perpendicular bisectors of the chords.</p>",
+        "correctIndex": 0,
+        "options": [
+            "A circle of radius 4 cm and with centre O",
+            "The perpendicular bisector of the chords",
+            "a straight line passing through centre O",
+            "A circle of radius 6 cm and with centre O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1987,
+        "question": "Taking the period of day light on a certain day to be from 5.30a.m to 7.00p.m. Calculate the angle of a pie chart designed to show the periods of the day light and of darkness on that day",
+        "explanation": "Period of day light is from 5.30 to 7.00p.m - 13hrs 30min. interval<br><br>24hrs make 1 day<br><br>∴ period of darkness = 24hrs - 13hrs 30mins = 10hrs 30mins.<br><br>Angle of sector of daylight = \\(\\frac{13 \\times 60 + 30 \\times 360}{(24 \\times 60)}\\)<br><br>= \\(\\frac{810}{1440}\\) x 360<sup>o</sup><br><br>= \\(\\frac{291600}{1440}\\)<br><br>= 202.5<sup>o</sup><br><br>202.5<sup>o</sup>= 202.30<sup>o</sup><br><br>darkness period = 360<sup>o</sup>- 202<sup>o</sup>30'<br><br>= 157<sup>o</sup>30'<br><br>= 202<sup>o</sup>30' 157<sup>o</sup>30'",
+        "correctIndex": 3,
+        "options": [
+            "187<sup>o</sup>30'",
+            "172<sup>o</sup>30'",
+            "135<sup>o</sup>225<sup>o</sup>",
+            "202<sup>o</sup>30' 157<sup>o</sup>30'"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1987,
+        "question": "The goals scored by 40 football teams from three league divisions are recorded below<br>\\(\\begin{array}{c|c} \\text{Number of goals} &amp; 0 &amp; 1 &amp; 2 &amp; 3 &amp; 4 &amp; 5 &amp; 6 \\\\ \\hline frequency &amp; 4 &amp; 3 &amp; 15 &amp; 16 &amp; 1 &amp; 0 &amp; 1\\end{array}\\)<br>What is the total number of goals scored by all the terms?",
+        "explanation": "Let x rep. number of goals<br>\\(\\begin{array}{c|c} \"f &amp; \" &amp; frequency\\\\\\hline x &amp; f &amp; fx\\\\ 0 &amp; 4 &amp; 0\\\\1 &amp; 3 &amp; 3\\\\2 &amp; 15 &amp; 30\\\\3 &amp; 16 &amp; 48\\\\4 &amp; 1 &amp; 4\\\\5 &amp; 0 &amp; 0 \\\\ 6 &amp; 1 &amp; 6\\end{array}\\)<br><br>\\(\\sum fx\\) = 91<br><br>Total number of goals scored is \\(\\sum fx\\)= 91",
+        "correctIndex": 2,
+        "options": [
+            "21",
+            "40",
+            "91",
+            "96"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1987,
+        "question": "The numbers 3, 2, 8, 5, 7, 12, 9 and 14 are the marks scored by a group of students in a class test. If P is scored by an group of students in a class test. If P is the mean and Q the median, the P + Q is",
+        "explanation": "Re-arranging them 2, 3, 5, 7, 8, 9, 12, 14<br><br>Mean = P and median = Q<br><br>P = \\(\\frac{2 + 2 + 5 + 7 + 8 + 9 + 12 + 14}{8}\\)<br><br>\\(\\frac{60}{8}\\) = 7.5<br><br>median (Q) = \\(\\frac{7 + 8}{2}\\)<br><br>\\(\\frac{15}{2}\\) = 7.5<br><br>P + Q = 7.5 + 7.5 = 15",
+        "correctIndex": 3,
+        "options": [
+            "18",
+            "17\\(\\frac{1}{2}\\)",
+            "16",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1987,
+        "question": "Below are the scores of group of students in a music test<br>\\(\\begin{array}{c|c}scores &amp; 1 &amp; 2 &amp; 3 &amp; 4 &amp; 5 &amp; 6 &amp; 7 &amp; 8 &amp; 9 \\\\ \\hline \\text{No, of students} &amp; 3 &amp; 6 &amp; 10 &amp; 8 &amp; 6 &amp; 5 &amp; 2 &amp; 4 &amp; 12\\end{array}\\)<br>If CF(x) is the number of students with scores less than or equal to x, find CF(6)",
+        "explanation": "CF (6) = 5 + 6 + 8 + 10 + 6 + 3<br><br>= 38",
+        "correctIndex": 1,
+        "options": [
+            "40",
+            "38",
+            "33",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1987,
+        "question": "Find the probability of selecting a figure which is a parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium",
+        "explanation": "A rectangle, a square and a rhombus are the only parallelogram<br><br>∴ Probability of a parallelogram = \\(\\frac{3}{5}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{2}{5}\\)",
+            "\\(\\frac{4}{5}\\)",
+            "\\(\\frac{1}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27118372136_maths-5%20(2).jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4281851640_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram, POQ is a diameter; o is the centre of the circle and TP is a tangent where RTP = 30<sup>o</sup><br><br>RTP = RQP = x(at circumference = made by tangent outside the circle) i.e x = 30<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "30<sup>o</sup>",
+            "40<sup>o</sup>",
+            "45<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19981982916_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": "h<sub>1</sub>= \\(\\frac{h_1 + h_2}{1.5}\\) = \\(\\frac{h_1}{h_2} = 2\\)<br><br>\\(\\frac{A_{\\bigtriangleup PQR}}{A_{TP(QRST)}} = \\frac{\\frac{1}{2} \\times 2 \\times h_1}{\\frac{1}{2} \\times h_2 (2 + 3)}\\)<br><br>\\(\\frac{2}{5} \\times \\frac{h_1}{h_2} = \\frac{2}{5} \\times 2\\)<br><br>= \\(\\frac{4}{5}\\)",
+        "correctIndex": 1,
+        "options": [
+            "4:9",
+            "4:5",
+            "1:3",
+            "2:3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17127429264_maths-9.jpg\" class=\"img-fluid\">",
+        "explanation": "Sum of interior angles of any polygon is (2n - 4) right angle; n angles of the nonagon = 9<br><br>where 3 are equal and 6 other angles = 1110<sup>o</sup><br><br>( 2 x 9 - 4)90<sup>o</sup>= (18 - 4)90<sup>o</sup><br><br>= 14 x 90<sup>o</sup>= 1260<sup>o</sup><br><br>9 angles = 12600, 6 angles = 1110<sup>o</sup><br><br>Remaining 3 angles = 1260<sup>o</sup>- 1110<sup>o</sup>= 150<sup>o</sup><br><br>size of one of the3 angles \\(\\frac{150}{3}\\) = 50<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "210<sup>o</sup>",
+            "150<sup>o</sup>",
+            "105<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14272860620_maths-10.jpg\" class=\"img-fluid\">",
+        "explanation": "Z = X = Y = 180<sup>o</sup>.........(i)<br><br>2Z + Y + Y = 190 = 2Z + 2Y = 180<br><br>Z + Y = 90<sup>o</sup>........(ii)<br><br>hence x + (z + y) = 180<br><br>x + 90<sup>o</sup>= 180<sup>o</sup><br><br>x = 180<sup>o</sup>- 90<sup>o</sup><br><br>= 90<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "110<sup>o</sup>",
+            "100<sup>o</sup>",
+            "90<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24263881839_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": "QR is a given line and P is a given point. The construction is the perpendicular from a given point P to a given line QR",
+        "correctIndex": 1,
+        "options": [
+            "perpendicular bisector of a given straight line QR",
+            "perpendicular from a given point to a given line QR",
+            "perpendicular to a line from a given point P on that line",
+            "given angle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1987,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191107_153143%20%282%29_LI.jpg\" style=\"height:340px; width:250px\"></p><p>In the figure, PQRS is a rectangle. If the shaded area is 72 sq. cm, find h.</p>",
+        "explanation": "<p>From the diagram, PQRS is a rectangle<br>\n<br>\nArea of shaded part = 72sq.cm<br>\n<br>\nBut 72 = 3h - 4 + 6h - 4 + 4h<br>\n<br>\n= 72 - 16h - 8<br>\n<br>\n= 16h - 72 + 8<br>\n<br>\n=16h = 80<br>\n<br>\nh = \\(\\frac{80}{16}\\)<br>\n<br>\n= 5cm</p>",
+        "correctIndex": 3,
+        "options": [
+            "12cm",
+            "10cm",
+            "8cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 1,
+        "year": 2016,
+        "question": "The following atoms of carbon<sup>12</sup><sub>6</sub>C,<sup>13</sup><sub>6</sub>C and<sup>14</sup><sub>6</sub>C can be described as?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Allotropes",
+            "Isomers",
+            "Isotopes",
+            "Isotones"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 2,
+        "year": 2016,
+        "question": "An atom X consist of 6 protons, 6 electrons and 7 neutrons. Which of the following representations of the atom is correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "<sup>13</sup><sub>6</sub>X",
+            "<sup>13</sup><sub>7</sub>X",
+            "<sup>19</sup><sub>6</sub>X",
+            "<sup>19</sup><sub>7</sub>X"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 3,
+        "year": 2016,
+        "question": "How many electron are present in 94Be2+?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 4,
+        "year": 2016,
+        "question": "<p>When element \\(_{20}\\)Y combines with element \\(_8\\)Z, it forms</p>",
+        "explanation": "<p>Y = 2,8,8,2 and Z = 2,6.</p><p>Y will readily give off its 2 valence electrons and Z will accept the 2 electrons in order to achieve octet configuration. Hence, the compound YZ is formed by ionic bonding.</p>",
+        "correctIndex": 2,
+        "options": [
+            "A covalent compound , YZ is formed",
+            "A covalent compound, ZY is formed",
+            "An ionic compound, YZ is formed",
+            "An ionic compound, ZY is formed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 5,
+        "year": 2016,
+        "question": "<p>The boiling points of HF, H2O and NH3 increase in the order of</p>",
+        "explanation": "<p>Ammonia = -33.34°C;  Hydrogen fluoride = 19.5°C; Water = 100°C</p>",
+        "correctIndex": 3,
+        "options": [
+            "NH<sub>3</sub>",
+            "H<sub>2</sub>O &lt; HF",
+            "HF &lt; NH<sub>3</sub>&lt; H<sub>2</sub>O",
+            "NH<sub>3</sub>&lt; HF &lt; H<sub>2</sub>O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 6,
+        "year": 2016,
+        "question": "Chemicals that are produced in small quantities and with very degree of purity are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Bulk chemicals",
+            "Fine chemicals",
+            "Heavy chemicals",
+            "Light chemicals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 7,
+        "year": 2016,
+        "question": "The mass of potassium hydroxide required to make 300.ocm<sup>3</sup>of 0.4 moldm<sup>-3</sup>solution is {KOH = 56.0}",
+        "explanation": "300cm<sup>3</sup>of 0.4moldm<sup>3</sup><br><br>1000cm<sup>3</sup>contains 0.4mole<br><br>300cm<sup>3</sup>will contain \\(\\frac{300 \\times 0.4}{1000}\\)<br><br>= 0.12mole<br><br>Number of moles = \\(\\frac{Mass}{\\text {Molecular mass}}\\)<br><br>Mass = number of moles x m.mass<br><br>= 0.12 x 56 = 6.72g",
+        "correctIndex": 2,
+        "options": [
+            "26.88g",
+            "13.44g",
+            "6.72g",
+            "3.36g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 8,
+        "year": 2016,
+        "question": "Metals can be stretched into wires because they are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Ductile",
+            "Good conductors",
+            "Lustrous",
+            "Malleable"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 9,
+        "year": 2016,
+        "question": "Aluminium is used in the manufacture or aircraft because it",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Is hard and brittle",
+            "Is light and resists corrosion",
+            "Has high density and conducts electricity",
+            "Is malleable and ductile"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 10,
+        "year": 2016,
+        "question": "An unsaturated solution differs from a saturated solution at a given temperature because it",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Cannot dissolve more solute",
+            "Can hold more solute than it can actually dissolve",
+            "Can still dissolve more solute at given temperature",
+            "Form crystal more easily on cooling"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 11,
+        "year": 2016,
+        "question": "Which of the following arrangements shows increasing order of reactivity of the halogens?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "F<sub>2</sub>&gt; Cl<sub>2</sub>&gt; Br<sub>2</sub>&gt;I<sub>2</sub>",
+            "I<sub>2</sub>&lt; Br<sub>2</sub>&lt; Cl<sub>2</sub>",
+            "F<sub>2</sub>&lt; Cl<sub>2</sub>&lt; Br<sub>2</sub>",
+            "I<sub>2</sub>&gt; Br<sub>2</sub>&gt; Cl<sub>2</sub>&gt; F<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 12,
+        "year": 2016,
+        "question": "<p>The shape of the water molecule is_______?</p>",
+        "explanation": "<p>The bond angle in water is compressed approximately to 105°, such that the structure of the water molecule is V-shaped or Angular.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Linear",
+            "Pyramidal",
+            "Tetrahedral",
+            "V-shaped"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 13,
+        "year": 2016,
+        "question": "Which of the following elements would produce coloured ion in agueous solution?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Calcuim",
+            "Copper",
+            "Magnesuim",
+            "Sodium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 14,
+        "year": 2016,
+        "question": "The minimum amount of energy required for effective collisions between reacting particles is known as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Activation energy",
+            "Bond energy",
+            "Kinetic energy",
+            "Potential energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 15,
+        "year": 2016,
+        "question": "The bond formed between H<sub>2</sub>O and H<sub>+</sub>to form the hydroxonium H<sub>3</sub>O<sub>+</sub>is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Dative",
+            "Covalent",
+            "Electrovalent",
+            "Ionic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 16,
+        "year": 2016,
+        "question": "An element<b>X</b>froms the following oxides X<sub>2</sub>O, XO and XO<sub>2</sub>. This phenomenon illustrates the law of________?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Conservation of mass",
+            "Definite proportion",
+            "Mass action",
+            "Multiple proportion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 17,
+        "year": 2016,
+        "question": "How many moles of oxygen would contain 1.204 x 10<sup>24</sup>molecules?<br>[Avogadro's constant (NA) = 6.02 x 10<sup>23</sup>]",
+        "explanation": "6.02 x 10<sup>23</sup>molecules is 1mole<br>1.204 x 10<sup>24</sup>molecules will be......<br><br>\\(\\frac{1.204 \\times 10^24 \\times 1}{6.02 \\times 10^23}\\)<br><br>\\(\\frac{1.204 \\times 10}{6.02}\\) = \\(\\frac{12.04}{6.02}\\) = 2moles",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 18,
+        "year": 2016,
+        "question": "Which of the following statements about solids is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Solid particles are less orderly than those of a liquid",
+            "Solid have lower densities than liquids",
+            "Solid particles have greater kinetic energies than those of liquids",
+            "Solid particles cannot be easily compressed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 19,
+        "year": 2016,
+        "question": "Which of the following apparatus can be used to measure a specific volume of a liquid accurately?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Beaker",
+            "Conical flask",
+            "Measuring cyclinder",
+            "Pipette"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 20,
+        "year": 2016,
+        "question": "The general gas equation \\(\\frac{PV}{T}\\) = K is a combination of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Boyle's and Charles' laws",
+            "Boyle's and Graham's laws",
+            "Charles' and Graham's laws",
+            "Dalton's and Graham's laws"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 21,
+        "year": 2016,
+        "question": "The spreading of the scent of a flower in a garden is an example of_____?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Brownian motion",
+            "Diffusion",
+            "Osmosis",
+            "Tynadal effect"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 22,
+        "year": 2016,
+        "question": "Propane carbon(IV)oxide diffuse at the same rate because [H = 1.00, C = 12.0, O = 16.0]",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "They are both gases",
+            "Their molecules contain carbon",
+            "They have the same relative molecular mass",
+            "Both are denser than air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 23,
+        "year": 2016,
+        "question": "The energy which accompanies the addition of an electron to an isolated gaseous atom is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Atomization",
+            "Electronegativity",
+            "Electron affinity",
+            "Ionization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 24,
+        "year": 2016,
+        "question": "<p>An aqueous solution of (NH4)2 SO4 is</p>",
+        "explanation": "<p>Ammonium sulphate is an <strong>ACIDIC</strong> SALT. This is because it is formed when sulphuric <strong>acid</strong> reacts with ammonia. Since, sulphuric <strong>acid</strong> is a strong <strong>acid</strong> and ammonia is a weak <strong>base</strong>, so it gets <strong>acidic</strong> in nature.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Acidic",
+            "Alkaline",
+            "Amphoteric",
+            "Neutral"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 25,
+        "year": 2016,
+        "question": "When NH<sub>4</sub>Cl<sub>(s)</sub>is dissolved in water, the container feels cold to touch. This implies",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The process is endothermic",
+            "The process is exothermic",
+            "NH<sub>4</sub>Cl forms a saturated solution",
+            "NH<sub>4</sub>Cl is highly soluble in water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 26,
+        "year": 2016,
+        "question": "The pH of four solutions M,N,Q and R are 2,6,8 and 11 respectively.<br>Which of the following deductions about the solutions is correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The pH of N is increased when the solution is diluted",
+            "The pH of Q is increased when the solution is evaporated",
+            "M is the most alkaline solution",
+            "R is the most acidic solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 27,
+        "year": 2016,
+        "question": "Consider the following reaction equation<br>H<sub>3</sub>O<sup>+</sup><sub>(aq)</sub>+ OH<sub>(aq)</sub>\\(\\rightarrow\\) 2H<sub>2</sub>O<sub>(1)</sub><br>The reaction represents",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Esterification",
+            "Hydrolysis",
+            "Neutralization",
+            "Redox"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 28,
+        "year": 2016,
+        "question": "The refreshing characteristic taste of fizzy drinks is due ot the presence of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Carbon(IV)oxide",
+            "Glucose",
+            "Hydrogen",
+            "Sodium Citrate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 29,
+        "year": 2016,
+        "question": "Chemical equilibrium is attained when",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "All the reactants have been completely used up",
+            "The reaction goes to completion",
+            "The concentration of reactants and products remain constant",
+            "The concentration of reactants and products are equal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 30,
+        "year": 2016,
+        "question": "<p>Which of the following factors will affect the rate of the reaction represented by the following equation?<br>\n2HCl(aq) + CaCO3(s) \\(\\rightarrow\\) CaCl2(aq) + H2O(1) + CO2(g)<br>\n<br>\nI. Pressure<br>\nII.Concentration<br>\nIII. Nature of reactants<br>\nIV. Temperature</p>",
+        "explanation": "<p>All others except pressure would affect the equilibrium of the system.</p>",
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "II, III and IV only",
+            "I, II and III only",
+            "I, II. III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 31,
+        "year": 2016,
+        "question": "On evaporation to dryness, 350<sup>3</sup>of saturated solution of salt Z gave 55.5g of salt. What is the solubility of the salt? [Z = 101]",
+        "explanation": "Saturated solution = 350<sup>3</sup><br>mass of salt Z in saturated solution = 55.5g<br>Number of moles of salt = \\(\\frac{55.5}{101}\\) = 0.55mole<br>350<sup>3</sup>of solution contains 0.55mole<br><br>1000cm<sup>3</sup>will contain \\(\\frac{1000 \\times 0.55}{350}\\) = 1.57mol/dm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "1.57 moldm<sup>-3</sup>",
+            "3.14 moldm<sup>-3</sup>",
+            "6.28 moldm<sup>-3</sup>",
+            "12.56 moldm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 32,
+        "year": 2016,
+        "question": "Which of the following salts when dissolved in water will form a solution that will change blue litmus to red?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CH<sub>3</sub>COONa",
+            "NH<sub>4</sub>Cl",
+            "NaCl",
+            "KCl"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 33,
+        "year": 2016,
+        "question": "Which of the following bonds are broken when ethanol is boiled?<br><br>I. Covalent bonds<br>II. Ionic bonds<br>III. Hydrogen bonds",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I, II, III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 34,
+        "year": 2016,
+        "question": "A compound with molecular formula CH<sub>2</sub>O<sub>2</sub>is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "A Carbohydrate",
+            "A Carboxylic acid",
+            "An alkanol",
+            "An ester"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 35,
+        "year": 2016,
+        "question": "The quality of electricity required to discharge 1 mole of univalent ion is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "9600C",
+            "48250C",
+            "96500C",
+            "193000C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 36,
+        "year": 2016,
+        "question": "Chlorine water is used as a bleaching agent because it is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "An acidic solution",
+            "An alkaline solution",
+            "An oxidizing agent",
+            "A reducing agent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 37,
+        "year": 2016,
+        "question": "Which of the following substances is a non-electrolyte?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "H<sub>2</sub>SO<sub>4</sub>",
+            "CH<sub>3</sub>COOH",
+            "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+            "NH<sub>4</sub>Cl"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 38,
+        "year": 2016,
+        "question": "The oxidation number of sulphur is +4 in",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Na<sub>2</sub>S&gt;<sub>2</sub>O<sub>3</sub>",
+            "H<sub>2</sub>SO<sub>3</sub>",
+            "H<sub>2</sub>SO<sub>4</sub>",
+            "SO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 39,
+        "year": 2016,
+        "question": "Consider the following ionic equation:<br>Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>+ 14H<sup>+</sup>+ ne<sup>-</sup>\\(\\to\\) 2Cr<sup>3+</sup>+ 7H<sub>2</sub>O.<br>The value of n in the equation is_______?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "7",
+            "6",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 40,
+        "year": 2016,
+        "question": "Consider the following half-cell reactions.<br>Al<sub>(s)</sub>\\(\\to\\) Al<sup>3+</sup><sub>(aq)</sub>+ 3e<sup>-</sup><br>Cu<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>\\(\\to\\) Cu<sub>(s)</sub><br><br>The overall equation for the reaction is",
+        "explanation": "Al<sub>(s)</sub>\\(\\to\\) Al<sup>3+</sup><sub>(aq)</sub>+ 3e<sup>-</sup>______(i)<br>Cu<sup>2+</sup><sub>(aq)</sub>+ 2e<sup>-</sup>\\(\\to\\) Cu<sub>(s)</sub>________(ii)<br><br>To balance the electrons, multiply equation (i) by 2 and equation (ii) by 3 and then add the resulting equations<br><br>2Al<sub>(s)</sub>\\(\\to\\)2Al<sup>3+</sup><sub>(aq)</sub>+ 3e<sup>-</sup><br>3cu<sup>2+</sup><sub>(aq)</sub>+ 6e<sup>-</sup>\\(\\to\\)3Cu<sub>(s)</sub><br>2Al<sub>(s)</sub>+ 3Cu<sup>2+</sup><sub>(aq)</sub>\\(\\to\\) 3Cu<sub>(s)</sub>+ 2Al<sup>3+</sup><sub>(aq)</sub>",
+        "correctIndex": 2,
+        "options": [
+            "Al<sub>(s)</sub>+ Cu<sup>2+</sup><sub>(aq)</sub>\\(\\to\\) Al<sup>3+</sup><sub>(aq)</sub>+ Cu<sub>(s)</sub>",
+            "2Al<sub>(s)</sub>+ Cu<sup>2+</sup><sub>(aq)</sub>\\(\\to\\) 2Al<sub>(aq)</sub>+ Cu<sub>(s)</sub>",
+            "2Al<sub>(s)</sub>+ 3Cu<sup>2+</sup><sub>(aq)</sub>\\(\\to\\) 3Cu<sub>(s)</sub>+ 2Al<sup>3+</sup><sub>(aq)</sub>",
+            "3Al<sub>(s)</sub>+ 2Cu<sup>2+</sup><sub>(aq)</sub>\\(\\to\\) Cu<sub>(s)</sub>+ 3Al<sup>3+</sup><sub>(aq)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 41,
+        "year": 2016,
+        "question": "Amino acids are obtained from proteins by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Hydrolysis",
+            "Oxidation",
+            "Polymerization",
+            "Reduction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 42,
+        "year": 2016,
+        "question": "When a compound<b>X</b>is heated with concentrated tetraoxosulphate(VI)acid, it produces an alkene.<b>X</b>ia an",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Alkane",
+            "Alkanol",
+            "Alkanoate",
+            "Alkyne"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 43,
+        "year": 2016,
+        "question": "Ripening of fruits is hastened by using",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Ethanol",
+            "Ethane",
+            "Ethene",
+            "Ethyne"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 44,
+        "year": 2016,
+        "question": "<p>The compound that makes palm wine taste sour after exposure to the air for few days is</p>",
+        "explanation": "<p>The ethanol (alcohol content) of the wine, is oxidized, by the oxygen in the air into ethanoic acid.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Ethanol",
+            "Ethanoic acid",
+            "Methanol",
+            "Methanoic acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 45,
+        "year": 2016,
+        "question": "Which of the following compounds is/are secondary alkanols?<br><br>i) CH<sub>3</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>OH<br>ii) CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>3</sub><br>iii) CH<sub>3</sub>C(OH)(CH<sub>3</sub>)CH<sub>3</sub>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 46,
+        "year": 2016,
+        "question": "Consider the following reaction equation<br>C<sub>2</sub>H<sub>4(g)</sub>+ 3O<sub>2(g)</sub>\\(\\to\\) 2CO<sub>2(g)</sub>+ 2H<sub>2</sub>O<sub>(l)</sub>.<br><br>The volume of oxygen at s.t.p that will be required to burn 14g of ethene is<br>[C<sub>2</sub>H<sub>4</sub>= 28; Molar volume of gas at s.t.p = 22.4dm<sup>3</sup>",
+        "explanation": "C<sub>2</sub>H<sub>4(g)</sub>+ 3O<sub>2(g)</sub>\\(\\to\\) 2CO<sub>2(g)</sub>+ 2H<sub>2</sub>O<sub>(l)</sub><br><br>1 mole of ethene required 3 moles of O<sub>2</sub><br>28g of ethene required 3 x 22.4dm<sup>3</sup>of O<sub>2</sub><br><br>14g will require \\(\\frac{14 \\times 3 \\times 22.4dm^3}{28}\\)<br><br>= 33.6dm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "64.2dm<sup>3</sup>",
+            "33.6dm<sup>3</sup>",
+            "11.2dm<sup>3</sup>",
+            "3.73dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 47,
+        "year": 2016,
+        "question": "Which of the following sources of energy contributes to green-house effect?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Natural gas",
+            "Nuclear",
+            "Wind",
+            "Solar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 48,
+        "year": 2016,
+        "question": "A consequences of global warming is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Air pollution",
+            "Flooding",
+            "Increased humidity",
+            "Water pollution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 49,
+        "year": 2016,
+        "question": "Which of the following metals is common to both brass and bronze?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Aluminium",
+            "Copper",
+            "Lead",
+            "Iron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 50,
+        "year": 2016,
+        "question": "The alkanol obtained from the production of soap is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Dihydric Alkanol",
+            "Tertiary Alkanol",
+            "Trihydric Alkanol",
+            "Monohydric Alkanol"
+        ],
+        "type": "objectives"
+    }
+]

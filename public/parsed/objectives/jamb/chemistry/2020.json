@@ -1,0 +1,642 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2020,
+        "question": "<p>The electronic configuration of an element is 1S\\(^2\\) 2S\\(^2\\) 2P\\(^6\\) 3S\\(^2\\) 3P\\(^3\\). How many unpaired electrons are there in the element?</p>",
+        "explanation": "<p>Once you figure out the electron configuration, you fill up the corresponding orbitals with electrons, any left with one is considered unpaired. Since 1s can only hold 2 electrons, and P has 15, that's obviously filled and has no unpaired electrons. The same is for 2s which holds 2, 2p which holds 6, 3s which holds 2.<br>\n<br>\nHowever 3p can hold 6 electrons and in order for that to be filled up you would need to have an element of 18 electrons. So you fill up as much as you can in 3p by first adding 1 electron to each energy level. 3p has 3 energy levels and there are only 3 electrons left to distribute, so each of those energy levels only gets 1, because you have to fill them all with one before you can start adding a second.<br>\n<br>\nSo since you are only able to fill one electron in each of the three energy levels of the 3p orbital, that leaves the orbital open for 1 more electron in each of its energy levels. So there are 3 unpaired electrons in P.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2020,
+        "question": "<p>Which of the following can be obtained by fractional distillation? </p>",
+        "explanation": "<p>Fractional distillation is used to separate mixtures into its component parts or fractions with the difference in boiling points between successive fractions must be more than 10°C. An example is the <strong>liquid</strong> nitrogen and oxygen are then separated by <strong>fractional distillation</strong> .</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Nitrogen from liquid air",
+            "Sodium Chloride from sea water",
+            "Iodine from solution of Iodine in carbon tetrachloride",
+            "Sulphur from the solution of sulphur in carbon disulphide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2020,
+        "question": "<p>Duralumin consists of aluminum, copper?</p>",
+        "explanation": "<p><strong>Duralumin</strong> is an alloy made up of 90% aluminum, 4% copper, 0.51% magnesium, and less than 1% manganese.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Zinc and Gold",
+            "Lead and Manganese",
+            "Nickel and Silver",
+            "Manganese and Magnesium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2020,
+        "question": "<p>An example of a polysaccharide is?</p>",
+        "explanation": "<p>Polysaccharides are long chains of monosaccharides linked by glycosidic bonds. Three important polysaccharides, <strong>starch</strong>, <strong>glycogen</strong>, and <strong>cellulose</strong>, are composed of <strong>glucose</strong>.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Dextrose",
+            "Mannose",
+            "Glucose",
+            "Starch"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2020,
+        "question": "<p>8g of CH\\(_4\\) occupies 11.2 at S.T.P. What volume would 22g of CH\\(_3\\)CH\\(_2\\)CH\\(_3\\) occupy under the same condition?</p>",
+        "explanation": "<p>Molar mass of methane = 16g/mol</p><p>At S.T.P.       its 8g occupies 11.2</p><p>                    so 16g occupies 22.4 dm\\(^3\\)</p><p> </p><p>Molar mass of propane = 44g/mol\\(^-1\\) occupies 22.4dm\\(^3\\) at S.T.P</p><p>                      so 22g will occupy 11.2dm\\(^3\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3.7dm\\(^3\\)",
+            "11.2dm\\(^3\\)",
+            "22.4dm\\(^3\\)",
+            "33dm\\(^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2020,
+        "question": "<p>The best treatment for a student who accidentally poured conc tetraoxosulphate(vi) on his skin in the laboratory is to wash his skin with?</p>",
+        "explanation": "<ul>\n<li><strong>Sulfuric acid</strong> is flushed with a mild, soapy solution if the burns are not severe. Sulfuric acid feels hot when water is added to the acid, but it is better to flush the area and not leave the acid on the skin.</li>\n<li>Don't try to neutralize the burn with acid or alkali. This could cause a chemical reaction that worsens the burn.</li>\n</ul><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "with cool running water",
+            "sodium hydroxide solution",
+            "iodine solution",
+            "sodium trioxonitrate(v) solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/I5npx5qjrEeTaAsdFyCSMJ3Qm1cqmhQF1SjYHbWc.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Charles' law describes the effect of temperature changes on the volume of a given mass of gas at a constant pressure.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Boyle",
+            "Charles",
+            "Gay-Lussac",
+            "Graham"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2020,
+        "question": "<p>What are the possible oxidation numbers of an element if its atomic number is 17?</p>",
+        "explanation": "<p>The element with atomic number 17 is Chlorine with a valency of -1, that is it needs to receive an electron or possibly lose seven electrons to obey the octet rule.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "-1 and 7",
+            "-1 and 6",
+            "-3 and 5",
+            "-2 and 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2020,
+        "question": "<p>What process would coal undergo to give coal gas, coal tar, ammoniacal liquor and coke?</p>",
+        "explanation": "<p><strong>Destructive distillation</strong> of a tonne of <strong>coal</strong> can produce 700 kg of coke, 100 liters of liquor ammonia, 50 liters of <strong>coal</strong> tar and 400 M\\(^3\\) of <strong>coal</strong> gas</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Steam distillation",
+            "Destructive distillation",
+            "Liquefication",
+            "Hydrolysis"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2020,
+        "question": "<p>Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the ?</p>",
+        "explanation": "<p>A <strong>lye</strong> is a metal hydroxide traditionally obtained by leaching wood ashes, or a strong alkali which is highly soluble in water producing caustic basic solutions / an alkaline solution that is <strong>used</strong> to make soaps. \"<strong>Lye</strong>\" most commonly refers to sodium hydroxide (NaOH), but historically has been used for potassium hydroxide (KOH).</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Acid",
+            "Ester of alkanoic acid",
+            "Alkali",
+            "Alkanol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2020,
+        "question": "<p>When water drops are added to calcium carbide in a container and the gas produced is passed through a jet and lighted, the resultant flame is called an?</p>",
+        "explanation": "<p>The <strong>reaction</strong> of <strong>calcium carbide</strong> with <strong>water</strong>, producing <strong>acetylene</strong> and <strong>calcium hydroxide</strong>, was discovered by Friedrich Wöhler in 1862. This <strong>reaction</strong> was the basis of the industrial manufacture of <strong>acetylene</strong>, and is the major industrial use of <strong>calcium carbide</strong>.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Oxyethene",
+            "Oxyhydrocarbon flame",
+            "Oxyacetylene flame",
+            "Oxymethane flame"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2020,
+        "question": "<p>Which of the following substances is a mixture?</p>",
+        "explanation": "<p>A Mixture contains two or more constituents which can be easily separated by physical methods. Examples include Air, Soil, Palm oil, Sea water, Blood, Crude oil, etc</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Granulated sugar",
+            "Seawater",
+            "Sodium chloride",
+            "Iron filling"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2020,
+        "question": "<p>If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300k is reduced by one-half, what is the pressure exerted by the remaining gas?</p>",
+        "explanation": "<p>Using the combined gas law formula,</p><p>Given that P\\(_1\\) = 0.825,   V\\(_1\\) = 2.76 L, V\\(_2\\) = 1.38 L, P\\(_2\\) = ?</p><p>And T1 = T2; we would have P\\(_2\\) = [ P\\(_1\\) X V\\(_1\\) ] ÷ V\\(_2\\)</p><p>: [0.825 X 2.76]  ÷ 1.38</p><p>= 1.650atm</p><p> </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1.650atm",
+            "0.825atm",
+            "0.413atm",
+            "0.275atm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2020,
+        "question": "<p>Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is noble gas? </p>",
+        "explanation": "<p>They are the most stable due to having the maximum number of valence electrons their outer shell can hold. Therefore, they rarely react with other elements since they are already stable.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "P",
+            "Q",
+            "R",
+            "S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2020,
+        "question": "<p>The products of the thermal decomposition of ammonium trioxonitrate(v) are?</p>",
+        "explanation": "<p>NH\\(_4\\)NO\\(_3\\) Ammonium Trioxonitrate(V) , unlike all other metallic trioxonitrates(v), decomposes on heating to give nitrogen(i)oxide N\\(_2\\)O and water.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Nitrogen (I) Oxide and Water",
+            "Ammonia and Oxide",
+            "Nitrogen and Water",
+            "Nitrogen (IV) Oxide and Water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2020,
+        "question": "<p>How many valence electrons are contained in the element \\(^{31}_{15}P\\)?</p>",
+        "explanation": "<p>The element is Phosphorus in group 5 with valencies of 3 and 5.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "4",
+            "15",
+            "31"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2020,
+        "question": "<p>The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO\\(_3\\) is treated with 0.2dm\\(^3\\) of 1 Mole of HCL in the equation</p><p>CaCO\\(_3\\) + 2HCL ⇒  CaCl\\(_2\\)  + H\\(_2\\) O + CO\\(_2\\)  , is ?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.00 X 10\\(^{23}\\)",
+            "6.02 X 10\\(^{23}\\)",
+            "6.02 X 10\\(^{22}\\)",
+            "6.02 X 10\\(^{24}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2020,
+        "question": "<p>The volume occupied by 1.58g of a gas at S.T.P is 500cm\\(^3\\). What is the relative molecular mass of the gas?  [ G.M.V at S.T.P = 22.4dm\\(^{3}\\) ]</p>",
+        "explanation": "<p>500cm\\(^3\\) of the gas weighed 1.58</p><p>: 22400cm\\(^3\\) of the gas weight</p><p> </p><p>[22400 X 1.58g] ÷ [ 500 ]</p><p>= 71</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "28",
+            "32",
+            "44",
+            "71"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2020,
+        "question": "<p>Which of the following gases will rekindle a brightly splint?</p>",
+        "explanation": "<p>Nitrogen(I)Oxide rekindles a brightly glowing splinter but extinguishes a feebly glowing one which is not hot enough to decompose the gas to liberate oxygen</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "NO\\(_2\\)",
+            "NO",
+            "N\\(_2\\)O",
+            "CL\\(_2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2020,
+        "question": "<p>The shape of ammonia molecule is?</p>",
+        "explanation": "<p>The ammonia molecule has a <strong>trigonal pyramidal</strong> shape with the three hydrogen atoms and an unshared <strong>pair of electrons</strong> attached to the nitrogen atom.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Trigonal planar",
+            "Octahedral",
+            "Square planar",
+            "Tetrahedral"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2020,
+        "question": "<p>A few drop of conc HCL are added to about 10cm\\(^3\\) of a solution of PH 3.4. The PH of the resulting mixture is?</p>",
+        "explanation": "<p>The addition of conc HCL makes the solution more acidic and the solution falls below the original value</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "less than 3.4",
+            "greater than 3.4",
+            "unaltered",
+            "the same as that of the pure water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2020,
+        "question": "<p>Chromatography is used to separate components of mixture which differ in their rates of ?</p>",
+        "explanation": "<p><strong>Chromatography</strong> is a method of separating mixtures by using a moving solvent on filter <strong>paper</strong>. </p><p>The rate at which each solute moves up the paper depends on how strongly it is absorbed by the paper, and how soluble it is in the solvent.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "diffusion",
+            "migration",
+            "reaction",
+            "sedimentation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2020,
+        "question": "<p>Deliquescent substances are also?</p>",
+        "explanation": "<p>Deliquescence, the process by which a substance absorbs moisture from the atmosphere until it dissolves in the absorbed water and forms a solution. Deliquescence occurs when the vapour pressure of the solution that is formed is less than the partial pressure of water vapour in the air. A particular example of <strong>hygroscopic behavior</strong> is deliquescence which is exhibited by many water-soluble solids, including inorganic salts (e.g., calcium chloride).</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "efflorescent",
+            "anhydrous",
+            "hygroscopic",
+            "insoluble"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2020,
+        "question": "<p>Helium is used in observation of ballons because it is?</p>",
+        "explanation": "<p><strong>Helium</strong> floats because it is buoyant; its molecules are lighter than the nitrogen and oxygen molecules of our <strong>atmosphere</strong> and so they rise above it</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Light and combustible",
+            "light and non-combustible",
+            "heavy and combustible",
+            "heavy and non-combustible"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2020,
+        "question": "<p>32g of anhydrous copper(ii)tetraoxosulphate(vi) dissolved in 1dm\\(^3\\) of water generated 13.0kj of heat. The heat solution is?</p>",
+        "explanation": "<p>32g of CUSO\\(_4\\) liberate 13.0kj of heat</p><p>Molar mass of CUSO\\(_4\\) = 160g</p><p>No. of moles of CUSO\\(_4\\)  = 32g</p><p>No. of moles = 32(mass) / 160(molar mass)</p><p>= 0.2 moles</p><p>i.e 0.2 = 13kj</p><p>1 moles = xkj</p><p>: 65KJ </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "26.0kj/mol",
+            "65.0kj/mol",
+            "130.0kj/mol",
+            "260.0kj/mol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2020,
+        "question": "<p>A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is?</p><p>[ M = 27, Cl = 35.5]</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td> </td>\n<td>M</td>\n<td>Cl</td>\n</tr>\n<tr>\n<td>% composition</td>\n<td>20.22</td>\n<td>79.78</td>\n</tr>\n<tr>\n<td>Atomic mass</td>\n<td>27</td>\n<td>35.5</td>\n</tr>\n<tr>\n<td>Mole ratio</td>\n<td>20.22</td>\n<td>79.78</td>\n</tr>\n<tr>\n<td> </td>\n<td>27</td>\n<td>35.5</td>\n</tr>\n<tr>\n<td> </td>\n<td>0.75</td>\n<td>2.25</td>\n</tr>\n<tr>\n<td>Divided</td>\n<td>0.75</td>\n<td>0.75</td>\n</tr>\n<tr>\n<td> </td>\n<td>1</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>The formula of the Chloride = MCl\\(_3\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "MCl",
+            "MCl\\(_2\\)",
+            "MCl\\(_3\\)",
+            "M\\(_2\\)Cl\\(_6\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2020,
+        "question": "<p>What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?</p>",
+        "explanation": "<p>4OH ⇒ 2H\\(_2\\)O + O\\(_2\\) + 4e-</p><p>From the equation:</p><p>1 mole of Oxygen requires 4e </p><p>i.e 1 mole of Oxygen requires 4F,</p><p>where 1F = 96,500 C</p><p>[ 4 X 96,500 X 0.125 ] ÷ 1</p><p>= 48,250 C</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "24,125 C",
+            "48,250 C",
+            "72,375 C",
+            "96,500 C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2020,
+        "question": "<p>Which of the following types of bonding does not involve the formation of new substances?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Metallic",
+            "Covalent",
+            "Co-ordinate",
+            "Electrovalent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2020,
+        "question": "<p>An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be?</p>",
+        "explanation": "<p>alkanone &amp; alkanal react with HCN to form compounds known as cyanohyderins. They also react with hydroxylamine to form oximes.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Alkene",
+            "Alkanal",
+            "Alkanone",
+            "Alkanoic Acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2020,
+        "question": "<p>The substance often used for vulcanization of rubber is?</p>",
+        "explanation": "<p>One of the several uses of sulfur is for the vulcanization of rubber.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Chlorine",
+            "Hydrogen peroxide",
+            "Sulphur",
+            "Tetraoxosulphate(vi) acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2020,
+        "question": "<p>The chlorinated alkane often used industrially to remove grease is?</p>",
+        "explanation": "<p><strong>Tetrachloromethane ( carbon tetrachloride)</strong> is an effective solvent within the chemical industry and is <strong>used</strong> to clean machinery and electrical equipment. </p><p>I.e as a solvent for oils, fats, lacquers, varnishes, <strong>rubber</strong> waxes, and resins, and as a grain fumigant.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Tetrachloromethane",
+            "Chloromethane",
+            "Trichloromethane",
+            "Dichloromethane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2020,
+        "question": "<p>What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?</p>",
+        "explanation": "<p>2H\\(_2\\) + O\\(_2\\)  ⇒ 2H\\(_2\\)O</p><p>From the equation:</p><p>4g of Hydrogen produces 36g of water</p><p>: 8g of Hydrogen will produce 72g of water</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "8.0g",
+            "16.0g",
+            "36.0g",
+            "72.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2020,
+        "question": "<p>Proteins in acid solution undergo?</p>",
+        "explanation": "<p><strong>Acid</strong> hydrolysis refers to a hydrolysis <strong>reaction</strong> occurring under <strong>acidic</strong> conditions. <strong>Acid</strong> hydrolysis of a <strong>protein</strong> breaks the polymer down into its constituent amino <strong>acids</strong>.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Substitution",
+            "Fermentation",
+            "Hydrolysis",
+            "Polymerisation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2020,
+        "question": "<p>The general formula for the Alkanals is?</p>",
+        "explanation": "<p>Alkanals or Aldehydes have the general formula RCHO while Alkanones or Ketones have the general formula RCOR'.</p><p>Where R and R' may be alkyl or aryl groups.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "R\\(_2\\)CO",
+            "RCHO",
+            "ROH",
+            "RCOOR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2020,
+        "question": "<p>When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes?</p>",
+        "explanation": "<p>When these cathode rays are deflected onto an electrode of an electrometer, the instrument measured a negative charge. The rays tested also were deflected by application of an electric field.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Bipolar",
+            "Negatively charged",
+            "Positively charged",
+            "Neutral"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2020,
+        "question": "<p>When a solid substance disappears completely as a gas on heating, the substance is said to have undergone?</p>",
+        "explanation": "<p><strong>Sublimation</strong> is the transition of a substance directly from the <strong>solid</strong> to the gas state, without passing through the liquid state.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Sublimation",
+            "Crystallization",
+            "Distillation",
+            "Evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2020,
+        "question": "<p>An electron can be added to a halogen atom to form a halide ion with?</p>",
+        "explanation": "<p>A <strong>halide ion</strong> is a halogen atom bearing a negative charge (which is an anion with a <strong>charge</strong> of -1). The <strong>halide</strong> anions are fluoride (F−), chloride (Cl−), bromide (Br−), iodide (I−) and astatide (At−).</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "8 valence electrons",
+            "7 valence electrons",
+            "2 valence electrons",
+            "3 valence electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2020,
+        "question": "<p>Aluminum hydroxide is used in the dyeing industry as a?</p>",
+        "explanation": "<p><strong>Aluminum hydroxide</strong> is also <strong>used</strong> as a mordant in dyeing.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Dye",
+            "Dispersant",
+            "Salt",
+            "Mordant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2020,
+        "question": "<p>The most important element on the earth's crust is?</p>",
+        "explanation": "<p><strong>Oxygen</strong>, <strong>O</strong>2, is by far the most abundant element in earth's crust at 46.6 percent, nearly half of the mass of the crust.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Nitrogen",
+            "Hydrogen",
+            "Oxygen",
+            "Fluorine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2020,
+        "question": "<p>To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be?</p>",
+        "explanation": "<p>carbon(ii)oxide is prepared from carbon(iv)oxide by passing the latter through red-hot carbon and the unchanged CO\\(_2\\) is removed when the mixture of the gases through conc NAOH.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Passed over heated copper(ii)oxide",
+            "Bubbled through water",
+            "Bubbled through conc H\\(_2\\)SO\\(_4\\)",
+            "Bubbled through conc NAOH"
+        ],
+        "type": "objectives"
+    }
+]

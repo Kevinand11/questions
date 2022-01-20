@@ -1,0 +1,137 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2020,
+        "question": "<p>A binary operation * is defined on the set of real numbers R, by p*q = p + q - \\(\\frac{pq}{2}\\), where p, q \\(\\in\\) R. Find the:</p><p>(a) inverse of -1 under * given that the identity clement is zero.</p><p>(b) truth set of m* 7 = m* 5,</p>",
+        "answer": "<p>p*e = e*p = p</p><p>p + e - \\(\\frac{pe}{2}\\) = p</p><p>e - \\(\\frac{pe}{2}\\) = 0</p><p>e(\\(1 - \\frac{p}{2}\\)) = 0</p><p>e = 0</p><p>p*p\\(^{-1}\\) = e</p><p>p - p\\(^{-1}\\) - \\(\\frac{pp^{-1}}{2}\\)  = 0</p><p>p\\(^{-1}\\) - \\(\\frac{pp}{2}\\) = -p</p><p>p\\(^{-1}\\) (1 - \\(\\frac{p}{2}\\)) = -p</p><p>p\\(^{-1}\\) = \\(\\frac{-p}{1 - \\frac{p}{2}}\\)</p><p>Inverse of -1 \\(\\to\\) p = -1</p><p>p\\(^{-1}\\) = \\(\\frac{-1}{1 - (\\frac{-1}{2})} = \\frac{-1}{\\frac{3}{2}}\\)</p><p>= \\(\\frac{-2}{3}\\) </p><p> </p><p>(b) m*7 = m + 7 - \\(\\frac{7m}{2}\\), m*5 = m + 5 - \\(\\frac{5m}{2}\\) </p><p>m*7 = m*5, m + 7 - \\(\\frac{7m}{2}\\) = m + 5 - \\(\\frac{5m}{2}\\) </p><p>7 - 5 = -\\(\\frac{5m}{2} + \\frac{7m}{2}\\) </p><p>2 = \\(\\frac{2m}{2}\\) </p><p>m = 2</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2020,
+        "question": "<p>(a) Two functions p and q are defined on the set of real numbers, R, by p : y \\(\\to\\) 2y +3 and q : y -&gt; y - 2. Find QOP</p><p>(b) How many four digits odd numbers greater than 4000 can be formed from 1,7,3,8,2 if repetition is allowed?</p>",
+        "answer": "<p>P(y) = 2y + 3, q(y) = y\\(^2\\) - 2</p><p>q \\(\\cap\\) p = qp(y)</p><p>= q(2y + 3)</p><p>= (2y + 3)\\(^3\\) - 2</p><p>= 4xy\\(^2\\) + 12y + 9 - 2</p><p>= 4y\\(^2\\) + 12y + 7</p><p> </p><p> </p><p>(b) </p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240612504_382501676719800_6586622837224703747_n.jpg?_nc_cat=106&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeHCJdwTF637AL-evjiF_Tx2C5mhjcBgFyYLmaGNwGAXJnZKjSG98j-CigdtsghVRnCDGJccYPcJnDYMlb7nTTwo&amp;_nc_ohc=IgYtjWWxS_wAX9OEPNI&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=bd27ac15fa4344ff770116d7b763f0e1&amp;oe=614C1976\"></p><p>No. of ways = 2 x 5 x 5 x 5</p><p>= 250 ways</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2020,
+        "question": "<p>Evaluate; \\(\\int^3_1(3x - 2)^5 dx\\)</p>",
+        "answer": "<p>\\(\\int^3_1(3x - 2)^5 dx\\)</p><p>Let u = 3x - 2</p><p>\\(\\frac{du}{dx}\\) = 3</p><p>dx = \\(\\frac{dy}{3}\\)</p><p>\\(\\int^3_1(3x - 2)^5 dx\\) = \\(\\int^7_1 \\frac{u^5}{3} du\\)</p><p>= \\(\\frac{u^{5 + 1}}{3(5 + 1)}|^7_1\\) </p><p>= \\(\\frac{u^5}{18}|^7_1\\)</p><p>= \\(\\frac{7^6}{18} = \\frac{1^6}{18}\\)</p><p>= \\(\\frac{7^6 - 1}{18}\\) </p><p>= \\(\\frac{117649}{18}\\)</p><p>= 6536</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2020,
+        "question": "<p>If \\(\\frac{3x^2 + 3x - 2}{(x - 1)(x + 1)}\\) = P + \\(\\frac{Q}{x - 1} + \\frac{R}{x - 1}\\) </p><p>Find the value of Q and R </p>",
+        "answer": "<p>\\(\\frac{3x^2 + 3x - 2}{(x - 1)(x + 1)}\\) = P + \\(\\frac{Q}{x - 1} + \\frac{R}{x - 1}\\) </p><p>Long division</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>\n<p>\\(x^2 - 1\\)</p>\n</td>\n<td> 3</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p> 3x\\(^2\\) + 3x - 2</p>\n<p> -(3x\\(^2\\) - 3x)</p>\n<p>\\(\\overline{6x - 2}\\)</p>\n<p> </p>\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p>\\(\\frac{6x^{-2}}{(x - 1)(x + 1)}\\)</p><p>= \\(\\frac{Q}{x - 1} + \\frac{R}{x + 1}\\)</p><p>6x - 2 = Q (x + 1) + R(x - 1)</p><p>Let x = -1 </p><p>6(-1) - 2 = Q(-1 + 1) + R (-1 - 1)</p><p>-6 - 2 = -2R</p><p>\\(\\frac{-8}{-2} = \\frac{-2R}{-2}\\) </p><p>R = 4</p><p>From 6x - 2 = Q(x - 1) + R(x - 1)</p><p>Let x = 1</p><p>6(1) - 2 = Q(1 + 1) + R(1 - 1) </p><p>6 - 2 = 2Q </p><p>\\(\\frac{4}{2} = \\frac{2Q}{2}\\)</p><p>= Q = 2</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2020,
+        "question": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>10 - 19</td>\n<td>20 - 29</td>\n<td>30 - 39</td>\n<td>40 - 49</td>\n<td>50 - 59</td>\n<td>60 - 69</td>\n<td>70 - 79</td>\n<td>80 - 89</td>\n<td>90 - 99</td>\n</tr>\n<tr>\n<td>Frequency </td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>8</td>\n<td>13</td>\n<td>11</td>\n<td>12</td>\n<td>10</td>\n<td>4</td>\n</tr>\n</tbody>\n</table><p>The table shows the distribution of marks scored by 64 students in a test</p><p>(a) Draw a histogram for the distribution.</p><p>(b) Use the histogram to estimate the modal score.</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>Class intervals </td>\n<td>F</td>\n<td>\n<p>Class boundaries</p>\n</td>\n</tr>\n<tr>\n<td>10 - 19</td>\n<td>2</td>\n<td>9.5 - 19.5</td>\n</tr>\n<tr>\n<td>20 - 29</td>\n<td>2</td>\n<td>19.5 - 29.5</td>\n</tr>\n<tr>\n<td>30 - 39</td>\n<td>2</td>\n<td>29.5 - 39.5</td>\n</tr>\n<tr>\n<td>40 - 49 </td>\n<td>8</td>\n<td>39.5 - 49.5</td>\n</tr>\n<tr>\n<td>50 - 59</td>\n<td>13</td>\n<td>49.5 - 59.5</td>\n</tr>\n<tr>\n<td>60 - 69</td>\n<td>11</td>\n<td>59.5 - 69.5</td>\n</tr>\n<tr>\n<td>70 - 79</td>\n<td>12</td>\n<td>69.5 - 79.5</td>\n</tr>\n<tr>\n<td>80 - 89</td>\n<td>10</td>\n<td>79.5 - 89.5</td>\n</tr>\n<tr>\n<td>90 - 99</td>\n<td>4</td>\n<td>89.5 - 99.5</td>\n</tr>\n</tbody>\n</table><p> </p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240675770_177518997812502_8778901898072407169_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFRScMl2k7f1eIwab7xQZGlcisAPOMMJHByKwA84wwkcFt3ckdDJ45FlWzfCDLH_Hgz2F4tgBwyt3Z9qOYJ3WwM&amp;_nc_ohc=LWilGO5bh0YAX-8Gjsc&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=6fd91d59efb33ebf5c4b4fa31eb994a2&amp;oe=614BF232\" style=\"height:329px; width:350px\"></p><p> </p><p>(b) The model score = 57</p><p> </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2020,
+        "question": "<p>(a) A bag contains 10 red and 8 green identical balls. Two balls are drawn at random from the bag, one after the other, without replacement. Find the probability that one is red and the other is green.</p><p>(b) There are 20% defective bulbs in a large box. If 12 bulbs are selected randomly from the box, calculate the probability that between two and five are defective. </p>",
+        "answer": "<p>No. of red = 10, No of green = 8</p><p>Total = 18</p><p>P(RG) = P(R) x P(G) </p><p>= \\(\\frac{10}{18} \\times \\frac{8}{17} = \\frac{40}{152}\\) </p><p>P(GR) = P(G) x P(R) </p><p>= \\(\\frac{8}{18} \\times \\frac{10}{17} = \\frac{40}{153}\\)</p><p>P(one red and one green) </p><p>= \\(\\frac{40}{153} + \\frac{40}{153} = \\frac{80}{153}\\) </p><p> </p><p>(b) P = 20% = \\(\\frac{20}{100}\\) = 0.2</p><p>q = 1 - P = 1 - 0.2 = 0.8</p><p>n = 12</p><p>P(2 \\(\\leq x \\leq 5\\)) = P(5) - P(2) </p><p>= \\(^{12}C_5(0.5)^5 (0.8)^7 - ^{12}C_2(0.2)^2(0.8)^{10}\\)</p><p>= 792 x (0.2)\\(^5\\) (0.8)\\(^7\\) - 65(0.2)\\(^2\\)(0.8)\\(^10\\)</p><p>= 0.04892 - 0.2791 </p><p>= 0.2302</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2020,
+        "question": "<p>Forces F\\(_1\\)(10N, 090°) and F\\(_2\\)(20N, 210\\(^o\\)) and (4N,330°) act on a particle, Find, correct to one decimal place, the magnitude of the resultant force.</p>",
+        "answer": "<p>F\\(_1\\) = (10N, 090\\(^o\\)), F\\(_2\\) = (20N, 210\\(^o\\))</p><p>F\\(_3\\) = (4N, 33\\(^o\\))</p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240655664_425603192228106_8384467034316991621_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGSZ6nlz0vtDsrSiT4Ixvew_iS3zV_ttkT-JLfNX-22REs-MUyw6v_ng9Og9sOY5TBDfZ6SexqLgV10B7o45cOH&amp;_nc_ohc=i2b65vLK9bwAX9XNFAq&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=dbea4a71db4088df2fb8f3342134f5d6&amp;oe=614EC2CF\"></p><p>F\\(_3\\) component x - axis </p><p>= - 4 cos 60\\(^o\\)  = - 2N</p><p>F\\(_2\\) along y - axis</p><p>= 20 x cos 30\\(^o\\) = -1.7320</p><p> </p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240639950_272815077654648_4155969325345267960_n.jpg?_nc_cat=105&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEn29CVe146PvLTK-NSsLxkWpQ-GdAsMDpalD4Z0CwwOlItqYzTRmKvzvvnIE-wBoVYMRnpGPYS5H63u469OTKp&amp;_nc_ohc=On8nzd5LS2QAX8stRxA&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=1cefcd04c7930f130dbf20c08584a700&amp;oe=614DDD9B\"></p><p>\\(\\frac{8N}{-1.732N}\\)</p><p>Resultant force</p><p>= \\(\\sqrt{8^2 + (-1.732)^2}\\)</p><p>= \\(\\sqrt{65.999}\\)</p><p>= 8.185N</p><p>= 8.2N</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2020,
+        "question": "<p>Given that w = 8i + 3j, x = 6i - 5j, y = 2i + 3j and |z| = 41. find z in the direction of w + x - 2y.</p>",
+        "answer": "<p>W = 8i + 3J</p><p>X = 6i - 5J </p><p>Y = 2i + 3J</p><p>w + x - 2y = 8i + 3j + 6i - 5j - 2(2i + 3j)</p><p>= 10i - 8j</p><p>Z = \\(\\frac{10i - 8j}{|Z|}\\)</p><p>= \\(\\frac{10i - 8j}{4}\\)</p><p>= \\(\\frac{10i}{4}\\)</p><p>\\(\\frac{8j}{4}\\)</p><p>= \\(\\frac{5}{2}\\)i - 2j</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2020,
+        "question": "<p>(a) If (x + 2) is a factor of g(x) = 2x\\(^3\\) +11x\\(^2\\) - x - 30, find the zeros of g(x).</p><p>(b) Solve 3(2\\(^x\\)) +3\\(^{y - 2}\\) = 25 and 2x - 3\\(^{y + 1}\\) = -19 simultaneously.</p><p> </p>",
+        "answer": "<p>(a) Using long division </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>\n<p> x + 2</p>\n</td>\n<td>\n<p>2x\\(^2\\) + 7x - 15</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>2x\\(^3\\) + 11x^2 - x -30</p>\n<p>-  (2x\\(^3\\) + 4x\\(^2\\))</p>\n<p>\\(\\overline{7^2 - x - 30}\\)</p>\n<p>- (7x\\(^2\\) + 14x) - 3</p>\n<p>\\(\\overline{-15x - 30}\\)</p>\n<p>- 15x - 30</p>\n<p>\\(\\overline{0}\\)</p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p>(x + 2)(2x\\(^2\\) + 7x - 15)</p><p>(x + 2)(2x - 3)(x - 5)</p><p>zeros of g (x) are;</p><p>x + 2 =0, 2x - 3 = 0</p><p>x + 5 = 0, x = -2</p><p>x = \\(\\frac{5}{2}\\) and x = -5</p><p> </p><p>(b) 3(2^\\(^x\\)) + 3\\(^{y - 2}\\) = 25 .......x1</p><p>2\\(^x\\) - 3\\(^{y + 1}\\) = -19 .........x3</p><p>3(2\\(^x\\)) + 3\\(^{y - 2}\\) = 25</p><p>3\\(^{y - 2}\\) + 3(3\\(^{y + 1}\\)) = 82</p><p>\\(\\frac{3^y}{9} + \\frac{3^y}{1}\\) = 82</p><p>\\(\\frac{3^y + 9(3^y)}{9}\\) = 82</p><p>3\\(^y\\) + 9(3\\(^y)\\)) = 82 x 9 </p><p>let p = 3y</p><p>p + qp = 738</p><p>\\(\\frac{10p}{10} = \\frac{738}{10}\\) </p><p>p = 73.8, 3\\(^y\\) = 73.8</p><p>log3\\(^y\\) = log 73.8</p><p>\\(\\frac{y log 3}{log 3} = \\frac{log 73.8}{\\log 3}\\)</p><p>y = 3.9</p><p>from </p><p>2\\(^x\\) + 3\\(^{y + 1}\\) = - 19</p><p>2\\(^x\\) + 3\\(^{3.9 + 1}\\) = - 19</p><p>2\\(^x\\) + 3\\(^{4 - 9}\\) = - 19</p><p>2\\(^x\\) - 217.7 = - 19</p><p>2\\(^x\\) = 198.71</p><p>log 2\\(^x\\) = log 198.71</p><p>\\(\\frac{x \\log 2}{log 2} = \\frac{log 198.71}{log 2}\\)</p><p>x  = 7.6</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2020,
+        "question": "<p>(a) Find the derivative of y = x\\(^2\\) (1 + x)\\(^{\\frac{3}{2}}\\) with respect to x.</p><p>(b) The centre of a circle lies on the line 2y - x = 3. If the circle passes through P(2,3) and Q(6,7), find its equation.</p>",
+        "answer": "<p>y = x\\(^2\\)(1 + x)\\(^{\\frac{3}{2}}\\)</p><p>Let u = x\\(^2\\) </p><p>v = (1 + x)\\(^{\\frac{3}{2}}\\)</p><p>\\(\\frac{du}{dx} 2x\\)</p><p>\\(\\frac{dv}{dx} = \\frac{3}{2}\\)(1 + x)\\(^\\frac{1}{2}\\)</p><p>\\(\\frac{dy}{dx} = v\\frac{du}{dx} + u\\frac{dv}{dx}\\) </p><p>= (1 + x)\\(^{\\frac{3}{2}}\\)(2x) + x\\(^2\\)\\(\\frac{3}{2}(1 + x)^{\\frac{1}{2}}\\)</p><p>= 2x(1 + x)\\(^{\\frac{3}{2}}\\) + \\(\\frac{3x^2(1 + x)^{\\frac{1}{2}}}{2}\\)</p><p> </p><p> </p><p>(b) </p><p>2y - x = 3</p><p>when x = 0, y  = \\(\\frac{3}{2}\\)</p><p>when y = 0, x = -3</p><p>h = -3, k = \\(\\frac{3}{2}\\)</p><p>Using </p><p>(x - h)\\(^2\\) + (y - k)\\(^2\\)  = r\\(^2\\) </p><p>(x + 3)\\(^2\\)  + (y - \\(\\frac{3}{2}\\))\\(^2\\)  = r\\(^2\\) </p><p>r(2, 3), x = 2, y = 3</p><p>(2 + 3)\\(^2\\)  + (3 + \\(\\frac{3}{2}\\))\\(^2\\)  = r\\(^2\\) </p><p>\\(\\frac{109}{4}\\) = r\\(^2\\)  </p><p>The equation will give </p><p>(x + 3)\\(^2\\)  + (y - \\(\\frac{3}{2}\\))\\(^2\\)  </p><p>= \\(\\frac{109}{4}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2020,
+        "question": "<p>(a) Simplify; \\(\\frac{log_2 ^8 + log_2 ^{16} - 4 log_2 ^2}{log_4^{16}}\\)</p><p>(b) The first, third, and seventh terms of an Arithmetic Progression (A.P) from three consecutive terms of a Geometric Progression (G.P). If the sum of the first two terms of the A.P is 6, find its:</p><p>(I) first term; (ii) common difference.</p>",
+        "answer": "<p>\\(\\frac{log_2 ^8 + log_2 ^ {16} - 4 log_2^ 2}{log_4^{16}}\\)</p><p>= \\(\\frac{3log_2 ^2 + 4 log_2^ 2 - 4 log_2 2}{2 log_4^4}\\)</p><p>= \\(\\frac{3 + 4 - 4}{2}\\) </p><p>= \\(\\frac{3}{2}\\) </p><p> </p><p>(b) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>AP</td>\n<td>GP</td>\n</tr>\n<tr>\n<td>\n<p>T\\(_1\\)</p>\n<p>T\\(_3\\)</p>\n<p>T\\(_7\\)</p>\n</td>\n<td>\n<p>T\\(_1\\)</p>\n<p>T\\(_2\\)</p>\n<p>T\\(_3\\)</p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p>T\\(_1\\) + T\\(_2\\) = 6</p><p>a + a + d = 6</p><p>2a + d = 6.....(i)</p><p>a = a</p><p>a + 2d = ar, a + 6d = ar\\(^2\\)</p><p>\\(\\frac{a + 2d}{a} = \\frac{a + 6d}{a + 2d}\\)</p><p>(a + 2d)\\(^2\\)  = \\(\\frac{a + 6d}{a + 2d}\\)</p><p>(a + 2d)\\(^2\\) = a(a + 6d)</p><p>a\\(^2\\) + 4d\\(^2\\) + 4ad = a\\(^2\\) + 6ad</p><p>4d\\(^2\\) = 6ad - 4ad</p><p>4d\\(^2\\) = 2ad</p><p>\\(\\frac{4d}{2} = \\frac{2a}{2}\\)</p><p>a = 2d ......(ii)</p><p>from;</p><p>2a + d = 6</p><p>2(2d) + d = 6</p><p>4d + d = 6</p><p>5d = 6</p><p>d = \\(\\frac{6}{5}\\) </p><p>= 1\\(\\frac{1}{5}\\) </p><p>from; a = 2d</p><p>a = \\(\\frac{2 \\times 6}{5}\\) </p><p>= \\(\\frac{12}{5}\\)</p><p>= 2\\(\\frac{2}{5}\\) </p><p>First term = 2\\(\\frac{2}{5}\\) </p><p>Common difference = 1\\(\\frac{4}{5}\\) </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2020,
+        "question": "<p>(a) An association is made up of 6 farmers and 8 traders. If an executive body of 4 members is to be formed, find the probability that it will consist of at least two farmers. (b) The probability of an accident occurring in a given month in factories X, Y, and Z are \\(\\frac{1}{5}, \\frac{1}{12} \\) and \\(\\frac{1}{6}\\) respectively.</p><p>Find the probability that the accident will occur in:</p><p>i) none of the factories;</p><p>(ii) all the factories;</p><p>(iii) at least one factory.</p><p> </p>",
+        "answer": "<p>No. of farmers = 6</p><p>No. of traders = 8</p><p>Total = 14 </p><p>Pr(at least two farmers)</p><p>= \\(\\frac{^6C_2 \\times ^8C_2}{^{14}C_4} + \\frac{^6C_3 \\times ^8C_1}{^{14}}+ \\frac{^6C_4 \\times ^8C_0}{^{14}C_4}\\)</p><p>= \\(\\frac{15 \\times 28}{1001} + \\frac{20 \\times 8}{1001} + \\frac{15 \\times 1}{1001}\\)</p><p>= \\(\\frac{420}{1001} + \\frac{160}{1001} + \\frac{15}{1001}\\) </p><p>= \\(\\frac{420 + 160 + 15}{1001}\\)</p><p>= \\(\\frac{595}{1001}\\) </p><p> </p><p>(b) P(x) = \\(\\frac{1}{5}\\) </p><p>p(x\\(^1\\)) = 1 - \\(\\frac{1}{5}\\) = \\(\\frac{4}{5}\\)</p><p>p(y) = \\(\\frac{1}{2}\\), p(y\\(^1\\))</p><p>= 1 - \\(\\frac{1}{12}\\)</p><p>= \\(\\frac{11}{12}\\)</p><p>p(2) = \\(\\frac{1}{6}\\)</p><p>p(z\\(^1\\)) = 1 - \\(\\frac{1}{6}\\)</p><p>= \\(\\frac{5}{6}\\) </p><p> </p><p>(i) Pr() </p><p>= \\(\\frac{4}{5} \\times \\frac{11}{12} \\times \\frac{5}{6} = \\frac{11}{18}\\)</p><p> </p><p>(ii) Pr(all the factories)</p><p>= \\(\\frac{1}{5} \\times \\frac{1}{12} \\times \\frac{1}{6} = \\frac{1}{360^o}\\) </p><p> </p><p>(iii) Pr (at least one factory)</p><p>= 1 - Pr (none) = \\(\\frac{1}{1} - \\frac{11}{18}\\)</p><p>= \\(\\frac{18 - 11}{18}\\)</p><p>= \\(\\frac{7}{18}\\)</p><p> </p><p> </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2020,
+        "question": "<p>The essays of 10 candidates were ranked by three examiners as shown in the table.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>candidates</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>D</td>\n<td>E</td>\n<td>F</td>\n<td>G</td>\n<td>H</td>\n<td>I</td>\n<td>J</td>\n</tr>\n<tr>\n<td>Examiner I</td>\n<td>1st</td>\n<td>3rd</td>\n<td>6th</td>\n<td>2nd</td>\n<td>10th</td>\n<td>9th</td>\n<td>7th</td>\n<td>4th</td>\n<td>8th</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>Examiner II</td>\n<td>2nd</td>\n<td>1st</td>\n<td>3rd</td>\n<td>9th</td>\n<td>7th</td>\n<td>4th</td>\n<td>8th</td>\n<td>10th</td>\n<td>5th</td>\n<td>6th</td>\n</tr>\n<tr>\n<td>Examiner III</td>\n<td>3rd</td>\n<td>2nd</td>\n<td>1st</td>\n<td>6th</td>\n<td>9th</td>\n<td>8th</td>\n<td>7th</td>\n<td>5th</td>\n<td>4th</td>\n<td>10th</td>\n</tr>\n</tbody>\n</table><p> </p><p>a) Calculate the Spearman's rank correlation coefficient of the ranks assigned by:</p><p>(i) Examiners I and lI;</p><p>(ii) Examiners I and III</p><p>(iii) Examiners II and II.</p><p>(b) Using the results in (a), state which two examiners agree most.</p><p> </p>",
+        "answer": "<p>(a)(i)</p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240779552_528542294925085_2095985458128044909_n.jpg?_nc_cat=103&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGeyAUaKEba-FmPVzR8gGsi9X74ya24Srf1fvjJrbhKt8vlyZiugshPVYrWabGk6uNxidO1fwbE3JaLT0MdGwvd&amp;_nc_ohc=jnepuBwcsewAX-fC5Ki&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=7d2b33300406fc0ef8d94f46fba118a5&amp;oe=614F9545\"></p><p>Rank coefficient = I = \\(\\frac{6\\sum d^2}{n(n^2 - 1)}\\)</p><p>= 1 - \\(\\frac{6(141)}{10(10^2 - 1)}\\)</p><p>= 1 - \\(\\frac{6(141)}{10 \\times 99}\\)</p><p>= 1 - \\(\\frac{846}{990}\\)</p><p>= 1 - 0.85</p><p>= 0.15</p><p> </p><p>(ii) </p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240650903_315369210385231_1594786420214710651_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGgzHUOrDUg0V3TCzkodUQj4KqZPi2Kwafgqpk-LYrBp7E3SSixBM07QCU1FlEOZhvAn-IyFVQLsUTCmSdrCQ8s&amp;_nc_ohc=xYecfZPEqN0AX_qCDOT&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=a1c782121c1d6bb9b38e18f9e56a411b&amp;oe=614EF0EC\"></p><p>Rank coefficient = 1 - \\(\\frac{6(78)}{10(10^2 - 1)}\\)</p><p>= 1 - \\(\\frac{468}{990}\\)</p><p>= 1 - 0.472</p><p>= 0.53</p><p> </p><p> </p><p>(iii) </p><p> </p><p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240670935_919706522221448_2711644357531427020_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGkfB8sgtwvdqvf1Dh4-7C75vV7ulO-9pXm9Xu6U772ldOylxbHEpcHdA5iT4YH9APbM1LEyNrH3w-3LE8iFShn&amp;_nc_ohc=NrudO3YOs-oAX_TUAWK&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=3a0cdde1fe7deeb3541175de54930a07&amp;oe=614E6BB9\"></p><p> </p><p>Rank coefficient = 1 - \\(\\frac{6(78)}{10(10^2 - 1)}\\)</p><p>= 0.53</p><p> </p><p>(b) Examiner II and III</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2020,
+        "question": "<p>(a) A car is moving with a velocity of 10ms\\(^{-1}\\) It then accelerates at 0.2ms\\(^{-2}\\) for 100m. Find, correct to two decimal places the time taken by the car to cover the distance.</p><p>(b) A particle moves along a straight line such that its distance S metres from a fixed point O is given by S = t\\(^2\\) - 5t + 6, where t is the time in seconds. Find its:</p><p>(i) initial velocity;</p><p>(ii) distance when it is momentarily at rest</p>",
+        "answer": "<p>(a) u = 10ms\\(^{-1}\\), a = 0.2m\\(^{-2}\\), s = 100m, t = ? </p><p>using S = ut + \\(\\frac{1}{2} at^2\\)</p><p>100 = 10t + \\(\\frac{1}{2}(0.2)t^2\\)</p><p>100 = 10t + 0.1t\\(^2\\)</p><p>0.1t\\(^2\\) + 10t - 100 = 0</p><p>t = \\(\\frac{-10 \\pm \\sqrt{10^2 - 4(0.1)(-100)}}{2(0.1)}\\)</p><p>t = \\(\\frac{-10\\pm \\sqrt{100 + 40}}{0.2}\\)</p><p>t = \\(\\frac{-10 \\pm \\sqrt{140}}{0.2}\\)</p><p>t = \\(\\frac{-10 \\pm 11.83}{0.2}\\)</p><p>t = \\(\\frac{-10 - 11.82}{2}\\)</p><p>t = \\(\\frac{1.83}{0.2}\\) </p><p>t = \\(\\frac{21.83}{2}\\) </p><p>t = 9.15 seconds</p><p> </p><p>(b)(i) S = t\\(^2\\) - 5 + 6</p><p>v =  \\(\\frac{ds}{dt}\\)</p><p>= 2t - 5</p><p>at t = 0, y = 2(0) - 5</p><p>= - 5ms\\(^{-1}\\)</p><p>The initial velocity is 5 in the negative direction </p><p> </p><p>(ii) When t = 0, S = t\\(^2\\) - 5t + 6</p><p>S = 0\\(^2\\) - 5(0) + 6 </p><p>S = 6</p><p>The distance is 6m</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/240679441_946303769253147_5964611233348664124_n.jpg?_nc_cat=111&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeF7A-Y3hdN0L2m54vVKhjY2r3OUIxo4usSvc5QjGji6xHhdq23WiwHWWRF4GSrYq7hhuMyUyDfuLbtMZISGvxAK&amp;_nc_ohc=quJptuBfObkAX-MK9lO&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=92bde206b86b292f498a75794235d752&amp;oe=614C3ED7\"></p><p>The diagram is that of a light inextensible string of length 4.2m, whose ends are attached to two fixed points X and Y, 3m apart, and on the same horizontal level. A body of mass 800g is hung on the string at a point O, 2.4m from Y. If the system is kept in equilibrium by a horizontal force P acting on the body and the tensions are equal, calculate:</p><p>(a) &lt; XOY;</p><p>(b) the magnitude of the force P;</p><p>(c) the tension T in the string.</p>",
+        "answer": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240784282_600525764658745_2275215893478098439_n.jpg?_nc_cat=110&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEVfwbnlF8aqxTul3FP-gqBmmxvLSrsir2abG8tKuyKveN8mC28bohGNpu2BE1xPs7NMWRQ5EMnUw3-hYjL-nMN&amp;_nc_ohc=w5zvu5As-LMAX_8pCky&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=d339ea6423f8842498baf148e8c320ac&amp;oe=614CB2EB\"></p><p>Cos \\(\\theta\\) = \\(\\frac{(2.4)^2 + (1.8)^2 - (3)^2}{2(2.4)(1.8)}\\)</p><p>cos \\(\\theta\\) = \\(\\frac{5.76 + 3.4 - 9}{8.64}\\)</p><p>cos \\(\\theta\\) = \\(\\frac{0.0}{8.64}\\) = 0</p><p>\\(\\theta\\) cos\\(^{-1}\\) 0 = 90\\(^o\\) </p><p>&lt; XOY = 90\\(^o\\) </p><p> </p><p> </p><p>(b) Magnitude of the force p </p><p>cos \\(\\alpha\\) = \\(\\frac{(3)^2 + (2.4)^2 - (1.8(^2}{2(3)(2.5)}\\)</p><p>cos \\(\\alpha\\) = = \\(\\frac{9 + 5.76 - 3.24}{14.4}\\)</p><p>cos \\(\\alpha\\) = \\(\\frac{11.52}{14.4}\\)</p><p>cos \\(\\alpha\\) = 0.8</p><p>\\(\\alpha\\) = cos \\(^{-1}\\) 0.8 </p><p>= 36.86\\(^o\\) </p><p>\\(\\frac{p}{2.4} = cos 36.86^o\\)</p><p>p = 2.4 x 0.8 </p><p>p = 1.92N</p><p> </p><p> </p><p>(c) The tension T in the string </p><p>T\\(^2\\) = 8\\(^2\\) + 1.92\\(^2\\) </p><p>T\\(^2\\) = 64 + 3.59</p><p>Tv = 67.69</p><p>T = \\(\\sqrt{67.69}\\)</p><p>T = 8.23N </p>",
+        "type": "theory"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2018,
+        "question": "<p>The S.I unit for sound energy is</p>",
+        "explanation": "<p>Every form of energy is measured in joules (J).</p>",
+        "correctIndex": 3,
+        "options": [
+            "Hz",
+            "cd",
+            "dB",
+            "J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2018,
+        "question": "<p>The general definition of elastic modulus is</p>",
+        "explanation": "<p>Elastic modulus is the ratio of pressure (stress) applied to a body to the resistance (strain) produced by the body.</p><p>= \\(\\frac{stress}{strain}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{stress}{strain}\\)",
+            "\\(\\frac{strain}{stress}\\)",
+            "\\(stress \\times strain\\)",
+            "\\(\\sqrt{\\frac{stress}{strain}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/uyTcizqr5PYVBfixggyMCzV5JutvzN4Kadl4noau.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>The height of the mercury column in a simple barometer is calculated as the atmospheric pressure.</p>",
+        "correctIndex": 1,
+        "options": [
+            "PQ",
+            "QR",
+            "RS",
+            "QS"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2018,
+        "question": "<p>The property of a body to remain at rest or to continue in uniform motion in a straight line is called</p>",
+        "explanation": "<p>Inertia is the resistance of the object to any change in its motion, including a change in direction. An object will stay still or keep moving at the same speed and in a straight line, unless it is acted upon by an external unbalanced force.</p>",
+        "correctIndex": 1,
+        "options": [
+            "momentum",
+            "Inertia",
+            "impulse",
+            "Energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2018,
+        "question": "<p>During a training session, two footballers pass a ball repeatedly between each other. The 'to and fro' motion of the ball is not simple harmonic because the</p><p>I. Acceleration of the ball is not directed towards a fixed point</p><p>II. Restoring force is not directed towards the centre</p><p>III. Acceleration of the ball is not directly proportional to the displacement from a fixed point</p><p>Which of the statements above are correct?</p>",
+        "explanation": "<p>In SHM, the body must have acceleration in a direction opposite to the displacement and the acceleration must be directly proportional to displacement. Also, the acceleration must be directed towards its mean position. This is not the case with a football on the pitch.</p>",
+        "correctIndex": 0,
+        "options": [
+            "I and III only",
+            "I and II only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2018,
+        "question": "<p>A dam is able to hold a large quantity of water because its wall is</p>",
+        "explanation": "<p>The pressure of the water is much greater deeper down and the dam needs to be thick at the bottom so that it is strong enough to withstand this larger pressure.</p>",
+        "correctIndex": 2,
+        "options": [
+            "thickest at the top",
+            "thickest at the middle",
+            "thickest at the bottom",
+            "of the same thickness throughout"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2018,
+        "question": "<p>A body of mass <strong>m </strong>moving around a circle of radius <strong>r </strong>with a uniform speed <strong>v </strong>experiences a centripetal force <strong>F. </strong>The work done by the centripetal force on it is</p>",
+        "explanation": "<p>The work done by centripetal force in the case of a uniform circular motion is 0 joules.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Fv",
+            "zero",
+            "Fmr",
+            "\\(\\frac{Fr}{m}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5IL88z55Dysn2Rj0HIQ2otEt4Ib9mT6RZuRe0Otn.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Total force exerted on the block = (10 - 1)N =9N</p><p>Force = mass x acceleration</p><p>9 = m x 1.5</p><p>m = 9/1.5 = 6kg</p>",
+        "correctIndex": 0,
+        "options": [
+            "6kg",
+            "9kg",
+            "10kg",
+            "15kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2018,
+        "question": "<p>Which of the following quantities are dimensionally independent?</p><p>I. Dielectric constant    II. Momentum   III. Efficiency   IV. Refractive index</p>",
+        "explanation": "<p>The quantities Efficiency, Dielectric constant and Refractive index are dimensionless.</p>",
+        "correctIndex": 3,
+        "options": [
+            "I and II",
+            "II, III and IV",
+            "I, II, III and IV",
+            "I, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2018,
+        "question": "<p>A body is projected with an initial velocity <strong>u</strong> at angle \\(\\theta\\) to the horizontal. If \\(R_{max}\\) is the maximum range of the projectile, what does the relation \\(\\frac{u^{2}}{R_{max}}\\) represent?</p>",
+        "explanation": "<p>\\(R_{max} = \\frac{u^{2}}{g}\\)</p><p>Hence, \\(g = \\frac{u^{2}}{R_{max}}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "The vertical distance covered",
+            "Acceleration due to gravity",
+            "The horizontal distance covered",
+            "The acceleration of the body"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2018,
+        "question": "<p>An object at rest is said to possess </p>",
+        "explanation": "<p>Potential energy is the energy that is stored in an object due to its position relative to some zero position.</p>",
+        "correctIndex": 0,
+        "options": [
+            "potential energy",
+            "kinetic energy",
+            "chemical energy",
+            "electrical energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2018,
+        "question": "<p>According to Newton's law of cooling, the heat energy lost per unit area of a body depends on the</p><p>I. Surface area</p><p>II. Nature of the surface</p><p>III. Temperature of the surface</p><p>IV. Excess temperature over the surroundings</p>",
+        "explanation": "<p>The rate of cooling of liduid according to Newton's law of cooling depends on:</p><p>- Temperature of the liquid</p><p>- Temperature of the enclosure</p><p>- The area of the exposed surface</p><p>- The nature and extent of the surface of the containing vessel</p>",
+        "correctIndex": 2,
+        "options": [
+            "I and II only",
+            "II and IV only",
+            "I,II and III",
+            "I, II and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/YcGNZFRDUcHX9EXxSKqW5qzi7OcS9gcd6hjzUDJk.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2018,
+        "question": "<p>A football is kicked at an angle of 45° to the horizontal over a defense line up with a velocity of 15\\(ms^{-1}\\). Calculate the magnitudeof horizontal velocity of the ball at its highest point  [Neglect friction, g = 10\\(ms^{-2}\\)].</p>",
+        "explanation": "<p>The horizontal component of velocity, \\(V_{x}\\), is unaffected by the acceleration of free fall and remains constant.</p><p>\\(V_{x} = U_{x} = Ucos\\theta\\)</p><p>= \\(15 \\times cos45 = 15\\times 0.7071\\)</p><p>\\(\\approxeq 10.6ms^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.0\\(ms^{-1}\\)",
+            "5.6\\(ms^{-1}\\)",
+            "10.6\\(ms^{-1}\\)",
+            "15.0\\(ms^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2018,
+        "question": "<p>The ice point on the absolute scale of temperature is</p>",
+        "explanation": "<p>The absolute zero of the scale of temperature being the ice point of the absolute scale of temperature is 0K, which is -273°C.</p>",
+        "correctIndex": 0,
+        "options": [
+            "0K",
+            "32K",
+            "100K",
+            "273K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2018,
+        "question": "<p>Which of the following factors does not increase the rate of evaporation of water in a lake?</p>",
+        "explanation": "<p>The rate of evaporation is increased by the lowering of atmospheric pressure and not its increase. Every other factor stands, for the increase of evaporation process.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Increase in the pressure of the atmosphere",
+            "Rise in temperature",
+            "Increase in the surface area of the lake",
+            "Increase in the speed of the wind"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2018,
+        "question": "<p>The bob of a simple pendulum takes 8.0s to complete 10 oscillations. Determine the frequency of oscillation of the bob.</p>",
+        "explanation": "<p>10 complete oscillations = 8.0s</p><p>1 complete oscillation (period) = \\(\\frac{8}{10}\\)s</p><p>Frequency = \\(\\frac{1}{period}\\) = \\(\\frac{1}{0.8} = 1.25Hz\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.125Hz",
+            "1.25Hz",
+            "7.50Hz",
+            "8.00Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/WX5ed98XlQR1Qozpi1dI371FVBXs9370WtqWKCDH.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Let the room temperature be X.</p><p>We have, \\(\\frac{3-0}{10-0} = \\frac{X-0}{100-0}\\)</p><p>\\(\\frac{3}{10} = \\frac{X}{100}\\)</p><p>\\(X = \\frac{3 \\times 100}{10}\\)</p><p>= 30°C</p>",
+        "correctIndex": 3,
+        "options": [
+            "3.3°C",
+            "7.0°C",
+            "13°C",
+            "30.0°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2018,
+        "question": "<p>Frequency is measured in</p>",
+        "explanation": "<p>The unit of frequency is hertz, abbreviated Hz.</p>",
+        "correctIndex": 2,
+        "options": [
+            "meter per second",
+            "seconds",
+            "hertz",
+            "farad"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2018,
+        "question": "<p>Which of the following electromagnetic waves is most energetic? </p>",
+        "explanation": "<p>The gamma rays have the shortest wavelength and therefore, impart the highest photon energy.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Radio waves",
+            "X-ray",
+            "Gamma rays",
+            "Ultra-violet rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2018,
+        "question": "<p>Rainbow formation is a natural phenomenon illustrating that white light</p>",
+        "explanation": "<p>A rainbow is caused by the dispersion of sunlight by tiny water droplets present in the atmosphere, which can be seen after the rain.</p>",
+        "correctIndex": 3,
+        "options": [
+            "splits into three components after rainfall",
+            "is dispersed by glass prisms",
+            "splits into its constituent colours before rainfall",
+            "is dispersed into its constituent colours after rainfall"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/ZlKk0sb0Zxjuq9Bp9mbKQYuUGQZukhyuO2kd4Khe.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>The diagram is that of a plano-convex lens; a type of converging lens.</p>",
+        "correctIndex": 1,
+        "options": [
+            "converging meniscus",
+            "plano-convex",
+            "diverging meniscus",
+            "bi-convex"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2018,
+        "question": "<p>Two plane mirrors are inclined to each other such that an object placed between them has 11 images. Determine the angle of inclination </p>",
+        "explanation": "<p>Formula for number of images = \\(\\frac{360}{n} - 1\\)</p><p>where n is the angle of inclination.</p><p>Given the number of images = 11, we have</p><p>\\(\\frac{360}{n} - 1 = 11\\)</p><p>\\(\\frac{360}{n} = 12\\)</p><p>\\(n = \\frac{360}{12} =30°\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2018,
+        "question": "<p>The pitch of a note is not affected by</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "frequency",
+            "tension in a vibrating string",
+            "mass of a vibrating string",
+            "amplitude of sound wave"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2018,
+        "question": "<p>When two flat plate conductors are arranged in such a way that they possess equal and opposite charges seperated by a dielectric, they form a/an</p>",
+        "explanation": "<p>Most capacitors contain at least two electrical conductors often in the form of metallic plates or surfaces separated by a dielectric medium.</p>",
+        "correctIndex": 2,
+        "options": [
+            "electroscope",
+            "electrophorus",
+            "capacitor",
+            "cell"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/gQKivMw3t1dHVoSCxgNqAOAxyphgDyBiJSUxKbGH.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a.c. generator",
+            "a.c. motor",
+            "d.c. generator",
+            "d.c. motor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2018,
+        "question": "<p>A simple barometer is constructed using a liquid \\(Q_{1}\\) of density 16.2\\(g/cm^{3}\\). Calculate the least lenth of the tube to be used to measure pressure of 1.5atm.  [Density of mercury = 13.6\\(g/cm^{3}\\), 1atm = 76.0 cm of Mercury]</p>",
+        "explanation": "<p>Let \\(h_{Q}\\) and \\(\\rho_{Q}\\) be the least length and the density of \\(Q_{1}\\) </p><p>while \\(h\\) and \\(\\rho\\) are the length and density of mercury respectively.</p><p>\\(h\\times \\rho \\times g = h_{Q} \\times \\rho_{Q} \\times g\\)</p><p>\\(76cm \\times 13.6 \\times 10 = h_{Q} \\times 16.2 \\times 10\\)</p><p>\\(h_{Q} = \\frac{76\\times13.6\\times10}{16.2\\times10}\\)</p><p>\\(h_{Q} = \\frac{10336}{162}\\)</p><p>\\(h_{Q} \\approxeq 63.8cm = 638mm\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "1358mm",
+            "957mm",
+            "760mm",
+            "638mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/iEyRIUR4TPZpAhDl7V3gL64T3r6Gc8vJzRDS3GpA.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "10.0N",
+            "20.0N",
+            "40.0N",
+            "50.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2018,
+        "question": "<p>To obtain a virtual, erect and magnified image from a thin converging lens, an object must be placed </p>",
+        "explanation": "<p>When the object is placed between the optical centre of the lens and the focal length, the image formed is virtual, erect and magnified.</p>",
+        "correctIndex": 0,
+        "options": [
+            "between the focus and the lens",
+            "at the focus",
+            "between the focal length and twice the focal length",
+            "beyond twice the focal length"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/ImUaRf4JhZu9qruidw6RhPejedsGtsYMocXMwUgt.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "A and E",
+            "B and D",
+            "C and F",
+            "D and H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2018,
+        "question": "<p>Two objects P and Q of masses 100kg and 20kg respectively are 1.2m apart on a horizontal surface. Calculate the net gravitational force acting on Q.                                     \\([G= 6.67 \\times 10^{-11} Nm^{2}kg^{-2}]\\)</p>",
+        "explanation": "<p>\\(F= \\frac{Gm_{1}m_{2}}{r^{2}}\\)</p><p>\\(m_{1} = 100kg\\)</p><p>\\(m_{2} = 20kg; r =1.2m\\)</p><p>\\(G= 6.67\\times 10^{-11}\\)</p><p>\\(F = \\frac{6.67\\times 10^{-11}\\times 100\\times 20}{(1.2)^{2}} = 9.26\\times 10^{-8}\\)</p><p>The acceleration of each object is inversely proportional to the mass, the lighter object will move a bit faster, hence. the force will act in the direction of Q.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(1.11\\times 10^{-7} N\\) towards P",
+            "\\(1.11\\times 10^{-7} N\\) towards Q",
+            "\\(9.26\\times 10^{-8} N\\) towards P",
+            "\\(9.26\\times 10^{-8} N\\) towards Q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2018,
+        "question": "<p>The primary of a transformer has 100 turns and its secondary has 200 turns. If the voltage at the primary is 100V, determine the voltage at the secondary.</p>",
+        "explanation": "<p>The ideal transformer (either step-up or step-down) works with the equation:</p><p>\\(\\frac{V_{s}}{V_{p}} = \\frac{N_{s}}{N_{p}} = \\frac{I_{p}}{I_{s}}\\)</p><p>where \\(V_{s}\\) and \\(V_{p}\\) are the voltages applied to the secondary and the primary respectively</p><p>\\(N_{s}\\) and \\(N_{p}\\) are the number of turns on the secondary and primary coils respectively</p><p>\\(I_{p}\\) and \\(I_{s}\\) are the currents flowing in the primary and secondary coils respectively.</p><p>\\(\\frac{V_{s}}{100} = \\frac{200}{100}\\)</p><p>\\(V_{s} = \\frac{200\\times 100}{100} = 200V\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "50V",
+            "100V",
+            "200V",
+            "400V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/jUjB763KM7OZVfO0Nzw0wes21mv1HAjFIwMqBAkv.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>The velocity ratio and therefore, the mechanical advantage of an inclined plane system increases as \\(\\theta\\) decreases and vice-versa.</p>",
+        "correctIndex": 1,
+        "options": [
+            "increases",
+            "decreases",
+            "remain the same",
+            "decreases and later increases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2018,
+        "question": "<p>When the speed of a car is halved, its kinetic energy is</p>",
+        "explanation": "<p>Given \\(K_{1}\\) = \\(\\frac{mv^{2}}{2}\\).</p><p>When v is halved, we have</p><p>\\(K_{2}\\) = \\(\\frac{m\\times (\\frac{v}{2})^{2}}{2}\\)</p><p>= \\(\\frac{K_{1}}{4}\\)</p><p>Hence, the initial kinetic energy is quartered.</p>",
+        "correctIndex": 1,
+        "options": [
+            "doubled",
+            "quartered",
+            "halved",
+            "quadrupled"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2018,
+        "question": "<p>A wire of length 400cm is stretched between two fixed points. When plucked, its fundamental frequency is 150Hz. Calculate the speed of the wave produced.</p>",
+        "explanation": "<p>The fundamental frequency \\((f_{0})\\) = \\(\\frac{v}{2l}\\)</p><p>\\(f_{0} = 150Hz; l =400cm = 4m\\)</p><p>\\(150 = \\frac{v}{2\\times 4}\\)</p><p>\\(v = 150 \\times 8 = 1200ms^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "250\\(ms^{-1}\\)",
+            "625\\(ms^{-1}\\)",
+            "1200\\(ms^{-1}\\)",
+            "1500\\(ms^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/UgFXJcv6zJ5FOUBgMzsTYHGPSFB4elWqmO6YEVwI.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "4",
+            "3\\(\\frac{1}{2}\\)",
+            "2\\(\\frac{1}{2}\\)",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2018,
+        "question": "<p>A resistor with fixed resistance value is called a</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "resistance box",
+            "standard resistor",
+            "shunt resistor",
+            "multiplier resistor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2018,
+        "question": "<p>Which of the following statements is not an advantage of an alkaline accumulator?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "The electrolyte does not need attention",
+            "It can be recharged",
+            "It has low internal resistance",
+            "It has a much longer life than lead-acid accumulator"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1NSpzXQYSGws81LjQv3rMDzUcBCC0tGd3nDXcOw7.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "live, neutral and earth",
+            "neutral, earth and live",
+            "earth, live and neutral",
+            "earth, neutral and live"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2018,
+        "question": "<p>Which of the following statements about parallel plate capacitors is/are correct?</p><p>I. Capacitance of the capacitor  is inversely proportional to the distance between the plates</p><p>II. Capacitors can filter a.c signals from d.c </p><p>III. Capacitors can store charges</p>",
+        "explanation": "<p>Capacitors pass AC but block DC signals (when charged up to the applied DC voltage), they are often used to separate the AC and DC components of a signal. Capacitors are also primarily used to store energy.</p>",
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "I and II only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1NwdT1ubhINFvcvzRXAvjYP2Pq6d8CsAxi0r7f4Z.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Ammeters are connected in series so,</p><p>A3= A2 + A1</p><p>A1 = A3 - A1</p><p>= 5A - 2A</p><p>= 3A</p>",
+        "correctIndex": 1,
+        "options": [
+            "2A",
+            "3A",
+            "5A",
+            "8A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2018,
+        "question": "<p>Which of the following statements about magnetic lines of force is not correct? They</p>",
+        "explanation": "<p>Two magnetic lines of force can not intersect each other.</p>",
+        "correctIndex": 3,
+        "options": [
+            "pass through even non-magnetic materials",
+            "run from the north pole to the south pole",
+            "are in a state of tension and tend to be shorted",
+            "intersect one another"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2018,
+        "question": "<p>In which of the following activities is an induction coil not useful?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Investigation of high voltages",
+            "Study of electric discharge",
+            "Operation of X-ray tubes",
+            "A.C. power transmission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2018,
+        "question": "<p>In a series R-L-C circuit, R = 10\\(\\Omega\\), \\(X_{c}\\)= 4\\(\\Omega\\) and \\(X_{L}\\) = 9\\(\\Omega\\). The impedance of the circuit is</p>",
+        "explanation": "<p>The impedance for a RLC circuit is</p><p>\\(Z = \\sqrt{R^{2} + (X_{L} - X_{C})^{2}}\\)</p><p>= \\(\\sqrt{10^{2} + (9 - 4)^{2}}\\)</p><p>= \\(\\sqrt{125}\\)</p><p>= 11.18\\(\\Omega\\) \\(\\approxeq\\) 11.2\\(\\Omega\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "4.1\\(\\Omega\\)",
+            "5.0\\(\\Omega\\)",
+            "10.8\\(\\Omega\\)",
+            "11.2\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/zQ2iDQSCNsLTdLPR4lgwywmtv6Yeqe2qtg6xnSBp.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>By convention, the field direction is taken to be outward from the North pole and in to the South pole of the magnet. Also, they form closed lines.</p>",
+        "correctIndex": 1,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2018,
+        "question": "<p>Which of the following is emitted in a process of natural radioactivity?</p>",
+        "explanation": "<p>In the course of natural radioactivity, alpha, beta and gamma rays are emitted.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\alpha\\)- particles and \\(\\beta\\)- particles",
+            "\\(\\alpha\\)- particles and X-rays",
+            "\\(\\beta\\)- particles and X-rays",
+            "\\(\\lambda\\)- rays and X-rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2018,
+        "question": "<p>In which of the following situations is photoelectric effect employed?</p><p>I. Automatic devices for switching on light at dusk</p><p>II. Automatic doors in departmental stores</p><p>III. Automatic devices for switching on air conditioners</p><p>IV. Automatic voltage stabilizers</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "I, II and IV only",
+            "I, III and IV only",
+            "III and IV only",
+            "I and II only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2018,
+        "question": "<p>Which of the following radiations has the longest wavelength?</p>",
+        "explanation": "<p>Radio wave has the longest wavelength and shortest frequency.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Gamma ray",
+            "Radio wave",
+            "Infrared ray",
+            "X-ray"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2018,
+        "question": "<p>In which of the following fields is radioisotopes not used?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Medicine",
+            "Oil industry",
+            "Agriculture",
+            "Weather forecast"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2018,
+        "question": "<p>A nuclide is represented by \\(_{32}^{70}B\\). Determine its neutron-proton ratio</p>",
+        "explanation": "<p>The element B has a mass number of 70 with atomic number 32. Hence, B has 32 protons and (70-32) = 38 neutrons.</p><p>The neutron- proton ratio is 38:32 = \\(\\frac{38}{32} = 1.1875\\)</p><p>\\(\\approxeq 1.2\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.5",
+            "0.8",
+            "1.2",
+            "1.5"
+        ],
+        "type": "objectives"
+    }
+]

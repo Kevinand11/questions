@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2011,
+        "question": "Which of the following statements is not correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "molecules of ice, water and water vapour have equal intermolecular distances",
+            "molecules of ice, water and water vapour do not differ in the structure of their molecules",
+            "molecules of water vapour attract each other with forces far less than the forces of attraction between water molecules",
+            "water is less compressible than water vapour"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2011,
+        "question": "The density P of a spherical ball of diameter d and mass m is given by",
+        "explanation": "p = \\(\\frac{M}{V} = \\frac{M}{\\frac{4}{3} \\pi (\\frac{d}{\\pi})^3}\\)<br><br>= \\(\\frac{6m}{\\pi d^3}\\)",
+        "correctIndex": 2,
+        "options": [
+            "P = \\(\\frac{3m}{4 \\pi d^3}\\)",
+            "p = 4\\(\\pi md^3\\)",
+            "p = \\(\\frac{6m}{\\pi d^3}\\)",
+            "p = \\(\\frac{3m}{2 \\pi d^3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2011,
+        "question": "A metal rod of density 7000 kgm<sup>-3</sup>and cross-sectional area of 0.001257m<sup>2</sup>has a mass of 1.76kg. Calculate its length.",
+        "explanation": "P = \\(\\frac{M}{AL}\\)<br><br>L = \\(\\frac{M}{CA}\\)<br><br>= \\(\\frac{1.76}{7000 \\times 0.001257}\\)<br><br>= 0.2m",
+        "correctIndex": 0,
+        "options": [
+            "0.20m",
+            "0.25m",
+            "0.40m",
+            "0.50m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2011,
+        "question": "The pressure in a liquid",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "is the same at all points in the liquid",
+            "decreases with depth",
+            "is the same in all directions at a given point",
+            "is equal to the atmospheric pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2011,
+        "question": "The property of a fluid that is used to determine its suitability as a lubricant is its",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "capillarity",
+            "viscocity",
+            "surface tension",
+            "relative density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2011,
+        "question": "The area under a velocity-time graph represents",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "final velocity attained",
+            "distance covered",
+            "acceleration",
+            "workdone"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2011,
+        "question": "In the absence of gravitational force, the weight of the body is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "its mass",
+            "zero",
+            "its density",
+            "its volume"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2011,
+        "question": "Which of the following propeties is not considered in choosing mercury as a thermomemetric liquid?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "density",
+            "expansivity",
+            "conductivity",
+            "opacity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2011,
+        "question": "A stone of mass 300g is released from rest from the top of a bulding of height 100m. Determine the kinetic energy gained by the stone when it is a quarter way down from the point of release.[g = 10 ms<sup>-2</sup>]",
+        "explanation": "K.E = P.E = mgh<br><br>= 0.3 x 10 x 100 - 0.3 x 10 x 75<br><br>= 75J",
+        "correctIndex": 2,
+        "options": [
+            "750.0J",
+            "225.0J",
+            "75.0J",
+            "22.5J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2011,
+        "question": "A body of mass 120g placed at the 10cm mark on a uniform metre rule makes the rule settle horizontally on a fulcrum places at 35cm mark. Calculate the mass of the rule",
+        "explanation": "m = \\(\\frac{25 \\times 120}{15}\\)<br><br>= 200g",
+        "correctIndex": 3,
+        "options": [
+            "60g",
+            "80g",
+            "120g",
+            "200g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2011,
+        "question": "<p>Two simple pendulum A and B of equal lengths and of masses 5g and 20g respectively are located in the same environment. The periods TA and TB of their respective oscillations are related by the equations</p>",
+        "explanation": "<p>The period of a simple pendulum is dependent on the frequency. It is also dependent on the length of the pendulum but not the mass. Since the two pendulums have equal length, then their periods are equal as well.</p>",
+        "correctIndex": 2,
+        "options": [
+            "T<sub>A</sub>= 4T<sub>B</sub>",
+            "T<sub>A</sub>= \\(\\frac{1}{4} T_B\\)",
+            "T<sub>A</sub>= T<sub>B</sub>",
+            "T<sub>A</sub>= 5T<sub>B</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2011,
+        "question": "An object of mass 5.0 kg moves with a velocity of 10ms<sup>-1</sup>. Calculate its momentum.",
+        "explanation": "Momentum = MV<br><br>= 5 x 10 = 50",
+        "correctIndex": 0,
+        "options": [
+            "50.0 kgms<sup>-1</sup>",
+            "15.0 kgms<sup>-1</sup>",
+            "2.0 kgms<sup>-1</sup>",
+            "0.5 kgms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2011,
+        "question": "A coin is pushed from the edge of a laboratory bench with a horizontal velocity of 15.0 ms<sup>-1</sup>. If the height of the bench from the floor is 1.5m, calculate the distance from the foot of the bench to the point of impact with the floor [g = 10ms<sup>-2</sup>]",
+        "explanation": "S = U\\(\\sqrt{\\frac{2h}{g}}\\)<br><br>= 15\\(\\sqrt{\\frac{2 \\times 1.5}{10}}\\)<br><br>= 8.22m",
+        "correctIndex": 2,
+        "options": [
+            "0.75m",
+            "2.25m",
+            "8.22m",
+            "15.00m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2011,
+        "question": "Which of the following statements correctly defines a simple machine? A device",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "that can produce electric current",
+            "which can only carry people from one place to another",
+            "with which work can be done easily",
+            "which changes the state of rest or of uniform motion of an object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2011,
+        "question": "The radius of a wheel is 30.0 cm and that of its axle is 6.0cm. Calculate the effort required to lift a load of 120.0N using this machine. Assuming 100% efficiency",
+        "explanation": "V.R = \\(\\frac{R}{r} = \\frac{30}{6} = 5\\)<br><br>\\(\\gamma = \\frac{M.A}{V.R} \\times \\frac{100}{1} \\)<br><br>M.A = \\(\\frac{100 \\times 5}{100} = 5\\)<br><br>Effort = \\(\\frac{L}{M.A} = \\frac{120}{5}\\)<br><br>= 24N",
+        "correctIndex": 2,
+        "options": [
+            "600.0N",
+            "40.0N",
+            "24.0N",
+            "20.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2011,
+        "question": "A hypsometer is used for determining",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "steam point",
+            "relative humidity",
+            "ice point",
+            "relative density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2011,
+        "question": "Which of the following equations shows how how the linear expansivity (\\(\\alpha\\)) and the cubic expansivity (\\(\\gamma\\)) of a material are related?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\gamma = \\alpha\\)",
+            "\\(\\gamma = 1 - \\alpha\\)",
+            "\\(\\gamma = 2 \\alpha\\)",
+            "\\(\\gamma = 3 \\alpha\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2011,
+        "question": "Which of the following statements about anomalous expansion of water are correct? i. There is contraction between 0<sup>o</sup>C and 4<sup>o</sup>C. ii. There is expansion between 0<sup>o</sup>C and 100<sup>o</sup>C. iii. The volume is minimum at 4<sup>o</sup>C. iv. The volume is maximum at 4<sup>o</sup>C",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "ii and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2011,
+        "question": "Which of the following assumptions is not valid for an ideal gas ?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "molecules of a particular gas are identical",
+            "molecules moves freely throughout the volume of the container",
+            "force of attraction between molecules is negligible",
+            "molecules move at constant speed between collisions"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2011,
+        "question": "A body is pulled over a distance of 500m by a force of 20N. If the power developed is o.4 kW, calculate the time interval during which the force is applied",
+        "explanation": "t = \\(\\frac{fs}{p} = \\frac{20 \\times 500}{0.4 \\times 1000} = 25s\\)",
+        "correctIndex": 2,
+        "options": [
+            "0.2s",
+            "2.5s",
+            "25.0s",
+            "250.0s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2011,
+        "question": "A metal of mass 200g at a temperature of 100<sup>o</sup>C is placed in 100g of water at 25<sup>o</sup>C in a container of negligible heat capacity. If the final steady temperature is 30<sup>o</sup>C, calculate the specific heat capacity of the metal. [specific heat capacity of the water is 4200 Jkg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "MC\\(\\theta\\)<sub>metal</sub>= MC\\(\\theta _{water}\\)<br><br>0.2 x C x 70 = 0.1 x 4200 x 5<br><br>C = 150",
+        "correctIndex": 0,
+        "options": [
+            "150 Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "300 Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "320 Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "1960 Jkg<sup>-1</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2011,
+        "question": "Ether produces a cooling effect when it is poured on the hand because it has",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "low conductivity",
+            "high conductivity",
+            "high latent heat of vaporization",
+            "low latent heat of vaporization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2011,
+        "question": "Which of the following statements about the image formed by a plane mirror is not correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "it is laterally inverted",
+            "it has unit magnifiation",
+            "it is formed by actual intersection of rays",
+            "its distance from the mirror is equal to that of the object from the mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2011,
+        "question": "The image formed by a convex mirror is always",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "real, erect and diminished",
+            "real, inverted and diminished",
+            "virtual, inverted and diminished",
+            "virtual, erect and diminshed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2011,
+        "question": "A ray undergoes a minimum deviation at 40<sup>o</sup>when it is incident on equilateral triangular glass prism. Calculate the refractive index of the prism",
+        "explanation": "n = \\(\\frac{\\sin \\frac{1}{2} (dm + A)}{\\sin \\frac{1}{2} A}\\)<br><br>= \\(\\frac{\\sin \\frac{1}{2} (40 + 60)}{\\sin \\frac{1}{2} \\times 60}\\)<br><br>= 1.532",
+        "correctIndex": 2,
+        "options": [
+            "1.48",
+            "1.50",
+            "1.53",
+            "1.67"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2011,
+        "question": "Total internal reflection occurs in an optical prism when light rays",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "travel from the prism into an optically denser medium",
+            "are incident in the prism at an angle greater than the critical angle",
+            "are incident normally in the prism",
+            "travel from the prism to the air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2011,
+        "question": "The speed of light in a certain medium is V while its speed in a vacuum is C. The absolute refractive index of the medium is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "C + V",
+            "\\(\\frac{C}{V}\\)",
+            "\\(\\frac{V}{C}\\)",
+            "C - V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2011,
+        "question": "An object is placed 20.0cm in front of a converging lens of focal length 15.0cm. Calculate its image distance",
+        "explanation": "\\(\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{U}\\)<br><br>\\(\\frac{1}{15} - \\frac{1}{20} = 60cm\\)",
+        "correctIndex": 3,
+        "options": [
+            "1.3cm",
+            "8.6cm",
+            "35.0cm",
+            "60.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2011,
+        "question": "Presbyopia is a defect of the eye resulting from",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "weak ciliary muscles",
+            "short eyeball",
+            "loss of sphericity of the lens",
+            "long eyeball"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2011,
+        "question": "The focal length of the eye-piece of an astronomical telescope is f<sub>1</sub>, while the focal length of the object is f<sub>2</sub>. Fro normal adjustment, the angular magnification is given by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{f_2}{f_1}\\)",
+            "1 - \\(\\frac{f_2}{f_1}\\)",
+            "\\(\\frac{f_2}{f_1}\\) - 1",
+            "\\(\\frac{f_1}{f_2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2011,
+        "question": "two sound waves have frequencies of 12Hz and 10Hz. Calculate their beats period",
+        "explanation": "\\(f_1 - f_2 = \\frac{1}{T}\\)<br><br>12 - 10 = \\(\\frac{1}{2}\\)<br><br>= 0.5",
+        "correctIndex": 0,
+        "options": [
+            "0.5s",
+            "1.0s",
+            "1.2s",
+            "2.0s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2011,
+        "question": "The main difference between echo and reverberation is that",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "reverberation is reflected sound while echo is refracted sound",
+            "the time interval between incident sound and reflecte sound is shorter for reverbration",
+            "the amplitude of an echo is greater",
+            "reverberation is from acoustic speakers while echo comes from clifts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2011,
+        "question": "Which of the following statements about the electromagnetic waves is correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "radio waves have longer frequencies than x-rays",
+            "x-rays have the longest wavelength",
+            "some of the waves travel at 3.0 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "white light occupies a region beyond ultraviolet rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2011,
+        "question": "The correct relationship between \"G\" and \"g\" in a gravitational field is given by the equation (Where the symbols have their usual meanings)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "g = \\(\\frac{GM}{R}\\)",
+            "g = \\(\\frac{GM}{R^2}\\)",
+            "g = \\(\\frac{GM^2}{R}\\)",
+            "g = \\(\\frac{GM^2}{R^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2011,
+        "question": "The capacitance of a parallel-plate capacitor",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "decreases when the seperation between the plate decreases",
+            "increases when the optential difference between the plates is increased",
+            "is greater without a dielectric material between the plates than with a dielectric",
+            "is greater with a dielectric between the plates than without a dielectric."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2011,
+        "question": "When the pointed end of an uncharged optical pin is brought near the cap cf a positively charged electroscope, it is observed that the gold",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "collapse slowly",
+            "vibrate",
+            "are not affected",
+            "diverge rapidly"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2011,
+        "question": "Which of the following substances does not conduct electricity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "graphite",
+            "glass",
+            "sulphuric acid",
+            "table salt solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2011,
+        "question": "The unit of capacitance is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "farad",
+            "coulomb",
+            "henry",
+            "ohms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2011,
+        "question": "An ammeter with a full scale deflection of 10mA has an internal resistance 0.5\\(\\Omega\\). calculate the resistance of the shunt required to adapt it to read up to 3A",
+        "explanation": "\\(R_2 = \\frac{I_1R_1}{I_2} = \\frac{0.01 \\times 5}{2.99}\\)<br><br>= 0.0167",
+        "correctIndex": 0,
+        "options": [
+            "0.0167\\(\\Omega\\)",
+            "0.0130\\(\\Omega\\)",
+            "0.0250\\(\\Omega\\)",
+            "0.1000\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2011,
+        "question": "The resistivity, \\(\\mathit{P}\\), of a material of length l, cross-sectional area A, resistance R, is given by the equation",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\mathit{P} = \\frac{RA}{l}\\)",
+            "\\(\\mathit{P} = \\frac{l}{RA}\\)",
+            "\\(\\mathit{P} = \\frac{Rl}{A}\\)",
+            "\\(\\mathit{P} = \\frac{R}{Al}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2011,
+        "question": "A wire of length 30cm is moved with a speed of 2ms<sup>-1</sup>at right angles to a magnetic field of flux density 0.4T. calculate the emf induced in the wire",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.15V",
+            "0.24V",
+            "2.70V",
+            "24.00V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2011,
+        "question": "Which of the following practices will lead to losses in electrical power transmission?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "using transmission cables of large diameter",
+            "transmitting at high voltage and low current",
+            "transmitting at relatively low voltage and high current",
+            "using a set-up transformer at the production end"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2011,
+        "question": "For photoelectric emission, the threshold frequency is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "maximum frequency of incident radiation that will eject elecrons",
+            "minimum fraquency of incident radiation required to eject elecrons",
+            "frequency which results in the emission of the greater number of electrons",
+            "fraquency whch impacts greatest kinetic energy to emitte electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2011,
+        "question": "Which of the following properties is not applicable to X-rays? They",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "travel in straight lines",
+            "travel with the speed of light",
+            "are deflected by magnetic field",
+            "affect photographic films"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2011,
+        "question": "Uranium-234 disintegrated to form Thorium-230 by emitting",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "alpha particles",
+            "gamma rays",
+            "beta negative rays",
+            "beta positive rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2011,
+        "question": "The change in mass of fuel during a nuclear reaction is 2.0 x 10<sup>-27</sup>kg. Calculate the amount of energy released. (Speed of light = 2.0 x 10<sup>8</sup>ms<sup>-1</sup>)",
+        "explanation": "Q = \\(\\Delta MC^2\\)<br><br>= 2 x 10<sup>-27</sup>(3 x 10<sup8 sup>)<sup>2</sup><br>\n<br>\n= 1.8 x 10<sup>-10</sup>J\n</sup8>",
+        "correctIndex": 0,
+        "options": [
+            "1.8 x 10<sup>-10</sup>J",
+            "9.0 x 10<sup>-11</sup>J",
+            "6.0 x 10<sup>-19</sup>J",
+            "1.2 x 10<sup>-45</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2011,
+        "question": "Nuclear fusion is not used as a source of enegy because",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "very high temperature is needed for the reaction",
+            "the fuel for the reaction is not easy to obtain",
+            "less energy is released",
+            "the reaction is too slow"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28627071740_maths%2038.jpg\" class=\"img-fluid\">",
+        "explanation": "C - \\(C_1 + C_2 = 2 + 6 = \\mu F\\)<br><br>\\(\\frac{1}{C} = \\frac{1}{C_1} + \\frac{1}{C_1} + \\frac{1}{C_2} = \\frac{1}{8} + \\frac{1}{2}\\)<br><br>C = \\(\\frac{8}{5 \\mu F}\\)<br><br>Q = CV<br><br>= \\(\\frac{8}{5} \\times 10 = 16\\mu C\\)",
+        "correctIndex": 3,
+        "options": [
+            "80\\(\\mu C\\)",
+            "35\\(\\mu C\\)",
+            "20\\(\\mu C\\)",
+            "16\\(\\mu C\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10019472960_maths%2038.jpg\" class=\"img-fluid\">",
+        "explanation": "V = \\(\\frac{Q}{V} = \\frac{16}{8} = 2\\Gamma\\)",
+        "correctIndex": 3,
+        "options": [
+            "10.0V",
+            "8.0V",
+            "6.7V",
+            "2.0V"
+        ],
+        "type": "objectives"
+    }
+]

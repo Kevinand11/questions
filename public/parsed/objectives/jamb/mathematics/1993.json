@@ -1,0 +1,819 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1993,
+        "question": "Integrate \\(\\frac{1 - x}{x^3}\\) with respect to x",
+        "explanation": "\\(\\int \\frac{1 - x}{x^3}\\)<br><br>= \\(\\int^{1}_{x^3} - \\int^{x}_{x^3}\\)<br><br>= x<sup>-3</sup>dx - x<sup>-2</sup>dx<br><br>= \\(\\frac{1}{2x^2} + \\frac{1}{x}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{x - x^2}{x^4}\\) + k",
+            "\\(\\frac{4}{x^4} - \\frac{3 + k}{x^3}\\)",
+            "\\(\\frac{1}{x} - \\frac{1}{2x^2}\\) + k",
+            "\\(\\frac{1}{3x^2} - \\frac{1}{2x}\\) + k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1993,
+        "question": "change 71<sub>10</sub>to base 8",
+        "explanation": "\\(\\begin{array}{c|c} 8 &amp; 71 \\\\ 8 &amp; 8 \\text{rem} 7\\\\ 8 &amp; 1 \\text{rem} 0\\end{array}\\)<br><br>= 107<sub>8</sub>",
+        "correctIndex": 0,
+        "options": [
+            "107<sub>8</sub>",
+            "106<sub>8</sub>",
+            "71<sub>8</sub>",
+            "17<sub>8</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1993,
+        "question": "Evaluate \\(\\frac{3524}{0.05}\\) correct to 3 significant figures",
+        "explanation": "\\(\\frac{3524}{0.05}\\) = 70480<br><br>\\(\\approx\\) 70500(3 s.g)",
+        "correctIndex": 3,
+        "options": [
+            "705",
+            "70,000",
+            "70, 480",
+            "70, 500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1993,
+        "question": "If 9<sup>(x - \\(\\frac{1}{2}\\))</sup>3x<sup>2</sup>",
+        "explanation": "9<sup>(x - \\(\\frac{1}{2}\\))</sup>3x<sup>2</sup>= 3<sup>2(x - \\(\\frac{1}{2}\\))</sup>= 3x<sup>2</sup><br>∴ 2(x - \\(\\frac{1}{2}\\)) = x<sup>2</sup><br><br>2x - 1 = x<sup>2</sup><br><br>hence x<sup>2</sup>- 2x + 1 = 0<br><br>(x - 1)(x - 1) = 0<br><br>x = 1",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{2}\\)",
+            "1",
+            "2",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1993,
+        "question": "<p>Solve for y in the equation 10^1 x 5(2y - 2) x 4(y - 1) = 1</p>",
+        "explanation": "<p>10y x 5(2y - 2) x 4(y - 1) = 1<br>\n<br>\nbut 10y - (5 x 2)y = 5y x 2y<br>\n<br>\n= (Law of indices)<br>\n<br>\n5y x 2y x 5(2y - 2) x 4(y - 1) = 1<br>\n<br>\nbut 4(y - 1) = 22(y - 1)<br>\n<br>\n= 2y - 2 (Law of indices)<br>\n<br>\n5y x 5(2y -2) x 2(- 2) = 1<br>\n<br>\n5(3y -2) x 2y x 2(2y -2) = 1<br>\n<br>\n= 5(3y -2) x 2(3y -2) = 1<br>\n<br>\nBut ao = 1<br>\n<br>\n10(3y -2) = 10o<br>\n<br>\n3y - 2 = 0<br>\n<br>\n∴ y = \\(\\frac{2}{3}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{5}{4}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1993,
+        "question": "simplify \\(\\frac{1}{√3 - 2}\\) - \\(\\frac{1}{√3 + 2}\\)",
+        "explanation": "\\(\\frac{1}{√3 - 2}\\) - \\(\\frac{1}{√3 + 2}\\)<br><br>L.C.M = (3- 2) (3 + 2)<br><br>∴ \\(\\frac{1}{\\sqrt{3 - 2}}\\) - \\(\\frac{1}{\\sqrt{3 - 2}}\\) = \\(\\frac{\\sqrt{3 + 2} - \\sqrt{3 - 2}}{\\sqrt{3 - 2} + \\sqrt{3 - 2}}\\)<br><br><br>\\(\\frac{√3 + 2 - √3 + 2}{3 - 2√3 + 2√3 - 4}\\) = \\(\\frac{4}{3 - 2}\\)<br><br>= \\(\\frac{4}{-1}\\)<br><br>= -4",
+        "correctIndex": 3,
+        "options": [
+            "3",
+            "\\(\\frac{2}{3}\\)",
+            "7",
+            "-4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1993,
+        "question": "If 2log<sub>3</sub>y + log<sub>3</sub>x<sup>2</sup>= 4, then y is",
+        "explanation": "2log<sub>3</sub>y + log<sub>3</sub>x<sup>2</sup>= 4<br><br>log<sub>3</sub>y<sup>2</sup>+ log<sub>3</sub>x<sup>2</sup>= 4<br><br>∴ log<sub>3</sub>(x<sup>2</sup>y<sup>2</sup>) = log<sub>3</sub>81(correct all to base 4)<br><br>x<sup>2</sup>y<sup>2</sup>= 81<br><br>∴ xy = \\(\\pm\\)9<br><br>∴ y = \\(\\pm\\)\\(\\frac{9}{x}\\)",
+        "correctIndex": 3,
+        "options": [
+            "4 - log<sub>3</sub>",
+            "\\(\\frac{4}{log_3 x}\\)",
+            "\\(\\frac{4}{x}\\)",
+            "\\(\\pm\\) \\(\\frac{9}{x}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1993,
+        "question": "Solve without using tables log<sub>5</sub>(62.5) - log<sub>5</sub>(\\(\\frac{1}{2}\\))",
+        "explanation": "log<sub>5</sub>(62.5) - log<sub>5</sub>(\\(\\frac{1}{2}\\))<br><br>= log<sub>5</sub>\\(\\frac{(62.5)}{\\frac{1}{2}}\\) - log<sub>5</sub>(2 x 62.5)<br><br>= log<sub>5</sub>(125)<br><br>= log<sub>5</sub>5<sup>3</sup>- 3log<sub>5</sub>5<br><br>= 3",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "4",
+            "5",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1993,
+        "question": "If N225.00 yields N27.00 in x years simple interest at the rate of 4% per annum, find x",
+        "explanation": "Principal = N255.00, Interest = 27.00<br><br>year = x Rate: 4%<br><br>∴ 1 = \\(\\frac{PRT}{100}\\)<br><br>27 = \\(\\frac{225 \\times 4 \\times T}{100}\\)<br><br>2700 = 900T<br><br>T = 3 years",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "4",
+            "12",
+            "17"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1993,
+        "question": "If \\(\\sqrt{x^2 + 9}\\) = x + 1, solve for x",
+        "explanation": "\\(\\sqrt{x^2 + 9}\\) = x + 1<br><br>x<sup>2</sup>+ 9 = (x + 1)<sup>2</sup>+ 1<br><br>0 = x<sup>2</sup>+ 2x + 1 - x<sup>2</sup>- 9<br><br>= 2x - 8 = 0<br><br>2(x - 4) = 0<br><br>x = 4",
+        "correctIndex": 1,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1993,
+        "question": "Make x the subject of the relation \\(\\frac{1 + ax}{1 - ax}\\) = \\(\\frac{p}{q}\\)",
+        "explanation": "\\(\\frac{1 + ax}{1 - ax}\\) = \\(\\frac{p}{q}\\) by cross multiplication,<br><br>q(1 + ax) = p(1 - ax)<br><br>q + qax = p - pax<br><br>qax + pax = p - q<br><br>∴ x = \\(\\frac{p - q}{a(p + q)}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{p + q}{a(p - q)}\\)",
+            "\\(\\frac{p - q}{a(p + q)}\\)",
+            "\\(\\frac{p - q}{apq}\\)",
+            "\\(\\frac{pq}{a(p - q)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1993,
+        "question": "Which of the following is a factor of 15 + 7x - 2x<sup>2</sup>",
+        "explanation": "Factorize 15 + 7x - 2x<sup>2</sup><br><br>(5 - x)(3 + 2x); suppose 15 + 7x = 2x<sup>2</sup>= 0<br><br>∴ (5 - x)(3 + 2x) = 0<br><br>x = 5 or x = -\\(\\frac{3}{2}\\)<br><br>Since 5 is a root, then (x - 5) is a factor",
+        "correctIndex": 2,
+        "options": [
+            "x + 3",
+            "x - 3",
+            "x - 5",
+            "x + 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1993,
+        "question": "Evaluate (x + \\(\\frac{1}{x}\\) + 1)<sup>2</sup>- (x + \\(\\frac{1}{x}\\) + 1)<sup>2</sup>",
+        "explanation": "(x + \\(\\frac{1}{x}\\) + 1)<sup>2</sup>- (x + \\(\\frac{1}{x}\\) + 1)<sup>2</sup><br><br>= (x + \\(\\frac{1}{x}\\) + 1 + x + \\(\\frac{-1}{x}\\) - 1)(x - \\(\\frac{1}{x}\\) + 1 - x + \\(\\frac{1}{x}\\) + 1)<br><br>= (2x) (2 + \\(\\frac{2}{x}\\)) = 2x x 2(1 + \\(\\frac{1}{x}\\))<br><br>4x (1 + \\(\\frac{1}{x}\\)) = 4x + 4<br><br>= 4(1 + x)",
+        "correctIndex": 3,
+        "options": [
+            "4x<sup>2</sup>",
+            "(\\(\\frac{2}{x}\\) + 2)<sup>2</sup>",
+            "4",
+            "4(1 + x)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1993,
+        "question": "Solve the following simultaneous equation for x. x<sup>2</sup>+ y - 5 = 0, y - 7x + 3 = 0",
+        "explanation": "x<sup>2</sup>+ y - 5 = 0.....(i)<br><br>y - 7x + 3 = 0.........(ii)<br><br>y = 7x - 3, substituting the value of y in equation (i)<br><br>x<sup>2</sup>+ (7x - 3) - 5 = 0<br><br>x<sup>2</sup>+ 7x + 3 = 0<br><br>(x + 8)(x - 1) = 0<br><br>x = -8 or 1",
+        "correctIndex": 3,
+        "options": [
+            "-2, 4",
+            "2, 4",
+            "-1,8",
+            "1, -8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1993,
+        "question": "Solve the following equation (3x - 2)(5x - 4) = (3x - 2)<sup>2</sup>",
+        "explanation": "(3x - 2)(5x - 4) = (3x - 2)<sup>2</sup>= 5x<sup>2</sup>- 22x + 6<br><br>= 9x<sup>2</sup>= 12x + 4<br><br>6x<sup>2</sup>- 10x + 4 = 0<br><br>6x<sup>2</sup>- 6x - 4x + 4 = 0<br><br>6x(x - 1) -4(x - 1) = (6x - 4)(x -1) = 0<br><br>x = 1 or \\(\\frac{2}{3}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{-2}{3}\\), 1",
+            "1",
+            "\\(\\frac{2}{3}\\), 1",
+            "\\(\\frac{2}{3}\\), \\(\\frac{4}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1993,
+        "question": "<p>If the function f is defined by f(x + 2) = 2x\\(^2\\) + 7x - 5, find f(-1)</p>",
+        "explanation": "<p>f(x + 2) = f(-1)</p><p>f(-1) is gotten when x = -3.</p><p>\\(2x^{2} + 7x - 5\\) at x = -3.</p><p>f(-1) = \\(2(-3)^{2} + 7(-3) - 5\\)</p><p>= \\(18 - 21 - 5 = -8\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "-10",
+            "-8",
+            "4",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1993,
+        "question": "Divide the expression x<sup>3</sup>+ 7x<sup>2</sup>- x - 7 by -1 + x<sup>2</sup>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "-x<sup>3</sup>+ 7x<sup>2</sup>- x - 7",
+            "-x<sup>3</sup>= 7x + 7",
+            "x - 7",
+            "x + 7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1993,
+        "question": "<p>Simplify \\(\\frac{1}{p}\\) - \\(\\frac{1}{q}\\) \\(\\div\\) \\(\\frac{p}{q}\\) - \\(\\frac{q}{p}\\)</p>",
+        "explanation": "<p>\\(\\frac{1}{p}\\) - \\(\\frac{1}{q}\\) \\(\\div\\) \\(\\frac{p}{q}\\) - \\(\\frac{q}{p}\\) = \\(\\frac{q - p}{pq}\\) ÷ \\(\\frac{p^2 - q^2}{pq}\\)<br>\n<br>\n\\(\\frac{q - p}{pq}\\) x \\(\\frac{pq}{p^2q^2}\\) = \\(\\frac{q - p}{p^2 - q^2}\\)<br>\n<br>\n\\(\\frac{-(p - q)}{(p + q)(p - q)}\\)<br>\n<br>\n= \\(\\frac{-1}{p + q}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{p - q}\\)",
+            "\\(\\frac{-1}{p + q}\\)",
+            "\\(\\frac{1}{pq}\\)",
+            "\\(\\frac{1}{pq(p - q)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1993,
+        "question": "Solve the inequality y<sup>2</sup>- 3y &gt; 18",
+        "explanation": "y<sup>2</sup>- 3y &gt; 18 = 3y - 18 &gt; 0<br><br>y<sup>2</sup>- 6y + 3y - 18 &gt; 0 = y(y - 6) + 3 (y - 6) &gt; 0<br><br>= (y + 3) (y - 6) &gt; 0<br><br>Case 1 (+, +) \\(\\to\\) (y + 3) &gt; 0, (y - 6) &gt; 0<br><br>= y &gt; -3 y &gt; 6<br><br>Case 2 (-, -) \\(\\to\\) (y + 3) &lt; 0, (y - 6) &lt; 0<br><br>= y &lt; -3, y &lt; 6<br><br>Combining solution in case 1 and Case 2<br><br>= x &lt; -3y &lt; 6<br><br>= -3 &lt; y &lt; 6",
+        "correctIndex": 0,
+        "options": [
+            "-3 &lt; y &lt; 6",
+            "y &lt; -3 or y &gt; 6",
+            "y &gt; -3 or y &gt; 6",
+            "y &lt; 3 or y &lt; 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1993,
+        "question": "If x is negative, what is the range of values of x within which \\(\\frac{x + 1}{3}\\) &gt; \\(\\frac{1}{X + 3}\\)",
+        "explanation": "\\(\\frac{x + 1}{3}\\) &gt; \\(\\frac{1}{X + 3}\\) = \\(\\frac{x + 1}{3}\\) &gt; \\(\\frac{x + 3}{X + 3}\\)<br><br>= (x + 1)(x + 3)<sup>2</sup>&gt; 3(x + 3) = (x + 1)[x<sup>2</sup>+ 6x + 9] &gt; 3(x + 3)<br><br>x<sup>3</sup>+ 7x<sup>2</sup>+ 15x + 9 &gt; 3x + 9 = x<sup>3</sup>+ 7x<sup>2</sup>+ 12x &gt; 0<br><br>= x(x + 3)9x + 4) &gt; 0<br><br>Case 1 (+, +, +) = x &gt; 0 , x + 3 &gt; 0, x + 4 &gt; 0<br><br>= x &gt; -4 (solution only)<br><br>Case 2 (+, -, -) = x &gt; 0, x + 4 &lt; 0<br><br>= x &gt; 0, x &lt; -3, x &lt; -4 = x &lt; -3(solution only)<br><br>Case 3 (-, +, -) = x &lt; 0, x &gt; -3, x &lt; -4 = x &lt; -0, -4 &lt; x &lt; 3(solutions)<br><br>Case 4 (-, -, +) = x &lt; 0, x + 3 &lt; 0, x + 4 &gt; 0<br><br>= x &lt; 0, x &lt; -5, x &gt; -4 = x &lt; -0, -4 &lt; x &lt; -3(solution)<br><br>combining the solutions -4 &lt; x &lt; -3",
+        "correctIndex": 1,
+        "options": [
+            "3 &lt; x &lt; 4",
+            "-4 &lt; x &lt; -3",
+            "-2 &lt; x &lt; -1",
+            "-3 &lt; x &lt; 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1993,
+        "question": "A binary operation \\(\\ast\\) is defined on a set of real numbers by x \\(\\ast\\) y = x<sup>y</sup>for all real values of x and y. If x \\(\\ast\\) 2 = x. Find the possible values of x",
+        "explanation": "x \\(\\ast\\) y = x<sup>y</sup><br><br>x \\(\\ast\\) 2 = x<sup>2</sup><br><br>x \\(\\ast\\) 2 = x<br><br>∴ x<sup>2</sup>- x = 0<br><br>x(x - 1) = 0<br><br>x = 0 or 1",
+        "correctIndex": 0,
+        "options": [
+            "0, 1",
+            "1, 2",
+            "2, 2",
+            "0, 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1993,
+        "question": "<p>If k + 1; 2k - 1, 3k + 1 are three consecutive terms of a geometric progression, find the possible values of the common ratio</p>",
+        "explanation": "<p>\\(\\frac{2k - 1}{k + 1} = \\frac{3k + 1}{2k - 1}\\)</p><p>\\((k + 1)(3k + 1) = (2k - 1)(2k - 1)\\)</p><p>\\(3k^{2} + 4k + 1 = 4k^{2} - 4k + 1\\)</p><p>\\(4k^{2} - 3k^{2} - 4k - 4k + 1 - 1 = 0\\)</p><p>\\(k^{2} - 8k = 0\\)</p><p>\\(k(k - 8) = 0\\)</p><p>\\(\\therefore \\text{k = 0 or 8}\\)</p><p>The terms of the sequence given k = 0: (1, -1, 1)</p><p>\\(\\implies \\text{The common ratio r = -1}\\)</p><p>The terms of the sequence given k = 8: (9, 15, 25)</p><p>\\(\\implies \\text{The common ratio r = } \\frac{5}{3}\\)</p><p>The possible values of the common ratio are -1 and \\(\\frac{5}{3}\\).</p>",
+        "correctIndex": 1,
+        "options": [
+            "0, 8",
+            "-1, \\(\\frac{5}{3}\\)",
+            "2, 3",
+            "1, -1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1993,
+        "question": "<p>A man's initial salary is N540.00 a month and increases after each period of six months by N36.00 a month. Find his salary in the eighth month of the third year</p>",
+        "explanation": "<p>Initial salary = N540<br>\n<br>\nincrement = N36 (every 6 months)<br>\n<br>\nPeriod of increment = 2 yrs and 6 months<br>\n<br>\namount(increment) = N36 x 5 = N180<br>\n<br>\nThe man's new salary = N540 = N180<br>\n<br>\n= N720.00</p>",
+        "correctIndex": 2,
+        "options": [
+            "N828.00",
+            "N756.00",
+            "N720.00",
+            "N684.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1993,
+        "question": "A rectangular polygon has 150<sup>o</sup>as the size of each interior angle. How many sides has the polygon?",
+        "explanation": "A rectangular polygon has each interior angle to be 150<sup>o</sup><br><br>let the polygon has n-sides<br><br>therefore, Total interior angle 150 x n = 150n<br><br>hence 150n = (2n - 4)90<br><br>150n = 180n - 360<br><br>360 = (180 - 150)n<br><br>30n = 360<br><br>n = 12",
+        "correctIndex": 0,
+        "options": [
+            "12",
+            "10",
+            "9",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1993,
+        "question": "Calculate the length in cm. of the area of a circle of diameter 8cm which subtends an angle of 22\\(\\frac{1}{2}\\)<sup>o</sup>at the centre of the circle",
+        "explanation": "Diameter = 8cm<br><br>∴ Radius = 4cm<br><br>Length of arc = \\(\\frac{\\theta}{360}\\) x 2 \\(\\pi\\)r but Q = 22\\(\\frac{1}{2}\\)<br><br>∴ Length \\(\\frac{22\\frac{1}{2}}{360}\\) x 2 x \\(\\pi\\) x 4<br><br>= \\(\\frac{22\\frac{1}{2} \\times 8\\pi}{360}\\)<br><br>= \\(\\frac{180}{360}\\)<br><br>= \\(\\frac{\\pi}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "2\\(\\pi\\)",
+            "\\(\\pi\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{\\pi}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1993,
+        "question": "The three sides of an isosceles triangle are length of lengths (x + 3), (2x + 3), (2x - 3) respectively. Calculate x.",
+        "explanation": "2x + 3 \\(\\neq\\) 2x - 3 for any value of x<br><br>∴ for the \\(\\bigtriangleup\\) to be isosceles, either<br><br>2x - 3 = x + 3 or 2x + 3 = x + 3<br><br>solve the two equations we arrive at<br><br>x = 6 or x = 0<br><br>When x = 6, the sides are 9, 15, 9<br><br>When x = 0, the sides are 3, 4, -3 since lengths of a \\(\\bigtriangleup\\)can never be negative then the value of x = 6",
+        "correctIndex": 3,
+        "options": [
+            "5",
+            "1",
+            "3",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1993,
+        "question": "find the radius of a sphere whose surface area is 154cm<sup>2</sup>(\\(\\pi = \\frac{22}{7}\\))",
+        "explanation": "Surface area = 154cm<sup>2</sup>(area of sphere)<br><br>4\\(\\pi\\)r<sup>2</sup>= 154<br><br>r\\(\\sqrt{\\frac{154}{4\\pi}}\\)<br><br>= 3.50cm",
+        "correctIndex": 1,
+        "options": [
+            "7.00cm",
+            "3.50cm",
+            "3.00cm",
+            "1.75cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1993,
+        "question": "Find the area of the sector of a circle with radius 3m, if the angle of the sector is 60<sup>o</sup>",
+        "explanation": "Area of sector<br><br>\\(\\frac{\\theta}{360}\\) x \\(\\pi\\)r<sup>2</sup>, \\(\\theta\\) = 60<sup>o</sup>, r = 3m<br><br>= \\(\\frac{60}{360}\\) x \\(\\frac{12}{7}\\) x 3 x 3<br><br>\\(\\frac{1}{6}\\) x \\(\\frac{22}{7}\\) x 9<br><br>= \\(\\frac{33}{7}\\)<br><br>= 4.7m<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "4.0m<sup>2</sup>",
+            "1m<sup>2</sup>",
+            "4.7m<sup>2</sup>",
+            "5.0m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1993,
+        "question": "The angle between latitudes 30<sup>o</sup>S and 13<sup>o</sup>N is",
+        "explanation": "The angle between 2 latitudes one in northern hemisphere and the other in southern hemisphere and the other in southern hemisphere is the sum of their latitudes.<br><br>∴ Total angle difference = (30 + 13) = 43<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "17<sup>o</sup>",
+            "33<sup>o</sup>",
+            "43<sup>o</sup>",
+            "53<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1993,
+        "question": "<p>If sin \\(\\theta\\) = cos \\(\\theta\\), find \\(\\theta\\) between 0o and 360o</p>",
+        "explanation": "<p>sin \\(\\theta\\) = cos \\(\\theta\\) 0 \\(\\leq\\) \\(\\theta\\) \\(\\leq\\) 360o<br>\n<br>\nThe acute angle where sin \\(\\theta\\) = cos \\(\\theta\\) = 45o<br>\n<br>\nBut at the third Quadrant Cos \\(\\theta\\) = -ve; sin \\(\\theta\\) = -ve.<br>\n<br>\nat the 3rd quadrant, value with respect to Q is<br>\n<br>\n(180 + Q) where Q = acute angle<br>\n<br>\n(180 + 45) = 225°<br>\n<br>\nThe two solution are 45°, 225°</p>",
+        "correctIndex": 0,
+        "options": [
+            "45<sup>o</sup>, 225<sup>o</sup>",
+            "135<sup>o</sup>, 315<sup>o</sup>",
+            "45<sup>o</sup>, 315<sup>o</sup>",
+            "135<sup>o</sup>, 225<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1993,
+        "question": "<p>If two angles of a triangle are 30° each and the longest side is 10cm. Calculate the length of each of the other sides.</p>",
+        "explanation": "<p>Let each of the unknown side be x.</p><p>\\(10^{2} = x^{2} + x^{2} - 2(x)(x) \\cos 120\\)</p><p>\\(100 = 2x^{2} - 2x^{2} \\cos 120\\)</p><p>\\(100 = 2x^{2} + x^{2} = 3x^{2}\\)</p><p>x = \\(\\sqrt{\\frac{100}{3}}\\)</p><p>= \\(\\frac{10}{\\sqrt{3}}\\) x \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)</p><p>x = \\(\\frac{10\\sqrt{3}}{3}\\)cm</p>",
+        "correctIndex": 3,
+        "options": [
+            "5cm",
+            "4cm",
+            "3√3 cm",
+            "\\(\\frac{10\\sqrt{3}}{3}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1993,
+        "question": "Quantities in the proportions 1, 4, 6, 7 are to be represented in a pie chart. Calculate the angle of the sector with proportion 7",
+        "explanation": "Angle corresponding to 7 in a pie chart will be \\(\\frac{7 \\times 360}{\\text{sum of items}}\\)<br><br>= \\(\\frac{7 }{18}\\) x 360<br><br>= 140<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "20<sup>o</sup>",
+            "80<sup>o</sup>",
+            "120<sup>o</sup>",
+            "140<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1993,
+        "question": "The following marks were obtained by twenty students in an examination: 53, 30, 70, 84, 59, 43, 90, 20, 78, 48, 44, 60, 81, 73, 50, 37, 67, 68, 64, 52. Find the numbers of students who scored at least 50 marks",
+        "explanation": "Number of students scoring at least 50 marks = Number of students scoring 50 and above<br><br>From the table 53, 70, 84, 59, 90, 60, 81, 73, 50, 37, 67, 68, 64, 52. Hence, 14 students scored at least 50 marks",
+        "correctIndex": 3,
+        "options": [
+            "6",
+            "10",
+            "13",
+            "14"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1993,
+        "question": "\\(\\begin{array}{c|c} Weight(s) &amp; 0 -10 &amp; 10 - 20 &amp; 20 - 30 &amp; 40 - 50\\\\ \\hline \\text{Number of coconuts} &amp; 10 &amp; 27 &amp; 19 &amp; 6 &amp; 2\\end{array}\\)<br>Estimate the mode of the frequency distribution above",
+        "explanation": "Mode = a + \\(\\frac{(b - a)(F_m - F_b)}{2F_m - F_a - F_b}\\)<br><br>= \\(L_1 + \\frac{\\Delta_1 x^\\text{c}}{\\Delta_1 + \\Delta_2}\\)<br><br>= \\(10 + \\frac{(20 - 10)(27 - 10)}{2(27) - 10 - 19}\\)<br><br>= 10 + \\(\\frac{170}{25}\\)<br><br>= 10 + 6.8<br><br>= 16.8",
+        "correctIndex": 2,
+        "options": [
+            "13.2g",
+            "15.0g",
+            "16.8g",
+            "17.5g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1993,
+        "question": "The mean of the ages of ten secondary school pupils is 16 but when the age of their teacher is added to it the men becomes 19. Find the age of the teacher",
+        "explanation": "Average age of 110 students = 16<br><br>∴ Total age = 16 x 10 = 160 years<br><br>Age of teachers = x, total number of people now = 11<br><br>mean age = 19<br><br>Total age of new group = 19 x 11 = 209<br><br>Age of teachers = x = (209 - 160) = 49 yrs",
+        "correctIndex": 3,
+        "options": [
+            "27",
+            "35",
+            "38",
+            "49"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1993,
+        "question": "\\(\\begin{array}{c|c} Class &amp; Frequency\\\\ \\hline 1 - 5 &amp; 2\\\\6 - 10 &amp; 4\\\\11 - 15 &amp; 5\\\\16 - 20 &amp; 2 \\\\ 21 - 25 &amp; 3\\\\26 - 30 &amp; 2\\\\31 - 35 &amp; 1\\\\36 - 40 &amp; 1 \\end{array}\\)<br>Find the median of the observation in the table given",
+        "explanation": "Median = L<sub>1</sub>+ (\\(\\frac{Ef}{fm}\\)) - fo<br><br>\\(\\frac{\\sum f}{2}\\)<br><br>= \\(\\frac{20}{2}\\)<br><br>= 10, L<sub>1</sub>= 10.5, fo = 6, fm = 5<br><br>Median = 10.5 + \\(\\frac{(10 - 6)}{5}\\)5<br><br>= 10.5 + 4<br><br>= 14.5",
+        "correctIndex": 3,
+        "options": [
+            "11.5",
+            "12.5",
+            "14.0",
+            "14.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1993,
+        "question": "A number is selected at random between 20 and 30, both numbers inclusive. Find the probability that the number is a prime",
+        "explanation": "Possible outcomes are 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30. Prime numbers has only two factors<br><br>itself and 1<br><br>The prime numbers among the group are 23, 29. Probability of choosing a prime number<br><br>= \\(\\frac{\\text{Number of prime}}{\\text{No. of total Possible Outcomes}}\\)<br><br>= \\(\\frac{2}{11}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{2}{11}\\)",
+            "\\(\\frac{5}{11}\\)",
+            "\\(\\frac{6}{11}\\)",
+            "\\(\\frac{8}{11}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1993,
+        "question": "Calculate the standard deviation of the following data: 7, 8, 9, 10, 11, 12, 13.",
+        "explanation": "\\(\\begin{array}{c|c} x &amp; x - x &amp; (x - x)^2\\\\ \\hline 7 &amp; -3 &amp; 9\\\\8 &amp; -2 &amp; 4 \\\\9 &amp; -1 &amp; 1\\\\10 &amp; 0 &amp; 1\\\\11 &amp; 1 &amp; 1\\\\ 12 &amp; 2 &amp; 4\\\\13 &amp; 3 &amp; 9\\\\ \\hline &amp; &amp; 28\\end{array}\\)<br><br>S.D = \\(\\sqrt{\\frac{\\sum(x - x)^2}{N}}\\)<br><br>= \\(\\sqrt{\\frac{\\sum d^2}{N}}\\)<br><br>= \\(\\sqrt{\\frac{28}{7}}\\)<br><br>= \\(\\sqrt{4}\\)<br><br>= 2",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "4",
+            "10",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1993,
+        "question": "The chances of three independent events X, Y, Z occurring are \\(\\frac{1}{2}\\), \\(\\frac{2}{3}\\), \\(\\frac{1}{4}\\) respectively. What are the chances of Y and Z only occurring?",
+        "explanation": "Chance of x = \\(\\frac{1}{2}\\)<br><br>Change of Y = \\(\\frac{2}{3}\\)<br><br>Chance of Z = \\(\\frac{1}{4}\\)<br><br>Chance of Y and Z only occurring<br><br>= Pr (Y ∩ Z ∩ X<sup>c</sup>)<br><br>where X<sup>c</sup>= 1 - Pr(X)<br><br>1 = \\(\\frac{1}{2}\\) = 1\\(\\frac{1}{2}\\)<br><br>= Pr(Y) x Pr(Z) x Pr(X<sup>c</sup>)<br><br>= \\(\\frac{2}{3}\\) x \\(\\frac{1}{4}\\) x \\(\\frac{1}{2}\\)<br><br>= \\(\\frac{1}{12}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{8}\\)",
+            "\\(\\frac{1}{24}\\)",
+            "\\(\\frac{1}{12}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19983362042_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The shaded part exists on x \\(\\cap\\) z but not in y</p>",
+        "correctIndex": 2,
+        "options": [
+            "x \\(\\cap\\) z",
+            "x<sup>o</sup>\\(\\cap\\) y \\(\\cap\\) z",
+            "x \\(\\cap\\) y<sup>o</sup>\\(\\cap\\) z",
+            "x \\(\\cap\\) y \\(\\cap\\) z<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22838136576_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "The two equations are y = x(2 - x) and y = (x - 1)(x - 3)<br><br>The root of these equations are points where the graph of the equations cuts the x axis; but at these points = 0<br><br>put y = 0; 0 = x(2 - x)<br><br>0 = (x - 1)(x - 3)<br><br>x = 0 or x = 2; x = 1 or x = 3<br><br>The values of x at P, Q, R are increasing towards the positive direction of x-axis<br><br>at P, x = 1 at Q, x = 2 at R, x = 3<br><br>P, Q, R are respectively (1, 2, 3)",
+        "correctIndex": 3,
+        "options": [
+            "1, 3, 2",
+            "0, 0, 0",
+            "0, 2, 3",
+            "1, 2, 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2854767456_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The total angle in a regular pentagon = \\((2(5) - 4) \\times 90\\)</p><p>= \\(6 \\times 90 = 540°\\)</p><p>Each interior angle = \\(\\frac{540}{5} = 108°\\)</p><p>While the interior of a quadrilateral = \\(\\frac{360}{4} = 90°\\)</p><p>\\(PTU + TPU + TUP = 180°\\)</p><p>\\(108° + (180° - 90°) + TUP = 180°\\)</p><p>\\(TUP = 180° - (108° + 18°) = 54°\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "18<sup>o</sup>",
+            "54<sup>o</sup>",
+            "90<sup>o</sup>",
+            "108<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12846456729_maths-9.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; PSO = \\(\\frac{1}{2}\\) &lt; SOQ = \\(\\frac{1}{2}\\)(180) = 90°<br>\n<br>\n&lt; RTS = &lt; PQS = 32° (Alternative angle)<br>\n<br>\n&lt; PSQ = 90 - &lt; PSQ = 90° - 32°<br>\n<br>\n= 58°</p>",
+        "correctIndex": 2,
+        "options": [
+            "32<sup>o</sup>",
+            "45<sup>o</sup>",
+            "58<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18555996992_maths-10.jpg\" class=\"img-fluid\">",
+        "explanation": "OQ = OR = radii<br><br>&lt; ROQ = 180 - 86 = 84<sup>o</sup><br><br>\\(\\bigtriangleup\\)OQR = Isosceles<br><br>R = Q<br><br>R + Q + 84 = 180(angle in a \\(\\bigtriangleup\\))<br><br>2R = 96 since R = Q<br><br>R = 48<sup>o</sup><br><br>ORQ = 48<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "84<sup>o</sup>",
+            "48<sup>o</sup>",
+            "45<sup>o</sup>",
+            "42<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21410771655_maths-11.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Construction joins R to P such that SRP = straight line<br>\n<br>\nR = 180o - 107o<br>\n<br>\n&lt; p = 180o - (107o - 34o)<br>\n<br>\n108 - 141o = 39o<br>\n<br>\nAngle &lt; S = 39o (corr. Ang.) But in \\(\\bigtriangleup\\)SRT<br>\n<br>\n&lt; S = &lt; T = 39o<br>\n<br>\nSRT = 180 - (39o + 39o)<br>\n<br>\n= 180o - 78o<br>\n<br>\n= 102o</p>",
+        "correctIndex": 1,
+        "options": [
+            "68<sup>o</sup>",
+            "102<sup>o</sup>",
+            "107<sup>o</sup>",
+            "141<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21410776920_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": "Since QRU= X<sup>o</sup><br><br>RSU = X<sup>o</sup>, But RSU = 180<sup>o</sup>- (50<sup>o</sup>+ 35<sup>o</sup>)<br><br>= 180<sup>o</sup>- 85<sup>o</sup><br><br>= 95<sup>o</sup><br><br>x = 95<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "95<sup>o</sup>",
+            "85<sup>o</sup>",
+            "50<sup>o</sup>",
+            "35<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19984277180_maths-13.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Using angle bisector theorem: line PS bisects angle QPR<br>\n<br>\nQS/QP = SR/PR<br>\n<br>\n3/4 = SR/9<br>\n<br>\n4SR = 27<br>\n<br>\nSR = \\(\\frac{27}{4}\\)<br>\n<br>\n= 6\\(\\frac{3}{4}\\)cm</p>",
+        "correctIndex": 0,
+        "options": [
+            "6\\(\\frac{3}{4}\\)cm",
+            "3\\(\\frac{3}{8}\\)cm",
+            "4\\(\\frac{3}{8}\\)cm",
+            "2\\(\\frac{3}{8}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8564693328_maths-14.jpg\" class=\"img-fluid\">",
+        "explanation": "SQ<sup>2</sup>+ OS<sup>2</sup>= OQ<sup>2</sup>+ 5<sup>2</sup>= 14<sup>2</sup><br><br>SQ<sup>2</sup>= 14<sup>2</sup>- 5<sup>2</sup><br><br>196 - 25 = 171<br><br>ST<sup>2</sup>+ TQ<sup>2</sup>= SQ<sup>2</sup><br><br>ST<sup>2</sup>+ 2<sup>2</sup>= 171<br><br>ST<sup>2</sup>= 171 - 4<br><br>= 167<br><br>ST = \\(\\sqrt{167}\\)<br><br>= 12.92 = 12.9cm",
+        "correctIndex": 1,
+        "options": [
+            "7 \\(\\sqrt{3}\\)cm",
+            "12.9cm",
+            "\\(\\sqrt{87}\\)cm",
+            "7cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7137249365_maths-15.jpg\" class=\"img-fluid\">",
+        "explanation": "Since area of square PQRS = 100cm<sup>2</sup><br><br>each lenght = 10cm<br><br>Also TUYS : XQVU = 1 : 16<br><br>lengths are in ratio 1 : 4, hence TU : UV = 1: 4<br><br>Let TU = x<br><br>UV = 1: 4<br><br>hence TV = x + 4x = 5x = 10cm<br><br>x = 2cm<br><br>TU = 2cm<br><br>UV = 8cm<br><br>But TU = SY and UV = YR<br><br>YR = 8cm",
+        "correctIndex": 2,
+        "options": [
+            "6cm",
+            "7cm",
+            "8cm",
+            "9cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18556858970_maths-16.jpg\" class=\"img-fluid\">",
+        "explanation": "TH = tan 45<sup>o</sup>, TH = QH<br><br>\\(\\frac{TH}{5 + QH}\\) = tan 30<sup>o</sup><br><br>TH = (b + QH) tan 30<sup>o</sup><br><br>QH = 56 (5 + QH) \\(\\frac{1}{\\sqrt{3}}\\)<br><br>QH(1 - \\(\\frac{1}{\\sqrt{3}}\\)) = \\(\\frac{5}{\\sqrt{3}}\\)<br><br>QH = \\(\\frac{5\\sqrt{3}}{\\sqrt{3}} - \\frac{1}{\\sqrt{3}}\\)<br><br>= \\(\\frac{5}{\\sqrt{3} - 1}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{5}{\\sqrt{3} + 1}\\)",
+            "\\(\\frac{5}{\\sqrt{3} - 1}\\)",
+            "\\(\\frac{5}{\\sqrt{3}}\\)",
+            "\\(\\frac{\\sqrt{3}}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 51,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19984314378_maths-18.jpg\" class=\"img-fluid\">",
+        "explanation": "Number f students that took the test = \\(\\sum f\\). Where f is the frequencies<br><br>= 2 + 5 + 0 + 3 + 4 + 0 + 0 + 2 + 3 + 1 + 2 = 20",
+        "correctIndex": 1,
+        "options": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "type": "objectives"
+    }
+]

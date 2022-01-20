@@ -1,0 +1,722 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1988,
+        "question": "Which of the following are the correct SI units of the quantities indicated? i.N(Force) II. Mn<sup>-1</sup>(Torque) iii. watt(Power) iv. kgms<sup>-2</sup>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "i, ii and iii only",
+            "i, ii, and iv only",
+            "i and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1988,
+        "question": "A lorry travels 10km northwards, 4km eastwards, 6km southwards, 4km westwards to arrive at a point T. What is the total displacement?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "6km south",
+            "4km north",
+            "6km north",
+            "4km east"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1988,
+        "question": "Two forces whose resultant is 100N, are at right angle to each other. If one of them makes an angle 30<sup>o</sup>with the resultant, determine its magnitude.",
+        "explanation": "COS 30<sup>o</sup>= \\(\\frac{F_1}{100}\\)<br><br>F<sub>1</sub>= 86.6N",
+        "correctIndex": 3,
+        "options": [
+            "8.66N",
+            "50.0N",
+            "57.7N",
+            "86.6N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1988,
+        "question": "Which of the following quantities are scalars? i. Electrical potential ii. Torque iii. Momentum iv. Kinetic energy",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ii and iii only",
+            "i and ii only",
+            "iii and iv only",
+            "i and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1988,
+        "question": "When taking a penalty kick, a footballer applies a force of 30.0N for a period of 0.05s. if the mass of the ball is 0.075kg, calculate the speed with which the ball moves off.",
+        "explanation": "F = \\(\\frac{m(v - u)}{T}\\)<br><br>30 = \\(\\frac{0.75(v - 0)}{0.05}\\)<br><br>v = 20ms<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "4.50ms<sup>-1</sup>",
+            "11.25ms<sup>-1</sup>",
+            "20.00ms<sup>-1</sup>",
+            "45.00ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1988,
+        "question": "A particle starts from rest and moves with a constant acceleration of 0.5ms<sup>-2</sup>. The distance covered by the particle in 10s is",
+        "explanation": "X = ut + \\(\\frac{1}{2}\\)at<br><br>= (0 x 10) + (\\(\\frac{1}{2}\\) x 0.05 x 10 x 10)<br><br>= 25m",
+        "correctIndex": 2,
+        "options": [
+            "2.5m",
+            "5.0m",
+            "25.0m",
+            "50.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1988,
+        "question": "A 20-toothed gear wheel drives a 60-toothed one. If the angular speed of the smaller wheel is 120 rev s<sup>-1</sup>, the angular speed of the larger wheel is",
+        "explanation": "\\(\\frac{\\text {speed of driver}}{\\text {speeder driven}}\\) = \\(\\frac{\\text {no. of teeth of driver}}{\\text {no. of teeth of driven}}\\)<br><br>\\(\\frac{120}{V}\\) = \\(\\frac{20}{60}\\)<br><br>v = 360 rev s<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "3 rev s<sup>-1</sup>",
+            "40 rev s<sup>-1</sup>",
+            "360 rev s<sup>-1</sup>",
+            "2400 rev s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1988,
+        "question": "How long will it take a 60kg man to climb a height of 22m if he expended energy at a rate of 0.25kW. [g = ms<sup>-2</sup>]",
+        "explanation": "power = mgh<br><br>0.25 x 10<sup>3</sup>= \\(\\frac {60 \\times 10 \\times 22}{t}\\)<br><br>t = 52.8 sec",
+        "correctIndex": 3,
+        "options": [
+            "5.3s",
+            "34.5s",
+            "41.6s",
+            "52.8s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1988,
+        "question": "<p>A force, 10N, drags a mass 10kg on a horizontal table with an acceleration of 0.2ms. If the acceleration due to gravity is 10ms-1, the coefficient of friction between the moving mass and the table is</p>",
+        "explanation": "<p>\\(\\mu\\)mg = ma</p><p>\\(\\mu\\)mg = F - ma<br>\n<br>\n\\(\\mu\\) x 10 x 10 = 10 - (10 x 0.2)<br>\n<br>\n100 \\(\\mu\\) =10 - 2</p><p>dividing both sides by 100</p><p>\\(\\mu\\) = 8 / 100</p><p>\\(\\mu\\) = 0.08</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.02",
+            "0.08",
+            "0.20",
+            "0.80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1988,
+        "question": "<p>A body whose mass is 2kg and has a volume of 500cm3 just floats when completely immersed in a liquid. Calculate the density of the liquid</p>",
+        "explanation": "<p>since the object floats, density of liquid = density of object</p><p>converting 500cm3 to m3,</p><p>\\(\\frac{500}{10^{6}} = 5 \\times 10^{-4}m^{3}\\)<br>\n<br>\nD = \\(\\frac{m}{v}\\)<br>\n<br>\n= \\(\\frac{2}{5 \\times 10^{-4}}\\)<br>\n<br>\n=\\(4.0 \\times 10^{3}kgm^{-3}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "4.0 x 10<sup>2</sup>kgm<sup>-3</sup>",
+            "4.0 x 10<sup>3</sup>kgm<sup>-3</sup>",
+            "1.0 x 10<sup>3</sup>kgm<sup>-3</sup>",
+            "1.0 x 10<sup>6</sup>kgm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1988,
+        "question": "<p>The product PV where P is pressure and V is volume has the same unit as</p>",
+        "explanation": "<p>PV = \\(\\frac{N}{m^2}\\) x \\(\\frac{m^3}{1}\\)</p><p>= Nm</p><p>= Force x distance = work done = energy</p>",
+        "correctIndex": 2,
+        "options": [
+            "force",
+            "power",
+            "energy",
+            "accelaration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1988,
+        "question": "The amount of heat needed to raise the temperature of 10kg of copper by 1k is its",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "specific heat capacity",
+            "heat capacity",
+            "latent heat",
+            "internal energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1988,
+        "question": "A tap supplies water at 25<sup>o</sup>C while another supplies water at 75<sup>o</sup>C. If a man wishes to bathe with water at 40<sup>o</sup>C, the ratio of the mass of cold water to the mass of hot water required is",
+        "explanation": "Heat lost = heat gained<br><br>m<sub>h</sub>x c x (75 - 40) = m<sub>c</sub>x c x (40 - 25)<br><br>\\(\\frac{m_h}{m_c}\\) = \\(\\frac{35}{15}\\)<br><br>= \\(\\frac{7}{3}\\)",
+        "correctIndex": 2,
+        "options": [
+            "1 : 3",
+            "15 : 8",
+            "7 : 3",
+            "3 : 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1988,
+        "question": "When heat is applied to one end of a metal rod, the molecules at the other end soon begin to vibrate with greater amplitude than before because heat has been transferred by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "radiation",
+            "convection",
+            "conduction",
+            "evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1988,
+        "question": "Which of the following media allow the transmission of sound wave through them i. Air. ii. Liquids. iii. Solids.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "ii and iii only",
+            "i,ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1988,
+        "question": "Which of the following properties is/are common to all waves? i. Diffraction ii. Refraction iii. Interference",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i only",
+            "ii only",
+            "ii and iii",
+            "i, ii, and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1988,
+        "question": "A piano wire 0.5m long has a total mass of 0.01kg and is stretched with a tension of 800N. Calculate the frequency of the wire when it sounds its fundamental note",
+        "explanation": "F = \\(\\frac{1}{2L}\\)\\(\\sqrt\\frac {T}{m}\\)<br><br>N:B m is mass per length<br><br>= \\(\\frac {0.01}{0.5}\\)<br><br>= 0.02kgm<sup>-1</sup><br><br><br>F = \\(\\frac{1}{2\\times 0.5}\\)\\(\\sqrt\\frac {800}{0.02}\\)<br><br>= 200Hz",
+        "correctIndex": 0,
+        "options": [
+            "200Hz",
+            "100Hz",
+            "4Hz",
+            "2Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1988,
+        "question": "A note is called an octave of another note when",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "its frequency is twice that of the first note",
+            "its frequency is half of the first note",
+            "the notes have the same fundamental frequency",
+            "its periodic time is twice that of the first note"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1988,
+        "question": "Which of the following factors affects the speed of sound in air? i. Temperature ii. pressure iii. Frequency",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "ii only",
+            "i and ii only",
+            "ii and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1988,
+        "question": "The speed of sound in air at sea-level is 340ms<sup>-1</sup>while that of light is 300 000kms<sup>-1</sup>. How far (to the nearest meter) from the center of a thunderstorm is an observer who hears a thunder 2s after a lightening flash?",
+        "explanation": "Distance = 340 x 2 = 680ms<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "170ms<sup>-1</sup>",
+            "340ms<sup>-1</sup>",
+            "600ms<sup>-1</sup>",
+            "680ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1988,
+        "question": "<p>A slight loading of a tuning fork has the effect of</p>",
+        "explanation": "<p>When the prongs of the tuning fork are loaded, it causes an increase in their inertia, thereby decreasing the frequency of the fork.</p>",
+        "correctIndex": 2,
+        "options": [
+            "decreasing its amplitude",
+            "increasing its amplitude",
+            "decreasing its frequency",
+            "increasing its frequency"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1988,
+        "question": "<p>Two strings of the same length and under the same tension gives notes of frequencies in the ratio 4 : 1. The masses of the strings are in the corresponding ratio of</p>",
+        "explanation": "<p>F = \\(\\frac{1}{2L}\\)\\(\\sqrt\\frac{T}{m}\\)<br>\n<br>\n\\(\\frac{F_1}{F_2}\\) = \\(\\sqrt\\frac{m_2}{m_1}\\)<br>\n<br>\n\\(\\frac{1}{4}\\) = \\(\\sqrt\\frac{m_2}{m_1}\\)<br>\n<br>\n\\(\\frac{m_2}{m_1}\\) = \\(\\frac{1}{16}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "2 : 1",
+            "1 : 2",
+            "1 : 4",
+            "1 : 16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1988,
+        "question": "To obtain a magnification of 2.5, how far should an object be placed from the pole of a thin converging lens of focal length 10.20m?",
+        "explanation": "v = 2.5u<br><br>F = \\(\\frac {uv}{u + v}\\)<br><br>0.2 = \\(\\frac {u \\times 2.5u}{u + 2.5u}\\)<br><br>u = 0.28m",
+        "correctIndex": 2,
+        "options": [
+            "0.13m",
+            "0.25m",
+            "0.28m",
+            "0.50m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1988,
+        "question": "An object is placed 10cm in front of a concave mirror of focal length 15cm. What is the position and nature of the image formed?",
+        "explanation": "F = \\(\\frac{uv}{u + v}\\)<br><br>15 = \\(\\frac{10 \\times v}{10 + v}\\)<br><br>v = -30cm",
+        "correctIndex": 0,
+        "options": [
+            "30cm and virtual",
+            "6cm and real",
+            "6cm and virtual",
+            "30cm and real"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1988,
+        "question": "Which of the following phenomena explains the formation of a mirage? i. Reflection ii. Refraction iii. Diffraction",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii, and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1988,
+        "question": "When white light is dispersed by a spectrometer, the component having the shortest wavelength is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "orange",
+            "green",
+            "violet",
+            "red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1988,
+        "question": "Which of the following statement is TRUE of ultraviolet, visible and infra-red rays?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "they are all electromagnetic waves with the same wavelength",
+            "ultra-violet rays have shorter wavelengths than infra-red rays and produce flourescence",
+            "infrared rays have shorter wavelength than visible light and produce the sensation of heat",
+            "the wavelenghts increase in the sequence: visible, ultra-violet, infra-red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1988,
+        "question": "A spectrum of sunlight is said to be impure when",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "it is made of only three colours",
+            "it has no red colour in it",
+            "the different colours in it overlap",
+            "it does not contain white light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1988,
+        "question": "A cell of internal resistance 2 ohms supplies current to a 6 ohms resistor. The efficiency of the cell is",
+        "explanation": "Efficiency = \\(\\frac{IR}{I(R + r)}\\) x 100<br><br>= \\(\\frac{6}{I(2 + 6)}\\) x 100<br><br>= 75%",
+        "correctIndex": 3,
+        "options": [
+            "12.0%",
+            "25.0%",
+            "33.3%",
+            "75.0%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1988,
+        "question": "When a resistance R is across a cell, the voltage across the terminals of the cell is reduced to two-third of its normal value. The internal resistance of the cell is",
+        "explanation": "IR = \\(\\frac{2}{3}\\) I(R + r)<br><br>r = \\(\\frac{1}{2}\\)R",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{2}{1}\\)R",
+            "\\(\\frac{1}{2}\\)R",
+            "\\(\\frac{3}{2}\\)R",
+            "5R"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1988,
+        "question": "<p>A household refrigerator is rated 200 watts. If electricity costs 5k per kWh, what is the cost of operating it in 20 days?</p>",
+        "explanation": "<p>Energy(kWhr) = 200 x 10-3 x 20 x 24<br>\n<br>\n= 96kwhr<br>\n<br>\n1 kwhr cost 5 kobo ; 96 kwhr will cost<br>\n<br>\n5 x 96 = 480 kobo</p><p>= N4.80</p>",
+        "correctIndex": 0,
+        "options": [
+            "N4.80",
+            "N48.00",
+            "N480.00",
+            "N4800.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1988,
+        "question": "Which of the following ammeters may be used to measure alternating currents? i. moving-coil ammeter ii. moving-iron ammeter iii. hot-wire ammeter",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii, and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1988,
+        "question": "The principle of operation of an induction coil is based on",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Ohm's law",
+            "Amphere's law",
+            "Faraday's law",
+            "Columbs law"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1988,
+        "question": "A dynamo primarily combines",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "mechanical energy into electrical energy",
+            "electrical energy into kinetic energy",
+            "potential energy into kinetic energy",
+            "kinetic energy into potential energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1988,
+        "question": "In a certain fusion reaction, a deuteron (\\(^{2}_{1}H\\)) interacts with a triton (\\(^{3}_{1}He\\)) and produces an a-particle (\\(^{4}_{2}He\\)) and a second product. The second product is",
+        "explanation": "\\(^{2}_{1}H\\) + \\(^{3}_{1}H\\) \\(\\to\\) \\(^{4}_{2}He\\) + \\(^{1}_{0}He\\)",
+        "correctIndex": 2,
+        "options": [
+            "a proton",
+            "an electron",
+            "a neutron",
+            "a gamma ray"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1988,
+        "question": "Which of the following symbolic representations is correct for an atom X with 22 electrons and 43 neutrons?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(^{43}_{22}X\\)",
+            "\\(^{22}_{43}X\\)",
+            "\\(^{65}_{43}X\\)",
+            "\\(^{65}_{22}X\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24795605442_19880001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "graph 2 corresponds to the highest velocity",
+            "graph 1 corresponds to zero gravity",
+            "graph 3 corresponds to a particle moving in the negative x direction",
+            "graph 2 corresponds to a particle moving in the positive x direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20419913752_19880002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Greatest in X",
+            "Greatest in Y",
+            "Greatest in Z",
+            "Same in each one"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13127089581_19880003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "62.6cm hg",
+            "72.5cm hg",
+            "79.5cm hg",
+            "85.9cm hg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23337052672_19880004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "12Hz",
+            "19Hz",
+            "60Hz",
+            "75Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10209961615_19880005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26254190088_19880006.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "yellow",
+            "red",
+            "black",
+            "blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834265188_19880007.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18961363551_19880008.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11668532432_19880009.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "gamma ray",
+            "electron",
+            "neutron",
+            "proton"
+        ],
+        "type": "objectives"
+    }
+]

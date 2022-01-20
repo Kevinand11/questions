@@ -1,0 +1,1003 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1991,
+        "question": "Which of the following is a fundamental quantity?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "speed",
+            "density",
+            "lenght",
+            "impulse",
+            "energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1991,
+        "question": "A body moves with a constant speed but has an acceleration. this process if it",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "moves in a straight line",
+            "moves in a circle",
+            "is oscillating",
+            "is in equilibrum",
+            "has a varrying acceleration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1991,
+        "question": "A ball is projected horizontally from the top of a hill with a velocity of 20m<sup>-1</sup>. If it reaches the ground 4 seconds later, what is the height of the hill? (g = 10ms<sup>-2</sup>)",
+        "explanation": "Initial horizontal velocity = 20ms<sup>-1</sup><br><br>Initial vertical velocity = 0<br><br>s = ut + \\(\\frac{1}{2}gt^2\\) = 0 x 5 x 4<sup>2</sup><br><br>= 80m",
+        "correctIndex": 2,
+        "options": [
+            "20m",
+            "40m",
+            "80m",
+            "160m",
+            "200m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1991,
+        "question": "A body moving with uniform acceleration has two points(5, 15) and (20, 60) on the velocity-times graph of its motion. Calculate",
+        "explanation": "slope = acceleration<br><br>a = \\(\\frac{v_2 - v_1}{t_2 - t_1} = \\frac{60- 15}{20 - 5}\\)<br><br>= 3ms<sup>-2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "0.25ms<sup>-2</sup>",
+            "3.00ms<sup>-2</sup>",
+            "4.00ms<sup>-2</sup>",
+            "9.00ms<sup>-2</sup>",
+            "16.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2857849568_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1991,
+        "question": "An orange fruit drops to the ground from the top of a tree 45m tall. How long does it takes to reach the ground? (g = 10ms<sup>-2</sup>)",
+        "explanation": "s = ut + \\(\\frac{1}{2}gt^2\\)<br><br>45 = 0 + 5t<sup>2</sup><br><br>t = 3s",
+        "correctIndex": 0,
+        "options": [
+            "3.0s",
+            "4.5s",
+            "6.0s",
+            "7.5s",
+            "9.0s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1991,
+        "question": "power is defined as the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "capacity to exert a force",
+            "product of force and time",
+            "product of force and distance",
+            "ability to do work",
+            "energy expended per unit time"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1991,
+        "question": "The product PV where P is pressure and V is volume has the same unit as",
+        "explanation": "P = \\(\\frac{N}{m^2}\\)<br><br>V = m<br><br>PV = Nm unit of work",
+        "correctIndex": 1,
+        "options": [
+            "power",
+            "work",
+            "acceleration",
+            "impulse",
+            "force"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24291739552_maths-10.jpg\" class=\"img-fluid\">",
+        "explanation": "Eff = \\(\\frac{MA}{VR}\\) x 100%<br><br>40 = \\(\\frac{MA}{60}\\)<br><br>MA = 240<br><br>\\(\\frac{L}{E} = \\frac{240}{100}\\)<br><br>W = L = \\(\\frac{240}{100}\\) x 50<br><br>= 120N",
+        "correctIndex": 3,
+        "options": [
+            "300N",
+            "200N",
+            "140N",
+            "120N",
+            "20N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1991,
+        "question": "A boatman facing north wants to cross a flowing river to a point directly opposite its position at the other bank. If the river is flowing eastwards, in what direction should he row his boat?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "west",
+            "east",
+            "north-west",
+            "north-east",
+            "south-west"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12860372862_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "S<sub>1</sub>, would move upward but S<sub>2</sub>would not move",
+            "S<sub>1</sub>would not move but S<sub>2</sub>would move upwards",
+            "both S<sub>1</sub>and S<sub>2</sub>would move upwards",
+            "S<sub>1</sub>would move downwards and S<sub>2</sub>would move downwardw",
+            "S<sub>1</sub>would move downwards and S<sub>2</sub>wouldnmove downwards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1991,
+        "question": "<p>A wire, 20m long is heated from a temperature of 5oC to 55oC. If the change in length is 0.020m, calculate the linear expansivity of the wire</p>",
+        "explanation": "<p>\\(\\alpha = \\frac{\\Delta L}{L \\Delta \\theta} = \\frac{0.020}{20 \\times (55 - 5)} = 2.0 \\times 10^{-5}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.0 x 10<sup>-3</sup>k<sup>-1</sup>",
+            "2.0 x 10<sup>-4</sup>k<sup>-1</sup>",
+            "2.0 x 10<sup>-5</sup>k<sup>-1</sup>",
+            "1.0 x 10<sup>-5</sup>k<sup>-1</sup>",
+            "2.0 x 10<sup>-6</sup>k<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1991,
+        "question": "A water fall is 420m high. Calculate the difference in temperature of the water between the top and bottom of the water fall. Neglect heat loses(g = 10.0m<sup>-2</sup>specific heat capacity of water = 4.20 x 10<sup>-3</sup>JKg<sup>-1</sup>K<sup>-1</sup>)",
+        "explanation": "Potential Energy = Heat Energy<br><br>mgh = Mc\\(\\Delta \\theta = \\frac{gh}{c} = \\frac{10 \\times 240}{4.20 \\times 10^3}\\)<br><br>= 1.0<sup>o</sup>C",
+        "correctIndex": 1,
+        "options": [
+            "0.1<sup>o</sup>C",
+            "1.0<sup>o</sup>C",
+            "42<sup>o</sup>C",
+            "100<sup>o</sup>C",
+            "4.20<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10002549263_maths-15.jpg\" class=\"img-fluid\">",
+        "explanation": "P<sub>1</sub>= p + 15, p<sub>2</sub>= p - 15<br><br>v<sub>1</sub>= 30cm, v<sub>2</sub>= 45cm<br><br>P<sub>1</sub>v<sub>1</sub>= p<sub>2</sub>v<sub>2</sub><br><br>p = 75cm of Hg",
+        "correctIndex": 1,
+        "options": [
+            "76cm of Hg",
+            "75cm of Hg",
+            "74cm of Hg",
+            "60cm of Hg",
+            "45cm of Hg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1991,
+        "question": "A fixed mass of gas of volume 600cm<sup>3</sup>at a temperature of 27<sup>o</sup>C is cooled at constant pressure to a temperature of 0<sup>o</sup>C. What is the change in volume?",
+        "explanation": "\\(\\frac{V_1}{T_1} = \\frac{V_2}{T_2}\\)<br><br>T<sub>2</sub>= 0 + 273 = 273k<br><br>V<sub>1</sub>= 600<br><br>T<sub>1</sub>= 27 + 273 = 300k<br><br>V<sub>2</sub>= \\(\\frac{V_1T_2}{T_1}\\) = 546cm<br><br>V<sub>1</sub>- V<sub>2</sub>= 54cm",
+        "correctIndex": 0,
+        "options": [
+            "54cm<sup>2</sup>",
+            "273cm<sup>2</sup>",
+            "300cm<sup>2</sup>",
+            "546cm<sup>2</sup>",
+            "600cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1991,
+        "question": "The boiling point of a liquid depends on the following except the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "nature of the liquid",
+            "external pressure",
+            "volume of the liquid",
+            "impurities present in the liquid",
+            "degree of it's molecular cohesive force"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1991,
+        "question": "A team trap is a component of the apparatus used in determining the specific latent heat of vaporisation of steam. In the steady steady state, the steam trap",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "stores the steam for future use",
+            "prevents the steam from escaping",
+            "ensures that only dry steam gets into the calorimeter",
+            "allows condensed steam to go into the calorimeter",
+            "determine the quantity of steam used"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1991,
+        "question": "a tap supplies water at 26<sup>o</sup>C while another supplies water at 82<sup>o</sup>C. If a man wishes to bathe with water at 40<sup>o</sup>C the ratio of hot mass of hot water to that of cold water required is",
+        "explanation": "heat supplied by hot water = heat gained by cold water M<sub>1</sub>C(82 - 40) = M<sub>2</sub>C(40 - 26)<br><br>\\(\\frac{M_2}{M_1}\\)= \\(\\frac{14}{42}\\)<br><br>= 1: 3",
+        "correctIndex": 0,
+        "options": [
+            "1:3",
+            "3:1",
+            "3:7",
+            "7:3",
+            "15:8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1991,
+        "question": "Melting ice cools an orange drink far better than the same mass of ice-cold water because",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "melting ice is lower temperature than ice-cold water",
+            "water has a higher specific heat than ice",
+            "ice floats and cools the air above the drink",
+            "ice absorbs latent heat during melting",
+            "ice makes better thermal contact than water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1991,
+        "question": "The saturation vapour of a liquid depends on its",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "volume",
+            "temperature",
+            "mass",
+            "density",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1991,
+        "question": "Two forces, whose resultant is 100N are perpendicular to each other. If one of them makes an angle of 60<sup>o</sup>with the resultant, calculate the magnitude. (Sin 60<sup>o</sup>= 0.8660, Cos 60<sup>o</sup>= 0.500)",
+        "explanation": "x = 100 cos50<sup>o</sup>= 50N",
+        "correctIndex": 4,
+        "options": [
+            "200.0N",
+            "173.2N",
+            "115.5N",
+            "86.6N",
+            "50.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25722126396_maths%2022.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "ii and iii only",
+            "i, ii and iii only",
+            "i, ii and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4287028071_maths%2023.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "240<sup>o</sup>",
+            "180<sup>o</sup>",
+            "120<sup>o</sup>",
+            "60<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22864213584_maths%2030.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "blue",
+            "red",
+            "yellow",
+            "green",
+            "black"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1991,
+        "question": "A ray of light is incident at an angle of 30<sup>o</sup>on a glass prism of refractive index 1.5. Calculate the angle through which the ray is minimally deviated in the prism. (The medium surrounding the prism is air)",
+        "explanation": "n = \\(\\frac{sin i}{sin r}\\)<br><br>sin r = \\(\\frac{30^o}{n}\\)<br><br>sin r = \\(\\frac{0.5}{1.5}\\)<br><br>sin r = 0.3333<br><br>r = 19.5<sup>o</sup>; Deviation 30 - 19.5 = 10.5<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "10.5<sup>o</sup>",
+            "19.5<sup>o</sup>",
+            "21.1<sup>o</sup>",
+            "38.9<sup>o</sup>",
+            "40.5<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24293180880_maths%2024.jpg\" class=\"img-fluid\">",
+        "explanation": "n = \\(\\frac{\\text{real depth}}{\\text {apparent depth}}\\)<br><br>\\(\\frac{10}{10^{-4}}\\) = 1.6",
+        "correctIndex": 3,
+        "options": [
+            "0.40",
+            "0.60",
+            "1.50",
+            "1.67",
+            "2.50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1991,
+        "question": "An image which can be formed on a screen is said to be",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "virtual",
+            "blurred",
+            "inverted",
+            "erect",
+            "real"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1991,
+        "question": "Which of the following are true of plane-polarised right? i. Plane polarisation of light is the formation of hydrogen bubbles on the particle of light. ii. Plane components. iii. A plane polarised light vibrates in one plane. iv. Polarisation of light is characteristic of transverse vibration",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "i and iv only",
+            "ii and iii only",
+            "i and ii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1991,
+        "question": "At which of the following distances from the lens should a slide be placed on a slide projector if f is the focal length of the projector length?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "less than f",
+            "greater than f but less than 3f",
+            "equal to f",
+            "equal to 2f",
+            "greater than 2f"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1991,
+        "question": "what part of the camera corresponds to the iris of the eye?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "shutter",
+            "film",
+            "lens",
+            "diaphram",
+            "focusing ring"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1991,
+        "question": "Which of the following is not a mechanical wave?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "wave propagatd in stretched string",
+            "wave in closed pipe",
+            "radio waves",
+            "water waves",
+            "sound waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1991,
+        "question": "Which of the following remains unchanged as light travels from one medium to the other? i. speed. ii. wavelength. iii. frequency.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "ii only",
+            "iii only",
+            "i and ii only",
+            "i and ii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1991,
+        "question": "Which of the following statements about wave is not correct? i. A wavefront is a line which contains all particles whose vibration are in phase. ii. The direction of propagation of a wave is the link drawn parallel to the wavefront. iii. A wavefront is a circle which is common to particles that are in the same state of disturbance",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "i only",
+            "ii only",
+            "i and ii only",
+            "i and iii only",
+            "ii and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1991,
+        "question": "What type of motion does the skin of a talking drum perform when its being struck with the drum stick?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "random",
+            "rational",
+            "vibratory",
+            "translational",
+            "circular"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1991,
+        "question": "The sound from a bell in an enclosed jar gradually faints away while the jar is being evacuated. Which of the following explains this observation?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the pressue is reduced",
+            "the sound waves are pumped out",
+            "the waves are absorbed in the inner walls",
+            "There is no more material medium",
+            "the air is disturbed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14290184720_maths%2036.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the two point, A and B are in phase",
+            "distance AB is halgf the wavelength of the wave",
+            "AC and BD are the amplitude of the wave",
+            "the two points A and B represents the wave crests",
+            "the wave has four crests"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1991,
+        "question": "A man standing 300m away from the wall sounds a whistle. The echo from the wall reaches him 1.8sec. later, calculate the velocity of sound in air",
+        "explanation": "V = \\(\\frac{2x}{t} = \\frac{2 \\times 300}{1.8}\\)<br><br><br>= 333.33ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "540.0ms<sup>-1</sup>",
+            "333.3ms<sup>-1</sup>",
+            "270.0ms<sup>-1</sup>",
+            "166.7ms<sup>-1</sup>",
+            "83.3ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1991,
+        "question": "In which of the following is a stationary wave produced? i. A vibrating turning fork held near the end of a resonance tube closed at one end. ii. A string tightly stretched between two points and plucked at its middle. iii. The tuning fork vibrating in air",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "ii only",
+            "i and ii only",
+            "ii and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1991,
+        "question": "A particle of charge q and mass m moving with a velocity v enters a uniform magnetic field b in the direction of the field. The force on the particle is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "qvB",
+            "mqvB/m",
+            "mvB/q",
+            "O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14290229590_maths%2041.jpg\" class=\"img-fluid\">",
+        "explanation": "x = 2\\(\\pi f L = 2\\pi \\times \\frac{500}{\\pi} \\times 0.9\\)<br><br>= 900\\(\\Omega\\)",
+        "correctIndex": 2,
+        "options": [
+            "450",
+            "0.9",
+            "900",
+            "567",
+            "43"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1991,
+        "question": "Two objects of masses 80kg and 50kg are separated by a distance of 0.2m. If the gravitational constant is 6.6 x 10<sup>-11</sup>Nm",
+        "explanation": "F = \\(\\frac{Gm_1m_2}{r^2} = \\frac{6.6 \\times 10^{-11} \\times 80 \\times 50}{0.2 \\times 0.2}\\)<br><br>= 6.6 x 10<sup>-6</sup>N",
+        "correctIndex": 3,
+        "options": [
+            "4.9 x 10<sup>-9</sup>N",
+            "1.3 x 10<sup>-6</sup>N",
+            "6.6 x 10<sup>-8</sup>N",
+            "6.6 x 10<sup>-6</sup>N",
+            "2.6 x 10<sup>-9</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2858051510_maths%2042.jpg\" class=\"img-fluid\">",
+        "explanation": "E = \\(\\frac{1}{2} Cr^2 = \\frac{1}{2}(C-1 + C_2)V^2 = (3C_1)V^2\\)<br><br>= 3(\\(\\frac{1}{2}C_1v^2\\)) = 3W",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{1}{2}\\)W",
+            "\\(\\frac{2}{3}\\)W",
+            "W",
+            "2w",
+            "3W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15719950279_maths%2045.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1991,
+        "question": "<p>Which of the following is stored by dry Leclanche cell?</p>",
+        "explanation": "<p>The energy stored in the dry Leclanche cell is the chemical energy. It converts the chemical energy to electrical energy.</p>",
+        "correctIndex": 0,
+        "options": [
+            "chemical energy",
+            "nuclear energy",
+            "solar energy",
+            "heat energy",
+            "electrical energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25723560888_maths%2046.jpg\" class=\"img-fluid\">",
+        "explanation": "R = \\(\\frac{V}{T} = \\frac{2v}{40 \\times 10^{-3}}\\)<br><br>= 50.00\\(\\Omega\\)",
+        "correctIndex": 4,
+        "options": [
+            "0.02\\(\\Omega\\)",
+            "0.05\\(\\Omega\\)",
+            "5.00\\(\\Omega\\)",
+            "20.00\\(\\Omega\\)",
+            "50.00\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1991,
+        "question": "A 90W immersion heater is used to supply energy for 5 minutes. The energy supplied is used to completely melt 160g of a solid at its melting point. Calculate the specific latent heat of the solid.",
+        "explanation": "pt = ml 80<br><br>90 x 5 x 60 = 160 x L<br><br>L = \\(\\frac{27000}{160}\\)<br><br>= 168.75Jg<sup>-1</sup><br><br>= 168.75",
+        "correctIndex": 3,
+        "options": [
+            "2.81jg<sup>-1</sup>",
+            "6.25Jg<sup>-1</sup>",
+            "8.89Jg<sup>-1</sup>",
+            "168.75Jg<sup>-1</sup>",
+            "5333.33Jg<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17149068924_maths%2047.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "L<sub>1</sub>becomes brighter and L<sub>2</sub>becomes dimmer",
+            "L<sub>1</sub>becomes brighter and L<sub>2</sub>does not change",
+            "L<sub>2</sub>becomes dimmer and L<sub>1</sub>does not change",
+            "L<sub>1</sub>becomes dimmer and L<sub>2</sub>does not change",
+            "L<sub>1</sub>and L<sub>2</sub>becomes brighter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 1991,
+        "question": "A house is supplied with a 240V a.c mains. To operate a door bell rated at 8v, a transformer is used if the number of turns in the primary coil of the transformer is 900. calculate the number of turns in the secondary coil of the transformer",
+        "explanation": "\\(\\frac{E_p}{E_s} = \\frac{n_p}{n_s}\\)<br><br>n<sub>s</sub>= 30",
+        "correctIndex": 0,
+        "options": [
+            "30",
+            "240",
+            "248",
+            "450",
+            "1248"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14290897050_maths%2050.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "into the paper",
+            "out of the paper",
+            "towargs the north pole of the magnet",
+            "towards the south pole of the magnet",
+            "towards the top of the pages"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 1991,
+        "question": "An induction coil is generally used to",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "rectify an alternating current",
+            "produce a large input voltage",
+            "smoothen a pulsating direct current",
+            "modulate an incoming signal",
+            "produce a large output voltage"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 51,
+        "year": 1991,
+        "question": "The unit of stress is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Nm",
+            "N",
+            "Nm<sup>-2</sup>",
+            "Nm<sup>2</sup>",
+            "Nm<sup>1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 52,
+        "year": 1991,
+        "question": "Which of the following statements above viscosity are correct? when a ball falls through a viscous liquid i. viscosity opposes the gravitational force on the ball. ii. viscosity opposes the upthrust on the ball. iii. viscosity is in the same direction as the upthrust on the ball. iv. as the ball falls faster the more viscous the liquid is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and iii only",
+            "i and ii only",
+            "ii and iv only",
+            "iii and iv only",
+            "i, ii and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 53,
+        "year": 1991,
+        "question": "Which of the following statements is not correct? Isotopes of an element have",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the same number of electric charges on the nucleus",
+            "the same chemical properties",
+            "different nucleon numbers",
+            "different proton numbers",
+            "different atomic masses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 54,
+        "year": 1991,
+        "question": "plane as 63cm of HG while a ground observer records a reading of 75cm of Hg with his barometer. assuming that the density of air is constant, calculate the height of the plane above the ground. (Take the relative densities of air and mecury as 0.00136 and 13.6 respectively",
+        "explanation": "Pressure change for air = pressure change for mercury<br><br>hpg = Hpg<br><br>h x 0.00136 x g = (75 - 63) x 13.6 x g<br><br>h \\(\\frac{12 \\times 13.6}{0.00136}\\)<br><br>= 120,000",
+        "correctIndex": 4,
+        "options": [
+            "120m",
+            "138m",
+            "1200m",
+            "274m",
+            "120,000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 55,
+        "year": 1991,
+        "question": "When a metal surface is irradiated, photoelectrons may be ejected from the metal. The kinetic energy of the ejected electrons depends on the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "sorce of the radiation",
+            "intensity of the radiation",
+            "detection device for the electrons",
+            "amplitude of the radiation",
+            "frequency of the radiation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 56,
+        "year": 1991,
+        "question": "An electron charge 1.6 x 10<sup>-19</sup>C is accelerated in vacuum from rest at zero volt towards a plate at 40k V. Calculate the kinetic energy of the electron",
+        "explanation": "E = \\(\\frac{1}{2}QV = \\frac{1}{2} \\times 1.6 \\times 10^{-19} \\times 40000\\)<br><br>= 3.2 x 10<sup>-15</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "4.0 x 10<sup>-26</sup>J",
+            "4.0 x 10<sup>-21</sup>J",
+            "6.4 x 10<sup>-20</sup>J",
+            "3.2 x 10<sup>-15</sup>J",
+            "2.5 x 10<sup>-20</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 57,
+        "year": 1991,
+        "question": "The half-life of a radioactive substance is 2 seconds. Calculate the decay constant",
+        "explanation": "\\(\\lambda = \\frac{0.693}{T_{\\frac{1}{2}}} = \\frac{0.693}{2}\\)<br><br>= 0.347s<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0.035s<sup>-1</sup>",
+            "0.151s<sup>-1</sup>",
+            "0.347s<sup>-1</sup>",
+            "0.576s<sup>-1</sup>",
+            "1.386s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 58,
+        "year": 1991,
+        "question": "The work function of a metal is 4.65ev and the metal is illuminated with a radiation of 6.86ev. What is the kinetic energy of the electrons ejected from the surface of the metal?",
+        "explanation": "K.E = \\(\\frac{1}{2}\\)mv<sup>2</sup><br><br>E - W = 6.86 - 4.65<br><br><br>= 2.21ev",
+        "correctIndex": 1,
+        "options": [
+            "1.48ev",
+            "2.21ev",
+            "4.42ev",
+            "5.75ev",
+            "11.51ev"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 59,
+        "year": 1991,
+        "question": "Which of the following has the highest surface tension?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "cold water",
+            "soapy water",
+            "warm water",
+            "oily water",
+            "salty water"
+        ],
+        "type": "objectives"
+    }
+]

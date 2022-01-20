@@ -1,0 +1,784 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1997,
+        "question": "An object of mass 0.40 kg attached to the end of a string is whirled around in a horizontal circle of radius 2.0m with a constant speed of 8\\(ms^{-1}\\). Calculate the angular velocity of the object",
+        "explanation": "V=rw, 8=2w, w=8/2= 4rad/s",
+        "correctIndex": 2,
+        "options": [
+            "0.8rad\\(s^{-1}\\)",
+            "2 rad\\(s^{-1}\\)",
+            "4 rad\\(s^{-1}\\)",
+            "8 rad\\(s^{-1}\\)",
+            "16 rad\\(s^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1997,
+        "question": "An object falls freely from a height of 25m onto the roof a building 5m high. Calculate the velocity with which the object strikes the roof (g=10\\(ms^{-2}\\)",
+        "explanation": "\\(v^2=u^2 +2as =0 +2\\times(25-5)\\\\ v^2 =0+20\\times 20=400;v =\\sqrt{400}= 20(ms^{-2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "17.3\\(ms^{-2}\\)",
+            "20\\(ms^{-2}\\)",
+            "24.5\\(ms^{-2}\\)",
+            "125\\(ms^{-2}\\)",
+            "200\\(ms^{-2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1997,
+        "question": "<p>A ball of mass 0.1kg approaching a tennis player with a velocity of 10ms\\(^{-1}\\),is hit back in the opposite direction with a velocity of 15ms\\(^{-1}\\). If the time of impact between the racket and the ball is 0.01s, calculate the magnitude of the force with which the ball is hit</p>",
+        "explanation": "<p>M =0.1kg; F=\\(m\\left(\\frac{v-u}{t}\\right) = 0.1\\left(\\frac{15-(-10)}{0.01}\\right)\\) F=250N</p>",
+        "correctIndex": 2,
+        "options": [
+            "5000N",
+            "500N",
+            "250N",
+            "50N",
+            "25N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1997,
+        "question": "Two blocks of the same dimension, one steel and the other wooden are dropped simultaneously from the same height. If they fall freely neglecting air resistance the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Two blocks hit the ground simultaneously because they have the same acceleration",
+            "Two blocks reach the ground at the same time because their dimensions are the same",
+            "Wooden block being lighter than the steel block reaches the ground first",
+            "Steel block reaches the ground first because it is denser than the wooden block",
+            "Steel block takes half as much time as the wooden block to reach the ground because it is more massive than the wooden block"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1997,
+        "question": "Two forces 3N and 4N act on a body in directions due north and due east respectively. Calculate their equilibrant",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "5N 53° east of North",
+            "5N 53° west of the south",
+            "5N 37° north of east",
+            "7N 37° west of North",
+            "7N 37° south of west"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1997,
+        "question": "A missile weighing 400N on the earth surface is shot into the atmosphere to an altitude of 6.4 x \\(10^{-6}\\)m. Taking the earth as a sphere of radius 6.4 x \\(10^{-6}\\)m and assuming the inverse-square law of universal gravitation, what would be the weight of the missile at that altitude?",
+        "explanation": "W=\\(\\frac{mg}{4}= \\frac{400}{4}=100N\\)",
+        "correctIndex": 0,
+        "options": [
+            "100N",
+            "200N",
+            "400N",
+            "800N",
+            "1600N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1997,
+        "question": "A solid plastic cube of side 0.2m is submerged in a liquid density of 0.8kg\\(m^{-3}\\). Calculate the upthrust of the liquid on the cube (g=10\\(ms^{-2}\\)",
+        "explanation": "Upthrust = Volume of fluid displaced =vpg =0.2 x 0.2 x 0.2 x0.8 x 10= 0.064N",
+        "correctIndex": 0,
+        "options": [
+            "0.064N",
+            "0.025N",
+            "0.016N",
+            "0.008N",
+            "0.003N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1997,
+        "question": "A piece of copper of mass 30g loses 60J of heat energy. If the specific heat capacity of copper is 400J\\(kg^{-1}K^{-1}\\), Calculate the change in the temperature of the copper",
+        "explanation": "H=\\(mc\\Delta\\theta \\Rightarrow 60=0.03\\times400\\times\\Delta\\theta\\\\60= 12\\Delta\\theta therefore \\Delta\\theta=60/12 =5K\\)",
+        "correctIndex": 4,
+        "options": [
+            "0.2K",
+            "0.8K",
+            "2K",
+            "4.5K",
+            "5K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1997,
+        "question": "Steel bars each of length 3m at 28°C are to be used for constructing a rail line. If the linear expansitivity of the steel is 1 x \\(10^{-5}K^{-1}\\),what is the safety gap that must be left between the successive bars if the highest temperature expected is 40°C?",
+        "explanation": "\\(\\alpha= \\frac{\\Delta{L}}{L_1\\Delta\\theta}; \\Delta{L}=\\alpha{L_1}\\Delta\\theta\\Rightarrow 1.0\\times 10^{-5}\\times 3\\times (40-28)= 3.6\\times 10^{-2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "1.2x \\(10^{-1}cm\\)",
+            "7.2x\\(10^{-1}cm\\)",
+            "6x\\(10^{-1}cm\\)",
+            "3.6x\\(10^{-1}cm\\)",
+            "1.8x\\(10^{-1}cm\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1997,
+        "question": "Which of the following explains why a thick glass cup cracks when boiling water is poured into it?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Unequal expansion of the exterior and interior walls of the cup",
+            "Anomalous expansion of the water",
+            "Greater specific latent capacity of water compared with that of glass",
+            "Large increase in the heat capacity of the cup",
+            "High density of the water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1997,
+        "question": "When white light is incident on a glass prism the spectrum produced on a screen placed beyond the prism is due to?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Diffraction",
+            "Reflection",
+            "Refraction",
+            "Polarisation",
+            "Interference"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1997,
+        "question": "At what distance from a simple microscope must an object be placed so that the image 5 times the size of the object is produced 20cm from the lens?",
+        "explanation": "M=\\(\\frac {v}{u}=5\\Rightarrow v=5u=20,let u be x\\\\ v=5x if v=20 then 5x=20 therefore x=20/5=4\\,u=4cm\\)",
+        "correctIndex": 2,
+        "options": [
+            "2cm",
+            "3.3cm",
+            "4cm",
+            "5cm",
+            "15cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1997,
+        "question": "Whenever light waves are restricted to a specific plane they are said to be",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Diffracted",
+            "Refracted",
+            "Diffused",
+            "Regularly reflected",
+            "Plane polarized"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1997,
+        "question": "A solid material of volume 100\\(cm^{-3}\\) is heated through a temperature difference of 40°C. Calculate the increase in the volume of the material if its linear expansitivity is 2 x \\(10^{-6}K{-1}\\)",
+        "explanation": "\\(3{\\alpha}= \\frac{\\Delta{V}}{V_1\\Delta{T}}\\Rightarrow \\frac{\\Delta{V}}{100\\times40}=3\\alpha\\, where\\, \\alpha = 2 \\times 10^{-6}\\\\ \\frac{\\Delta{V}}{4000}=6\\times10^{-6}\\Rightarrow \\Delta=4\\times10^3\\times6\\times10^{-6}= 2.4\\times10^{-2}cm^{-3}\\)",
+        "correctIndex": 0,
+        "options": [
+            "2.4 x\\(10^{-2}cm^{-3}\\)",
+            "1.6 x\\(10^{-2}cm^{-3}\\)",
+            "8 x\\(10^{-2}cm^{-3}\\)",
+            "5 x\\(10^{-2}cm^{-3}\\)",
+            "4 x\\(10^{-2}cm^{-3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1997,
+        "question": "Calculate the quantity of heat released when 100g of steam at 100°C condenses to water(Take the specific latent heat of vaporization of water as 2.3x \\(10^6Jkg^{-1}\\))",
+        "explanation": "\\(\\Delta{H}=mL=0.1\\times2.3\\times10^6=2.3\\times10^5\\)J",
+        "correctIndex": 3,
+        "options": [
+            "2.3x\\(10^{1}J\\)",
+            "2.3x\\(10^{2}J\\)",
+            "2.3x\\(10^{4}J\\)",
+            "2.3x\\(10^{5}J\\)",
+            "3.3x\\(10^{7}J\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1997,
+        "question": "A fixed mass of gas occupies a volume of 20\\(cm^3\\) at a fixed pressure of 700mmHg. Assuming that the temperature remains constant, what will be the volume of the gas at 750mmHg?",
+        "explanation": "\\(v_2=\\frac{v_1p_1}{p_2}=\\frac{20\\times700}{750}=18.66=18.7cm^3\\)",
+        "correctIndex": 2,
+        "options": [
+            "2.5\\(cm^3\\)",
+            "15.5\\(cm^3\\)",
+            "18.7\\(cm^3\\)",
+            "21.4\\(cm^3\\)",
+            "72.5\\(cm^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1997,
+        "question": "A converging lens of focal length 15cm is used to obtain a real image magnified \\(1\\frac{1}{2}\\) times. Calculate the distance of the image from the lens?",
+        "explanation": "If u=x, v = \\(1\\frac{1}{2}x \\Rightarrow if u= 2x,v=3x\\\\<br>\\frac{1}{f}=\\frac{1}{u}+\\frac{1}{v}; \\frac{1}{15}=\\frac{1}{2x}+\\frac{1}{3x} \\times \\frac{5}{6}\\\\<br>X=\\frac{75}{76}=12.5, v=3x=12.5\\times 3=37.5\\)",
+        "correctIndex": 0,
+        "options": [
+            "37.5cm",
+            "22.5cm",
+            "15cm",
+            "7.5cm",
+            "3.3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1997,
+        "question": "A cup containing 100g of pure water at 20°C is placed in a refrigerator. If the refrigerator extracts heat at a rate of 840J per minute, calculate the time taken for the water to freeze. Neglect the heat capacity of the material of the cup. (Specific heat capacity of water =4.2J\\(g^{-1}K^{-2}\\))((Specific latent heat fusion of water =336J\\(g^{-1}\\)",
+        "explanation": "H=pt =mL +mcθ ; 840t= 100x336+100x4.2x20 thus t=420000/840=50minutes",
+        "correctIndex": 3,
+        "options": [
+            "15minutes",
+            "20 minutes",
+            "42 minutes",
+            "50 minutes",
+            "84 minutes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1997,
+        "question": "What is the frequency of a radio wave of wavelength 150m if the velocity of radio waves in free space is 3 x \\(10^8ms^{-1}\\)?",
+        "explanation": "V=f\\(\\lambda, f =\\frac{v}{\\lambda}= \\frac{3\\times10^8}{150}\\Rightarrow 2\\times10^6\\)Hz",
+        "correctIndex": 4,
+        "options": [
+            "4.5 x \\(10^{10}\\)Hz",
+            "5x \\(10^{9}Hz\\)",
+            "4.5 x \\(10^{8}Hz\\)",
+            "2 x \\(10^{7}Hz\\)",
+            "2 x \\(10^{6}Hz\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1997,
+        "question": "Which of the following statements about kinetic theory of matter is not correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "The molecules of matter are always in motion",
+            "When a body is heated the average kinetic energy of its molecules decreases",
+            "Molecules of a liquid move more freely than those of a solid",
+            "Matter is made up of very tiny particles called molecules",
+            "The molecules of a gas move more freely than those of a liquid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1997,
+        "question": "Which of the following is not correct about the Rutherford’s model of an atom?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "The mass of an atom is concentrated around the nucleus",
+            "The nucleus of an atom is positively charged",
+            "The nucleus is surrounded by the electron cloud",
+            "The model is applicable to atoms with only one electron in the outer shell",
+            "The diameter of the nucleus is \\(10^{-15}m\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1997,
+        "question": "The ratio of tensile stress to tensile strain is known as",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Modulus of integrity",
+            "Modulus of elasticity",
+            "Shear modulus",
+            "Bulk modulus",
+            "Young’s modulus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1997,
+        "question": "Which of the following statements is not true of nuclear fission?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Mother nucleus is broken into two daughter nuclei of roughly equal parts",
+            "Neutron is normally used in bombarding heavy nucleus",
+            "Two light nuclei are made to combine to form a heavy nucleus",
+            "Very enormous energy is released",
+            "There is an apparent loss of mass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1997,
+        "question": "When a paint brush is removed from clean water, the bristles of the brush are pulled together because of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "The viscosity of the surrounding air",
+            "The low density of water",
+            "Surface tension forces",
+            "The weight of the brush bristles",
+            "The mass of the brush bristles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1997,
+        "question": "The half-life of a radioactive material is 6hrs. What quantity of 1kg of the material would decay in 24 hours?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "15/16kg",
+            "1/2kg",
+            "1/4kg",
+            "1/8kg",
+            "1/16kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1997,
+        "question": "The odor of a leaking gas is perceived at a distance from the source. This is made possible by the process of",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Sublimation",
+            "Diffusion",
+            "Osmosis",
+            "Evaporation",
+            "Capillarity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1997,
+        "question": "Lenz’s law of electromagnetic induction is essentially a statement of the",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Inverse square law of gravitation",
+            "Inverse square law of magnetism",
+            "Inverse square law of electrostatics",
+            "Law of conservation of momentum",
+            "Law of conservation of energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1997,
+        "question": "The relationship between the directions of magnetic field, the current-carrying wire in the field is easily remembered using",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Octet rule",
+            "Right hand grip rule",
+            "Maxwell’s screw rule",
+            "Ampere’s swimming rule",
+            "Fleming’s left hand rule"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1997,
+        "question": "The current in the primary coil of a transformer is 2.5A. If the coil has 50 turns and the secondary250 turns, calculate the current in the secondary coil. Neglect energy losses in the transformer",
+        "explanation": "\\(\\frac{I_s}{I_p}=\\frac{n_p}{n_s}, I_s= \\frac{I_pn_p}{n_s}=\\frac{2.5\\times50}{250}\\Rightarrow0.5A\\)",
+        "correctIndex": 1,
+        "options": [
+            "0.2A",
+            "0.5A",
+            "2.5A",
+            "5A",
+            "12.5A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1997,
+        "question": "In a photocell, light energy is converted to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Electrical energy",
+            "Chemical energy",
+            "Heat energy",
+            "Mechanical energy",
+            "Kinetic energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1997,
+        "question": "Two identical waves traveling in the same direction are superimposed. What should be the phase difference between the waves for maximum destructive interference to occur?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "20°",
+            "45°",
+            "180°",
+            "225°",
+            "270°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1997,
+        "question": "When a resistor of resistance R is connected across a cell, the terminal p.d of the cell is reduced to three quarters of its e.m.f. The internal resistance of the cell is expressed as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "R/4",
+            "R/3",
+            "R/2",
+            "3R/4",
+            "3R"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1997,
+        "question": "A pipe open at both ends, produces a fundamental note. If the velocity of sound in air is V and L the length of the pipe, which of the following expresses the frequency of the note? Neglect end correction",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2V/L",
+            "V/2L",
+            "V/3L",
+            "V/4L",
+            "V/5L"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1997,
+        "question": "Which of the following statements is not correct?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "The pitch of a note depends on the frequency of the vibrating source",
+            "The loudness of a note depends on its intensity",
+            "The velocity of sound in air does not depend on the intensity of the note producing it",
+            "The overtones present in a note determine its quality",
+            "Wind speed effects on the speed of sound in air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1997,
+        "question": "<p>A progressive wave has a wavelength of 50cm. calculate the phase difference between two points at a distance of 20cm apart.</p>",
+        "explanation": "<p>Phase difference = \\(\\frac{2\\pi x}{\\lambda}\\)</p><p>= \\(\\frac{2\\pi \\times 20}{50}\\)</p><p>= \\(\\frac{4}{5} \\pi\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "10/3π",
+            "5/2 π",
+            "4/5 π",
+            "2/3 π",
+            "π/3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1997,
+        "question": "An alternating current with a peak value of 5A passes through a resistor of resistance 10Ω. Calculate the rate at which energy is dissipated in the resistor",
+        "explanation": "P=\\(I^2R= 25\\times 10=250W\\)",
+        "correctIndex": 0,
+        "options": [
+            "250W",
+            "125W",
+            "50W",
+            "35.4W",
+            "12.5W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1997,
+        "question": "The invisible part of the spectrum of a white light consists of the following colors",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Red, orange and yellow only",
+            "Infra-red, ultraviolet and blue only",
+            "Indigo and green only",
+            "Violet and red only",
+            "Ultra violet and infra-red only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1997,
+        "question": "Which of the following is not true of the similarities between a camera and the human eye?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Both the camera and the human eye have light proof interiors",
+            "Both the camera and the human eye have light sensitive screens",
+            "Inverted images are formed on the screen in both",
+            "The distance between the lens and the screen is fixed in both",
+            "The amount of light entering both the eye and the camera can be adjusted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1997,
+        "question": "The magnification produced with a converging lens is 5. If the object is a square wire gauze of side 2cm, calculate the area of the image",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "100\\(cm^3\\)",
+            "40\\(cm^3\\)",
+            "20\\(cm^3\\)",
+            "10\\(cm^3\\)",
+            "4\\(cm^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1997,
+        "question": "A magnet is being inserted into a coil of wire. On which of the following factors does the induced e.m.f in the coil depend? I. Number of turns in the coil II. Strength of the coil III. Speed with which magnet is inserted into the coil.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I, II,III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1997,
+        "question": "The current in a series R-L-C circuit attains its maximum value when the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Impedance is greater than the capacitive reactance",
+            "Inductive reactance is equal to the capacitive reactance",
+            "Inductive reactance is greater than the capacitive reactance",
+            "capacitive reactance is less than resistance",
+            "Inductive reactance is greater than the capacitive reactance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1997,
+        "question": "A charge of 1 x \\(10^{-5}\\)C experiences a force of 40N at a certain point in space. What is the magnitude of the electric field intensity at the point in Newton and couloumb",
+        "explanation": "\\(E= \\frac{F}{O}= \\frac{40}{1\\times10^{-5}}=4 \\times10^{6}\\)",
+        "correctIndex": 1,
+        "options": [
+            "8 x \\(10^{6}\\)",
+            "4 x \\(10^{6}\\)",
+            "3 x \\(10^{-4}\\)",
+            "2 x \\(10^{-4}\\)",
+            "5 x \\(10^{-7}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1997,
+        "question": "A capacitor of capacitance 25µF is connected to an a.c power source of frequency 200/πHz. Calculate the reactance of the capacitor",
+        "explanation": "\\(X_c=\\frac{1}{2\\pi{fc}}\\)=\\(\\frac{1}{2\\times\\pi\\times\\frac{200}{\\pi}\\times 25\\times 10^{-6}}=\\frac{10^6}{10^4}\\)=100 Ω",
+        "correctIndex": 3,
+        "options": [
+            "0.01Ω",
+            "0.02Ω",
+            "50Ω",
+            "100Ω",
+            "150Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1997,
+        "question": "During the electrolysis of copper (II) tetraoxosulphate (VI) solution, an ammeter shows a steady reading of 1A for 30minutes while 6.6 x \\(10^{-4}\\)kg of copper is liberated. Calculate the error in the ammeter The electrochemical equivalent of copper is 3.30 x \\(10^{-7}kgC{-1}\\)",
+        "explanation": "m=zIt, \\(I=\\frac{m}{zt}= \\frac{6.6\\times10^{-4}}{3.3 \\times10^{-7}\\times 1800}=1.1111\\\\ \\)error=1.1111-1.0=0.111A.",
+        "correctIndex": 2,
+        "options": [
+            "0.001A",
+            "0.011A",
+            "0.111A",
+            "1A",
+            "1.1A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1997,
+        "question": "In a nuclear reaction, the mass defect is 2 x \\(10^{-6}\\)g. Calculate the energy released given that the velocity of light is 3 x \\(10^{8}ms^{-1}\\)",
+        "explanation": "E=\\(mc^2 = 2\\times10^{-6} \\times10^{-3}\\times(3\\times10^{8})^2=1.8\\times10^{8}\\)",
+        "correctIndex": 1,
+        "options": [
+            "9 x \\(10^{7}\\)J",
+            "1.8 x \\(10^{8}\\)J",
+            "1.8 x \\(10^{9}\\)J",
+            "9 x \\(10^{-10}\\)J",
+            "3.6 x \\(10^{11}\\)J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1997,
+        "question": "An atom radiates 1.5 x \\(10^{-19}\\)J of energy when an electron jumps from one energy level to another. What is the wavelength of the emitted radiation? (Planck’s constant =6.6 x \\(10^{-34}\\)Js. Speed of light in air=3 x \\(10^{8}ms^{-1}\\)",
+        "explanation": "\\(E=\\lambda v=\\frac{hc}{\\lambda}\\Rightarrow\\lambda=\\frac{hc}{E}={6.6 \\times10^{-34}\\times3\\times10^8}{1.5\\times10^{-19}}\\\\=1.32\\times10^{-6}\\)",
+        "correctIndex": 0,
+        "options": [
+            "1.32 x \\(10^{-6}\\)m",
+            "2.98 x \\(10^{-6}\\)m",
+            "3.32 x \\(10^{-6}\\)m",
+            "6.82 x \\(10^{-6}\\)m",
+            "8.01 x \\(10^{-6}\\)m"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2017,
+        "question": "<p>Which is the incorrect formula for a body accelerating uniformly?</p>",
+        "explanation": "<p>Look through the equations of motion</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "a = v<sup>2</sup>− \\(\\frac{u^2}{2}\\)",
+            "v<sup>2</sup>= u<sup>2</sup>+ 2as",
+            "s = ut + \\(\\frac{1}{2}\\) at<sup>2</sup>",
+            "v<sup>2</sup>− u<sup>2</sup>= 2as"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2017,
+        "question": "Which of the following is not an electromagnetic radiation?",
+        "explanation": "Electromagnetic waves do not require any material medium, but sound waves is a mechanical wave that require a material medium<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "x - ray",
+            "Radio waves",
+            "sunlight",
+            "sound waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2017,
+        "question": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
+        "explanation": "Electric Field Intensity (E) = \\(\\frac{v}{d}\\)<br><br>= \\(\\frac{\\text{potential difference}}{\\text{distance}}\\)<br><br>= \\(\\frac{6.5v}{35cm}\\)<br><br>= \\(\\frac{6.5}{35 \\times 10^{- 2}}\\)<br><br>= 18.57NC\\(^{-1}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "18.57NC\\(^{-1}\\)",
+            "53.06N C\\(^{-1}\\)",
+            "2.28NC\\(^{-1}\\)",
+            "0.80NC\\(^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2017,
+        "question": "<p>Why do soldiers march disorderly while crossing a bridge?</p>",
+        "explanation": "<p>Soldiers march disorderly while crossing a bridge to prevent resonance because when soldiers march in orderly manner across a bridge, they generate a rhythmic oscillation of wave on the bridge and at a certain point, would start oscillation to the same rhythm as that of the marching steps. This oscillation would reach a maximum peak when the bridge can no longer sustain its own strength and hence collapses. So for this reasons, soldier are ordered to march disorderly while crossing a bridge.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "To prevent resonance on the bridge",
+            "To set the bridge into resonance",
+            "To make the b ridge collapse",
+            "To spread their weight evenly on the bridge"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2017,
+        "question": "<p>Calculate the upthrust on an object of volume 50cm3 which is immersed in liquid of density \\(10^{3}\\) kgm-3 [g = 10ms-2]</p>",
+        "explanation": "<p>Upthrust = change in weight<br>\n<br>\ndensity = \\(\\frac{\\text{mass}}{\\text{volume}}\\)<br>\n<br>\nMass of liquid displaced = Density of Liquid × Volume;<br>\n<br>\n= \\(10^{3} \\times 50 \\times 10^{−6}m^{3}\\)<br>\n<br>\n= 0.05kg<br>\n<br>\n(Note that the volume of \\(50cm^{3}\\) was converted to \\(m^{3}\\) by multiplying by \\(10^{6}\\)) i.e \\(50cm^{3} = 50 \\times 10^{−6}m^{3}\\)<br>\n<br>\nSince mass displaced = 0.05kg<br>\n<br>\nUpthrust = mg = 0.05 × 10<br>\n<br>\n= 0.5N</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.8N",
+            "2.5N",
+            "0.5N",
+            "1.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2017,
+        "question": "Under what conditions are cathode rays produced in a discharge tube?",
+        "explanation": "Cathode rays are produced in a discharge tube under Low pressure and high voltage<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "High pressure and low voltage",
+            "High pressure and high voltage",
+            "Low pressure and low voltage",
+            "Low pressure and high volatge"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2017,
+        "question": "Under which of the following conditions is workdone",
+        "explanation": "For work to be done, distance must be involved because<br>workdone = force × distance<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "A man supports a heavy food above his head with his hands",
+            "A boy climbs onto a table",
+            "A man pushes unto a table",
+            "A woman holds a pot of water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2017,
+        "question": "<p>Calculate the specific latent heat of vaporization of steam of 1.13 x 106J of heat energy is required to convert 15kg of steam to water.</p>",
+        "explanation": "<p>Quantity of heat = mass(m) × specific latent heat (L)<br>\nQ = mL<br>\nL = \\(\\frac{Q}{m}\\)<br>\n<br>\n= \\(\\frac{1.13 \\times 10^{6}}{15}\\)<br>\n<br>\n= \\(7.53 \\times 10^{4}\\)Jkg\\(^{-1}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "7.53 x 105 Jkg\\(^{-1}\\)",
+            "7.53 x 10-2Jkg\\(^{-1}\\)",
+            "\\(7.53 \\times 10^{4}\\)Jkg\\(^{-1}\\)",
+            "7.53 x 10-3Jkg\\(^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2017,
+        "question": "<p>A cell of internal resistance 2 π supplies current to a 6 π resistor. The efficiency of the cell is</p>",
+        "explanation": "<p>Internal resistance determine the maximum current that can be supplied<br>\n<br>\nEfficiency = \\(\\frac{r}{R}\\) × 100<br>\n<br>\n= \\(\\frac{2}{6}\\) × 100<br>\n<br>\n= 33.3%</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "12.0%",
+            "25.0%",
+            "33.3%",
+            "75.0%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2017,
+        "question": "Which of the following statements is NOT correct?",
+        "explanation": "Molecules of liquid are not stationary<br>Brownian motion is an evidence of particle nature of matter<br>matter is made up of molecules<br>The molecules of matter are in constant motion<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Molecules of a liquid are stationary",
+            "Brownian motion is an evidence of particle nature of matter",
+            "Matter is made up of molecules",
+            "The molecules of matter are in constant motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2017,
+        "question": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine",
+        "explanation": "Efficiency = \\(\\frac{ma}{V.R}\\) x \\(\\frac{100}{1}\\)<br><br>V.R = number of pulleys = 6<br><br>ma = \\(\\frac{\\text{Load}}{\\text{Effort}}\\) = \\(\\frac{200}{50}\\) = 4<br><br>Effiecieny = \\(\\frac{4}{6}\\) × 100 = 66.67%<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "80.0%",
+            "76.6%",
+            "66.7%",
+            "60.7%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2017,
+        "question": "Three 3ω resistance are connected in parallel what is the equivalent resistance?",
+        "explanation": "Resistor connected in a parallel have an equivalence given by<br>\\(\\frac{1}{\\text{Reff}}\\) = \\(\\frac{1}{3}\\) + \\(\\frac{1}{3}\\) + \\(\\frac{1}{3}\\)<br><br>= \\(\\frac{1 + 1 + 1}{3}\\) = \\(\\frac{3}{3}\\) = 1<br><br>Reff = 1ω<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1ω",
+            "9ω",
+            "3ω",
+            "0.33ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2017,
+        "question": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
+        "explanation": "Compressor is an instrument to supply air or other gas at increased pressure<br>Refrigerator is an appliance to keep things cold<br>Air blower is used to release air<br>Air conditioner is used to remove heat and maintain a stable temperature in an occupied space<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "A compressor",
+            "A refrigerator",
+            "Air blower",
+            "Air conditioner"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2017,
+        "question": "An element and its isotope only differ in the number of",
+        "explanation": "Isotopy is due to difference in mass number, what causes the difference is the difference in the number of neutrons present<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "protons",
+            "electrons",
+            "ions",
+            "neutrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2017,
+        "question": "<p>The S.I unit of moment of a force is</p>",
+        "explanation": "<p>Moment of a force is the product of a force and the perpendicular distance from the line of action of the force<br>\nMoment = force × distance<br>\n= N × m<br>\n= Nm</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "kgm",
+            "Nm",
+            "Jm",
+            "µm\\(^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2017,
+        "question": "<p>Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high</p>",
+        "explanation": "<p>Magnification = \\(\\frac{\\text{Length of camera}}{\\text{distance of object from pin hole}}\\)<br>\n<br>\nm = \\(\\frac{12}{60}\\)<br>\n<br>\n= 0.2<br>\n<br>\nAlso magnification m = \\(\\frac{\\text{Height of image}}{\\text{Height of object}}\\)<br>\n<br>\n∴ Height of image = m × height of object<br>\n<br>\n= 0.2 × 70<br>\n<br>\n= 14cm</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "10 cm",
+            "16 cm",
+            "5 cm",
+            "14 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2017,
+        "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is",
+        "explanation": "H = mcθ<br><br>H<sub>P</sub>= H<sub>Q</sub>, θ<sub>P</sub>= 2θ,<br><br>m<sub>P</sub>= \\(\\frac{1}{2}\\)m<sub>Q</sub><br><br>∴ H<sub>P</sub>= m<sub>Q</sub>C<sub>P</sub>θ<sub>P</sub>, also HQ = m<sub>Q</sub>C<sub>Q</sub>θ<sub>Q</sub><br><br>Since H<sub>P</sub>= H<sub>Q</sub><br><br>∴ m<sub>P</sub>c<sub>P</sub>θ<sub>P</sub>= m<sub>Q</sub>c<sub>P</sub>θ<sub>q</sub><br><br>Putting in the conditions<br><br>\\(\\frac{1}{2}\\)m<sub>Q</sub>× c<sub>P</sub>× 2θ<sub>Q</sub>= m<sub>Q</sub>× θ<sub>Q</sub>× c<sub>Q</sub><br><br>∴ c<sub>P</sub>= c<sub>Q</sub><br><br>\\(\\frac{C_p}{C_Q}\\)= \\(\\frac{1}{1}\\)<br><br>= 1:1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1:4",
+            "4:1",
+            "1:1",
+            "2:1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2017,
+        "question": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is",
+        "explanation": "The relationship between the peak value and r.m.s value of electricity supply is given as<br><br>V\\(_{r.m.s}\\) = \\(\\frac{V_o}{\\sqrt{2}}\\)<br><br>where V<sub>o</sub>= peak voltage<br><br>∴ V<sub>o</sub>= V\\(_{r.m.s}\\) × √2<br><br>= 240 × √2<br><br>= 339.5v<br><br>= 340v<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "240v",
+            "340v",
+            "480v",
+            "57600v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2017,
+        "question": "<p>Which of the following operations can be used to convert an alternative current dynamo into a direct current dynamo</p>",
+        "explanation": "<p>A d.c generator is one in which its current is allowed to flow in one direction even through it may vary in value an a.c generator can only be made to produce a d.c by replacing the two slip rings with a single split ring or commutator.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "number of turns in the coil is increased",
+            "strength of the field magnet is increased",
+            "slip rings are replaced with split ring commutator",
+            "coil is wound on a soft iron armature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/oTqFTxsokbK3KG4QYvfeHs2UKy8EElbMA2SmpkOH.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>For capacitance i n parallel, 2µF and 2µF are in parallel,<br>\ntheir equivalence is 2µF and 2µF = 4µF<br>\n<br>\nThe 4µF generated is now in series with the remaining 4µF.<br>\n<br>\nThe net capacitance for series connection is<br>\n<br>\n\\(\\frac{1}{C}\\) = \\(\\frac{1}{4}\\) + \\(\\frac{1}{4}\\) = 1 + \\(\\frac{1}{4}\\) = \\(\\frac{2}{4}\\)<br>\n<br>\nC = \\(\\frac{4}{2}\\)<br>\n<br>\n= 2µF</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "80µF",
+            "6.0µF",
+            "4.0µF",
+            "2.0µF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2017,
+        "question": "<p>The instrument used to measure the pressure of a gas is</p>",
+        "explanation": "<p>Barometer is used to measure atmosphere pressure<br>\nThermometer is used to measure temperature<br>\nHydrometer is used to measure relative density of a liquid<br>\nManometer is used to measure the pressure of a gas</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "barometer",
+            "thermometer",
+            "hydrometer",
+            "manometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2017,
+        "question": "A man of mass 50kg ascends a flight of stains 5m high in 5 seconds. If acceleration due to gravity is 10ms\\(^{-2}\\) the power expended is",
+        "explanation": "Power is the time rate of doing work<br><br>i.e power = \\(\\frac{\\text{energy}}{\\text{time}}\\)<br><br>Since energy = mgH<br><br>∴ power = \\(\\frac{mgH}{t}\\)<br><br>= \\(\\frac{50 \\times 10 \\times 5}{t}\\)<br><br>= 500W<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "100w",
+            "200w",
+            "400w",
+            "500w"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2017,
+        "question": "A radio station broadcast at a frequency of 600KHZ. If the speed of light in air is 3 × 108ms\\(^{−1}\\). Calculate the wavelength of the radio wave",
+        "explanation": "V = fλ<br><br>λ = \\(\\frac{v}{f}\\)<br><br>= \\(\\frac{3 \\times 10^8}{600 \\times 10^3}\\) = 500m<br><br>= 5 × 10<sup>2</sup>m<br><br>N.B 600KHz Frequency = 600 × 10<sup>3</sup>Hz<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.20 × 10\\(^3\\)m",
+            "5.0 × 10\\(^2\\)m",
+            "5.0 × 10\\(^5\\)m",
+            "11.8 × 10\\(^{11}\\)m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2017,
+        "question": "Which of the following is a scalar quantity?",
+        "explanation": "Scalar quantity is a quantity with only magnitude, it has no direction<br>Tension, weight, impulse are vector quantities because they have direction. Mass is the only scalar quantity there<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Tension",
+            "Weight",
+            "Impulse",
+            "Mass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2017,
+        "question": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres",
+        "explanation": "Power of a lens = \\(\\frac{1}{f}\\)<br><br>f = focal length<br><br>f = \\(\\frac{1}{p}\\)<br><br>= \\(\\frac{1}{5}\\)<br><br>= 0.2m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.1 m",
+            "0.2 m",
+            "2.0 m",
+            "2.5 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2017,
+        "question": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms\\(^{-2}\\)]",
+        "explanation": "From Hoke's Law, F = ke, K = Constant of Force<br><br>For he first case, Force = mg,<br><br>= 0.8 × 10 = 8N<br><br>∴ 8 = k × 0.04<br><br>k = \\(\\frac{8}{0.04}\\)<br><br>= \\(\\frac{200N}{m}\\)<br><br>Since K is constant<br><br>For the second case, F = ke<br><br>F = 200 × e<br><br>∴ e = \\(\\frac{F}{200}\\)<br><br>= \\(\\frac{16}{200}\\)<br><br>= 0.08m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.04m",
+            "0.12m",
+            "0.01m",
+            "0.08m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2017,
+        "question": "How can energy loss be minimized through Eddy-current?",
+        "explanation": "Eddy currents are produced by the varying flux cathode, the iron core of an equipment thus reducing efficiency due to power consumption. It can be reduced by laminating the core by breaking up the path of eddy current or by increasing the resistance of the core<br>Usage of insulated soft iron wire is to reduce hysteresis loss<br>Usage of low resistance wire (thick wire) is to reduce I2R loss<br>Usage of thick wire is to reduce leakage heat loss due to leakage of magnetic flux<br>Thus the correct answer is to use high resistance wire or thin wire<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "By using high resistance wire",
+            "By using insulated soft iron wires",
+            "By using low resistance wires",
+            "Bu using turns of wires"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7561985875_17_19.jpg\" class=\"img-fluid\">",
+        "explanation": "c = 8µF, v = 10v<br><br>Energy stored = \\(\\frac{1}{2}\\) cv<sup>2</sup><br><br>= \\(\\frac{1}{2}\\) × (8 × 10− 6) × 10<sup>2</sup><br><br>= 4 × 10\\(^{-4}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "4.0 x 10\\(^{-2}\\)J",
+            "4.0 x 10\\(^{-4}\\)J",
+            "8.0 x 10\\(^{-4}\\)J",
+            "8.0 x 10\\(^{-2}\\)J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2017,
+        "question": "<p>A constant force of 5N acts for 5 seconds on a mass of 5kg initially at rest. Calculate the final momentum</p>",
+        "explanation": "<p>Impulse = momentum<br>\n<br>\nImpulse = Force (f) × time (t)<br>\n<br>\nMomentum = mass (m) × velocity (v)<br>\n<br>\n∴ Ft = Final momentum - initial momentum<br>\n<br>\nFT = mv - mu<br>\n<br>\nSince it is initially at rest u = 0<br>\n<br>\n∴ 5 × 5 = mv − m(0)<br>\n<br>\n25 = mv<br>\n<br>\n∴ Final momentum = 25kgms\\(^{-1}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "125kgms−1",
+            "25kgms−1",
+            "15kgms−1",
+            "0kgms−1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2017,
+        "question": "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves?",
+        "explanation": "Refraction, Interference and diffraction are all properties of waves<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "II and III only",
+            "I, II and III",
+            "I and II only",
+            "I and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2017,
+        "question": "Which of the following is correct about an electric cell?",
+        "explanation": "About electric cell<br>Primary cells are used up gradually often the cells are use and it can't be recharged<br>Secondary cells or accumulated can be recharged and used for a long period of time and their main advantage is that they have low internal resistance<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Primary cell produces a large current for a long time",
+            "Secondary cell has a very high internal resistance",
+            "Primary cell has a very low internal resistance",
+            "Secondary cell has a very low internal resistance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2017,
+        "question": "Which of the following is a semiconductor",
+        "explanation": "Semi-conductor have an elecctric conductivity intermediate in value between that of a pure metal and a good insulator. Silicon is an example<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "copper",
+            "silicon",
+            "plastic",
+            "Iron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2017,
+        "question": "<p>Which of the following surfaces will absorb radiant heat energy?</p>",
+        "explanation": "<p>A black solution is a better radiator of heat and allow a better absorber of heat.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "white",
+            "red",
+            "black",
+            "blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2017,
+        "question": "It is known that a neutron exists in a light atomic nucleus<br>Which of the following also exists in the nucleus?",
+        "explanation": "Nucleus of atom is made up of neutron and proton<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "An electron",
+            "A β - particle",
+            "β - particle",
+            "proton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2017,
+        "question": "<p>The instrument to measure the relative density of liquid is</p>",
+        "explanation": "<p>Thermometer is used to measure temperature<br>\nHydrometer is used to measure relative density of liquid.<br>\nSpring balance is used to measure the weight of an object<br>\nBeaker is used to measure or take volume of a liquid</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "thermometer",
+            "hydrometer",
+            "spring balance",
+            "beaker"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2017,
+        "question": "What is the speed of a body vibrating at 50 cyclic per second",
+        "explanation": "1 cycle = 3600 = 2π rad<br><br>∴ 50 cycle = 2 π rad × 50 = 100 πrad<br><br>∴ = angular speed = 50 cycles per seconds = 100 π rads\\(_{−1}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "100 πrads\\(_{−1}\\)",
+            "200 πrads\\(_{−1}\\)",
+            "50 πrads\\(_{−1}\\)",
+            "400 πrads\\(_{−1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2017,
+        "question": "The action of blotting paper on ink is due to",
+        "explanation": "Capillarity is the tendency of a liquid to rise or fall in a narrow tube and it explains why a blotting paper absorbs ink<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "diffusion",
+            "osmosis",
+            "capillarity",
+            "surface tension"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2017,
+        "question": "<p>When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors</p>",
+        "explanation": "<p>When two mirror are inclined at an angle θ, the number of images formed, n = \\(\\frac{360}{\\theta}\\) − 1<br>\n<br>\n∴ since \\(\\theta\\) = 90o<br>\n<br>\n∴ \\(\\frac{360}{\\theta}\\) − 1<br>\n<br>\n= 4 − 1<br>\n<br>\n= 3</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2017,
+        "question": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
+        "explanation": "When silicon is doped with a trivalent atom. A p-type semi-conductor will be formed when silicon is doped with a pentavalent atom such as arsenic, a n-type semi-conductor will be formed<br>Phosphorous is a pentavalent element, so it will produce a o -type semi-conductor<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Zener material",
+            "P-n junction",
+            "n-type",
+            "p-type"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2017,
+        "question": "<p>Calculate the angle of minimum deviation of a 60º prism of a refractive index 1.5[ \\(sin^{-1}\\) (0.75) = 49º]</p><p> </p>",
+        "explanation": "<p>For a refractive index () = \\(\\frac{\\sin\\frac{1}{2} (A + D)}{\\sin\\frac{1}{2}A}\\)<br>\n<br>\nD = angle of minimum deviation<br>\n<br>\nA = refractive angle of the prism<br>\n<br>\n1.5 = \\(\\frac{\\sin\\frac{1}{2} (60 + D)}{\\sin\\frac{1}{2} \\times 60}\\)<br>\n<br>\n1.5 = \\(\\frac{\\sin\\frac{1}{2} (60 + D)}{\\sin 30}\\)<br>\n<br>\nSin \\(\\frac{1}{2}\\) (60 + D) = 1.5 * Sin 30<br>\n<br>\nSin \\(\\frac{1}{2}\\) (60 + D) = 0.75<br>\n<br>\n\\(\\frac{1}{2}\\) (60 + D) = Sin-1 (0.75)<br>\n<br>\nbut Sin-1 (0.75) = 49o<br>\n<br>\n\\(\\frac{1}{2}\\) (60 + D) = 49<br>\n<br>\n60 + D = 2 * 49 = 98o<br>\n<br>\nD = 98o - 60o<br>\n<br>\nD = 38o</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "38<sup>o</sup>",
+            "19.47<sup>o</sup>",
+            "16.25<sup>o</sup>",
+            "49<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2017,
+        "question": "<p>What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?</p>",
+        "explanation": "<p>Seven 40W lamps = 7 × 40 = 280W<br>\n<br>\nFive 80W lamps = 5 × 80 = 400W<br>\n<br>\nTotal power = 280W + 400W<br>\n<br>\n= 680W<br>\n<br>\n= \\(\\frac{680KW}{1000}\\) = 0.68KW<br>\n<br>\nThe kilowatt hour = 0.68 KW × 12 hrs<br>\n<br>\n= 8.16 KWh<br>\n<br>\nCost is N 7 per KWh<br>\n<br>\nSo the cost of running them = 8.16KWh × N 7/KWh<br>\n<br>\n= 57.12</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "N80.00",
+            "N45.36",
+            "N65.00",
+            "N57.12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6049880104_17_35.jpg\" class=\"img-fluid\">",
+        "explanation": "V = IR from ohms law<br><br>I = \\(\\frac{V}{R}\\)<br><br>Since the resistance are in parallel<br><br>\\(\\frac{1}{Reff}\\) = \\(\\frac{1}{8}\\) + \\(\\frac{1}{12}\\) + \\(\\frac{1}{6}\\)<br><br>= \\(\\frac{2 + 3 + 6}{36}\\) = \\(\\frac{11}{36}\\)<br><br>Reff = \\(\\frac{36}{11}\\) = 3.27<br><br>I = I<sub>1</sub>+ I<sub>2</sub>+ I<sub>3</sub><br><br>= \\(\\frac{V}{Reff}\\)= \\(\\frac{12}{3.27}\\)<br><br>= 3.669A<br><br>I = 3.7A<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "5.0A",
+            "3.7A",
+            "4.5A",
+            "4.0A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2017,
+        "question": "Calculate the time taken for a mango fruit that fall from the tree 20 m to the ground [g = 10 ms<sup>-2</sup>]",
+        "explanation": "u = , H = 20, g = 10<br><br>From equation of motion under gravity<br><br>H = ut ± \\(\\frac{1}{2}\\)gt<sup>2</sup>, It is falling so g is +ve<br><br>H = 0 + \\(\\frac{1}{2}\\)gt<sup>2</sup><br><br>H = \\(\\frac{1}{2}\\)gt<sup>2</sup><br><br>2H = gt<sup>2</sup><br><br>\\(\\frac{2H}{g}\\) = t<sup>2</sup><br><br>t = \\(\\frac{\\sqrt{2H}}{g}\\)<br><br>= \\(\\frac{\\sqrt {2 \\times 20}}{10}\\)<br><br>= √4<br><br>= 2s<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "10s",
+            "5s",
+            "4s",
+            "2s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2017,
+        "question": "Which of the following is not a mechanical wave?",
+        "explanation": "Mechanical waves require material medium for their propagation only radio waves among the options docs require a material medium<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "wave in closed pipe",
+            "radio waves",
+            "water waves",
+            "sound waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2017,
+        "question": "The velocity ratio of an inclined plane where angle of inclination in θ is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/10587301011_sol_17_48.jpg\" class=\"img-fluid\">\n</div>Consider an inclined plane shown below, as the effort moves along OB, the load moves is lifted up through a vertical height AB<br><br>V.R = \\(\\frac{\\text{distance moved by effort}}{\\text{distance moved by load}}\\) = \\(\\frac{OB}{AB}\\)<br><br>But Sinθ = \\(\\frac{opp}{hyp}\\) = \\(\\frac{AB}{OB}\\)<br><br>therefore; = \\(\\frac{OB}{AB}\\) = \\(\\frac{1}{\\sin \\theta}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Sinθ",
+            "Cosθ",
+            "Tanθ",
+            "\\(\\frac{1}{\\sin \\theta}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2017,
+        "question": "The volume of a fixed mass of gas is 10cm<sup>3</sup>when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
+        "explanation": "Using boyle's law<br><br>P<sub>1</sub>V<sub>1</sub>= P<sub>2</sub>V<sub>2</sub><br><br>V<sub>2</sub>= \\(\\frac{P_1 V_1}{200}\\) = \\(\\frac{400 \\times 10}{200}\\)<br><br>= 20cm<sup>3</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "30cm<sup>3</sup>",
+            "40cm<sup>3</sup>",
+            "50cm<sup>3</sup>",
+            "20cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2017,
+        "question": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
+        "explanation": "An atom can be represented thus,<br><br>\\(^{Z}_{A}X\\) where Z = mass number<br><br>A = atomic number<br><br>A = number of proton = number of electrons in a free state = 28<br><br>Z = number of protons + number of neutrons = 28 + 30 = 58<br><br>\\(^{58}_{28}X\\)is the representation<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(^{58}_{28}X\\)",
+            "\\(^{30}_{28}X\\)",
+            "\\(^{28}_{30}X\\)",
+            "\\(^{58}_{30}X\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2017,
+        "question": "<p>Which of the following is true of an electrical charge?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Positive charge means deficit electrons",
+            "Negative charge means excess of electrons",
+            "electric current means movement of electrons",
+            "All of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2017,
+        "question": "<p>Which of the following is not true of an electrical charge?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Negative charge means deficit electrons",
+            "Negative charge means excess of electrons",
+            "electric current means movement of electrons",
+            "All of the above"
+        ],
+        "type": "objectives"
+    }
+]

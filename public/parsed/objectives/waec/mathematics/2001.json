@@ -1,0 +1,786 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2001,
+        "question": "<p>Which of the following correctly expresses 48 as a product of prime factors?</p>",
+        "explanation": "<p>48 = 2 x 2 x 2 x 2 x 3</p>",
+        "correctIndex": 3,
+        "options": [
+            "3 x 4 x 4",
+            "2 x 3 x 8",
+            "2 x 2 x 2 x 3 x 4",
+            "2 x 2 x 2 x 2 x 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2001,
+        "question": "<p>Evaluate \\((20_{three})^2 - (11_{three})^2\\) in base three</p>",
+        "explanation": "<p>\\((20_{three})^2 - (11_{three})^2\\)</p><p>= \\((20_{3} - 11_{3})(20_{3} + 11_{3})\\)</p><p>= \\((2_{3})(101_{3})\\)</p><p>= \\(202_{3}\\) </p>",
+        "correctIndex": 2,
+        "options": [
+            "101",
+            "121",
+            "202",
+            "2020"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2001,
+        "question": "Evaluate \\(log_{10}5 + log_{10}20\\)",
+        "explanation": "\\(log_{10}5 + log_{10}20\\\\<br>log_{10}[5\\times 20]\\\\<br>log_{10}100\\\\<br>log_{10}10^2\\\\<br>2log_{10}10=2\\)",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2001,
+        "question": "<p>In a class of 80 students, every students studies Economics or Geography or both. If 65 students study Economics and 50 study Geography, how many study both subjects?</p>",
+        "explanation": "<p>Let c = no of students that offered both subjects</p><p>\\(\\therefore\\) No of students offering Economics = 65 - c</p><p>No of students offering Geography = 50 - c</p><p>65 - c + c + 50 - c = 80</p><p>115 - c = 80</p><p>c = 35</p><p>35 students offer both Economics and Geography.</p>",
+        "correctIndex": 2,
+        "options": [
+            "15",
+            "30",
+            "35",
+            "45"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2001,
+        "question": "If N varies directly as M and N = 8 when M = 20 find M when N = 7",
+        "explanation": "N ∝ M<br>∴N = kM where k is a constant<br>N = 8 when M = 20<br>∴ 8 = k x 20<br>\\(k = \\frac{8}{20} = \\frac{2}{5}\\\\<br>∴ N = \\frac{2}{5}M\\\\<br>If N = 7\\\\<br>∴ 7 = \\frac{2}{5}M\\\\<br>M = \\frac{35}{2} = 17\\frac{1}{2}\\)",
+        "correctIndex": 2,
+        "options": [
+            "13",
+            "15",
+            "\\(17\\frac{1}{2}\\)",
+            "\\(18\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2001,
+        "question": "Express 0.0462 in standard form",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.460 x 10<sup>-1</sup>",
+            "0.462 x 10<sup>-2</sup>",
+            "4.62 x 10<sup>-1</sup>",
+            "4.62 x 10<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2001,
+        "question": "<p>In a bag of oranges, the ratio of the good ones to the bad ones is 5:4. If the number of bad oranges in the bag is 36, how many oranges are there in the altogether?</p>",
+        "explanation": "<p>Ratio of good ones to bad ones is 5:4; If 36 is bad;</p><p>∴ the good ones = \\(\\frac{5\\times 36}{4}=45\\) oranges. </p><p>The total number of oranges is 36 + 45 = 81.</p>",
+        "correctIndex": 0,
+        "options": [
+            "81",
+            "72",
+            "54",
+            "45"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2001,
+        "question": "A boy estimated his transport fare for a journey as N190 instead of N200. Find the percentage error in his estimate",
+        "explanation": "The percentage error is \\(\\frac{error}{actual}\\times \\frac{100}{1}\\%\\\\<br>=\\frac{200-190}{200}\\times \\frac{100}{1}\\\\<br>=\\frac{10}{200}\\times \\frac{100}{1}\\% = 5\\%\\)",
+        "correctIndex": 3,
+        "options": [
+            "95%",
+            "47.5%",
+            "5.26%",
+            "5%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2001,
+        "question": "<p>Evaluate \\(5\\frac{2}{5}\\times \\left(\\frac{2}{3}\\right)^2\\div\\left(1\\frac{1}{2}\\right)^{-1}\\)</p>",
+        "explanation": "<p>\\(5\\frac{2}{5}\\times \\left(\\frac{2}{3}\\right)^2 ÷  \\left(1\\frac{1}{2}\\right)^{-1}\\\\<br>\n\\frac{27}{5}\\times \\frac{4}{9} \\times \\frac{3}{2}=3\\frac{3}{5}<br>\n\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{8}{25}\\)",
+            "\\(\\frac{12}{25}\\)",
+            "\\(3\\frac{3}{5}\\)",
+            "\\(4\\frac{1}{8}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2001,
+        "question": "<p>The nth term of a sequence is \\(2^{2n-1}\\). Which term of the sequence is \\(2^9?\\)</p>",
+        "explanation": "<p>\\(T_{n} = 2^{2n - 1}\\)</p><p>\\(2^{2n - 1} = 2^9\\)</p><p>\\(2n - 1 = 9 \\implies 2n = 9 + 1\\)</p><p>\\(2n = 10 \\implies n = 5\\)</p><p>The 5th term = 2\\(^9\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "3rd",
+            "4th",
+            "5th",
+            "6th"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2001,
+        "question": "<p>Evaluate \\(\\frac{1}{2}+\\frac{3}{4}of\\frac{2}{5}\\div 1\\frac{3}{5}\\)</p>",
+        "explanation": "<p>\\(\\frac{1}{2} + (\\frac{3}{4} \\text{ of } \\frac{2}{5}) \\div 1\\frac{3}{5}\\)</p><p>= \\(\\frac{1}{2} + (\\frac{3}{4} \\times \\frac{2}{5}) \\div \\frac{8}{5}\\)</p><p>= \\(\\frac{1}{2} + \\frac{3}{10} \\div \\frac{8}{5}\\)</p><p>= \\(\\frac{1}{2} + (\\frac{3}{10} \\times \\frac{5}{8})\\)</p><p>= \\(\\frac{1}{2} + \\frac{3}{16}\\)</p><p>= \\(\\frac{11}{16}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{15}{16}\\)",
+            "\\(\\frac{11}{16}\\)",
+            "\\(\\frac{49}{50}\\)",
+            "\\(3\\frac{1}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2001,
+        "question": "A man is four times as old as his son. The difference between their ages is 36 years Find the sum of their ages",
+        "explanation": "Let the sons age be x. The father is 4x<br>∴ 4x - x = 36; 3x = 36; x = 12<br>The son is 12 years and the father is 12 x 4 = 48.<br>The sum of their ages (12 + 48) years = 60years",
+        "correctIndex": 2,
+        "options": [
+            "45 years",
+            "48 years",
+            "60 years",
+            "74 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2001,
+        "question": "<p>Given that y = px + q and y = 5 when x = 3, while y = 4 when x = 2, find the value of p and q.</p>",
+        "explanation": "<p>y = px + q</p><p>5 = 3p + q ... (i)</p><p>4 = 2p + q ... (ii)</p><p>(i) - (ii) : p = 1</p><p>\\(\\therefore\\) 5 = 3(1) + q </p><p>\\(\\implies\\) q = 5 - 3 = 2</p><p>(p, q) = (1, 2)</p>",
+        "correctIndex": 1,
+        "options": [
+            "p = 1, q = 3",
+            "p = 1, q = 2",
+            "p = -2, q = 3",
+            "p = 3, q = -2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2001,
+        "question": "<p>Evaluate \\(\\frac{x^2 + x - 2}{2x^2 + x -3}\\) when x = -1</p>",
+        "explanation": "<p>\\(\\frac{x^2 + x - 2}{2x^2 + x - 3}\\)</p><p>= \\(\\frac{x^2 + 2x - x - 2}{2x^2 + 3x - 2x - 3}\\)</p><p>= \\(\\frac{x(x + 2) - 1(x + 2)}{x(2x + 3) - 1(2x + 3)}\\)</p><p>= \\(\\frac{(x - 1)(x + 2)}{(x - 1)(2x + 3)}\\)</p><p>= \\(\\frac{x + 2}{2x + 3}\\)</p><p>At x = -1, </p><p>= \\(\\frac{-1 + 2}{2(-1) + 3}\\)</p><p>= \\(\\frac{1}{1}\\)</p><p>= 1</p>",
+        "correctIndex": 3,
+        "options": [
+            "-2",
+            "-1",
+            "\\(-\\frac{1}{2}\\)",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2001,
+        "question": "<p>Factorize \\(6x^2 + 7x - 20\\)</p>",
+        "explanation": "<p>\\(6x^2 + 7x - 20\\)</p><p>= \\(6x^2 + 15x - 8x - 20\\)</p><p>= \\(3x(2x + 5) - 4(2x + 5)\\)</p><p>= \\((3x - 4)(2x + 5)\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "(6x - 5)(x + 4)",
+            "2(3x-5)(x+2)",
+            "(3x+4)(2x-5)",
+            "(3x-4)(2x+5)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2001,
+        "question": "<p>Simplify \\(\\frac{2x-1}{3}-\\frac{x+3}{2}\\)</p>",
+        "explanation": "<p>\\(\\frac{2x - 1}{3} - \\frac{x + 3}{2}\\)</p><p>= \\(\\frac{2(2x - 1) - 3(x + 3)}{6}\\)</p><p>= \\(\\frac{4x - 2 - 3x - 9}{6}\\)</p><p>= \\(\\frac{x - 11}{6}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{x+3}{6}\\)",
+            "\\(\\frac{x+8}{6}\\)",
+            "\\(\\frac{x-11}{6}\\)",
+            "\\(\\frac{x-4}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2001,
+        "question": "<p>If \\(\\frac{y-3}{2}&lt;\\frac{2y-1}{3}\\), which of the following is true?</p>",
+        "explanation": "<p>\\(\\frac{y - 3}{2} &lt; \\frac{2y - 1}{3}\\)</p><p>\\(3(y - 3) &lt; 2(2y - 1)\\)</p><p>\\(3y - 9 &lt; 4y - 2\\)</p><p>\\(3y - 4y &lt; -2 + 9\\)</p><p>\\(-y &lt; 7\\)</p><p>\\(y &gt; -7\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "y &gt; 7",
+            "y &lt; -7",
+            "y &gt; -7",
+            "y &lt; 7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2001,
+        "question": "<p>if \\(\\frac{4m+3n}{4m-3n}=\\frac{5}{2}\\), find the ratio m:n</p>",
+        "explanation": "<p>\\(\\frac{4m + 3n}{4m - 3n} = \\frac{5}{2}\\)</p><p>\\(5(4m - 3n) = 2(4m + 3n)\\)</p><p>\\(20m - 15n = 8m + 6n\\)</p><p>\\(20m - 8m = 6n + 15n\\)</p><p>\\(12m = 21n\\)</p><p>\\(\\frac{21}{12} = \\frac{m}{n}\\)</p><p>\\(m : n = 7 : 4\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "7:4",
+            "4:3",
+            "3:4",
+            "4:7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2001,
+        "question": "If \\(2x^2 + kx - 14 = (x+2)(2x-7)\\), find the value of K",
+        "explanation": "\\(2x^2 + kx - 14 = (x+2)(2x-7)\\\\<br>∴2x^2 + kx - 14 = 2x^2 - 3x - 14\\)<br>equating coefficient K = -3",
+        "correctIndex": 0,
+        "options": [
+            "-3",
+            "5",
+            "9",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2001,
+        "question": "<p>which of the following is not quadratic expression?</p>",
+        "explanation": "<p>A quadratic equation is an equation of the second order. The highest power in the equation is 2.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(y = 2x^2 - 5x\\)",
+            "\\(y=x(x-5)\\)",
+            "\\(y = x^2 - 5\\)",
+            "y = 5(x-1)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2001,
+        "question": "<p>The graph of the curve \\(y = 2x^2 - 5x - 1\\) and a straight line PQ were drawn to solve the equation \\(2x^2 - 5x + 2 = 0\\)<br>\nWhat is the equation of the straight line PQ?</p>",
+        "explanation": "<p>Let the straight line PQ = y</p><p>2x\\(^2\\) - 5x - 1 - y = 2x\\(^2\\) - 5x + 2</p><p>y = 2x\\(^2\\) - 5x - 1 - 2x\\(^2\\) + 5x - 2 </p><p>y = -3</p>",
+        "correctIndex": 3,
+        "options": [
+            "y = -1",
+            "y = 1",
+            "y = 3",
+            "y = -3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2001,
+        "question": "<p>Subtract (-y + 3x + 5z) from (4y - x - 2z)</p>",
+        "explanation": "<p>(4y - x - 2z) - (-y + 3x + 5z)</p><p>= 4y + y - x - 3x - 2z - 5z</p><p>= 5y - 4x - 7z</p>",
+        "correctIndex": 0,
+        "options": [
+            "5y - 4x - 7z",
+            "3y + 2x + 3z",
+            "-5y + 4x + 7z",
+            "2x - 5y + 3z"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2001,
+        "question": "<p>If \\(y \\propto \\frac{1}{\\sqrt{x}}\\) and x = 16 when y = 2, find x when y = 24</p>",
+        "explanation": "<p>\\(y \\propto \\frac{1}{\\sqrt{x}}\\)</p><p>\\(y = \\frac{k}{\\sqrt{x}}\\)</p><p>When x = 16, y = 2.</p><p>\\(2 = \\frac{k}{\\sqrt{16}} \\implies 2 = \\frac{k}{4}\\)</p><p>\\(k = 8\\)</p><p>\\(y = \\frac{8}{\\sqrt{x}}\\)</p><p>When y = 24,</p><p>\\(24 = \\frac{8}{\\sqrt{x}}\\)</p><p>\\(\\sqrt{x} = \\frac{8}{24} = \\frac{1}{3}\\)</p><p>\\(\\therefore x = (\\frac{1}{3})^2\\)</p><p>\\(x = \\frac{1}{9}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{9}\\)",
+            "\\(\\frac{1}{6}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2001,
+        "question": "If 2x : (x +1) = 3:2, what is the value of x?",
+        "explanation": "\\(2x : (x + 1) = 3:2\\\\<br>\\frac{2x}{x+1}=\\frac{3}{2}\\\\<br>∴ 4x = 3x + 3 x =3\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{2}\\)",
+            "1",
+            "\\(1\\frac{1}{2}\\)",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2001,
+        "question": "<p>The bearing S40°E is the same as</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/Untitled_LI%281%29.jpg\" style=\"height:223px; width:250px\"></p><p>= 90° + 50°</p><p>= 140°</p>",
+        "correctIndex": 3,
+        "options": [
+            "040<sup>o</sup>",
+            "050<sup>o</sup>",
+            "130<sup>o</sup>",
+            "140<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2001,
+        "question": "Given that sin \\(P = \\frac{5}{13}\\), where p is acute, find the value of cos p - tan p",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/18183122412_wamath0127.jpg\" class=\"img-fluid\">\n</div>If \\(sin P = \\frac{5}{13}\\) from right angled triangle from pythagoras theorem<br>\\(BC^2 = 13^2 - 5^2\\\\<br>=169-25\\\\<br>BC = \\sqrt{144} = 12\\\\<br>∴ cos P - tan P = \\frac{12}{13} - \\frac{5}{12}\\\\<br>=\\frac{79}{156}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{79}{156}\\)",
+            "\\(\\frac{85}{156}\\)",
+            "\\(\\frac{7}{13}\\)",
+            "\\(\\frac{8}{1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2001,
+        "question": "<p>Three observation posts P,Q and R are such that Q is due east of P and R is due north of Q. If |PQ| = 5km and |PR| = 10km, find |QR|</p>",
+        "explanation": "<p>\\((PR)^2 = (PQ)^2 + (QR)^2\\)</p><p>\\(10^2 = 5^2 + (QR)^2\\)</p><p>\\((QR)^2 = 100 - 25\\)</p><p>\\(QR = \\sqrt{75}\\)</p><p>= \\(8.660\\)</p><p>\\(\\approxeq\\) 8.7 km</p>",
+        "correctIndex": 3,
+        "options": [
+            "5.0km",
+            "7.5km",
+            "7.6km",
+            "8.7km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2001,
+        "question": "<p>Express 25° 45' in decimal (Hint: 1° = 60')</p>",
+        "explanation": "<p>25° 45' = 25° + \\(\\frac{45}{60}\\)°</p><p>= 25° + 0.75°</p><p>= 25.75°</p>",
+        "correctIndex": 0,
+        "options": [
+            "25.75<sup>o</sup>",
+            "25.55<sup>o</sup>",
+            "25.45<sup>o</sup>",
+            "25.15<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2001,
+        "question": "<p>A box contains 5 red, 3 green and 4 blue balls. A boy is allowed to take away two balls from the box. What is the probability that the two balls are red?</p>",
+        "explanation": "<p>Total number of balls = 5 + 3 + 4 </p><p>= 12 balls</p><p>P(first ball is red) = \\(\\frac{5}{12}\\)</p><p>P(second ball is red) = \\(\\frac{4}{11}\\)</p><p>\\(\\therefore\\) P(both balls are red) = \\(\\frac{5}{12} \\times \\frac{4}{11}\\)</p><p>= \\(\\frac{5}{33}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{5}{33}\\)",
+            "\\(\\frac{5}{36}\\)",
+            "\\(\\frac{103}{132}\\)",
+            "\\(\\frac{31}{36}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2001,
+        "question": "<p>A box contains 5 red, 3 green and 4 blue balls. A boy is allowed to take away two balls from the box.<em> </em>What is the probability that one is green and the other is blue?</p>",
+        "explanation": "<p>Total number of balls = 5 + 3 + 4 = 12 balls</p><p>P(one ball is green and the other is blue) = P(first ball is green and second blue) + P(first ball is blue and the second green)</p><p> = \\(\\frac{3}{12} \\times \\frac{4}{11} + \\frac{4}{12} \\times \\frac{3}{11}\\)</p><p>= \\(\\frac{2}{11}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{2}{11}\\)",
+            "\\(\\frac{5}{12}\\)",
+            "\\(\\frac{8}{12}\\)",
+            "\\(\\frac{7}{11}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2001,
+        "question": "If the probability that an event will occur is p and the probability that it will not occur is q, which of the following is true?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "p-q=1",
+            "q-p=0",
+            "p+q=1",
+            "p+q=0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19582875424_wamath0133.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Range = 30.5 - 10.5</p><p>= 20 years</p>",
+        "correctIndex": 1,
+        "options": [
+            "14 years",
+            "20 years",
+            "30.5 years",
+            "31 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13987770610_wamath0133.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "22.5 years",
+            "23.0 years",
+            "24.0 years",
+            "27.5 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1398777743_wamath0133.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Total number of students = 20 + 16 + 10 + 6</p><p>= 52 students</p>",
+        "correctIndex": 2,
+        "options": [
+            "25",
+            "30",
+            "52",
+            "55"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2001,
+        "question": "<p>Which of the following is not the the size of an exterior angle of a regular polygon?</p>",
+        "explanation": "<p>The size of an exterior angle = \\(\\frac{360}{n}\\)</p><p>From the options, all options can perfectly divide 360°, except 21°.</p>",
+        "correctIndex": 3,
+        "options": [
+            "15<sup>o</sup>",
+            "18<sup>o</sup>",
+            "20<sup>o</sup>",
+            "21<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10494781304_cc.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; PQS = 50° (PQ = PR)</p><p>&lt; PQS = &lt; SPQ = 50° (QS = PS)</p><p>In triangle PSQ, &lt; PQS + &lt; QPS + &lt; PSQ = 180°</p><p>50° + 50° + &lt; PSQ = 180°</p><p>&lt; PSQ = 180° - 100° = 80°</p>",
+        "correctIndex": 1,
+        "options": [
+            "75<sup>o</sup>",
+            "80<sup>o</sup>",
+            "85<sup>o</sup>",
+            "95<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23988046160_scantt.jpg\" class=\"img-fluid\">",
+        "explanation": "cos\\(\\alpha\\) = \\(\\frac{10}{16}\\) = 0.625<br><br>\\(\\alpha\\) = cos<sup>-1</sup>(0.625)<br><br>= 51.3<sup>o</sup><br><br>∠PQR = 2\\(\\alpha\\)<br><br>= 2(51.3<sup>o</sup>)<br><br>= 102.6<br><br>= 103<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "51<sup>o</sup>",
+            "64<sup>o</sup>",
+            "77<sup>o</sup>",
+            "103<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22380494976_wamath0139.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In \\(\\Delta\\) PRQ, &lt; SRQ = 90° - 58°</p><p>&lt; SRQ = &lt; QTS = x (angles in the segment)</p><p>\\(\\therefore\\) x = 32°</p>",
+        "correctIndex": 1,
+        "options": [
+            "29<sup>o</sup>",
+            "32<sup>o</sup>",
+            "42<sup>o</sup>",
+            "53<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2001,
+        "question": "<p>A chord of length 30cm is 8cm away from the center of the circle. What is the radius of the circle. What is the perimeter of the sector? Take \\(\\pi =\\frac{22}{7}\\)</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5595143820_wamath0144ans.jpg\" class=\"img-fluid\">\n</div><p>From the diagram<br>\n\\(r^2 = B^2 + 15^2\\\\<br>\n= 64 + 225\\\\<br>\nr = \\sqrt{289} = 17cm\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "16cm",
+            "17cm",
+            "18cm",
+            "20cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2001,
+        "question": "<p>A sector of a circle radius 14 cm subtends an angle 135° at the center of the circle. What is the perimeter of the sector? Take \\(\\pi = \\frac{22}{7}\\)</p>",
+        "explanation": "<p>Perimeter of the sector = \\(2r + \\frac{\\theta}{360} \\times 2\\pi r\\)</p><p>= \\(2(14) + \\frac{135}{360} \\times 2 \\times \\frac{22}{7} \\times 14\\)</p><p>= \\(28 + 33\\)</p><p>= 61 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "47cm",
+            "61cm",
+            "88cm",
+            "231cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20981845515_wamath0146.jpg\" class=\"img-fluid\">",
+        "explanation": "Using similar triangles<br>\\(\\frac{3}{16}=\\frac{4}{x}\\\\<br>x = \\frac{18\\times4}{3}=24cm^2\\)<br>∴Area of quadrilateral MPQN<br>\\(=24cm^2 - 18cm^2 = 6cm^2\\)",
+        "correctIndex": 1,
+        "options": [
+            "3cm<sup>2</sup>",
+            "6cm<sup>2</sup>",
+            "14cm<sup>2</sup>",
+            "24cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22380644864_wamath0147.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In \\(\\Delta\\) RQP, QR\\(^2\\) + QP\\(^2\\) = RP\\(^2\\)</p><p>3\\(^2\\) + QP\\(^2\\) = 5\\(^2\\)</p><p>QP\\(^2} = 5\\(^2\\) - 3\\(^2\\)</p><p>QP = \\(\\sqrt{16}\\)</p><p>= 4 cm </p><p>\\(\\therefore\\) Area = \\(\\frac{1}{2} \\times base \\times height\\)</p><p>= \\(\\frac{1}{2} \\times 3 \\times 4\\)</p><p>= 6 cm\\(^2\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "4 cm<sup>2</sup>",
+            "6cm<sup>2</sup>",
+            "15cm<sup>2</sup>",
+            "20cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8393112204_wamath0147.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Volume of prism = Area x height</p><p>In \\(\\Delta\\) RQP, QR\\(^2\\) + QP\\(^2\\) = RP\\(^2\\)</p><p>3\\(^2\\) + QP\\(^2\\) = 5\\(^2\\)</p><p>QP\\(^2} = 5\\(^2\\) - 3\\(^2\\)</p><p>QP = \\(\\sqrt{16}\\)</p><p>= 4 cm </p><p>\\(\\therefore\\) Area = \\(\\frac{1}{2} \\times base \\times height\\)</p><p>= \\(\\frac{1}{2} \\times 3 \\times 4\\)</p><p>= 6 cm\\(^2\\)</p><p>Volume = 6 x 7</p><p>= 42 cm\\(^3\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "28cm<sup>2</sup>",
+            "42cm<sup>2</sup>",
+            "70cm<sup>2</sup>",
+            "84cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2001,
+        "question": "<p>A solid cylinder of radius 7cm is 10 cm long. Find its total surface area.</p>",
+        "explanation": "<p>S = \\(2\\pi r^2 + 2\\pi rh\\)</p><p>= \\(2\\pi r(r + h)\\)</p><p>= \\(2\\pi (7) (7 + 10)\\)</p><p>= \\(238\\pi cm^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(70\\pi cm^2\\)",
+            "\\(189\\pi cm^2\\)",
+            "\\(210\\pi cm^2\\)",
+            "\\(238\\pi cm^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25179467958_wamath0150.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(24\\sqrt{3} cm^2\\)",
+            "\\(36\\sqrt{3} cm^2\\)",
+            "\\(42\\sqrt{3} cm^2\\)",
+            "\\(72\\sqrt{3} cm^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2001,
+        "question": "<p>The variance of a given distribution is 25. What is the standard deviation?</p>",
+        "explanation": "<p>S.D = \\(\\sqrt{Variance}\\)</p><p>= \\(\\sqrt{25}\\)</p><p>= 5</p>",
+        "correctIndex": 3,
+        "options": [
+            "125",
+            "75",
+            "25",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2001,
+        "question": "<p>Given that P = {b, d, e, f} and Q = {a, c, f, g} are subsets of the universal set U = {a,b, c, d, e, f, g}. Find P' ∩ Q</p>",
+        "explanation": "<p>U = {a, b, c, d, e, f, g}</p><p>P = {b, d, e, f}</p><p>Q = {a, c, f, g}</p><p>P' = {a, c, g}</p><p>P' \\(\\cap\\) Q = {a, c, g}</p>",
+        "correctIndex": 3,
+        "options": [
+            "{a,c}",
+            "{a, c, d, g}",
+            "{c, d, g}",
+            "{a, c, g}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15389298914_wamath028.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\bar{RP} = 3 - (-2)\\)</p><p>= 5</p>",
+        "correctIndex": 1,
+        "options": [
+            "6",
+            "5",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2001,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/2%281%29.jpg\" style=\"height:66px; width:250px\"></p><p>The number line represents</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0 &gt; x \\(\\geq\\) -7",
+            "-7 \\(\\leq\\) x &lt; -1",
+            "-7 &lt; x \\(\\leq\\) -1",
+            "-7 &lt; x &lt; -1"
+        ],
+        "type": "objectives"
+    }
+]

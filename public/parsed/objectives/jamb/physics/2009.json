@@ -1,0 +1,788 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2009,
+        "question": "I. Diameter of a small ball bearing.<br>II. Thickness of a pieces of paper.<br>III. Diameter of a measuring cylinder.<br>IV. Length of a piece of wire.<br>Which of the above can be measured using a micrometer screw gauge?",
+        "explanation": "Of all the instruments used in measuring length,the micrometer screw gauge has the highest reading accuracy (0.01 mm), and is therefore used in measuring very small length such as diameter of a small ball bearing, and thickness of a piece of paper.",
+        "correctIndex": 1,
+        "options": [
+            "I, II and IV only .",
+            "I and II only",
+            "II and III only",
+            "III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2009,
+        "question": "What is the acceleration between two points on a velocity time graph which has coordinates<br>(10s, 15 ms<sup>-1</sup>)<br>and (20 s, 35 ms<sup>-1</sup>)?",
+        "explanation": "Acceleration = (AV)/At = (V<sub>2</sub>) - U<sub>1</sub>)/t<sub>2</sub>- t<sub>1</sub>= (35 - 15)/20 - 10 = (20)/10 = 2m5<sup>-2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "1.7 ms<sup>-2</sup>",
+            "3.50 ms<sup>-2</sup>",
+            "1.00 ms<sup>-2</sup>",
+            "2.00 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2009,
+        "question": "A bullet fired vertically from upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0s. calculate its initial velocity.<br><br><br>[g = 10ms<sup>-2</sup>]",
+        "explanation": "At maximum height, the final velocity, v = 0<br>thus from v = u + at<br>0 = u - at<br>∴ U = at = 10 x 4 = 40 mls",
+        "correctIndex": 2,
+        "options": [
+            "10 ms<sup>-1</sup>",
+            "8 ms<sup>-1</sup>",
+            "40 ms<sup>-1</sup>",
+            "20 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2009,
+        "question": "I. The motion of the tyres of a moving car.<br>II. The motion of a loaded test tube oscillated<br>vertically.<br>III. The beating of the heart.<br>IV. A stone tied to a string and whirled round.<br>V. The motion of the pistons in a gasoline engine.<br>Which of the motions above is simple harmonic?",
+        "explanation": "Simple harmonic motion is the motion of a body whose acceleration is directed towards a fixed point and is directly proportional to its displacement from point.",
+        "correctIndex": 1,
+        "options": [
+            "III, IV and V only",
+            "II, III and V only",
+            "II, III and IV only",
+            "I,II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2009,
+        "question": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended?<br><br><br>[g = 10 ms<sup>2</sup>]",
+        "explanation": "Power = (work done)/time taken = (mgh)/t<br>= (750 x 10 x 90)/60 = 11250w = 11.25kw",
+        "correctIndex": 2,
+        "options": [
+            "11.50 kw",
+            "12.60 kw",
+            "11.25 kw",
+            "12.10 kw"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2009,
+        "question": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction.<br><br><br>[g = 10 ms<sup>-2</sup>]",
+        "explanation": "coefficient of friction = (F)/R = (F)/ mg = (500)/80 x 10<br>= 0.625",
+        "correctIndex": 3,
+        "options": [
+            "0.8",
+            "0.4",
+            "1.0",
+            "0.6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2009,
+        "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal. its velocity ratio will be",
+        "explanation": "V.R = (1)/sinθ = (1)/sin 30 = (1)/(1)/2 = 2",
+        "correctIndex": 3,
+        "options": [
+            "3.0",
+            "3.1",
+            "3.2",
+            "2.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2009,
+        "question": "I. Density of the liquid.<br>II. Acceleration due to gravity.<br>III. Type of container of the liquid.<br>IV. The constituents of the liquid.<br>which of the above conditions will NOT affect the pressure of fluid?",
+        "explanation": "pressure in fluid is given by P = hlg.<br>∴ fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall 8. it is therefore independent of type of container and constituents of the liquid",
+        "correctIndex": 2,
+        "options": [
+            "I and III only",
+            "II and III only",
+            "III and IV only",
+            "I and II only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2009,
+        "question": "If a load of mass 10N stretched a cord by 1.2cm, what is the total work done?",
+        "explanation": "Work done on a stretched cord<br>= Average force x extension<br>= (10 + 0)/2 x 1.2 x 10<sup>-2</sup><br>= 6.0 x 10<sup>-2</sup>J",
+        "correctIndex": 0,
+        "options": [
+            "6.0 x 10<sup>-2</sup>J",
+            "7.6 x 10<sup>-2</sup>J",
+            "1.8 x 10<sup>-2</sup>J",
+            "6.6 x 10<sup>-2</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2009,
+        "question": "A plastic sphere floats in water with 50% of its volume submerged. if it floats in glycerine with 40% of its volume submerged,the density of the glycerine is?",
+        "explanation": "Weight of glycerine displaced = weight of water dispalced<br>Mgh glycerine = Mgh water<br>Pvgh glycerine = Pvgh water<br>0.4V P glycerine = (0.5v)/v.4v P water = 1.25<br>(Polycerine)/p water =<br>But density of substance = relative density x density of water = 1. 25 x 1000kgm<sup>3</sup>= 1250kgm<sup>-3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "1400 kgm<sup>-3</sup>",
+            "1250 kgm<sup>-3</sup>",
+            "500 kgm<sup>-3</sup>",
+            "1000 kgm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2009,
+        "question": "The thermometer whose reading is indicated by a change in colour of its thermometric property is the?",
+        "explanation": "A pyrometer is instrument for measuring high temperature.<br>The optical pyrometer is one in which the luminous radiation from the hot body is compared with that from a known source.",
+        "correctIndex": 3,
+        "options": [
+            "bi-metalic strip thermometer",
+            "thermocouple",
+            "platinium resistance thermometer",
+            "optical pyrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2009,
+        "question": "At 4°c, the volume of a fixed mass of water is?",
+        "explanation": "Anomalous expansion of water is at temperature ranges 0°c to 4°c u. water contract when heated from 0°c to 4°c. thus the volume of water is least at 4°c",
+        "correctIndex": 1,
+        "options": [
+            "constant",
+            "minimum",
+            "maximum",
+            "zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2009,
+        "question": "An electric heater rated 220v, 1000 w is immersed into a bucket full of water, calculate the mass of water if the temperature changes from 30°c to 100°c and the current flows for 300seconds.<br><br>[specific heat capacity of water = 4200 jkg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "Energy supplied bythe heater = heater gained by water<br>pt = MCAθ<br>1000 x 300 = m x 4200(100 - 30)<br>m = (1000 x 300)/4200 x 70 = 1.02 kg",
+        "correctIndex": 2,
+        "options": [
+            "4.28 kg",
+            "42.86 kg",
+            "1.02 kg",
+            "7.14 kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2009,
+        "question": "If the pressure of the vapour on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
+        "explanation": "Liquid boils when its sup. is equal to the atmospheric pressure.",
+        "correctIndex": 1,
+        "options": [
+            "room temperature",
+            "boiling point",
+            "freezing point",
+            "standard temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2009,
+        "question": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. the time required to boil of the water is_______<br><br>[Special latent heat of Vaporization of water = 2.3 x 10<sup>6</sup>Jkg<sup>-1</sup>]",
+        "explanation": "Heat supplied = Heat gained<br>pt = ml<br>T = (ml)/p = (2 x 2.3 x 10<sup>6</sup>)/1000 = 4.6 x 10<sup>3</sup>sec",
+        "correctIndex": 3,
+        "options": [
+            "1.15 x 10<sup>4</sup>s",
+            "1.15 x 10<sup>3</sup>s",
+            "4.6 x 10<sup>4</sup>s",
+            "4.6 x 10<sup>3</sup>s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2009,
+        "question": "It is observed that water will wet a clean glass because the",
+        "explanation": "When the adhesion of liquid molecules to the glass is more than the cohesion of the liquid, the liquid will wet glass.",
+        "correctIndex": 3,
+        "options": [
+            "cohesion of water to glass is stronger than the cohesion of water molecules",
+            "adhesion of water molecules is weaker than the cohesion of water to glass",
+            "cohesion of water to glass is weaker than the cohesion of water molecules",
+            "adhesion of water molecules is stronger than the cohesion of water molecules"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2009,
+        "question": "<p>A man standing 2 m from a charcoal fire is warmed mainly by</p>",
+        "explanation": "<p>Radiation is the method of heat transfer with or without a material medium. It can be through space or through a material medium.</p>",
+        "correctIndex": 1,
+        "options": [
+            "convection",
+            "radiation",
+            "refraction",
+            "conduction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2009,
+        "question": "Metal cables are used as telephone wires because",
+        "explanation": "The speed of sound is highest in solid, being about 500, units in steel rod",
+        "correctIndex": 3,
+        "options": [
+            "they are cheap",
+            "they are sourced locally",
+            "the speed of sound in them is very low",
+            "the speed of sound in them is very high"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2009,
+        "question": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their",
+        "explanation": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.",
+        "correctIndex": 0,
+        "options": [
+            "quality",
+            "pitch",
+            "intensity",
+            "loudness"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2009,
+        "question": "I. Moon.<br>II. Sun.<br>III.street light.<br>IV. stars.<br>Which of these above is a natural source of light?",
+        "explanation": "The sun and stars are self luminous object.",
+        "correctIndex": 3,
+        "options": [
+            "II, III, and IV only",
+            "I, II and III only",
+            "III and IV only",
+            "II and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2009,
+        "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
+        "explanation": "u = 5 cm , f = 10 cm, v = ?<br>(1)/v + (1)/u = (1)/f<br>(1)/v + (1)/5 = (1)/10<br>= (1)/v = (1)/10 = (1)/5 = (1 - 2)/10 = (1)/10<br>∴ v = - 10 cm<br>∴ The image is 10 cm behind the mirror",
+        "correctIndex": 2,
+        "options": [
+            "10 cm in front of the mirror.",
+            "5 cm in front of the mirror",
+            "10 cm behind the mirror",
+            "5 cm behind the mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2009,
+        "question": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
+        "explanation": "f = -12 cm, v = - 6 cm<br>(1)/v + (1)/u =(1)/f<br>(1)/-6 + (1)/u = (1)/-12<br>(1)/u = (1)/-12 + (1)/6 = (1 + 2)/12 = (1)/12<br>∴ u = 12 cm",
+        "correctIndex": 2,
+        "options": [
+            "4. 0 cm",
+            "3. 0 cm",
+            "12.0 cm",
+            "9.0 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2009,
+        "question": "If the refractive index of crown glass is 1.51, its critical angel is.",
+        "explanation": "Sin c = (1)/n<br>= (1)/1.51 = 0.6622<br>∴ c = sin +0.6622 = 41.47",
+        "correctIndex": 2,
+        "options": [
+            "48.6°",
+            "22.5°",
+            "41.5°",
+            "45.0°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2009,
+        "question": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
+        "explanation": "Since 1.51, the refractive index of X is greater than 1.33, the refractive index of y, the speed of light in y is higher than that in X",
+        "correctIndex": 3,
+        "options": [
+            "x is same as in y",
+            "x and y is same as in vacuum",
+            "x is higher than in y",
+            "y is higher than in x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2009,
+        "question": "The ability of the human eye to focus object on the retina is referred to as the power of",
+        "explanation": "The leaves collapse as the position charges on the rod neutralize the negative charges on the electroscope",
+        "correctIndex": 2,
+        "options": [
+            "interference",
+            "diffraction",
+            "accomodation",
+            "superposition"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2009,
+        "question": "Which of the following is a secondary colour",
+        "explanation": "Primary colours are red, blue and green<br>∴ orange is a secondary colour",
+        "correctIndex": 1,
+        "options": [
+            "blue",
+            "orange",
+            "red",
+            "green"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2009,
+        "question": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will",
+        "explanation": "The leaves collapse as the positive charges on the rod neutralize the negative charges on the electroscope.",
+        "correctIndex": 0,
+        "options": [
+            "close up",
+            "become positively charged",
+            "become negatively charged",
+            "open further"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2009,
+        "question": "An electric lamp marked 240v, 60 W is left to operate for an hour. How much energy is generated by the filament?",
+        "explanation": "Energy generated = power X time = 60w x 1h = 60 x 60 x 60 ws = 216000j = 2.16 x 10<sup>5</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "3.86 x 10<sup>5</sup>J",
+            "3.56 x 10<sup>5</sup>J",
+            "1.80 x 10<sup>4</sup>J",
+            "2.16 x 10<sup>5</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2009,
+        "question": "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f.",
+        "explanation": "Number of tunes, n = 500<br>Area, A = 0.2m + 0.2m = 0.4m<sup>2</sup><br>change of flux density A B<br>= 1.0 - 0.4 = 0.6T<br>Tune, t = 5 su<br>Induced emf, ξ = (AB AN)/AT<br>(0.6 x 0. 04 x 500)/5<br>= 2.4v",
+        "correctIndex": 3,
+        "options": [
+            "5.60 v",
+            "24.00 v",
+            "0.24 v",
+            "2.40 v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2009,
+        "question": "Cancerous cells can be destroyed by",
+        "explanation": "Canorous cells can be destroyed with a high penetrating radiation which is x - rays",
+        "correctIndex": 2,
+        "options": [
+            "ultraviolet rays",
+            "alpha particules",
+            "x - rays",
+            "infrared rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2009,
+        "question": "If the decay constant of a radioactive substance is 0.231s<sup>1</sup>, the half-life is?",
+        "explanation": "Half-life, T (1)/2 = (0.693)/∆ = (0.693)/ 0.231 = 3.0sec",
+        "correctIndex": 0,
+        "options": [
+            "3.00 s",
+            "0.12 s",
+            "0.33 s",
+            "1.50 s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2009,
+        "question": "A piece of radioactive material contains 10<sup>20</sup>atoms.<br>If the half life of the material is 20 seconds, the number of disintegration in the first second is",
+        "explanation": "The number of disintegration,∆N in time interval At, is given by<br>- ∆N = N∆t<br>Where N is the number of atoms present at the time t<br>But ^ = (0.693)/T<br>∴ ∆N = (0.693)/1(1)/2 N∆t = (0.693 x 10)<sup>20 x 10</sup>/20 = 3.47 x 10<sup>18</sup>",
+        "correctIndex": 0,
+        "options": [
+            "3.47 x 10<sup>18</sup>",
+            "6.93 x 10<sup>20</sup>",
+            "3.47 x 10<sup>20</sup>",
+            "6.93 x 10<sup>18</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2009,
+        "question": "Thermionic emission is the process whereby",
+        "explanation": "Thermionic emission is ejection of electron from a metal surface as a result of heating.",
+        "correctIndex": 3,
+        "options": [
+            "β - rays are produced",
+            "holes are produced",
+            "x - rays are produced",
+            "electrons leave a hot element"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2009,
+        "question": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
+        "explanation": "Metals are good conductors due to the presence of free electrons",
+        "correctIndex": 3,
+        "options": [
+            "germanium",
+            "silicon",
+            "grapefruit",
+            "copper"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2009,
+        "question": "When a pentavalent impurity is added to a pure semiconductor, it becomes",
+        "explanation": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.",
+        "correctIndex": 1,
+        "options": [
+            "a p-type semiconductor",
+            "an n-type semiconductor",
+            "an insulator",
+            "an intrinsic semi-conductor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2009,
+        "question": "The value of x, y and z respectively in the expression M<sup>x</sup>L<sup>y</sup>T<sup>z</sup>for the universal gravitational constant G are",
+        "explanation": "<table><tbody><tr><td rowspan=\"2\">F ∝ </td><td style=\"border-bottom:solid 1px\">M<sub>1</sub>M<sub>2</sub></td></tr><tr><td>__r<sup>2</sup></td></tr></tbody></table><br><br><table><tbody><tr><td rowspan=\"2\">=&gt; F = </td><td style=\"border-bottom:solid 1px\">GM<sub>1</sub>M<sub>2</sub></td></tr><tr><td>__r<sup>2</sup></td></tr></tbody></table><br>where F is the force of attraction<br>M<sub>1</sub>and M<sub>2</sub>are masses of the two bodies, r is the distance between them, and G is the universal gravitational constant<br><table><tbody><tr><td rowspan=\"2\">∴ G = </td><td style=\"border-bottom:solid 1px\">_Fr<sup>2</sup></td></tr><tr><td>M<sub>1</sub>M<sub>2</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">∴ dimension for force, F = </td><td style=\"border-bottom:solid 1px\">ML</td><td rowspan=\"2\"> = MLT<sup>-2</sup></td></tr><tr><td>T.T</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">The dimension for G = </td><td style=\"border-bottom:solid 1px\">MLT<sup>-2</sup>L<sup>2</sup></td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">L<sup>3</sup>T<sup>-2</sup></td></tr><tr><td>_MM</td><td>_M</td></tr></tbody></table><br>= M<sup>-1</sup>L<sup>3</sup>T<sup>-2</sup><br>In comparison with M<sup>x</sup>L<sup>y</sup>T<sup>z</sup>, the values for x, y and z = -1, 3, -2",
+        "correctIndex": 1,
+        "options": [
+            "2, -3, -2",
+            "-1, 3, -2",
+            "-1, 2, -3",
+            "-2, -1, 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2009,
+        "question": "An air craft attempt too fly due north at 100 kmh<sup>-1</sup>. If the wind blows against it from east to west at 60 kmh<sup>-1</sup>, its resultant velocity is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/6820293435_phy20093.jpg\" class=\"img-fluid\">\n</div>R<sup>2</sup>= 100<sup>2</sup>+ 60<sup>2</sup><br>10000 + 3600 = 13600<br>R = √13600 = 117km<br>60kml &amp; = tan =<sup>60</sup>/<sub>100</sub><br>tan<sup>-1</sup>0.6<br>= 31<sup>o</sup>west of the North<br>117km N31<sup>o</sup>w",
+        "correctIndex": 2,
+        "options": [
+            "117 kmh<sup>-1</sup>, N31<sup>o</sup>E",
+            "127 kmh<sup>-1</sup>, N31<sup>o</sup>E",
+            "117 kmh<sup>-1</sup>, N31<sup>o</sup>W",
+            "127 kmh<sup>-1</sup>, N31<sup>o</sup>W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2009,
+        "question": "A car accelerate uniformly from rest at 4 ms<sup>-2</sup>. How far will it travel in the fifth complete second?",
+        "explanation": "From S = ut +<sup>1</sup>/<sub>2</sub>at<sup>2</sup><br>S =<sup>1</sup>/<sub>2</sub>ut<sup>2</sup>, since U = 0<br>Let S<sub>5</sub>= distance in 5 seconds<br>=<sup>1</sup>/<sub>2</sub>x 4 x 5<sup>2</sup>= 2 x 25 = 50m<br>S<sub>4</sub>= distance covered in 4 seconds<br>=<sup>1</sup>/<sub>2</sub>x 4 x 4<sup>2</sup>= 2 x 16 = 32m<br>Distance covered in the fifth second<br>S<sub>5</sub>- S<sub>4</sub>= 50m - 32m = 18m",
+        "correctIndex": 3,
+        "options": [
+            "100 m",
+            "50m",
+            "32 m",
+            "18 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2009,
+        "question": "A body of mass 12kg traveling at 4.2ms<sup>-1</sup>collides with a second body of mass 18kg at rest. Calculate their common velocity if the two bodies coalesce after collision",
+        "explanation": "Sum of momentum before collision<br>M<sub>1</sub>U<sub>1</sub>+ M<sub>2</sub>M<sub>2</sub><br>12 x 4.2 + 18 x 0<br>12 x 4.2<br>= 50.4<br>Sum of momentum after collision<br>(m<sub>1</sub>+ m<sub>2</sub>)v<br>= (12 + 18)v<br>= 30v<br>V =<sup>50.4</sup>/<sub>30</sub><br>= 1.7ms<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "1.5 ms<sup>-1</sup>",
+            "1.4 ms<sup>-1</sup>",
+            "2.1 ms<sup>-1</sup>",
+            "1.7 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2009,
+        "question": "The terminal velocity of a ball-bearing falling through a viscous fluid reached when the",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8184384432_phy200913.jpg\" class=\"img-fluid\">\n</div>At vt = terminal velocity<br>= zero acceleration<br>= uniform velocity",
+        "correctIndex": 3,
+        "options": [
+            "upthrust is equal to the weight of the ball",
+            "ball accelerate uniformly",
+            "upthrustis equal to the velocity of the ball",
+            "velocity is uniform"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2009,
+        "question": "The pressure of two moles of an ideal gas at a temperature of 27<sup>o</sup>C and volume 10<sup>-2</sup>m<sup>3</sup>is<br>[R = 8.313 J mol<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "PV = nRT<br><table><tbody><tr><td rowspan=\"2\">∴ P = </td><td style=\"border-bottom:solid 1px\">nRT</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">2 x 8.313 x 300</td></tr><tr><td>_V</td><td>___10<sup>-2</sup></td></tr></tbody></table><br>= 4.987 x 10<sup>5</sup>Nm<sup>-2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "4.99 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "9.80 x 10<sup>3</sup>Nm<sup>-2</sup>",
+            "4.98 x 10<sup>3</sup>Nm<sup>-2</sup>",
+            "9.80 x 10<sup>5</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15005233331_phy200926.jpg\" class=\"img-fluid\">",
+        "explanation": "Diffraction is spreading of wave after passing through a slit",
+        "correctIndex": 2,
+        "options": [
+            "reflection",
+            "deflection",
+            "diffraction",
+            "refraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9548787269_phy200915.jpg\" class=\"img-fluid\">",
+        "explanation": "F = Ke (Hooks law)<br>K =<sup>F</sup>/<sub>e</sub>=<sup>80</sup>/<sub>4</sub><br>= 20 Nm<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "20 Nm<sup>-1</sup>",
+            "40 Nm<sup>-1</sup>",
+            "30 Nm<sup>-1</sup>",
+            "10 Nm<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2009,
+        "question": "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?<br>[c = 3 x 10<sup>8</sup>ms<sup>-1</sup>]",
+        "explanation": "f = c/λ<br><table><tbody><tr><td rowspan=\"2\"> ∴ f = </td><td style=\"border-bottom:solid 1px\">c</td><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">3 x 10<sup>8</sup></td></tr><tr><td>λ</td><td>500 x 10<sup>9</sup></td></tr></tbody></table><br>=6.0 x 10<sup>14</sup>Hz",
+        "correctIndex": 1,
+        "options": [
+            "3.0 x 10<sup>14</sup>Hz",
+            "6.0 x 10<sup>14</sup>Hz",
+            "6.0 x 10<sup>12</sup>Hz",
+            "2.5 x 10<sup>14</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17733488513_phy200940.jpg\" class=\"img-fluid\">",
+        "explanation": "<sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>R<sub>1</sub></sub>+<sup>1</sup>/<sub>R<sub>2</sub></sub>=<sup>1</sup>/<sub>3</sub>+<sup>1</sup>/<sub>6</sub><br>=<sup>3</sup>/<sub>6</sub><br>∴ R =<sup>6</sup>/<sub>3</sub>= 2<br>E = I(R + r) = 4(2 + 0) = 8v",
+        "correctIndex": 1,
+        "options": [
+            "12 V",
+            "8 V",
+            "2 V",
+            "36 V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20422277148_pa.jpg\" class=\"img-fluid\">",
+        "explanation": "V =<br>√ (v<sub>1</sub>+ v<sub>2</sub>)<sup>2</sup>+ V<sub>R</sub><sup>2</sup><br><br><br><br>V =<br>√ (40 + 110)<sup>2</sup>+ 80<sup>2</sup><br><br><br>V =<br>√ (-70)<sup>2</sup>+ 80<sup>2</sup><br><br>=<br>√ 4900 + 6400<br><br>=<br>√ 11300<br><br>= 106.3v",
+        "correctIndex": 3,
+        "options": [
+            "116.3 V",
+            "50.0 V",
+            "230.0 V",
+            "106.3 V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2009,
+        "question": "A binary operation \\(\\otimes\\) defined on the set of integers is such that m \\(\\otimes\\) n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{-5}{4}\\)",
+            "\\(\\frac{-5}{6}\\)",
+            "o",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2009,
+        "question": "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of",
+        "explanation": "Comparing y = 10Sin\\( (1000\\pi t - \\frac{\\pi x}{34} ) \\\\<br>\\text{With } y = a \\text{Sin }(net - kx)\\\\<br>K = \\frac{\\pi}{34}, \\text{and phase difference}\\\\<br><br>J = KAC = \\frac{\\pi}{34} \\times 1.53rad.\\\\<br><br>\\text{But} \\pi rad = 180^0 \\\\<br>\\text{Therefore } \\frac{1.53rad}{34} = \\frac{1.53 \\pi}{34} \\times \\frac{1}{\\pi} \\times 180^0 \\\\<br>=8.1^0 \\)",
+        "correctIndex": 4,
+        "options": [
+            "270<sup>0</sup>",
+            "45<sup>0</sup>",
+            "90<sup>0</sup>",
+            "180<sup>0</sup>",
+            "No Correct Option"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2009,
+        "question": "A near sighted student has a near point of 0.1m and a focal length of 5.0cm. What is the student's far point?",
+        "explanation": "The person's image distance v will be at the distance of 0.1m = 10cm for him to see objects at a distance of u.F = 5.0cm<br><br>\\( \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\implies \\frac{1}{10} + \\frac{1}{u} = \\frac{1}{5} \\\\<br><br>\\frac{1}{u} = \\frac{1}{5} - \\frac{1}{10} = \\frac{2-1}{10} = \\frac{1}{10} \\\\<br><br>\\text{therefore } u = 10cm = 0.1m \\)",
+        "correctIndex": 4,
+        "options": [
+            "0.200m",
+            "8.000m",
+            "0.125m",
+            "2.100m",
+            "No Correct Option"
+        ],
+        "type": "objectives"
+    }
+]

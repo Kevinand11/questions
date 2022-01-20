@@ -1,0 +1,92 @@
+[
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1998,
+        "question": "<p>(a) Define cross elasticity of demand.<br>\n(b) The table below shows the response of quantity demanded to changes in price for three pairs of commodities.<br>\nUse the table to answer the questions that follow. </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td colspan=\"1\" rowspan=\"2\"><strong>Commodity</strong></td>\n<td colspan=\"2\" rowspan=\"1\"><strong>changes in price</strong></td>\n<td colspan=\"1\" rowspan=\"2\"><strong>commodity</strong></td>\n<td colspan=\"2\" rowspan=\"1\"><strong>Changes in Quantity Demanded</strong></td>\n</tr>\n<tr>\n<td><strong>Original Price (<del>N</del>)</strong></td>\n<td><strong>New price (<del>N</del>)</strong></td>\n<td><strong>Original Quantity (kg)</strong></td>\n<td><strong>New Quantity (kg)</strong></td>\n</tr>\n<tr>\n<td>Bread</td>\n<td>15</td>\n<td>20</td>\n<td>Yam</td>\n<td>150</td>\n<td>200</td>\n</tr>\n<tr>\n<td>Beef</td>\n<td>25</td>\n<td>40</td>\n<td>Fish</td>\n<td>1,000</td>\n<td>3,000</td>\n</tr>\n<tr>\n<td>Butter</td>\n<td>100</td>\n<td>50</td>\n<td>Margarine</td>\n<td>250</td>\n<td>400</td>\n</tr>\n</tbody>\n</table><p> </p>",
+        "answer": "<p>(a)Cross elasticity of demand is the degree of responsiveness of demand for a commodity to changes in the price of another commodity. It is the proportionate change in the quantity of goods (x) demanded over the proportionate change in the price of another goods (y) demanded.<br>\n= <ins>% change in quantity demanded of commodity x </ins><br>\n           ,% change in price of commodity y<br>\n<strong>or </strong><br>\nchange \\(\\frac{QX} {QX} \\times \\frac{PY} {DPY}\\) </p><p>b(i) Cross elasticities of demand for bread and yam<br>\nLet X = Yam, Y = Bread<br>\nNew demand = 200kg,<br>\nInitial demand = 150kg<br>\nChange in demand = 200 -150 = 50kg<br>\nInitial price = N15,<br>\nNew price = N20<br>\nChange in price = 20 - 15 = <del>N</del>5<br>\n\\(\\frac{200-150} {150}\\) x 100  = 33.3%</p><p>\\(\\frac{20 -15}  {15}\\) x 100 = 33.3%</p><p><strong> or</strong></p><p>change <ins>QX </ins> x  <ins>PY </ins>= <ins>50 </ins>x <ins>15  </ins>= <ins>750 </ins>= 1<br>\n             Py       Qx     5    150    750 </p><p>(ii) Beef and fish: Let x = fish, y = Beef<br>\nInitial demand = 1000kg,<br>\nNew demand = 3000kg<br>\nChange in demand = 3000 - 1000 = 2000kg<br>\n Initial price = N25<br>\nNew price = N40<br>\nChange in price = N40 - N25 = N15</p><p>Cross elasticity = change in \\(\\frac{Qx}{Qx} \\times \\frac{Py}{Py}\\)</p><p>\\(\\frac{2000}{1000} \\times \\frac{25}{15}\\)</p><p>= \\(\\frac{10}{3}\\) = 3.3 </p><p><strong>or</strong></p><p>\\(\\frac{3000-1000} {1000}\\) x 100= \\(\\frac{200}{60}\\) = 3.3</p><p>\\(\\frac{40-20} {25}\\) x 100</p><p><strong>iii </strong>Let x = Margarine,<br>\ny = Butter<br>\nInitial demand = 250kg<br>\nNew demand = 400kg<br>\nChange in demand = 400 - 250 = 150kg<br>\nInitial price = N100<br>\nNew price = N150<br>\nChange in price = N150 - N100 = N50<br>\nCross elasticity = \\(\\frac{-QX}{QX}\\)<br>\n\\(\\frac{PY}{PY}\\)</p><p>= \\(\\frac{150}{50} \\times \\frac{100}{50}\\) = \\(\\frac{6}{5}\\) = 1.2</p><p><strong>or </strong></p><p>\\(\\frac{400 - 250}{250}\\) x 100</p><p>= \\(\\frac{60}{50}\\) = 1.2</p><p>\\(\\frac{150 - 100}{100}\\) x 100 =50</p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1998,
+        "question": "<p>The table here shows the sectoral allocation of a country's budget. Illustrate the data accurately with a pie-chart. Show your workings clearly.</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td><strong>Sector</strong></td>\n<td><strong>Amount (<del>N </del>million)</strong></td>\n</tr>\n<tr>\n<td>Health</td>\n<td>30</td>\n</tr>\n<tr>\n<td>Education</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Housing</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Manufacturing</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Agriculture</td>\n<td>20</td>\n</tr>\n</tbody>\n</table><p> </p>",
+        "answer": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td><strong>Sector</strong></td>\n<td><strong>Amount (<del>N </del>million)</strong></td>\n</tr>\n<tr>\n<td>Health</td>\n<td>30</td>\n</tr>\n<tr>\n<td>Education</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Housing</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Manufacturing</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Agriculture</td>\n<td>20</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>100</strong></td>\n</tr>\n</tbody>\n</table><p>Health sector = \\(\\frac{30}{100} \\times \\frac{360°}{1}\\) = 108º</p><p>Education sector = \\(\\frac{25}{100} \\times \\frac{360º}{1}\\) = 90°</p><p>Housing sector = \\(\\frac{15}{100} \\times \\frac{360º}{1}\\) = 54° </p><p>Manufacturing sector= \\(\\frac{10}{100} \\times  \\frac{360º}{1}\\) = 36</p><p> Agricultural sector = \\(\\frac{20}{100} \\times \\frac{360º}{1}\\) = 72° </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1998,
+        "question": "<p> (a) What is meant by production?<br>\n(b) Explain with examples, the following types of production<br>\n(i) Primary;<br>\n(ii) Secondary;<br>\n(iii) Tertiary. </p>",
+        "answer": "<p>(a) <strong>Production; </strong>can be described as the creation of utility. It is any activity which results in the creation of goods and services and the distribution of these to the final consumers in order to satisfy human wants.</p><p><strong>(b)(i)Primary production;</strong> forms the basis of further production. This refers to the extraction of raw materials in their natural form from land, sea and air. For example, products from agriculture, mining and fisheries are primary products.</p><p><strong>(ii) Secondary production:</strong> Secondary production entails the conversion of basic raw materials or semi-completed commodities to their final forms that are acceptable to the consumers. Processed goods such as garri, clothes, houses are examples of products of secondary production.</p><p><strong>(iii) Tertiary production:</strong> This is the third sector of production which includes commercial and professional services. All those who provide commercial services such as wholesalers, retailers and transporters are involved in tertiary production. These include persons who perform direct / professional services such as doctors, barbers, salesmen and lawyers <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1998,
+        "question": "<p>Give any five reasons why public corporations are established in Nigeria.<br>\n </p>",
+        "answer": "<p><strong>Reasons why public corporations are established in Nigeria are: </strong><br>\n(i) Public corporations are established to avoid wasteful duplication of capital resources.<br>\n(ii) To provide infrastructural facilities like roads and railways on which returns may not be forthcoming and which may, therefore, not attract investment from the private sector.<br>\n(iii) To prevent monopolistic tendencies resulting in very high prices or charges if undertaken by private enterprises e.g. water, electricity etc.<br>\n(iv) Enterprise may require heavy capital outlay that may not be affordable to private enterprises e.g. electricity generation projects.<br>\n(v) Control of key industries such as defence or the oil industry in Nigeria in which the government cannot afford competition for strategic reason.<br>\n(vi) Government engages itself in economic activities in order to provide essential services at subsidized rates e.g. water.<br>\n(vii) To avoid wasteful duplication of capital resources.<br>\n(vii) To ensure higher standard by services such as education which require very expensive facilities that may not be affordable to the private sector. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1998,
+        "question": "<p> Account for the decline in the contribution of agriculture to the Gross Domestic Product (GDP) of Nigeria. <br>\n </p>",
+        "answer": "<p><strong>The decline in the contribution of agriculture to the Gross Domestic Product (GDP) of Nigeria can be attributed to: </strong><br>\n(i) Land tenure system<br>\n(ii) Pests and diseases<br>\n(iii) Inadequate storage facilities<br>\n(iv) Inadequate capital<br>\n(v) Increasing rural - urban movement, which is affecting the agricultural sector adversely<br>\n(vi) The use of crude implements like cutlasses and hoes<br>\n(vii) Poor application of research findings<br>\n(viii) The emergence of oil and oil products, i.e. petroleum etc which has led to the neglect of agriculture<br>\n(ix) The wage rate in other sectors has been increasing especially construction and services while the agricultural sector remains stagnant<br>\n(x) Poor infrastructural facilities<br>\n(xi) High level of illiteracy <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1998,
+        "question": "<p>(a) What is Labour Force?<br>\n(b) Explain four factors affecting the size of the labour force. </p>",
+        "answer": "<p>(a) Labour force refers to persons available to supply the labour for the production of economic goods and services. Labour force is the working population and it comprises all persons who have jobs and who are seeking for jobs in the labour market. They are between the ages of 18 years and 60 years.</p><p><strong>(b) Factors affecting the size of labour force are: </strong><br>\n(i) Size of population of the country.<br>\n(ii) Number of working hours and working days.<br>\n(iii) Statutory entry and retirement ages.<br>\n(iv) Proportion of the labour force willing and able to work<br>\n(v) Official school-leaving age.<br>\n(vi) Proportion of women in the labour force.<br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1998,
+        "question": "<p>State any five reasons why the use of money has replaced the barter system in modern economic transaction. </p>",
+        "answer": "<p><strong>Reasons why the use of money has replaced the barter system in modern economic transactions: </strong></p><p>(i) Barter makes specialization of labour to be limited because barter system encourages self sufficiency.</p><p>(ii) Prob-lem of the determination of the rate of exchange between two commodities</p><p>(iii) Problem of coincidence of wants: It is difficult to find one who has what you want and wants what you have.</p><p>(iv) Many goods cannot be divided into convenient sizes because of their bulkiness and indivisibility.</p><p>(v) Barter makes the question of deferred payment difficult because it is not possible to guarantee that the item paid back will be of identical size, state and quantity as the one borrowed.</p><p>(vi) The difficulty of storing wealth or value especially where the form of exchange is perishable e.g. oranges, yams etc. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1998,
+        "question": "<p>Describe any five functions of the Central Bank of Nigeria (CBN). </p>",
+        "answer": "<p><strong>Functions of Central Bank of Nigeria: </strong><br>\n(i) It is the banker to the various commercial and other banks in the country just like commercial banks are bankers to the public.<br>\n(ii) It controls, regulates and supervises commercial and other banks.<br>\n(iii) It issues the Nigerian currency and protects the Nigerian gold reserve.<br>\n(iv) It is an agent and banker to the Nigerian Government.<br>\n(v) The central bank is the lender of last resort. Commercial banks seek help from the Central Bank when they are in financial difficulties.<br>\n(vi) It controls the size of money in circulation in the Nigerian economy by instruments such as open market operations, the bank rate, special deposits, etc.<br>\n(vii) The central bank manages the national debts.<br>\n(viii) It maintains external reserve.<br>\n(ix) It manages the foreign exchange of the country. <br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1998,
+        "question": "<p>Why does a country restrict her international trade? </p>",
+        "answer": "<p><strong> A country may impose restriction on trade for the following reasons: </strong><br>\n(i) To raise revenue.<br>\n(ii) To protect infant industries.<br>\n(iii) To maintain high level of employment.<br>\n(iv) To prevent the country from becoming a dumping ground.<br>\n(v) Restriction may serve as a retaliatory measure.<br>\n(vi) To prevent the importation of harmful goods.<br>\n(vii) To correct a deficit in the balance of payment.<br>\n(viii) To promote self - sufficiency</p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1998,
+        "question": "<p>Outline the role of industrialization in the economic development of Nigeria. </p>",
+        "answer": "<p><strong>The role of industrialization in the economic development of Nigeria are: </strong><br>\n(i) Diversification of the economy: Making more goods and service available.<br>\n(ii) Technological development: It is a sure way for a country to develop technologically.<br>\n(iii) Self - sufficiency: Industries will produce goods previously imported.<br>\n(iv) Raising of standard of living: Industrialization improves living standards.<br>\n(v) Training and development of skilled manpower provides opportunities for the training and upgrading of skills.<br>\n(vi) Increased modern sector employment: Providing large number of jobs for the unemployed.<br>\n(vii) Rapid expansions in infrastructures like road, power etc.<br>\n(viii) Boost to agriculture: Industries will utilize agricultural products as their raw materials. </p>",
+        "type": "theory"
+    }
+]

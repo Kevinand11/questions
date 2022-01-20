@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2002,
+        "question": "A copper cube weighs 0.25 N in air, 0.17N when completely immersed in paraffin oil and 0.15 N when completely immersed in water.The ratio of upthrust in oil to upthrust in water is",
+        "explanation": "Wt. in air = 0.25 N<br>Wt.in water = 0.15 N<br>therefore lost in wt. in water = Upthrust in water<br>= 0.25 - 0.15<br>= 0.10 N.<br>Wt. in paraffin oil = 0.17 N.<br>.. loss in wt.in oil = upthrust in the oil<br>Ratio upthrust in oil to upthrust in water<br>= 0.18/0.10 = 8/10 = 4/5 Or 4 : 5",
+        "correctIndex": 1,
+        "options": [
+            "3 : 5",
+            "4 : 5",
+            "7 : 10",
+            "13 : 10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2002,
+        "question": "A wheel and axle is used to raise a load of 500 N by the application of an effort of 250 N. If the radii of the wheel and the axle are 0.4 cm and 0.1 cm respectively, the efficiency of the machine is",
+        "explanation": "Efficiency = M.A/V.R X 100/1 M.A = Load/Effort = 500/250<br>= 2<br>V.R. = radius of wheel/radius of axle = 0.4/0.1 = 4.<br>therefore Efficiency = 2/4 x 100/1 = 50 %",
+        "correctIndex": 2,
+        "options": [
+            "20 %",
+            "40 %",
+            "50 %",
+            "60 %"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2002,
+        "question": "<p>The hydrostatic blood pressure difference between the head and the feet of a boy standing straight is 1.65 x 104 Nm-2. Find the height of the boy.</p><p>[ Density of blood = 1.1 x 103 kgm-3, g = 10ms-2]</p>",
+        "explanation": "<p>[ Density of blood = 1.1 x 103 kgm-3, g = 10ms-2]<br>\nPressure = pgh, where p = density, h = the height, g = acceleration of free fall due to gravity<br>\n1.6.5 x 104 = 1.1 x 103 x 10 x h<br>\ntherefore h = 1.65 x 104/1.1 x 103 x 10 = 1.5m</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.5 m",
+            "0.6 m",
+            "1.5 m",
+            "2.0 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2002,
+        "question": "<p>A body weighing 80N stands in an elevator that is about to move. The force exerted by floor on the body as the elevator moves upward with an acceleration of 5 ms-2 is<br>\n[g = 10ms-2]</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "40 N",
+            "80 N",
+            "120 N",
+            "160 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2002,
+        "question": "If the distance between two suspended masses 10kg each is tripled, the gravitational force of attraction between them is reduced by",
+        "explanation": "Let the distance apart the two masses = m.<br>From the equation F &amp; M<sub>1</sub>m<sub>2</sub>/ϒ<sup>2</sup><br>F<sub>1</sub>α 10 x 10/ϒ<sup>2</sup>= F α 100/ ϒ<sup>2</sup><br>F<sup>2</sup>α 10 X 10/(3ϒ)<sup>2</sup>=&gt; F<sup>2</sup>α 100/9ϒ<sup>2</sup><br>therefore F<sup>2</sup>/F<sup>1</sup>= 100/9ϒ<sup>2</sup>/100/ϒ<sup>2</sup>= 100/9ϒ<sup>2</sup>ϒ<sup>2</sup>/100 = 1/9<br>Therefore F<sub>2</sub>: F<sub>1</sub>= 1 : 9",
+        "correctIndex": 3,
+        "options": [
+            "one half",
+            "one third",
+            "one quarter",
+            "one ninth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2002,
+        "question": "Two force each of 10N acts on a body, one towards the north and the other towards the east.<br>The magnitude and the direction of the resultant force are",
+        "explanation": "From Pythagoras,<br>R2 = 10<sup>2 + 10<sup></sup>2</sup><br>= 100 + 100<br>= 200<br>therefore R2 = √200 = √2 x 100<br>= 10√2, in the direction 45°E",
+        "correctIndex": 3,
+        "options": [
+            "20N, 45°E",
+            "20N, 45°W",
+            "10√2N, 45°W",
+            "10√2N, 45°E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2002,
+        "question": "A particle in circular motion performs 30 oscillation in 6 seconds. Its angular velocity is",
+        "explanation": "Angular velocity w = 2π f.<br>But f = frequency no. of oscillations per second.<br>= 30/6 = 5Hz.<br>therefore W = 2π x 5<br>= 10π rad. s<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "5 rad s<sup>-1</sup>",
+            "6 rad s<sup>-1</sup>",
+            "5π rad s<sup>-1</sup>",
+            "10π rad s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2002,
+        "question": "The effect of a particle in a fluid attaining its terminal velocity is that the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "acceleration is maximum",
+            "weight is equal to the retarding force",
+            "buoyancy force is equal to the to the viscous retardind force",
+            "buoyancy force is more than the weight of the fluid displaced"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2002,
+        "question": "A coin place below a rectangular glass block of thickness 9cm and refractive index 1.5 is viewed vertically above the block. The apparent displacement of the coin is",
+        "explanation": "Real depth = thickness of the glass block = 9cm.<br>Refractive index of the glass material = 1.5<br>But Refractive index = Real depth/Apparent depth<br>=&gt; 1.5 = 9/Apparent depth<br>therefore Apparent depth = 9/1.5 = 6cm.<br>therefore Apparent displacement of the Coin = 9.6<br>= 3cm",
+        "correctIndex": 0,
+        "options": [
+            "3 cm",
+            "5 cm",
+            "6 cm",
+            "8 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2002,
+        "question": "The radiator of a motor car is cooled by",
+        "explanation": "The function of the radiator of a motor car is to \"collect\" heat from the circulating water and radiate some out, but it is itself cooled by the fan adjacent to it. whose function is primarily based on convection",
+        "correctIndex": 2,
+        "options": [
+            "radiation",
+            "conduction",
+            "convection",
+            "radiation and conduction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2002,
+        "question": "<p>I. Temperature.<br>\nII. Density of air molecules<br>\nIII. Pressure<br>\nIV. Pitch<br>\nWhich of the above will affect the velocity of sound in the air</p>",
+        "explanation": "<p><strong>Air</strong> pressure has no <strong>effect</strong> on speed of <strong>sound</strong> in an ideal gas because pressure and density both contribute to <strong>sound velocity</strong> equally, the two effects cancel each other out</p>",
+        "correctIndex": 0,
+        "options": [
+            "I and II only",
+            "II and IV only",
+            "I,II and IV only",
+            "I,II,III nad IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2002,
+        "question": "Which of the following is a characteristics of stationary waves?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "They are formed by two identical waves travelling in opposite directions",
+            "they can be transverse or longitudinal",
+            "The distance between two successive nodes is one wavelenght",
+            "The antinode is a point of minimum displacement"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2002,
+        "question": "To produce an enlarged and erect image with a concave mirror,the object must be positioned",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "at the principal focus",
+            "beyond the centre of curvature",
+            "between the principal focus and the centre of the curvature",
+            "between the principal focus and the pole"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2002,
+        "question": "the property that is propagated in a traveling wave is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "frequency",
+            "amplitude",
+            "energy",
+            "wave lenght"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2002,
+        "question": "Which of the following eye defects can be corrected using a cylindrical lens.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "myopia",
+            "Astigmatism",
+            "Presbyopia",
+            "Chromatic abiration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2002,
+        "question": "The time rate of loss of heat by a body is proportional to the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "difference in temprature between the body and its surroundings",
+            "temperature of its surroundings",
+            "ratio of the temperature of the body to that of its surroundings",
+            "temperature of the body"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2002,
+        "question": "If tension is maintained on a stretched string of length 0.6m, such that its fundamental frequency of 220Hz is excited, determine the velocity of the transverse wave in the string.",
+        "explanation": "in a vibrating string the fundamental frequency is given by fo = v/2L<br>therefore velocity = 2L x f.<br>= 2 x 0.6 x 220<br>= 264 m/s.",
+        "correctIndex": 1,
+        "options": [
+            "528 ms<sup>-1</sup>",
+            "264 ms<sup>-1</sup>",
+            "132 ms<sup>-1</sup>",
+            "66 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2002,
+        "question": "A concave mirror of radius of curvature 40 cm forms a real image twice as large as the object.<br>the object distance is",
+        "explanation": "if r = 40 cm , then f = r/2 = 40/2 = 20 cm<br>then for a real image by a concave mirror,<br>magnification M = f/u-f =&gt; 2 = 20/U-20<br>therefore 2(u-20) = 20<br>2u - 40 = 20<br>2u = 40 + 20<br>2u = 60/2 = 30 cm",
+        "correctIndex": 1,
+        "options": [
+            "10 cm",
+            "30 cm",
+            "40 cm",
+            "60 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2002,
+        "question": "water is a poor thermometric liquid because it",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "is opaque",
+            "is a poor conductor",
+            "wets glass",
+            "has low vapour pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2002,
+        "question": "<p>a ray of light which strikes a glass slab from air at normal incidence passes through the slab</p>",
+        "explanation": "<p>The angle of refraction will be zero as the angle of incidence is zero in this case. This is a rule, that whenever a ray strikes perpendicularly or normally to a surface, no refraction will take place and hence the ray will pass through without deviating from its path.</p>",
+        "correctIndex": 0,
+        "options": [
+            "undeviated and undisplaced at a lower speed",
+            "deviated and undisplaced at a lower speed",
+            "deviated and displaced at a lower speed",
+            "undeviated and displaced at a faster speed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2002,
+        "question": "<p>blowing air over a liquid aids evaporation by</p>",
+        "explanation": "<p>if you blow dry air over the glass you blow away this extra water vapor, thereby decreasing the amount of water vapor entering the glass. </p>",
+        "correctIndex": 1,
+        "options": [
+            "increasing its surface area",
+            "decreasing its vapour pressure",
+            "increasing its temperature",
+            "decreasing its density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2002,
+        "question": "The phenomenon that makes sound persist when its source has been removed is known as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "acoustic vibration",
+            "rarefaction",
+            "echo",
+            "reverberation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2002,
+        "question": "the pressure of 3 moles of an ideal gas at a temperature of 27°C having a volume of 10<sup>-3</sup>m<sup>3</sup>is",
+        "explanation": "From the relation PV = nRT<br>V = 10<sup>-3</sup>3; n = 3 moles; T = 27 + 273 = 300k<br>R = 8.3 j mol<sup>-1</sup>K<sup>-1</sup><br>=&gt; P = nRT/V = 3 X 8.3 X 300/10<sup>-3</sup>= 7.47 X 10<sup>6</sup>Nm<sup>-2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "2.49 x 10<sup>5</sup>-2",
+            "7.47 x 10<sup>5</sup>-2",
+            "2.49 x 10<sup>6</sup>-2",
+            "7.47 x 10<sup>6</sup>-2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2002,
+        "question": "<p>Vibration in a stretched spring cannot be polarized because they are</p>",
+        "explanation": "<p>In longitudinal waves, such as sound waves in a liquid or gas, the displacement of the particles in the oscillation is always in the direction of propagation, so these waves do not exhibit polarization.</p>",
+        "correctIndex": 2,
+        "options": [
+            "stationary waves",
+            "transverse waves",
+            "longitudinal waves",
+            "mechanical waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13590222090_phy20021.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13590222100_phy20021a.jpg\" class=\"img-fluid\">\n</div>Energy store is equal to the work done in stretching the wire from E to F given by the area of the shaded trapezium under the graph.<br>=<sup>1</sup>/<sub>2</sub>(0.1 x 0.2) x (0.1 - 0.05)<br>=<sup>1</sup>/<sub>2</sub>(0.3) x 0.05<br>= 0.15 x 0.05<br>= 0.075<br>= 7.5 x 10<sup>-1</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "7.5 x 10<sup>-3</sup>J",
+            "2.5 x 10<sup>-3</sup>J",
+            "1.5 x 10<sup>-2</sup>J",
+            "7.5 x 10<sup>-1</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24462421344_phy200212.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24462421344_phy200212.jpg\" class=\"img-fluid\">\n</div>The work done on this object is given by the area of the triangle, which is equal to<sup>1</sup>/<sub>2</sub>fx",
+        "correctIndex": 1,
+        "options": [
+            "Fx J",
+            "<sup>Fx</sup>/<sub>2</sub>J",
+            "Fx<sup>2</sup>J",
+            "<sup>F</sup>/<sub>x</sub>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9513165291_phy200230.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/27180472340_phy200230.jpg\" class=\"img-fluid\">\n</div><table><tbody><tr><td rowspan=\"2\"> n = </td><td style=\"border-bottom:solid 1px\"> sin((A+D)/2)</td></tr><tr><td>sin(A/2)</td></tr></tbody></table><br>where A = the refracting angle of the prism(60<sup>o</sup>)<br>D = angle of deviation of the ray (30<sup>o</sup>)<br><table><tbody><tr><td rowspan=\"2\"> n = </td><td style=\"border-bottom:solid 1px\"> sin((60+30)/2)</td></tr><tr><td>sin(60/2)</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">sin 45</td></tr><tr><td>sin 30</td></tr></tbody></table><br>=<br><sup>1</sup>/<sub>√2</sub>/<sub><sup>1</sup>/<sub>2</sub></sub><br><sup>√2</sup>/<sub>2</sub>/<sub><sup>1</sup>/<sub>2</sub></sub><br>=<sup>√2</sup>/<sub>2</sub>x<sup>2</sup>/<sub>1</sub>= √2<br>n = √2",
+        "correctIndex": 2,
+        "options": [
+            "<sup>√2</sup>/<sub>2</sub>",
+            "<sup>4</sup>/<sub>3</sub>",
+            "√2",
+            "<sup>3</sup>/<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2718048940_phy200231.jpg\" class=\"img-fluid\">",
+        "explanation": "Let the combined parallel resistance of 3 Ω and x = Q Ω<br>∴ Total resistance in the circuit = 2 + Q + 1.5 = 3.5 + Q Ω<br>Total current in the circuit = 2A<br>P.D a cross the circuit 12 volts<br>∴ From Ohm’s law, V = IR<br>12 = 2(3.5 + Q)<br>= 7.0 + 2Q<br>∴ 2Q = 12 – 7<br>= 5<br>∴ Q =<sup>5</sup>/<sub>2</sub>= 2.5 Ω<br>Thus from parallel formula: I/Q = 1/3 + 1/x<br><sup>1</sup>/<sub>2.5</sub>=<sup>1</sup>/<sub>3</sub>+<sup>1</sup>/<sub>x</sub><br>∴<sup>1</sup>/<sub>x</sub>=<sup>1</sup>/<sub>2.5</sub>-<sup>1</sup>/<sub>3</sub>=<sup>3-2.5</sup>/<sub>7.5</sub>=<sup>0.5</sup>/<sub>7.5</sub><br>X =<sup>7.5</sup>/<sub>0.5</sub>=<sup>75</sup>/<sub>5</sub>= 15 Ω<br>∴ X = 15 Ω",
+        "correctIndex": 3,
+        "options": [
+            "6Ω",
+            "9Ω",
+            "12Ω",
+            "15Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2002,
+        "question": "The energy stored in a capacitor of capacitance 10μF carrying a charge of 100μC",
+        "explanation": "The energy stored in a given capacitor is given by<br>E =<sup>1</sup>/<sub>2</sub>CV<sup>2</sup>=<sup>1</sup>/<sub>2</sub>QV =<sup>1</sup>/<sub>2</sub>Q<sup>2</sup>/C<br>Where C = the capacitance of the capacitor<br>Q = charge carried by the capacitor<br>V = p.d across the plates of the capacitor thus from the data given, C = 10μF<br>= 10 x 10<sup>-6</sup>F<br>Q = 100μc = 100 x 10<sup>-6</sup>C<br>∴ Energy stored =<sup>1</sup>/<sub>2</sub>Q<sup>2</sup>/C<br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">1</td><td rowspan=\"2\"><table><tbody><tr><td rowspan=\"2\"> </td><td style=\"border-bottom:solid 1px\">(100 x 10<sup>-6</sup>)<sup>2</sup></td></tr><tr><td>10 x 10<sup>-6</sup></td></tr></tbody></table></td></tr><tr><td>2</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">1</td><td rowspan=\"2\"><table><tbody><tr><td rowspan=\"2\"> </td><td style=\"border-bottom:solid 1px\">100 x 10<sup>-12</sup></td></tr><tr><td>10 x 10<sup>-6</sup></td></tr></tbody></table></td></tr><tr><td>2</td></tr></tbody></table><br><sup>1</sup>/<sub>2</sub>10<sup>-3</sup>5.0 x 10<sup>-4</sup>",
+        "correctIndex": 3,
+        "options": [
+            "5 x 10<sup>4</sup>J",
+            "4 x 10<sup>2</sup>J",
+            "4 x 10<sup>-3</sup>J",
+            "5 x 10<sup>-4</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2002,
+        "question": "When connected to a mains of 250V, the fuse rating in the plug of an electric device of 1 KW is",
+        "explanation": "1 KW = 1000 watts, power P = IV, thus for a mains of 250 V, the maximum permissible Current I =<sup>1</sup>/<sub>V</sub>= 1000/250 = 4 A<br>Thus the fuse rating in the plug should be 4 A",
+        "correctIndex": 2,
+        "options": [
+            "2 A",
+            "3 A",
+            "4 A",
+            "5 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2002,
+        "question": "The eye controls the amount of light reaching the retina by adjusting the",
+        "explanation": "The iris controls the amount of light by limiting the volume of light admitted. The lens then focuses the light onto the retina, forming an inverted image. The lens changes its shape to adjust the focus on both distant and near objects, a process called accommodation.<br><br>This adjustment is done by two sets of muscles in the iris",
+        "correctIndex": 1,
+        "options": [
+            "cornea",
+            "iris",
+            "retina",
+            "optic nerve"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2002,
+        "question": "An electric iron is rated 1000W, 230V. What is the resistance of its elements?",
+        "explanation": "Electric Power = IV = I<sup>2</sup>R =<sup>V<sup>2</sup></sup>/<sub>R</sub>thus for a device rated 1000 W, 230V, from the relation P =<sup>V<sup>2</sup></sup>/<sub>R</sub>, 1000 =<sup>(230)<sup>2</sup></sup>/<sub>R</sub><br>=&gt; R =<sup>(230)<sup>2</sup></sup>/<sub>1000</sub><br>= 52900/1000 = 52.9Ω",
+        "correctIndex": 1,
+        "options": [
+            "51.9Ω",
+            "52.9Ω",
+            "55.9Ω",
+            "57.6Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19026487816_phy200236.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Both X and Y are negative",
+            "Both X and Y are positive",
+            "X is positive and Y is negative",
+            "X is negative and Y is positive"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2002,
+        "question": "The electromagnetic wave that can produce a heating effect on the environment is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "x -rays",
+            "ultraviolet rays",
+            "infrared rays",
+            "gamma rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2002,
+        "question": "<p>an electric cell with nominal voltage E has a resistance of 3Ω connected across it. If the voltage falls to 0.6E, the internal resistance of the cell is</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12231324045_phy200238a.jpg\" class=\"img-fluid\">\n</div><p>IR = 0.6 X I ( R + r )</p><p>I X 3 = 0.6 X I ( 3 + r )</p><p>3I / 0.6I = 3 + r</p><p>5 = 3 + r</p><p>r = 2 ohms</p>",
+        "correctIndex": 1,
+        "options": [
+            "1Ω",
+            "2Ω",
+            "3Ω",
+            "4Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2002,
+        "question": "<table><tr><td>23</td><td rowspan=\"2\">Na + X → </td><td>20</td><td rowspan=\"2\">F + </td><td>4</td><td rowspan=\"2\">He</td><td></td></tr><tr><td>11</td><td>9</td><td>2</td></tr></table><br>What particle is X in the reaction above?",
+        "explanation": "The particle in the reaction is neutron<br><table><tr><td>23</td><td rowspan=\"2\">Na + </td><td>1</td><td rowspan=\"2\">n → </td><td>20</td><td rowspan=\"2\">F + </td><td>4</td><td rowspan=\"2\">He</td></tr><tr><td>11</td><td>0</td><td>9</td><td>2</td></tr></table>",
+        "correctIndex": 2,
+        "options": [
+            "Alpha",
+            "Beta",
+            "Neurons",
+            "Gamma"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2002,
+        "question": "Pure silicon can be converted to a p-type by adding a controlled amount of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "trivalent atoms",
+            "tetravalent atoms",
+            "pentavalent atoms",
+            "hexavalent atoms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2002,
+        "question": "The energy associated with the photon of a radio transmission at 3 x 10<sup>5</sup>Hz is<br>[h = 6.63 x 10<sup>-34</sup>Js]",
+        "explanation": "A photon of energy E = hf<br>= 6.63 x 10<sup>-34</sup>x 3 x 10<sup>5</sup><br>= 19.89 x 10<sup>-29</sup><br>= 2.0 x 10<sup>-28</sup>J",
+        "correctIndex": 0,
+        "options": [
+            "2.00 x 10<sup>-28</sup>J",
+            "1.30 x 10<sup>-28</sup>J",
+            "2.00 x 10<sup>- 29</sup>J",
+            "1.30 x 10<sup>-29</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2002,
+        "question": "The percentage of the original nuclei of the sample of a radioactive substance left after 5 half - lives is",
+        "explanation": "After 5 half-lives, the fraction of any radio-active substance left = (<sup>1</sup>/<sub>2</sub>)<sup>5</sup>=<sup>1</sup>/<sub>32</sub><br>Thus the percentage of the original nuclie =<sup>1/32</sup>/<sub>1</sub>x<sup>100</sup>/<sub>1</sub><br>assuming the original amount is unity percentage left<br>=<sup>1</sup>/<sub>32</sub>x<sup>1400</sup>/<sub>1</sub>= 3.12",
+        "correctIndex": 2,
+        "options": [
+            "8%",
+            "5%",
+            "3%",
+            "1%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2002,
+        "question": "From the generating station to each substation power is transmitted at a very high voltage so as to reduce",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "hysteresis loss",
+            "eddy current loss",
+            "magnetic flux leakage",
+            "heating in the cells"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2002,
+        "question": "The particle that is responsible for the nuclear fission in a nuclear reactor is",
+        "explanation": "In a nuclear reaction, neutron is used as a bullet fired into<sub>235</sub><sup>92</sup>U, to trigger off nuclear chain reaction, which of course is controlled",
+        "correctIndex": 0,
+        "options": [
+            "neutron",
+            "prton",
+            "electron",
+            "photon"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2002,
+        "question": "A transistor is used in the amplification of signals because it",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "controls the flow of current",
+            "consumes a lot of power",
+            "allows doping",
+            "contains electron and hole carriers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2002,
+        "question": "The carbon-granules microphone works on the principle of change in",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "inductance",
+            "resistance",
+            "capacitance",
+            "voltage"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2002,
+        "question": "At what frequency would a capacitor of 2.5μF<br>used in radio circuit have a resistance of 250Ω",
+        "explanation": "<table><tbody><tr><td rowspan=\"2\">Capacitive Reactance = </td><td style=\"border-bottom:solid 1px\">___1</td></tr><tr><td>2π + C</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">=&gt; 250 = </td><td style=\"border-bottom:solid 1px\">____1</td></tr><tr><td>2 x π x f x 2.5 x 10<sup>6</sup></td></tr></tbody></table><br>∴<sup>250</sup>/<sub>1</sub>=<sup>10<sup>6</sup></sup>/<sub>5.0xf</sub><br><table><tbody><tr><td rowspan=\"2\">=&gt; F = </td><td style=\"border-bottom:solid 1px\">___10<sup>6</sup></td></tr><tr><td>250 x 5.0 x π</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">10<sup>6</sup></td></tr><tr><td>1250π</td></tr></tbody></table><br>800/π",
+        "correctIndex": 1,
+        "options": [
+            "π/800 Hz",
+            "800/π Hz",
+            "200π Hz",
+            "2000π Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2002,
+        "question": "A current of 0.5 A flowing 3h Deposits 2g of metal during electrolysis. The quantity of the same metal that would be deposited by the currents of 1.5A flowing in 1h is",
+        "explanation": "From Faradays Law, mass deposited during electrolysis is given by<br>M = ItZ<br>=&gt; Z = M/(It)<br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">__2</td></tr><tr><td>0.5x3x60x60</td></tr></tbody></table><br>For a current of 1.5A flowing for 1h, the mass M, deposited is given by<br>M= ZiT<br>= 2 / (0.5x3x60x60) x 0.5x1x60x60 / 1<br>= 2.0g<br>M = 2.0g",
+        "correctIndex": 0,
+        "options": [
+            "2g",
+            "6g",
+            "10g",
+            "18g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2002,
+        "question": "<p>Which of the following statements is true of the properties of a moving coil galvanometer?</p>",
+        "explanation": "<p>The galvanometer possesses a rectangular coil mounted on a soft iron core rotating on a magnetic field induced by a permanent magnet.</p>",
+        "correctIndex": 1,
+        "options": [
+            "THe coil has a small area",
+            "There are strong hair springs to gives a large control panlel",
+            "There is a strong permanent magnet to give high magnetic flux",
+            "it has a small number of turns of coil"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2002,
+        "question": "<p>A bead travelling on a straight line wire is brought to rest at 0.2 by friction. If the mass of the bead is 0.01kg and the coefficient of friction between the bead and the wire is 0.1, determine the work done by the friction<br>\n[g = 10ms\\(^2\\)]</p>",
+        "explanation": "<p>Work done by friction = Friction force x displacement from the relation, f = μR<br>\nwhere μ = coefficient of friction ; R = normal reaction<br>\n=&gt; F = μ mg (R = mg)<br>\n= 0.1 x 0.01 x 10<br>\n∴ work done = F x displacement<br>\n= 0.1 x 0.01 x 10 x 0.2<br>\n= 0.002<br>\n= 2 x 10\\(^{-3}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "2 x 10\\(^{-4}\\)",
+            "2 x 10\\(^{-3}\\)",
+            "2 x 10\\(^{-1}\\)",
+            "2 x 10\\(^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2002,
+        "question": "If the total force acting on a particle is zero, the linear momentum will",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Increase",
+            "Decrease",
+            "Be Constant",
+            "Increase then decrease"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2002,
+        "question": "The colours seen on soap bubbles are due to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Diffraction",
+            "Refraction",
+            "Dispersion",
+            "Interference"
+        ],
+        "type": "objectives"
+    }
+]

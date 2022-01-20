@@ -1,0 +1,803 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2004,
+        "question": "1. Evaluate \\( 202^2_{three} - 112^2_{three}\\)",
+        "explanation": "\\(202^2_{three}\\)when converted to base ten \\(=(202_3)^2\\\\<br>202_3 = 2 \\times 3^2 + 0 \\times 3^1 + 2\\times 3^0 = 18 + 0 + 2\\\\<br>=20_{ten}; (202_3)^2 = (20)^2_{ten} = 400\\\\<br>112^2_{three}\\)when converted to base ten \\(= (112_3)^2\\\\<br>112_3 = 1 \\times 3^2 + 1 \\times 3^1 + 2\\times 3^0 = 9+3+2=14_{ten}\\\\<br>(112_3)^2 = (14)^2_{ten} = 196_{ten}\\\\<br>Evaluate \\Longrightarrow 400-196 = 204\\)<br>Reconvert to base three<br>\\(\\begin{matrix}<br>3 &amp; 204\\\\<br>3 &amp; 69 &amp;R0\\\\<br>3 &amp; 22 &amp; R2\\\\<br>3 &amp; 7 &amp; R1\\\\<br>2 &amp; 2 &amp; R1\\\\<br>&amp; 0&amp; R2\t\\uparrow\\\\<br>\\end{matrix} \\\\<br>=21120_3\\)",
+        "correctIndex": 0,
+        "options": [
+            "21120",
+            "21121",
+            "21112",
+            "21011"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2004,
+        "question": "If \\(y = 23_{five} + 101_{three}\\), find y, leaving your answer in base two",
+        "explanation": "\\(23_{five} = X_{ten}; X_{ten} = 2\\times 5^1 + 3\\times 5^0 = 10 + 3 = 13\\\\<br>101_{three}=P_{ten}; P_{ten} = 1\\times 3^2 + 0\\times 3^1 + 1\\times 3^0=9+0+1=10_{ten}\\\\<br>Y = 13+10=23_{ten}\\);<br>Converting to base two<br>\\(\\begin{matrix}<br>2 &amp; 23\\\\<br>2 &amp; 11 &amp;R1\\\\<br>2 &amp; 5 &amp; R1\\\\<br>2 &amp; 2 &amp; R1\\\\<br>2 &amp; 1 &amp; R0\\\\<br>&amp; 0&amp; R1\t\\uparrow\\\\<br>\\end{matrix} \\\\<br>=y=10111_2\\)",
+        "correctIndex": 1,
+        "options": [
+            "1110",
+            "10111",
+            "11101",
+            "111100"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2004,
+        "question": "Given that sin (5x - 28)<sup>o</sup>= cos (3x - 50)<sup>o</sup>,0 &lt; x &lt; 90<sup>o</sup>, find the value of x",
+        "explanation": "Sin (5x – 28)<sup>o</sup>= cos (3x - 50)<sup>o</sup><br>Since by the trigonometry relation<br>Sin(5x – 28)<sup>o</sup>= cos[90 – (5x – 28)]<sup>o</sup><br>Hence cos(3x – 50)<sup>o</sup>= cos[90 – (5x – 28)]<sup>o</sup><br>3x – 50 = 90 - (5x-28)<br>3x – 50 = 90 – 5x + 28<br>3x + 5x = 90 + 28 + 50<br>8x = 168<br>\\(x = \\frac{168}{8}=21^{\\circ}\\)",
+        "correctIndex": 1,
+        "options": [
+            "14<sup>o</sup>",
+            "21<sup>o</sup>",
+            "32<sup>o</sup>",
+            "39<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2004,
+        "question": "Solve for t in the equation \\(\\frac{3}{4}t+\\frac{1}{3}(21-t)\\) = 11,",
+        "explanation": "\\(\\frac{3}{4}t+\\frac{1}{3}(21-t) = 11; \\frac{3t}{4} + \\frac{7}{1} - \\frac{t}{3} = \\frac{11}{1}\\\\<br>\\frac{3 \\times 3t + 7\\times 12 – 4 \\times t = 11 \\times 12}{12}\\\\<br>9t + 84 – 4t = 132; 5t = 132 – 84\\\\<br>5t = 48; t = \\frac{48}{5} = 9\\frac{3}{5}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{9}{13}\\)",
+            "\\(\\frac{9}{5}\\)",
+            "5",
+            "\\(9\\frac{3}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2004,
+        "question": "A school girl spends \\(\\frac{1}{4}\\) of her pocket money on books and \\(\\frac{1}{3}\\) on dress. What fraction remains?",
+        "explanation": "Let the girls pocket money be rep. by x. The amount spent on books = \\(\\frac{1}{4}of\\hspace{1mm}x = \\frac{x}{4}\\)<br>The amount spent on dress \\(=\\frac{1}{3} of \\hspace{1mm}x=\\frac{x}{3}\\)<br>∴The fraction that remains = \\(\\frac{x}{1}-\\left(\\frac{x}{4}+\\frac{x}{3}\\right)\\\\<br>\\frac{3x+4x}{12}; = \\frac{12x-7x}{12} = \\frac{5x}{12} = \\frac{5}{12}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{5}{6}\\)",
+            "\\(\\frac{7}{12}\\)",
+            "\\(\\frac{5}{12}\\)",
+            "\\(\\frac{1}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8399889198_wamath046.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{PR}{QR} = \\frac{QR}{QY} = \\frac{QP}{YR}\\) (SSS Congruence)</p><p>\\(\\frac{QR}{4} = \\frac{8}{5}\\)</p><p>\\(QR = \\frac{4 \\times 8}{5}\\)</p><p>= 6.4 cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.0cm",
+            "2.5cm",
+            "6.4cm",
+            "10.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12599834436_wamath047.jpg\" class=\"img-fluid\">",
+        "explanation": "The sum of angles at point = 360<sup>o</sup><br>(x+10)<sup>o</sup>+ (4x+50)<sup>o</sup>+ 20<sup>o</sup>+ 3x<sup>o</sup>+ 2x<sup>o</sup>= 360<sup>o</sup><br>10x + 80<sup>o</sup>= 360<sup>o</sup><br>10x = 360<sup>o</sup>- 80<sup>o</sup>= 280<sup>o</sup><br>\\(\\frac{280}{10}=28^{\\circ}\\)",
+        "correctIndex": 1,
+        "options": [
+            "10<sup>o</sup>",
+            "28<sup>o</sup>",
+            "36<sup>o</sup>",
+            "44<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2004,
+        "question": "There are m boys and 12 girls in a class. What is the probability of selecting at random a girl from the class?",
+        "explanation": "Prob. (a girl) \\(=\\frac{Number\\hspace{1mm} of\\hspace{1mm} girls}{Number \\hspace{1mm} of \\hspace{1mm} boys \\hspace{1mm} and \\hspace{1mm} girls\\hspace{1mm} in \\hspace{1mm} class}\\\\<br>= \\frac{12}{m+12}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{m}{12}\\)",
+            "\\(\\frac{12}{m}\\)",
+            "\\(\\frac{12}{m+12}\\)",
+            "\\(\\frac{12}{m-12}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2004,
+        "question": "<p>Simplify \\(7\\frac{1}{2}-\\left(2\\frac{1}{2}+3\\right)\\div16\\frac{1}{2}\\)and correct your answer to the nearest whole number</p>",
+        "explanation": "<p>\\(7\\frac{1}{2}-\\left(2\\frac{1}{2}+3\\right)\\div16\\frac{1}{2}; \\frac{15}{2} - \\left(\\frac{5}{2}+\\frac{3}{1}\\right)\\div \\frac{33}{2}\\\\<br>\n\\frac{15}{2} - \\left(\\frac{5+6}{2}\\right)\\div \\frac{33}{2}; \\frac{15}{2} - \\frac{11}{2} \\div \\frac{33}{2}\\\\<br>\n\\frac{15-11}{2}\\div \\frac{33}{2}; \\frac{4}{2} \\times \\frac{2}{33} = \\frac{4}{33} = 0.1212\\)<br>\nThe nearest whole number is 0</p>",
+        "correctIndex": 3,
+        "options": [
+            "33",
+            "8",
+            "7",
+            "0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2004,
+        "question": "The angle of elevation of the top of a tower from a point on the ground which is 36m away from the foot of the tower is 30<sup>o</sup>. Calculate the height of the tower.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13999826510_wamath0410ans.jpg\" class=\"img-fluid\">\n</div>Where H is the height of the tower H = ?<br>\\(Tan 30^{\\circ} = \\frac{H}{36} \\Rightarrow H = 36 \\times tan30^{\\circ}\\\\<br>H = 36 \\times 0.5774 = 20.79\\)",
+        "correctIndex": 1,
+        "options": [
+            "62.35m",
+            "20.78m",
+            "18.00m",
+            "10.39m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2004,
+        "question": "Find the area of a rectangle of length 4cm and whose diagonal is 6cm, (Leave your answer in surd form)",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5599931076_wamath0411ans.jpg\" class=\"img-fluid\">\n</div>|AB| = 4cm<br>|BC| = 8cm<br>In right-angled BAC; |BC|<sup>2</sup>22\n8<sup>2</sup>22\n64 – 16 = |AC|<sup>2</sup>48 = |AC|<sup>2</sup>\\(AC= \\sqrt{48}cm = 4\\sqrt{3}cm\\)<br>The area of rectangle = L x B = |AB| x |AC|<br>= \\((4 \\times 4\\sqrt{3}cm^2)\\\\<br>=16\\sqrt{3}cm^2\\)",
+        "correctIndex": 3,
+        "options": [
+            "8√3cm<sup>2</sup>",
+            "12√3cm<sup>2</sup>",
+            "16√2cm<sup>2</sup>",
+            "16√3cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2004,
+        "question": "Given that x + y = 7 and 3x-y = 5, evaluate \\(\\frac{y}{2}-3\\).",
+        "explanation": "\\(x + y = 7 ------ I\\\\<br>3x – y = 5 ------ II\\)<br>Add I and II;<br>\\(4x = 12 =&gt; x = \\frac{12}{4} = 3\\\\<br>Y = 7 – 3 = 4, evaluate \\hspace{1mm} \\frac{y}{2} – 3\\\\<br>\\frac{4}{2} – 3 =&gt; 2-3 = -1\\)",
+        "correctIndex": 0,
+        "options": [
+            "-1",
+            "1",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8401015398_wamath0412.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>∠PSQ = 90° (angle in a semi-circle)<br>\n(when SR is joined to SP)<br>\n∠SPQ = 180 – (90+35) = 180 – 125 = 55°<br>\n∠QRS + ∠SPQ = 180° (opposite angles in a cyclic quad is supplementary)<br>\n∠QRS = 180° - 55°<br>\n= 125°</p>",
+        "correctIndex": 0,
+        "options": [
+            "35<sup>o</sup>",
+            "70<sup>o</sup>",
+            "100<sup>o</sup>",
+            "125<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2004,
+        "question": "<p>If \\(\\left(\\frac{1}{4}\\right)^{(2-y)} = 1\\), find y.</p>",
+        "explanation": "<p>\\(2^{-2(2-y)}-x=2^{0}; -4 + 2y = 0\\\\<br>\n2y = 4; y = 2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "-2",
+            "\\(-\\frac{1}{2}\\).",
+            "\\(\\frac{1}{2}\\)",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2004,
+        "question": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+        "explanation": "Total surfaced area of a cupboard = lb + lh + bh<br>l = length h = height b = base<br>l = 12cm h = 10cm b = 8cm<br>T.S.A \\(= (12 \\times 8 \\times 12 \\times 10 + 8 \\times 10)cm^\\\\<br>= (96 + 120 + 80)cm^2 = 296cm^2\\)",
+        "correctIndex": 2,
+        "options": [
+            "1920cm<sup>2</sup>",
+            "592cm<sup>2</sup>",
+            "296cm<sup>2</sup>",
+            "148cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2004,
+        "question": "If \\(\\frac{x}{a+1}+\\frac{y}{b}\\) 1. Make y the subject of the relation",
+        "explanation": "If \\(\\frac{bx+y(a+1)}{b(a+1)}=1\\\\<br>bx + ya + y = ba + b; y(a+1) = ba+b-bx\\\\<br>y(a+1)=b(a+1-x); y = \\frac{b(1+a-x}{a+1}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{b(a-x+1)}{a+1}\\)",
+            "\\(\\frac{a+1}{b(a-x+1)}\\)",
+            "\\(\\frac{a(b-x+1)}{b+1}\\)",
+            "\\(\\frac{b}{a(b-x+1)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2004,
+        "question": "<p>lf \\(log_q p= r\\), express p in terms of q and r</p>",
+        "explanation": "<p>If \\(log_q p\\) = r convert from logarithm to indices<br>\nP = q\\(^r\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "p =qr",
+            "p =r<sup>q</sup>",
+            "\\(p = \\frac{r}{q}\\)",
+            "p=q<sup>r</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2004,
+        "question": "<p>Find the next two terms of the sequence<br>\n1, 5, 14, 30, 55, ...</p>",
+        "explanation": "<p>\\(1 + 2^2 = 5 + 3^2 = 14 + 4^2 = 30 + 5^2 = 55\\)</p><p>\\(55 + 6^2 = 91 + 7^2 = 140\\).</p><p>91, 140 are the next two terms.</p>",
+        "correctIndex": 3,
+        "options": [
+            "61,110",
+            "67,116",
+            "81,140",
+            "91, 140"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2004,
+        "question": "<p>Each interior angle of a regular polygon is 108°. How many sides has it?</p>",
+        "explanation": "<p>The exterior angle of the polygon = 180 – 108 = 72°. The sum of exterior angle of the regular polygon = 360°<br>\nThe number of sides \\(=\\frac{360}{72}=5\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "5",
+            "7",
+            "9",
+            "14"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2004,
+        "question": "Solve the equation 10-3x-x<sup>2</sup>= 0",
+        "explanation": "10 – 3x - x<sup>2</sup>= 0; 10 – 5x + 2x - x<sup>2</sup>= 0<br>5(2 – x) + x(2 – x) = 0; (2 – x)(5 + x) = 0<br>2 – x = 0 or 5 + x = 0; x = 2 or x = -5",
+        "correctIndex": 0,
+        "options": [
+            "x=2 or-5",
+            "x= -2 or 5",
+            "x = 1 or 10",
+            "x = 2 or 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2004,
+        "question": "<p>Find, correct to two decimal places, the mean of 9, 13, 16, 17, 19, 23, 24.</p>",
+        "explanation": "<p>Mean \\(= \\frac{sum\\hspace{1mm}of\\hspace{1mm}all\\hspace{1mm}the\\hspace{1mm}numbers}{Total\\hspace{1mm}Number}\\\\<br>\n\\frac{9+13+16+17+19+23+24}{7}\\\\<br>\n\\frac{121}{7}=17.2857=17.29\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "23.00",
+            "17.29",
+            "16.50",
+            "16.33"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4200510081_wamath0422.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{PQ}{PR}=\\frac{XZ}{XY}; \\frac{PQ}{8}=\\frac{3.5}{5}\\\\<br>\nPQ=\\frac{8\\times 3.5}{5}=\\frac{28}{5}=5.6cm\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "5.6 cm",
+            "11.2cm",
+            "11.4cm",
+            "28.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2004,
+        "question": "Factorise 27p<sup>2</sup>x<sup>2</sup>- 48y<sup>2</sup>.",
+        "explanation": "27p<sup>2</sup>x<sup>2</sup>- 48y<sup>2</sup>; 3(3<sup>2</sup>p<sup>2</sup>x<sup>2</sup>-4<sup>2</sup>y<sup>2</sup>)<br>3[(3px)<sup>2</sup>- (4y)<sup>2</sup>]; 3[(3px-4y)(3px+4y)]",
+        "correctIndex": 3,
+        "options": [
+            "9(3px - 4y)<sup>2</sup>",
+            "3(3px - 4y)(3px - 4y)",
+            "9(px - 4y)(3p x + 4y)",
+            "3(3px -4y)(3px +4y)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2004,
+        "question": "What is the volume of a solid cylinder of diameter 7cm and height 7cm? (Take \\(\\pi = \\frac{22}{7}\\))",
+        "explanation": "Volume of a solid cylinder = Base area x height<br>Base area \\(=\\pi r^2 =\\frac{22}{7} \\times \\frac{7}{2}\\times \\frac{7}{2} = \\frac{77}{2}\\)<br>Volume of a solid cylinder = \\(\\frac{77}{2}\\times \\frac{7}{1} = \\frac{539}{2}cm^3\\\\<br>=269.5cm^3\\)",
+        "correctIndex": 2,
+        "options": [
+            "38.5cm<sup>3</sup>",
+            "77cm<sup>3</sup>",
+            "269.5cm<sup>3</sup>",
+            "1078cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2004,
+        "question": "Find the sum of the roots of the equation 2x<sup>2</sup>+ 3x - 9 = 0",
+        "explanation": "The general quadratic equation<br>x<sup>2</sup>- (sum of roots) x + (product of root) = 0<br>Comparing with the given equation<br>2x<sup>2</sup>+3x<sup>2</sup>- 9 = 0; \\(x^2 + \\frac{3}{2}x - \\frac{9}{2} = 0\\\\<br>Sum \\hspace{1mm} of \\hspace{1mm}roots = -\\frac{3}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "-18",
+            "-6",
+            "\\(-\\frac{9}{2}\\)",
+            "\\(-\\frac{3}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2004,
+        "question": "Given that ξ = {1, 2, 3, . . . . . . ,10}, P= (x : x is prime) and Q = {y : y is odd}, find P<sup>l</sup>∩Q",
+        "explanation": "ξ = {1, 2, 3, . . . . . . ,10}, P= (2, 3, 5, 7) and Q = {1, 3, 5, 9},<br>P<sup>l</sup>∩Q = {1, 4, 6, 8, 9, 10}∩{1, 3, 5, 7, 9} = {1, 9}",
+        "correctIndex": 1,
+        "options": [
+            "{2}",
+            "{1,9}",
+            "{315.7}",
+            "{4, 6, 8, 10}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22409602688_wamath0427.jpg\" class=\"img-fluid\">",
+        "explanation": "∠QRS = ∠RPQ (theorem: angle in the alternate segment are equal)<br>∠RPQ = 50<sup>o</sup><br>∠QRS = 50<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "90<sup>o</sup>",
+            "80<sup>o</sup>",
+            "50<sup>o</sup>",
+            "40<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2004,
+        "question": "Find the mean deviation of 6, 7, 8, 9, 10",
+        "explanation": "\\(\\begin{matrix}<br>x &amp; x-m &amp; |x-m| \\\\<br>6 &amp; -2 &amp; 2 \\\\<br>7 &amp; -1 &amp; 1 \\\\<br>8 &amp; 0 &amp; 0 \\\\<br>9 &amp; 1 &amp; 1 \\\\<br>10 &amp; 2 &amp; 2 \\\\<br>&amp; &amp; 6<br>\\end{matrix}<br>\\)<br>Mean deviation\\(=\\frac{\\sum|x-m|}{n}=\\frac{6}{5} = 1.2\\)",
+        "correctIndex": 0,
+        "options": [
+            "1.2",
+            "1.5",
+            "2",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2004,
+        "question": "A point X is on the bearing 342<sup>o</sup>from a point Y. What is the bearing of Y from X?",
+        "explanation": "If x is the bearing 342<sup>o</sup>from a point y<br>= 360<sup>o</sup>- 342<sup>o</sup>= 18<sup>o</sup>;<br>The bearing of y from x = 180<sup>o</sup>- 18<sup>o</sup>= 162<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "342<sup>o</sup>",
+            "252<sup>o</sup>",
+            "198<sup>o</sup>",
+            "162<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16807198968_wamath0430.jpg\" class=\"img-fluid\">",
+        "explanation": "∠SOR = ∠ORQ alternate angle.<br>Also ∠OQR = ∠OQR (Base angle of isosceles)<br>∠QOR = 108 – 2(35<sup>o</sup>) = 180 - 70<sup>o</sup>- 110<sup>o</sup>∠QPR =<sup>1</sup>/<sub>2</sub>QOR =<sup>1</sup>/<sub>2</sub>(110<sup>o</sup>) ∠QPR + 55<sup>o</sup>(theorem angle at center is twice angle at circumference)",
+        "correctIndex": 2,
+        "options": [
+            "35<sup>o</sup>",
+            "45<sup>o</sup>",
+            "55<sup>o</sup>",
+            "70<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2004,
+        "question": "Find the average of the first four prime numbers greater than10",
+        "explanation": "First four prime numbers greater than 10 are 11, 13, 17, 19<br>The average \\(= \\frac{11+13+17+19}{4}=15\\)",
+        "correctIndex": 3,
+        "options": [
+            "20",
+            "19",
+            "17",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2004,
+        "question": "<p>Given that \\(\\sqrt{128}+\\sqrt{18}-\\sqrt{K} = 7\\sqrt{2}\\), find K,</p>",
+        "explanation": "<p>\\(\\sqrt{128} +\\sqrt{18}-\\sqrt{k}=7\\sqrt{2}\\\\<br>\n\\sqrt{2\\times 64}+\\sqrt{9\\times 2} - \\sqrt{k} = 7\\sqrt{2}\\\\<br>\n8\\sqrt{2} + 3\\sqrt{2} - \\sqrt{k} = 7\\sqrt{2}; 11\\sqrt{2} - \\sqrt{k} = 7\\sqrt{2}\\\\<br>\n-\\sqrt{k}=7\\sqrt{2}-11\\sqrt{2}; -\\sqrt{k} = -4\\sqrt{2}; \\sqrt{k}=4\\sqrt{2}\\\\<br>\n=\\sqrt{4^2\\times 2} = \\sqrt{16\\times 2}; \\sqrt{k}=\\sqrt{32}; k = 32\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "8",
+            "16",
+            "32",
+            "48"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18202232204_wamath0433.jpg\" class=\"img-fluid\">",
+        "explanation": "MPQ = PQM = 3x; ∆MPQ<br>MPQ + PQM + PMQ = 180<sup>o</sup>; 3x + 3x + 30<sup>o</sup>= 180<sup>o</sup><br>6x \\times 30<sup>o</sup>= 180<sup>o</sup>; 6x + 180<sup>o</sup>- 30<sup>o</sup>; 6x + 150<sup>o</sup><br>\\(x = \\frac{150}{6} = 25^{\\circ}\\)",
+        "correctIndex": 1,
+        "options": [
+            "10<sup>o</sup>",
+            "25<sup>o</sup>",
+            "35<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11201374552_wamath0434.jpg\" class=\"img-fluid\">",
+        "explanation": "Median = 0, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5<br>Median mark = \\(\\frac{3+3}{2} = \\frac{6}{2} = 3\\)",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1400171890_wamath0434.jpg\" class=\"img-fluid\">",
+        "explanation": "Prob (2 or 3) = prob(2) + prob(3)<br>Prob (mark 2) \\(=\\frac{7}{22}\\) + Prob(mark 3) = \\(\\frac{5}{22}\\)<br>Prob(2 or 3) \\(=\\frac{7}{22}+\\frac{5}{22}=\\frac{12}{22}=\\frac{6}{11}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{11}\\)",
+            "\\(\\frac{5}{22}\\)",
+            "\\(\\frac{7}{22}\\)",
+            "\\(\\frac{6}{11}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2004,
+        "question": "Find the range of values of x for which\\(\\frac{x+2}{4}-\\frac{x+1}{3}&gt;\\frac{1}{2}\\)",
+        "explanation": "\\(\\frac{x+2}{4}-\\frac{x+1}{3}&gt;\\frac{1}{2}\\\\<br>\\frac{3(x+2)-4(x+1)&gt;6}{12}; 3x + 6 – 4x – 4 &gt; 6\\<br>-x +2&gt;6; -x &gt; 4; x &lt; -4\\)",
+        "correctIndex": 3,
+        "options": [
+            "x &gt; 4",
+            "x &gt; -4",
+            "x &lt; 4",
+            "x &lt; -4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2004,
+        "question": "A boy walks 800m in 20 minutes. Calculate his average speed in km per hour",
+        "explanation": "\\(Average \\hspace{1mm}speed = \\frac{Distance}{Time\\hspace{1mm} taken}\\\\<br>Distance = 800m = \\frac{800}{1000}km = 0.8km\\\\<br>Time\\hspace{1mm}taken = 20\\hspace{1mm}minutes = \\frac{20}{60}hr=\\frac{1}{3}hr\\\\Average \\hspace{1mm} speed = \\left(0.8\\div \\frac{1}{3}\\right)km/hr = (0.8\\times3)km/hr\\\\=2.4km/hr\\)",
+        "correctIndex": 0,
+        "options": [
+            "2.4",
+            "4",
+            "16",
+            "24"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2004,
+        "question": "Simplify \\(\\frac{2}{a+b}-\\frac{1}{a-b}\\)",
+        "explanation": "Simplify \\(\\frac{2}{a+b}-\\frac{1}{a-b}; \\frac{2(a-b)-1(a+b)}{(a+b)(a-b)}\\)<br><br>= \\(\\frac{2a-2b-a-b}{(a+b)(a-b)}\\)<br><br>= \\(\\frac{a-3b}{a^2 - ab + ab - b^2}\\)<br><br>= \\(\\frac{a-3b}{a^2-b^2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{3}{a+b}\\)",
+            "\\(\\frac{a-3b}{a^2-b^2}\\)",
+            "\\(\\frac{3a-b}{a^2 – b^2}\\)",
+            "\\(\\frac{a-3b}{a^2+b^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18202243735_wamath0439.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>∠PQR (Reflex) = 360° – 68° = 292°<br>\n∠PQR = 2∠PQR<br>\n292° = 4x + 30°<br>\n4x = 292 – 30 = 262<br>\n\\(x = \\frac{262}{4}=65.5°\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "30<sup>o</sup>",
+            "50<sup>o</sup>",
+            "61<sup>o</sup>",
+            "78<sup>o</sup>",
+            "65.5\\(^{\\circ}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4200518352_wamath0440.jpg\" class=\"img-fluid\">",
+        "explanation": "x<sup>2</sup>+ 3x – 4 = 0 has roots value at the curve makes touches with the x – axis. The curve contact is at x = -4 and +1.",
+        "correctIndex": 3,
+        "options": [
+            "1, 4",
+            "-1, -4",
+            "-1, 4",
+            "-4, 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21002593890_wamath0440.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-4.7 and 1.4",
+            "-4.6 and 1.5",
+            "-3.6 and 0.4",
+            "-3.6 and 1.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2004,
+        "question": "Which of the following quadratic equations has \\(-\\frac{1}{2}\\) and \\(\\frac{3}{4}\\) as its roots?",
+        "explanation": "X<sup>2</sup>- (sum of the roots)x + (product of the roots) = 0<br>Sum of the roots \\(= -\\frac{1}{2}+\\frac{3}{4} = \\frac{-2+3}{2}=\\frac{1}{4}\\)<br>Product of the roots = \\(-\\frac{1}{2}\\times \\frac{3}{4}=\\frac{-3}{8}\\\\<br>X^2-\\left(\\frac{1}{4}\\right)x-\\frac{3}{8} = 0. Taking \\hspace{1mm}the\\hspace{1mm} common\\)<br>\\(8x^2-2x-3=0\\);",
+        "correctIndex": 3,
+        "options": [
+            "8x<sup>2</sup>+ 11x - 3 = 0",
+            "8x<sup>2</sup>-11x – 3 = 0",
+            "8x<sup>2</sup>+ 2x -3 = 0",
+            "8x<sup>2</sup>- 2x – 3 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2004,
+        "question": "The locus of a point which moves in a plane such that it is equidistant from two fixed points X and Y is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the perpendicular bisector of the line segment X Y",
+            "a line parallel to the line segment XY",
+            "a circle with XY as diameter",
+            "the line perpendicular to the line segment XY"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2004,
+        "question": "Given that \\(P\\propto \\frac{1}{\\sqrt{r}}\\) and p = 3 when r = 16, find the value of r when p =-5",
+        "explanation": "\\(P \\propto \\frac{1}{\\sqrt{r}} P=3\\hspace{1mm}r=16\\\\<br>P = \\frac{k}{\\sqrt{r}}\\Rightarrow 3 = \\frac{k}{\\sqrt{16}}\\Rightarrow \\frac{3}{1} = \\frac{k}{4} \\\\ \\Rightarrow K = 12 \\Rightarrow K = 12; P\\sqrt{r} = k \\Rightarrow \\sqrt{r} = \\frac{k}{p}\\\\<br>r = \\frac{(k)^2}{P}=12^2 \\div \\frac{3}{2}=\\left(\\frac{12}{1}\\times \\frac{2}{3}\\right)=8^2\\\\<br>r = 64\\)",
+        "correctIndex": 1,
+        "options": [
+            "48",
+            "64",
+            "72",
+            "324"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2004,
+        "question": "Which of the following is/are true? In a plane, the locus of points I. Equidistant from a straight line is a circle radius d where d is the distance between the point and the straight line.<br>II Equidistant from two given points P and Q is a circle of radius |PQ|. III Equidistant from two points is the perpendicular bisector of the line joining the two points.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2004,
+        "question": "<p>The sides of two cubes are in the ratio 2:5. What is the ratio of their volumes?</p>",
+        "explanation": "<p>The ratio of the two cubes = 2:5<br>\nVolume of the two cubes = 2\\(^3\\) : 5\\(^3\\) = 8 : 125</p>",
+        "correctIndex": 3,
+        "options": [
+            "4:5",
+            "8: 15",
+            "6:125",
+            "8:125"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2004,
+        "question": "Given that p = 2, q = -5 and r = - 4, evaluate 3p<sup>2</sup>- q<sup>2</sup>- r<sup>3</sup>",
+        "explanation": "3(2)<sup>2</sup>- (-5)<sup>2</sup>- (-4)<sup>3</sup><br>3(4) – (25) – (-64); 12 – 25 + 64 = 51",
+        "correctIndex": 2,
+        "options": [
+            "101",
+            "77",
+            "51",
+            "-27"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2004,
+        "question": "A Cooperative Society, charges an interest of 5<sup>1</sup>/<sub>2</sub>% per annum on any amount borrowed by its members. If a member borrows N125,000, how much does he pay back after one year?",
+        "explanation": "The rate of interest charge = 5<sup>1</sup>/<sub>2</sub>% p.a<br>The amount borrowed = N125, 000:00<br>Interest charge \\(=\\frac{11}{200} of N125,000\\\\<br>= 11 \\times N625.00 = N6,875.00\\)<br>The amount refunded by the member with interest charge by the cooperative society<br>N125,000+N6,875.00 = N131,875.00",
+        "correctIndex": 1,
+        "options": [
+            "N136875",
+            "N131,875",
+            "N126750",
+            "N126250"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2004,
+        "question": "A bag contains 3 red and 2 white identical balls. lf 2 balls are picked at random from the bag, one after the other and with replacement, find the probability that they are of different colours",
+        "explanation": "Prob(RW or WR) = Prob(RW) + Prob(WR)<br>\\(Prob(R) = \\frac{3}{5}:Prob(W) = \\frac{2}{5}\\\\<br>Prob(RW\\hspace{1mm}or\\hspace{1mm}WR)=\\frac{3}{5}\\times\\frac{2}{5}+\\frac{2}{5}\\times \\frac{3}{5}\\\\<br>\\frac{6}{25}+\\frac{6}{25}=\\frac{12}{25}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{36}{625}\\)",
+            "\\(\\frac{16}{625}\\)",
+            "\\(\\frac{12}{25}\\)",
+            "\\(\\frac{13}{25}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2004,
+        "question": "A point on the ground is 5m away from the foot of a vertical wall 7 m high, Calculate, correct to the nearest degree, the angle of depression of the point from the top of the wall",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/28005376780_wamath0450ans.jpg\" class=\"img-fluid\">\n</div>θ= angle of depression of the point from the top of the wall<br>\\(tan\\theta = \\frac{7}{5}=1.4; \\theta = tan^{-1}(1.400)\\<br>\\theta = 54.4^{\\circ}; \\theta = 54^{\\circ}\\) to the nearest degree",
+        "correctIndex": 3,
+        "options": [
+            "36<sup>o</sup>",
+            "44<sup>o</sup>",
+            "46<sup>o</sup>",
+            "54<sup>o</sup>"
+        ],
+        "type": "objectives"
+    }
+]

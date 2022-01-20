@@ -1,0 +1,802 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 1,
+        "year": 2017,
+        "question": "<p>Which of the following species determines the chemical properties of an atom?</p>",
+        "explanation": "<p>An element's chemical properties depend on its valence electrons.The chemical properties of elements depend on an element's electron configuration.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Electron",
+            "Neutron",
+            "Nucleus",
+            "Proton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 2,
+        "year": 2017,
+        "question": "<p>The following glasswares are used to measure the volume of liquids EXCEPT</p>",
+        "explanation": "<p>Test tubes are convenient containers for heating small amounts of liquids or solids with a Bunsen burner or alcohol burner.</p>",
+        "correctIndex": 2,
+        "options": [
+            "graduated beaker",
+            "pipette",
+            "test tube",
+            "burette"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 3,
+        "year": 2017,
+        "question": "<p>Pauli exclusion principle is related to</p>",
+        "explanation": "<p>Pauli Exclusion Principle states that, in an atom or molecule, no two electrons can have the same four electronic quantum numbers.</p>",
+        "correctIndex": 3,
+        "options": [
+            "quantity of electrons in the valence shell",
+            "filling the orbitals with lower energy first",
+            "the filling of degenerated orbitals",
+            "quantum numbers of electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 4,
+        "year": 2017,
+        "question": "<p>The species with no electron in the 3d-orbital is</p>",
+        "explanation": "<p>Scandium has electronic configuration \\(1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{1}4s^{2}\\) hence, \\(Sc^{3+}\\) has configuration \\(1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}\\). Hence, no electron in the 3d-orbital.</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(Zn^{2+}\\)",
+            "\\(Sc^{3+}\\)",
+            "Cu",
+            "\\(Mn\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 5,
+        "year": 2017,
+        "question": "<p>The seperation of Nitrogen from oxygen using fractional distillation of air is possible because</p>",
+        "explanation": "<p>The various gases vaporize as their boiling points are reached, then they are pumped away and separately re-liquefied for convenient storage.<br>\n </p>",
+        "correctIndex": 2,
+        "options": [
+            "nitrogen is less dense than oxygen",
+            "oxygen is more reactive than nitrogen",
+            "of the difference in their boiling points",
+            "they belong to the same period"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 6,
+        "year": 2017,
+        "question": "<p>The purity of a solid sample can best be determined by its</p>",
+        "explanation": "<p>The purity of a solid can be determined by measuring the melting point. A pure solid will have a single, sharp melting point.</p>",
+        "correctIndex": 1,
+        "options": [
+            "boiling point",
+            "melting point",
+            "conductivity",
+            "solubility"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 7,
+        "year": 2017,
+        "question": "<p>The mass of one mole of \\((NH_{4})_{2}CO_{3}\\) is   [O=16.0, N=14.0, C=12.0, H=1.0]</p>",
+        "explanation": "<p>This is same as asking for the molar mass of the compound</p><p>= \\((2\\times 14.0)+ (8\\times 1.0) + 12.0+(16.0\\times 3)\\)</p><p>= 28.0+8.0+12.0+48.0 = 96.0g</p>",
+        "correctIndex": 3,
+        "options": [
+            "66.0g",
+            "76.0g",
+            "80.0g",
+            "96.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 8,
+        "year": 2017,
+        "question": "<p>Atomic orbital is</p>",
+        "explanation": "<p>The orbital is a path or region around the nucleus. The electrons move in the orbitals and not through it.</p>",
+        "correctIndex": 1,
+        "options": [
+            "the circular path through which electrons revolve round the nucleus",
+            "a region around the nucleus where electrons are most likely to be found",
+            "the path around the nucleus through which electrons move",
+            "the path around the nucleus through which protons move"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 9,
+        "year": 2017,
+        "question": "<p>The property of elements which increases down a group of the periodic table is</p>",
+        "explanation": "<p>The ionic radius decreases across a period but increases along a group.</p>",
+        "correctIndex": 2,
+        "options": [
+            "electronegativity",
+            "electron affinity",
+            "ionic radius",
+            "ionization energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 10,
+        "year": 2017,
+        "question": "<p>The reason for the decrease in the atomic size of elements across a period is that</p>",
+        "explanation": "<p>This is caused by the increase in the number of protons and electrons across a period.</p>",
+        "correctIndex": 0,
+        "options": [
+            "nuclear charge increases while the outermost electrons are drawn closer to the nucleus",
+            "nuclear charge decreases while the outermost electrons are drawn closer to the nucleus",
+            "valence electrons increase across the period while the valence shell remains constant",
+            "nuclear charge decreases while the distance of the valence shell from the nucleus is increasing"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 11,
+        "year": 2017,
+        "question": "<p>The oxidation number of nitrogen in \\(Pb(NO_{3})_{2}\\) is</p>",
+        "explanation": "<p>\\(Pb(NO_{3})_{2}\\) = \\(+2 +2N + (-2\\times 6) = 0\\)</p><p>= \\(2N = 10\\)</p><p>⇒ \\(N = +5\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 12,
+        "year": 2017,
+        "question": "<p>Which of the following arrangements indicates the correct decreasing order of ionization energy of period 3 elements?</p>",
+        "explanation": "<p>As you move across a period, first ionization energy increases.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Na, Al, P, Cl",
+            "Cl, P, Al, Na",
+            "Na, P, Cl, Al",
+            "Al, Na, P, Cl"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 13,
+        "year": 2017,
+        "question": "<p>Which of the following metals has the strongest metallic bond?</p>",
+        "explanation": "<p>Aluminium has the highest magnitude of charge of +3, hence it will form a stronger metallic bond.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(_{13}Al\\)",
+            "\\(_{19}K\\)",
+            "\\(_{12}Mg\\)",
+            "\\(_{11}Na\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 14,
+        "year": 2017,
+        "question": "<p>Which of the following substances does not have van der Waals' forces?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Copper",
+            "Graphite",
+            "Neon",
+            "Iodine crystals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 15,
+        "year": 2017,
+        "question": "<p>The oxidation number of X in \\(XO_{4}^{3+}\\) is</p>",
+        "explanation": "<p>\\(XO_{4}^{3+}\\) = \\(X + (-2\\times 4) = -3\\)</p><p>\\(X = -3+8 = +5\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "+1",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 16,
+        "year": 2017,
+        "question": "<p>The ionization energy is affected by the following factors except</p>",
+        "explanation": "<p>These 3 factors affect the ionization energy:</p><ul>\n<li>Size of the positive nuclear charge</li>\n<li>Size of atom (<strong>distance</strong> of outermost electron from the nucleus)</li>\n<li>Screening effect of inner shell electrons</li>\n</ul>",
+        "correctIndex": 2,
+        "options": [
+            "distance of the outermost electron(s) from the nucleus",
+            "size of the positive nuclear charge",
+            "ability to attract shared electron(s)",
+            "screening effect of the inner electron(s)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 17,
+        "year": 2017,
+        "question": "<p>Which of the following statements is correct?</p>",
+        "explanation": "<p>One of the common features of materials with ionic bonds is that they conduct electricity when dissolved in water.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Covalent compounds would readily ionize in solution",
+            "Covalent compounds consist of ions",
+            "Hydrogen bond is formed between a metal and a non-metal",
+            "Ionic compounds in solution would conduct electricity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 18,
+        "year": 2017,
+        "question": "<p>The bond angle in tetrahedral molecules such as tetrachloromethane is </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "180.0°",
+            "109.5°",
+            "105.5°",
+            "90.0°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 19,
+        "year": 2017,
+        "question": "<p>The properties of a good primary standard include the following except</p>",
+        "explanation": "<p>Characters of a good primary standard include: high purity, low reactivity with the air or surrounding environment, low hygroscopicity, large molar mass, a predictable reactivity and readily available.</p>",
+        "correctIndex": 1,
+        "options": [
+            "high molecular mass",
+            "low molecular mass",
+            "high degree of purity",
+            "readily available"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 20,
+        "year": 2017,
+        "question": "<p>The use of diamond in abrasives is due to its</p>",
+        "explanation": "<p>Diamonds are very hard, they are often used as an abrasive.</p>",
+        "correctIndex": 1,
+        "options": [
+            "high melting point",
+            "hardness",
+            "octahedral shape",
+            "durability"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 21,
+        "year": 2017,
+        "question": "<p>Which of the following statements about endothermic reaction is correct?</p>",
+        "explanation": "<p>Endothermic reactions are those reactions which absorb energy from the surroundings and result in a net decrease in temperature.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Activation energy is high",
+            "A catalyst is required",
+            "It occurs reversibly",
+            "Heat energy is absorbed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 22,
+        "year": 2017,
+        "question": "<p>A 0.1\\(moldm^{-3}\\) solution of sodium hydroxide was diluted with distilled water to 0.001\\(moldm^{-3}\\). What is the dilution factor?</p>",
+        "explanation": "<p>Dilution factor = \\(\\frac{molar conc. of diluted}{molar conc. of undiluted}\\)</p><p>= \\(\\frac{0.001}{0.1} = 0.01\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "1000.00",
+            "100.00",
+            "10.00",
+            "0.01"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 23,
+        "year": 2017,
+        "question": "<p>Graphite and Diamond are similar in that they</p>",
+        "explanation": "<p>A diamond is pure carbon. Graphite is pure carbon. Both will burn to form carbon dioxide.</p>",
+        "correctIndex": 2,
+        "options": [
+            "have octahedral shape",
+            "have same density",
+            "form carbon(IV) oxide on combustion",
+            "conduct electricity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 24,
+        "year": 2017,
+        "question": "<p>In a saturated solution at a given temperature, the undissolved solutes are in equilibrium with</p>",
+        "explanation": "<p>A solution that is in equilibrium with undissolved solute is said to be saturated.</p>",
+        "correctIndex": 2,
+        "options": [
+            "the solvent",
+            "dissolved solute particles",
+            "the saturated solution",
+            "insoluble solute particles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 25,
+        "year": 2017,
+        "question": "<p>The number of atoms present in 2.5moles of a triatomic gas is equivalent to   [1mole = \\(6.02\\times 10^{23}\\)]</p>",
+        "explanation": "<p>1 mole = \\(6.02 \\times 10^{23}\\)</p><p>2.5 moles = \\(6.02 \\times 10^{23} \\times 2.5\\)</p><p>= \\(15.05 \\times 10^{23} = 1.505 \\times 10^{24}\\)</p><p>\\(\\approxeq 1.5 \\times 10^{24}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(2.5\\times 10^{23}\\)",
+            "\\(1.5\\times 10^{23}\\)",
+            "\\(1.5\\times 10^{24}\\)",
+            "\\(2.5\\times 10^{24}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 26,
+        "year": 2017,
+        "question": "<p>When Magnesium reacts with oxygen, heat is </p>",
+        "explanation": "<p>The Magnesium actually reacts with oxygen in the air, is burnt and produces a bright light. The bright light emits a lot of heat so the reaction is exothermic.</p>",
+        "correctIndex": 2,
+        "options": [
+            "absorbed and the reaction is endothermic",
+            "evolved and the reaction is endothermic",
+            "evolved and the reaction is exothermic",
+            "absorbed and the reaction is exothermic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 27,
+        "year": 2017,
+        "question": "<p>Which of the following gases is not acidic?</p>",
+        "explanation": "<p>The compound CO is treated as a neutral oxide, though in truth, it is slightly acidic. Regardless of this, within the options supplied, CO is the best option available.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(SO_{3}\\)",
+            "\\(NO_{2}\\)",
+            "\\(Co_{2}\\)",
+            "CO"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 28,
+        "year": 2017,
+        "question": "<p>A hydrocarbon contained 14.3% hydrogen. The empirical formula for the hydrocarbon is   [H= 1.0, C= 12.0]</p>",
+        "explanation": "<p>The percentage of Carbon in the compound is (100 - 14.3)%  = 85.7%</p><p>          C        :           H</p><p>\\(\\frac{85.7}{12.0}   :      \\frac{14.3}{1.0}\\)</p><p>\\( 7.14     :    14.3\\)</p><p>\\(\\frac{7.14}{7.14}     :     \\frac{14.3}{7.14}\\)</p><p>\\(\\approxeq   1  :   2\\)</p><p>Therefore, the empirical formula is \\(CH_{2}\\).</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(CH\\)",
+            "\\(CH_{2}\\)",
+            "\\(CH_{3}\\)",
+            "\\(CH_{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 29,
+        "year": 2017,
+        "question": "<p>Which of the following statements is NOT a chemical property of an acid?</p>",
+        "explanation": "<p>Ammonium salts react with bases to release ammonia and not with acids.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Evolution of ammonia when heated with ammonium salts",
+            "Evolution of carbon dioxide gas when added to a trioxocarbonate (IV) salt",
+            "Formation of salt and water with alkalis",
+            "Formation of salt and hydrogen gas with reactive metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 30,
+        "year": 2017,
+        "question": "<p>Halogens generally react with metals to form</p>",
+        "explanation": "<p>The word \"halogen\" is a Greek word meaning salt former, because they form salts when they react with metals eg NaCl.</p>",
+        "correctIndex": 3,
+        "options": [
+            "alkalis",
+            "acids",
+            "bases",
+            "salts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 31,
+        "year": 2017,
+        "question": "<p>Potassium Chloride solid does not conduct electricity because</p>",
+        "explanation": "<p>For a substance to conduct electricity, it must have charge particles like electrons and ions within it that are able to move freely throughout it. In its solid state, potassium chloride (like many other ionic compounds) have fixed ions, hence, they are immobile and can't conduct electricity.</p>",
+        "correctIndex": 1,
+        "options": [
+            "it is a covalent compound",
+            "strong cohesive forces make its ions immobile",
+            "strong cohesive force makes its molecule immobile",
+            "each of potassium and chlorine structures contain noble gas structure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 32,
+        "year": 2017,
+        "question": "<p>When water was added to a white anhydrous substance X, the colour changed to blue. X is</p>",
+        "explanation": "<p>When water is added to white coloured anhydrous copper sulphate, its colour changes to blue, indicating that the blue coloured copper sulphate pentahydrate is regenerated. </p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(CuSO_{4}\\)",
+            "\\(FeSO_{4}\\)",
+            "\\(Na_{2}SO_{4}\\)",
+            "\\(PbSO_{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 33,
+        "year": 2017,
+        "question": "<p>Solubility curve can be used in the determination of the</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "amount of crystals formed",
+            "amount of solvent that can be recovered",
+            "amount of solid drugs in a given solution",
+            "temperature of the solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 34,
+        "year": 2017,
+        "question": "<p>If 0.2g of a salt is required to saturate 200\\(cm^{3}\\) of water at room temperature, what is the solubility of the salt?</p>",
+        "explanation": "<p>Solubility in \\(gdm^{-3}\\) = \\(\\frac{mass of salt in gram}{volume of liquid in dm^{3}}\\)</p><p>200\\(cm^{3}\\) = \\(\\frac{200}{1000} dm^{3}  = 0.2dm^{3}\\)</p><p>Solubility = \\(\\frac{0.2g}{0.2dm^{3}}\\)</p><p>= 1.0\\(gdm^{-3}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.2\\(gdm^{-3}\\)",
+            "1.0\\(gdm^{-3}\\)",
+            "2.0\\(gdm^{-3}\\)",
+            "5.0\\(gdm^{-3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 35,
+        "year": 2017,
+        "question": "<p>The property of a chemical reaction that is affected by the presence of a catalyst is</p>",
+        "explanation": "<p>The activation energy is the amount of energy that is required to form products in a reaction. The presence of a catalyst helps to speed up the reaction such that the energy needed for the reaction is reduced.</p>",
+        "correctIndex": 0,
+        "options": [
+            "activation energy",
+            "free energy",
+            "equilibrium position",
+            "enthalpy change"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 36,
+        "year": 2017,
+        "question": "<p>Soluble salts can be prepared by the following methods except</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "neutralization",
+            "reaction of an acid with trioxocarbonate(IV) salt",
+            "double decomposition",
+            "reaction of an acid with electropositive metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 37,
+        "year": 2017,
+        "question": "<p>Chemical reactions occurs when the colliding reactants have energy that is</p>",
+        "explanation": "<p>The energy of the reactants must be more than the activation energy in order for product to be formed.</p>",
+        "correctIndex": 1,
+        "options": [
+            "less than the activation energy",
+            "greater than the activation energy",
+            "greater than the energy of the product",
+            "less than the energy of effective collision"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 38,
+        "year": 2017,
+        "question": "<p>The common feature of reactions at the anode is that</p>",
+        "explanation": "<p>In both the electrochemical cell and the electrolytic cell, at the anode, oxidation is involved.</p>",
+        "correctIndex": 2,
+        "options": [
+            "electrons are consumed",
+            "ions are reduced",
+            "oxidation is involved",
+            "the electrode dissolves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 39,
+        "year": 2017,
+        "question": "<p>Consider the following reaction equation: \\(2NO_{(g)} + O_{{2}{(g)}} \\to 2NO_{{2}{(g)}}\\). What is the change in the oxidation number of nitrogen?</p>",
+        "explanation": "<p>In NO, the oxidation number for nitrogen is N - 2 = 0</p><p>⇒ N = +2</p><p>In \\(NO_{2}\\), we have N - (2x2) =0</p><p>N - 4 =0</p><p>N =+4</p>",
+        "correctIndex": 2,
+        "options": [
+            "+2 to 0",
+            "+2 to -2",
+            "+2 to +4",
+            "+4 to +2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 40,
+        "year": 2017,
+        "question": "<p>Which of the following factors characterize members of the same homologous series?</p>",
+        "explanation": "<p>The difference between every successive member of the same homologous series is always \\(CH_{2}\\) eg methane is \\(CH_{4}\\) and ethane is \\(C_{2}H_{6}\\), difference being \\(CH_{2}\\).</p>",
+        "correctIndex": 3,
+        "options": [
+            "The chemical property change gradually throughout the series",
+            "physical properties of members are similar",
+            "They have the same molecular formular",
+            "Successive members undergo changes in molecular formula by \\(CH_{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 41,
+        "year": 2017,
+        "question": "<p>Calculate the mass of copper deposited if a current of 0.45A flows through \\(CuSO_{4}\\) solution for 1hour 15mins.   [Cu=64.0, S= 32.0, O =16.0, 1F= 96500C]</p>",
+        "explanation": "<p>\\(Cu^{2+} + 2e^{-}  \\to  Cu_{(s)}\\)</p><p>\\( 2 \\times 96500C = 193000C  deposits 64g of Cu\\)</p><p>\\(M \\propto It\\)</p><p>\\(Q = It = 0.45A \\times 1hr15mins\\)</p><p>= \\( 0.45 \\times 75 \\times 60\\) [converting the time to seconds]</p><p>Quantity of electricity passed = 2025C</p><p>\\(193000C \\to 64g Cu\\)</p><p>\\(1C \\to \\frac{64}{193000}\\)</p><p>\\(2025C \\to \\frac{64}{193000} \\times 2025\\)</p><p>\\(= 0.6715g  \\approxeq  0.67g\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "6.40g",
+            "0.67g",
+            "0.64g",
+            "0.45g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 42,
+        "year": 2017,
+        "question": "<p>Classification of alkanols is based on the </p>",
+        "explanation": "<p>Alkanols can be classified as primary, secondary or tertiary, according to the number of alkyl groups attached to the carbon which bears the -OH group. </p>",
+        "correctIndex": 3,
+        "options": [
+            "number of carbon atoms present in the compound",
+            "molecular mass of the compound",
+            "molecular formula of the compound",
+            "number of alkyl groups bonded to the carbon having the hydroxyl group"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 43,
+        "year": 2017,
+        "question": "<p>The name of the compound \\(C_{4}H_{9}COOC_{3}H_{7}\\) is</p>",
+        "explanation": "<p>The alkyl group is attached to the parent chain being a carboxylic acid. The name of the compound is gotten by writing the name of the attached alkyl group first and then the parent carboxylic acid is written but you change the -oic acid to -oate. </p><p>The alkyl group in this case is \\(C_{3}H_{7}\\)</p><p>The parent carboxylic acid is \\(C_{4}H_{9}COOH\\) which is pentanoic acid. </p><p>Hence, the name is propyl pentanoate.</p>",
+        "correctIndex": 0,
+        "options": [
+            "propyl pentanoate",
+            "pentyl propanoate",
+            "butyl propanoate",
+            "propyl butanoate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 44,
+        "year": 2017,
+        "question": "<p>Which of the following pairs of gases are pollutants from car exhaust?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Nitrogen(II) oxide and Carbon(IV) oxide",
+            "Carbon(IV) oxide and Nitrogen",
+            "Carbon(II) oxide and Sulphur(IV) oxide",
+            "Carbon(II) oxide and oxygen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 45,
+        "year": 2017,
+        "question": "<p>Fats and oils can be obtained from any of the following sources except</p>",
+        "explanation": "<p>Paraffin oil is gotten from petroleum distillation and can't be a source of fats and oil.</p>",
+        "correctIndex": 0,
+        "options": [
+            "paraffin oil",
+            "animals",
+            "groundnuts",
+            "palm kernel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 46,
+        "year": 2017,
+        "question": "<p>The condensation of two units of glucose will produce a dissacharide with the formula \\(C_{12}H_{22}O_{11}\\) which is</p>",
+        "explanation": "<p>A maltose is a dissacharide formed from two units of glucose.</p>",
+        "correctIndex": 1,
+        "options": [
+            "sucrose",
+            "maltose",
+            "galactose",
+            "mannose"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 47,
+        "year": 2017,
+        "question": "<p>The IUPAC name for the compound \\(ClCH_{2}CH_{2}OH\\) is</p>",
+        "explanation": "<p>The parent chain for the compound is \\(C_{2}H_{5}OH\\) in which one of the hydrogen atoms is replaced by the Cl atom. Giving the chlorine the smallest number while naming, we have 1- chloroethanol.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1- chloropropanol",
+            "2-chloropropanol",
+            "1-chloroethanol",
+            "2-chloroethanol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 48,
+        "year": 2017,
+        "question": "<p>The real harmful effect of the release of chlorofluorocarbons into the atmosphere is that it eventually causes</p>",
+        "explanation": "<p>Chlorofluorocarbons are harmful to environment and living beings because it increases greenhouse gases in the environment which results in forming holes in the ozone layer.. And if this happens it will cause to an increase in the ultraviolet rays exposer, and which will make the earth's surface much hotter than usual.</p>",
+        "correctIndex": 0,
+        "options": [
+            "excessive ultraviolet light from the sun to reach the earth surface",
+            "excessive release of infrared light from the sun to the earth surface",
+            "corrosive effect of the chemicals on humans and animals",
+            "acidic effect of chemicals on humans"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 49,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/eQP9YLl1gA640pJmhDuLM267JHWhE41iazEj9H2z.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Alkanols have the formula \\(C_{n}H_{2n+1}OH\\).</p><p>⇒  \\( 12n + (1\\times (2n+1)) + 16.0 + 1.0 = 60\\)</p><p>= (14n +18 = 60\\)</p><p>\\(n = \\frac{60-18}{14} = \\frac{42}{14} = 3\\)</p><p>Hence, the alkanol is gotten by putting n=3,</p><p>=\\(C_{3}H_{7}OH\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 50,
+        "year": 2017,
+        "question": "<p>Petroleum is a non-renewable source of energy because it</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "is formed naturally",
+            "is cheap",
+            "can be recycled after use",
+            "cannot be regenerated once used up"
+        ],
+        "type": "objectives"
+    }
+]

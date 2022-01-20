@@ -1,0 +1,610 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2020,
+        "question": "<p>A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is due to?</p>",
+        "explanation": "<p>Diffusion is the tendency of molecules to migrate and fill an empty space due to their random thermal motions.</p><p>in diffusion, the diffusing molecules move from the places where their concentration high to places where their concentration is low.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "convection",
+            "osmosis",
+            "capillarity",
+            "diffusion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2020,
+        "question": "<p>The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{mv^2}{r}\\)",
+            "\\(\\frac{mr^2}{x}\\)",
+            "\\(\\frac{mr}{v}\\)",
+            "\\(\\frac{mv}{r^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2020,
+        "question": "<p>A machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms\\(^{-1}\\). The recoil speed of the machine gun is </p>",
+        "explanation": "<p>Gun Momentum = bullet momentum </p><p>M\\(_a\\)V\\(_a\\) = M\\(_b\\)V\\(_b\\)</p><p>5 x V\\(_a\\) = 0.05 x 100 </p><p>V\\(_a\\) = 1m\\(^{-1}\\) </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.5 ms\\(^{-1}\\)",
+            "1.5 ms\\(^{-1}\\)",
+            "1 ms\\(^{-1}\\)",
+            "2ms\\(^-1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2020,
+        "question": "<p>If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?</p>",
+        "explanation": "<p>In a simple pendulum, T = 2\\(\\pi\\)\\(\\sqrt{\\frac{L}{g}}\\)</p><p>\\(\\frac{T_1}{T_2} = \\sqrt{\\frac{L_1}{L_2}}\\)  but L\\(_2\\) = 4L\\(_1\\) </p><p>\\(\\frac{T_1}{T_2} = \\sqrt{\\frac{L_1}{4L_1}}\\)</p><p>T\\(_2\\) = 2T\\(_1\\) </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "4",
+            "\\(\\frac{\\pi}{2}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2020,
+        "question": "<p>In what range of temperature is the expansion of water anomalous?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "+208\\(^o\\)C to +212\\(^o\\)C",
+            "-80\\(^o\\)C + -76\\(^o\\)C",
+            "0\\(^o\\)C to +4\\(^o\\)C",
+            "-4\\(^o\\)C to +0\\(^o\\)C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2020,
+        "question": "<p>Which of the following statements about radioactivity is true?</p><p>(i) Alpha particle is positively charged</p><p>(ii) Beta particle is negatively charged</p><p>(iii) Gamma ray is neutral</p><p>(iv) Beta particle has the  same mass as helium atom</p><p>(v) Gamma ray is charged. </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i, ii, iii, iv only",
+            "i, ii, iii only",
+            "iv and v only",
+            "i, ii and v only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/xhSrT4ixHqzblALsM1jUuSGY7mozs2cvcMcS5MN1.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Temperature is a measure of the average kinetic energy of the molecules of a substance",
+            "Heat is a measure of the total kinetic energy of the molecules in a system",
+            "Different materials require different amounts of heat to cause a given change in temperature",
+            "All of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/DY5IwHUFqLN10SwOQI26zyQ9aiGAONxP3dbregOv.jpeg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/PTYqQJW5qzZFs9jXiwLhK3TR8O7zxqmbUrnKw5NK.jpeg\" class=\"img-fluid\">\n</div><p>When K is open. Total Resistance = 8 + 2 = 10\\(\\Omega\\)</p><p>1 = \\(\\frac{V}{\\Omega}\\) =  \\(\\frac{6v}{\\Omega}\\) = 0.6A</p><p>Where K is closed, \\(\\frac{1}{8} + \\frac{1}{8} = \\frac{1}{\\Omega}\\) </p><p>\\(\\frac{2}{8} = \\frac{1}{\\Omega}\\)</p><p>\\(\\Omega\\) = \\(\\frac{8}{2}\\) = 4\\(\\Omega\\)</p><p>\\(\\Omega\\) = \\(\\frac{8}{2}\\) = 4\\(\\Omega\\)</p><p>4\\(\\Omega\\)  in series with 2\\(\\Omega\\)= 6\\(\\Omega\\)</p><p>1 = \\(\\frac{V}{\\Omega}\\)  = \\(\\frac{6}{6}\\) = 1A</p><p>1 - 0.6A = 0.4A increase</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "increase the current by 0.4A",
+            "reduce the current by 0.4A",
+            "increase the current by 0.6A",
+            "reduce the current by 0.6A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2020,
+        "question": "<p>Which of the following statements on the use of X-rays is incorrect? X-rays are used</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "In a hospital to obtain photographs of tissues and bones in the body",
+            "For the treatment of malignant growths like cancer cells",
+            "In detecting fingerprints",
+            "To reveal hidden flaws in metal castings and welded joints work of art"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2020,
+        "question": "<p>Natural radioactivity consists of emission?</p><p> </p><p> </p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\alpha\\)-particles and \\(\\beta\\)-rays",
+            "\\(\\alpha\\)-particles and X-rays",
+            "\\(\\gamma\\)-ray and X-rays",
+            "\\(\\alpha\\)-particles and \\(\\beta\\)-rays and \\(\\gamma\\)-rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2020,
+        "question": "<p>If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "doppler effect",
+            "resonance",
+            "ultra sound",
+            "rarefaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2020,
+        "question": "<p>Which of the following can be described as high tension transmission? </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "High resistance and low voltage",
+            "Low current and high voltage",
+            "High current and low voltage",
+            "High current and low resistance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2020,
+        "question": "<p>What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N0.65",
+            "N0.39",
+            "N3.90",
+            "N0.13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2020,
+        "question": "<p>Tha mass of a proton is approximately equal to that of </p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "an \\(\\alpha\\)-particle",
+            "a \\(\\beta\\)-Particle",
+            "a neutron",
+            "an electron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2020,
+        "question": "<p>A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is </p>",
+        "explanation": "<p>For transformation, Es = e.m.f. of secondary coil </p><p>Ep = Np </p><p>Np = e.m.f. of secondary coil </p><p>Ns = number of turns in secondary coil </p><p>Ns = number of turns in primary coil </p><p>\\(\\frac{30}{300}\\) = \\(\\frac{x}{100}\\) = 300 </p><p>X = 3000 </p><p>X = 10 volts </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "5 volts",
+            "10 volts",
+            "15 volts",
+            "20 volts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2020,
+        "question": "<p>A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is </p>",
+        "explanation": "<p>Relative density of solid</p><p>\\(\\frac{\\text{weight of solid}}{\\text{weight of an equal volume of water}}\\)</p><p>= \\(\\frac{4.8}{4.8 - 2.8}\\) </p><p>= \\(\\frac{4.8}{2}\\) = 2.4</p><p>Relative density of liquid </p><p>=   \\(\\frac{\\text{Weight  of liquid kerosine}}{\\text{Weight of an equal volume of water}}\\) </p><p>= \\(\\frac{4.8 - 3.2}{4.8 - 2.8}\\)  = \\(\\frac{1.6}{2}\\) = 0.8</p><p>= \\(\\frac{\\text{Ratio of relative density of solid}}{\\text{Relative density of Kerosine}}\\) </p><p>= \\(\\frac{\\text{density of solid}}{\\text{density of Kerosine}}\\)</p><p>= \\(\\frac{2.4}{0.8}\\) </p><p>= 3</p><p> </p><p> </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "2",
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2020,
+        "question": "<p>One of the following readings represents the measurement of the length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "5.16cm",
+            "5.165cm",
+            "5.0cm",
+            "5.160cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2020,
+        "question": "<p>When a sound wave passes from air into water its </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "speed and frequency increases but its wavelength remains the same",
+            "speed and wavelength increases but its frequency remains the same",
+            "speed decreases",
+            "speed increases but its frequency and wavelength decreases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2020,
+        "question": "<p>A convex mirror is used as a driving mirror because </p><p>I. its image is erect     </p><p>II. It has a large field of view</p><p>III. It has a long focal length </p><p>Identify the CORRECT statement(s) </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I and III only",
+            "I and II only",
+            "II and IIII only",
+            "I, II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/SYq9uQIDdyyLwX3vH536j0zFDKoL8jCJkym0K0Vy.jpeg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/DAYlbdnSyXd1zOjihowDluJYbcFmcHg4BTO1eHb3.jpeg\" class=\"img-fluid\">\n</div><p>Deviation angle </p><p>= \\(\\theta_1 + \\theta_2\\) = 50 + 50 + 40 + 40</p><p>= 180\\(^o\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "220\\(^o\\)",
+            "200\\(^o\\)",
+            "210\\(^o\\)",
+            "180\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2020,
+        "question": "<p>A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are </p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0\\(^o\\) and 0\\(^o\\)",
+            "60\\(^o\\) and 60\\(^o\\)",
+            "90\\(^o\\) and 90\\(^o\\)",
+            "90\\(^o\\) and 0\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2020,
+        "question": "<p>A hydrometer is an instrument for measuring the </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a depth of water of water in a vessel",
+            "relative density of a liquid by the method of flotation",
+            "relative density of a liquid by finding the apparent loss in weight",
+            "relative humidity of the air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5p6pD30djBv9ICt9LR07iUiFNWGqbhOS2M9xuoLf.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I, II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2020,
+        "question": "<p>The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 x 10\\(^8ms^{-1}\\), the velocity of light in the liquid is </p>",
+        "explanation": "<p>n = \\(\\frac{\\text{speed in air}}{\\text{speed in glass}}\\) </p><p>1.5 = \\(\\frac{3 \\times 10^4}{\\text{speed in glass}}\\)</p><p>Speed in glass = 3 x 10\\(^8\\)m/s / 1.5</p><p>= 2 x 10\\(^8\\)m/s</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "1.5 x 10\\(^8ms^{-1}\\)",
+            "2.0 x 10\\(^8ms^{-1}\\)",
+            "3.0 x 10\\(^8ms^{-1}\\)",
+            "4.5 x 10\\(^8ms^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2020,
+        "question": "<p>A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff?</p>",
+        "explanation": "<p>Difference in time = 1 sec</p><p>echo time = 1 \\(\\div\\) 2 = 0.5 sec</p><p>Difference of cliff from ship = 0.5 x 250</p><p>= 125m</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "10m",
+            "350m",
+            "175m",
+            "125m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2020,
+        "question": "<p>Which of the following statements about defects of vision is/are CORRECT? </p><p>I. For a long sighted person, close objects appear blurred</p><p>II. For a short sighted person, distant objects appear blurred </p><p>III. Short sight is corrected by using a pair of converging lenses </p>",
+        "explanation": "<p>Statements I &amp; II are correct</p><p>Statement III is incorrect because short sightedness is corrected by using suitable concave or diverging lens</p><p>Hence; option C is the correct option</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2020,
+        "question": "<p>Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?</p><p>I. Light is passing from optical denser medium to optically less dense medium</p><p>II. Light is passing from optically less dense medium to optically denser medium</p><p>III. Angle of incidence is greater than a certain critical value</p><p>IV. Angle of incidence is lesser  than a certain critical value</p><p> </p>",
+        "explanation": "<p>The conditions for total internal reflection include <strong>light</strong> traveling from an optically denser medium (higher refractive index) to an optically less dense medium (lower refractive index) and that the <strong>angle</strong> of incidence is greater than the critical <strong>angle</strong>.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "I and II only",
+            "II only III only",
+            "III and IV only",
+            "I and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2020,
+        "question": "<p>The linear expansivity of brass is 2 x 10\\(^{-5}\\)  \\(^oC^{-1}\\). If the volume of piece of brass is 10cm\\(^3\\) at 0\\(^o\\)C. What will be its volume at 100\\(^o\\)C? </p>",
+        "explanation": "<p>3 x \\(\\alpha\\) = \\(\\frac{V_2 - V_1}{V_1 \\times \\Delta \\theta}\\)</p><p>3 x 2 x 10\\(^{-5}\\) = \\(\\frac{V_2 - 10}{100 \\times 10}\\) </p><p>V\\(_2\\) = (100 x 10 x 3 x 2 10\\(^{-2}\\)) + 10</p><p>= 10.06 cm\\(^3\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "10.06cm\\(^3\\)",
+            "10.04 cm\\(^3\\)",
+            "10.02 cm\\(^3\\)",
+            "10.20 cm\\(^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2020,
+        "question": "<p>The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius? </p>",
+        "explanation": "<p>\\(\\frac{49 - 0}{210 - 0}\\) = \\(\\frac{\\theta - 0}{100 - \\theta}\\) </p><p>\\(\\frac{49}{210} = \\frac{\\theta}{100}\\) </p><p>49 x 100 = 210 x \\(\\theta\\) </p><p>\\(\\theta = \\frac{4900}{210}\\) = 23.3\\(^o\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "55.3\\(^o\\)C",
+            "23.3\\(^o\\)C",
+            "49.0\\(^o\\)C",
+            "16.43\\(^o\\)C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2020,
+        "question": "<p>Heat is supplied uniformly at the rate of 100W to 1.0 x 10\\(^{-2}\\)kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5\\(^o\\)C, then the specific heat capacity of the liquid is </p>",
+        "explanation": "<p>Heat energy = Electrical Energy </p><p>MC\\(\\theta\\) = power x time </p><p>5 x 1 x 10\\(^{-2}\\) x C = 100 x 20 </p><p>C = \\(\\frac{200}{5 \\times 10^2}\\) </p><p>= 4 x 10\\(^4\\) J/kg/\\(^oC\\) </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.0 x 10\\(^2\\)Jkg\\(^-1\\)K\\(^-1\\)",
+            "2.0 x 10\\(^2\\)Jkg\\(^-1\\)",
+            "4.0 x 10\\(^4\\)Jkg\\(^-1\\)K\\(^-1\\)",
+            "4.0 x 10\\(^4\\)Jkg\\(^-1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2020,
+        "question": "<p>Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is O\\(_1\\) while the pressure on H is P\\(_2\\), If the atmospheric pressure is equivalent to 10m of water, then the value of P\\(_2\\)/P\\(_1\\) is</p><p> </p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.50",
+            "0.60",
+            "1.67",
+            "2.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/YGpJldeLPouIgwLwpRSbkK1Q9aV2ycrWrjmQ9Ggj.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>V.E = 6, load = 120N </p><p>Efficiency = M.A x \\(\\frac{1}{V.R}\\) x 100%</p><p>40 = \\(\\frac{120}{effort}\\) x \\(\\frac{1}{6}\\) x \\(\\frac{100}{1}\\) </p><p>Effort = 50N</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "28.0N",
+            "48.0N",
+            "288.0N",
+            "50.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/cQ5mbtQdfDn5pVlVtNKJvKJuO4ZdxR8IErZsQldH.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "cooling temperature",
+            "boiling point",
+            "melting point",
+            "vaporization point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/Uc07fBz6cnNEYbjRk4PG630LkBcGNMQGODVAeME4.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>R\\(_T\\) = \\(\\frac{V}{1} = \\frac{12}{2}\\) = 6\\(\\Omega\\) </p><p>R\\(_T\\) = 3 + \\(\\frac{R \\times 6}{R + 6}\\) </p><p>R = 6\\(\\Omega\\) </p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3\\(\\Omega\\)",
+            "6\\(\\Omega\\)",
+            "4\\(\\Omega\\)",
+            "5\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2020,
+        "question": "<p>Which of the following instruments consumes the highest current?</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td>\n<p>I. Electric iron</p>\n<p>II. Television set</p>\n<p>III. Torch light</p>\n<p>IV. Immersion heater</p>\n</td>\n<td>\n<p>250v</p>\n<p>220v</p>\n<p>6v</p>\n<p>110v</p>\n</td>\n<td>\n<p>1kW</p>\n<p>110W</p>\n<p>30W</p>\n<p>500W</p>\n</td>\n</tr>\n</tbody>\n</table><p>2</p>",
+        "explanation": "<p>(I)  I = \\(\\frac{P}{V} = \\frac{1000}{25}\\) = 4A</p><p>(II) I = \\(\\frac{110}{220}\\) = 0.5A</p><p>(III) I = \\(\\frac{30}{6}\\) = 5A</p><p>(IV) I = \\(\\frac{500}{110}\\) = 4.55A</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/gRXJ3QOkgnEDBIbqK54L1xwkq4t9ebfbukVQR1wk.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2020,
+        "question": "<p>Which of the following pairs is part of the electromagnetic spectrum? </p><p>I. Radio waves</p><p>II. sound waves</p><p>III. Gamma rays</p><p>IV. water waves</p>",
+        "explanation": "<p>Examples of electromagnetic waves are radio waves, X-rays, gamma rays, light rays, etc</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "I and II",
+            "III and IV",
+            "I and III",
+            "II and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2020,
+        "question": "<p>A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time? </p>",
+        "explanation": "<p>Let the count rate at zero time be N </p><p>N \\(\\frac{3 min}{\\to}\\)  \\(\\frac{N}{2}\\) \\(\\frac{3 min}{\\to}\\) \\(\\frac{N}{4}\\)</p><p>\\(\\frac{N}{4}\\) </p><p>= 400</p><p>N = \\(\\frac{400}{N/4}\\) x N </p><p>= 1600</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1600",
+            "1200",
+            "200",
+            "2400"
+        ],
+        "type": "objectives"
+    }
+]

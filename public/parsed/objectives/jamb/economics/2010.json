@@ -1,0 +1,786 @@
+[
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2010,
+        "question": "<p>Economics is the study of human behaviour as it relates to the</p>",
+        "explanation": "<p>Economics as the study of human behaviour has to do with efficiently allocating scarce resources to satisfy human wants. These human wants are unlimited, hence humans would rationally allocate resources to wants that will give them the highest level of satisfaction. </p>",
+        "correctIndex": 0,
+        "options": [
+            "efficient allocation of resources",
+            "production of goods",
+            "operation of companies",
+            "generation of income"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2010,
+        "question": "<p>The downturn in the prices of shares on stock markets is a highlight of</p>",
+        "explanation": "<p>What is a regulated market? A regulated market is one that is supervised or controlled to some extent by the government or established public body. Most financial trading exchanges such as stock markets are regulated.</p><p>The federal government regulates much of the stock market's activity to protect investors and ensure the fair exchange of corporate ownership on the open markets.</p>",
+        "correctIndex": 2,
+        "options": [
+            "efficient allocation of resources",
+            "the invisible hand",
+            "the regulatory nature of the market",
+            "consumer rationality"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2010,
+        "question": "<p>The standard deviation of a set of data is</p>",
+        "explanation": "<p>The standard deviation is a statistic that measures the dispersion of a dataset relative to its mean and is calculated as the square root of the variance. </p>",
+        "correctIndex": 3,
+        "options": [
+            "always measured from the mode",
+            "the most representative of averages",
+            "always measured from the median",
+            "a measure of dispersion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2010,
+        "question": "<p>The mean is the best measure of central tendency because it</p>",
+        "explanation": "<p>The mean is an important measure because it incorporates the score from every subject in the research study. It includes all the data in a set to arrive at an answer.</p>",
+        "correctIndex": 0,
+        "options": [
+            "is not affected by extreme values in a data",
+            "is a midpoint value in an array of data",
+            "is a balancing point in an observation",
+            "can be calculated from incomplete data"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2010,
+        "question": "<p>The most popular sizes of dresses and shoes are determined by the</p>",
+        "explanation": "<p>The mode of a set of data is the value that appears most often. </p><p>From the question above, the size of dresses and shoes with the highest occurence or appearance would be easily determine by the mode. This is so because, after the data is organized according to different sizes putting the numbers in order, then count how many of each number. A number that appears most often is the mode.</p>",
+        "correctIndex": 2,
+        "options": [
+            "range",
+            "mean",
+            "mode",
+            "median"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2010,
+        "question": "<p>If the demand for a good is more elastic than its supply, the tax burden is borne</p>",
+        "explanation": "<p>If the demand for a good is elastic it means a change in price would affect a change in quantity demanded.</p><p>Now if the demand for that good is more elastic than its supply, the tax burden is borne by the producer. This is because, when there is an increase in price it will lead to a decrease in the quantity demanded, consumers would most likely move on to consume a substitute, hence the producer of that product would be left to bear the burden of any other additional increment in taxes or running cost.</p>",
+        "correctIndex": 1,
+        "options": [
+            "equally by consumers and producers",
+            "more by producers",
+            "more by consumers",
+            "more by retailers and producers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2010,
+        "question": "<p>If the price of a commodity with elastic demand increases, the revenue accruing to the producer will</p>",
+        "explanation": "<p>If the demand for a good is elastic, the producer revenue will reduce. This is because, when there is an increase in price it will lead to a decrease in the quantity demanded, consumers would most likely move on to consume a substitute, hence the producer of that product would loose revenue as a result of a drop in sales.</p>",
+        "correctIndex": 3,
+        "options": [
+            "double",
+            "increase",
+            "be constant",
+            "decrease"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2010,
+        "question": "Consumer surplus tends to be higher when demand is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "inelastic",
+            "perfectly elastic",
+            "elastic",
+            "unitarily elastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2010,
+        "question": "<p>One of the assumptions of ordinal utility theory is that</p>",
+        "explanation": "<p>An ordinal utility function is a function representing the preferences of an agent on an ordinal scale. Ordinal utility theory claims that it is only meaningful to ask which option is better than the other, but it is meaningless to ask how much better it is or how good it is. This means that utility can only be ranked and not measured as claimed by other theories.</p>",
+        "correctIndex": 1,
+        "options": [
+            "choice is not consistent",
+            "utility can be ranked",
+            "total utility is a function of price",
+            "satisfaction is measurable"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2010,
+        "question": "<p>The law of diminishing marginal utility explains why</p>",
+        "explanation": "<p> In economics, the law of diminishing marginal utility states that the marginal utility of a good or service declines as its supply increases.</p><p>The law of diminishing marginal utility helps to explain the negative slope of the demand curve and the law of demand. If the satisfaction obtained from a good declines, then buyers are willing to pay a lower price, hence demand price is inversely related to quantity demanded, which is the law of demand.</p>",
+        "correctIndex": 0,
+        "options": [
+            "the slope of a normal demand curve is negative",
+            "an abnormal demand curve slopes upwards",
+            "the slope of a normal demand curve is positive",
+            "the consumption of inferior goods increases with income"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2010,
+        "question": "<p>If a consumer plans to spend 120k on four oranges but spent 80k, his consumer surplus is</p>",
+        "explanation": "<p>Consumer Surplus is the difference between the price that consumers pay and the price that they are willing to pay. </p><p>consumer surplus = 120 - 80 = 40</p>",
+        "correctIndex": 1,
+        "options": [
+            "N1.50",
+            "N0.40",
+            "N1.00",
+            "N2.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2010,
+        "question": "<p>A set of factors that can shift the supply curve are changes in</p>",
+        "explanation": "<p>A shift in the supply curve is brought about by a change in supply. Changes in production cost and related factors can cause an entire supply curve to <strong>shift</strong> right or left.</p><p>A supply curve will shift to the right when there is an increase in the change in supply, and it will shift to the left when there is a decrease in the change in supply.</p><p>Some of the factors that may cause a supplier to be unable to supply to the market include;</p><p>- changes in the costs of production.<br>\n- changes in technology.<br>\n- population size.<br>\n- government taxes/subsidies/regulations.<br>\n- weather conditions.<br>\n- wars/disaster</p>",
+        "correctIndex": 1,
+        "options": [
+            "weather, price and technology",
+            "technology, weather and population",
+            "technology, price and taste",
+            "population, price and taste"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2010,
+        "question": "<p>If the coefficient of price elasticity of supply is greater than one, the supply is said to be</p>",
+        "explanation": "<p>If a price elasticity of supply is greater than 1, it means supply is relatively or fairly elastic</p>",
+        "correctIndex": 3,
+        "options": [
+            "perfectly elastic",
+            "fairly inelastic",
+            "infinitely inelastic",
+            "fairly elastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2010,
+        "question": "<p>If commodity X is a by-product of commodity Y , this implies that both commodities are</p>",
+        "explanation": "<p>When the process of making one thing results in a second product as well, that second thing is called a byproduct. Example The production of computer systems, require a software to function, hence would be jointly supplied.</p><p>Composite Supply is one where 2 or more goods or services are supplied together. </p>",
+        "correctIndex": 1,
+        "options": [
+            "in competitive supply",
+            "in composite supply",
+            "jointly supplied",
+            "in excess supply"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2010,
+        "question": "<p>In perfect competition,price is determined by the</p>",
+        "explanation": "<p>The price in perfect competition is determined by market forces which is demand and supply. There is one market price in perfect competition, firms can't charge different prices as they are selling identical products. In perfect competition the firms and sellers are <em>price</em> takers.</p>",
+        "correctIndex": 3,
+        "options": [
+            "government",
+            "sellers",
+            "buyers",
+            "market"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2010,
+        "question": "<p>In order to reduce hardship faced by consumers due to high prices government can introduce</p>",
+        "explanation": "<p>Price controls are government-mandated minimum or maximum prices that can be charged for specified goods.</p><p>The government would normally fix a maximum price at which goods are to be sold. Maximum prices can reduce the price of food to make it more affordable to the citizens and reduce hardship and exploitation from sellers. But the problem is a maximum price may lead to lower supply and a shortage. </p>",
+        "correctIndex": 0,
+        "options": [
+            "maximum prices",
+            "commodity boards",
+            "minimum prices",
+            "price control boards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2010,
+        "question": "Average product is less than marginal product when",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "there is constant returns to scale",
+            "there is increasing returns to scale",
+            "there is decreasing returns to scale",
+            "diminishing returns set in"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2010,
+        "question": "<p>A firm enjoying economies of scale is said to be</p>",
+        "explanation": "<p>As long as the Long run average cost curve is declining, then internal economies of scale are being exploited. If LRAC is falling when output is increasing, then the firm is experiencing economies of scale.</p>",
+        "correctIndex": 0,
+        "options": [
+            "reducing average cost as production increases",
+            "benefiting from the activities of other firms",
+            "maximizing profits as production increases",
+            "having an upward-sloping average cost curve"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2010,
+        "question": "<p>The rising portion of the long-run average cost curve of a firm is an indication that it is experiencing</p>",
+        "explanation": "<p>The long-run average cost (LRAC) curve shows the firm's lowest cost per unit at each level of output, assuming that all factors of production are variable.</p><p>As long as the LRAC curve is declining, then internal economies of scale are being exploited. If LRAC is falling when output is increasing, then the firm is experiencing economies of scale. If it is rising, it means the firm is experiencing diseconomies of scale.</p>",
+        "correctIndex": 2,
+        "options": [
+            "increasing efficiency",
+            "economies of scale",
+            "diseconomies of scale",
+            "increasing marginal returns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2010,
+        "question": "<p>An industry's supply curve is more likely to be elastic when firms are</p>",
+        "explanation": "<p>Elastic supply curves indicate that the quantity supplied responds to price changes in a greater than proportional manner. An industry supply curve would most likely be elastic if the industry is operating in a market where there is free entry and exit.</p><p>The industry may decide to exit the market if the prices offered for its products are not good enough, and decide to come back when the products are well priced.  </p>",
+        "correctIndex": 0,
+        "options": [
+            "enjoying free entry and exit",
+            "operating at full capacity",
+            "operating below capacity",
+            "maximizing profits"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2010,
+        "question": "<p>One of the characteristics of monopolistic competition is that</p>",
+        "explanation": "<p>Monopolistic competition is an industry in which many firms offer products or services that are similar, but not perfect substitutes. Barriers to entry and exit in a monopolistic competitive industry are low, and the decisions of any one firm do not directly affect those of its competitors.</p><p><strong>The following are Characteristics of monopolistic competition</strong></p><ul>\n<li>Product differentiation.</li>\n<li>Many firms.</li>\n<li>Freedom of Entry and Exit.</li>\n<li>No single seller dominates the market</li>\n<li>Independent decision making.</li>\n<li>Some degree of market power.</li>\n<li>Buyers and sellers do not have perfect information (Imperfect Information)</li>\n</ul>",
+        "correctIndex": 1,
+        "options": [
+            "there is mobility of factors of production",
+            "no single seller dominates the market",
+            "the firms are price-takers",
+            "consumers have perfect knowledge of price"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2010,
+        "question": "<p>The demand curve for factors of production</p>",
+        "explanation": "<p>The factors of production demand curve indicates the quantity of a factor demanded at alternative factor prices. The demand curve is downwards sloping from left to right. <br>\nAn example is given below for the demand curve of labour, showing how wage rate affect the demand for labour.<br>\n<img alt=\"Image result for what is the demand curve for factors of production\" src=\"data:image/png;base64,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\"></p>",
+        "correctIndex": 2,
+        "options": [
+            "is perfect elastic",
+            "slopes upwards",
+            "slopes of downwards",
+            "is perfectly inelastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2010,
+        "question": "<p>An agreement among firms on price and segmentation is termed</p>",
+        "explanation": "<p>A cartel is an association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition. It is a group of similar companies who agree prices between them in order to increase profits and limit competition </p>",
+        "correctIndex": 0,
+        "options": [
+            "cartel",
+            "collusion",
+            "haggling",
+            "specialization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2010,
+        "question": "<p>In national income accounting, tax is determined by the</p>",
+        "explanation": "<p>National income accounting is a double-entry accounting system used by the government to measure how well a country's economy is performing.</p><p>The level of income are the important metrics used to determined tax in national income accounting</p>",
+        "correctIndex": 0,
+        "options": [
+            "level of income",
+            "level of consumption",
+            "level of investment",
+            "rate of savings"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2010,
+        "question": "<p>A decrease in aggregate spending in an economy will ultimately lead to</p>",
+        "explanation": "<p>A small downturn in consumer spending damages the economy. As it drops off, economic growth slows. Prices drop, creating deflation. If slow consumer spending continues, the economy contracts.</p><p>Deflation is the opposite of inflation. It means reduction or a fall in the general level of prices in an economy.</p>",
+        "correctIndex": 2,
+        "options": [
+            "boom",
+            "inflation",
+            "deflation",
+            "recession"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2010,
+        "question": "<p>If MPC is 0.7 while government expenditure increased by N 150m, the equilibrium national income is</p>",
+        "explanation": "<p>1/(1-MPC) x150</p><p>1/(1-0.7) x 150= 45m<br>\n </p>",
+        "correctIndex": 1,
+        "options": [
+            "N 214 million",
+            "N 45 million",
+            "N 105 million",
+            "N 500 million"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2010,
+        "question": "<p>The function of money which makes division of labour possible is its</p>",
+        "explanation": "<p>The most important function of money is that it serves as a medium of exchange. By serving as a convenient medium of exchange, money has made division of labour or specialization possible by being generally acceptable.</p>",
+        "correctIndex": 2,
+        "options": [
+            "unit of account",
+            "store of value",
+            "medium of exchange",
+            "standard of deferred payment"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2010,
+        "question": "<p>By buying treasury bills, the Central Bank of Nigeria intends to</p>",
+        "explanation": "<p>By buying treasury bills, the Central Bank of Nigeria intends to reduce the excess money in circulation in the economy. When the CBN issue treasury bills, they are inviting the public to invest in the debt security. This means, people will buy the security for a maturity period of 0-3 months. </p><p>By doing this, the available money held by househoulds is reduced. It is also used to control inflation.</p>",
+        "correctIndex": 2,
+        "options": [
+            "increase money supply in the economy",
+            "reduce the cash reserve ratio for banks",
+            "reduce money supply in the economy",
+            "increase the capital base of commercial banks"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2010,
+        "question": "<p>One of the functions of commercial banks is</p>",
+        "explanation": "<p>The primary functions of a commercial bank are accepting deposits and also lending funds. Deposits are savings, current, or time deposits. Also, a commercial bank lends funds to its customers in the form of loans and advances, cash credit, overdraft and discounting of bills, etc.</p>",
+        "correctIndex": 2,
+        "options": [
+            "maintaining stable price in the economy",
+            "regulating monetary policies",
+            "granting loans to customers",
+            "issuing bank notes and coins"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2010,
+        "question": "<p>In Nigeria, the huge public debt is as a result of</p>",
+        "explanation": "<p>A budget deficit typically occurs when expenditures exceeds revenue.</p><p>This is one of the major reasons for Nigeria huge debt profile. Government spends more than it generates in revenue.</p>",
+        "correctIndex": 1,
+        "options": [
+            "balanced budgeting",
+            "deficit budgeting",
+            "surplus budgeting",
+            "zero budgeting"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2010,
+        "question": "<p>A strategy for curbing unemployment is to</p>",
+        "explanation": "<p>An equitable distribution of employment opportunities gives all citizens a fair opportunity to become successful. A situation where people are employed based on favoritism, religious/tribal affiliation or other partial basis, will hoard jobs from the right people and people who are less qualified and inefficient will be put in charge of certain positions. When employment opportunities are evenly distributed in such a way that every qualified candidate stand an equal chance of employment, unemployment is reduced and wealth distributed evenly.</p>",
+        "correctIndex": 3,
+        "options": [
+            "implement government stabilization policy",
+            "increase taxes and decrease government expenditure",
+            "increase government expenditure and decrease taxes",
+            "ensure even distribution of job opportunities"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2010,
+        "question": "<p>National development plans in Nigeria fail mainly because of</p>",
+        "explanation": "<p>One of the major reasons why developmental plans fail in Nigeria is because of poor implementation. Many strategy implementations fail because of a lack of monitoring and control. </p>",
+        "correctIndex": 2,
+        "options": [
+            "overdependence on foreign aids",
+            "inadequate funding of projects",
+            "poor implementation strategies",
+            "shortage of skilled manpower"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2010,
+        "question": "<p>The ultimate aim of agricultural policies in Nigeria is to achieve?</p>",
+        "explanation": "<p>The ultimate goal of agriculture in Nigeria is to make Nigeria self-sufficient in food production and also geared towards the development of agricultural sector to achieve the aim of economic development.</p>",
+        "correctIndex": 0,
+        "options": [
+            "food sufficiency",
+            "industrialization",
+            "full employment",
+            "industrial capacity utilization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2010,
+        "question": "<p>Government can boost agricultural output in Nigeria primarily by</p>",
+        "explanation": "<p>Granting of subsidies by government is a government incentive paid to agribusinesses, agricultural organizations and farms to supplement their income, manage the supply of agricultural commodities, and influence the cost and supply of such commodities. This is one major way how government boost agricultural output in Nigeria. </p>",
+        "correctIndex": 2,
+        "options": [
+            "embarking on buffer stock programmes",
+            "placing embargo on food importation",
+            "granting subsidies on farm inputs",
+            "placing farmers on monthly income"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2010,
+        "question": "<p>The ultimate aim of agricultural policies in Nigeria is to achieve</p>",
+        "explanation": "<p>They major aim of agriculture in Nigeria is to provide food for the inhabitants of the nation (food security and sufficiency) and export excess to other countries and to provide rural dwellers and farmers with extension services, agricultural support and rural development services.</p>",
+        "correctIndex": 0,
+        "options": [
+            "food sufficiency",
+            "industrialization",
+            "full employment",
+            "industrial capacity utilization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2010,
+        "question": "<p>Localization of industries refers to the</p>",
+        "explanation": "<p>Localization of industries is also called the geographical or territorial division of labour. This means that certain areas or towns come to specialise in the production of certain commodities.</p><p>It simply means the concentration of firms of an industry in a particular area.</p>",
+        "correctIndex": 2,
+        "options": [
+            "spread of firms producing different products",
+            "siting of industries near the market",
+            "concentration of firms of an industry",
+            "siting of firms producing different products"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2010,
+        "question": "<p>In developing countries, governments influence the location of industries in order to</p>",
+        "explanation": "<p>Government use their  powers to influence the location of industries for development of backward regions. This is done to spread development around different regions in a country, especially the rural area.</p>",
+        "correctIndex": 0,
+        "options": [
+            "spread development",
+            "redistribute wealth",
+            "encourage enterpreneurs",
+            "encourage industries to earn high profits"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2010,
+        "question": "A disadvantage of Nigeria's dependence on imported petroleum products is the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "instability in the demand for the products",
+            "dominance of multinational firms",
+            "instability in the supply of the product",
+            "poor maintenance of the refineries"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2010,
+        "question": "<p>The maximum number of shareholders for a limited liability company is</p>",
+        "explanation": "<p> There is no limitation on the number of shareholders a limited liability company can have</p>",
+        "correctIndex": 3,
+        "options": [
+            "twenty",
+            "five",
+            "seven",
+            "infinite"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2010,
+        "question": "<p>One of the characteristics of free trade zone is</p>",
+        "explanation": "<p>In a free trade zone, trade/business transactions are allowed to move freely between member nations. Each member country Is allowed to determine Its own trade Policies With regard to Nonmembers. </p>",
+        "correctIndex": 3,
+        "options": [
+            "common tariff against non-member countries",
+            "different trade policies of non-member countries",
+            "free factor mobility within the zone",
+            "harmonized trade among member countries"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2010,
+        "question": "<p>The primary motive for an individual engaging in production is to</p>",
+        "explanation": "<p>The aim of production is to produce goods and services to satisfy the needs of people as per their demand.</p>",
+        "correctIndex": 1,
+        "options": [
+            "make profit",
+            "satisfy basic human wants",
+            "redistribute wealth",
+            "put inputs into use"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2010,
+        "question": "<p>If Nigeria imports vehicles from Japan the transaction will appear as a</p>",
+        "explanation": "<p>In accounting, we debit the receiver and credit the giver. In this case, Japan is the receiver (receiving payments on the vehicle), while Nigeria is the giver, so Nigeria account would be credited.</p><p>The balance of payments (BOP) is a statement of all transactions made between entities in one country and the rest of the world over a defined period of time, such as a quarter or a year. Japan's balance of payment will have a debit balance to the tone of the car value in monetary terms.</p>",
+        "correctIndex": 0,
+        "options": [
+            "debit on Japan's balance of payments",
+            "credit on Japan's balance of payments",
+            "credit on Nigeria's balance of trade",
+            "credit on Nigeria's balance of payment"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2010,
+        "question": "<p>One of the objectives of ADB is to</p>",
+        "explanation": "<p>The main aim of the Africa development bank is to fight poverty and improve living conditions on the continent through promoting the investment of public and private capital in projects and programs that are likely to contribute to the economic and social development of the region.</p>",
+        "correctIndex": 2,
+        "options": [
+            "provide subsidies on imported goods to member countries",
+            "mobilize short-term loans for member countries",
+            "promote economic and social development of member countries",
+            "provide technical assistance to only poor member countries"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2010,
+        "question": "<p>The choice of the method of production in an economy is determined by the</p>",
+        "explanation": "<p>The method of production has to do with Processes and techniques that are used to manufacture a product. The preferred production method used in production is mainly determined by the level of technological advancement of the firm or industry as a whole. For an economy that is embracing technological changes and advancements, the technical know-how will greatly influnce the production technique.</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "level of technical know-how",
+            "rate of propulation growth",
+            "availability of natural resources",
+            "level of income"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2010,
+        "question": "<p>The amount of labour hired depends on the</p>",
+        "explanation": "<p>The demand for an additional amount of labour depends on the Marginal Revenue Product (MRP). Firms will hire more labor when the marginal revenue product of labor is greater than the wage rate, and stop hiring as soon as the two values are equal.</p>",
+        "correctIndex": 2,
+        "options": [
+            "number of skilled labour available",
+            "skill of labour",
+            "marginal productivity of labour",
+            "price of the inputs"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27085744614_c.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Population growth rate = the difference between the previous year population and the current year population divided by the previous year</p><p>2002 population = 40,000<br>\n2003 population = 60,000</p><p>60,000 - 40,000 ÷ 40,000 x 100<br>\n\\(\\frac{20,000}{40,000}\\) x 100 = 50%</p>",
+        "correctIndex": 3,
+        "options": [
+            "33.3%",
+            "20.0%",
+            "11.0%",
+            "50%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24234654725_c.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The percentage of working population in 2002 = </p><p><ins>Working population </ins><br>\n Total population</p><p>\\(\\frac{32}{40}\\) \\times 100 = 80%</p>",
+        "correctIndex": 3,
+        "options": [
+            "50%",
+            "25%",
+            "8%",
+            "80%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2010,
+        "question": "<p>if \\(\\bar{x}\\) = 6 and N = 6, determine the value of ∑fx</p>",
+        "explanation": "<p>\\(\\bar{x}\\) = ∑<ins>fx  </ins><br>\n                     n <br>\nCross multiply, hence we have; <br>\n∑fx = x * n<br>\n6 * 6 = 36</p>",
+        "correctIndex": 0,
+        "options": [
+            "36",
+            "12",
+            "1",
+            "72"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2010,
+        "question": "<p>The velocity of money is represented as</p>",
+        "explanation": "<p>The velocity of money is a measurement of the rate at which money is exchanged in an economy.  Velocity of money is simply calculated by dividing the money supply with the economy's GDP.</p><p><ins>money supply</ins><br>\n     GDP</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{\\text{Money supply}}{\\text{Real GDP}}\\)",
+            "\\(\\frac{\\text{Real GDP}}{\\text{Money supply}}\\)",
+            "\\(\\frac{\\text{Nominal GDP}}{\\text{Money supply}}\\)",
+            "\\(\\frac{\\text{Real GDP}}{\\text{Nominal GDP}}\\)"
+        ],
+        "type": "objectives"
+    }
+]

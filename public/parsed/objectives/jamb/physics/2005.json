@@ -1,0 +1,770 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2005,
+        "question": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
+        "explanation": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to resonance. The steps of the marching soldiers can set the bridge into vibration, and when the frequency of the bridge is equal to that of the steps of the soldiers, the resonance occurs,and at this resonance, the bridge vibrates violently with maximum amplitude, and can collapse.",
+        "correctIndex": 1,
+        "options": [
+            "oscillation",
+            "resonance",
+            "swinging",
+            "vibration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2005,
+        "question": "The sharpness of the boundary of the shadow of an object is determined by the",
+        "explanation": "The sharpness of the boundary of the shadow of an object is determined by the rays of light passing through the object. The smaller the rays passing through , that is from a point source, the more sharp the shadow becomes, but the more the rays, that is rays from a large source, the more blurred the shadow becomes.",
+        "correctIndex": 1,
+        "options": [
+            "intensity of light striking the object",
+            "rays of light passing through the object",
+            "nature of the object",
+            "opacity of the object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2005,
+        "question": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
+        "explanation": "the power of a lens is defined as the reciprocal of the focal length ,expressed in metre.Mathematically, the power of a lens in dioptres is given by:(100)/f(in cm).<br>thus for lens of power of 4.0 dioptres we have that: (100)/(f) = +4.0<br>f= (100)/(4.0) = 25cm<br>= 0.25cm",
+        "correctIndex": 3,
+        "options": [
+            "2.50m",
+            "0.03m",
+            "5.00m",
+            "0.25m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2005,
+        "question": "A real image three times the size of an object is formed 24cm from a converging mirror. what is the focal length of the mirror.",
+        "explanation": "for a real image 3 times the size of the object, it implies that the magnification 3 = v/u, 3 = 24/u, therefore 3u = 24, u = 8cm thus we have from the relation:m = (f)/(u)-f; that 3 = (f)/(8) - f. therefore f = 3(8-f) f = 24 - 3f ∴4f = 24; f = 6cm OR: (1)/(u) + (1)/(v) = (1)/(f).<br>(1)/(8) + (1)/(24) = (1)/(f)<br>therefore (3+1)/(24) = (1)/(f)<br>4/24=1/f;therefore 4f = 24<br>f = 6cm",
+        "correctIndex": 1,
+        "options": [
+            "16cm",
+            "6cm",
+            "8cm",
+            "12cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2005,
+        "question": "The pair of physical quantities consisting of vectors only are",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "momentum and power",
+            "velocity and distance",
+            "displacement and torgue",
+            "accelaration and speed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2005,
+        "question": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is",
+        "explanation": "In a wheel and axle system of mechanic, the mechanical advantage is given by its ratio of the radius of the wheel R, to the radius of the axle r. that M.A = R/r",
+        "correctIndex": 3,
+        "options": [
+            "(R/r)<sup>2</sup>",
+            "r/R",
+            "(r/R)<sup>2</sup>",
+            "R/r"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2005,
+        "question": "An object is projected for the hieght of 80 m above the ground with a velocity of 40ms<sup>-1</sup>at the angle of 30° to the horizontal. The time of flight",
+        "explanation": "for a body projected at an angle θ to the horizontal, the time of the flight is given by T = (2u sin θ)/g =(2x 40)x sin (30)/10 =(2 x 40) x (0.5)/10 = 4.0secs.",
+        "correctIndex": 1,
+        "options": [
+            "8 s",
+            "4 s",
+            "16 s",
+            "10 s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2005,
+        "question": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
+        "explanation": "In a purely capacity circuit, voltage lags behind current by 90°, or current leads voltage by 90°",
+        "correctIndex": 1,
+        "options": [
+            "180°",
+            "90°",
+            "60°",
+            "30°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2005,
+        "question": "the time it will take a certain radioactive material with a half-life of 50 days to reduce to 1/32of its original number is",
+        "explanation": "Since 1/32, is the fraction left of any radioactive material after 5half lives, that is:<br>1/32= (1/2)<sup>5</sup>. Thus if a half life is 50 days, 5 half lives will be 50 x 5= 250 days",
+        "correctIndex": 0,
+        "options": [
+            "250days",
+            "150days",
+            "300days",
+            "200days"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2005,
+        "question": "a proton moving with a speed of 1.0 x 10<sup>6</sup>ms<sup>-1</sup>through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 x 10<sup>-14</sup>N. The angle between the proton''s velocity and the field is",
+        "explanation": "The force acting on moving charge in magnetic field is given by: F=q VBSin θ<br>sin θ =F=(8.0x10)<sup>-14</sup>/1.6x10<sup>-19</sup>x1.0x10<sup>6</sup>x1.0 = (8.0x10)<sup>14</sup>/16 x 10<sup>13</sup><br>(8.0x 10)<sup>-14</sup>/16x10<sup>-14</sup><br>=0.5000<br>∴ θ= sin<sup>-1</sup>0.5000<br>=30°",
+        "correctIndex": 2,
+        "options": [
+            "60°",
+            "90°",
+            "30°",
+            "45°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2005,
+        "question": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
+        "explanation": "When impurities are added to semi conductor , the semi conductor is said to be doped, and increases the conductivity of the semi-conductor.",
+        "correctIndex": 1,
+        "options": [
+            "increases then decreases",
+            "increases",
+            "decreases",
+            "remains constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2005,
+        "question": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
+        "explanation": "Silicon is a tetra valent (4 valent) element, and in order to produce an n type semi-conductor, it has to be dropped with a penta valent (5valent)element, that, that is element in group five (v)",
+        "correctIndex": 0,
+        "options": [
+            "V",
+            "III",
+            "I",
+            "II"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2005,
+        "question": "<p>The charge carriers in gasses are</p>",
+        "explanation": "<p>The electrons and cations of ionized gas act as charge carriers.</p>",
+        "correctIndex": 1,
+        "options": [
+            "ions only",
+            "electrons and ions",
+            "electrons and holes",
+            "electrons only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2005,
+        "question": "the ray which causes gas molecules to glow is known as",
+        "explanation": "The ray which causes gas molecules to fluoresce or glow is the cathode rays",
+        "correctIndex": 0,
+        "options": [
+            "cathode ray",
+            "anode ray",
+            "molecular ray",
+            "gamma ray"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2005,
+        "question": "the ray which causes gas molecules to glow is known as",
+        "explanation": "The ray which causes gas molecules to fluoresce or glow is the cathode rays",
+        "correctIndex": 0,
+        "options": [
+            "cathode ray",
+            "anode ray",
+            "molecular ray",
+            "gamma ray"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2005,
+        "question": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
+        "explanation": "in a transformer, E<sub>S</sub>/E<sub>P</sub>= N<sub>s</sub>/N<sub>p</sub><br>where E<sub>s</sub>=e.m.f(voltage)of the secondary<br>E<sub>p</sub>=e.m.f(voltage)of the primary<br>N<sub>s</sub>=no.of turns in the secondary<br>N<sub>p</sub>= no. of turns in the primary.<br>since E<sub>s</sub>= V<sub>s</sub>; and E<sub>p</sub>= V<sub>p</sub>.<br>V<sub>s</sub>/ V<sub>p</sub>= N<sub>s</sub>/N<sub>p</sub><br>∴12/240= N<sub>s</sub>/4000<br>N<sub>s</sub>=(12x4000)/240<br>=200",
+        "correctIndex": 0,
+        "options": [
+            "200",
+            "100",
+            "250",
+            "150"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2005,
+        "question": "The current in a reverse-biased junction is due to?",
+        "explanation": "the current in reverse biased junction diode is due to minority carriers, that is, the negative charges in the p-semi-conductor, and the positive charges in the n-semi-conductor.",
+        "correctIndex": 0,
+        "options": [
+            "minority carriers",
+            "electrons",
+            "majority carriers",
+            "holes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2005,
+        "question": "which of the following materials is a conductor?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Glass",
+            "Wax",
+            "Sodium",
+            "Plastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2005,
+        "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "it is about to rain",
+            "the relative humidity is high",
+            "there is plenty of sunshine",
+            "the relative humidity is low"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2005,
+        "question": "A 3m<sup>3</sup>volume of liquid W of density 200kgm<sup>3</sup>is mixed with another liquid L of volume 7m<sup>3</sup>and density 150kgm<sup>-3</sup>. the density of mixture is?",
+        "explanation": "For liquid W, its mass = vol. x density = 3 x 200 =600kg.<br>similarly, for liquid L, its mass = 7 x 150 = 1050kg<br>∴ Total mass of mixture = 600kg + 1050kg =1650kg.<br>similarly total vol.of the mixture = 3m<sup>3</sup>+ 7m<sup>3</sup>=10m<sup>3</sup>.<br>∴ density of the mixture = (Total Mass)/Total Mixture = (1650kg)/10m<sup>3</sup><br>=165kgm<sup>-3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "165kgm<sup>-3</sup>",
+            "100kgm<sup>-3</sup>",
+            "265kgm<sup>-3</sup>",
+            "350kgm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2005,
+        "question": "A body of mass 36kg falls through a viscous liquid which offers a drag force of 260N on the body. The upthrust on the body at terminal velocity is?<br><br><br>[g = 10ms<sup>2</sup>]",
+        "explanation": "For anybody falling through a viscous liquid, at its terminal velocity. the resultant force acting on its is zero. from the equation: Mg - v - u = 0. where v = viscous drag<br>U = upthrust Mg = weight of the body.<br>∴ 36 x 10 - 260 - U = 0<br>∴ U = 360 - 260 = 100N<br>Upthrust on the body = 100N.",
+        "correctIndex": 0,
+        "options": [
+            "100N",
+            "620N",
+            "50N",
+            "310N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2005,
+        "question": "The process whereby the molecules of different substances move randomly is called?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "capillarity",
+            "surface tension",
+            "osmosis",
+            "diffusion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2005,
+        "question": "I. reproducibility<br><br>II. Sensibility<br><br>III. High terminal capacity<br><br>iv. High accuracy<br><br>The quantities of a good thermometer include?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I, II and IV only",
+            "I, III and IV only",
+            "I, II and III only",
+            "II, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2005,
+        "question": "The process whereby a liquid turns spontaneously into vapour is called?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "regelation",
+            "sublimation",
+            "boiling",
+            "evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2005,
+        "question": "I. Melting<br><br>II. Boiling<br><br>III. Refraction<br><br>IV. Conduction<br><br>Which combination of the above is evident of the molecular nature of matter?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "II , III and IV only",
+            "I ,II and IV only",
+            "I , III and IV only",
+            "I , II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2005,
+        "question": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "of the even expansion of glass",
+            "glass is a crystal",
+            "glass is a good conductor of heat",
+            "of the uneven expansion of gass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2005,
+        "question": "Satellite communication network makes use of?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "visible light",
+            "sound wave",
+            "radio wave",
+            "infra-red wave"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2005,
+        "question": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
+        "explanation": "For the device rated 2000 W, 250 V, implies that current I, flowing is given by the relation<br>Power = IV<br>I = (power)/v = (200)/250<br>= 8A.<br>∴ the most suitable fuse for the device is 8A",
+        "correctIndex": 1,
+        "options": [
+            "9 A",
+            "8 A",
+            "6 A",
+            "7 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2005,
+        "question": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "magnetic octopole",
+            "magnetic monopole",
+            "magnetic dipole",
+            "magnetic quadrupole"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2005,
+        "question": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full?",
+        "explanation": "For a car battery rated 45 AH, being charged by a charger of 2.5 A rating, the time for the battery to be fully charged is given by:<br>T = (45)/2.5 = 18 hrs",
+        "correctIndex": 1,
+        "options": [
+            "10 hrs",
+            "18 hrs",
+            "20 hrs",
+            "25 hrs"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2005,
+        "question": "The electric field intensity in a place where a charge of 10<sup>-10</sup>c experiences a force of 0.4N is?",
+        "explanation": "The electric force experienced in an electric field of intensity E is given by:<br>F = qE: where q = the test charge.<br>E = F/Q = 0.4/10<sup>-10</sup>= 0.4 X 10<sup>-10</sup><br>= 4.0 X 10<sup>9</sup>NC<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "4.0 x 10<sup>7</sup>NC<sup>-1</sup>",
+            "8.0 x 10<sup>9</sup>NC<sup>-1</sup>",
+            "8.O x 10<sup>-12</sup>NC<sup>-1</sup>",
+            "4.0 x 10<sup>9</sup>NC<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2005,
+        "question": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. if the charges are deflected in opposite directions, which of the following statements is true of the charge?",
+        "explanation": "The charge must be opposite in sign, since the positive charges will deflect to the negative plate, and the negative charge to the positive plate",
+        "correctIndex": 0,
+        "options": [
+            "the charge must be of opposite sign",
+            "positive charges are more in number",
+            "the charges are electrically neutral",
+            "the charges are of the same sign"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2005,
+        "question": "The resistance of a pieces of wire of lenght 20m are crossed-sectional area 8 x 10<sup>6</sup>m<sup>2</sup>is?<br><br><br>[Resistivity of the wire = 4 x 10<sup>-7</sup>Ω m]",
+        "explanation": "since resistance R = p (l)/a<br>= (4 x 10<sup>-7</sup>x 20)/8.0 x 10<sup>-6</sup><br>R = 1.0 Ω",
+        "correctIndex": 3,
+        "options": [
+            "5.0 Ω",
+            "0.5 Ω",
+            "10.0 Ω",
+            "1.0 Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1363512963_phy20052.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "20<sup>o</sup>",
+            "18<sup>o</sup>",
+            "35<sup>o</sup>",
+            "25<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24543244926_phy200510.jpg\" class=\"img-fluid\">",
+        "explanation": "F = \\(\\frac{17}{sin 60} = \\frac{17}{0.866}\\)<br><br>= 20N",
+        "correctIndex": 2,
+        "options": [
+            "10N",
+            "12N",
+            "20N",
+            "27N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23179748982_phy200511.jpg\" class=\"img-fluid\">",
+        "explanation": "Normal reaction R = 3 kg x 10 = 30N<br>coefficient of friction , μ = 0.5<br>∴ acting frictional force = μR = 30 x 0.5<br>Pulling/sliding force F = 6kg x 10 = 60N.<br>∴ Net downward force = ma = 60 - 15.0<br>=&gt; (3 + 6)a = 45<br>∴ 9a = 45<br>a = 5m/s<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "5 ms<sup>-2</sup>",
+            "15 ms<sup>-2</sup>",
+            "3 ms<sup>-2</sup>",
+            "9 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12271638312_phy200514.jpg\" class=\"img-fluid\">",
+        "explanation": "If the string is in equilibrium, the the tension in the string Q = 4N + 5N = 9N",
+        "correctIndex": 1,
+        "options": [
+            "11N",
+            "9N",
+            "4N",
+            "6N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg\" class=\"img-fluid\">",
+        "explanation": "Since the force is inclined at an angle 60<sup>o</sup>to the horizontal, the effective component of te force along the horizontal is given by F x cos 60<sup>o</sup><br>= 100 x 0.5 = 50N.<br>∴ work done = F x cos 60 x displacement<br>= 50 x 8.0m<br>= 400.0J",
+        "correctIndex": 3,
+        "options": [
+            "800J",
+            "600J",
+            "100J",
+            "400J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24543335448_phy200521.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8181111816_phy200521a.jpg\" class=\"img-fluid\">\n</div>The fig above shows a conventional transistor, showing the three basic features, the Base, the Emitter and the collector. Thus comparing this with the figure in the question it implies that P = Emitter, Q = Base and R = collector",
+        "correctIndex": 0,
+        "options": [
+            "EMITTER, BASE and COLLECTOR",
+            "COLLECTOR, EMITTER and BASE",
+            "BASE, COLLECTOR and EMITTER",
+            "BASE, ENITTER and COLLECTOR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2005,
+        "question": "\\( ^{235} _{92}U + ^1 _0n → ^{144} _{56}Ba + ^{90} _{36}Kr +2X \\)<br><br>In the reaction above, X is",
+        "explanation": "235U + 1n → 144Ba + 90Kr + 2x9205636<br>In the reaction above, balancing the left with the right, show that X is neutron",
+        "correctIndex": 3,
+        "options": [
+            "electron",
+            "proton",
+            "neutrino",
+            "neutron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2005,
+        "question": "Two liquids L<sub>1</sub>and L<sub>2</sub>are contained in a U - tube. The height and the density of L<sub>1</sub>are 8 cm and 10<sup>3</sup>kgm<sup>-3</sup>respectively. If the density of L<sub>2</sub>is 800 kgm<sup>-3</sup>, its height measured from the same level is",
+        "explanation": "Generally, from Hares Experiment, density is inversely proportional to height<br>i.e h ∝1/d; → h<sub>1</sub>d<sub>1</sub>= h<sub>2</sub>d<sub>2</sub><br>∴ 8 x 10<sup>3</sup>= h<sub>2</sub>x 800<br><table><tbody><tr><td rowspan=\"2\">∴ h<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">8 x 10<sup>3</sup></td></tr><tr><td>_800</td></tr></tbody></table><br>= 10cm",
+        "correctIndex": 1,
+        "options": [
+            "8 cm",
+            "10 cm",
+            "16 cm",
+            "12 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2005,
+        "question": "10<sup>6</sup>J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is",
+        "explanation": "From the heat exchange involved, the latent heat of vaporization, L can be deduced from the relation:<br>ML = 10<sup>6</sup>, where M = mass of the liquid.<br>∴ 2 x L = 10<sup>6</sup><br>=&gt; L =<sup>10<sup>6</sup></sup>/<sub>2</sub>= 5.0 x 10<sup>5</sup>J kg<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "2.0 x 10<sup>6</sup>J kg<sup>-1</sup>",
+            "5.0 x 10<sup>6</sup>J kg<sup>-1</sup>",
+            "2.0 x 10<sup>5</sup>J kg<sup>-1</sup>",
+            "5.0 x 10<sup>5</sup>J kg<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19089334880_phy200543.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/14998763120_phy200543.jpg\" class=\"img-fluid\">\n</div>The effective capacitance in the circuit is given by:<br>1/C =<sup>1</sup>/<sub>2</sub>+<sup>1</sup>/<sub>3</sub>+<sup>1</sup>/<sub>6</sub>=<sup>6</sup>/<sub>6</sub><br>therefore C = 1μF or<br>1.0 x 10<sup>-6</sup>F.<br>Since C = Q/V, its implies that the charges Q, flowing in the circuit is given by Q = CV<br>= 1.0 x 10<sup>-6</sup>x 12<br>= 12.0 x 10<sup>-6</sup>Coulomb.<br>∴ P.d across the 6μF,<br><table><tbody><tr><td rowspan=\"2\">V = Q/C = </td><td style=\"border-bottom:solid 1px\">12.0 x 10<sup>-6</sup></td></tr><tr><td>6.0 x 10<sup>-6</sup>F</td></tr></tbody></table><br>= 2.0 volts",
+        "correctIndex": 2,
+        "options": [
+            "4V",
+            "12V",
+            "2V",
+            "6V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2005,
+        "question": "If the distance between two point charges its increased by a factor of four, the magnitude of the electrostatic force between them will be",
+        "explanation": "For the two point charges, the magnitude of the electrostatic force between them is given by the equation:<br>F ∝<sup>1</sup>/<sub>r<sup>2</sup></sub>, and if the distance is increased by a factor of 4, that is new distance = 4r,<br>then, new force F ∝<sup>1</sup>/<sub>(4r)<sup>2</sup></sub><br>= ∝<sup>1</sup>/<sub>16r<sup>2</sup></sub><br>Thus it will be<sup>1</sup>/<sub>16</sub>of the former value",
+        "correctIndex": 1,
+        "options": [
+            "<sup>1</sup>/<sub>4</sub>of its former value",
+            "<sup>1</sup>/<sub>16</sub>of its former value",
+            "<sup>1</sup>/<sub>2</sub>of its former value",
+            "4 times its former value"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2005,
+        "question": "The velocity of sound in air will be doubled if it's absolute temperature is",
+        "explanation": "In general, the velocity of sound in air varies directly as the square root of temperature measured in kelvin.<br><br>That V \\( \\propto \\sqrt{T} \\implies V^2 \\propto T. \\\\<br><br>\\text{Therefore} \\frac{V^2_1}{T_1} = \\frac{V^2_2}{T_2} \\\\<br><br>\\text{Thus Let } V_1 = 4m/s \\\\<br>T_1 = 10K \\\\<br>\\text{Therefore } V_2 = 2V_1 = 8m/s \\\\<br><br>\\implies \\frac{4^2}{10} = \\frac{8^2}{T_2} \\\\<br><br>T_2 = \\frac{64 \\times 10}{16} = 40K\\\\<br><br>T_2 = 4T_1 \\)<br><br>Thus when the velocity of sound in air is doubled, it's absolute temperature will be quadrupled.",
+        "correctIndex": 0,
+        "options": [
+            "Quadrupled",
+            "Constant",
+            "Halved",
+            "Doulbed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2005,
+        "question": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
+        "explanation": "let the masses of the two objects be M1 and M2<br>and their distance apart = r<br><br>Therefore the force acting F1 = \\( \\frac{GM1M2}{r^2} \\)<br><br>for a new distance of r/2, we have a force of<br><br>F2 = \\( \\frac{GM2M2}{r/2} \\\\<br><br>\\text{Thus } F1 \\times r^2 = GM1M1 \\text{and} \\\\<br>F2 \\times (r/2)^2 = GM1M1 \\\\<br><br>\\text{Since } GM1M1 = GM1M1 \\\\<br><br>\\implies F1 \\times r^2 = F2 \\times (r/2)^2 \\\\<br><br>\\text{Therefore } 200 \\times r^2 = F2 \\times r^2/4 \\\\<br><br>F2 = \\frac{4 \\times 200 \\times r^2}{r^2} = 800N \\)",
+        "correctIndex": 3,
+        "options": [
+            "400N",
+            "200N",
+            "100N",
+            "800N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2005,
+        "question": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is",
+        "explanation": "l =l1 + l2 = 3 + 6 = 9H",
+        "correctIndex": 0,
+        "options": [
+            "9.0H",
+            "18.0H",
+            "0.5H",
+            "2.0H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2005,
+        "question": "Am elastic material has a length of 36cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
+        "explanation": "For Hooke's law F = Ke<br><br>\\( \\implies F/e = K \\\\<br><br>f1/e1=f2/e2 \\\\<br><br>\\text{Let the original length} = t_0 \\\\<br><br>\\text{therefore} e1 = (36 - t_0)cm ; e2 = (46 - t_0)cm \\\\<br>\\text{if f1} = 40N \\text{f2} = 60N \\\\<br>\\text{Then } \\frac{40}{36 - t_0} = \\frac{60}{45 - t_0} \\\\<br>\\implies 40(45 - t_0) = 60(36 - t_0) \\\\<br>\\text{therefore } 1800 - 40t_0 \\\\<br><br>2160 - 60t_0 \\\\<br>60t_0 - 40t_0 = 2160 - 1800 \\\\<br>20t_0 = 360 \\\\<br>t_0 = 18cm \\)",
+        "correctIndex": 2,
+        "options": [
+            "12cm",
+            "20cm",
+            "18cm",
+            "15cm"
+        ],
+        "type": "objectives"
+    }
+]

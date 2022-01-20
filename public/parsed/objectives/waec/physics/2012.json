@@ -1,0 +1,754 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2012,
+        "question": "<p>The derived unit of pressure can be expressed as</p>",
+        "explanation": "<p>Pressure = \\(\\frac{Force}{Area}\\)</p><p>Force = mass x acceleration</p><p>\\(\\therefore\\) Pressure = \\(\\frac{mass \\times acceleration}{Area}\\)</p><p>= \\(\\frac{kg \\times m \\times s^{-2}}{m^2}\\)</p><p>= kg m\\(^{-1}\\) s\\(^{-2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "kgms<sup>-2</sup>",
+            "kg m<sup>-1</sup>s<sup>-2</sup>",
+            "kg m<sup>-2</sup>s<sup>-2</sup>",
+            "kg m<sup>-1</sup>s<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17176267800_maths%202.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "frequency of collision of trapped air molecules with walls of the syringe is more",
+            "molecules of trapped air expands more",
+            "speed of the trapped air molecules decreases",
+            "number of molecules of trapped air increases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2012,
+        "question": "<p>Which of the following devices is used to determine the relative density of an acid?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "manometer",
+            "hydrometer",
+            "hypsometer",
+            "hygrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2012,
+        "question": "<p>A block of wood of density 0.6 gcm\\(^{-3}\\), weighing 3.06N in air, floats freely in a liquid of density 0.9 gcm\\(^{-3}\\). Calculate volume of the portion immersed (g = 10ms\\(^{-2}\\))</p>",
+        "explanation": "<p>V = \\(\\frac{M}{D}\\)<br>\n<br>\n= \\(\\frac{3.06}{10} \\times \\frac{1000}{0.9} = 340\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "510cm<sup>3</sup>",
+            "340cm<sup>3</sup>",
+            "254cm<sup>3</sup>",
+            "170cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2012,
+        "question": "<p>A metal ball of weight W falls through a column of glycerine of viscosity V. If the ball experiences an upthrust U and terminal velocity is attained, then</p>",
+        "explanation": "<p>When terminal velocity is attained, The equation of motion becomes</p><p>mg - V - U = 0</p><p>\\(\\therefore\\) mg = W = U + V</p>",
+        "correctIndex": 1,
+        "options": [
+            "W &gt; U + V",
+            "W = U + V",
+            "W = U - V",
+            "W &lt; U + V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2012,
+        "question": "The movement of fluid up or down a narrow tube is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "osmosis",
+            "brownian motion",
+            "capillarity",
+            "diffusion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2012,
+        "question": "Which of the following substances is the most volatile at room temperature?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "water",
+            "diesel",
+            "petrol",
+            "kerosine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2012,
+        "question": "<p>A bird flies at 10ms\\(^{-1}\\) for 3s, 15ms\\(^{-1}\\) for 3s and 20 ms\\(^{-1}\\) for 4s. Calculate the bird's average speed</p>",
+        "explanation": "<p>Av. speed = \\(\\frac{3 \\times 15 + 3 \\times 10 + 4 \\times 20}{3 + 3 + 4}\\)<br>\n<br>\n= 15.5 ms\\(^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "4.5 ms<sup>-1</sup>",
+            "15.0 ms<sup>-1</sup>",
+            "15.5 ms<sup>-1</sup>",
+            "51.7 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2012,
+        "question": "<p>The time of flight for a projectile motion is given by the expression</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{U sin \\theta}{g}\\)",
+            "\\(\\frac{U sin \\theta}{2g}\\)",
+            "\\(\\frac{2U sin \\theta}{g}\\)",
+            "\\(\\frac{U sin 2\\theta}{g}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2012,
+        "question": "<p>An object is dropped from the top of a tower. If it takes 4s for it to reach the ground, calculate the height of the tower.(g = 10 ms-2, ignore air resistance)</p>",
+        "explanation": "<p>H = \\(\\frac{1}{2} gt^2\\)<br>\n<br>\n\\(\\frac{1}{2} \\times 10 \\times 4^2 = 80\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "20m",
+            "40m",
+            "80m",
+            "160m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2012,
+        "question": "<p>When a body is slightly tilted, it is found that its centre of gravity is slightly raised. What is the state of equilibrium of the body?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "unstable",
+            "stable",
+            "neutral",
+            "cannot be determined"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2012,
+        "question": "<p>A simple pendulum makes 50 oscillations in one minute. Determine its period of oscillation</p>",
+        "explanation": "<p>T = \\(\\frac{t}{n} = \\frac{60}{50} = 1.2\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.02s",
+            "0.83s",
+            "1.20s",
+            "50.00s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2012,
+        "question": "The tendency for a stationary body to continue to remain at rest when a force is applied to it is known as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "friction",
+            "impulse",
+            "inertia",
+            "momentum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2012,
+        "question": "<p>A resultant force of magnitude 15N acts on a body of mass 250g. Calculate the magnitude of the acceleration</p>",
+        "explanation": "<p>a = \\(\\frac{F}{M} = \\frac{15}{0.25} = 60\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.06 ms<sup>-2</sup>",
+            "3.75ms<sup>-2</sup>",
+            "16.67ms<sup>-2</sup>",
+            "60.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2012,
+        "question": "A girl stands on a scale in a lift. If the reading on the scale is less than her weight, then the lift is moving",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "upward at uniform speed",
+            "upward with uniform acceleration",
+            "downward with uniform speed",
+            "downward with uniform acceleration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2012,
+        "question": "<p>The S.I unit of heat is</p>",
+        "explanation": "<p>Heat is a form of energy (heat energy). The S.I unit of energy generally is Joules (J).</p>",
+        "correctIndex": 0,
+        "options": [
+            "joule",
+            "kelvin",
+            "watt",
+            "ampere"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2012,
+        "question": "<p>A body is pulled through a distance of 500m by a force of 20N. If the power developed is 0.4kW, calculate the time for which the force acts</p>",
+        "explanation": "<p>Force x Distance = Power x Time</p><p>Time = \\(\\frac{Force \\times Distance}{Power}\\)</p><p>= \\(\\frac{20 \\times 500}{0.4 \\times 1000}\\)</p><p>= 25.0s</p>",
+        "correctIndex": 1,
+        "options": [
+            "250.0s",
+            "25.0s",
+            "2.5s",
+            "0.5s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2012,
+        "question": "<p>A metal sheet of area 100cm\\(^2\\) was heated through 70°C. Calculate its new area if the linear expansivity of the metal is 0.000017K\\(^{-1}\\).</p>",
+        "explanation": "<p>Formula: A\\(_2\\) = A\\(_1\\)(1 + \\(\\beta \\theta\\))</p><p>where \\(\\beta\\) = The area expansivity</p><p>\\(\\theta\\) = Change in temperature.</p><p>\\(\\beta\\) = 2\\(\\alpha\\)</p><p>where \\(\\alpha\\) = linear expansivity of the body.</p><p>⇒ \\(\\beta\\) = 2 x 0.000017 </p><p>= 0.000034 K\\(^{-1}\\)</p><p>\\(\\therefore\\) A\\(_2\\) = 100 (1 + (0.000034 x 70))</p><p>= 100(1 + 0.00238)</p><p>= 100(1.00238)</p><p>= 100.238 cm\\(^2\\)</p><p>= 100.24 cm\\(^2\\) (to 2 d.p)</p>",
+        "correctIndex": 2,
+        "options": [
+            "100.06 cm<sup>2</sup>",
+            "100.12cm<sup>2</sup>",
+            "100.24cm<sup>2</sup>",
+            "100.36cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2012,
+        "question": "<p>The thermopile is a device for detecting</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "radioactive radiations",
+            "radiant energy",
+            "x-rays",
+            "the presence of electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2012,
+        "question": "<p>In the formation of sea breeze. wind blows from</p>",
+        "explanation": "<p>A sea breeze describes a wind that blows from the ocean (sea) inland towards land.</p>",
+        "correctIndex": 3,
+        "options": [
+            "sky to land",
+            "sea to sky",
+            "land to sea",
+            "sea to land"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2012,
+        "question": "<p>A piece of copper of mass 20g at a temperature of 110°C was dropped into a mixture of ice and water at 0°C. If the final steady temperature of the mixture is 0°C . Calculate the amount of ice that melted [Specific heat capacity of copper = 0.4 Jg\\(^{-1}\\)K\\(^{-1}\\), specific latent heat of fusion of ice = 330Jg\\(^{-1}\\)]</p>",
+        "explanation": "<p>Mice = \\(\\frac{MC}{\\theta}\\)<br>\n<br>\n= \\(\\frac{20 \\times 0.4 \\times 110}{330} </p><p>Heat lost by copper = Heat gained by ice</p><p>m\\(_{copper}\\) c \\(\\theta\\) = m\\(_{ice}\\) L</p><p>20 x 0.4 x (110 - 0) = m\\(_{ice}\\) x 330</p><p>m\\(_{ice}\\) = \\(\\frac{20 \\times 0.4 \\times 110}{330}\\)</p><p>= \\(\\frac{8}{3}\\)</p><p>= 2.67 g</p><p>= 2.70g (to 1 d.p)</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.37g",
+            "0.60g",
+            "2.40g",
+            "2.70g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2012,
+        "question": "Which of the following factors decreases the rate of evaporation of a liquid?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increase in pressure over the liquid",
+            "lowering the boiling point",
+            "decreasing in humidity",
+            "wind"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2012,
+        "question": "When two waves are superimposed on each other, the following occurrences are possible, except",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "nodal lins",
+            "anti nodal lines",
+            "stationary waves",
+            "dispersion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2012,
+        "question": "Which of the following properties of waves is exclusive to transverse waves?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "reflection",
+            "interference",
+            "diffraction",
+            "polarization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2012,
+        "question": "<p>An object of height 2.5cm is places 20cm from a convex mirror of focal length 10cm. Calculate the height of its image.</p>",
+        "explanation": "<p>\\(\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u}\\)</p><p>= \\(\\frac{1}{10} - \\frac{1}{2} = \\frac{1}{20}\\)</p><p>v = 20<br>\n<br>\nbut h\\(_i\\) = \\(\\frac{v \\times h_o}{u}\\)</p><p>= \\(\\frac{20 \\times 2.5 }{20}\\)</p><p>= 2.5cm</p>",
+        "correctIndex": 0,
+        "options": [
+            "2.5 cm",
+            "3.0cm",
+            "5.0cm",
+            "25.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2012,
+        "question": "<p>A ray of light passes from air to water to glass to air. Given that the refractive index for light passing from air to water is \\(\\frac{4}{3}\\) and air to glass is \\(\\frac{3}{2}\\), calculate the refractive index of glass relative to water</p>",
+        "explanation": "<p>\\(_{g} \\eta _{w} = \\frac{ _g \\eta _a}{ _a \\eta _w}\\)</p><p>= \\(\\frac{3}{2} \\times \\frac{1}{\\frac{4}{3}}\\)</p><p>= \\(\\frac{3}{2} \\times \\frac{3}{4}\\)</p><p>= \\(\\frac{9}{8}\\)</p><p>= 1.125</p><p>= 1.13 (to 2 d.p)</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.50",
+            "0.67",
+            "0.75",
+            "1.13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2012,
+        "question": "An object is placed at a point X between the focal point F and the optical centre C of a diverging lens. If F is the focal point on the other side of the lens, the image of the object is formed between",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "F and X",
+            "X and C",
+            "C and F",
+            "F and 2F"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2012,
+        "question": "<p>An object is placed 10cm from a converging lens of foal length 15cm. Calculate the magnification of the image formed</p>",
+        "explanation": "<p>\\(\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}\\)</p><p>\\(\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u}\\)<br>\n<br>\n\\(\\frac{1}{15} - \\frac{1}{10} = \\frac{2 - 3}{30}\\)</p><p>\\(\\frac{1}{v} = \\frac{-1}{30}\\)<br>\n<br>\nv = - 30 cm <br>\n<br>\nbut m = \\(\\frac{v}{u} = \\frac{30}{10} = 3\\)</p><p>Note that the negative sign only shows the placement of the image. It has no effect on the magnification basically.</p>",
+        "correctIndex": 0,
+        "options": [
+            "3.0",
+            "1.5",
+            "0.6",
+            "0.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2012,
+        "question": "A telescope is said to be in normal adjustment when the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "focal length of he objective is greater than that of the eyepiece",
+            "focal length of the eyepiece is greater than that of the objective",
+            "focal length of the eyepiece is equal to that of the objective",
+            "objective focal point coincides wih that of the eyepiece"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2012,
+        "question": "The sound heard by a person after the reflection of the sound generated by him is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "reverberation",
+            "resonance",
+            "echo",
+            "audibility"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2012,
+        "question": "Which of the following sets of coloured light is/are secondary colours i. Red, Blue and green ii. Blue, cyan and magneta iii. Green, Magenta and yellow, IV Yellow, Cyan and Magenta",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "iv only",
+            "i, ii and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2012,
+        "question": "When two like charges are brought together, the potential energy of the system formed will",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "increase because work is done against the field",
+            "increase because work is done by the field",
+            "decrease because work is done by the field",
+            "decrease because work is done against the field"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2012,
+        "question": "<p>Two capacitors, each of capacitance 2\\(\\mu\\)F are connected in parallel. If the p.d across them is 120V, calculate the charge on each capacitor</p>",
+        "explanation": "<p>C = \\(C_1 + C_2 = 2 + 2 = 4 \\mu F\\)<br>\n<br>\nbut Q = CV<br>\n<br>\n= 4 x 10\\(^{-6}\\) x 120<br>\n<br>\n= 4.8 x 10\\(^{-4}\\)</p><p>\\(\\therefore\\) Each of the capacitor has a charge of \\(\\frac{4.8 \\times 10^{-4}}{2}\\)</p><p>= 2.4 x 10\\(^{-4}\\) C</p>",
+        "correctIndex": 2,
+        "options": [
+            "6.0 x 10<sup>-5</sup>C",
+            "1.2 x 10<sup>-4</sup>C",
+            "2.4 x 10<sup>-4</sup>C",
+            "4.8 x 10<sup>-4</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2012,
+        "question": "Which of the following properties is an advantage of lead-acid accumulator over an alkaline accumulator?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "possesses low internal resistance",
+            "can be recharges",
+            "has shorter life span",
+            "possesses high e.m.f"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2012,
+        "question": "<p>Six dry cells each of e.m.f. 2.0 and internal resistance of 1.0\\(\\Omega\\) are connected in parallel across a load of 3.0\\(\\Omega\\). Calculate the effective current in the circuit.</p>",
+        "explanation": "<p>I = \\(\\frac{f}{n} = \\frac{1}{6 - 2}\\)<br>\n<br>\nI = \\(\\frac{v}{R + r} = \\frac{2}{3} + \\frac{1}{6} = 0.63\\)A</p>",
+        "correctIndex": 0,
+        "options": [
+            "0.63A",
+            "0.50A",
+            "0.31A",
+            "0.22A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7157150690_maths%2038222.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The determinant of the brightness of a bulb is the power (watts) of the circuit.</p><p>Recall that Power (P) = \\(\\frac{V^2}{R}\\).</p><p>Since the resistance is to be used as a divisor, it means the smaller the resistance, the greater the power.</p>",
+        "correctIndex": 0,
+        "options": [
+            "P",
+            "Q",
+            "R",
+            "S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2012,
+        "question": "A 120\\(\\Omega\\) resistor dissipates 8 kJ of heat in 20s. Calculate the current through the resistor",
+        "explanation": "Q = I<sup>2</sup>Rt<br><br>I = \\(\\sqrt{\\frac{Q}{Rt}}\\)<br><br>= \\(\\sqrt{\\frac{8000}{12 \\times 20}}\\)<br><br>= 5.8",
+        "correctIndex": 0,
+        "options": [
+            "5.8A",
+            "6.9A",
+            "30.0A",
+            "33.3A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2012,
+        "question": "The magnetic relay is a device used for",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "timing in sports",
+            "storing magnetic field",
+            "readin the magnitude of magnetic flux",
+            "controlling another circuit carrying larger current"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2012,
+        "question": "the core of a transformer is usually laminated in order to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "reduce magnetic leakage",
+            "reduce eddy current",
+            "prevent vibration of the transformer",
+            "make magnetic reversal in the core much easier"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2012,
+        "question": "Which of the following modes is the most economical method of transmitting electrical power over long distances?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "alternating current at low voltage and high current",
+            "alternating current at high voltage and high current",
+            "alternating current at high voltage and low current",
+            "direct current at low voltage and high current"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2012,
+        "question": "An inductor is connected to a 24V, 50Hz mains supply. If the current through the inductor is 1.5A, calculate the inductance of the inductor (\\(\\pi = \\frac{22}{7}\\))",
+        "explanation": "\\(X_L = \\frac{V}{I} = \\frac{24}{1.5} = 16\\Omega\\)<br><br>L = \\(\\frac{XL}{2 \\pi f} = \\frac{16}{2 \\pi 50}\\)<br><br>= 0.05H",
+        "correctIndex": 3,
+        "options": [
+            "8.0 x 10<sup>2</sup>H",
+            "7.5 x 10<sup>o</sup>H",
+            "1.6 x 10<sup>o</sup>H",
+            "5.1 x 10<sup>-2</sup>H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2012,
+        "question": "In a R-C circuit",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I<sup>rms</sup>leads V<sup>rms</sup>by 60<sup>o</sup>",
+            "I<sup>rms</sup>slags V<sup>rms</sup>by 60<sup>o</sup>",
+            "V<sup>rms</sup>lags I<sup>rms</sup>by 90<sup>o</sup>",
+            "V<sup>rms</sup>leads I<sup>rms</sup>by 90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2012,
+        "question": "An atom in an excited state is one whose",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "potential energy is minimum",
+            "potential energy is maximum",
+            "electron are in the conduction band",
+            "electron have moved to higher energy level"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2012,
+        "question": "A metal with a work function of 3.0ev is irradiated with ultraviolet light of energy 4.0 ev. The kinetic energy of the ejected electron is",
+        "explanation": "K.E = hf - Wo<br><br>= 4 - 3 = 1eV",
+        "correctIndex": 0,
+        "options": [
+            "1.0eV",
+            "3.0eV",
+            "4.0eV",
+            "7.0eV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2012,
+        "question": "Which of the following statements about X-rays is correct? X-rays",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "are produced when a metal surface is irradiated with ultraviolet light",
+            "are produced when a metal target is used to block fast miving electrons",
+            "have long wavelengths and are therefoer very penetrating",
+            "are not part of the electromagnetic spectrum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2012,
+        "question": "Which of the following arrangements of radiations is in the order of decreasing penetrating power?",
+        "explanation": "Thanks for your contribution, corrections have been made.",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\alpha, \\beta, \\gamma\\)",
+            "\\(\\alpha, \\gamma, \\beta\\)",
+            "\\(\\gamma, \\beta, \\alpha\\)",
+            "\\(\\beta, \\gamma, \\alpha\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2012,
+        "question": "<p>Which of the following radiations emitted in radioactive decay has momentum, a fairly high penetrating power and is deflected by a magnet?</p>",
+        "explanation": "<p><strong>β Particles</strong> are equivalent to electrons but arise from radioactive decay of unstable atoms. They are emitted with a continuous range of energies up to a maximum that is <strong>characteristic</strong> of each radionuclide. Electrons have a greater range and penetrating power, but much less ionizing potential compared with α <strong>particles</strong>.</p><p>Beta particles are deflected by a magnetic field in an opposite direction to alpha particles confirming they must hold a charge opposite to alpha particles.</p>",
+        "correctIndex": 1,
+        "options": [
+            "alpha particles",
+            "beta particle",
+            "gamma radiation `",
+            "X-radiation"
+        ],
+        "type": "objectives"
+    }
+]

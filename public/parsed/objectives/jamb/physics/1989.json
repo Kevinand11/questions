@@ -1,0 +1,722 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1989,
+        "question": "Which of the following is a set of vectors?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "force, mass and moment",
+            "acceleration, velocity and moment",
+            "mass, weight and density",
+            "mass, volume and density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1989,
+        "question": "The magnitude of the resultant of two mutually perpendicular forces, F<sub>1</sub>and F<sub>2</sub>is 13N, if the magnitude of F<sub>1</sub>is 5N, what is the magnitude of F<sub>2</sub>?",
+        "explanation": "(13)<sup>2</sup>= 5<sup>2</sup>+ (F<sub>2</sub>)<sup>2</sup><br><br>F<sub>2</sub>= 12N",
+        "correctIndex": 2,
+        "options": [
+            "2.6N",
+            "6.0N",
+            "12.0N",
+            "18.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1989,
+        "question": "Two points on a velocity time-graph have coordinates (5s, 10ms<sup>-1</sup>) and (20s, 20ms<sup>-1</sup>). Calculate the mean acceleration between the two points",
+        "explanation": "a = \\(\\frac{v - u}{\\Delta t}\\)<br><br>a = \\(\\frac{20 - 10}{20 - 5}\\)<br><br>a = 0.67ms<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "0.67ms<sup>-1</sup>",
+            "0.83ms<sup>-1</sup>",
+            "1.50ms<sup>-1</sup>",
+            "2.00ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1989,
+        "question": "A thin film of liquid is trapped between two glass plates. The force required to pull the plates apart will increase if the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "surface tension of the liquid is reduced",
+            "perpendicular distance between the plates is increased",
+            "area of the liquid surface in contact with the plates is increased",
+            "pressure of the air is decreased"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1989,
+        "question": "A block-and-tackle system is used to lift a load of 20N through a vertical height of 10m. if the efficiency of the system is 40%, how much work is done against friction?",
+        "explanation": "Efficiency = \\(\\frac{output}{input}\\) x 100<br><br>40 = \\(\\frac{20\\times10}{input}\\) x \\(\\frac{100}{1}\\)<br><br>input = 500J<br><br>work against friction = input - output<br><br>= 500 - 200 = 300J",
+        "correctIndex": 2,
+        "options": [
+            "80J",
+            "120J",
+            "300J",
+            "500J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1989,
+        "question": "Which of the following devices are used to measure pressure? i. Aneroid barometer. ii. hydrometer. iii. hygrometer. iv. manometer.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and iii",
+            "ii and iii",
+            "iii and iv",
+            "i and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1989,
+        "question": "A piece of wood of mass 40g and uniform cross-sectional area of 2cm<sup>2</sup>floats upright in water. The length of the wood immersed is",
+        "explanation": "Mw displaced = 40g<br><br>density = \\(\\frac{mass}{\\text{area x height}}\\)<br><br>I = \\(\\frac{40}{2\\times h}\\)<br><br>h = 20cm",
+        "correctIndex": 2,
+        "options": [
+            "30cm",
+            "40cm",
+            "20cm",
+            "2cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1989,
+        "question": "The pressure on the gas of constant gas thermometer at the ice point is 325mm of mercury and at the steam point is 875mm of mercury. Find the temperature when the pressure of the gas is 190mm of mercury",
+        "explanation": "100\\(\\theta\\) .... 875mm<br><br>0\\(\\theta\\) ....325mm<br><br>\\(\\theta\\) .... 190mm<br><br>\\(\\frac{0 - \\theta}{100 - \\theta}\\) = \\(\\frac{325 - 190}{875 - 190}\\)<br><br><br>\\(\\theta\\) = -25<sup>o</sup>C<br><br>= 243k",
+        "correctIndex": 1,
+        "options": [
+            "30k",
+            "243k",
+            "300k",
+            "3003k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1989,
+        "question": "A column of air 10.0cm long is trapped in a tube at 27<sup>o</sup>C. What is the length of the volume at 100<sup>o</sup>C?",
+        "explanation": "\\(\\frac{V_1}{T_1}\\) = \\(\\frac{V_2}{T_2}\\)<br><br>\\(\\frac{10\\times A}{27 + 273}\\) = \\(\\frac{L\\times A}{100 + 273}\\)<br><br>L = 12.43cm",
+        "correctIndex": 0,
+        "options": [
+            "12.4cm",
+            "13.7cm",
+            "18.5cm",
+            "37.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1989,
+        "question": "A mass of gas at 7<sup>o</sup>C and 70cm of mercury has a volume of 1200cm<sup>3</sup>. Determine its volume at 27<sup>o</sup>C and pressure of 75cm of mercury.",
+        "explanation": "\\(\\frac{V_1P_1}{T_1}\\) = \\(\\frac{V_2P_2}{T_2}\\)<br><br>\\(\\frac{70 \\times 1200}{7 \\times 273}\\) = \\(\\frac{75 \\times V_2}{27 + 273}\\)<br><br>V<sub>2</sub>= 1200cm<sub>3</sub>",
+        "correctIndex": 0,
+        "options": [
+            "1200cm<sup>3</sup>",
+            "1378cm<sup>3</sup>",
+            "4320cm<sup>3</sup>",
+            "4629cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1989,
+        "question": "An electric heater is used to melt a block of ice of mass 1.5kg. If the heater is powered by a 12V battery and a current of 20A flows through the coil, calculate the time taken to melt the block of ice at 0<sup>o</sup>C. [specific latent heat of fusion of ice = 336 x 10<sup>3</sup>Jkg<sup>-1</sup>]",
+        "explanation": "Elect. energy = heat energy<br><br>IVt = mL<br><br>20 X 12 t = 1.5 x 336 x 10<sup>3</sup><br><br>t = 2100 sec ; t = 35mins.",
+        "correctIndex": 1,
+        "options": [
+            "76.0min",
+            "35.0min",
+            "21.0min",
+            "2.9min"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1989,
+        "question": "From the kinetic theory of gases, temperature is a",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "form of energy and is proportional to the total kinetic energy of the molecules",
+            "form of energy and is proportional to the average kinetic energy of the molecules",
+            "physical property and is proportional to the total kinetic energy of the molecules",
+            "physical property and is proportional to the average kinetic energy of the molecules"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1989,
+        "question": "<p>A vibrator of frequency 60Hz is used in generating transverse stationary waves in a long thin wire, If the average distance between successive nodes on the wire is 45cm, find the speed of the transverse waves in the wire.</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "27ms<sup>-1</sup>",
+            "54ms<sup>-1</sup>",
+            "90ms<sup>-1</sup>",
+            "108ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1989,
+        "question": "<p>When the tension in a sonometer wire is doubled, the ratio of the new frequency to the initial frequency is</p>",
+        "explanation": "<p>\\(\\frac{F_1}{F_2}\\) = \\(\\sqrt{\\frac{T_1}{T_2}}\\)<br>\n<br>\nT2 = 2T1<br>\n<br>\n\\(\\frac{F_1}{F_2}\\) = \\(\\sqrt{\\frac{T_1}{2T_1}}\\)<br>\n<br>\n\\(\\frac{F_1}{F_2}\\) = \\(\\sqrt2\\)</p><p>F\\(_2\\) : F\\(_1\\) = 1 : \\(\\sqrt{2}\\)</p><p>\\(\\frac{F_2}{F_1} = \\frac{1}{\\sqrt{2}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{\\sqrt2}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\sqrt2\\)",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1989,
+        "question": "In a sound wave in air, the adjacent rarefactions and compressions are separated by a distance of 17cm. If the velocity of the sound wave is 340ms<sup>-1</sup>. Determine the frequency",
+        "explanation": "\\(\\lambda\\) = 2L<br><br>2 x 17 = 34cm<br><br>F = \\(\\frac{V}{\\lambda}\\)<br><br>= \\(\\frac{340}{34 \\times 10^{-2}}\\)<br><br>= 1000Hz",
+        "correctIndex": 2,
+        "options": [
+            "10Hz",
+            "20Hz",
+            "1000Hz",
+            "5780Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1989,
+        "question": "Light of wavelength 5000 x 10<sup>-8</sup>cm travels in free space with a velocity of 3 x 10<sup>8</sup>ms<sup>-1</sup>. What is its wavelength in glass of refractive index 1.5?",
+        "explanation": "n = \\(\\frac{\\text{wavelength in space}}{\\text{wavelength in glass}}\\)<br><br>1.5 = \\(\\frac{5000 \\times 10^{-8}}{\\lambda g}\\)<br><br>\\(\\lambda\\)g = 3333 x 10<sup>-8</sup>cm",
+        "correctIndex": 0,
+        "options": [
+            "3333 x 10<sup>-8</sup>cm",
+            "5000 x 10<sup>-8</sup>cm",
+            "6666 x10<sup>-8</sup>cm",
+            "750010<sup>-8</sup>cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1989,
+        "question": "The magnification of the image of an object placed in front of a convex mirror is \\(\\frac{1}{3}\\). If the radius of curvature of the mirror is 24cm, what is the distance between its object and its image?",
+        "explanation": "F = uv ; v = 1u<br><br>12 = \\(\\frac{v + 3v}{v + 3v}\\)<br><br>v = 16cm, u = 48cm<br><br>distance between U and V<br><br>= 48 - 16 =32cm",
+        "correctIndex": 3,
+        "options": [
+            "8cm",
+            "16cm",
+            "24cm",
+            "32cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1989,
+        "question": "The plane mirrors in a kaleidoscope are usually placed",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "at an angle of 60<sup>o</sup>",
+            "parallel to one another",
+            "perpendicular to one another",
+            "at an angle of 45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1989,
+        "question": "A far sighted person cannot see objects that are less than 100cm away. If this person wants to read a book at 25cm, what type and focal length of lens does he need?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "convex, 20cm",
+            "concave, 20cm",
+            "convex, 33cm",
+            "concave, 33cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1989,
+        "question": "<p>When a yellow card is observed through a blue glass, the card would appear.</p>",
+        "explanation": "<p>Yellow light is a mixture of red and green light, hence, yellow will reflect red and green light. This means that a yellow object will appear red under red light, and green under green light. Yellow does not contain blue, so it will appear black under blue light.</p>",
+        "correctIndex": 0,
+        "options": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1989,
+        "question": "Dispersion of light by a glass prism is due to the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "different colours of the glass",
+            "different speeds of the various colours in glass",
+            "defects in the glass",
+            "high density of glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1989,
+        "question": "Which of the following pairs is NOT part of the electromagnetic spectrum? i. Radio waves. ii. Beta rays. iii. Gamma rays. iv. Alpha rays",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii",
+            "iii and iv",
+            "i and ii",
+            "ii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1989,
+        "question": "Two insulated charged spheres of different sizes and carrying opposite charges are connected together by a metallic conductor. Current will flow from one sphere to the other until both sphere",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "carry the same magnitude and sign of charge",
+            "are at the same potential",
+            "are at the same temperature",
+            "are of the same size"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1989,
+        "question": "When a number of identical small magnets are arranged in a line, the strength of the resultant magnet",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ia largest when they are arranged end to end",
+            "is greatest when they are arrangedparallel with like poles adjacent to each other",
+            "depends only on the number of magnets provided they arev parallel",
+            "is greater when the magnets are arranged on a wooden surface than on a metaln surface"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1989,
+        "question": "A bar magnet is most effectively demagnetized by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "placing it in a N - 5 position and hitting it with a hammer",
+            "subjecting it to an electric current from a battery",
+            "bringing its north pole in contact with the north pole of a very strong magnet",
+            "heating the magnet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1989,
+        "question": "<p>The resistance of a 5m uniform wire of cross-sectional area 0.2 x 10-6m2 is 0.425. What is the resistivity of the material of the wire?</p>",
+        "explanation": "<p>Resistance = \\(\\frac{\\text{ Resistivity x Area}}{Area}\\)<br>\n<br>\n= 0.425 x 0.2 x 10-6<br>\n<br>\n= 1.7 x 10-8\\(\\Omega\\)m</p>",
+        "correctIndex": 3,
+        "options": [
+            "1.10 x 10<sup>-6</sup>\\(\\Omega\\)m",
+            "4.25 x 10<sup>-6</sup>\\(\\Omega\\)m",
+            "2.40 x 10<sup>-7</sup>\\(\\Omega\\)m",
+            "1.70 x 10<sup>-8</sup>\\(\\Omega\\)m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1989,
+        "question": "Three resistors, with substances 250\\(\\Omega\\), 500\\(\\Omega\\) and 1k\\(\\Omega\\) are connected in series. A 6V battery is connected to either end of the combination. Calculate the pot3ential difference between the end of the 250\\(\\Omega\\) resistor.",
+        "explanation": "Using voltage - divider method<br><br>v<sub>1</sub>= \\(\\frac{(R_1)}{R_T}\\)V<sub>T</sub><br><br>= \\(\\frac{250}{1750}\\) x \\(\\frac{6}{1}\\)<br><br>= 0.86V",
+        "correctIndex": 1,
+        "options": [
+            "0.20V",
+            "0.86V",
+            "1.71V",
+            "3.43V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1989,
+        "question": "A calibrated potentiometer is used to measure the e.m.f. of a cell because the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "internal resistance of a cell is small compared with that of the potentiometer",
+            "potentiometer has a linear scale",
+            "potentiometer takes no current from the cell",
+            "resistance of the potentiometer is less than that of a voltmeter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1989,
+        "question": "An ammeter of resistance 1.0\\(\\Omega\\) has a full-scale deflection of 50mA. Determine the resultant full-scale deflection of the meter when a shunt of 0.0111\\(\\Omega\\) is connected across its terminals.",
+        "explanation": "V = 0.1 x 50 x 10<sup>-3</sup>= 5 x 10<sup>-3</sup>volts<br><br>R<sub>T</sub>= \\(\\frac{0.1 \\times 0.0111}{0.1 + 0.0111}\\)<br><br>= 9.99 x 10<sup>-3</sup>\\(\\Omega\\)<br><br>V = IR \\(\\Rightarrow\\) I<br><br>= \\(\\frac{5 \\times 10^{-3}}{9.9 \\times 10^{-3}}\\)<br><br>= 0.5A ; = 500mA",
+        "correctIndex": 0,
+        "options": [
+            "400mA",
+            "450mA",
+            "500mA",
+            "550mA"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1989,
+        "question": "The electrochemical equivalent of silver is 0.0012gC<sup>-1</sup>. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5.0mins, the current must be",
+        "explanation": "m = Itz \\(\\Rightarrow\\) I = m = \\(\\frac{36}{5\\times 60 \\times 0.0012}\\)<br><br>= 100A",
+        "correctIndex": 1,
+        "options": [
+            "6000A",
+            "100A",
+            "10A",
+            "1A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1989,
+        "question": "When a radiation strikes a metal surface, electrons may be ejected from the metal. The maximum kinetic energy which may be acquired by an ejected electron depend on the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "intensity of the radiation",
+            "source of the radiation",
+            "wavelength of the radiation",
+            "detection device of the electron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1989,
+        "question": "<p>Which of the following is TRUE of the particles emitted in radioactive disintegration?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the beta particle is the helium nucleus H",
+            "the alpha particle is lighter than the beta particle",
+            "the alpha particle is deflected more than the beta particle in a magnetic field",
+            "the beta particle is deflected more than the alpha particle in a magnetic field"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1989,
+        "question": "Eight alpha decays and six beta decays are necessary before an atom of 2 \\(^{238}_{92}U\\) achieves stability. The final product in the chain has an atomic number of",
+        "explanation": "U \\(\\to\\) 8(\\(^{4}_{2}He\\)) + 6(\\(^{0}_{-1}e\\)) + \\(^{b}_{a}X\\)<br><br>92 = (8 X 2) + (6 X -1) + a<br><br>a = 82",
+        "correctIndex": 2,
+        "options": [
+            "70",
+            "78",
+            "82",
+            "90"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1989,
+        "question": "An object is placed at 5.6 x 10<sup>-4</sup>m in front of a converging lens of focal length 1.0 x 10<sup>-n</sup>m. The image formed is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Real, Erect and magnified",
+            "Virtual, erect and magnified",
+            "Real, inverted and magnified",
+            "Virtual, erect and diminished"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1989,
+        "question": "The function of a 5-A fuse included in a circuit supplying a household refrigerator with power is to keep the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Temperature of the refrigerator low and constant",
+            "keep current supplied to the refrigerator below 5A",
+            "Voltage supply constant",
+            "Current supplies to the refrigeration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24795670059_19890001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Q",
+            "R",
+            "A point between P and R",
+            "A point between R and S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13127123124_19890002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "mgR sinθ",
+            "MgR (1- cos θ)",
+            "mgR",
+            "mgR (1 - sinθ)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21878541810_19890003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "µmg",
+            "(1-µ)mg",
+            "(1+µ)mg",
+            "mg/µ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2917139440_19890004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "6.0 x 10<sup>-5</sup>mN<sup>-1</sup>",
+            "2.5 x 10<sup>-4</sup>mN<sup>-1</sup>",
+            "6.0 x 10<sup>-3</sup>mN<sup>-1</sup>",
+            "2.5 x 10<sup>-2</sup>mN<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13127129487_1989.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In solids, sound can exist as either a longitudinal or a transverse wave. But in mediums which are fluid (e.g., gases and liquids), sound waves can only be longitudinal. For <strong>Longitudinal Waves, </strong>the displacement <strong>of</strong> the medium is parallel to the direction <strong>of</strong> propagation <strong>of</strong> the <strong>wave</strong>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "stationary and transverse",
+            "stationary and longitudinal",
+            "progressive and transverse",
+            "progressive and longitudinal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18961411391_19890005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20419983430_19890006.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(C_T = \\frac{2 \\times (2 + 2)}{2 + (2 + 2)}\\)</p><p>= \\(\\frac{8}{6}\\)</p><p>= 1.33 \\(\\mu\\)F</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.75µF",
+            "1.33µF",
+            "3.00µF",
+            "6.00µF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/29171407040_19890007.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "12W",
+            "24W",
+            "32W",
+            "40W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27712842293_19890008.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "settle in any direction",
+            "settle in a fixed direction only if the conductor PQ is a magnetic material",
+            "settle in a fixed direction WHETHER the conductor PQ is a magnetic material OR NOT",
+            "be stationary"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24795707782_19890009.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>studying the charges of the Gamma, Alpha, Beta and X-rays, you find that both the x-rays and theGamma rays possess zero-charge hence they could pass the charged plate undetected while the beta rays are negatively charged hence will deflect towards the positive charge of the plate. Alpha rays, on the other hand, are poisitively charged hence, they deflect towards the negative charge. </p>",
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "III only",
+            "I and II",
+            "III and IV"
+        ],
+        "type": "objectives"
+    }
+]

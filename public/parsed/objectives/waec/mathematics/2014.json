@@ -1,0 +1,786 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2014,
+        "question": "Simplify 10\\(\\frac{2}{5} - 6 \\frac{2}{3} + 3\\)",
+        "explanation": "10\\(\\frac{2}{5} - 6 \\frac{2}{3} + 3\\)<br><br>\\(\\frac{52}{5} - \\frac{20}{3} + \\frac{3}{1}\\)<br><br>= \\(\\frac{156 - 100 + 45}{15}\\)<br><br>\\(\\frac{156 + 45 - 100}{15}\\)<br><br>= \\(\\frac{201 - 100}{15}\\)<br><br>= \\(\\frac{101}{15}\\)<br><br>= 6\\(\\frac{11}{15}\\)",
+        "correctIndex": 1,
+        "options": [
+            "6\\(\\frac{4}{15}\\)",
+            "6\\(\\frac{11}{15}\\)",
+            "7\\(\\frac{4}{15}\\)",
+            "7\\(\\frac{11}{15}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2014,
+        "question": "If 23<sub>x</sub>= 32<sub>5</sub>, find the value of x",
+        "explanation": "23<sub>x</sub>= 32<sub>5</sub><br><br>2 \\(\\times x^1 + 3 \\times x^0 = 3 \\times 5^1 + 2 \\times 5^0\\)<br><br>= 2x + 3 = 15 + 2<br><br>2x + 3 = 17<br><br>2x = 17 - 3<br><br>2x = 14<br><br>x = \\(\\frac{14}{2}\\)<br><br>x = 7",
+        "correctIndex": 0,
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2014,
+        "question": "The volume of a cube is 512cm<sup>3</sup>. Find the length of its side",
+        "explanation": "volume of cube = L x L x L<br><br>512cm<sup>3</sup>= L<sup>3</sup><br><br>L<sup>3</sup>= 512cm<sup>3</sup><br><br>L = 3\\(\\sqrt{512}\\)<br><br>L (512)<sup>\\(\\frac{1}{3}\\)</sup><br><br>= (2<sup>9</sup>)<sup>\\(\\frac{1}{3}\\)</sup><br><br>2<sup>3</sup>= 8cm",
+        "correctIndex": 2,
+        "options": [
+            "6cm",
+            "7cm",
+            "8cm",
+            "9cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2014,
+        "question": "If one student is selected at random, find the probability that he/she scored at most 2 marks",
+        "explanation": "at most 2 marks = 5 + 2 + 4 students = 11 students<br><br>probability(at most 2 marks) = \\(\\frac{11}{20}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{11}{18}\\)",
+            "\\(\\frac{11}{20}\\)",
+            "\\(\\frac{7}{22}\\)",
+            "\\(\\frac{5}{19}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2014,
+        "question": "Simplify: \\(\\sqrt{12} ( \\sqrt{48} - \\sqrt{3}\\))",
+        "explanation": "\\(\\sqrt{12} ( \\sqrt{48} - \\sqrt{3}\\))<br><br>\\(\\sqrt{4 \\times 3} (6 \\times 3 - \\sqrt{3}) = 2 \\sqrt{3}(4 \\sqrt{3} - \\sqrt{3})\\)<br><br>= 2\\(\\sqrt{3} \\times \\sqrt{3} (4 - 1) 2\\sqrt{9}(3) = 2 \\times 3 \\times 3 = 18\\)",
+        "correctIndex": 0,
+        "options": [
+            "18",
+            "16",
+            "14",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2014,
+        "question": "Given that x &gt; y and 3 &lt; y, which of the following is/are true? i. y &gt; 3 ii. x &lt; 3 iii. x &gt; y &gt; 3",
+        "explanation": "x &gt; y and 3 &lt; y; then 3 &lt; y means that y &gt; 3<br><br>x &gt; 3 to give the possible<br><br>x &gt; y &gt; 3",
+        "correctIndex": 2,
+        "options": [
+            "i",
+            "i and ii",
+            "i and iii",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2014,
+        "question": "Three quarters of a number added to two and a half of the number gives 13. Find the number",
+        "explanation": "let the number be x<br><br>2\\(\\frac{1}{2}x + \\frac{3}{4}x = 13\\)<br><br>\\(\\frac{5}{2}x + \\frac{3}{4}x = 13\\)<br><br>multiply through by 4<br><br>4(\\(\\frac{5}{2}\\))x + 4(\\(\\frac{3}{4}\\))x = 13 x 4<br><br>2(5x) + 3x = 52<br><br>10x + 3x = 52<br><br>13x = 52<br><br>x = \\(\\frac{52}{13}\\)<br><br>x = 4",
+        "correctIndex": 0,
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2014,
+        "question": "If x = {0, 2, 4, 6}, y = {1, 2, 3, 4} and z = {1, 3} are subsets of u = {x:0 \\(\\geq\\) x \\(\\geq\\) 6}, find x \\(\\cap\\) (Y' \\(\\cup\\) Z)",
+        "explanation": "x = {0, 2, 4, 6}; y = {1, 2, 3, 4}; z = {1, 3}<br><br>u = {0, 1, 2, 3, 4, 5, 6}<br><br>y' = {0, 5, 6}<br><br>to find x \\(\\cap\\) (Y' \\(\\cup\\) Z)<br><br>first find y' \\(\\cup\\) z = {0, 1, 3, 5, 6}<br><br>then x \\(\\cap\\) (Y' \\(\\cup\\) Z) = {0, 6}",
+        "correctIndex": 2,
+        "options": [
+            "{0, 2, 6}",
+            "{1, 3}",
+            "{0, 6)",
+            "{9}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2014,
+        "question": "Find the truth set of the equation x<sup>2</sup>= 3(2x + 9)",
+        "explanation": "x<sup>2</sup>= 3(2x + 9)<br><br>x<sup>2</sup>= 6x + 27<br><br>x<sup>2</sup>- 6x - 27 = 0<br><br>x<sup>2</sup>- 9x + 3x - 27 = 0<br><br>x(x - 9) + 3(x - 9) = (x + 3)(x - 9) = 0<br><br>x + 3 = 0 or x - 9 = 0<br><br>x = -3 or x = 9<br><br>x = -3, x = 9",
+        "correctIndex": 3,
+        "options": [
+            "{x : x = 3, x = 9}",
+            "{x : x = -3, x = -9}",
+            "{x : x = 3, x = -9}",
+            "{x : x = -3, x = 9}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2014,
+        "question": "The coordinates of points P and Q are (4, 3) and (2, -1) respectively. Find the shortest distance between P and Q.",
+        "explanation": "p(4, 3) Q(2 - 1)<br><br>distance = \\(\\sqrt{(x_2 - x_1)^2 + (Y_2 - y_1)^2}\\)<br><br>= \\(\\sqrt{(2 - 4)^2 + (-1 - 3)^2}\\)<br><br>= \\(\\sqrt{(-2)^2 = (-4)^2}\\)<br><br>= \\(\\sqrt{4 + 16}\\)<br><br>= \\(\\sqrt{20}\\)<br><br>= \\(\\sqrt{4 \\times 5}\\)<br><br>= 2\\(\\sqrt{5}\\)",
+        "correctIndex": 3,
+        "options": [
+            "10\\(sqrt{2}\\)",
+            "4\\(sqrt{5}\\)",
+            "5\\(sqrt{2}\\)",
+            "2\\(sqrt{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2014,
+        "question": "Make u the subject of formula, E = \\(\\frac{m}{2g}\\)(v<sup>2</sup>- u<sup>2</sup>)",
+        "explanation": "E = \\(\\frac{m}{2g}\\)(v<sup>2</sup>- u<sup>2</sup>)<br><br>multiply both sides by 2g<br><br>2Eg = 2g (\\(\\frac{M}{2g} (V^2 - U^2)\\)<br><br>2Eg = m(V<sup>2</sup>- U<sup>2</sup>)<br><br>2Eg - mV<sup>2</sup>- mU<sup>2</sup><br><br>mU<sup>2</sup>= mV<sup>2</sup>- 2Eg<br><br>divide both sides by m<br><br>\\(\\frac{mU^2}{m} = \\frac{mV^2 - 2Eg}{m}\\)<br><br>U<sup>2</sup>= \\(\\frac{mV^2 - 2Eg}{m}\\)<br><br>= \\(\\frac{mV^2}{m} - \\frac{2Eg}{m}\\)<br><br>U<sup>2</sup>= V<sup>2</sup>- \\(\\frac{2Eg}{m}\\)<br><br>U = \\(\\sqrt{V^2 - \\frac{2Eg}{m}}\\)",
+        "correctIndex": 0,
+        "options": [
+            "u = \\(\\sqrt{v^2 - \\frac{2Eg}{m}}\\)",
+            "u = \\(\\sqrt{\\frac{v^2}{m} - \\frac{2Eg}{4}}\\)",
+            "u = \\(\\sqrt{v- \\frac{2Eg}{m}}\\)",
+            "u = \\(\\sqrt{\\frac{2v^2Eg}{m}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2014,
+        "question": "F x varies inversely as y and y varies directly as Z, what is the relationship between x and z?",
+        "explanation": "x \\(\\alpha \\frac{1}{y}\\)<br><br>y \\(\\alpha z\\)<br><br>the relationship = x \\(\\alph \\frac{1}{z}\\)",
+        "correctIndex": 1,
+        "options": [
+            "x \\(\\alpha\\) z",
+            "x \\(\\alpha \\frac{1}{z}\\)",
+            "x \\(\\alpha z^2\\)",
+            "x \\(\\alpha \\frac{1}{z^2}\\0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2014,
+        "question": "Find the gradient of the line joining the points (2, -3) and 2, 5)",
+        "explanation": "(2, -3)(2, 5)<br><br>gradient = \\(\\frac{y_ = y_1}{x_2 = x_1} = \\frac{5 - (-3)}{2 - 2}\\)<br><br>= \\(\\frac{5 + 3}{0}\\)<br><br>= \\(\\frac{8}{0}\\)<br><br>= undefined",
+        "correctIndex": 3,
+        "options": [
+            "9",
+            "1",
+            "2",
+            "undefined"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2014,
+        "question": "If (x - a) is a factor pf bx - ax + x<sup>2</sup>, find the other factor.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "(x + b)",
+            "(x - b)",
+            "(a + b)",
+            "(a - b)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2014,
+        "question": "\\(\\begin{array}{c|c}height &amp; 2 &amp; 3 &amp; 4 &amp; 5 &amp; 6 \\\\ \\hline frequency &amp; 2 &amp; 4 &amp; 5 &amp; 3 &amp; 1<br>\\end{array}\\)<br>The table shows the distribution of the height of plants in a nursery. Calculate the mean height of the plants.",
+        "explanation": "\\(\\begin{array}{c|c} height(x) &amp; frequency(f) &amp; fx \\\\ \\hline 2 &amp; 2 &amp; 4\\\\ 3 &amp; 4 &amp; 12\\\\ 4 &amp; 5 &amp; 20 \\\\ 5 &amp; 3 &amp; 15\\\\ 6 &amp; 1 &amp; 6\\end{array}\\)<br><br>mean\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)<br><br>= \\(\\frac{57}{15}\\)<br><br>= 3.8",
+        "correctIndex": 0,
+        "options": [
+            "3.8",
+            "3.0",
+            "2.8",
+            "2.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2014,
+        "question": "The area of a sector a circle with diameter 12cm is 66cm<sup>2</sup>. If the sector is folded to form a cone, calculate the radius of the base of the cone [Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "diameter = 12cm<br><br>radius = \\(\\frac{12}{2}\\)cm = 6cm<br><br>area of sector = 66cm<sup>2</sup><br><br>area of sector = area of cone<br><br>66 = \\(\\pi rl\\)<br><br>66 = \\(\\frac{22}{7} \\times r \\times 6\\)<br><br>divide both sides by 6<br><br>11 = \\(\\frac{22}{7}r\\)<br><br>22r = 11 x 7<br><br>r = \\(\\frac{77}{22}\\)<br><br>= 3.5cm",
+        "correctIndex": 1,
+        "options": [
+            "3.0cm",
+            "3.5cm",
+            "7.0cm",
+            "7.5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2014,
+        "question": "A chord, 7cm long, is drawn in a circle with radius 3.7cm. Calculate the distance of the chord from the centre of the circle",
+        "explanation": "let the chord be AB = 7cm<br><br>radius OA = 3.7cm distance of the = OM using Pythagoras theorem<br><br>OA<sup>2</sup>= AM<sup>2</sup>+ OM<sup>2</sup><br><br>3.7<sup>2</sup>= 3.5<sup>2</sup>+ OM<sup>2</sup><br><br>13.69 = 12.25 + OM<sup>2</sup><br><br>13.69 - 12.25 = OM<sup>2</sup><br><br>1.44 = OM<sup>2</sup><br><br>OM = \\(\\sqrt{1.44}\\)<br><br>OM = 1.2cm<br><br>distance of chord = 1.2cm",
+        "correctIndex": 1,
+        "options": [
+            "0.7cm",
+            "1.2cm",
+            "2.0cm",
+            "2.5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2014,
+        "question": "Which of the following is a measure of dispersion?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "range",
+            "percentile",
+            "median",
+            "quartile"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2014,
+        "question": "A ship sails x km due east to a point E and continues x km due north to F. Find the bearing the bearing of f from the starting point.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "045<sup>o</sup>",
+            "090<sup>o</sup>",
+            "135<sup>o</sup>",
+            "225<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2014,
+        "question": "A box contains 13 currency notes, all of which are either N50 or N20 notes. The total value of the currency notes is N530. How many N50 notes are in the box?",
+        "explanation": "let the number of N50 notes = x<br><br>let the number of N20 notes = y<br><br>from the first statement<br><br>x + y = 13.....(1)<br><br>from the second statement<br><br>50x + 20y = 530 ......(2)<br><br>dividing through by 10, we have<br><br>5x + 2y = 53 ....(20<br><br>solving simultaneously by eliminating<br><br>x + y = 12....(1)<br><br>5x + 2y = 53.....(2)<br><br>multiply eqn (1) by 2<br><br>multiply eqn (2) by 1<br><br>2x + 2y = 26<br><br>-5x + 2y = 53<br><br>-3x = -27<br><br>x = 9<br><br>substitute x = 9 into equation (1)<br><br>x + y = 13<br><br>y = 13 - x<br><br>= 13 - 9 = 4<br><br>y = 4<br><br>the number of N50 notes = 9",
+        "correctIndex": 3,
+        "options": [
+            "4",
+            "6",
+            "8",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2014,
+        "question": "If x : y = 3 : 2 and y : z = 5 : 4, find the value of x in the ratio x : y : z",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "8",
+            "10",
+            "15",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2014,
+        "question": "Given that cos x = \\(\\frac{12}{13}\\), evaluate \\(\\frac{1 - \\tan x}{\\tan x}\\)",
+        "explanation": "cos x\\(\\frac{12}{13}\\)<br><br>13<sup>2</sup>= 12<sup>2</sup>+ a<sup>2</sup><br><br>169 = 144 + a<sup>2</sup><br><br>a<sup>2</sup>= 169 - 144<br><br>a<sup>2</sup>= 25<br><br>a \\(\\sqrt{25}\\)<br><br>a = 5<br><br>tan x = \\(\\frac{5}{12}\\)<br><br>\\(\\frac{1 - \\tan x}{\\tan x} = \\frac{1 - \\frac{5}{12}}{\\frac{5}{12}}\\)<br><br>\\(\\frac{\\frac{1 - \\frac{5}{12}}{12 - 5}}{12} = \\frac{\\frac{7}{12}}{\\frac{5}{12}}\\)<br><br>= \\(\\frac{7}{2} \\div \\frac{5}{12}\\)<br><br>= \\(\\frac{7}{12} \\times \\frac{12}{5} = \\frac{7}{5}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{5}{13}\\)",
+            "\\(\\frac{5}{7}\\)",
+            "\\(\\frac{7}{5}\\)",
+            "\\(\\frac{13}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2014,
+        "question": "approximate 0.0033780 to 3 significant figures",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "338",
+            "0.338",
+            "0.00338",
+            "0.003"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2014,
+        "question": "<p>Simplify \\(\\frac{\\sqrt{8^2 \\times 4^{n + 1}}}{2^{2n} \\times 16}\\)</p>",
+        "explanation": "<p>\\(\\frac{\\sqrt{8^2 \\times 4^{n + 1}}}{2^{2n} \\times 16}\\)<br>\n<br>\n= \\(\\frac{\\sqrt{2^{3(2)} \\times 2^{2(n + 1)}}}{2^{2n} \\times 2^4}\\)<br>\n<br>\n= \\(\\frac{\\sqrt{2^6 \\times 2^{2n + 2)}}}{2^{2n} + 4}\\)<br>\n<br>\n= \\(\\frac{\\sqrt{2^6 + 2^{2n + 2)}}}{2^{2n} + 4}\\)<br>\n<br>\n= \\(\\frac{\\sqrt{2^{2n + 8}}}{2^{2n} + 4}\\)<br>\n<br>\n= \\(\\sqrt{2^{2n + 8} \\div 2^{2n} + 4}\\)<br>\n<br>\n= \\(\\sqrt{2^{2n - 2n} + 8 - 4}\\)<br>\n<br>\n= \\(\\sqrt{2^4}\\)<br>\n<br>\n= \\(\\sqrt{16}\\)<br>\n<br>\n= 4</p>",
+        "correctIndex": 2,
+        "options": [
+            "16",
+            "8",
+            "4",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2014,
+        "question": "If \\(\\frac{2}{x - 3} - \\frac{3}{x - 2}\\) is equal to \\(\\frac{p}{(x - 3)(x - 2)}\\), find p",
+        "explanation": "\\(\\frac{2}{x - 3} - \\frac{3}{x - 2}\\) = \\(\\frac{p}{(x - 3)(x - 2)}\\)<br><br>\\(\\frac{2(x - 2) - 3(x - 3)}{(x - 3)(x - 2)}\\) = \\(\\frac{p}{(x - 3)(x - 2)}\\)<br><br>= \\(\\frac{2x - 4 - 3x + 9}{(x - 3)(x - 2)}\\) = \\(\\frac{p}{(x - 3)(x - 2)}\\)<br><br>\\(\\frac{-x + 5}{(x - 3)(x - 2)} = \\frac{p}{(x - 3)(x - 2)}\\)<br><br>p(x - 3)(x - 2) = -x + 5(x - 3)(x - 2)<br><br>p = -x + 5 or p = 5 - x",
+        "correctIndex": 3,
+        "options": [
+            "-x - 5",
+            "-(x + 3)",
+            "5x - 13",
+            "5 - x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2014,
+        "question": "Subtract \\(\\frac{1}{2}\\)(a - b - c) from the sum of \\(\\frac{1}{2}\\)(a - b + c) and \\(\\frac{1}{2}\\)<br>(a + b - c)",
+        "explanation": "\\(\\frac{1}{2}\\)(a - b + c) + \\(\\frac{1}{2}\\)(a + b - c) - [\\(\\frac{1}{2}\\) (a - b - c)]<br><br>\\(\\frac{1}{2}a - \\frac{1}{2}b + \\frac{1}{2}c + \\frac{1}{2}a + \\frac{1}{2}b - \\frac{1}{2}c - \\frac{1}{2}a + \\frac{1}{2}b + \\frac{1}{2}c\\)<br><br>= \\(\\frac{1}{2}a + \\frac{1}{2}b + \\frac{1}{2}c\\)<br><br>= \\(\\frac{1}{2}(a + b + c)\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{2}\\) (a + b + c)",
+            "\\(\\frac{1}{2}\\) (a - b - c)",
+            "\\(\\frac{1}{2}\\) (a - b + c)",
+            "\\(\\frac{1}{2}\\) (a + b - c)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2014,
+        "question": "A man's eye level is 1.7m above the horizontal ground and 13m from a vertical pole. If the pole is 8.3m high, calculate, correct to the nearest degree, the angle of elevation of the top of the pole from his eyes.",
+        "explanation": "tan \\(\\theta = \\frac{opp}{adj} = \\frac{6.6}{13}\\)<br><br>tan \\(\\theta = 0.5077\\)<br><br>\\(\\theta\\) = tan<sup>-1</sup>0.5077<br><br>\\(\\theta = 27^o\\)",
+        "correctIndex": 2,
+        "options": [
+            "33<sup>o</sup>",
+            "32<sup>o</sup>",
+            "27<sup>o</sup>",
+            "26<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2014,
+        "question": "A chord subtends an angle of 120<sup>o</sup>at the centre of a circle of radius 3.5cm. Find the perimeter of the minor sector containing the chord, [Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "perimeter of minor sector<br><br>2r + \\(\\frac{\\theta}{360} \\times 2 \\pi r\\)<br><br>= 2 x 3.5 + \\(\\frac{120^o}{360^o} \\times 2 \\frac{22}{7} \\times 3.5\\)<br><br>= 7 + \\(\\frac{154}{21}\\)<br><br>= 7 + 7.33<br><br>= 14.33<br><br>= 14\\(\\frac{1}{3}\\)cm",
+        "correctIndex": 0,
+        "options": [
+            "14\\(\\frac{1}{3}\\)cm",
+            "12\\(\\frac{5}{6}\\)cm",
+            "8\\(\\frac{1}{7}\\)cm",
+            "7\\(\\frac{1}{3}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2014,
+        "question": "In parallelogram PQRS, QR is produced to M such that |QR| = |RM|. What fraction of the area of PQMS is the area of PRMS?",
+        "explanation": "There are 3 triangles: \\(\\bigtriangleup\\)MRS, \\(\\bigtriangleup\\) and \\(\\bigtriangleup\\) PRQ<br><br>Area PRMS has 2 triangles: \\(\\bigtriangleup\\) MRS and \\(\\bigtriangleup\\) RSP<br><br>the fraction = \\(\\frac{2}{3}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{3}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2014,
+        "question": "In a cumulative frequency graph, the lower quartile is 18 years while the 60th percentile is 48 years. What percentage of the distribution is at most 18 years or greater than 48 years?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "15%",
+            "35%",
+            "65%",
+            "85%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2014,
+        "question": "If a number is selected at random from each of the sets p = {1, 2, 3} and Q = {2, 3, 5}, find the probability that the sum of the numbers is prime",
+        "explanation": "p = { 1, 2, 3}<br><br>Q = {2, 3, 5}<br><br>prob(prime number) = prob(1 and 2) or<br><br>= prob(2 and 3) or<br><br>= prob(3 and 2)<br><br>There are three possibilities of the sum being prime<br><br>Total possibility = 9<br><br>probability(sum being prime) = \\(\\frac{3}{9}\\)<br><br>= \\(\\frac{1}{3}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{5}{9}\\)",
+            "1\\(\\frac{4}{9}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{9}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2014,
+        "question": "If log 5.957 = 0.7750, find log \\(3 \\sqrt{0.0005957}\\)",
+        "explanation": "\\(3 \\sqrt{0.0005957}\\)<br><br>\\(\\begin{array}{c|c} \\log No(0.0005957) &amp; \\frac{1}{3} \\log \\frac{1}{3} \\\\ \\hline (0.0005957)^{\\frac{1}{3}} &amp; 4.7750 \\times \\frac{1}{3} \\\\ &amp; 6 + 2.7750 \\\\\\hline &amp; 3 \\\\\\hline &amp; 2.9250\\end{array}\\)",
+        "correctIndex": 1,
+        "options": [
+            "4.1986",
+            "2.9250",
+            "1.5917",
+            "1.2853"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2014,
+        "question": "The probability of an event P happening is \\(\\frac{1}{5}\\) and that of event Q is \\(\\frac{1}{4}\\). If the events are independent, what is the probability that neither of them happens?",
+        "explanation": "prob(p) = \\(\\frac{1}{5}\\)<br><br>prob(Q) = \\(\\frac{1}{4}\\)<br><br>Prob(neither p) = 1 - \\(\\frac{1}{5}\\)<br><br>\\(\\frac{5 - 1}{5} = \\frac{4}{5}\\)<br><br>prob(neither Q) = 1 - \\(\\frac{1}{4}\\)<br><br>\\(\\frac{4 - 1}{4} = \\frac{3}{4}\\)<br><br>prob(neither of them) = \\(\\frac{4}{5} \\times \\frac{3}{4} = \\frac{12}{20}\\)<br><br>= \\(\\frac{3}{5}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{4}{5}\\)",
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{1}{20}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2014,
+        "question": "Each exterior angle of a polygon is 30<sup>o</sup>. Calculate the sum of the interior angles",
+        "explanation": "number of sides = \\(\\frac{360^o}{\\theta} = \\frac{360^o}{306o}\\)<br><br>n = 12<sup>o</sup><br><br>Sum of interior angle = (n - 2) 180<sup>o</sup><br><br>(12 - 2) 180v = 10 x 180<sup>o</sup><br><br>= 1800<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "540<sup>o</sup>",
+            "720<sup>o</sup>",
+            "1080<sup>o</sup>",
+            "1800<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2014,
+        "question": "Find the number of term in the Arithmetic Progression(A.P) 2, -9, -20,...-141.",
+        "explanation": "T<sub>1</sub>, T<sub>2</sub>, T<sub>3</sub><br><br>2, -9, -20 .... -141<br><br>l = a + (n - 1)d<br><br>first term, a = 2<br><br>common difference d = T<sub>3</sub>- T<sub>2</sub><br><br>= T<sub>2</sub>- T<sub>1</sub><br><br>= -20 - (-9) = -9 -2<br><br>= -20 + 9<br><br>= -9 -2<br><br>= -20 + 9<br><br>= -11<br><br>-11 = -11<br><br>d = -1<br><br>last term l = -141<br><br>-141 = 2 + (\\(\\cap\\) - 1) (-11)<br><br>-141 = 2 + (-11 \\(\\cap\\) + 11)<br><br>= 2 - 11\\(\\cap\\) + 11<br><br>-141 = 13 - 11\\(\\cap\\)<br><br>-141 - 13 = -11\\(\\cap\\)<br><br>-154 = -11\\(\\cap\\)<br><br>\\(\\cap\\) = \\(\\frac{-154}{-11}\\)<br><br>\\(\\cap\\) = 14",
+        "correctIndex": 3,
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2014,
+        "question": "In what modulus is it true that 9 + 8 = 5?",
+        "explanation": "9 + 8 = 17<br><br>17 + mod 12 = 1 rem 5<br><br>it is mod 12",
+        "correctIndex": 2,
+        "options": [
+            "mod 10",
+            "mod 11",
+            "mod 12",
+            "mod 13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2014,
+        "question": "The radii of the base of two cylindrical tins, P and Q are r and 2r respectively. If the water level in p is 10cm high, would be the height of the same quantity of water in Q?",
+        "explanation": "volume of cylinder = \\(\\pi r^2h\\)<br><br>volume of cylinder p = \\(\\pi r^2 \\times 10\\)<br><br>= 10\\(\\pi r^2\\)<br><br>volume of cylinder Q = \\(\\pi (2r)^2 h\\)<br><br>= 4\\(\\pi r^2\\)h<br><br>4\\(\\pi r^2 = 10 \\pi r^2 h\\)<br><br>h = \\(\\frac{10}{4} = 4.5cm\\)",
+        "correctIndex": 0,
+        "options": [
+            "2.5cm",
+            "5.0cm",
+            "7.5cm",
+            "20.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4307810766_4.jpg\" class=\"img-fluid\">",
+        "explanation": "score 0 = 4 students<br><br>score 1 = 2 students<br><br>score 2 = 5 students<br><br>score 3 = 6 students<br><br>score 4 = 3 students<br><br>= 20 students",
+        "correctIndex": 2,
+        "options": [
+            "18",
+            "19",
+            "20",
+            "22"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15795306846_4.jpg\" class=\"img-fluid\">",
+        "explanation": "at most 2 marks = 5 + 2 + 4 students = 11 students<br><br>probability(at most 2 marks) = \\(\\frac{11}{20}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{11}{18}\\)",
+            "\\(\\frac{11}{20}\\)",
+            "\\(\\frac{7}{22}\\)",
+            "\\(\\frac{5}{19}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11487497960_8.jpg\" class=\"img-fluid\">",
+        "explanation": "y + z = 180<sup>o</sup><br><br>z = 180<sup>o</sup>- y<br><br>x + k = 180<sup>o</sup><br><br>k = 180<sup>o</sup>- x<br><br>the sum of angles in the \\(\\bigtriangleup\\) are: n + z + k = 180<br><br>but n + 180<sup>o</sup>- y + 180<sup>o</sup>- x = 180<sup>o</sup><br><br>n + 180<sup>o</sup>- y - x = 0<br><br>but we want to find n<br><br>n + 180<sup>o</sup>= x + y<br><br>but x + y = 220<sup>o</sup><br><br>n + 180<sup>o</sup>= 220<sup>o</sup><br><br>n = 220<sup>o</sup>- 180<sup>o</sup><br><br>n = 40<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7179686490_15.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "110<sup>o</sup>",
+            "120<sup>o</sup>",
+            "140<sup>o</sup>",
+            "160<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15795311587_20.jpg\" class=\"img-fluid\">",
+        "explanation": "if m + n = 120<sup>o</sup>and n + r = 100<sup>o</sup><br><br>then m + n = 120<sup>o</sup><br><br>then r = 180<sup>o</sup>- 120<sup>o</sup>= 60<sup>o</sup><br><br>also n + r = 100<sup>o</sup><br><br>m = 180<sup>o</sup>= 80<sup>o</sup><br><br>m + r is = 80<sup>o</sup>+ 60<sup>o</sup><br><br>= 140<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "110<sup>o</sup>",
+            "120<sup>o</sup>",
+            "140<sup>o</sup>",
+            "160<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25846875270_21.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram SR//UW given that &lt; RSV = 45<sup>o</sup>and &lt; WVT = x<sup>o</sup><br><br>&lt; WVT = 45<sup>o</sup>(corresponding angle)<br><br>x<sup>o</sup>= 45",
+        "correctIndex": 1,
+        "options": [
+            "20",
+            "45",
+            "65",
+            "135"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22975004880_21.jpg\" class=\"img-fluid\">",
+        "explanation": "x<sup>o</sup>+ z<sup>o</sup>= 180<sup>o</sup>(sum of &lt; on str. line)<br><br>45<sup>o</sup>+ z<sup>o</sup>= 180<sup>o</sup><br><br>z<sup>o</sup>= 180<sup>o</sup>- 45<sup>o</sup><br><br>z = 135<sup>o</sup><br><br>z + y<sup>o</sup>+ 20<sup>o</sup>= 180<sup>o</sup>(sum of &lt; s in \\(\\bigtriangleup\\))<br><br>135<sup>o</sup>+ y<sup>o</sup>+ 20<sup>o</sup>= 180<sup>o</sup><br><br>y<sup>o</sup>+ 155<sup>o</sup>= 180<sup>o</sup><br><br>y<sup>o</sup>+ 180<sup>o</sup>- 155<sup>o</sup><br><br>y<sup>o</sup>= 25<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20",
+            "25",
+            "45",
+            "65"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25846891110_27.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "(1, 0.2)",
+            "(1, 0.4)",
+            "(1, 2.0)",
+            "(1, 40)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22975014784_27.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.00",
+            "-0.65",
+            "-1.25",
+            "-2.10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2871877298_32.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; URT = &lt; TRQ (angle alternate a tangent and a chord equal to angle in the alternate segment)<br><br>&lt; RUT = x<sup>o</sup><br><br>In \\(\\bigtriangleup\\) URT<br><br>&lt; RUT + &lt; RUT + &lt; UTR = 180<sup>o</sup>(sum of int. &lt; s of \\(\\bigtriangleup\\))<br><br>&lt; URT + x + x = 180<sup>o</sup><br><br>&lt; URT = 180<sup>o</sup>- 2x",
+        "correctIndex": 3,
+        "options": [
+            "2x<sup>o</sup>",
+            "(90 - x)<sup>o</sup>",
+            "(90 + x)<sup>o</sup>",
+            "(180 - 2x)<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14359387090_41.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "80<sup>o</sup>",
+            "90<sup>o</sup>",
+            "110<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10051573399_44.jpg\" class=\"img-fluid\">",
+        "explanation": "Construction: draw a line from Q to point P and another line from S to point P.<br><br>&lt; SOQ = 2&lt; QPS (&lt; at centre is twice &lt; on the circumference)<br><br>&lt; QPS \\(\\frac{86}{2} = 43\\)<br><br>&lt; SQR = &lt; QPS ( &lt; between a chord and tangent = &lt; in the alternate segment)<br><br>&lt; SQR = 43<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "43<sup>o</sup>",
+            "47<sup>o</sup>",
+            "54<sup>o</sup>",
+            "86<sup>o</sup>"
+        ],
+        "type": "objectives"
+    }
+]

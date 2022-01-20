@@ -1,0 +1,970 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1995,
+        "question": "Which of the following is a fundamental quantity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Heat capacity",
+            "Electric current",
+            "Torque",
+            "Reactance",
+            "Density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1995,
+        "question": "A boy cycles continuously through a distance of 1.0 km in 5 minutes. Calculate his average speed",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.3ms<sup>-1</sup>",
+            "3.3ms<sup>-1</sup>",
+            "16.6ms<sup>-1</sup>",
+            "20.0ms<sup>-1</sup>",
+            "200.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1995,
+        "question": "A student found out from a simple pendulum experiment that 20 oscillations were completed in 38 seconds. What is the period of oscillation of the pendulum?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "8.0s",
+            "3.8 s",
+            "2.0 s",
+            "1.9 s",
+            "0.5s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1995,
+        "question": "A body of mass 7.5 kg is to be pulled up along a plane which is inclined at 30<sup>o</sup>to the horizontal. If the efficiency of the plane is 75%, what is the minimum force required to pull the body up the plane?<br>(g = 10ms<sup>-1</sup>)",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "5.0 N",
+            "20.0 N",
+            "50.0 N",
+            "75.0 N",
+            "200.0 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1995,
+        "question": "The angular speed of an object describing a circle of radius 4m with a linear constant speed of 10 ms<sup>-1</sup>is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "40.00 rad s<sup>-1</sup>",
+            "14.00 rad s<sup>-1</sup>",
+            "2.50 rad s<sup>-1</sup>",
+            "1.58 rad s<sup>-1</sup>",
+            "0.40 rad s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1995,
+        "question": "At what angle to the horizontal must the nozzle of a machine gun be kept when firing to obtain a maximum horizontal range for the bullets?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.0<sup>o</sup>",
+            "22.5<sup>o</sup>",
+            "30.0<sup>o</sup>",
+            "45. 0<sup>o</sup>",
+            "90.0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1995,
+        "question": "Which of the following will reduce the frequency of oscillation of a simple pendulum?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Increasing the mass of the bob",
+            "Decreasing the mass of the bob",
+            "Increasing the length of the string",
+            "Decreasing the length of the string",
+            "Decreasing the amplitude of oscillation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1995,
+        "question": "A car travelling at a uniform speed of 120km h<sup>-1</sup>passes two stations in 4 minutes. Calculate the distance between the two stations.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "8km",
+            "15km",
+            "22km",
+            "30km",
+            "60km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1995,
+        "question": "A machine has an efficiency of 60%. If the machine is required to overcome a load of 30 N with a force of 20 N calculate its mechanical advantage?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.7",
+            "0.9",
+            "1.5",
+            "2.5",
+            "10.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1995,
+        "question": "A body weighing 10 N in air is partially immersed in water. It displaces water of mass 0.3 kg. What is the upthrust on the body? (g = 10 ms<sup>-2</sup>)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "13.0 N",
+            "7.0 N",
+            "3.3N",
+            "3.0N",
+            "0.3 N."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1995,
+        "question": "A mercury-in-glass thermometer reads - 20<sup>o</sup>at the ice point and 100<sup>o</sup>at the steam point. Calculate the celcius temperature corresponding to 70<sup>o</sup>on the thermometer.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "41.0<sup>o</sup>C",
+            "50.0<sup>o</sup>C",
+            "62.5<sup>o</sup>C",
+            "70.0<sup>o</sup>C",
+            "75.0<sup>o</sup>C."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1995,
+        "question": "A brass rod is 2 m long at a certain temperature. Calculate the linear expansion of the rod for a temperature change of 100K. (Take the linear expansivity of brass as 1.8 x 10'5K\").",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.3600 m",
+            "0.1800 m",
+            "0.0360 m",
+            "0.0036m",
+            "0.0018 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1995,
+        "question": "A body of specific heat capacity 450J kg<sup>-1</sup>K<sup>-1</sup>falls to the ground from rest through a vertical height of 20m. Assuming conservation of energy, calculate the change in temperature of the body on striking the ground level. (g = 10ms<sup>-2</sup>)",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0<sup>o</sup>C",
+            "2/9<sup>o</sup>C",
+            "4/9<sup>o</sup>C",
+            "9/4<sup>o</sup>C",
+            "9/2<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1995,
+        "question": "<p>Hot water at a temperature of t is added to twice that amount of water at a temperature of 30°C. If the resulting temperature of the mixture is 50°C. Calculate t.</p>",
+        "explanation": "<p>Final Temperature = \\(\\frac{m_1 T_1 + m_2 T_2}{m_1 + m_2}\\)</p><p>where m\\(_1\\) and m\\(_2\\) are the weights of the water in the first and second containers.</p><p>T\\(_1\\) and T\\(_2\\) are the temperatures of the water in the first and second container.</p><p>Given Final temperature = 50°C;</p><p>Let m\\(_1\\) = b, then m\\(_2\\) = 2b.</p><p>T\\(_1\\) = t; T\\(_2\\) = 30°C</p><p>\\(\\therefore 50 = \\frac{b(t) + 2b(30)}{b + 2b}\\)</p><p>\\(50 = \\frac{bt + 2b(30)}{3b}\\)</p><p>\\(50(3b) = bt + 2b(30) \\implies 150b = b(t + 60)\\)</p><p>\\(150 = t + 60 \\implies t = 150 - 60 = 90°C\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "90<sup>o</sup>C",
+            "80<sup>o</sup>C",
+            "50<sup>o</sup>C",
+            "40<sup>o</sup>C",
+            "30<sup>o</sup>C."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1995,
+        "question": "<p>An air bubble of volume 2 cm\\(^3\\) is formed 20m under water. What will be its volume when it rises to just below the surface of the water if the atmospheric pressure is equivalent to a height of 10m of water?</p>",
+        "explanation": "<p>P\\(_1\\)V\\(_1\\) = P\\(_2\\)V\\(_2\\)</p><p>When the bubble comes to the surface and pressure drops 3 times, the volume increases 3 times.</p><p>V\\(_2\\) = 3 x 2 </p><p>= 6 cm\\(^3\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "6cm<sup>3</sup>",
+            "4cm<sup>3</sup>",
+            "3cm<sup>3</sup>",
+            "2cm<sup>3</sup>",
+            "1cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1995,
+        "question": "The pressure of a given mass of gas changes from 200 Nm<sup>2</sup>to 100 N m<sup>2</sup>, while its temperature drops from 127<sup>o</sup>C to - 73<sup>o</sup>C. Calculate the radio of the final volume of the gas to its initial volume.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2.4:1",
+            "2.0:1",
+            "1.2:1",
+            "1.0:1",
+            "1.0:2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1995,
+        "question": "The temperature of glass vessel containing 100cm3 of mercury is raised from 10<sup>o</sup>C to 100<sup>o</sup>C. Calculate the apparent cubic expansion of the mercury. (Real cubic expansivity of mercury = 1.82 x 10<sup>-4</sup>K<sup>-1</sup>) (Cubic expansivity of glass = 2.4 x 10<sup>-5</sup>K<sup>-1</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.52cm<sup>3</sup>",
+            "1.42cm<sup>3</sup>",
+            "1.87cm<sup>3</sup>",
+            "5.22cm<sup>3</sup>",
+            "14.22cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1995,
+        "question": "An iron rod of mass 2kg and at a temperature of 280<sup>o</sup>C is dropped into some quantity of water initially at a temperature of 30<sup>o</sup>C. lf the temperature of the mixture is 70<sup>o</sup>C, calculate the mass of the water. (Neglect heat losses to the surroundings). Specific heat capacity of iron = 460 J kg<sup></sup>K<sup></sup>) (Specific heat capacity of water = 4200 Jkg<sup></sup>K<sup></sup>)",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.58kg",
+            "0.77kg",
+            "1.15kg",
+            "1.50kg",
+            "2.04kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1995,
+        "question": "<p>How much heat is required to convert 20 g of ice at 0oC to water at the same temperature? (Specific latent heat of ice = 336 J g-1)</p>",
+        "explanation": "<p>The formula of specific latent heat of fusion is given by: <strong>Q = mL</strong></p><p><strong>: 20 X 336</strong></p><p><strong>= 6720 or 6.72 X 10\\(^3\\)</strong></p>",
+        "correctIndex": 2,
+        "options": [
+            "1.35 x 10<sup>3</sup>J",
+            "5.38 x 10<sup>3</sup>J",
+            "6.72 x 10<sup>3</sup>J",
+            "7.06 x 10<sup>3</sup>J",
+            "8.06 x 10<sup>3</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1995,
+        "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that in Q. lf the masses of P and Q are the same, calculate the ratio of the specific heat capacities of Q to P.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "4 : 1",
+            "2 : 1",
+            "1 : 1",
+            "1 : 2",
+            "1 : 4."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19418957054_wcphy199521.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "120<sup>o</sup>",
+            "90<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2774136820_wcphy199523.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "1.63",
+            "1.50",
+            "1.49",
+            "1.33",
+            "1.02"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1995,
+        "question": "Light travels in straight lines. In which of the following is this principle manifested? I. Pinhole camera II Formation of shadows III. Diffraction of light IV. Occurrence of eclipse",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I and III only",
+            "II and III only",
+            "I, II and III only",
+            "I, II and IV only",
+            "I, II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1995,
+        "question": "<p>The image of any real object formed by a diverging lens is always</p>",
+        "explanation": "<p>The images formed by a diverging lens is a virtual and erect image.</p>",
+        "correctIndex": 2,
+        "options": [
+            "inverted",
+            "magnified",
+            "erect",
+            "real",
+            "the same size as the object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1995,
+        "question": "Which of the following is not self-luminous?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Incandescent electric bulb",
+            "Incandescent fluorescent tube",
+            "Lighted candle",
+            "The moon",
+            "The sun"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1995,
+        "question": "An object is placed on the principal axis at the centre of curvature of a concave mirror. The image of the object formed by the mirror is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "real, inverted and magnified",
+            "at the principal focus",
+            "real and diminished",
+            "erect and virtual",
+            "at the centre of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1995,
+        "question": "A wire is stretched between two points, 1m apart. If the speed of the wave generated on plucking the wire is 200ms<sup>-1</sup>, what is the minimum frequency which will resonate with the wire?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "50 Hz",
+            "75 Hz",
+            "100 Hz",
+            "150 Hz",
+            "200 Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1995,
+        "question": "Sixty complete waves pass a particular point in 4s. lf the distance between three successive troughs of the waves is 15m, calculate the speed of the waves,",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "300.0ms<sup>-1</sup>",
+            "225.0ms<sup>-1</sup>",
+            "112.5ms<sup>-1</sup>",
+            "75.0ms<sup>-1</sup>",
+            "16.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1995,
+        "question": "Which of the following media allow(s) the transmission of sound wave through them? I. Air II. Liquid III. Solid.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I, II and III."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1995,
+        "question": "Which of the following wave characteristics can be used to distinguish a transverse wave from a longitudinal wave?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Polarization",
+            "Interference"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1995,
+        "question": "A sound note of frequency 250 Hz and wavelength 1.3m is produced at a point near a hill. If the echo of the sound is received 1 second later at the point, how far away is the hill from the point?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "131.3m",
+            "162.5m",
+            "248.7m",
+            "251.3m",
+            "325.0m."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1995,
+        "question": "The period of a wave is 0.02 second. Calculate its wavelength if its speed is 330 ms<sup>-1</sup>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "6.6m",
+            "5.0m",
+            "4.0m",
+            "3.3m",
+            "2.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1995,
+        "question": "An alternating voltage with a frequency of 50Hz has a period of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.02s",
+            "0.05s",
+            "0.20s",
+            "0.50 s",
+            "50.00s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1995,
+        "question": "A listener can detect the instrument from which a note is being sounded because different instruments produce the same note with a different.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "frequencies",
+            "pitches",
+            "loudness",
+            "intensities",
+            "overtones"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1995,
+        "question": "What is the escape velocity of a body on the surface of the earth of radius R if the gravitational constant is G and the mass of the earth is M? (Neglect energy losses to the surroundings)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2GR",
+            "2G/R",
+            "2GR<sup>2</sup>",
+            "2GM/R"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1995,
+        "question": "A charge of 1.6 x 10<sup>-10</sup>C is placed in a uniform electric field of intensity 2.0 x 10<sup>5</sup>NC<sup>-1</sup>. What is the magnitude of the electric force exerted on the charge?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3.2 x10<sup>5</sup>N",
+            "1.8 x10<sup>5</sup>N",
+            "3.2 x10<sup>-5</sup>N",
+            "1.8 x10<sup>-5</sup>N",
+            "4.0X10<sup>-6</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1995,
+        "question": "A balloon containing 546cm<sup>3</sup>of air is heated from 0<sup>o</sup>C to 10<sup>o</sup>C. If the pressure is kept constant, what will be its volume at 10<sup>o</sup>C?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "526cm<sup>3</sup>",
+            "546cm<sup>3</sup>",
+            "556cm<sup></sup>",
+            "566cm<sup>3</sup>",
+            "819cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5796622220_weac%2023.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "14.4H",
+            "3.8H",
+            "0.6H",
+            "0.4H",
+            "0.2H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1995,
+        "question": "Calculate the electric potential at a distance of 20.0cm from a point charge of 0.015C placed in air of permittivity (Take 1/4πε<sub>o</sub>as 9.0 x 10<sup>9</sup>Nm<sup>2</sup>C<sup>2</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "3.40x10<sup>6</sup>V",
+            "6.75x10<sup>5</sup>V",
+            "6.75x10<sup>12</sup>V",
+            "3.40x10<sup>5</sup>V",
+            "8.30 x 10<sup>2</sup>V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26354311266_wcphy199542.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "50.00",
+            "5.00",
+            "0.50",
+            "0.05",
+            "0.02"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26354313375_wcphy199542.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2.5V",
+            "25.0V",
+            "49.0V",
+            "50.0V",
+            "250.0V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1995,
+        "question": "A capacitor of capacitance 25μF is connected to an a.c. power source of frequency 200 Hz. Calculate the reactance of the capacitor",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.01",
+            "0.02",
+            "50.00",
+            "100.00",
+            "200.00."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1995,
+        "question": "<p>The energy stored in a capacitor of capacitance 5μF is 40J. Calculate the voltage applied across its terminals?</p>",
+        "explanation": "<p>\\(E = \\frac{CV^{2}}{2}\\)</p><p>\\(V^{2} = \\frac{2E}{C}\\)</p><p>\\(V^{2} = \\frac{2\\times 40}{5 \\times 10^{-6}}\\)</p><p>\\(V^{2} = 16 \\times 10^{6}\\)</p><p>\\(V = 4 \\times 10^{3} = 4000v\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "4000V",
+            "200V",
+            "16V",
+            "6V",
+            "4V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27741385220_wcphy199545.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "5.0μF",
+            "4.0μF",
+            "3.0μF",
+            "1.0μF",
+            "0.5μF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1995,
+        "question": "Calculate the quantity charge flowing through a conductor if a current of 10A passes through the conductor for 10s.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "100C",
+            "20C",
+            "15C",
+            "10C",
+            "1C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13870693620_wcphy199547.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "OS",
+            "OR",
+            "PQ",
+            "RT",
+            "OT"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8322416598_wcphy199548.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "12.5V",
+            "5.8V",
+            "5.0V",
+            "3.0V",
+            "2.0V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1387069572_wcphy199548.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.3A",
+            "0.4A",
+            "1.0A",
+            "1.5A",
+            "2.5A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 1995,
+        "question": "Which of the following is a wind instrument?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Guitar",
+            "Organ",
+            "Violin",
+            "Piano",
+            "Harp"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 1995,
+        "question": "A cell of e.m.f 1.5V and internal resistance 2.552 is connected in series with an ammeter resistance 0.50 and a load of resistance 7.00. Calculate the current in the circuit",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.15A",
+            "0.20A",
+            "2.1OA",
+            "3.00A",
+            "6.67A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 51,
+        "year": 1995,
+        "question": "<p>Which of the following statements are not true of a moving-coil milliammeter? I. It can be used to measure alternating current II. It has a linear scale III. It can be adapted to read higher values of currents IV. A resistor connected in parallel with the milliammeter would convert it to a voltmeter</p>",
+        "explanation": "<p>Converting an ammeter to a voltmeter involves increasing the resistance of theammeter. This is done by adding a high resistance in series with the ammeter. Also, A moving coil meter indicates the average (mean) of a varying current through it, which is zero for AC. For this reason moving-coil meters are only usable directly for DC, not AC. Hence, I and IV are false.</p>",
+        "correctIndex": 0,
+        "options": [
+            "I and IV only",
+            "II and III only",
+            "III and IV only",
+            "I, II and III only",
+            "I, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 52,
+        "year": 1995,
+        "question": "A radioactive nuclide of mass 6.09 has a half-life of 8 days. Calculate the time during which 5.25g of the nuclide would have decayed",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1 day",
+            "2 days",
+            "8 days",
+            "24 days",
+            "42 days."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 53,
+        "year": 1995,
+        "question": "A moving-coil meter with an internal resistance of 100Ω has a full-scale deflection when a current of 10m2 flows through it. What value of resistance would convert it to read 10V at full- scale deflection?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "20",
+            "100",
+            "600",
+            "900",
+            "1000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 54,
+        "year": 1995,
+        "question": "Which of the following are emitted from a radioactive substance without altering either the nucleon number or the proton number of the substance?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Protons",
+            "Neutrons",
+            "Gamma rays",
+            "Beta particles",
+            "Alpha particles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 55,
+        "year": 1995,
+        "question": "Which of the following is not a product of nuclear fission?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Alpha particle",
+            "Beta particle",
+            "Gamma ray",
+            "X-ray",
+            "Neutron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 56,
+        "year": 1995,
+        "question": "Which of the following cannot be explained by the molecular theory of matter?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Conduction",
+            "Radiation",
+            "Convection",
+            "Evaporation",
+            "Expansion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 57,
+        "year": 1995,
+        "question": "Which of the following is used for shielding radioactive fall-outs?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Plastic",
+            "Wood",
+            "Textile",
+            "Aluminium",
+            "Lead"
+        ],
+        "type": "objectives"
+    }
+]

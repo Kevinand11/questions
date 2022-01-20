@@ -1,0 +1,434 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 1,
+        "year": 2006,
+        "question": "How many orbitals are in the d-sub shell?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 2,
+        "year": 2006,
+        "question": "An element X has isotopic masses of 6 and 7. if the relative abundance is 1 to 12.5 respectively, what is the relative atomic mass of X?",
+        "explanation": "Contribution by isotope 6 = 6 x 1 = 6<br>contribution by isotope 7 = 7 x 12.5 = 87.5<br>This contribution is made by 1 + 12.5 = 13.5 atoms<br>Relative atomic mass of = 87.5 + 6 = 93.5/13.5 = 6.9",
+        "correctIndex": 2,
+        "options": [
+            "6.0",
+            "6.1",
+            "6.9",
+            "7.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 3,
+        "year": 2006,
+        "question": "An atom<sup>238</sup><sub>92</sub>X decays by alpha particle emission to give an atom Y. The atomic number and mass number of Y are",
+        "explanation": "238<sub>92</sub>X 234<sub>90</sub>Y +<sup>4 <sub>2</sub> He Atomic number is 90 while mass number is 234\n</sup>",
+        "correctIndex": 0,
+        "options": [
+            "90 and 234 respectively",
+            "91 and 238 respectively",
+            "92 and 236 respectively",
+            "93 and 238 respectively"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 4,
+        "year": 2006,
+        "question": "If 1 mole of sodium contains 6 x 10<sup>23</sup>atoms, how many atoms are contained in 0.6 g of sodium? [Na = 23]",
+        "explanation": "23g of sodium contain 6 x 10<sub>23</sub>atoms :. 0.6g of sodium will contain \\(\\frac{0.6 x 6 x 10<sup>23</sup>}{23}/) = 1.56 x 10<sup>22</sup>",
+        "correctIndex": 1,
+        "options": [
+            "1.56 x 10<sup>23</sup>",
+            "1.56 x 10<sup>22</sup>",
+            "3.6 x 10<sup>23</sup>",
+            "3.6 x 10<sup>22</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 5,
+        "year": 2006,
+        "question": "If 20 cm<sup>3</sup>of distilled water is added to 80cm<sup>3</sup>of 0. 50 mol dm<sup>-3</sup>hydrochloric acid, the new concentration of the acid will be",
+        "explanation": "C<sub>1</sub>x 100 = 0.5 x 80<br>C<sub>1</sub>= \\(\\frac{0.5 x 80}{100}/) = \\(\\frac{4}{10}/) = 0 . 40mol/dm<sup>-3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "0.10mol dm<sup>-3</sup>",
+            "0.20mol dm<sup>-3</sup>",
+            "0.40mol dm<sup>-3</sup>",
+            "2.00mol dm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 6,
+        "year": 2006,
+        "question": "Consider the reaction represented by the equation. 2NaHCO<sub>3(s)</sub>\\(\\rightarrow\\) 2Na<sub>2</sub>CO<sub>3(S)</sub>+ CO<sub>2(g)</sub>+ H<sub>2</sub>O<sub>(g)</sub>what volume of carbon (IV)oxide at s.t.p is evolved when 0. 5 moles of NaHCO<sub>3</sub>is heated? [Molar volume = 22.4 dm<sup>3</sup>at s.t. p]",
+        "explanation": "2NaHCO<sub>3(s)</sub>\\(\\rightarrow\\) 2Na<sub>2</sub>CO<sub>3(S)</sub>+ CO<sub>2(g)</sub>+ H<sub>2</sub>O<sub>(g)</sub><br><br>2 moles of 2NaHCO<sub>3(s)</sub>produces 22.4dm<sup>3</sup>of CO<sub>2</sub><br><br>0.5 moles of 2NaHCO<sub>3</sub>will produce \\(\\frac{0.5 \\times 22.4}{2}\\)<br><br>= \\(\\frac{11.2}{2}\\)<br><br>= 5.6 dm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "1.12dm<sup>3</sup>",
+            "2.24dm<sup>3</sup>",
+            "5.6dm<sup>3</sup>",
+            "56.0dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 7,
+        "year": 2006,
+        "question": "Considered the reaction: H<sup>+</sup><sub>(aq)</sub>+ OH<sup>-</sup><sub>(aq)</sub>→ H<sub>2</sub>O<br><sub>(l)</sub>. The energy change taking place in the reaction above is enthalpy of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "formation",
+            "hydration",
+            "neutralization",
+            "solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 8,
+        "year": 2006,
+        "question": "Which of the following processes is an endothermic reaction?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Dissolving NH<sub>4</sub>CI crystals in water",
+            "Addition of concentrated H<sub>2</sub>SO<sub>4</sub>",
+            "Dissolving NaOH pellets in water",
+            "Passing SO<sub>3</sub>gas into water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 9,
+        "year": 2006,
+        "question": "Which of the following aqueous methods cannot be used to distinguish between a strong acid and a a weak acid?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Conductivity measurement",
+            "Measurement of pH",
+            "Measurement of heat of neutralization",
+            "Action on starch iodide paper"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 10,
+        "year": 2006,
+        "question": "The indicator used in neutralizing CH<sub>3</sub>COOH and NaOH solution has pH range of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3-5",
+            "7-8",
+            "8-10<sup>3</sup>",
+            "10-12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 11,
+        "year": 2006,
+        "question": "When aqueous ammonia is added to one of the following solutions,a white precipitate which dissolved in excess ammonia is formed Identify the solution.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ZnCl<sub>2(aq)</sub>",
+            "Pb(NO<sub>3</sub>)<sub>2(aq)</sub>",
+            "CuSO<sub>4(aq)</sub>",
+            "FeSO<sub>4(aq)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 12,
+        "year": 2006,
+        "question": "Which of the following compounds absorbs moisture from the atmosphere and dissolves in it?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "FeCI<sub>3</sub>",
+            "MgSO<sub>4</sub>.7H<sub>2</sub>O",
+            "Na<sub>2</sub>SO<sub>4</sub>",
+            "KCI"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 13,
+        "year": 2006,
+        "question": "<p>Consider the reaction represented by the equation: 2SO\\(_{2(g)}\\) + O\\(_{2(g)}\\) ⇌ 2SO\\(_{3(g)}\\); ∆H = - 197 kJmol\\(^{-1}\\). Which of the following conditions will not increase the yield of sulphur (VI) oxide?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Increase in temperature",
+            "Decrease in temperature",
+            "Increase in pressure",
+            "Addition of O<sub>2</sub>into the mixture"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 14,
+        "year": 2006,
+        "question": "Electrolysis is applied in the following processes except",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electroplating",
+            "extraction of aluminium",
+            "extraction of iron",
+            "purification of copper"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 15,
+        "year": 2006,
+        "question": "The oxidation number of iodine in the iodate ion (IO<sup>-</sup><sub>3</sub>) is",
+        "explanation": "1O<sub>3</sub><br>[oxidation number of 1] + [oxidation number of 0] x 3 = -1<br>x + -2 x 3 = 1<br>x - 6 = - 1<br>x = - 1 + 6 = +5",
+        "correctIndex": 3,
+        "options": [
+            "-5",
+            "-1",
+            "+1",
+            "+5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 16,
+        "year": 2006,
+        "question": "Metals can be extracted from their ores by a process involving",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "reduction",
+            "oxidation",
+            "hydrolysis",
+            "decomposition"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 17,
+        "year": 2006,
+        "question": "Consider the reaction: 2AI<sub>(s)</sub>+ 6H<sup>+</sup><sub>(aq)</sub>→ 2AI<sup>3+</sup><sub>(aq)</sub>+ 3H<sub>2(g)</sub>. What is the total number of moles of electrons transferred from the aluminium atoms to the hydrogen ions?",
+        "explanation": "2AL<sub>(s)</sub>+ 6H<sup>+</sup><sub>(aq)</sub>→ 2AL<sup>3+<sub>(aq)</sub> + 3H<sub>2(g)</sub>. One aluminium atom transfers 3 electrons :. Two aluminium atoms will transfer 2x3=6 electrons\n</sup>",
+        "correctIndex": 3,
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 18,
+        "year": 2006,
+        "question": "In the reaction represented by the equation. 5Fe<sup>2+</sup><sub>(aq)</sub>+ MnO<sup>-</sup><sub>4(aq)</sub>+ 8H<sup>+</sup><sub>(aq)</sub>→ 5Fe<sup>3+</sup><sub>(aq)</sub>+ Mn<sup>2+<sub>(aq)</sub> + 4H<sub>2</sub>O<sub>(l)</sub> which species is reduced?</sup>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Fe<sup>2+</sup>",
+            "MnO<sup>-4</sup>",
+            "H<sup>+</sup>",
+            "Fe<sup>3+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 19,
+        "year": 2006,
+        "question": "Which of the following industrial processes is chlorines not used?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Production of polyvinylchloride (PVC)",
+            "Manufacturing of hydrochloric acid",
+            "Manufacturing of common salt",
+            "Manufacturing of domestic bleach"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 20,
+        "year": 2006,
+        "question": "What type of reaction occurs between vegetable oil and plant ash extract?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Displacement",
+            "Dehydration",
+            "Neutralization",
+            "Saponiflication"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 21,
+        "year": 2006,
+        "question": "Which of the following compounds is an alkanoate?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CH<sub>3</sub>COOH",
+            "CH<sub>3</sub>COOCH<sub>3</sub>",
+            "CH<sub>3</sub>CH<sub>2</sub>OH",
+            "CH<sub>3</sub>CH<sub>2</sub>COOH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 22,
+        "year": 2006,
+        "question": "What is C<sub>a</sub>H<sub>b</sub>in the following equation? C<sub>a</sub><br>H<sub>b</sub>+ 5O<sub>2</sub>→ 3CO<sub>2</sub>+ 4H<sub>2</sub>O",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "C<sub>3</sub>H<sub>4</sub>",
+            "C<sub>3</sub>H<sub>6</sub>",
+            "C<sub>3</sub>H<sub>8</sub>",
+            "C<sub>5</sub>H<sub>10</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 23,
+        "year": 2006,
+        "question": "Greenhouse effect can be reduced by controlling",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "water evaporation",
+            "burning wood and fossil fuel",
+            "the use of aerosols",
+            "the use of artificial fertilizers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 24,
+        "year": 2006,
+        "question": "Waste plastics accumulate in the soil and pollute the environment because plastic materials are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "insoluble in water",
+            "non -biodegradable",
+            "easily affected by heat",
+            "inflammab,le"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 25,
+        "year": 2006,
+        "question": "Which of the following substance is an ore of iron?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Bauxite",
+            "Cassiterite",
+            "Haematite",
+            "Steel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 26,
+        "year": 2006,
+        "question": "The ammonium compound used in the manufacture of dry cells is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "NH<sub>4</sub>NO<sub>3</sub>",
+            "(NH<sub>4</sub>)SO<sub>4</sub>",
+            "NHCI<sub>4</sub>",
+            "(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 27,
+        "year": 2006,
+        "question": "Which of the following equations represents a substitution reaction?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "C<sub>2</sub>H<sub>10(g)</sub>+ CI<sub>2(g)</sub>→ C<sub>4</sub>H<sub>9</sub>CI<sub>(g)</sub>+ HCI<sub>(g)</sub>",
+            "C<sub>2</sub>H<sub>4(g)</sub>+ HCI<sub>(g)</sub>→ C<sub>2</sub>H<sub>5</sub>CI<sub>(l)</sub>",
+            "C<sub>2</sub>H<sub>2(g)</sub>+ 2H<sub>2(g)</sub>→ C<sub>2</sub>H<sub>6(g)</sub>",
+            "C<sub>3</sub>H<sub>4(g)</sub>+ 40<sub>2(g)</sub>→ 3CO<sub>2(g)</sub>+ 2H<sub>2</sub>O<sub>(g)</sub>"
+        ],
+        "type": "objectives"
+    }
+]

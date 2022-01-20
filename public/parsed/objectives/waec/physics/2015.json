@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2015,
+        "question": "Which of the following statements about mass and weight are correct? i. Weight is the force of gravity on a body. ii. The mass of a body is the quantity of matter in the body. iii. The weight of a body is greatest at the equator. iv. The mass of a body is greatest at the poles",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "ii and iv only",
+            "iii and iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2015,
+        "question": "Materials that can be stretched and still return to their original forms when the stresses are removed are said be",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "elastic",
+            "elastomer",
+            "plastic",
+            "thermoplastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2015,
+        "question": "Which of the following units is derived?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "kg",
+            "m",
+            "K",
+            "N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2015,
+        "question": "The barometric reading at a place is 73.5m Hg. Calculate the pressure at a point 30m below the surface of water contained in a reservoir at the place. [g = ms<sup>-2</sup>, density = 1.2 x 10<sup>4</sup>kg m<sup>-3</sup>, density of water = 1.0 x 10<sup>3</sup>m<sup>-3</sup>]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "4.0 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "3.0 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "2.0 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "1.0 x 10<sup>5</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2015,
+        "question": "<p>An object floats in a fluid when it displaces it's</p>",
+        "explanation": "<p>A floating object displaces a weight of fluid equal to its own weigh</p>",
+        "correctIndex": 2,
+        "options": [
+            "volume of liquid in which it floats",
+            "mass of fluid in which it foats",
+            "weith of fluid in which it foats",
+            "density of fluid in which it foats"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2015,
+        "question": "The resultant force in a couple is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "zero",
+            "infinite",
+            "the sum of the forces",
+            "thr product of the forces"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2015,
+        "question": "The slope of a straight-line velocity-time graph represents",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "uniform acceleration",
+            "uniform speed",
+            "total distance travelled",
+            "workdone"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2015,
+        "question": "A body is projected with an initial velocity U at an angle O to the horizontal. The time taken by it to reach its maximum height is given by the expression",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2u \\text{sin}\\theta}{g}\\)",
+            "\\(\\frac{u^2 \\text{sin}^2\\theta}{2g}\\)",
+            "\\(\\frac{u \\text{sin}\\theta}{g}\\)",
+            "\\(\\frac{u \\text{sin}\\theta}{2g}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2015,
+        "question": "Which of the following statements describes a body in a stable equilibrium correctly?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "a person walking on a tight-rope",
+            "ball on a smooth horizontal table",
+            "ball resting on an inverted hemisphere bowl",
+            "ball in the middle of a nemispherical bowl"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2015,
+        "question": "In a school compound a girl walks 40km due east from the laboratory to the staff room to submit her report. Then she returns and walks 30m due north to her classroom. Determine the magnitude of her displacement from the10m laboratory",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "10m",
+            "35m",
+            "50m",
+            "70m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2015,
+        "question": "<p>Two strings each inclined at an angle 30o to the horizontal are used to hold a bucket of water weighing 20N. Calculate the tension i n each string.</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "20 (\\sqrt{3}\\)N",
+            "20N",
+            "10 (\\sqrt{3}\\)N",
+            "10N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2015,
+        "question": "A bullet fired vertically upwards reaches a height of 500m. Neglecting air resistance, calculate the magnitude of the initial velocity of the bullet. [g = 10ms<sup>-2</sup>]",
+        "explanation": "V<sup>2</sup>= U<sup>2</sup>+ 2gs<br><br>V<sup>2</sup>= 0<br><br>V<sup>2</sup>= 2gs<br><br>h = 500m<br><br>g = 10ms<sup>-2</sup><br><br>V<sup>2</sup>2 x 10 x 500<br><br>V<sup>2</sup>= 10,000<br><br>V = \\(\\sqrt{10000}\\)<br><br>V = 100ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "500.0ms<sup>-1</sup>",
+            "100.0ms<sup>-1</sup>",
+            "70.0ms<sup>-1</sup>",
+            "50.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2015,
+        "question": "A uniform bar AB is balanced on a knife-edge which is 60cm from B by a mass of 22g which hangs at C 10cm from A. Calculate the mass of the bar.",
+        "explanation": "clockwise movement = anticlockwise movement<br><br>w x 10 = 22 x 30<br><br>w = \\(\\frac{22 \\times 30}{10}\\)<br><br>w = 66.0g",
+        "correctIndex": 1,
+        "options": [
+            "133.2g",
+            "66.0g",
+            "60.0g",
+            "22.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2015,
+        "question": "A body of mass 1000kg is released from a height of 10m above the ground. Determine its kinetic energy just before it strikes the ground .[g = 10ms<sup>-2</sup>]",
+        "explanation": "Ke = mgh<br><br>Ke = Pe<br><br>\\(\\frac{1}{2}\\)MV<sup>2</sup>= mgh<br><br>Ke = 1000 x 10 x 10<br><br>Ke = 100000J<br><br>Ke = 10<sup>5</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "10J",
+            "10<sup>3</sup>J",
+            "10<sup>4</sup>J",
+            "10<sup>5</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2015,
+        "question": "The crackling noise produced by aluminum roofing sheets on a house during a hot sunny day is a result of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "thermal equilibrium of the sheets",
+            "conduction of heat by the sheets",
+            "contraction of the sheets",
+            "expansion of the sheets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2015,
+        "question": "Water is unsuitable for use as a thermometric liquid because it",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "expands unevenly between 0<sup>o</sup>C and 40<sup>o</sup>C",
+            "has narrow temperature range",
+            "has a concave meniscus",
+            "msintsin s fixed density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7403372655_15281021_1243961572335174_1207874539_n.jpg\" class=\"img-fluid\">",
+        "explanation": "Given; VR = 6, e = 75%, MA = ?<br><br>e = \\(\\frac{\\text{MA}}{\\text{VR}} \\times \\frac{100}{1}\\)<br><br>MA =\\(\\frac{75 \\times 6}{10}\\)<br><br>MA = \\(\\frac{9}{2}\\)<br><br>MA = \\(\\frac{L}{E} = \\frac{100}{E}\\)<br><br>\\(\\frac{9}{2} = \\frac{100}{E}\\)<br><br>9E = 100<br><br>E = \\(\\frac{200}{9}\\)<br><br>= 22.2N",
+        "correctIndex": 0,
+        "options": [
+            "22.2N",
+            "38.0N",
+            "67.0N",
+            "75.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2015,
+        "question": "A quantity of hot water at 100<sup>o</sup>C is added to 400g of water at 10<sup>o</sup>C until the temperature of the mixture is 60<sup>o</sup>C.<br><br>Calculate the mass of the hot water added. [Specific heat capacity of water =4200JKg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "Heat lost by hot water = Heat gained by cold water<br><br>M x 4200 x (100 - 60 = 0.4 x 4200 x (60 - 10)<br><br>4200m x 40 = 0.4 x 4200 x 50<br><br>40m = 0.4 x 50<br><br>m = \\(\\frac{0.4 \\times 50}{40}\\) = 0.5kg<br><br>= 500g",
+        "correctIndex": 3,
+        "options": [
+            "200g",
+            "320g",
+            "400g",
+            "500g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13326084270_15327611_1243956335669031_1974807225_n.jpg\" class=\"img-fluid\">",
+        "explanation": "E - V<sub>1</sub>+ V<sub>2</sub><br><br>24V = 14V + VQP<br><br>VQP = 4 + 14V<br><br>VQP =10V",
+        "correctIndex": 1,
+        "options": [
+            "5v",
+            "10v",
+            "14v",
+            "24v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23690848160_15328243_1243960385668626_1196014114_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "vaporization point",
+            "cooling temperature",
+            "boiling point",
+            "melting point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16287458396_15328243_1243960385668626_1196014114_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "vaporization point",
+            "cooling temperature",
+            "boiling point",
+            "melting point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2015,
+        "question": "<p>Which of the following concepts is a method of heat transfer that does not require a material medium?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "conduction",
+            "radiation",
+            "diffusion",
+            "convection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2015,
+        "question": "<p>Which of the following units is the S.I. unit of heat capacity?</p>",
+        "explanation": "<p>Heat capacity = \\(\\frac{\\text{Heat energy supplied}}{\\text{Rise in temperature}}\\)</p><p>= JK\\(^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "Jkg<sup>-1</sup>",
+            "Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "JK<sup>-1</sup>",
+            "Jg<sup>-1</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2015,
+        "question": "The pressure applied to an enclosed fluid to one end id transmitted equally throughout the fluid and to the container walls. This statement is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Archimede's principle",
+            "Bernoulli's principle",
+            "Pascal's principle Heisenberg's",
+            "Heisenberg's uncertainty principle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20729524326_15328214_1243960089001989_1004065766_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "5.4 ms<sup>-1</sup>",
+            "8.4 ms<sup>-1</sup>",
+            "9.6 ms<sup>-1</sup>",
+            "10.0 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2015,
+        "question": "What type of wave is emitted by a loud speaker?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Transverse",
+            "Longitudinal",
+            "Gamma",
+            "Radio"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2015,
+        "question": "<p>An object is placed 15cm from a diverging lens of focal length 12cm. The image of the object formed by the lens in</p>",
+        "explanation": "<p>The focal length of a diverging lens is negative.</p><p>f = -12 cm; u = 15 cm.</p><p>\\(f = \\frac{uv}{u + v}\\)</p><p>\\(-12 = \\frac{15v}{15 + v}\\)</p><p>\\(-12 (15 + v) = 15v \\implies -180 - 12v = 15v\\)</p><p>\\(-180 = 15v + 12v \\implies -180 = 27v\\)</p><p>\\(v = \\frac{-180}{27} = -6.67 cm\\)</p><p>The image is virtual and 6.67 cm from the lens.</p>",
+        "correctIndex": 1,
+        "options": [
+            "real and 6.67cm from the lens",
+            "virtual and 6.67cm from the lens",
+            "real and 60.00cm from the lens",
+            "virtual and 60.00cm from the lens"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2015,
+        "question": "A swimming pool is .1m deep. If it contains water of refractive index 1.3, calculate the apparent depth of pool",
+        "explanation": "n = \\(\\frac{\\text{real depth}}{\\text{apparent depth}}\\)<br><br>1.3 = \\(\\frac{2.1}{\\text{apparent}}\\)<br><br>A.D = \\(\\frac{2.1}{1.3} = 1.6\\)",
+        "correctIndex": 2,
+        "options": [
+            "3.4m",
+            "2.7m",
+            "1.6m",
+            "0.8m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2015,
+        "question": "When an air column is set into vibrations, the distance between two consecutive nodes of the resultant wave is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "one quarter of the wavelength",
+            "half of the wavelength",
+            "the wavelength",
+            "twice the wavelength"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2015,
+        "question": "A girl standing some distance from the cliff claps her hands and hears the echo 0.8s later. calculate her distance from the cliff. [speed of sound in air = 320 ms<sup>-1</sup>]",
+        "explanation": "V = \\(\\frac{2nx}{E}\\)<br><br>= \\(\\frac{2 \\times 1 \\times X}{0.8} = 320\\)<br><br>2x = 0.8 x 320<br><br>x = \\(\\frac{0.8 \\times 320}{2}\\)<br><br>= 128m",
+        "correctIndex": 1,
+        "options": [
+            "23m",
+            "128m",
+            "288m",
+            "298m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2015,
+        "question": "Red light travels faster than blue light when both of them pass through a glass prism because the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "refractive index of red light is grester than that of blue light",
+            "refractive index of blue light is greater than that of red light",
+            "red light is more intense than the blue light",
+            "blue light is more intense than the red light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2015,
+        "question": "<p>An object is placed 20cm from a concave mirror of focal length 15cm. Calculate the linear magnification of the image formed</p>",
+        "explanation": "<p>\\(\\frac{1}{U} + \\frac{1}{V} = \\frac{1}{F}\\)<br>\n<br>\n\\(\\frac{1}{V} = \\frac{1}{F} - \\frac{1}{U}\\)<br>\n<br>\n\\(\\frac{1}{V} = \\frac{1}{15} - \\frac{1}{20}\\)<br>\n<br>\n\\(\\frac{1}{V} = \\frac{\\text{4 - 3}}{60}\\)<br>\n<br>\n<br>\n\\(\\frac{1}{V} = \\frac{1}{60}\\)<br>\n<br>\nV = 60cm<br>\n<br>\nM = \\(\\frac{V}{U} = \\frac{60}{20}\\)<br>\n<br>\nM = 3.0cm</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.5",
+            "1.5",
+            "2.0",
+            "3.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2015,
+        "question": "All electromagnetic waves in a vacuum have the same",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "wavelength",
+            "frequency",
+            "speed",
+            "amplitude"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26652447792_15281064_1243970885667576_325566491_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "negative; negative",
+            "negative; positive",
+            "positive; positive",
+            "positive; negative"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2015,
+        "question": "An alternating current supply is connected to an electric lamp which lights with the same brightness as it does with direct current source emf 6v. The peak potential difference of the a.c supply is",
+        "explanation": "V<sub>o</sub>= V\\(\\_{rms}\\) x \\(\\sqrt{2}\\)<br><br>V<sub>o</sub>= 6 x 1.414<br><br>V<sub>o</sub>= 8.484<br><br>= 8.5v",
+        "correctIndex": 2,
+        "options": [
+            "4.6v",
+            "6.0v",
+            "8.5v",
+            "12.0v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2015,
+        "question": "<p>An electric generator rated 12 kW, 2 kV distribute power through a cable of resistance 20\\(\\Omega\\). Calculate the power loss in the cable.</p>",
+        "explanation": "<p>Power - IV<br>\n<br>\nI = \\(\\frac{P}{V}\\)<br>\n<br>\n= \\(\\frac{12000}{2000}\\)<br>\n<br>\nI = 6A<br>\n<br>\nPower loss = I\\(^2\\)R = 6\\(^2\\) x 20<br>\n<br>\n= 720 W</p>",
+        "correctIndex": 2,
+        "options": [
+            "120 w",
+            "360 w",
+            "720 w",
+            "2400 w"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2015,
+        "question": "Which of the following statements is correct? When capacitors of different values are connected in series",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the same charge flows through them",
+            "the same voltage appears across each capacitor",
+            "different quantities of charges flow through them in different voltages across them",
+            "different quantities of charges flows through them with the same voltage across them"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2015,
+        "question": "Which of the following statements about a three-pin plug is/are correct. i. The brown wire is the live wire. ii. The fuse is connected to the live wire. iii. The earth wire is coloured blue",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "ii only",
+            "i and ii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25171835111_15301229_1243957105668954_1630179901_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "which absorb light",
+            "which emits light",
+            "which absorbs heat to function properly",
+            "whose resistance is light dependent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2015,
+        "question": "A wire of cross-sectional area 0.60mm<sup>2</sup>has a restivity of 7.2 x 10<sup>-7</sup>\\(\\Omega\\). Calculate the length of wire that will have a resistance of 3\\(\\Omega\\).",
+        "explanation": "R = \\(\\frac{PL}{A}\\)<br><br>C = \\(\\frac{RA}{P}\\)<br><br>C = \\(\\frac{0.60 \\times 10^{-6} \\times 3}{7.2 \\times 10^{-7}}\\)<br><br>C = 2.50m",
+        "correctIndex": 1,
+        "options": [
+            "0.25m",
+            "2.50m",
+            "3.60m",
+            "36.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14809381480_15327611_1243956335669031_1974807225_n.jpg\" class=\"img-fluid\">",
+        "explanation": "E - V<sub>1</sub>+ V<sub>2</sub><br><br>24V = 14V + VQP<br><br>VQP = 24 + 14V<br><br>VQP = 10V",
+        "correctIndex": 1,
+        "options": [
+            "5V",
+            "10V",
+            "14V",
+            "24V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2015,
+        "question": "The mass of the earth is 6.0 x 10<sup>24</sup>kg and that of the moon is 7.0 x 10<sup>22</sup>kg. If the distance between them is 4.0 x 10<sup>8</sup>m, calculate the force of attraction between them. [G = 6.7 x 10<sup>-11</sup>Nm<sup>2</sup>kg<sup>-2</sup>]",
+        "explanation": "F = \\(\\frac{GM_1M_2}{12^2}\\)<br><br>F = 6.7 x 10<sup>-11</sup>x<br><br>F = \\(\\frac{M_1M_2}{R^2}\\)<br><br>F = \\(\\frac{6.7 \\times 10^{-11} \\times 6.0 \\times 10^{24} \\times 7.0 \\times 10^{22}}{(4 \\times 10^8)^2}\\)<br><br>= 1.8 x 10<sup>20</sup>N",
+        "correctIndex": 3,
+        "options": [
+            "1.8 x 10<sup>5</sup>N",
+            "1.8 x 10<sup>10</sup>N",
+            "1.8 x 10<sup>15</sup>N",
+            "1.8 x 10<sup>20</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2015,
+        "question": "The angle which the direction of the earth magnetic field makes with the horizontal at a palace is know as.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "angle of contact",
+            "angle of dip",
+            "angle of declination",
+            "magnetic meridian"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2015,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2961881970_15320312_1243954435669221_1034251792_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Fuse",
+            "ammeter",
+            "Cell",
+            "voltmeter"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2015,
+        "question": "When current flows through a moving-coil galvanometer, the force exerted on the pointer depends on the: i. strength of the current. ii. magnetic field strength. iii. length of the coil. Which of the statement(s) above is/are correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i only",
+            "ii only",
+            "i and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2015,
+        "question": "in a nuclear fission process, the mass defect was 1.2 x 10<sup>-5</sup>kg. Calculate the energy released. [speed of the light in vacuum = c = 3.0 x 10<sup>8</sup>ms<sup>-1</sup>]",
+        "explanation": "E - Mec<sup>2</sup><br><br>E = 1.2 x 10<sup>-5</sup>x (3 x 10<sup>8</sup>)<sup>2</sup><br><br>E = 1.08 x 10<sup>12</sup>J",
+        "correctIndex": 2,
+        "options": [
+            "1.08 x 10<sup>11</sup>J",
+            "5.20 x 10<sup>11</sup>J",
+            "1.08 x 10<sup>12</sup>J",
+            "2.50 x 10<sup>13</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2015,
+        "question": "Which of the following statements about diode is correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "reverse bias diodes have low resistance",
+            "forward bias diodes have high resistance",
+            "forward bias diodes produce high current",
+            "forward bias diodes function as a result of heat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2015,
+        "question": "Which of the following radiations constitutes a stream of electrons?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Ramma rays",
+            "X-rays",
+            "Cathode rays",
+            "Radio waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2015,
+        "question": "\\(^{226}_{88}Ra\\) emits two alpha particles to produce polonium(po) nuclide. The correct formula for the nuclide?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(^{224}_{86}po\\)",
+            "\\(^{222}_{86}po\\)",
+            "\\(^{222}_{84}po\\)",
+            "\\(^{218}_{84}po\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2015,
+        "question": "Two angles of a pentagon are in the ratio 2:3. The others are 60<sup>o</sup>each. Calculate the smaller of the two angles",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/7409066745_15555861_1258188960912435_1053244849_n.jpg\" class=\"img-fluid\">\n</div>The diagram given simple illustrates that a pentagon contains three \\(\\Delta\\)s.<br><br>Two angles which are in the ratio 2:3 will have actual values 2x<sup>o</sup>, 3x<sup>o</sup>respectively. Thus 2x<sup>o</sup>+ 3x<sup>o</sup>+ 3 x 60 = 3x sum of angles of \\(\\Delta\\)a<br><br>i.e. 5x<sup>o</sup>+ 180<sup>o</sup>= 3 x 180<sup>o</sup><br><br>5x<sup>o</sup>+ 180<sup>o</sup>= 540<sup>o</sup><br><br>5x<sup>o</sup>= 540<sup>o</sup>- 180<sup>o</sup><br><br>5x<sup>o</sup>= 360<sup>o</sup><br><br>x<sup>o</sup>= \\(\\frac{360^o}{5}\\)<br><br>= 72<sup>o</sup><br><br>Hence, the smaller of the two angles is<br><br>2 x 72<sup>o</sup>= 144<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "72<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>",
+            "144<sup>o</sup>"
+        ],
+        "type": "objectives"
+    }
+]

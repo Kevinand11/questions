@@ -1,0 +1,562 @@
+[
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1994,
+        "question": "<p>The term \"accounting period\" is used to refer to the</p>",
+        "explanation": "<p>An accounting period definition is a <em>period</em> of time at the end of which a company prepares its financial report. It could be yearly, bi-annually, monthly, weekly, or daily.</p>",
+        "correctIndex": 2,
+        "options": [
+            "time span during which taxes are paid to the inland revenue board",
+            "budget period, usually one year, relied on by the accountant",
+            "time span, usually one year, covered by financial statement",
+            "period within which debtors are expected to settle accounts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1994,
+        "question": "Assigning revenues to the accounting period in which goods were sold or services rendered and expenses incurred is known as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "passing of entries",
+            "consistency convention",
+            "matching concept",
+            "adjusting for revenue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1994,
+        "question": "The accounting convention which states that profit must not be recognized until realized while all losses should be adequately provided for it termed",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "materiality",
+            "objectivity",
+            "consistency",
+            "conservatism"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1994,
+        "question": "Accounting information is used by investors and creditors of a company to predict",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "future cash flows of the company",
+            "future tax payments of the company",
+            "potential merger candidates for the company",
+            "appropriate remunerations for the company's staff"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1994,
+        "question": "<p>Antics Electronic Company recently bought six generators. Which of the following is the correct method of recording this transaction?</p>",
+        "explanation": "<p>The question says 'an electronic shop bought generators'. Meaning it is for resale and not for office or personal use.</p><p>This means cash account will be credited because money has gone out of the business for the purchase of generators. Since the question didn't say the goods were paid for by cheque, we are crediting the cash column, if it was paid by cheque, the bank column would be credited instead.</p><p>On the other hand, the purchase account (stock) will be debited because goods have come into the company as a result of the purchase.</p><p>Always remember this simple accounting entry; debit all receivables (purchases account receiving), credit all payment (cash account paying out)..</p>",
+        "correctIndex": 1,
+        "options": [
+            "Debit generator account and credit cash account",
+            "Debit purchases account and credit cash account",
+            "Debit cash accounts and credit purchases account",
+            "Debit cash account and credit generator account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1994,
+        "question": "When a business incurs labour cost in installing a fixed asset, the cost is treated as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "additional cost to the asset",
+            "business wages and salaries",
+            "installation cost of the asset",
+            "business cost of the asset"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1994,
+        "question": "What is the cardinal rule of the double entry system?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Debit the increasing account and credit the decreasing account",
+            "Debit the receiving account and credit the giving account",
+            "Debit the asset account and credit the liability account",
+            "Debit the revenue account and credit the expenditure account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1994,
+        "question": "Mallam Gambo bought a freezer for his shop costing N10,500. In recording, he debited office expenses account and credited the bank account. What book-keeping error has he committed?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Error of commission",
+            "Error of reversal of entries",
+            "Error of principle",
+            "Compensating error"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1994,
+        "question": "The use of the folio in the ledger is for",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "referencing purposes",
+            "particulars of the transaction",
+            "the account titles",
+            "only credit items"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1994,
+        "question": "<p>The suspense account is used to correct book-keeping error where the</p>",
+        "explanation": "<p>Suspense accounts are used when your trial balance is out of balance or when you have an unidentified transaction. The <em>suspense account</em> is a general ledger <em>account</em> that acts as a <em>holding account</em> until the <em>error</em> is discovered or the unknown transaction is identified.</p>",
+        "correctIndex": 2,
+        "options": [
+            "amount involved is quite significant",
+            "item involved is not material",
+            "item involved is unknown",
+            "error does not affect the agreement of the trial balance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1994,
+        "question": "The discount column of a three column cashbook is not balanced off but periodically transferred to the discount account because discounts",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "are not important in cashbooks",
+            "are cash items only",
+            "do not form part of double entry",
+            "are used for bank reconciliation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1994,
+        "question": "When is a petty cash account debited?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "When the fund is established and every time money is spent",
+            "When the fund is established and every time it is replenished",
+            "When the fund is established and when the size of the float is decreased",
+            "Every time money is drawn from the petty cash"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1994,
+        "question": "When preparing a bank reconciliation statement, which of the following is deducted from the balance per bank statement?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Bank charges",
+            "Uncleared cheques",
+            "Returned cheques",
+            "unpresented cheques"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1994,
+        "question": "<p>The financial position of an organization at a particular time can be ascertained from the</p>",
+        "explanation": "<p>A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity. It simply shows the financial position of a business for a particular given period</p>",
+        "correctIndex": 2,
+        "options": [
+            "statement of sources and application of funds",
+            "statement of retained earnings",
+            "balance sheet",
+            "profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1994,
+        "question": "Given;<br>Purchases = N20,000<br>Sales = N40,000<br>Carriage inwards = N5,000<br>Carriage outwards = N5,000<br>Opening stock = N10,000<br>Closing stock = N5,000<br><br>What is the cost of goods sold?",
+        "explanation": "Cost of goods sold:<br>= Opening stock + purchases + carriage inwards - closing stock<br>= 10000 + 20000 + 5000 - 5000<br>= 35000 - 5000<br>= 30000<br>: Cost of goods sold = 30000<br><br>Thank you<br><br>Thanks to Gloria Adah for providing the explanation<a href=\"https://www.facebook.com/MyschoolNigeria\">Our Facebook Page</a>",
+        "correctIndex": 0,
+        "options": [
+            "N30,000",
+            "N25,000",
+            "N20,000",
+            "N15,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1994,
+        "question": "The net profit or loss for the year is determined in profit and loss account after",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "deducting purchases from sales",
+            "deducting cost of goods sold from sales and adding administrative expenses",
+            "adding commissions received to gross profit",
+            "eliminating all expenses from gross profit and adding any other income"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1994,
+        "question": "If a bad debt previously written off is subsequently repaid, the amount collected is recorded as an",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "income in the profit and loss account",
+            "income in the balance sheet",
+            "additional cash in the profit and loss account",
+            "expense in the balance sheet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1994,
+        "question": "Beginning and ending accounts receivable balances were N8,000 and N15,000 respectively. If collections from customers during the period were N36,000, then total sales on account would be",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N23,000",
+            "N29,000",
+            "N36,000",
+            "N43,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1994,
+        "question": "From which of the following sources are creditors control account most likely to be posted?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "supplier's invoices",
+            "cash disbursements journal",
+            "subsidiary debtors ledger",
+            "purchases journal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1994,
+        "question": "Which of the following categories of labour cost will be classified as direct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "accountant's salary",
+            "factory workers' salary",
+            "managing director's salary",
+            "cashier's salary"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1994,
+        "question": "The major difference between the receipt and payment account and the income and expenditure account is that while the former",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "is kept by the treasurer, the latter is not",
+            "deals with all receipts and payments in the year regardless of the time it relates to, the latter is for just that year",
+            "is a T-account, the latter is not",
+            "is not in the ledger, the latter is"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1994,
+        "question": "The net profit from a trading account of a non-profit making organization would be treated as income in the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "income and expenditure account",
+            "receipt and payment account",
+            "balance sheet",
+            "statement of affairs"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1994,
+        "question": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "drawings account",
+            "appropriation account",
+            "capital account",
+            "creditors account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1994,
+        "question": "Goodwill appears in the books of a business only if it has been",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "purchased at a certain price",
+            "raised in connection with the admission of a new partner",
+            "raised to account for the true value of a business on the death of a partner",
+            "raised in order to prevent the balance sheet showing that the business is insolvent"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1994,
+        "question": "<p>Kayode, Akpan and Kachalla are in partnership. Their respective capital accounts had the following balances: N40,000, N50,000 and N70,000.<br>\nThe partners agree to admit Wamo as a new partner with a one-fifth interest in the partnership capital in exchange for N50,000 cash. Wamo's equity in the resulting partnership is</p>",
+        "explanation": "<p><strong>Equity is the same as capital. This</strong> is funds paid into a business by investors in exchange for common or preferred stock.</p><p>50,000 is Wamo's equity contribution.</p>",
+        "correctIndex": 3,
+        "options": [
+            "N32,000",
+            "N40,000",
+            "N42,000",
+            "N50,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1994,
+        "question": "Under which of the following conditions is a partnership dissolved?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Change of partnership's head office",
+            "admission of a new partner",
+            "Purchase of a large quantity of fixed asset",
+            "Retirement of a manager who is not a partner"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1994,
+        "question": "when shares issued are paid for, accounting entry required is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "debit bank or cash account and credit share capital and/or premium account",
+            "credit bank or cash account and debit share capital and/or premium account",
+            "debit shares account and credit capital account",
+            "credit shares account and debit capital account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1994,
+        "question": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million share was offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued<br>What is the nominal value of each share?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N2",
+            "N0.80",
+            "N0.60",
+            "N0.50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1994,
+        "question": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million share was offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued<br>What is the issued capital",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "N40",
+            "N48",
+            "N50",
+            "N80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1994,
+        "question": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "memorandum of association",
+            "article of association",
+            "prospectus",
+            "company law"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1994,
+        "question": "An advantage of using accounting ratios is that they",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "can be easily calculated",
+            "facilitate decision making",
+            "are stipulated by law",
+            "shows error and fraud"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1994,
+        "question": "The expenditure on a good or services which is consumed either immediately or within a current accounting period is called",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "fixed expenditure",
+            "capital expenditure",
+            "annual expenditure",
+            "recurrent expenditure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1994,
+        "question": "The receipt from a special tax levy to pay maturing interest obligation are recorded in",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "capital fund project",
+            "Debt Service Fund",
+            "Tax Assessment Fund",
+            "Special Revenue Fund"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1994,
+        "question": "The cash bass of accounting requires the recognition of revenue only when they are",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "due",
+            "earned",
+            "paid",
+            "received"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1994,
+        "question": "The amount of individual items on a government budget is called",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "vote",
+            "deposit",
+            "loan",
+            "grant"
+        ],
+        "type": "objectives"
+    }
+]

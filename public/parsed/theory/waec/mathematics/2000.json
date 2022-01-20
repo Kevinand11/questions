@@ -1,0 +1,119 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2000,
+        "question": "<p>(a) Evaluate and express your answer in standard form : \\(\\frac{4.56 \\times 3.6}{0.12}\\)</p><p>(b) Without using mathematical tables or calculator, evaluate \\((73.8)^{2} - (26.2)^{2}\\).</p><p>(c) Simplify \\(\\sqrt{1\\frac{19}{81}}\\), expressing your answer in the form \\(\\frac{a}{b}\\) where a and b are positive integers.</p>",
+        "answer": "<p>(a) \\(\\frac{4.56 \\times 3.6}{0.12} \\equiv \\frac{4.56 \\times 360}{12}\\)</p><p>= \\(4.56 \\times 30 \\)</p><p>= \\(136.8 \\)</p><p>= \\(1.368 \\times 10^{2}\\)</p><p>(b) \\((73.8)^{2} - (26.2)^{2}\\)</p><p>Using the method of difference of two squares,</p><p>= \\((73.8 + 26.2) \\times (73.8 - 26.2)\\)</p><p>= \\(100 \\times 47.6\\)</p><p>= \\(4760\\)</p><p>(c) \\(\\sqrt{1\\frac{19}{81}}\\)</p><p>= \\(\\sqrt{\\frac{100}{81}}\\)</p><p>= \\(\\frac{10}{9}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2000,
+        "question": "<p>(a) Given that \\(\\cos x = 0.7431, 0° &lt; x &lt; 90°\\), use tables to find the values of : (i) \\(2 \\sin x\\) ; (ii) \\(\\tan \\frac{x}{2}\\).</p><p>(b) The interior angles of a pentagon are in ratio 2 : 3 : 4 : 4 : 5. Find the value of the largest angle.</p>",
+        "answer": "<p>(a) \\(\\cos x = 0.7431\\)</p><p>\\(x = \\cos^{-1} (0.7431)\\)</p><p>\\(x = 42°\\)</p><p>(i) \\(2 \\sin x = 2 \\sin 42\\)</p><p>= \\(2 \\times 0.6692\\)</p><p>= \\(1.3384\\)</p><p>(ii) \\(\\tan \\frac{x}{2} = \\tan \\frac{42}{2}\\)</p><p>= \\(\\tan 21°\\)</p><p>= \\(0.3839\\)</p><p>(b) Sum of the interior angles of a polygon = \\((2n - 4) \\times 90°\\)</p><p>For a pentagon, n = 5</p><p>\\((2(5) - 4) \\times 90° = 6 \\times 90°\\)</p><p>= \\(540°\\)</p><p>Ratio of sides = 2:3:4:4:5</p><p>Total = 2 + 3 + 4 + 4 + 5 = 18</p><p>Largest angle = \\(\\frac{5}{18} \\times 540° = 150°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2000,
+        "question": "<p>(a) Given the expression \\(y = ax^{2} - bx - 12\\) , find the values of x when a = 1, b = 2 and y = 3.</p><p>(b) If \\(\\sqrt{x^{2} + 1} = \\frac{5}{4}\\), find the positive value of x.</p>",
+        "answer": "<p>(a) \\(y = ax^{2} - bx - 12\\)</p><p>When a = 1, b = 2 and y = 3.</p><p>\\(3 = x^{2} - 2x - 12\\)</p><p>\\(x^{2} - 2x - 12 - 3 = 0 \\implies x^{2} - 2x - 15 = 0\\)</p><p>\\(x^{2} - 5x + 3x - 15 = 0\\)</p><p>\\((x - 5)(x + 3) = 0\\)</p><p>\\(\\text{x = 5 or -3}\\)</p><p>(b) \\(\\sqrt{x^{2} + 1} = \\frac{5}{4}\\)</p><p>Squaring both sides,</p><p>\\(x^{2} + 1 = \\frac{25}{16}\\)</p><p>\\(x^{2} = \\frac{25}{16} - 1 = \\frac{9}{16}\\)</p><p>\\(x = \\sqrt{\\frac{9}{16}} = \\pm \\frac{3}{4}\\)</p><p>The positive value of x = \\(\\frac{3}{4}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2000,
+        "question": "<p>Using ruler and a pair of compasses only,</p><p>(a) construct \\(\\Delta PQR\\) such that |PQ| = 7 cm, |PR| = 6 cm and &lt; PQR = 60°.</p><p>(b) locate point M, the mid-point of PQ.</p><p>(c) Measure &lt; RMQ.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0267%20%282%29.jpg\" style=\"height:288px; width:300px\">  &lt; RMQ = 60°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2000,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%282%29.jpg\" style=\"height:238px; width:250px\"> </p><p>The pie chart shows the distribution of marks scored by 200 pupils in a test. </p><p>(a) How many pupils scored : (i) between 41 and 50 marks? ; (ii) above 80 marks ?</p><p>(b) What fraction of the pupils scored at most 50 marks?</p><p>(c) What is the modal class?</p>",
+        "answer": "<p>(a)(i) The number of pupils who scored between 41 and 50 marks = \\(\\frac{90}{360} \\times 200 = 50\\)</p><p>(ii) The angles for pupils above 60 marks = 54° + 36° + 18° = 108°</p><p>\\(\\frac{108}{360} \\times 200 = 60\\)</p><p>(b) The fraction of the pupils who scored at least 50 marks : \\(\\frac{54 + 90}{360} = \\frac{2}{5}\\)</p><p>(c) The modal class = 51 - 60; It has the largest angle in the pie- chart.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2000,
+        "question": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:30%\">\n<tbody>\n<tr>\n<td> </td>\n<td>Limes</td>\n<td>Apples</td>\n</tr>\n<tr>\n<td>Good</td>\n<td>10</td>\n<td>8</td>\n</tr>\n<tr>\n<td>Bad</td>\n<td>6</td>\n<td>6</td>\n</tr>\n</tbody>\n</table><p>The table shows the number of limes and apples of the same size in a bag. If two of the fruits are picked at random, one at a time, without replacement, find the probability that : (i) both are good limes ; (ii) both are bad fruits ; (iii) one is a good apple and the other a bad lime.</p><p>(b) Solve the equation \\(\\log_{3} (4x + 1) - \\log_{3} (3x - 5) = 2\\).</p><p> </p>",
+        "answer": "<p>(a) Total number of fruits = 16 limes + 14 apples = 30</p><p>(i) P(both are good limes) = \\(\\frac{10}{30} \\times \\frac{9}{29} = \\frac{3}{29}\\)</p><p>(ii) P(both are bad fruits) = \\(\\frac{12}{30} \\times \\frac{11}{29} = \\frac{22}{145}\\)</p><p>(iii) P(one is a good apple and the other a bad lime) = \\((\\frac{8}{30} \\times \\frac{6}{29}) + (\\frac{6}{30} \\times \\frac{8}{29})\\)</p><p>= \\(\\frac{8}{145} + \\frac{8}{145}\\)</p><p>= \\(\\frac{16}{145}\\)</p><p>Note : The arrangement is not specific. Hence, it can be a good apple first and then a bad lime or a bad lime first and then a good apple.</p><p>(b) \\(\\log_{3} (4x + 1) - \\log_{3} (3x - 5) = 2\\)</p><p>\\(\\log_{3} (\\frac{4x + 1}{3x - 5}) = 2\\)</p><p>\\((\\frac{4x + 1}{3x - 5}) = 3^{2}\\)</p><p>\\(\\frac{4x + 1}{3x - 5} = 9 \\implies 4x + 1 = 9(3x - 5)\\)</p><p>\\(4x + 1 = 27x - 45 \\implies 23x = 46\\)</p><p>\\(x = 2\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2000,
+        "question": "<p>(a) A man earns N150,000 per annum. He is allowed a tax free pay on N40,000. If he pays 25 kobo in the naira as tax on his taxable income, how much has he left?</p><p>(b) A bookshop has 650 copies of a book for sale. The books were marked at N75 per copy in order to make a profit of 30%. A bookseller bought 300 copies at 5% discount. If the remaining copies are sold at N75 each, calculate the percentage profit the bookshop would make on the whole.</p>",
+        "answer": "<p>(a) Taxable income = \\(N150,000 - N40,000 = N110,000\\)</p><p>Tax payment = \\(N110,000 \\times 0.25 = N27,500\\)</p><p>Income left = \\(N(150,000 - 27,500) = N122,500\\)</p><p>(b) \\(% gain = \\frac{\\text{actual profit}}{\\text{cost price}} \\times 100%\\)</p><p>= \\(\\frac{SP - CP}{CP} \\times 100%\\)</p><p>\\(\\therefore \\frac{75 - CP}{CP} = \\frac{30}{100} \\implies 0.3CP = 75 - CP\\)</p><p>\\(1.3CP = 75 \\implies CP = N57.69\\)</p><p>Total cost price = \\(650 \\times \\frac{750}{13} = N37,500\\)</p><p>350 copies sold at N75 ==&gt; \\(SP = 350 \\times N75 = N26,250\\)</p><p>300 copies sold at 5% discouunt ==&gt; \\((75 - \\frac{5}{100} \\times 75) \\times 300\\)</p><p>= \\((75 - 3.75) \\times 300 = N21,375\\)</p><p>Total selling price = \\(N(26,250 + 21,375) = N47, 625\\)</p><p>Profit = \\(N(47,625 - 37,500) = N10,125\\)</p><p>\\(% = \\frac{10,125}{37,500} \\times 100% = 27%\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2000,
+        "question": "<p>(a) Copy and complete the following table of values for the relation \\(y = x^{2} - 2x - 5\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td> </td>\n<td>-2</td>\n<td> </td>\n<td>-6</td>\n<td>-2</td>\n<td>3</td>\n<td>10</td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) Draw the graph of the relation \\(y = x^{2} - 2x - 5\\); using a scale of 2 cm to 1 unit on the x- axis, and 2 cm to 2 units on the y- axis.</p><p>(c) Using the same axes, draw the graph of \\(y = 2x + 3\\).</p><p>(d) Obtain in the form \\(ax^{2} + bx + c = 0\\) where a, b and c are integers, the equation which is satisfied by the x- coordinate of the points of intersection of the two graphs.</p><p>(e) From your graphs, determine the roots of the equation obtained in (d) above.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(x^{2}\\)</td>\n<td>9</td>\n<td>4</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>4</td>\n<td>9</td>\n<td>16</td>\n<td>25</td>\n</tr>\n<tr>\n<td>\\(-2x\\)</td>\n<td>6</td>\n<td>4</td>\n<td>2</td>\n<td>0</td>\n<td>-2</td>\n<td>-4</td>\n<td>-6</td>\n<td>-8</td>\n<td>-10</td>\n</tr>\n<tr>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n</tr>\n<tr>\n<td>y</td>\n<td>10</td>\n<td>3</td>\n<td>-2</td>\n<td>-5</td>\n<td>-6</td>\n<td>-5</td>\n<td>-2</td>\n<td>3</td>\n<td>10</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%282%29.jpg\" style=\"height:341px; width:300px\"></p><p>(c) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(2x\\)</td>\n<td>-6</td>\n<td>-4</td>\n<td>-2</td>\n<td>0</td>\n<td>2</td>\n<td>4</td>\n<td>6</td>\n<td>8</td>\n<td>10</td>\n</tr>\n<tr>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-9</td>\n<td>-7</td>\n<td>-5</td>\n<td>-3</td>\n<td>-1</td>\n<td>1</td>\n<td>3</td>\n<td>5</td>\n<td>7</td>\n</tr>\n</tbody>\n</table><p>(d) \\(x^{2} - 2x - 5 = 2x - 3\\)</p><p>\\(x^{2} - 2x - 2x - 5 + 3 = 0\\)</p><p>\\(x^{2} - 4x - 2 = 0\\)</p><p>(e) x = -0.8 or 4.3</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2000,
+        "question": "<p>(a) The mean of 1, 2, x, 11, y, 14, arranged in ascending order, is 8 and the median is 9. Find the values of x and y.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%283%29.jpg\" style=\"height:212px; width:250px\"></p><p>In the diagram, MN || PQ, |LM| = 3cm and |LP| = 4cm. If the area of \\(\\Delta\\) LMN is 18\\(cm^{2}\\), find the area of the quadrilateral MPQN.</p>",
+        "answer": "<p>(a) Mean \\(\\bar{x} = \\frac{\\sum x}{n} = 8\\)</p><p>\\(\\frac{1 + 2 + x + 11 + y + 14}{6} = 8\\)</p><p>\\(28 + x + y = 48 \\implies x + y = 20 .... (1) \\)</p><p>The middle numbers are x and 11 therefore, \\(\\frac{x + 11}{2} = 9\\)</p><p>\\(x + 11 = 18 \\implies x = 18 - 11 = 7\\)</p><p>Putting x = 7 in (1),</p><p>\\(7 + y = 20 \\implies y = 20 - 7 = 13\\)</p><p>(x, y) = (7, 13).</p><p>(b) \\(\\frac{LM}{LP} = \\frac{3}{4}\\)</p><p>\\(\\frac{\\text{Area of LMN}}{\\text{Area of LPQ}} = \\frac{3^{2}}{4^{2}}\\)</p><p>Area of \\(\\Delta\\) LPQ = \\(\\frac{16}{9} \\times 18 = 32 cm^{2}\\)</p><p>\\(\\therefore \\text{Area of quadrilateral MPQN} = 32 - 18 = 14 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2000,
+        "question": "<p>(a) A surveyor walks 100m up a hill which slopes at an angle of 24° to the horizontal. Calculate, correct to the nearest metre, the height through which he rises.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%284%29.jpg\" style=\"height:191px; width:250px\"></p><p>In the diagram, ABC is an isosceles triangle. |AB| = |AC| = 5 cm, and |BC| = 8 cm. Calculate, correct to the nearest degree, &lt; BAC.</p><p>(c) Two boats, 70 metres apart and on opposite sides of a light-house, are in a straight line with the light-house. The angles of elevation of the top of the light-house from the two boats are 71.6° and 45°. Find the height of the light-house. [Take \\(\\tan 71.6° = 3\\)].</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%289%29_LI.jpg\" style=\"height:185px; width:200px\"> \\(\\frac{h}{100} = \\sin 24\\)</p><p>\\(h = 100 \\sin 24\\)</p><p>= \\(100 \\times 0.4067\\)</p><p>= \\(40.67m\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%283%29.jpg\" style=\"height:166px; width:200px\"> \\(\\sin \\theta = \\frac{4}{5} = 0.8\\)</p><p>\\(\\theta = \\sin^{-1} (0.8) = 53.13°\\)</p><p>\\(&lt; BAC = 2 \\theta = 2(53.13°)\\)</p><p>= \\(106.26°\\)</p><p>\\(\\approxeq 106°\\) (to the nearest degree).</p><p>(c) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%285%29_LI.jpg\" style=\"height:163px; width:250px\"> </p><p>In \\(\\Delta PSQ\\),</p><p>\\(\\frac{h}{PQ} = \\tan 71.6\\)</p><p>\\(PQ = \\frac{h}{\\tan 71.6}\\)</p><p>In \\(\\Delta QSR\\),</p><p>\\(\\frac{h}{QR} = \\tan 45\\)</p><p>\\(QR = \\frac{h}{\\tan 45}\\)</p><p>\\(PR = PQ + QR\\)</p><p>\\(\\frac{h}{3} + h = 70 \\implies \\frac{4}{3}h = 70\\)</p><p>\\(h = \\frac{70 \\times 3}{4} = 52.5m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2000,
+        "question": "<p>(a) A cylindrical well of radius 1 metre is dug out to a depth of 8 metres. (i) calculate, in m\\(^{3}\\), the volume of soil dug out ; (ii) if the soil is used to raise the level of rectangular floor of a room 4m by 12m, calculate, correct to the nearest cm, the thickness of the new layer of soil. [Take \\(\\pi = \\frac{22}{7}\\)].</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%285%29.jpg\" style=\"height:196px; width:250px\"></p><p>The diagram shows a quadrilateral ABCD in which &lt; DAB is a right- angle. |AB| = 3.3 cm, |BC| = 3.9 cm, |CD| = 5.6 cm. (i) find the length of BD. (ii) show that &lt; BCD = 90°.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%285%29.jpg\" style=\"height:250px; width:192px\"> (i) r = 1m, h = 8m.</p><p>\\(V = \\pi r^{2} h = \\frac{22}{7} \\times 1^{2} \\times 8\\)</p><p>= \\(\\frac{176}{7}\\)</p><p>= \\(25.14 m^{3}\\)</p><p>(ii) \\(V = L \\times B \\times H\\)</p><p>\\(\\frac{176}{7} = 4 \\times 12 \\times h\\)</p><p>\\(h = \\frac{176}{7} \\div 48\\)</p><p>\\(h = \\frac{11}{21}m\\)</p><p>= \\(\\frac{1100}{21} cm = 52.38 cm\\)</p><p>\\(\\approxeq 52 cm\\) (nearest whole number)</p><p>(b)(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%286%29.jpg\" style=\"height:183px; width:200px\">\\(3.3^{2} + 5.6^{2} = BD^{2}\\)</p><p>\\(BD = \\sqrt{3.3^{2} + 5.6^{2}}\\)</p><p>= \\(\\sqrt{10.89 + 31.36}\\)</p><p>= \\(\\sqrt{42.25} = 6.5 cm\\)</p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%287%29.jpg\" style=\"height:202px; width:250px\"></p><p>If &lt; BCD is right- angled, then Pythagoras rule holds true.</p><p>\\(BD^{2} = 5.2^{2} + 3.9^{2} = 27.04 + 15.21\\)</p><p>= \\(42.25\\)</p><p>\\(BD = \\sqrt{42.25} = 6.5 cm\\)</p><p>Hence, \\(\\Delta BCD\\) is right-angled.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2000,
+        "question": "<p>(a) The first term of an Arithmetic Progression (A.P) is 8. The ratio of the 7th term to the 9th term is 5 : 8. Calculate the common difference of the progression.</p><p>(b) A sphere of radius 2 cm is of mass 11.2g. Find (i) the volume of the sphere ; (ii) the density of the sphere ; (iii) the mass of a sphere of the same material but with radius 3cm. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) \\(T_{n} = a + (n - 1)d\\) (terms of an AP)</p><p>Given a = -8;</p><p>\\(T_{7} = a + 6d = -8 + 6d\\)</p><p>\\(T_{9} = a + 8d = -8 + 8d\\)</p><p>\\(\\frac{-8 + 6d}{-8 + 8d} = \\frac{5}{8}\\)</p><p>\\(5(-8 + 8d) = 8(-8 + 6d)\\)</p><p>\\(-40 + 40d = -64 + 48d\\)</p><p>\\(-40 + 64 = 48d - 40d \\times 24 = 8d\\)</p><p>\\( d = 3\\)</p><p>(b) Given r = 2 cm, m = 11.2g</p><p>(i) \\(V = \\frac{4}{3} \\pi r^{3}\\)</p><p>= \\(\\frac{4}{3} \\times \\frac{22}{7} \\times 2^{3}\\)</p><p>= \\(\\frac{704}{21}\\)</p><p>= \\(33.52 cm^{3} = 33.52 \\times 10^{-6} m^{3}\\)</p><p>= \\(3.352 \\times 10^{-5} m^{3}\\)</p><p>(ii) \\(Density = \\frac{mass}{volume}\\)</p><p>= \\(\\frac{11.2}{33.52}\\)</p><p>= \\(0.334 g/cm^{3}\\)</p><p>(iii) \\(V = \\frac{4}{3} \\pi r^{3}\\)</p><p>= \\(\\frac{4}{3} \\times \\frac{22}{7} \\times 3^{3}\\)</p><p>= \\(\\frac{2376}{21}\\)</p><p>= \\(113.14 cm^{3}\\)</p><p>\\(mass = density \\times volume\\)</p><p>\\(0.334 \\times 113.14 = 37.789g\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2000,
+        "question": "<p>(a) Two places X and Y on the equator are on longitudes 67°E and 123°E respectively. (i) What is the distance between them along the equator? (ii) How far from the North pole is X? [Take \\(\\pi = \\frac{22}{7}\\) and radius of earth = 6400km].</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%286%29_LI.jpg\" style=\"height:254px; width:250px\"> In the diagram, PQR is a circle centre O. N is the mid-point of chord PQ. |PQ| = 8cm, |ON| = 3cm and &lt; ONR = 20°. Calculate the size of &lt; ORN to the nearest degree.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0269%20%282%29.jpg\" style=\"height:153px; width:250px\">  Longitude difference = 123° - 67° = 56°</p><p>(i) Distance between X and Y along the equator = \\(\\frac{56}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\cos 0\\)</p><p>= \\(\\frac{56}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>= \\(6257.78km \\approxeq 6258km\\)</p><p>(ii) Latitude difference =  90° </p><p>Distance from the North pole = \\(\\frac{90}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>= \\(10057.14km \\approxeq 10057km\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0269%20%283%29_LI.jpg\" style=\"height:259px; width:250px\"></p><p>\\(OP^{2} = PN^{2} + ON^{2}\\)</p><p>\\(4^{2} + 3^{2} = 25\\)</p><p>\\(OP = \\sqrt{25} = 5cm\\)</p><p>\\(OP = OR = 5cm\\)</p><p>\\(\\Delta NOR = scalene\\)</p><p>\\(\\frac{OR}{\\sin 20} = \\frac{3}{\\sin &lt; ORN}\\)</p><p>\\(\\frac{5}{\\sin 20} = \\frac{3}{\\sin &lt; ORN}\\)</p><p>\\(\\sin &lt; ORN = \\frac{3 \\times \\sin 20}{5}\\)</p><p>\\(\\sin &lt; ORN = 0.2052\\)</p><p>\\(&lt; ORN = \\sin^{-1} (0.2052)\\)</p><p>\\(&lt; ORN = 11.84° \\approxeq 12°\\)</p><p> </p>",
+        "type": "theory"
+    }
+]

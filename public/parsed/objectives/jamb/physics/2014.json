@@ -1,0 +1,658 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2014,
+        "question": "What is the least possible error encountered when taking measurement with a meter rule?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.1mm",
+            "1.0mm",
+            "0.5mm",
+            "0.2mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2014,
+        "question": "A quantity which requires magnitude and direction to be specified is",
+        "explanation": "Displacement is a vector quantity<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Temperature",
+            "Distance",
+            "Displacement",
+            "Mass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2014,
+        "question": "I Electrical potential, II Torque, III Kinetic Energy, IV Momentum. Which of the quantities listed are vectors?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "II and IV",
+            "I and II",
+            "I and III",
+            "II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2014,
+        "question": "<p>Which type of motion do the wheels of a moving car undergo?</p>",
+        "explanation": "<p>The tyre in motion makes a rotation and it translates in a straight line alongside. if the wheels is turned it continued further in a translational straight line through rotational <em>motion</em>.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Vibratory and translational motion",
+            "Random and translational motion",
+            "Rotational mand oscillatory motion",
+            "Translational and rotational motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2014,
+        "question": "A car accelerates uniformly from rest at 3ms<sup>-2</sup>. its velocity after traveling a distance of 24m is",
+        "explanation": "V<sup>2</sup>= U<sup>2</sup>x 2ax<br>V<sup>2</sup>= 0 x 2(3)(24)<br>V<sup>2</sup>= 144<br>V = \\(\\sqrt{144}\\)<br>V = 12ms<sup>-1</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "12ms<sup>-1</sup>",
+            "144ms<sup>-1</sup>",
+            "72ms<sup>-1</sup>",
+            "36ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2014,
+        "question": "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x10<sup>6</sup>m",
+        "explanation": "V<sub>escape</sub>= \\(\\sqrt{2gR}\\)<br>V<sub>escape</sub>= \\(\\sqrt{2\\times10\\times6.4\\times10^6}\\)<br>V<sub>escape</sub>= \\(\\sqrt{128000000}\\)<br>V<sub>escape</sub>= 11313.7085mS<sup>-1</sup><br>V<sub>escape</sub>= 11.313kmS<sup>-1</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "25.3kms<sup>-1</sup>",
+            "4.2kms<sup>-1</sup>",
+            "4.0kms<sup>-1</sup>",
+            "11.3kms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2014,
+        "question": "<p>An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "48N",
+            "12N",
+            "27N",
+            "36N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2014,
+        "question": "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Average",
+            "Zero",
+            "Negative",
+            "Positive"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2014,
+        "question": "What happens when three coplanar non-parallel forces are in equilibrium?",
+        "explanation": "Conditions for non-parallel coplanar forces<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Their lines of action are parallel.",
+            "They are represented in magnitude only",
+            "They are represented in direction only",
+            "Their lines of action meet at a point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2014,
+        "question": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is",
+        "explanation": "Kinetic Energy = mgh<br>= 20 x 10 x 10 J<br>= 2000J<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "200J",
+            "4000J",
+            "2000J",
+            "500J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2014,
+        "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Electrical energy",
+            "Potential energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2014,
+        "question": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
+        "explanation": "\\(\\frac{MA}{VR}\\times\\frac{100}{1}=efficiency\\)<br><br>\\(\\frac{L}{E}\\frac{1}{VR}\\times\\frac{100}{1}=75\\)<br><br>\\(\\frac{1000}{E}\\frac{1}{4}\\times\\frac{100}{1}=75\\)<br><br>\\(E = \\frac{250 \\times 100}{75}\\)<br><br>E = 333.3N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "343.32N",
+            "233.33N",
+            "333.33N",
+            "334.33N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2014,
+        "question": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is",
+        "explanation": "VR = 800/200 = 4<br>\\(Efficiency = \\frac{MA}{VR} \\times \\frac{100}{1}\\)<br><br>\\(Efficiency = \\frac{L}{E} \\times \\frac{1}{VR} \\times \\frac{100}{1}\\)<br><br>\\(Efficiency = \\frac{800}{250} \\times \\frac{1}{4} \\times \\frac{100}{1}\\)<br><br>= 78.74%<br>= 80%<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "90%",
+            "80%",
+            "85%",
+            "87%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2014,
+        "question": "A force of 500N<sup>1</sup>is applied to a steel wire of cross-sectional area 0.2m<sup>2</sup>, The tensile stress is",
+        "explanation": "\\(Stress = \\frac{Force}{Area}\\)<br><br>\\(Stress = \\frac{500}{0.2} = 2500\\)<br><br>= 2.5 x 10<sup>3</sup>Nm<sup>-3</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "2.5x10<sup>4</sup>Nm<sup>-2</sup>",
+            "1.0x10<sup>2</sup>Nm<sup>-2</sup>",
+            "1.0x10<sup>3</sup>Nm<sup>-2</sup>",
+            "2.5x10<sup>3</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2014,
+        "question": "The small droplets of water that form on the grass in the early hours of the morning is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Fog",
+            "Haul",
+            "Mist",
+            "Dew"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2014,
+        "question": "<p>What is the equivalent of 20K in Celsius scale?</p>",
+        "explanation": "<p>= (20 - 273)°C</p><p>= -253°C</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "-253<sup>o</sup>C",
+            "-293<sup>o</sup>C",
+            "68<sup>o</sup>C",
+            "36<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2014,
+        "question": "The equation P<sup>a</sup>V<sup>b</sup>T<sup>c</sup>= constant reduces to Charles Law if",
+        "explanation": "if a=0, b=1 and c=-1 then<br>P<sup>0</sup>V<sup>1</sup>T<sup>-1</sup>= V/T (Charles Law)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "a=1, b=1and c=0",
+            "a=1, b=0 and c=-1",
+            "a=0, b=1 and c=1",
+            "a=0, b=1 and c=-1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2014,
+        "question": "The quantity of heat needed to raise the temperature of a body by 1K is the body's",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Heat capacity",
+            "Internal energy",
+            "Specific heat capacity",
+            "Latent heat of fusion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2014,
+        "question": "The melting point of a substance is equivalent to its",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Vapour Pressure",
+            "Solidification Temperature",
+            "Liquidification Temperature",
+            "Solidification Pressures"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2014,
+        "question": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Boiling point",
+            "Ice point",
+            "Saturation point",
+            "Dew point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2014,
+        "question": "<p>Heat transfer by convection in a liquid is due to the</p>",
+        "explanation": "<p>Liquids and gases <strong>expand</strong> when they are heated. The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Latent heat of vaporization of the liquid",
+            "Increased vibration of the molecules of the liquid about theit mean position",
+            "Variation of density of the liquid",
+            "Expansion of the liquid as it is heated"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2014,
+        "question": "The distance between two successive crests of a wave is 15cm and the velocity 300ms<sup>-1</sup>. Calculate the frequency.",
+        "explanation": "Wavelength = 15cm = 0.15m<br><br>Velocity = 300m/s<br><br>V = fx<br><br>F = V/Wavelength<br><br>F = 300/0.15 Hertz<br><br>F = 2 x 10<sup>3</sup>Hz<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.0x10<sup>2</sup>Hz",
+            "4.5x10<sup>3</sup>Hz",
+            "2.0x10<sup>3</sup>Hz",
+            "4.5x10<sup>2</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2014,
+        "question": "A boy receives the echo of his clap reflected by a nearby hill 0.8s later. How far is he from the hill?",
+        "explanation": "Time for echo both ways = 0.8<br>Therefore time for echo in 1 way = 0.8/2 = 0.4<br><br>Distance = Speed x time<br><br>Distance = 340 x 0.4<br><br>Distance = 136m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "528m",
+            "66m",
+            "136m",
+            "264m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2014,
+        "question": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
+        "explanation": "\\(\\text{Linear Magnification} = \\frac{\\text{Length of Camera}}{\\text{Distance of the Object}}\\)<br><br>\\(\\text{Linear Magnification} = \\frac{25}{1000}\\)<br><br>\\(\\text{Linear Magnification} = 2.5 \\times 10^{-2}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.5x10<sup>2</sup>",
+            "2.5x10<sup>-2</sup>",
+            "2.5x10<sup>-1</sup>",
+            "2.5x10<sup>1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2014,
+        "question": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at",
+        "explanation": "\\(\\frac{1}{U} + \\frac{1}{V} = \\frac{1}{f}\\)<br><br>\\(\\frac{1}{8} + \\frac{1}{V} = \\frac{1}{2}\\)<br><br>\\(V = \\frac{8}{3}\\)<br><br>\\(V = 2.7cm\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "2.7m",
+            "2.0m",
+            "2.3m",
+            "2.5m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2014,
+        "question": "In a compound microscope, the objective and the eye piece focal lengths are",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "At infinity",
+            "Long",
+            "Short",
+            "The same"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2014,
+        "question": "When a telescope is in normal use, the final image is at",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Infinity",
+            "The focus",
+            "The radius of curvature",
+            "The near point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2014,
+        "question": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Remains the same",
+            "Collapses",
+            "Collapses and diverges again",
+            "Diverges"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2014,
+        "question": "<p>What charge is stored in a 0.1F capacitor when a 10V supply is connected across it?</p>",
+        "explanation": "<p>Q = CV = 0.1 x 10 = 1C</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "1C",
+            "5C",
+            "4C",
+            "2C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2014,
+        "question": "<p>The maximum power transfer occur in a cell when the external resistance is</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Twice the internal resistance of the cell",
+            "The same as the internal resistance of the cell",
+            "Greater than the internal resistance of the cell",
+            "Less than the internal resistance of the cell"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2014,
+        "question": "<p>A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A 300Ω resistor is connected to it in parallel",
+            "An 80Ω resistor is conneceted to it in series",
+            "A 150Ω resistor is connected to it in parallel",
+            "A 240Ω resistor is connected to it in series"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2014,
+        "question": "PHCN measures its electrical energy in",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "W",
+            "KWh",
+            "Wh",
+            "J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2014,
+        "question": "What is the best method of demagnetizing a steel bar magnet?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Hammering",
+            "Heating it",
+            "Rough handling it",
+            "Solenoid method"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2014,
+        "question": "The magnitude of the angle of dip at the equator is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "360<sup>o</sup>",
+            "0<sup>o</sup>",
+            "90<sup>o</sup>",
+            "180<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2014,
+        "question": "When an atom undergoes a beta decay, the atomic number of the nucleus",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Remains unchanged",
+            "Decreases by one",
+            "Increases by one",
+            "Becomes zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2014,
+        "question": "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10<sup>-7</sup>kgC<sup>-1</sup>]",
+        "explanation": "Mass = ZIT kg<br>Mass = 3.3 x 10<sup>-7</sup>x 4 x 2 x 60 x 60 kg<br>Mass = 9.5 x 10<sup>-3</sup>kg<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.9x10<sup>5</sup>kg",
+            "9.5x10<sup>-7</sup>kg",
+            "9.5x10<sup>-3</sup>kg",
+            "2.9x10<sup>4</sup>kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2014,
+        "question": "<p>Which gas produces a red coloured light in a discharge tube?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Mercury",
+            "Argon",
+            "Air",
+            "Neon"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2014,
+        "question": "<p>Which of the following is NOT a Fundamental S.I unit?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Metre",
+            "Ampere",
+            "Newton",
+            "Second"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2014,
+        "question": "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "two alpha and two beta particles",
+            "an alpha particle",
+            "one beta particle",
+            "one alpha and one beta particle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2014,
+        "question": "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Ionization",
+            "Fusion",
+            "Fission",
+            "Chain"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2014,
+        "question": "<p>A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 10-6K-1, the volume of the bottle at 50oC is</p>",
+        "explanation": "<p>\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)<br>\n<br>\n\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)<br>\n<br>\nV2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)<br>\n<br>\n<br>\nV2 = 2 x 104 2 x 104 (30) x 3 (9 x 10-6)<br>\n<br>\n<br>\nV2 = 16.2 + 2 x 104<br>\n<br>\nV2 = 20016.2cm3</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "20016.2cm<sup>3</sup>",
+            "20005.4cm<sup>3</sup>",
+            "20008.1cm<sup>3</sup>",
+            "20013.5cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    }
+]

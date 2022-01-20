@@ -1,0 +1,642 @@
+[
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 1,
+        "year": 2017,
+        "question": "<p>One of the characteristic feature of the second generation computer is the presence of</p>",
+        "explanation": "<p>A transistor computer, now often called a second generation computer, is a computer which uses discrete transistors instead of vacuum tubes. </p>",
+        "correctIndex": 1,
+        "options": [
+            "vacuum tube",
+            "transistors",
+            "micro-chips",
+            "integrated circuit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 2,
+        "year": 2017,
+        "question": "<p>Convert 4\\(_2\\) to a number in base two</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "10",
+            "11",
+            "100",
+            "110"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 3,
+        "year": 2017,
+        "question": "<p>Data processed into its useful form is referred to as</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "unique data",
+            "raw data",
+            "knowledge",
+            "information"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 4,
+        "year": 2017,
+        "question": "<p>Which of the following is an example of qualitative data?</p>",
+        "explanation": "<p>Qualitative data can be observed and recorded. This data type is non-numerical in nature.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Colour",
+            "Height",
+            "Length",
+            "Show size"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 5,
+        "year": 2017,
+        "question": "<p>Which of the following is not a characteristics of a personal computer</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Automation",
+            "Complex",
+            "Digital",
+            "High speed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 6,
+        "year": 2017,
+        "question": "<p>The gap between ownership, access, and benefits from computer and it's application is termed degital </p>",
+        "explanation": "<p>The digital divide refers to the gap who are to benefit from the <a href=\"https://en.wikipedia.org/wiki/Digital_age\">Digital Age</a> and those who are not.</p>",
+        "correctIndex": 1,
+        "options": [
+            "separation",
+            "divide",
+            "deprivation",
+            "annihilation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 7,
+        "year": 2017,
+        "question": "<p>Magnetic Ink Character Recognition (MICR) are used to read codes on </p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "postal order",
+            "multiple choice examination answer sheets",
+            "bank teller",
+            "bank cheques"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 8,
+        "year": 2017,
+        "question": "<p>the device that sends information to the CPU is the</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "bus",
+            "input device",
+            "output devices",
+            "processor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 9,
+        "year": 2017,
+        "question": "<p>Which of the following is not a procedure for information processing?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "segregation",
+            "organization",
+            "interpretation",
+            "collation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 10,
+        "year": 2017,
+        "question": "<p>The assembling of data according to a predetermined order is known as </p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "collation",
+            "interpretation",
+            "organization",
+            "summarization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 11,
+        "year": 2017,
+        "question": "<p>Information transmission medium from location P to location Q in space is called </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "wireless transmission",
+            "wired transmission",
+            "cabled transmission",
+            "asynchronous transmission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 12,
+        "year": 2017,
+        "question": "<p>Which of the following is not a type of wireless transmission</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Bluetooth",
+            "Fiire optics",
+            "Infrared",
+            "WiFi"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 13,
+        "year": 2017,
+        "question": "<p>The basic criterion for classifying a network is </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "psychological consideration",
+            "geographical scope",
+            "equipment availability",
+            "economic reason"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 14,
+        "year": 2017,
+        "question": "<p>Which of the following measures are used to secure data on-line? I. Password II. Encryption III. Personal Identification Number (PIN)</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "II only",
+            "III only",
+            "II and III",
+            "I, II, and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 15,
+        "year": 2017,
+        "question": "<p>In e-mail context, bcc stands for </p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "backup carbon copy",
+            "blank carbon copy",
+            "blind carbon copy",
+            "bulk carbon copy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 16,
+        "year": 2017,
+        "question": "<p>An internet-based system that allows people different geographical locations to have in-personmeeting is known as </p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "voice messaging",
+            "voice conferencing system",
+            "on-line mailing",
+            "fax system"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 17,
+        "year": 2017,
+        "question": "<p>The following software programs coordinates and control all other computer progra, programs, hardware and users' action except</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ZENITH",
+            "UNIX",
+            "DOS",
+            "DBSM"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 18,
+        "year": 2017,
+        "question": "<p>In word processing applications, the symbol B, I and U are commonly used buttons found on the </p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "standard toolbar",
+            "menu bar",
+            "formatting bar",
+            "drawing toolbar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 19,
+        "year": 2017,
+        "question": "<p>Bola intends to evoke the synonyms of a certain word during Word processing. What is the most appropriate tool to use?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Assistant",
+            "Change case",
+            "Grammar check",
+            "Thesaurus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 20,
+        "year": 2017,
+        "question": "<p>Ina worksheet, which of the following actions would select non-contiguous cells?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "holding down the Shift key",
+            "Holding down the Ctrl key",
+            "holding than the Alt key",
+            "holding down the Ctrl+Shift key"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 21,
+        "year": 2017,
+        "question": "<p>Which of these formulas will not be executed in MS Excel?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "=SUM(examscore)",
+            "=SUM(examscore)-12",
+            "=SUM(exam_score)*8",
+            "=SUM(exam score)/8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 22,
+        "year": 2017,
+        "question": "<p>MS Access is an example of a </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "relational model",
+            "network model",
+            "hierarchical model",
+            "file model"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 23,
+        "year": 2017,
+        "question": "<p>When a database recovery manager is invoked after a crash, restart proceeds in the following three phases; I. Undo II. Redo III. Analysis. Arrange these phases in the right order.</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I, II, III",
+            "II, I, III",
+            "III, II, I",
+            "I, III, II"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 24,
+        "year": 2017,
+        "question": "<p>During presentation, slide transition can be activated by</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "right-click",
+            "mouse drag",
+            "mouse click",
+            "double-click"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 25,
+        "year": 2017,
+        "question": "<p>Planning and creating of website is called web</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "analysis",
+            "design",
+            "maintenance",
+            "publishing"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 26,
+        "year": 2017,
+        "question": "<p>Magazines and brochures can be produced using a</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "data processing software",
+            "graphics software",
+            "presentation software",
+            "web authoring software"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 27,
+        "year": 2017,
+        "question": "<p>Which of the following is one of the tools used to maintain the computer</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Blower",
+            "Calipper",
+            "Cotton wool",
+            "Kerosine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 28,
+        "year": 2017,
+        "question": "<p>Which of the following is not a good computer maintenance practice?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Blowing the system unit with a blower",
+            "Blowing the keyboard with a blower",
+            "Cleaning the screen with a wet cloth",
+            "Cleaning the CD-ROM drive with lens cleaner"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 29,
+        "year": 2017,
+        "question": "<p>Commonly accepted practices, rules or methods in computing are called </p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Conventions",
+            "Habits",
+            "Laws",
+            "Standards"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 30,
+        "year": 2017,
+        "question": "<p>Which of the following is safety measure in the computer laboratory?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Eating in the computer laboratory",
+            "Illumination in the computer laboratory",
+            "Opening the monitor by unauthorized persons",
+            "Poor ventilation in the computer laboratory"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 31,
+        "year": 2017,
+        "question": "<p>Safety measures to be observed when using the computer include all of the following except </p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "use of anti-glare protector",
+            "sitting posture",
+            "maintaining a dust-free environment",
+            "dropping liquids in the computer rooms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 32,
+        "year": 2017,
+        "question": "<p>A computer professional who studies an existing system with a view to evolving a computer-based system from it is called?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "computer engineer",
+            "computer programmer",
+            "data-base administrator",
+            "system analyst"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 33,
+        "year": 2017,
+        "question": "<p>Which of the following is not an anti-virus?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Avast",
+            "AVG",
+            "Compaq",
+            "Norton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 34,
+        "year": 2017,
+        "question": "<p>Which of the following is used to retrieve specific information from database tables?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Index",
+            "Query",
+            "Report",
+            "Table"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 35,
+        "year": 2017,
+        "question": "<p>Which of these methods would delete a relationship defined between two tables in MS Access?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Selecting delete relationship from the edit menu dialog box",
+            "Selecting the relationship line and pressing Delete key",
+            "Selecting Delete from the relationship menu",
+            "Selecting Delete relationship from the file drop menu"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 36,
+        "year": 2017,
+        "question": "<p>Which of the following is not an effect of computer virus?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "It distorts the computer screen",
+            "interferes with computer operation",
+            "damages the computer",
+            "corrupts the computer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 37,
+        "year": 2017,
+        "question": "<p>What file organization would require that all the five (5) records be read before the 6th record is written?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Direct-access file",
+            "Index sequential file",
+            "Random access file",
+            "Sequential access file"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 38,
+        "year": 2017,
+        "question": "<p>Which of the following is not an advantage of file organization?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Faster processing of data input",
+            "Postal data retrieval",
+            "Prevention of data failure and data loss",
+            "Safety of data and information in a storage medium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 39,
+        "year": 2017,
+        "question": "<p>Maintaining the value nd content of data is part of data</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "coding",
+            "integrity",
+            "secrecy",
+            "security"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 40,
+        "year": 2017,
+        "question": "<p>Which of these operations would not improve the performance of a parallel database system?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Building indexes",
+            "Deleting unwanted data",
+            "Evaluating queries",
+            "Storing data across several sites."
+        ],
+        "type": "objectives"
+    }
+]

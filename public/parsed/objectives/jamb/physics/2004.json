@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2004,
+        "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "armature coil should be made of silver",
+            "commutator should be replaced with slip ring",
+            "commutator should be replaced with split rings",
+            "armature coil should be made of aluminium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2004,
+        "question": "<p>A radioisotope has a decay constant of 10\\(^{-7}\\)s\\(^{-1}\\). The average life of the radioisotope is</p>",
+        "explanation": "<p>Average life / Half life (T\\(_{\\frac{1}{2}}\\)) = ln2/λ = 0.693/10\\(^{-7}\\)<br>\n= 0.693 x 10\\(^7\\)<br>\n= 6.93 x 10\\(^6\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "1.00 x 10<sup>7</sup>s",
+            "6.93 x 10<sup>6</sup>s",
+            "1.00 x 10<sup>-7</sup>s",
+            "6.93 x 10<sup>7</sup>s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2004,
+        "question": "An a.c circuit of e.m.f 12V has a resistor of resistance 8Ω connected in series to an inductor of inductive reactance 16Ω and a capacitor capacitive reactance 10Ω. The current flow in the circuit is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19037095364_phy20043a.jpg\" class=\"img-fluid\">\n</div>Current (I) in the circuit =<sup>V</sup>/<sub>Z</sub><br><span style=\"white-space: nowrap; font-size:larger\">But z = <br>\n√<span style=\"text-decoration:overline;\"> R<sup>2</sup> + (X<sub>L</sub> - X<sub>C</sub>)<sup>2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 8<sup>2</sup> + (16 – 10) <sup>2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 64 + 36 </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 100 </span> = 10Ω<br>\n</span><br>∴ Current (I) =<sup>V</sup>/<sub>Z</sub>=<sup>12</sup>/<sub>10</sub>= 1.2 A",
+        "correctIndex": 1,
+        "options": [
+            "1.4A",
+            "1.2A",
+            "12.0A",
+            "14.0A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2004,
+        "question": "For semi conductor to have negative temperature coefficient of resistance implies that",
+        "explanation": "Temperature coefficient of resistance is given by<br><table><tbody><tr><td rowspan=\"2\">α = </td><td style=\"border-bottom:solid 1px\">Increase in resistance per <sup>o</sup>C rise in temp.</td></tr><tr><td>__resistance at 0<sup>o</sup>C</td></tr></tbody></table><br>And for metals where resistance increase with temperature rise, temperature coefficient of resistance is positive; on the other hand in semi conductors, where resistance<u>decrease</u>with temperature rise, temperature coefficient of resistance is negative.",
+        "correctIndex": 0,
+        "options": [
+            "their resistance decrease with temperature",
+            "The resistance increase with temperature",
+            "their resistance is constantly changing with temperature",
+            "they have electrons and holes at high temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2004,
+        "question": "X rays can be used in the study of crystal structure because they",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "have a very long-reaching wavelength",
+            "have extremely short wavelength",
+            "are invisible",
+            "are very fast"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2004,
+        "question": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30<sup>o</sup>deflection. The sensitivity of the instrument is",
+        "explanation": "Sensitivity of a measuring instrument is given by deflection per unit current: and given that deflection = 30<sup>o</sup>; and current (I) = 3A: then the sensitivity of the meter =<sup>30</sup>/<sub>0</sub>= 10.0",
+        "correctIndex": 3,
+        "options": [
+            "33.0",
+            "0.1",
+            "90.0",
+            "10.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2004,
+        "question": "<p>The particle and wave nature of matter are demonstrated in the equation</p>",
+        "explanation": "<p>I wave - particle duality of matter, the momentum of sub-atomic particle is given by P = h/λ where h = planck constant ; λ = wave length<br>\n=&gt; λ = h/P</p>",
+        "correctIndex": 1,
+        "options": [
+            "λ =<sup>hc</sup>/<sub>E</sub>",
+            "λ =<sup>h</sup>/<sub>P</sub>",
+            "λ =<sup>c</sup>/<sub>f</sub>",
+            "λ = 2 d sin θ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2004,
+        "question": "In a reverse biased junction diode, current flows in by",
+        "explanation": "In a reverse biased junction diode only a very small current flows in, carried by the<u>minority carriers </u>which are the negative charges in the n-semi conductor",
+        "correctIndex": 3,
+        "options": [
+            "positive holes alone",
+            "majority carriers",
+            "electron alone",
+            "minority carriers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2004,
+        "question": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X<sub>L</sub>and X<sub>C</sub>respectively are related as",
+        "explanation": "In an R - L - C circuit resonance occurs when the inductive reactance (X<sub>L</sub>), is equal to the capacitive reactance (X<sub>C</sub>)<br>1.e X<sub>L</sub>= X<sub>C</sub>",
+        "correctIndex": 0,
+        "options": [
+            "X<sub>L</sub>= X<sub>C</sub>",
+            "X<sub>L</sub>=<sup>1</sup>/<sub>2</sub>X<sub>C</sub>",
+            "X<sub>L</sub>=<sup>1</sup>/<sub>X<sub>C</sub></sub>",
+            "X<sub>L</sub>= 2X<sub>C</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2004,
+        "question": "<table><tr><td rowspan=\"2\">The binding energy of helium </td><td>4</td><td rowspan=\"2\">He is</td></tr><tr><td>2</td></tr></table><br>[atomic mass of proton = 1.00783U,<br>atomic mass of neutron = 1.00867U]",
+        "explanation": "The binding energy of a nucleus, is the work done or energy needed to separate completely the nucleons (protons and neutrons) apart. Again, experiment shows that the total mass of all individual nucleons is greater than that of the nucleus, in which they are together. This difference in the mass is the measure of the binding energy of the particular nucleus.<br><table><tr><td rowspan=\"2\">For helium </td><td>4</td><td rowspan=\"2\">He,</td></tr><tr><td>2</td></tr></table><br>it has altogether 4 nucleons 2 protons and 2 neutrons<br>2:H = 2 x 1.00783 = 2.01566<br>2:n = 2 x 1.00867 = 2.01734<br>∴ 2:H + 2:n = 4.03300u<br>But the helium nucleus has a mass of 4.00260u<br>∴ Binding energy = difference of nucleons and nucleus<br>= 4.03300U - 4.00260U = 0.03040U",
+        "correctIndex": 2,
+        "options": [
+            "4.033U",
+            "2.017U",
+            "0.033U",
+            "0.330U"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2004,
+        "question": "Flourescent tubes produces light by the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "excitation of gas molecules",
+            "conduction of solar energy",
+            "refraction of light by gas molecules",
+            "thermal agitation of electron in the tubes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2004,
+        "question": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
+        "explanation": "Energy stored in a coil of inductance, L, and carry a current, I is given by<br>E =<sup>1</sup>/<sub>2</sub>L I<sup>2</sup><br>=<sup>1</sup>/<sub>2</sub>x 5 x 10<sup>-3</sup>x 6 x 6<br>= 9.0 x 10<sup>-2</sup>J",
+        "correctIndex": 1,
+        "options": [
+            "9.0 x 10<sup>-3</sup>J",
+            "9.0 x 10<sup>-2</sup>J",
+            "1.4 x 10<sup>-2</sup>J",
+            "1.8 x 10<sup>-3</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2004,
+        "question": "<p>Which of the following is an electrolyte?</p>",
+        "explanation": "<p>It has been scientifically proven that 100g of grapefruit contains 135g of potassium electrolyte.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Paraffin",
+            "Sugar solution",
+            "Grape fruit",
+            "Alcohol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2004,
+        "question": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
+        "explanation": "Energy stored = Ivt = current x back e.m.f x time<br>= 2 x 3 x 0.4<br>= 2.4J",
+        "correctIndex": 1,
+        "options": [
+            "9.6J",
+            "2.4J",
+            "12.0J",
+            "7.2J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2004,
+        "question": "The instrument used for securing a large number of similar charges by induction is called",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "electrophorus",
+            "capacitor",
+            "proof-plane",
+            "electroscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2004,
+        "question": "If 16mA of current flows through a conductor in one second, the number of electron transported per seconds is<br>[1 electronic charge = 1.6 x 10<sup>-19</sup>C]",
+        "explanation": "Current (I) =<sup>q</sup>/<sub>t</sub>→ q = i x t<br>= 16 x 10<sup>-3</sup>x 1<br>= 1.6 x 10<sup>-2</sup>C<br>But 1.6 x 10<sup>-19</sup>C = I electronic charge<br>1 coulomb = 1 / (1.6x10<sup>-19</sup>)<br>∴ 1.6 x 10<sup>-2</sup>coulombs = 1 / (1.6x10<sup>-19</sup>) x 1.6x10<sup>-2</sup>/ 1<br>= 1.0 x 10<sup>-2</sup>x 10<sup>19</sup><br>= 1.0 x 10<sup>17</sup>",
+        "correctIndex": 3,
+        "options": [
+            "1.00 x 10<sup>20</sup>",
+            "2.56 x 10<sup>-18</sup>",
+            "2.56 x<sup>-17</sup>",
+            "1.00 x 10<sup>17</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2004,
+        "question": "Electrical appliances at home are normally earthed so that",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the appliances are maintained at a lower p.d than the earth",
+            "both the a.c and d.c sources can be used",
+            "a person touching the appliances is safe from electric shock",
+            "the appliances are maintained at a higher p.d than the earth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2004,
+        "question": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is",
+        "explanation": "<sup>1</sup>/<sub>C</sub>=<sup>1</sup>/<sub>0.3</sub>+<sup>1</sup>/<sub>0.5</sub>+<sup>1</sup>/<sub>0.2</sub>= 10.3333<br>=&gt; C = 1 / 10.3333 = 0.09677<br>≅ 0.1μF<br>∴ C = 0.1μF",
+        "correctIndex": 0,
+        "options": [
+            "0.1μF",
+            "0.3μF",
+            "1.0μF",
+            "0.5μF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2004,
+        "question": "The difference between X-rays and gamma rays is that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "x-rays are more penetrating than gamma rays",
+            "x-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
+            "x-rays have higher frequencies than gamma rays",
+            "x-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2004,
+        "question": "To protect a material from the influnce of an external magnetic field, the materials should be kept",
+        "explanation": "In order to protect a material from the influence of an external magnetic field, the material is placed in a soft iron ring, usually referred to as magnetic screening.",
+        "correctIndex": 2,
+        "options": [
+            "square steel ring",
+            "triangular zinc ring",
+            "soft iron ring",
+            "loop of copper wire"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10881098912_phy200422.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13601373650_phy200422a.jpg\" class=\"img-fluid\">\n</div>Power, P = I<sup>2</sup>R;<br>and I =<sup>E</sup>/<sub>R</sub><br>But effective Parallel resistance: is given by:<br><sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>6</sub>+<sup>1</sup>/<sub>3</sub>=<sup>1+2</sup>/<sub>6</sub>=<sup>3</sup>/<sub>6</sub>=&gt; R =<sup>6</sup>/<sub>3</sub>= 2Ω<br>Current I =<sup>E</sup>/<sub>R</sub>=<sup>12</sup>/<sub>2</sub>= 6A<br>But I<sub>1</sub>= (<sup>R<sub>1</sub></sup>/<sub>R<sub>1</sub>+R<sub>2</sub></sub>) x 1 =<sup>3</sup>/<sub>9</sub>x 6 = 2A<br>again I<sub>1</sub>= (<sup>R<sub>1</sub></sup>/<sub>R<sub>1</sub>+R<sub>2</sub></sub>) x 1 =<sup>6</sup>/<sub>9</sub>x 6 = 4A<br>∴P<sub>1</sub>= I<sub>1</sub><sup>2</sup>R<sub>1</sub>= 2 x 2 x 6 = 24W<br>P<sub>2</sub>= I<sub>2</sub><sup>2</sup>R<sub>2</sub>= 4 x 4 x 3 = 48W<br>thus<sup>P<sub>1</sub></sup>/<sub>P<sub>2</sub></sub>=<sup>24</sup>/<sub>48</sub>=<sup>1</sup>/<sub>2</sub>; OR P<sub>1</sub>: P<sub>2</sub>= 1:2",
+        "correctIndex": 3,
+        "options": [
+            "2:1",
+            "2:2",
+            "1:3",
+            "1:2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2004,
+        "question": "If the angle between two vector P and Q is O<sup>o</sup>, the vectors are said to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "intersect at the angle 45<sup>o</sup>",
+            "intersect at the angle 60<sup>o</sup>",
+            "be parallel",
+            "be perpendicular"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2004,
+        "question": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
+        "explanation": "K.E =<sup>1</sup>/<sub>2</sub>MV<sup>2</sup><br>Force, F = ma =&gt; a =<sup>F</sup>/<sub>m</sub>=<sup>12</sup>/<sub>4</sub>= 3ms<sup>-2</sup><br>But a = (V-U) / t =&gt; V = u + at<br>If the initial velocity U = 0, then V = at = 3 x 3 = 9ms<sup>-2</sup><br>∴ K.E, =<sup>1</sup>/<sub>2</sub>ms<sup>-2</sup><br><sup>1</sup>/<sub>2</sub>4 x 9 x 9 = 162J",
+        "correctIndex": 1,
+        "options": [
+            "144J",
+            "162J",
+            "81J",
+            "72J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2004,
+        "question": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P?",
+        "explanation": "efficiency = (M.A / V.R) x 100/1 =&gt;<sup>60</sup>/<sub>100</sub>=<sup>M.A</sup>/<sub>5</sub><br>∴M.A = (60 X 5) / 100 = 3<br>But M.A = Load/Effort; =&gt; 3 = Load/500<br>∴Load = 500 x 3<br>= 1500N",
+        "correctIndex": 0,
+        "options": [
+            "1500N",
+            "500N",
+            "4166N",
+            "750N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2004,
+        "question": "<p><strong>I. Jet propelled aircraft<br>\nII. Rocket propulsion<br>\nIII. The recoil of a gun<br>\nIV. A person walking</strong><br>\nWhich of the above is based on Newton's third law of motion</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "I, II, III, and IV only",
+            "I and III only",
+            "I, II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2004,
+        "question": "In a hydraulic press , a force of 40N is applied on the effort piston of area 0.4m<sup>2</sup>. If the force exerted on the load piston is 400N, the area of the large piston is",
+        "explanation": "Pressure developed in the effort piston =<sup>F</sup>/<sub>a</sub><br>∴<sup>F</sup>/<sub>a</sub>=<sup>40</sup>/<sub>0.4</sub>=<sup>400</sup>/<sub>4</sub>= 100Nm<sup>2</sup><br>this pressure is transmitted to the larger piston of area A; =&gt; P =<sup>F</sup>/<sub>A</sub><br>∴ 100 =<sup>400</sup>/<sub>A</sub><br>=&gt; A =<sup>400</sup>/<sub>100</sub>= 4m<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "4m<sup>2</sup>",
+            "8m<sup>2</sup>",
+            "2m<sup>2</sup>",
+            "1m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2004,
+        "question": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
+        "explanation": "Coefficient of friction μ =<sup>F</sup>/<sub>R</sub>=<sup>F</sup>/<sub>mg</sub>= 500/1000 = 0.5<br>∴ μ = 0.5",
+        "correctIndex": 3,
+        "options": [
+            "0.4",
+            "1.0",
+            "0.8",
+            "0.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2004,
+        "question": "As the pressure of a fluid increases, its viscosity",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "decreases",
+            "increases",
+            "increases then decreases",
+            "remains constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16321706880_phy200429.jpg\" class=\"img-fluid\">",
+        "explanation": "Component of 8N along the horizontal = 8 cos 60<sup>o</sup>= 8 x 0.5<br>= 4N<br>Similarity Component of 6N along the horizontal = 6 cos 60<sup>o</sup>= 3N<br>∴ Total force towards the right = 10 + 4 + 3<br>= 17N<br>Again total force toward the left = 4N<br>∴ Net horizontal force (towards the right) = 17-4<br>= 13N",
+        "correctIndex": 0,
+        "options": [
+            "13N",
+            "17N",
+            "√3N",
+            "7√3N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2004,
+        "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
+        "explanation": "NOTE: Firstly, it should be noted that the mass, as well as the weight of a body is independent of its size.<br>∴ Let the weight of the moon = M<sub>m</sub>x g<sub>m</sub><br>weight of the earth = M<sub>e</sub>x g<sub>e</sub><br>But g<sub>e</sub>= 80g<sub>m</sub><br>∴ weight of the earth = M<sub>e</sub>x 80g<sub>m</sub><br>=&gt; weight of the moon / weight of the earth = M<sub>m</sub>x g<sub>m</sub>/ M<sub>e</sub>x 80g<sub>m</sub><br>thus<sup>M<sub>m</sub></sup>/<sub>M<sub>e</sub></sub>∝<sup>g<sub>m</sub></sup>/<sub>80g<sub>m</sub></sub>∝<sup>1</sup>/<sub>80</sub><br>=&gt; M<sub>m</sub>:M<sub>e</sub>∝ 1:80",
+        "correctIndex": 0,
+        "options": [
+            "1:80",
+            "1:320",
+            "1:1280",
+            "1:4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2004,
+        "question": "In which of the following material media will sound travel fastest?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "oil",
+            "metal",
+            "gas",
+            "water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2004,
+        "question": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Parabolic mirrors",
+            "Plane mirrors",
+            "Cylindrical mirrors",
+            "Spherical mirrors"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2004,
+        "question": "What happens to the rays in a parallel beam of light?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "They diverge as they travel",
+            "they intersect",
+            "They converge as they travel",
+            "They meet at infinity."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2004,
+        "question": "A ray of light makes an angle of 35<sup>o</sup>with a plane mirror. What is the angle of reflection?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/14961589489_phy200435a.jpg\" class=\"img-fluid\">\n</div>35<sup>o</sup>=35<sup>o</sup>= 70<sup>o</sup><br>180 - 70 = 110<br>110/2 = 55<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "35<sup>o</sup>",
+            "55<sup>o</sup>",
+            "70<sup>o</sup>",
+            "65<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2004,
+        "question": "<p>A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity</p>",
+        "explanation": "<p>A person with this condition is said to be short-sighted. Hence, to correct it, a concave lens is used for correction.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Convex lens",
+            "Binoculars",
+            "Concave lens",
+            "Plane glasses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2004,
+        "question": "The pitch of a sound note depends on",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "timbre",
+            "frequency",
+            "harmonics",
+            "quality"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2004,
+        "question": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
+        "explanation": "Magnification, M =<sup>v</sup>/<sub>u</sub>= v (<sup>1</sup>/<sub>u</sub>)<br>And for the Lens formula<sup>1</sup>/<sub>u</sub>+<sup>1</sup>/<sub>v</sub>=<sup>1</sup>/<sub>f</sub><br>=&gt;<sup>1</sup>/<sub>u</sub>=<sup>1</sup>/<sub>f</sub>-<sup>1</sup>/<sub>v</sub><br>∴M = V(<sup>1</sup>/<sub>u</sub>)<br>= V(<sup>1</sup>/<sub>f</sub>-<sup>1</sup>/<sub>v</sub>) =<sup>v</sup>/<sub>f</sub>-<sup>v</sup>/<sub>v</sub>=<sup>v</sup>/<sub>f</sub>- 1<br>∴M =<sup>v</sup>/<sub>f</sub>- 1",
+        "correctIndex": 3,
+        "options": [
+            "<sup>u</sup>/<sub>f</sub>- f",
+            "<sup>u</sup>/<sub>v</sub>+ f",
+            "<sup>v</sup>/<sub>f</sub>+ 1",
+            "<sup>v</sup>/<sub>f</sub>- 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20402202705_phy200439a.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/14961615317_phy200439a.jpg\" class=\"img-fluid\">\n</div>From the above diagram ; ? = 90<sup>o</sup>- 30<sup>o</sup>= 60<sup>o</sup><br>v = 90 - 60 = 30<br>∴ refractive index = (sin ?)/(sin v) = (sin 60<sup>o</sup>/ sin 30<sup>o</sup>) =<sup>√3/2</sup>/<sub>1/2</sub><br>= √3/2 x 1/2<br>= √3",
+        "correctIndex": 2,
+        "options": [
+            "1/√3",
+            "2√3",
+            "√3",
+            "2/√3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2004,
+        "question": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increase in the volume of water",
+            "contraction of the bottle",
+            "expansion of the bottle",
+            "decrease in the volume of water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23122515048_phy200442.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2π",
+            "π",
+            "<sup>π</sup>/<sub>4</sub>",
+            "<sup>π</sup>/<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2004,
+        "question": "The change in volume when 450kg of ice is completely melted is<br>[density of ice = 900 kgm<sup>-3</sup>, density of water = 100 kgm<sup>-3</sup>]",
+        "explanation": "Vol. of ice = M/?D = 450/900 = 0.500m<sup>3</sup><br>vol. of water = M/D\" = 450/1000 = 0.450m<sup>3</sup><br>∴ Difference in vol. = 0.500 - 0.450<br>= 0.05m<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0.50m<sup>3</sup>",
+            "0.45m<sup>3</sup>",
+            "0.05m<sup>3</sup>",
+            "4.50m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2004,
+        "question": "Tea pots are often silver-coated to prevent heat loss by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "conduction only",
+            "convention only",
+            "convection and conduction",
+            "radiation only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2004,
+        "question": "<b>I. Wavelength <br>\nII. Medium of propagation <br>\nIII. Wave velocity<br>\nIV. Frequency<br>\nV. Energy</b><br>Which of the above are used for characterizing waves?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "<b>I, II and V</b>",
+            "<b>I</b>and<b>IV</b>",
+            "<b>I, III</b>and<b>IV</b>",
+            "<b>III, IV</b>and<b>V</b>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2004,
+        "question": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12<sup>o</sup>C is achieved, the specific heat capacity of the metal is",
+        "explanation": "Heat supplied by the heater in 10 mins<br>= power x time<br>= 50 x (10 x 60)<br>= 30000 J<br>This heat is equal = MCΔt<br>= 5 x c x 12<br>= 60cJ<br>= 60C = 30,000<br>C = 30,000/60<br>C = 500 J kg<sup>-1</sup>K<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "400 J kg<sup>-1</sup>K<sup>-1</sup>",
+            "500 J kg<sup>-1</sup>K<sup>-1</sup>",
+            "390 J kg<sup>-1</sup>K<sup>-1</sup>",
+            "130 J kg<sup>-1</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2004,
+        "question": "<p>Metal rods of length 20m each are laid end to end to form a bridge at 25oC. What gap will be provided between consecutive rails for the bridge to withstand 75oC?<br>\n[Linear expansivity of the material = 2.0 x 10-5K-1</p>",
+        "explanation": "<p>Safety gap = expansion of the rod</p><p>= \\(\\alpha \\times L_0 \\times \\Delta t\\)</p><p>where \\(\\alpha\\) = linear expansivity of the material</p><p>\\(L_0\\) = Initial length of the material</p><p>\\(\\Delta t\\) = Change in temperature</p><p>\\(\\therefore\\) The safety gap = \\(2 \\times 10^{-5} \\times 20 \\times (75 - 25)\\)</p><p>= \\(2 \\times 10^{-5} \\times 10^3\\)</p><p>= \\(2 \\times 10^{-2} m\\)</p><p>= 0.02 m</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.20m",
+            "0.22m",
+            "0.25m",
+            "0.02m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2004,
+        "question": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "diffraction",
+            "refraction",
+            "polarization",
+            "reflection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2004,
+        "question": "A man exerts a pressure of 2.8 x 10<sup>3</sup>Nm<sup>-2</sup>on the ground and has 4 x 10<sup>-2</sup>m<sup>2</sup>of his feet in contact with the ground. The weight of the man is",
+        "explanation": "Pressure = Force / Area = Weight of the man / Area of his feet<br>=&gt; 2.8 x 10<sup>3</sup>= Weight of the man / 4 x 10<sup>-2</sup><br>∴ Weight of the man = 2.8 x 10<sup>3</sup>x 4 x 10<sup>-2</sup><br>= 112N",
+        "correctIndex": 3,
+        "options": [
+            "102N",
+            "70N",
+            "140N",
+            "112N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2004,
+        "question": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
+        "explanation": "From the relation refractive index = Sin \\( \\left(\\frac{A+Dm}{2}\\right) \\)<br><br>Where A = refractive angle = 60<sup>0</sup>, Sin\\( \\left(\\frac{A}{2}\\right) \\)<br><br>\\( \\implies 1.4 = \\frac{\\text{Sin}\\left(\\frac{60^0 + Dm}{2}\\right)}{\\text{Sin}\\left(\\frac{60}{2}\\right)} \\\\<br><br>= \\frac{\\text{Sin}\\left(\\frac{60 + Dm}{2}\\right)}{\\text{Sin}30^0} \\\\<br><br>= \\frac{\\text{Sin}\\left(\\frac{60 + Dm}{2}\\right)}{0.5}\\\\<br><br>\\text{Therefore} 1.4 \\times 0.5 = \\text{Sin}\\left(\\frac{60 + Dm}{2}\\right) \\\\<br><br>\\text{Therefore} \\left(\\frac{60 + D_m}{2}\\right)= \\text{Sin}^{-1} 0.7000 \\\\<br><br>= 44^0 12^1 \\\\<br><br>60^0 + D_m = 88^0 24^1 \\\\<br>D_m = 88^0 24^1 - 60^0 \\\\<br><br>= 28^0 24 \\\\<br>29^0 \\)",
+        "correctIndex": 1,
+        "options": [
+            "60<sup>0</sup>",
+            "29<sup>0</sup>",
+            "99<sup>0</sup>",
+            "90<sup>0</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2004,
+        "question": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
+        "explanation": "E = V + v<br><br>where E = emf of cell.<br>V = terminal p.d<br>v = loss voltage of the cell.<br><br>But from ohm's law V=IR ; v = Iv<br><br>\\( \\implies \\) lost voltage = V = Ir<br>= 4 x 0.5<br>= 2.0v",
+        "correctIndex": 1,
+        "options": [
+            "1.250V",
+            "2.000V",
+            "8.000V",
+            "0.125V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2004,
+        "question": "If a force of 50N stretches a wire from 20m to 20.01m, what is the amount of force required to stretch the same material from 20m to 20.05m?",
+        "explanation": "Original length = 20m<br>first new length = 20.01m<br><br>first increase in length = 20.01m - 20m = 0.01m<br><br>Second new length = 20.05m<br>second increase in length = 20.05 - 20m = 0.05m<br><br>From hooke's law = \\( \\frac{F_1}{e_1} = \\frac{F_2}{e_2} \\implies \\frac{50}{0.01} = \\frac{F_2}{0.05} \\\\<br><br>\\implies F_2 = \\frac{50 \\times 0.05}{0.01} = 250N \\)",
+        "correctIndex": 0,
+        "options": [
+            "250N",
+            "200N",
+            "100N",
+            "50N"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,837 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1979,
+        "question": "The mean of the numbers 1.2, 1.0, 0.9, 1.4, 0.8, 0.8, 1.2 and 1.1 is",
+        "explanation": "\\(\\frac{1.2 + 1.0 + 0.9 + 1.4 + 0.8 + 0.8 + 1.2}{8}\\) = \\(\\frac{8.4}{8}\\)<br><br>= 1.05",
+        "correctIndex": 4,
+        "options": [
+            "1.5",
+            "0.8",
+            "1.0",
+            "1.02",
+            "1.05"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1979,
+        "question": "<p>\\((1.28 \\times 10^{4}) \\div (6.4 \\times 10^{2})\\) equals</p>",
+        "explanation": "<p>\\((1.28 \\times 10^{4}) \\div (6.4 \\times 10^{2})\\)</p><p>= \\(\\frac{1.28 \\times 10^{4}}{6.4 \\times 10^{2}}\\)</p><p>\\(\\equiv \\frac{12.8 \\times 10^{3}}{6.4 \\times 10^{2}}\\)</p><p>= \\(2 \\times 10^{1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "2 x 10<sup>-5</sup>",
+            "2 x 10<sup>-1</sup>",
+            "2 x 10<sup>1</sup>",
+            "2 x 10<sup>-4</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1979,
+        "question": "<p>If the value of \\(\\pi\\) is taken to be \\(\\frac{22}{7}\\), the area of a semi-circle of diameter 42m is</p>",
+        "explanation": "<p>\\(\\pi\\) = \\(\\frac{22}{7}\\), Diameter D = 42m<br>\n<br>\nArea of a circle = \\(\\frac{\\pi D^2}{4}\\) when a diameter is given<br>\n<br>\narea of a semicircle \\(\\frac{\\pi D^2}{4}\\) x \\(\\frac{1}{2}\\)<br>\n<br>\n= \\(\\frac{22}{7}\\) x \\(\\frac{4262}{4}\\) x \\(\\frac{1}{2}\\)<br>\n<br>\n= \\(\\frac{11}{7} \\times 441\\)<br>\n<br>\n= 693m\\(^{2}\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "5544m<sup>2</sup>",
+            "1386m<sup>2</sup>",
+            "132m<sup>2</sup>",
+            "264m<sup>2</sup>",
+            "693m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1979,
+        "question": "(3.2)<sup>2</sup>- (1.8)<sup>2</sup>equals",
+        "explanation": "(3.2)<sup>2</sup>- (1.8)<sup>2</sup>= (3.2 + 1.8)(3.2 - 1.8)<br><br>= 5 x 1.4<br><br>= 7",
+        "correctIndex": 0,
+        "options": [
+            "7.0",
+            "2.56",
+            "13.48",
+            "2.0",
+            "0.07"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1979,
+        "question": "In \\(\\bigtriangleup\\)PQR, PQ = 10cm, QR = 8cm and RP = 6cm, the perpendicular RS is drawn from R to PQ. Find the length of RS",
+        "explanation": "Cos Q = \\(\\frac{r^2 + p^2 - q^2}{2rp}\\)<br><br>= \\(\\frac{10^2 + 8^2 - 6^2}{2(10)(8)}\\)<br><br>= \\(\\frac{164 - 36}{160}\\)<br><br>= \\(\\frac{128}{160}\\)<br><br>= 0.8<br><br>Q = Cos<sup>-1</sup>o.8<br><br>= 37<sup>o</sup>x rep. from rt&lt; RSQ, Let RS = x<br><br>\\(\\frac{x}{sin 37^o}\\) = \\(\\frac{8}{sin 90^o}\\)<br><br>but sin 90<sup>o</sup>= 1<br><br>x = 8 sin 37<sup>o</sup><br><br>x = 4.8cm",
+        "correctIndex": 4,
+        "options": [
+            "4cm",
+            "32cm",
+            "\\(\\frac{30}{7}\\)",
+            "\\(\\frac{40}{7}\\)",
+            "4.8cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1979,
+        "question": "<p>After getting a rise of 15%, a man's new monthly salary is N345. How much per month did he earn before the increase?</p>",
+        "explanation": "<p>Let x represent his monthly salary before increase 15% of<br>\n<br>\nx = 345</p><p>% profit = (100 + 15)%</p><p>= 115%<br>\n<br>\n\\(\\frac{115}{100}\\)x = 345<br>\n<br>\n115x = 34500<br>\n<br>\nx = N300.00</p>",
+        "correctIndex": 2,
+        "options": [
+            "N330",
+            "N396.75",
+            "N300",
+            "N293.25",
+            "N360"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1979,
+        "question": "In base ten, the number 101101 (base 2) equals",
+        "explanation": "(101101)<sub>2</sub>\\(\\begin{array}{c|c} 2^5 &amp; 2^4 &amp; 2^3 &amp; 2^2 &amp; 2^1 &amp; 2^o\\\\ \\hline 1 &amp; 0 &amp; 1 &amp; 1 &amp; 0 &amp; 1\\end{array}\\)<br><br>= 1 x 2<sup>5</sup>+ 0 x 2<sup>4</sup>+ 1 x 2<sup>3</sup>+ 1 x 2<sup>2</sup>+ 0 x 2<sup>1</sup>+ 1 x 2<sup>o</sup><br><br>= 32 + 0 + 8 + 4 + 0 + 1<br><br>= (45)<sup>10</sup>",
+        "correctIndex": 2,
+        "options": [
+            "15",
+            "4",
+            "45",
+            "32",
+            "90"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1979,
+        "question": "The annul profits of a transport business were divided between the partners A and B in the ratio 3 : 5. If B received N3000 more than A, the total profit was",
+        "explanation": "A : B = 3 : 5<br><br>Total ratio = 3 + 5 = 8<br><br>Let rept, the total profit, A receives \\(\\frac{3x}{8}\\)<br><br>\\(\\frac{5x}{8}\\) - \\(\\frac{3}{x}\\) = 3000<br><br>\\(\\frac{5x}{8}\\) - \\(\\frac{3x}{8}\\) = 3000<br><br>= \\(\\frac{2x}{8}\\)<br><br>= 3000<br><br>2x = 2400<br><br>x = 1200<br><br>N12,000",
+        "correctIndex": 2,
+        "options": [
+            "N5000",
+            "N1800",
+            "N12000",
+            "N24000",
+            "N8000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1979,
+        "question": "x is directly proportional to y and inversely proportional to z. If x = 9 when y = 24 and z = 8, what is the value of x when y = 5 and z = 6?",
+        "explanation": "x \\(\\alpha\\) y = x \\(\\alpha\\) \\(\\frac{1}{z}\\)<br><br>x \\(\\alpha\\) \\(\\frac{1}{z}\\)<br><br>x = k \\(\\frac{y}{z}\\)<br><br>k = \\(\\frac{xz}{y}\\) = \\(\\frac{9 \\times 8}{24}\\)<br><br>= 3<br><br>x = \\(\\frac{xz}{y}\\)<br><br>= \\(\\frac{3 \\times 5}{6}\\)<br><br>= \\(\\frac{15}{6}\\)<br><br>= \\(\\frac{5}{2}\\)<br><br>= 2\\(\\frac{1}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{5}{6}\\)",
+            "11",
+            "3\\(\\frac{3}{5}\\)",
+            "2\\(\\frac{1}{2}\\)",
+            "1\\(\\frac{1}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1979,
+        "question": "The solution of the equation x<sup>2</sup>- 2x = 8 is",
+        "explanation": "x<sup>2</sup>- 2x = 8 = 8<br><br>x<sup>2</sup>- 2x - 8 = 0<br><br>(x<sup>2</sup>- 4x) + (2x - 8) = 0<br><br>When x + 2 = 0<br><br>x = -2, when x - 4 = 0<br><br>x = 4<br><br>-2 or 4",
+        "correctIndex": 1,
+        "options": [
+            "x = 0 or 2",
+            "x = -2 or 4",
+            "x = 2",
+            "x = -4",
+            "x = 2 or 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1979,
+        "question": "A trader goes to Ghana for y days with y cedis. For the first x days, he spends X cedis per day. The amount he has to spend per day for the rest of his stay is",
+        "explanation": "The amount he has to spend per day for the rest of his stay is \\(\\frac{Y - Xx}{y - x}\\) cedis",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{y(y - x)}{y - x}\\) cedis",
+            "\\(\\frac{Yy - Xx)}{y - x}\\) cedis",
+            "\\(\\frac{Y - Xy)}{y - x}\\) cedis",
+            "\\(\\frac{Y - X}{y - x}\\) cedis",
+            "\\(\\frac{Y - Xx}{y - x}\\) cedis"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1979,
+        "question": "Multiply (3x + 5y + 4z) by (2x - 3y + z)",
+        "explanation": "(3x + 5y + 4z)(2x - 3y + z)<br><br>6x<sup>2</sup>+ 9xy + 3x<sup>2</sup>+ 10xy - 15y<sup>2</sup>+ 5yz + 8xz - 12yz + 4z<sup>2</sup><br><br>= 6x<sup>2</sup>+ xy - 15y<sup>2</sup>+ 4z<sup>2</sup>+ 11xz - 7yz",
+        "correctIndex": 0,
+        "options": [
+            "6x<sup>2</sup>+ xy - 15y<sup>2</sup>+ 4z<sup>2</sup>+ 11xz - 7yz",
+            "6x<sup>2</sup>+ 3xy - 15y<sup>2</sup>+ 4z<sup>2</sup>",
+            "6x<sup>2</sup>+ 3xy - y<sup>2</sup>+ 4z<sup>2</sup>",
+            "6x<sup>2</sup>+ 3xy - 15y + z<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1979,
+        "question": "A square of cardboard is taped at the perimeter by a piece of ribbon 20cm long. What is the area of the board?",
+        "explanation": "Area of a square = 4(5) where S is each sides of the square<br><br>Perimeter = 20(given)<br><br>4S = 20<br><br>S = \\(\\frac{20}{4}\\)<br><br>= 5<br><br>Area s<sup>2</sup>= 5<sup>2</sup><br><br>= 25",
+        "correctIndex": 2,
+        "options": [
+            "20sq.cm",
+            "100sq.cm",
+            "25sq.cm",
+            "16sq.cm",
+            "36sq.cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1979,
+        "question": "<p>Rationalize the denominator of the expression \\(\\frac{6 + 2\\sqrt{5}}{4 - 3\\sqrt{6}}\\)</p>",
+        "explanation": "<p>Rationalize using the reciprocal of the denominator to multiply through </p><p>(i.e. Multiply both numerator and denominator using \\(4 + 3\\sqrt{6}\\) )</p><p>Watch your signs in the course of this.</p>",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{12+ 4\\sqrt{5 + 7} 5 + 6\\sqrt{3}}{39}\\)",
+            "\\(\\frac{-(24 + 18\\sqrt{6} + 8\\sqrt{5} + 6\\sqrt{30})}{39}\\)",
+            "\\(\\frac{24 + 3\\sqrt{6 + 8} 5 + 6\\sqrt{30}}{19}\\)",
+            "\\(\\frac{-15 + 3\\sqrt{5 + 18} 5 + 6\\sqrt{30}}{36}\\)",
+            "\\(\\frac{-(12 + 4\\sqrt{5} +9\\sqrt{6} + 3\\sqrt{30})}{19}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1979,
+        "question": "<p>Simplify \\(\\frac{5^x \\times 25^{x - 1}}{125^{x + 1}}\\)</p>",
+        "explanation": "<p>\\(\\frac{5^x \\times 25^{x - 1}}{125^{x + 1}}\\) = \\(\\frac{5^x \\times 5^{2x - 2}}{5^{3x + 3}}\\)<br>\n<br>\n= \\(\\frac{5^{x + 2x - 2}}{5^{3x + 3}}\\)<br>\n<br>\n= \\(\\frac{5^{3x - 2}}{5^{3x + 3}}\\)<br>\n<br>\n= 5\\(^{3x - 2 - 3x - 3}\\)<br>\n<br>\n= 5\\(^{-5}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "5<sup>2x + 1</sup>",
+            "5<sup>x + 1</sup>",
+            "5<sup>-5</sup>",
+            "5<sup>2</sup>",
+            "5<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1979,
+        "question": "A steel ball of radius 1 cm is dropped into a cylinder of radius 2cm and height 4cm. If the cylinder is now filled with water, what is the volume of the water in the cylinder?",
+        "explanation": "Volume of steel ball = \\(\\frac{4\\pi r^2}{3}\\)<br><br>= \\(\\frac{4}{3}\\) \\(\\pi\\) x 1<br><br>= \\(\\frac{4 \\pi}{3}\\)cm<sup>3</sup><br><br>Vol. of cylinder = \\(\\pi\\)r<sup>2</sup>h<br><br>= \\(\\pi\\) x 2<sup>2</sup>x 3<br><br>Vol. of water = 16\\(\\pi\\) - \\(\\frac{4 \\pi}{3}\\)<br><br>= \\(\\frac{48 - 4 \\pi}{3}\\)<br><br>= \\(\\frac{44 \\pi}{3}\\)cm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{44}{3}\\)\\(\\pi\\)cm<sup>3</sup>",
+            "12\\(\\pi\\)cm<sup>3</sup>",
+            "\\(\\frac{38}{3}\\)\\(\\pi\\)cm<sup>3</sup>",
+            "\\(\\frac{40}{3}\\)\\(\\pi\\)cm<sup>3</sup>",
+            "\\(\\frac{32}{33}\\)\\(\\pi\\)cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1979,
+        "question": "Simplify \\(\\frac{x^2 + y^2 + xy}{x + y}\\) - \\(\\frac{x^2 + y^2}{x - y}\\)",
+        "explanation": "\\(\\frac{x^2 + y^2 + xy}{x + y}\\) - \\(\\frac{x^2 + y^2}{x -y}\\)<br><br>= \\(\\frac{-y^3 - y^3}{x^2 - y^2}\\)<br><br>= \\(\\frac{2y^3}{x^2 - y^2}\\)<br><br>= \\(\\frac{2y^3}{y^2 - x^2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{x^2 + y^2} {(x - y)^2}\\)",
+            "\\(\\frac{2y^3} {y^2 - x^2}\\)",
+            "\\(\\frac{3x^2 + y^2} {(2x - y)^2}\\)",
+            "\\(\\frac{x^2 + y^2} {(x^2 - y)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1979,
+        "question": "A ladder resting on a vertical wall makes an angles whose tangent is 2.4 with the ground. If the distance between the foot of the ladder and the wall is 50cm, What is the length of the ladder?",
+        "explanation": "If tan\\(\\theta\\) = 2, 4<br><br>\\(\\theta\\) = tan<sup>-1</sup>(2.4)<br><br>= 67<sup>o</sup>25<br><br>By sin formula \\(\\frac{x}{sin 90^o}\\) = \\(\\frac{50}{sin 22^o 37}\\)<br><br>= \\(\\frac{50}{sin(9o - \\theta)}\\)<br><br>sin90<sup>o</sup>= 1<br><br>x = 50 cosec 22<sup>o</sup>37<br><br>= 50 x 2.604<sup></sup>x<br><br>= 130cm<br><br>but 100cm = 1m<br><br>130cm = 1.3m",
+        "correctIndex": 4,
+        "options": [
+            "1m",
+            "1.1m",
+            "1.2m",
+            "0.9m",
+            "1.3m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1979,
+        "question": "Simplify 2\\(\\frac{5}{12}\\) - 1\\(\\frac{7}{8}\\) x \\(\\frac{6}{5}\\)",
+        "explanation": "2\\(\\frac{5}{12}\\) - 1\\(\\frac{7}{8}\\) x \\(\\frac{6}{5}\\) = \\(\\frac{29}{12}\\) - \\(\\frac{15}{8}\\) x \\(\\frac{6}{5}\\)<br><br>= \\(\\frac{29}{12}\\) - \\(\\frac{9}{4}\\)<br><br>= \\(\\frac{29 - 27}{12}\\)<br><br>= \\(\\frac{2}{12}\\)<br><br>= \\(\\frac{1}{6}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{6}\\)",
+            "\\(\\frac{13}{20}\\)",
+            "\\(\\frac{11}{30}\\)",
+            "\\(\\frac{9}{4}\\)",
+            "\\(\\frac{5}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1979,
+        "question": "One of the following statements is wrong. Which is it?",
+        "explanation": "Two similar triangles are not also congruent",
+        "correctIndex": 2,
+        "options": [
+            "If a triangle is equiangular then it is also equilateral",
+            "If a triangle is equilateral then it is also then it is also equiangular",
+            "If two triangles are similar then they are also congurent",
+            "The sum of the interior angles of any triangle is 180 degrees"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1979,
+        "question": "PQRS is a cyclic quadrilateral with PQ as diameter of the circle. If &lt; PQS = 15<sup>o</sup>find &lt; QRS",
+        "explanation": "PSO = 90<sup>o</sup>(angle in a semicircle)<br><br>SPO = 180<sup>o</sup>- (90<sup>o</sup>+ 15<sup>o</sup>) = 75<sup>o</sup><br><br>&lt; QRS = 108<sup>o</sup>- 75<sup>o</sup><br><br>= 105<sup>o</sup>(opposite angles in cyclic quadrilateral are supplementary)",
+        "correctIndex": 3,
+        "options": [
+            "75<sup>o</sup>",
+            "37\\(\\frac{1}{2}\\)<sup>o</sup>",
+            "127\\(\\frac{1}{2}\\)<sup>o</sup>",
+            "105<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1979,
+        "question": "Make x the subject of the equation a(b + c) + \\(\\frac{5}{d}\\) - 2 = 0",
+        "explanation": "a(b + c) + \\(\\frac{5}{d}\\) - 2 = 0<br><br>ab + ac + \\(\\frac{5}{d}\\) - 2 = 0<br><br>abd + \\(\\frac{acd}{d}\\) + 5 - 2 = ab + ac + 5 - 2d<br><br>acd = 2d - 5 - abd<br><br>c = \\(\\frac{2d - 5 - abd}{ad}\\)",
+        "correctIndex": 1,
+        "options": [
+            "c = \\(\\frac{2d - 5 - b}{ad}\\)",
+            "c = \\(\\frac{2d - 5 - abd}{ad}\\)",
+            "c = \\(\\frac{2d - 5 - ab}{ad}\\)",
+            "c = \\(\\frac{5 - 2d - b}{ad}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1979,
+        "question": "<p>Which of the following values of the variable x, (a)x = 0, (b)x = -3, (c)x = 9, satisfy the inequalities 0 &lt; \\(\\frac{x + 3}{x - 1}\\) &lt; 2?</p>",
+        "explanation": "<p>0 &lt; \\(\\frac{x + 3}{x - 1}\\) &lt; 2<br>\n<br>\nPut x = 0, -3 and 9<br>\n<br>\n0 &lt; \\(\\frac{9 + 3}{9 - 1}\\) \\(\\leq\\) 2<br>\n<br>\ni.e. 0 &lt; 1.5 \\(\\leq\\) 2 (true)<br>\n<br>\nbut 0 &lt; \\(\\frac{0 + 3}{0 - 1}\\) \\(\\leq\\) 2<br>\n<br>\ni.e. 0 &lt; -3 \\(\\leq\\) 2 (not true)<br>\n<br>\n-3 \\(\\leq\\) 2<br>\n<br>\n-3 is not greater than 0</p>",
+        "correctIndex": 1,
+        "options": [
+            "(a), (b), (c)",
+            "(c)",
+            "None of the choices",
+            "All of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1979,
+        "question": "On each market day Mrs. Bassey walks to the market from her home at a steady speed. This journey normally takes her 2 hours to complete. She finds, however, that by increasing her usual speed by 1 km/hr she can save 20 minutes. Find her usual speed in km/hr",
+        "explanation": "Let x rept. the usual speed = \\(\\frac{Distance}{Time}\\)<br><br>= \\(\\frac{20}{1}\\) x \\(\\frac{1}{2}\\)<br><br>= 5",
+        "correctIndex": 2,
+        "options": [
+            "1\\(\\frac{2}{3}\\)",
+            "2",
+            "5",
+            "6",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1979,
+        "question": "Solve the simultaneous linear equations: 2x + 5y = 11, 7x + 4y = 2",
+        "explanation": "2x + 5y = 11.......(i)<br><br>7x + 4y = 2.......(ii)<br><br>(i) x 7 \\(\\to\\) 14x + 35y = 77.........(iii)<br><br>(ii) x 2 \\(\\to\\) 14x + 8y = 4........(iv)<br><br>(iii) - (iv)<br><br>27y = 73<br><br>y = \\(\\frac{73}{27}\\)",
+        "correctIndex": 2,
+        "options": [
+            "x = -8, y = 1",
+            "x = -2, y = 4",
+            "x = \\(\\frac{-34}{27}\\), y = \\(\\frac{73}{27}\\)",
+            "x = 7, y = -9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1979,
+        "question": "If x<sup>3</sup>- 12x - 16 = 0 has x = -2 as a solution then the equaion has",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "x = -4 as a solution also",
+            "3 roots all different",
+            "3 roots with two equal and the third different",
+            "3 roots all equal",
+            "only one root"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1979,
+        "question": "<p>Find the value of (4\\(\\frac{1}{2}\\))6</p>",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "1",
+            "2",
+            "4",
+            "6",
+            "64"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1979,
+        "question": "Find the value of log<sub>10</sub>\\(\\frac{1}{40}\\), given that log<sub>10</sub>4 = 0.6021",
+        "explanation": "log<sub>10</sub>\\(\\frac{1}{40}\\) = log<sub>10</sub>1 - (log<sub>10</sub>4 + log<sub>10</sub>10)<br><br>= 0 - 1.6021<br><br>= 1.6021",
+        "correctIndex": 2,
+        "options": [
+            "1.3979",
+            "2.3979",
+            "1.6021",
+            "2.6021"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1979,
+        "question": "<p>12 men complete a job in 9 days. How many men working t the same rate would be required to complete the job in 6 days?</p>",
+        "explanation": "<p>12 men in 9 days,</p><p>1 day in \\(12 \\times 9\\) men<br>\n<br>\nIn 6 days we have \\(\\frac{12 \\times 9}{6}\\) men<br>\n<br>\n= \\(\\frac{108}{6}\\)<br>\n<br>\n= 18 men</p>",
+        "correctIndex": 1,
+        "options": [
+            "24",
+            "18",
+            "12",
+            "9",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1979,
+        "question": "For the set of numbers 2, 3, 5, 6, 7, 7, 8",
+        "explanation": "Mean = 5, 42<br><br>Median = 6<br><br>Mode = 7<br><br>The mean is less than the median",
+        "correctIndex": 4,
+        "options": [
+            "The median is greater than the mode",
+            "the mean is greater than the mode",
+            "the mean is greater than the median",
+            "the median is equal to the mean",
+            "the mean is less than the median"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1979,
+        "question": "Simplify \\(\\frac{1 - x^2}{x - x^2}\\), where x \\(\\neq\\) 0",
+        "explanation": "\\(\\frac{1 - x^2}{x - x^2}\\), where x = \\(\\neq\\) 0<br><br>\\(\\frac{1^2 - x^2}{x - x^2}\\)<br><br>= \\(\\frac{(1 + x)(1 - x)}{x(1 - x)}\\)<br><br>= \\(\\frac{1 + x}{x}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{x}\\)",
+            "\\(\\frac{1 - x}{x}\\)",
+            "\\(\\frac{1 + x}{x}\\)",
+            "\\(\\frac{1}{x - 1}\\)",
+            "\\(\\frac{-x - 1}{1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1979,
+        "question": "A cylinder of height h and radius r is open at one end. Its surface area is",
+        "explanation": "A cylinder of height h ans radius r is open at one end, its surface area is 2\\(\\pi\\)rh + \\(\\pi\\)r<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "2\\(\\pi\\)rh",
+            "\\(\\pi\\)r<sup>2</sup>h",
+            "2\\(\\pi\\)rh + \\(\\pi\\)r<sup>2</sup>",
+            "2\\(\\pi\\)rh + 2\\(\\pi\\)r<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1979,
+        "question": "An arc of circle of radius 2cm subtends an angle of 60<sup>o</sup>at the centre. Find the area of the sector",
+        "explanation": "Area of a sector \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r<br><br>= \\(\\frac{60^o}{360^o}\\) x 2\\(\\pi\\)r<br><br>= \\(\\frac{2 \\pi}{3}\\)cm<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{2 \\pi}{3}\\)cm<sup>2</sup>",
+            "\\(\\frac{\\pi}{2}\\)cm<sup>2</sup>",
+            "\\(\\frac{\\pi}{3}\\)cm<sup>2</sup>",
+            "\\(\\pi\\)cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1979,
+        "question": "What is the greatest straight line distance between two vertices (corners) of a cube whose sides are 2239cm long?",
+        "explanation": "x = \\(\\sqrt{-2239^2 + 2239^2}\\)<br><br>= -\\(\\sqrt{10026242}\\)<br><br>= 3166.42<br><br>y = -\\(\\sqrt{10026242 + 5013121}\\)<br><br>= -\\(\\sqrt{15039363}\\)<br><br>= 3878<br><br>= \\(\\sqrt{3}\\) x 2239",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\sqrt{2239cm}\\)",
+            "\\(\\sqrt{2}\\) x 2239cm",
+            "\\(\\frac{\\sqrt{3}}{2}\\) 2239cm",
+            "\\(\\sqrt{3}\\) x 2239cm",
+            "4478cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1979,
+        "question": "What is log<sub>7</sub>(49<sup>a</sup>) - log<sub>10</sub>(0.01)?",
+        "explanation": "log<sub>7</sub>(49<sup>a</sup>) - log<sub>10</sub>(0.01) = log<sub>7</sub>(7<sup>2</sup>)<sup>a</sup>- log<sub>10</sub>100<br><br>log<sub>7</sub>7<sup>2a</sup>- log<sub>10</sub>1 - log<sub>10</sub>10<sup>2</sup><br><br>= 2a - 2<br><br>= 2a + a",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{49^a}{100}\\)",
+            "\\(\\frac{a}{2}\\) + 2",
+            "7<sup>2a</sup>+ 2",
+            "2a + 2",
+            "\\(\\frac{2a}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1979,
+        "question": "The size of a quantity first doubles and then increases by a further 16%. After a short time its size decreases by 16%. What is the net increases in size of the quantity?",
+        "explanation": "Let x rept. the size of the quantity<br><br>2x + \\(\\frac{116}{100}\\) x \\(\\frac{-84}{100}\\)<br><br>= 200%",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{59300}{625}\\)",
+            "\\(\\frac{50900}{625}\\)",
+            "200%",
+            "+100%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1979,
+        "question": "The following table relates the number of objects f corresponding to a certain size x. What is the average size of an object?<br>\\(\\begin{array}{c|c} f &amp; 1 &amp; 2 &amp; 3 &amp; 4 &amp; 5 \\\\ \\hline x &amp; 1 &amp; 2 &amp; 4 &amp; 8 &amp; 16\\end{array}\\)",
+        "explanation": "F = 1, 2, 3, 4, 5<br><br>x = 1, 2, 4, 8, 16<br><br>fx = 1, 4, 12, 32, 80, 3f = 15<br><br>(average size) = \\(\\frac{\\sum fx}{\\sum f}\\)<br><br>= \\(\\frac{129}{15}\\)<br><br>= \\(\\frac{43}{5}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{31}{15}\\)",
+            "\\(\\frac{31}{5}\\)",
+            "\\(\\frac{129}{5}\\)",
+            "\\(\\frac{43}{5}\\)",
+            "\\(\\frac{16}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1979,
+        "question": "If y = x<sup>2</sup>- 2x - 3, Find the least value of y and corresponding value of x",
+        "explanation": "If the graph of eqn. y = x<sup>2</sup>- 2x - 3 is plot and drawn, the lease value of y = -4 while the corresponding value of x = 1<br><br>x = 1, y = -4",
+        "correctIndex": 3,
+        "options": [
+            "x = 3, y = 3",
+            "x = 1, y = -3",
+            "x = 4, y = 1",
+            "x = 1, y = -4",
+            "x = 2, y = -3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1979,
+        "question": "A father is now three times as old as his son. Twelve years ago he was six times as old as his son. How old are the son and the father?",
+        "explanation": "Son = x, Father = 3x, 12 yrs ago<br><br>son = x - 12, father = 3x - 12<br><br>3x - 12 = 6(x - 12)<br><br>3x - 12 = 6x - 72<br><br>3x = 60<br><br>x = 20",
+        "correctIndex": 4,
+        "options": [
+            "20 and 45",
+            "100 and 150",
+            "45 and 65",
+            "35 and 75",
+            "20 and 60"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1979,
+        "question": "<p>If \\(\\sqrt{3^{\\frac{1}{x}}}\\) = \\(\\sqrt{9}\\) then the value of x is:</p>",
+        "explanation": "<p>\\(\\sqrt{3^{\\frac{1}{x}}}\\) = \\(\\sqrt{9}\\)<br>\n<br>\n3\\(^{\\frac{1}{2x}}\\) = \\(9^{\\frac{1}{2}}\\)<br>\n<br>\n3\\(^{\\frac{1}{2x}}\\) = 3\\(^{2 \\times \\frac{1}{2}}\\)<br>\n<br>\n3\\(\\frac{1}{2x}\\) = 3\\(\\frac{2}{2}\\) = 3<br>\n<br>\n\\(3^{\\frac{1}{2x}}\\) = \\(3^{1}\\)</p><p>\\(\\frac{1}{2x}\\) = \\(\\frac{1}{1}\\)</p><p>x = \\(\\frac{1}{2}\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{4}{3}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1979,
+        "question": "A man is standing in the corridor of a 10-storey building and looking down at a tall tree in front of the building. He sees the top of the tree at angle of depression of 30<sup>o</sup>. If the tree is 200m tall and the man's eyes are 300m above the ground, calculate the angle of depression of the foot tree as seen by the man",
+        "explanation": "Let x rep. the angle of depression of the foot of the tree.<br><br>tan 30<sup>o</sup>= \\(\\frac{y}{100}\\)<br><br>y = 100 tan 30<sup>o</sup><br><br>= 57.8<br><br>By Pythagoras, AC<sup>2</sup>= 300<sup>2</sup>+ 58<sup>2</sup><br><br>= 900 + 3354<br><br>tan x = \\(\\frac{opp}{adj}\\)<br><br>= \\(\\frac{58}{300}\\)<br><br>= 0.19<br><br>tan x = 0.19<br><br>x = tan 0.19<br><br>= 60<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "30<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>",
+            "25<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2853717942_maths%2044.jpg\" class=\"img-fluid\">",
+        "explanation": "BC = 6 : DC = \\(\\frac{6}{2}\\) = 3cm<br><br>By construction &lt; EDE = 180<sup>o</sup>(90<sup>o</sup>+ 60<sup>o</sup>) = 180<sup>o</sup>- 150<sup>o</sup><br><br>= 30<sup>o</sup>(angle on a strt. line)<br><br>From rt &lt; triangle ADC, AD<sup>2</sup>= 5<sup>2</sup>- 3<sup>2</sup><br><br>= 25 - 9 = 6<br><br>AD = 4<br><br>From &lt; AEC, let AS = x<br><br>\\(\\frac{x}{sin 60^o}\\) - \\(\\frac{4}{sin 90^o}\\)<br><br>sin 90<sup>o</sup>= 1<br><br>sin 60<sup>o</sup>= \\(\\frac{\\sqrt{3}}{2}\\)<br><br>x = 4sin 60<sup>o</sup><br><br>x = 3 x \\(\\frac{\\sqrt{3}}{2}\\)<br><br>= 2\\(\\sqrt{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "3\\(\\sqrt{2}\\)",
+            "2\\(\\sqrt{3}\\)",
+            "\\(\\frac{\\sqrt{3}}{2}\\)",
+            "\\(\\frac{2}{\\sqrt{3}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25683525108_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Both pairs of opp. angles are equal<br>\n<br>\n&lt; STP = 55\\(^o\\) - isosceles angle<br>\n<br>\n&lt; TSR = 55\\(^o\\) - alternate angle to &lt; STP<br>\n<br>\nHence, &lt; PSR = 55\\(^o\\) + 55\\(^o\\) = 110\\(^o\\)<br>\n<br>\n\\(\\therefore\\) &lt; PQR = 110\\(^o\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "125<sup>o</sup>",
+            "120<sup>o</sup>",
+            "115<sup>o</sup>",
+            "110<sup>o</sup>",
+            "10<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11414902280_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "Since O is the centre of the circle &lt; POS = 150<sup>o</sup><br><br>i.e. &lt; substended at the centre is twice that substended at any part of the circumference",
+        "correctIndex": 4,
+        "options": [
+            "70<sup>o</sup>",
+            "75<sup>o</sup>",
+            "105<sup>o</sup>",
+            "140<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22829813168_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "PSR = 65<sup>o</sup>x 2<br><br>= 130<sup>o</sup><br><br>PRS = 180<sup>o</sup>- (130<sup>o</sup>+ 20<sup>o</sup>)<br><br>= 30<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "45<sup>o</sup>",
+            "35<sup>o</sup>",
+            "40<sup>o</sup>",
+            "30<sup>o</sup>",
+            "42<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/lhYiOxNNEo7OrD278COiY8EORMfzsSSEjGAUmRwu.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of shaded portion = Area of triangle PQR - Area of inner triangle</p><p>Area of triangle given 3 sides a, b, c = \\(\\sqrt{s(s - a)(s - b)(s - c)}\\)</p><p>where \\(s = \\frac{a + b + c}{2} \\)</p><p>Area of PQR :</p><p>\\(s = \\frac{3 + 5 + 6}{2} = \\frac{14}{2} = 7\\)</p><p>Area = \\(\\sqrt{7(7 - 3)(7 - 5)(7 - 6)}\\)</p><p>= \\(\\sqrt{7(4)(2)(1)} = \\sqrt{56}\\)</p><p>\\(\\implies K^{2} = \\sqrt{56}\\)</p><p>Area of inner triangle :</p><p>\\(s = \\frac{2 + 4 + \\frac{10}{3}}{2} = \\frac{14}{3}\\)</p><p>Area = \\(\\sqrt{\\frac{14}{3} (\\frac{14}{3} - 2)(\\frac{14}{3} - 4)(\\frac{14}{3} - \\frac{10}{3})}\\)</p><p>= \\(\\sqrt{\\frac{14}{3} (\\frac{8}{3})(\\frac{2}{3})(\\frac{4}{3})}\\)</p><p>= \\(\\sqrt{\\frac{896}{81}}\\)</p><p>= \\(\\sqrt{\\frac{16}{81}} \\times \\sqrt{56}\\)</p><p>= \\(\\frac{4}{9} K^{2}\\)</p><p>\\(\\therefore \\text{The area of the shaded portion} = K^{2} - \\frac{4}{9}K^{2} = \\frac{5}{9}K^{2}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{5}{9}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{1}{3}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{8}{9}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{7}{9}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{2}{3}\\)k<sup>2</sup>sq. u"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27115061576_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "By Pythagoras, PE<sup>2</sup>= 13<sup>2</sup>- 5<sup>2</sup><br><br>= 169 - 144 = 144<br><br>h = PE = 144 = 12cm,<br><br>Area of 11gm = b x h<br><br>QR = b =(5 + 7)cm = 12cm<br><br>area = 12 x 12<br><br>= 144cm<sup>2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "60cm<sup>2</sup>",
+            "65cm<sup>2</sup>",
+            "72cm<sup>2</sup>",
+            "144cm<sup>2</sup>",
+            "156cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7135543920_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; D = 180<sup>o</sup>- 100v<br><br>= 80<sup>o</sup>(&lt; on a str. line)<br><br>&lt; s = 60<sup>o</sup>- alternate angle<br><br>x = 180<sup>o</sup>- (80<sup>o</sup>+ 60<sup>o</sup>)<br><br>180<sup>o</sup>- 140<sup>o</sup>= 40<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4281327216_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{x + 3}{sin 60^o}\\) = \\(\\frac{x}{sin 306o}\\)<br><br>3sin 30<sup>o</sup>= x sin 60<sup>o</sup>- x sin 30<sup>o</sup><br><br>= x(sin 60<sup>o</sup>- sin 30<sup>o</sup>)<br><br>but sin 30<sup>o</sup>= \\(\\frac{1}{2}\\)<br><br>sin 60<sup>o</sup>= \\(\\frac{3}{2}\\) = \\(\\frac{3(\\sqrt{3} - 1)}{\\sqrt{3} + 1}\\)",
+        "correctIndex": 1,
+        "options": [
+            "3\\(\\sqrt{3}\\)",
+            "\\(\\frac{3(\\sqrt{3} - 1)}{\\sqrt{3} + 1}\\)",
+            "\\(\\frac{(\\sqrt{3} - 1)}{\\sqrt{3} + 1}\\)",
+            "\\(\\frac{3 - 1}{\\sqrt{3} + 1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 51,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27115079379_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Time(sec) areas of the three sides are \\(\\frac{1}{2}\\) x 2 x 20 = 20 x 2 = 40<br>\n<br>\n\\(\\frac{1}{2}\\) x 4 x 20 = 40<br>\n<br>\n40 + 40 = 80<br>\n<br>\nvel. = \\(\\frac{80}{4}\\)<br>\n<br>\n20 + 0.45 = 20.45 meter/sec.</p>",
+        "correctIndex": 3,
+        "options": [
+            "17.72 meter/sec.",
+            "21.67 meters/sec",
+            "2.5 meter/sec.",
+            "20.45 meters/sec.",
+            "13.33 meter/sec."
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "course": "english",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1996,
+        "question": "<p>Select the option that best explains the information conveyed in the sentence.<br>\n<br>\nImona couldn't have attended lectures yesterday?</p>",
+        "explanation": "<p>the statement '<strong><em>'Imona couldn't have attended lectures yesterday</em></strong>'' denotes certainty. the speaker was sure it would be impossible to say imona had attended lectures the previous day. this means that, it is not possible that imona had attended lectures yesterday. in otherwords, its impossible to say imona had attended lectures yesterday. </p>",
+        "correctIndex": 1,
+        "options": [
+            "it was possible that Imona attended lectures yesterday",
+            "It was possible that Imona didn't attend lectures yesterday",
+            "It was possible that Imona attended lectures yesterday",
+            "It was impossible that Imona didn't attend lectures yesterday"
+        ],
+        "type": "objectives"
+    }
+]

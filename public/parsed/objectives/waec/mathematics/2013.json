@@ -1,0 +1,770 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2013,
+        "question": "Multiply 2.7 x 10<sup>-4</sup>by 6.3 x 10<sup>6</sup>and leave your answers in standard form",
+        "explanation": "2.7 x 10<sup>-4</sup>x 6.3 x 10<sup>6</sup><br><br>= 2.7 x 6.3 x 10<sup>-4</sup>x 10<sup>6</sup><br><br>= 17.01 x 10<sup>-4 + 6</sup><br><br>= 17.01 x 10<sup>2</sup><br><br>= 1.701 x 10<sup>1</sup>x 10<sup>2</sup><br><br>= 1.701 x 10<sup>1 + 2</sup><br><br>= 1.701 x 10<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "1.7 x 10<sup>3</sup>",
+            "1.70 x 10<sup>3</sup>",
+            "1.701 x 10<sup>3</sup>",
+            "17.01 x 10<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2013,
+        "question": "If 9<sup>(2 - x)</sup>= 3, find x",
+        "explanation": "9(2 - x) = 3<br><br>3<sup>2(2 - x)</sup>= 3<br><br>2(2 - x) = 1<br><br>4 - 2x = 1<br><br>-2x = 1 - 4<br><br>-2x = -3<br><br>x = \\(\\frac{-3}{-2}\\)<br><br>x = \\(\\frac{3}{2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "\\(\\frac{3}{2}\\)",
+            "2",
+            "\\(\\frac{5}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2013,
+        "question": "In what number base is the addition 465 + 24 + 225 = 1050?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ten",
+            "nine",
+            "eight",
+            "seven"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2013,
+        "question": "Simplify \\(\\frac{1\\frac{7}{8} \\times 2\\frac{2}{5}}{6\\frac{3}{4} \\div \\frac{3}{4}}\\)",
+        "explanation": "\\(\\frac{1\\frac{7}{8} \\times 2\\frac{2}{5}}{6\\frac{3}{4} \\div \\frac{3}{4}}\\)<br><br>from numerator \\(1 \\frac{7}{8} \\times 2 \\frac{2}{5}\\)<br><br>= \\(\\frac{15}{8} \\times \\frac{12}{5}\\)<br><br>= \\(\\frac{3 \\times 3}{2 \\times 1} = \\frac{9}{2}\\)<br><br>from denominator \\(6\\frac{3}{4} \\div \\frac{3}{4}\\)<br><br>= \\(\\frac{27}{4} \\div \\frac{3}{4}\\)<br><br>= \\(\\frac{27}{4} \\times \\frac{4}{3}\\)<br><br>= \\(\\frac{9 \\times 1}{1 \\times 1} = \\frac{9}{1}\\)<br><br>\\(\\frac{9}{2} \\div \\frac{9}{1} = \\frac{9}{2} \\times \\frac{1}{9}\\)<br><br>= \\(\\frac{1}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "9",
+            "4\\(\\frac{1}{2}\\)",
+            "2",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2013,
+        "question": "If Un = n(n<sup>2</sup>+ 1), evaluate U5 - U4",
+        "explanation": "Un = n(n<sup>2</sup>+ 1)<br><br>U<sup>5</sup>= 5(<sup>2</sup>+ 1)<br><br>= 5(25 + 1)<br><br>= 5(26) = 130<br><br>U<sup>4</sup>= 4(4<sup>2</sup>+ 1) = 4(16 + 1)<br><br>= 4(17) = 68<br><br>U5 - U4 = 130 - 68<br><br>= 62",
+        "correctIndex": 2,
+        "options": [
+            "18",
+            "56",
+            "62",
+            "80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2013,
+        "question": "If \\(\\sqrt{50} - K\\sqrt{8} = \\frac{2}{\\sqrt{2}}\\), find K",
+        "explanation": "\\(\\sqrt{50} - K\\sqrt{8} = \\frac{2}{\\sqrt{2}}\\)<br><br>\\(\\sqrt{50} - \\frac{2}{\\sqrt{2}}\\) = K\\(\\sqrt{8}\\)<br><br>= \\(\\sqrt{2} \\times 25 - \\frac{2}{\\sqrt{2}}\\)<br><br>= K \\(\\sqrt{4 \\times 2}\\)<br><br>\\(\\frac{5\\sqrt{2}}{1} - \\frac{2}{\\sqrt{2}}\\) = 2K\\(\\sqrt{2}\\)<br><br>\\(\\frac{5\\sqrt{4} - 2}{\\sqrt{2}} = 2K\\sqrt{2}\\)<br><br>\\(\\frac{10 - 2}{\\sqrt{2}} = 2K \\sqrt{2}\\)<br><br>\\(\\frac{8}{\\sqrt{2}} = \\frac{2K\\sqrt{2}}{1}\\)<br><br>= 2k\\(\\sqrt{2} \\times \\sqrt{2}\\) = 8<br><br>2k \\(\\sqrt{4}\\) = 8<br><br>2k x 2 = 8<br><br>4k = 8<br><br>k = \\(\\frac{8}{4}\\)<br><br>k = 2",
+        "correctIndex": 3,
+        "options": [
+            "-2",
+            "-1",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2013,
+        "question": "A sales boy gave a change of N68 instead of N72. Calculate his percentage error",
+        "explanation": "% error = \\(\\frac{error}{\\text{actual value}} \\times 100\\)<br><br>error = N72 - N68 = 4<br><br>actual value = N72<br><br>%error = \\(\\frac{4}{72} \\times 100\\)<br><br>= \\(\\frac{100}{18} = \\frac{50}{9}\\) = 5\\(\\frac{5}{9}\\)%",
+        "correctIndex": 1,
+        "options": [
+            "4%",
+            "5\\(\\frac{5}{9}\\)%",
+            "5\\(\\frac{15}{17}\\)%",
+            "7%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2013,
+        "question": "Four oranges sell for Nx and three mangoes sell for Ny. Olu bought 24 oranges and 12 mangoes. How much did he pay in terms of x and y?",
+        "explanation": "4 oranges sell for Nx, 1 orange will sell for \\(\\frac{Nx}{4}\\)<br><br>24 oranges will sell for: \\(\\frac{Nx}{4} \\times 24\\) = n6x<br><br>3 mangoes sell for Ny, 1 mango will sell for \\(\\frac{Ny}{3}\\)<br><br>12 mangoes will sell for \\(\\frac{Ny}{3} \\times 12\\) = 4Ny<br><br>total money pay N6x + N4y = N(6x + 4y)",
+        "correctIndex": 1,
+        "options": [
+            "N94x + 6y)",
+            "N(6x + 4y)",
+            "N(24x + 12y)",
+            "N(12x + 24y)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2013,
+        "question": "Simplify: \\(\\frac{x^2 - y^2}{(x + y)^2} + \\frac{(x - y)^2}{(3x + 3y)}\\)",
+        "explanation": "\\(\\frac{x^2 - y^2}{(x + y)^2} + \\frac{(x - y)^2}{(3x + 3y)}\\)<br><br>\\(\\frac{(x + y)(x - y)}{(x + y)(x + y)} + \\frac{(x - y)(x - y)}{3(x + y)}\\)<br><br>= \\(\\frac{3}{x - y}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{x - y}{3}\\)",
+            "x + y",
+            "\\(\\frac{3}{x - y}\\)",
+            "x - y"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2013,
+        "question": "Solve the inequality: \\(\\frac{2x - 5}{2} &lt; (2 - x)\\)",
+        "explanation": "\\(\\frac{2x - 5}{2} &lt; \\frac{(2 - x)}{1}\\)<br><br>2x - 5 &lt; 4 - 2x<br><br>2x + 2x &lt; 4 + 5<br><br>4x &lt; 9<br><br>x &lt; \\(\\frac{9}{4}\\)<br><br>x &lt; 2\\(\\frac{1}{4}\\)",
+        "correctIndex": 3,
+        "options": [
+            "x &gt; 0",
+            "x &lt; \\(\\frac{1}{4}\\)",
+            "x &gt; 2\\(\\frac{1}{2}\\)",
+            "x &lt; 2\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2013,
+        "question": "If x = 64 and y = 27, evaluate: \\(\\frac{x^{\\frac{1}{2}} - y^{\\frac{1}{3}}}{y - x^{\\frac{2}{3}}}\\)",
+        "explanation": "\\(\\frac{x^{\\frac{1}{2}} - y^{\\frac{1}{3}}}{y - x^{\\frac{2}{3}}}\\)<br><br>substitute x = 64 and y = 27<br><br>\\(\\frac{64^{\\frac{1}{2}} - 27^{\\frac{1}{3}}}{27 - 64^{\\frac{2}{3}}} = \\frac{\\sqrt{64} - 3\\sqrt{27}}{27 - (3\\sqrt{64})^2}\\)<br><br>= \\(\\frac{8 - 3}{27 - 16}\\)<br><br>= \\(\\frac{5}{11}\\)",
+        "correctIndex": 2,
+        "options": [
+            "2\\(\\frac{1}{5}\\)",
+            "1",
+            "\\(\\frac{5}{11}\\)",
+            "\\(\\frac{11}{43}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2013,
+        "question": "If \\(\\frac{1}{2}\\)x + 2y = 3 and \\(\\frac{3}{2}\\)x and \\(\\frac{3}{2}\\)x - 2y = 1, find (x + y)",
+        "explanation": "\\(\\frac{1}{2}\\)x + 2y = 3......(i)(multiply by 2)<br><br>\\(\\frac{3}{2}\\)x - 2y = 1......(ii)(multiply by 2)<br><br>x + 4y = 6......(iii)<br><br>3x - 4y = 2.....(iv) add (iii) and (iv)<br><br>4x = 8, x = \\(\\frac{8}{4}\\) = 2<br><br>substitute x = 2 into equation (iii)<br><br>x + 4y = 6<br><br>2 + 4y = 6<br><br>4y = 6 - 2<br><br>4y = 4<br><br>y = \\(\\frac{4}{4}\\)<br><br>= 1(x + y)<br><br>2 + 1 = 3",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "2",
+            "1",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2013,
+        "question": "Given that p<sup>\\(\\frac{1}{3}\\)</sup>= \\(\\frac{3\\sqrt{q}}{r}\\), make q the subject of the equation",
+        "explanation": "p<sup>\\(\\frac{1}{3}\\)</sup>= \\(\\frac{3\\sqrt{q}}{r}\\)(cross multiply)<br><br>3\\(\\sqrt{q}\\) = r x 3\\(\\frac{\\sqrt{q}}{r}\\)(cross multiply)<br><br>3\\(\\sqrt{q}\\) = r x 3\\(\\sqrt{p}\\) cube root both side<br><br>q = 3\\(\\sqrt{r}\\) x p<br><br>q = r<sup>\\(\\frac{1}{3}\\)</sup>p = pr<sup>\\(\\frac{1}{3}\\)</sup>",
+        "correctIndex": 3,
+        "options": [
+            "q = p\\(\\sqrt{r}\\)",
+            "q = p<sup>3</sup>r",
+            "q = pr<sup>3</sup>",
+            "q = pr<sup>\\(\\frac{1}{3}\\)</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2013,
+        "question": "A chord is 2cm from the centre of a circle. If the radius of the circle is 5cm, find the length of the chord",
+        "explanation": "From \\(\\bigtriangleup\\) OMQ find /MQ/ by Pythagoras OQ<sup>2</sup>= OM<sup>2</sup>+ MQ<sup>2</sup><br><br>5<sup>2</sup>= 2<sup>2</sup>+ MQ<sup>2</sup><br><br>25 = 4 + MQ<sup>2</sup><br><br>25 - 4 = MQ<sup>2</sup><br><br>21 - MQ<sup>2</sup><br><br>MQ<sup>2</sup>= 21<br><br>MQ<sup>2</sup>= \\(\\sqrt{21}\\)<br><br>Length of chord = 2 x \\(\\sqrt{21}\\) = 2\\(\\sqrt{21}\\)cm",
+        "correctIndex": 0,
+        "options": [
+            "2\\(\\sqrt{21}\\)cm",
+            "\\(\\sqrt{42}\\)cm",
+            "2\\(\\sqrt{19}\\)cm",
+            "\\(\\sqrt{21}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2013,
+        "question": "<p>A cube and cuboid have the same base area. The volume of the cube is 64cm\\(^3\\) while that of the cuboid is 80cm\\(^3\\). Find the height of the cuboid</p>",
+        "explanation": "<p>Volume of a cube with side a cm = a\\(^3\\)</p><p>a\\(^3\\) = 64 \\(\\implies\\) a = 4cm</p><p>Base area of a cube = a\\(^2\\)</p><p>= 4\\(^2\\)</p><p>= 16 cm\\(^2\\)</p><p>\\(\\implies\\) Base area of the cuboid = 16 cm\\(^2\\)</p><p>Volume of cuboid = Base area x height</p><p>80 = 16 x h</p><p>h = \\(\\frac{80}{16}\\)</p><p>= 5 cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "1cm",
+            "3cm",
+            "5cm",
+            "6cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2013,
+        "question": "If sin x = \\(\\frac{5}{13}\\) and 0<sup>o</sup>\\(\\leq\\) x \\(\\leq\\) 90<sup>o</sup>, find the value of (cos x - tan x)",
+        "explanation": "Sin x = \\(\\frac{5}{13}\\)<br><br>0<sup>o</sup>\\(\\leq\\) x \\(\\leq\\) 90<sup>o</sup>, (cos x - tan x)<br><br>AC<sup>2</sup>= AB<sup>2</sup>+ BC<sup>2</sup><br><br>13<sup>2</sup>= 5<sup>2</sup>+ BC<sup>2</sup><br><br>169 - 25 + BC<sup>2</sup><br><br>169 - 25 = BC<sup>2</sup><br><br>144 = BC<sup>2</sup><br><br>Cos x = \\(\\frac{Adj}{Hyp}\\) = \\(\\frac{12}{13}\\)<br><br>BC = \\(\\sqrt{144}\\)<br><br>BC = 12<br><br>tan x = \\(\\frac{opp}{adj} = \\frac{5}{12}\\)<br><br>BC = 12<br><br>cos x - tan x = \\(\\frac{12}{13} - \\frac{5}{12}\\)<br><br>\\(\\frac{144 - 65}{156} = \\frac{79}{156}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{7}{13}\\)",
+            "\\(\\frac{12}{13}\\)",
+            "\\(\\frac{79}{156}\\)",
+            "\\(\\frac{209}{156}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2013,
+        "question": "An object is 6m away from the base of a mast. The angle of depression of the object from the top pf the mast is 50<sup>o</sup>, Find, correct to 2 decimal places, the height of the mast",
+        "explanation": "Tan 50<sup>o</sup>= \\(\\frac{h}{6}\\)<br><br>h = 6 tan 50<br><br>= 6 x 1.1917<br><br>= 7.1505<br><br>= 7.15",
+        "correctIndex": 2,
+        "options": [
+            "8.60m",
+            "7.51m",
+            "7.15m",
+            "1.19m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2013,
+        "question": "The bearing of Y from X is 060<sup>o</sup>and the bearing of Z from Y = 060<sup>o</sup>. Find the bearing of X from Z",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "300<sup>o</sup>",
+            "240<sup>o</sup>",
+            "180<sup>o</sup>",
+            "120<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2013,
+        "question": "Which of the following is not a probability of Mary scoring 85% in a mathematics test?",
+        "explanation": "The probability not scoring 85% is = 1 - pro(scoring 85%)<br><br>= 1 - \\(\\frac{85}{100}\\) = 1 - 0.85<br><br>= 0.15<br><br>not scoring would be less than 1",
+        "correctIndex": 3,
+        "options": [
+            "0.15",
+            "0.57",
+            "0.94",
+            "1.01"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2013,
+        "question": "If 2 log x (3\\(\\frac{3}{8}\\)) = 6, find the value of x",
+        "explanation": "2 log x (3\\(\\frac{3}{8}\\)) = 6(divide both sides by 2)<br><br>\\(\\frac{2 log_x(3 \\frac{3}{8})}{2} = \\frac{6}{2}\\)<br><br>\\(\\log_x \\frac{27}{8} = 3\\)<br><br>\\(\\frac{27}{8} = x^3\\)<br><br>\\(x^3 = \\frac{27}{8}\\)<br><br>x = \\(\\sqrt{\\frac{27}{8}}\\)<br><br>= (\\(\\frac{27}{8}\\))<sup>\\(\\frac{1}{3}\\)</sup><br><br>= \\(\\frac{(3^3)^{\\frac{1}{3}}}{(2^3)^{\\frac{1}{3}}}\\)<br><br>= \\(\\frac{3}{2}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{4}{3}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2013,
+        "question": "If p = (y : 2y \\(\\geq\\) 6) and Q = (y : y -3 \\(\\geq\\) 4), where y is an integer, find p\\(\\cap\\)Q",
+        "explanation": "p = (y : 2y \\(\\geq\\) 6)<br><br>2y \\(\\leq\\) 6<br><br>y \\(\\leq \\frac{6}{2}\\)<br><br>y = \\(\\leq\\) 3<br><br>and Q = (y : y -3 \\(\\geq\\) 4)<br><br>y - 3 \\(\\geq\\) 4<br><br>y \\(\\geq\\) 4 + 3<br><br>y \\(\\geq\\) 7<br><br>therefore p = {3, 4, 5, 6, 7} and Q = {7, 6, 5, 4, 3....}<br><br>P\\(\\cap\\)Q = {3, 4, 5, 6, 7}",
+        "correctIndex": 2,
+        "options": [
+            "{3, 4}",
+            "{3, 7}",
+            "{3, 4, 5, 6, 7}",
+            "{4, 5, 6}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2013,
+        "question": "Find the values of k in the equation 6k<sup>2</sup>= 5k + 6",
+        "explanation": "6k<sup>2</sup>= 5k + 6<br><br>6k<sup>2</sup>- 5k - 6 = 0<br><br>6k<sup>2</sup>- 0k + 4k - 6 = 0<br><br>3k(2k - 3) + 2(2k - 3) = 0<br><br>(3k + 2)(2k - 3) = 0<br><br>3k + 2 = 0 or 2k - 3 = 0<br><br>3k = -2 or 2k = 3<br><br>k = \\(\\frac{-2}{3}\\) or k = \\(\\frac{3}{2}\\)<br><br>k = (\\(\\frac{-2}{3}\\), k = \\(\\frac{3}{2}\\))",
+        "correctIndex": 1,
+        "options": [
+            "{\\(\\frac{-2}{3}, \\frac{-3}{2}\\)}",
+            "{\\(\\frac{-2}{3}, \\frac{3}{2}\\)}",
+            "{\\(\\frac{2}{3}, \\frac{-3}{2}\\)}",
+            "{\\(\\frac{2}{3}, \\frac{3}{2}\\)}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2013,
+        "question": "If y varies directly s the square root of (x + 1) and y = 6 when x = 3, find x when y = 9",
+        "explanation": "y \\(\\alpha\\) \\sqrt{x + 1}\\), y = k\\sqrt{x + 1}\\)<br><br>6 = k\\(\\sqrt{3 + 1}\\)<br><br>6 = k\\(\\sqrt{4}\\)<br><br>6 = 2k<br><br>k = \\(\\frac{6}{2}\\) = 3<br><br>y = \\(\\sqrt{(x + 1)}\\)<br><br>9 = 3\\(\\sqrt{(x + 1)}\\)(divide both side by 3)<br><br>\\(\\frac{9}{3}\\) = \\(\\frac{3\\sqrt{x + 1}}{3}\\)<br><br>3 = \\(\\sqrt{x + 1}\\)(square both sides)<br><br>9 = x + 1<br><br>x = 9 - 1<br><br>x = 8",
+        "correctIndex": 0,
+        "options": [
+            "8",
+            "7",
+            "6",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2013,
+        "question": "The graph of the relation y = x2 + 2x + k passes through the point (2, 0). Find the values of k",
+        "explanation": "y = x<sup>2</sup>+ 2x + k at point(2,0) x = 2, y = 0<br><br>0 = (2)<sup>2</sup>+ 2(20 + k)<br><br>0 = 4 + 4 + k<br><br>0 = 8 + k<br><br>k = -8",
+        "correctIndex": 3,
+        "options": [
+            "zero",
+            "-2",
+            "-4",
+            "-8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2013,
+        "question": "What is the locus of the point X which moves relative to two fixed points P and M on a plane such that &lt; PXM = 30<sup>o</sup>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "thebisector of the straight line joining P and M",
+            "an arc of a circle with PM as a chord",
+            "the bisector of angle PXM",
+            "a circle centre X and radius PM"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2013,
+        "question": "When a number is subtracted from 2, the result equals 2 less than one-fifth of the number. Find the number",
+        "explanation": "Let the number be y, subtract y from 2 i.e 2 - y<br><br>2 - y = 4 &lt; \\(\\frac{1}{5}\\) x y, 2 - y = 4 &lt; \\(\\frac{y}{5}\\)<br><br>2 - y - 4 &lt; \\(\\frac{y}{5}\\)<br><br>2 - 4 - y \\(\\frac{x}{5} - 4\\), multiplying through by 5<br><br>5(2 - x) = 5(\\(\\frac{x}{5}\\)) - 5(4)<br><br>10 - 5x = x - 20<br><br>-5x - x = -20 - 10<br><br>-6x = -30<br><br>x = \\(\\frac{-30}{-6}\\)<br><br>= 5",
+        "correctIndex": 2,
+        "options": [
+            "11",
+            "\\(\\frac{15}{2}\\)",
+            "5",
+            "\\(\\frac{5}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2013,
+        "question": "Express \\(\\frac{2}{x + 3} - \\frac{1}{x - 2}\\) as a simple fraction",
+        "explanation": "\\(\\frac{2}{x + 3} - \\frac{1}{x - 2}\\) = \\(\\frac{2(x - 2) - (x - 3)}{(x + 3) (x - 2)}\\)<br><br>= \\(\\frac{2x - 4 - x - 3}{x^2 - 2x + 3x - 6}\\)<br><br>= \\(\\frac{x -7}{x^2 + x - 6}\\)<br><br>= \\(\\frac{x - 7}{x^2 + x - 6}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{x - 7}{x^2 + x - 6}\\)",
+            "\\(\\frac{x - 1}{x^2 + x - 6}\\)",
+            "\\(\\frac{x - 2}{x^2 + x - 6}\\)",
+            "\\(\\frac{x - 27}{x^2 + x - 6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2013,
+        "question": "An interior angle of a regular polygon is 5 times each exterior angle. How many sides has the polygon?",
+        "explanation": "Let the interior angle = x<sup>o</sup><br><br>interior angle = 5x<sup>o</sup>(sum of int. angle ann exterior)<br><br>(angles = angle or straight line)<br><br>6x = 180<br><br>x = \\(\\frac{180}{6}\\)<br><br>x = 30<sup>o</sup><br><br>no. of sides = \\(\\frac{\\text{sum of exterior angles}}{\\text{exterior angle}}\\)<br><br>= \\(\\frac{360}{30}\\) = 12",
+        "correctIndex": 1,
+        "options": [
+            "15",
+            "12",
+            "9",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2013,
+        "question": "Given that P = x<sup>2</sup>+ 4x - 2, Q = 2x - 1 and Q - p = 2, find x",
+        "explanation": "P = x<sup>2</sup>+ 4x - 2, Q = 2x - 1<br><br>Q - p = 2, (2x - 1) - (x<sup>2</sup>+ 4x - 2) = 2<br><br>2x - 1 - x<sup>2</sup>- 4x + 2 = 2<br><br>-2x - x<sup>2</sup>+ 1<br><br>-x<sup>2</sup>- 2x - 1 = 0<br><br>x<sup>2</sup>+ 2x + 1 = 0<br><br>x<sup>2</sup>+ x + x + 1 = 0<br><br>x(x + 1) + 1(x + 1) = 0<br><br>(x + 1)(x + 1) = 0<br><br>x + 1 = 0 or x + 1 = 0<br><br>x = -1 or x = -1<br><br>x = -1",
+        "correctIndex": 1,
+        "options": [
+            "-2",
+            "-1",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2013,
+        "question": "A pyramid has a rectangular base with dimensions 12m by 8m. If its height is 14m, calculate the volume",
+        "explanation": "Volume of pyramid = \\(\\frac{1}{3}\\) x base area x height<br><br>= \\(\\frac{1}{3} \\times 12^4 \\times 8 \\times 14\\)<br><br>= 4 x 8 x 14 = 448m<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "322m<sup>3</sup>",
+            "448m<sup>3</sup>",
+            "632m<sup>2</sup>",
+            "840m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2013,
+        "question": "The slant height of a cone is 5cm and the radius of its base is 3cm. Find, correct to the nearest whole number, the volume of the cone. ( Take \\(\\pi = \\frac{22}{7}\\))",
+        "explanation": "Volume of a cone = \\(\\frac{1}{3} \\pi r^2h\\)<br><br>h<sup>2</sup>= 5<sup>2</sup>= 3<sup>2</sup><br><br>= 25 - 9 = 16<br><br>h = \\(\\sqrt{16}\\)<br><br>h = 4cm<br><br>v = \\(\\frac{1}{3} \\times \\frac{22}{7} \\times 3^2 \\times 4\\)<br><br>\\(\\frac{1}{3} \\times \\frac{22}{7} \\times 9 \\times 4\\)<br><br>= \\(\\frac{22 \\times 3 \\times 4}{7}\\)<br><br>= 37.7cm<sup>3</sup><br><br>= 38cm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "48cm<sup>3</sup>",
+            "47cm<sup>3</sup>",
+            "38cm<sup>3</sup>",
+            "12cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2013,
+        "question": "The distance between two towns is 50km. It is represented on a map by 5cm. Find the scale used",
+        "explanation": "1km = 100,000cm<br><br>on the map 1 cm represent every 10 km which is equal to (10 x 100,000cm)<br><br>= 1,000,000cm<br><br>the scale is 1:1,000,000",
+        "correctIndex": 0,
+        "options": [
+            "1: 1,000,000",
+            "1: 500,000",
+            "1: 100,000",
+            "1: 10,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2013,
+        "question": "Given that (x + 2)(x<sup>2</sup>- 3x + 2) + 2(x + 2)(x - 1) = (x + 2) M, find M",
+        "explanation": "(x = 2)(x<sup>2</sup>- 3x + 2) + 2(x + 2)(x - 1) = (x + 2)m<br><br>(m + 2)[(x<sup>2</sup>- 3x + 2) + 2(x - 1)] = (x + 2)M<br><br>divide both side by (x + 2)<br><br>(x<sup>2</sup>- 3x + 2) + 2(x - 1) = M<br><br>x<sup>2</sup>- 3x + 2 + 2x - 2 = M<br><br>x<sup>2</sup>- 3x + 2 + 2x - 2 = M<br><br>x<sup>2</sup>- 3x + 2x = M<br><br>x<sup>2</sup>- x = M<br><br>M = x<sup>2</sup>- x",
+        "correctIndex": 3,
+        "options": [
+            "(x + 2)<sup>2</sup>",
+            "x(x + 2)",
+            "xv + 2",
+            "x<sup>2</sup>- x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2013,
+        "question": "An open cone with base radius 28cm and perpendicular height 96cm was stretched to form sector of a circle. calculate the arc of the sector (Take \\(\\pi = \\frac{22}{7}\\))",
+        "explanation": "L<sup>2</sup>= 96<sup>2</sup>+ 28<sup>2</sup><br><br>= 9216 + 784<br><br>= 10000<br><br>L = \\(\\sqrt{10000}\\)<br><br>= 100cm<br><br>curved surface area = \\(\\pi r l\\)<br><br>= \\(\\frac{22}{7} \\times 28 \\times 100\\)<br><br>= 8800cm<sup>2</sup><br><br>area of cone = area of sector<br><br>area of sector = 8800cm<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "8800cm<sup>2</sup>",
+            "8448cm<sup>2</sup>",
+            "4400cm<sup>2</sup>",
+            "4224cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20100554110_15.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "112cm",
+            "98cm",
+            "86cm",
+            "84cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24407817626_16.jpg\" class=\"img-fluid\">",
+        "explanation": "by Pythagoras x<sup>2</sup>= 6<sup>2</sup>+ 8<sup>2</sup><br><br>36 + 64 = 100<br><br>x = \\(\\sqrt{100}\\)<br><br>x = 10",
+        "correctIndex": 1,
+        "options": [
+            "7K units",
+            "10K units",
+            "12K units",
+            "14k units"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25843571964_20.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\bigtriangleup\\) ZYX = \\(\\bigtriangleup\\) OMN",
+            "\\(\\bigtriangleup\\) YZX = \\(\\bigtriangleup\\) NOM",
+            "\\(\\bigtriangleup\\) ZXY= \\(\\bigtriangleup\\) MON",
+            "\\(\\bigtriangleup\\) XYZ= \\(\\bigtriangleup\\) NOM"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22972064704_21.jpg\" class=\"img-fluid\">",
+        "explanation": "The diagonals of rhombus bisects its angles",
+        "correctIndex": 3,
+        "options": [
+            "65<sup>o</sup>",
+            "55<sup>o</sup>",
+            "45<sup>o</sup>",
+            "35<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11486034768_22.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\bigtriangleup\\) ABC, A + 153 = 180 (angles on straight line)<br><br>&lt; A = 180 - 153 = 27<br><br>&lt; B = 2m(vertically opposite angles)<br><br>&lt; C = 7m (corresponding ngles)<br><br>&lt; A + &lt; B + &lt; C = 180 (sum of int. angles of \\(\\bigtriangleup\\))<br><br>i.e. 27 + 2m + 7m = 180<sup>o</sup><br><br>9m = 180 - 27<br><br>9m = 153<br><br>m = \\(\\frac{153}{9}\\)<br><br>= 17",
+        "correctIndex": 3,
+        "options": [
+            "34<sup>o</sup>",
+            "27<sup>o</sup>",
+            "23<sup>o</sup>",
+            "17<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27279355716_23.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "50<sup>o</sup>",
+            "55<sup>o</sup>",
+            "60<sup>o</sup>",
+            "65<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/rhEqjiIRrsKZoTvaBTMOfE5wqKcbGoy7FUhgynzn.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "51.5",
+            "52.5",
+            "53.5",
+            "54.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18664822956_28.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "60.5 - 70.5",
+            "50.5 - 60.5",
+            "40.5 - 50.5",
+            "30.5 - 40.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8614534836_35.jpg\" class=\"img-fluid\">",
+        "explanation": "Arts = 90<sup>o</sup>business = 75<sup>o</sup>, science = 45<sup>o</sup><br><br>Technical 360<sup>o</sup>- (90<sup>o</sup>- 75<sup>o</sup>+ 45<sup>o</sup>) = 360<sup>o</sup>- 210<sup>o</sup><br><br>Technical = 150<sup>o</sup><br><br>textbooks for technical class = \\(\\frac{150^o}{360^o}\\) x 600<br><br>= 250",
+        "correctIndex": 3,
+        "options": [
+            "100",
+            "150",
+            "200",
+            "250"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10050291412_35.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{45^o}{360}\\) x 100%<br><br>= 12\\(\\frac{1}{2}\\)%",
+        "correctIndex": 0,
+        "options": [
+            "12\\(\\frac{1}{2}\\)%",
+            "\\(\\frac{205}{6}\\)%",
+            "25%",
+            "\\(\\frac{412}{3}\\)%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18664831679_37.jpg\" class=\"img-fluid\">",
+        "explanation": "PQRST is a regular polygon with 5 sides-pentagon n = 5, Each exterior angle = \\(\\frac{360^o}{n}\\)<br><br>= \\(\\frac{350}{5}\\) = 70<sup>o</sup><br><br>Each interior angle = 180 - 72<sup>o</sup><br><br>(&lt; s on str. line) = 180<sup>o</sup><br><br>Since the pentagon is regular, the exterior angles are equal &lt; R = 72<sup>o</sup>and &lt; S = 72<sup>o</sup><br><br>&lt; RVS = 180<sup>o</sup>- (&lt; R + &lt; S)<br><br>= 180<sup>o</sup>- (72<sup>o</sup>+ 72<sup>o</sup>)<br><br>= 180<sup>o</sup>- 144<sup>o</sup><br><br>= 36<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "36<sup>o</sup>",
+            "54<sup>o</sup>",
+            "60<sup>o</sup>",
+            "72<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24408005765_39.jpg\" class=\"img-fluid\">",
+        "explanation": "Sum of angles on straight line = 180<sup>o</sup><br><br>80<sup>o</sup>+ 50<sup>o</sup>+ x + 10<sup>o</sup>= 180<sup>o</sup><br><br>140<sup>o</sup>+ x = 180<sup>o</sup><br><br>x = 180<sup>o</sup>- 140<sup>o</sup><br><br>x = 40<sup>o</sup><br><br>total sum of all angles = 360<sup>o</sup><br><br>2y<sup>o</sup>+ 2x<sup>o</sup>+ 80<sup>o</sup>+ 50<sup>o</sup>+ x + 10<sup>o</sup>= 360<sup>o</sup><br><br>2y<sup>o</sup>+ 2(40)<sup>o</sup>+ 80<sup>o</sup>+ 50<sup>o</sup>+ 40 + 10 = 360<sup>o</sup><br><br>2y<sup>o</sup>+ 80 + 180<sup>o</sup>= 360<sup>o</sup><br><br>2y<sup>o</sup>+ 260<sup>o</sup>= 360<sup>o</sup><br><br>2y<sup>o</sup>= 360<sup>o</sup>- 260<sup>o</sup><br><br>2y<sup>o</sup>= 100<sup>o</sup><br><br>angle 2y<sup>o</sup>= 100<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "130<sup>o</sup>",
+            "120<sup>o</sup>",
+            "110<sup>o</sup>",
+            "100<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25843772484_43.jpg\" class=\"img-fluid\">",
+        "explanation": "R +198 = 360(angles at a point)<br><br>R = 360 - 198 = 162<sup>o</sup><br><br>C = 72(alternate angle), b + c = 180(angles or straight line)<br><br>b = 190 - c = 180 - 72 = 108<br><br>a + b = R = 162<br><br>a = R - b = 162 - 108<br><br>= 54, but a = y(alternate angles)<br><br>y = 54<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "18<sup>o</sup>",
+            "54<sup>o</sup>",
+            "87<sup>o</sup>",
+            "92<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22972245648_44.jpg\" class=\"img-fluid\">",
+        "explanation": "(x \\(\\cap\\) y<sup>2</sup>) = [a, b]<br><br>n(x \\(\\cap\\) y<sup>2</sup>) = 2",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,786 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2011,
+        "question": "If N112.00 exchanges for D14.95, calculate the value of D1.00 in naira",
+        "explanation": "D14.95 = N112.00<br><br>D1.00 = \\(\\frac{N112}{D14.95} \\times\\) D1.00<br><br>= 7.49",
+        "correctIndex": 1,
+        "options": [
+            "0.13",
+            "7.49",
+            "8.00",
+            "13.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2011,
+        "question": "Solve for x in the equation; \\(\\frac{3}{5}\\)(2x - 1) = \\(\\frac{1}{4}\\)(5x - 3)",
+        "explanation": "\\(\\frac{3}{5}\\)(2x - 1) = \\(\\frac{1}{4}\\)(5x - 3)<br><br>\\(\\frac{6x}{5} - \\frac{3}{5} = \\frac{5x}{4} - \\frac{3}{4}\\)<br><br>\\(\\frac{6x}{5} - \\frac{5x}{4} = \\frac{3}{5} - \\frac{3}{4}\\)<br><br>\\(\\frac{24x - 25x}{20} = \\frac{12 - 15}{20}\\)<br><br>\\(\\frac{-x}{20} = \\frac{-3}{20}\\)<br><br>-20x = -60<br><br>x = \\(\\frac{-60}{-20}\\)<br><br>x = 3",
+        "correctIndex": 3,
+        "options": [
+            "zero",
+            "1",
+            "2",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2011,
+        "question": "Given that cos x<sup>o</sup>= \\(\\frac{1}{r}\\), express tan x<sup></sup>in terms of r",
+        "explanation": "cos x<sup>o</sup>= \\(\\frac{1}{r}\\); \\(\\sqrt{r^2 - 1}\\)<br><br>By Pythagoras r<sup>2</sup>= 1<sup>2</sup>+ x<sup>2</sup>- 1<br><br>x = \\(\\sqrt{r^2 - 1}\\)<br><br>tan x<sup>o</sup>= \\(\\sqrt{r^2 - 1}\\)<br><br>= \\(\\sqrt{r^2 - 1}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{\\sqrt{r}}\\)",
+            "\\(\\sqrt{r}\\)",
+            "\\(\\sqrt{r^2 + 1}\\)",
+            "\\(\\sqrt{r^2 - 1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2011,
+        "question": "Solve the equation; 3x - 2y = 7, x + 2y = -3",
+        "explanation": "3x - 2y = 7; Solve by elimination method<br><br>x + 2y = -3<br><br>3x - 2y = 7.....(i)<br><br>-3x + 6y = -9.....(ii)<br><br>-8y = 16<br><br>y = \\(\\frac{16}{-8} = -2\\)<br><br>Put y = -2 into equation (i); 3x - 2y = 7<br><br>3x - 2(-2) = 7<br><br>3x + 4 = 7<br><br>3x = 7 - 4<br><br>3x = 3<br><br>x = \\(\\frac{3}{3}\\) = 1",
+        "correctIndex": 0,
+        "options": [
+            "x = 1, y = -2",
+            "x = 1, y = 3",
+            "x = -2, y = -1",
+            "x = 4, y = -3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2011,
+        "question": "<p>If a number is chosen at random from the set {x: 4 \\(\\leq x \\leq 15\\)}. Find the probability that it is a multiple of 3 or a multiple of 4</p>",
+        "explanation": "<p>set = 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15<br>\n<br>\nmultiple of 3 = 6, 9, 12, 15<br>\n<br>\nmultiple of 4 = 4, 8, 12<br>\n<br>\nProb(multiple of 3 or 4) = Prob(multiple of 3) + pro(multiple of 4)<br>\n<br>\n= \\(\\frac{4}{12} + \\frac{3}{12} = \\frac{7}{12}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{12}\\)",
+            "\\(\\frac{5}{12}\\)",
+            "\\(\\frac{7}{12}\\)",
+            "\\(\\frac{11}{12}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2011,
+        "question": "One of the factors of (mn - nq - n2 + mq) is (m - n). The other factor is",
+        "explanation": "mn - nq - n<sup>2</sup>+ mq<br><br>mn - n<sup>2</sup>- nq + mq<br><br>(mn - n<sup></sup>) - (nq - mq)<br><br>n(m - n) - q(n - m)<br><br>= n - q",
+        "correctIndex": 0,
+        "options": [
+            "(n - q)",
+            "(q - n)",
+            "(n + q)",
+            "(q - m)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2011,
+        "question": "A cylindrical container has a base radius of 14cm and height 18cm. How many litres of liquid can it hold? correct to the nearest litre [Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "Volume of cylinder = \\(\\pi r^2 h\\)<br><br>= \\(\\frac{22}{7} \\times 14^2\\) x 14 x 18 = 22 x 28 x 18<br><br>= 11088cm<sup>3</sup><br><br>1000cm<sup>3</sup>= \\(\\frac{1}{1000}\\) x 11088cm<sup>3</sup><br><br>= 11.088<br><br>= 11",
+        "correctIndex": 0,
+        "options": [
+            "11",
+            "14",
+            "16",
+            "18"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2011,
+        "question": "A regular polygon of n sides has each exterior angle to 45<sup>o</sup>. Find the value of n",
+        "explanation": "Each interior angle = \\(\\frac{360^o}{n}\\)<br><br>45<sup>o</sup>= \\(\\frac{360^o}{n}\\)<br><br>45<sup>o</sup>n = 360<sup>o</sup><br><br>n = \\(\\frac{360^o}{45}\\)<br><br>= 8",
+        "correctIndex": 1,
+        "options": [
+            "6",
+            "8",
+            "12",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2011,
+        "question": "<p>Esther was facing S 20° W. She turned 90° in the clock wise direction. What direction is she facing?</p>",
+        "explanation": "<p>The bearing S 20° W is equivalent to a bearing of 200°.</p><p>Moving clockwise 90° ⇒ 200° + 90°</p><p>= 290°</p><p>This is equivalent to N 70° W.</p>",
+        "correctIndex": 0,
+        "options": [
+            "N 70<sup>o</sup>W",
+            "S 70<sup>o</sup>W",
+            "N 20<sup>o</sup>W",
+            "S 20<sup>o</sup>E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2011,
+        "question": "The cross section section of a uniform prism is a right-angled triangle with sides 3cm. 4cm and 5cm. If its length is 10cm. Calculate the total surface area",
+        "explanation": "A prism has 3 rectangular faces and 2 triangular faces and 2 rectangular faces = 10(3 + 4 + 5) = 120<br><br>Area of triangular faces = \\(\\sqrt{s(s - a) (s - b) (s - c)}\\)<br><br>where s = \\(\\frac{a + b + c}{2}\\)<br><br>= \\(\\frac{3 + 4 + 5}{2}\\)<br><br>= \\(\\frac{12}{2}\\)<br><br>= 6<br><br>Area of \\(\\bigtriangleup\\) = \\(\\sqrt{6(6 - 30(6 - 4)(6 - 5)}\\)<br><br>= \\(\\sqrt{6 \\times 3 \\times 2 \\times 1}\\) = 6<br><br>Area of triangle faces = 2 x 6 = 12cm<sup>2</sup><br><br>Total surface area = Area of rectangular face + Area of \\(\\bigtriangleup\\) = 120 + 12<br><br>= 132cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "142cm<sup>2</sup>",
+            "132cm<sup>2</sup>",
+            "122cm<sup>2</sup>",
+            "112cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2011,
+        "question": "From the equation whose roots are x = \\(\\frac{1}{2}\\) and -\\(\\frac{2}{3}\\)",
+        "explanation": "x = \\(\\frac{1}{2}\\) and x = \\(\\frac{-2}{3}\\)<br><br>expand (x - \\(\\frac{1}{2}\\))(x + \\(\\frac{2}{3}\\)) = 0<br><br>x(x + \\(\\frac{2}{3}\\)) - \\(\\frac{1}{2}(x + \\frac{2}{3}\\)) = 0<br><br>x<sup>2</sup>+ \\(\\frac{4x - 3x}{6} - \\frac{2}{6} = 0\\)<br><br>\\(x^2 + \\frac{x}{6} - 2 = 0\\)<br><br>6x<sup>2</sup>+ x - 2 = 0",
+        "correctIndex": 3,
+        "options": [
+            "6x<sup>2</sup>- x + 2 = 0",
+            "6x<sup>2</sup>- x - 2 = 0",
+            "6x<sup>2</sup>+ x + 2 = 0",
+            "6x<sup>2</sup>+ x - 2 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2011,
+        "question": "Simplify \\(\\frac{\\log \\sqrt{27}}{\\log \\sqrt{81}}\\)",
+        "explanation": "\\(\\frac{\\log \\sqrt{27}}{\\log \\sqrt{81}}\\) = \\(\\frac{\\log 27\\frac{1}{2}}{81\\frac{1}{2}}\\)<br><br>= \\(\\frac{\\log 3\\frac{1}{2}}{\\log 3^2}\\)<br><br>\\(\\frac{\\frac{3}{2} \\log 3}{2 \\log 3} = \\frac{3}{2} \\div \\frac{2}{1}\\)<br><br>= \\(\\frac{3}{2} \\times \\frac{1}{2}\\)<br><br>= \\(\\frac{3}{4}\\)",
+        "correctIndex": 3,
+        "options": [
+            "3",
+            "2",
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{3}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2011,
+        "question": "Which of these angles can be constructed using ruler and a pair of compasses only?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "115<sup>o</sup>",
+            "125<sup>o</sup>",
+            "135<sup>o</sup>",
+            "145<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2011,
+        "question": "The perimeter of a sector of a circle of radius 4cm is (\\(\\pi + 8\\))cm. Calculate the anle of the sector",
+        "explanation": "Perimeter of sector = 2r + \\(\\frac{\\theta}{360^o} \\times 2\\pi r\\)<br><br>\\(\\pi + 8 = 2 \\times 4 + \\frac{\\theta}{3360^o} \\times 2 \\pi \\times 4\\)<br><br>\\(\\pi + 8 + \\frac{\\theta}{360^o} \\times 8 \\pi\\)<br><br>P + 8 - 8 = \\(\\frac{\\theta \\pi}{456o}\\)<br><br>\\(\\pi = \\frac{\\theta \\pi}{45^o}\\)<br><br>\\(\\theta \\pi = 45^o\\)",
+        "correctIndex": 0,
+        "options": [
+            "45<sup>o</sup>",
+            "60<sup>o</sup>",
+            "75<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2011,
+        "question": "The length of a piece of stick is 1.75m. A girl measured it as 1.80m. Find the percentage error",
+        "explanation": "Error = 1.80m - 1.75m = 0.05m<br><br>%error = \\(\\frac{\\text{error}}{\\text{true measurement}}\\) x 100%",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{28}{7}\\)%",
+            "\\(\\frac{29}{7}\\)%",
+            "5%",
+            "\\(\\frac{20}{7}\\)%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2011,
+        "question": "<p>What is the value of 3 in the number 42.7531?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{3}{10000}\\)",
+            "\\(\\frac{3}{1000}\\)",
+            "\\(\\frac{3}{100}\\)",
+            "\\(\\frac{1}{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2011,
+        "question": "<p>The height of a cylinder is equal to its radius. If the volume is 0.216 \\(\\pi\\) m\\(^3\\). Calculate the radius.</p>",
+        "explanation": "<p>volume of cylinder = \\(\\pi r^2\\)h<br>\n<br>\n0.216\\(\\pi\\) m\\(^3\\) = \\(\\pi \\times r^2 \\times h\\)<br>\n<br>\nSince r = h,<br>\n<br>\n0.216 = r\\(^3\\)<br>\n<br>\nr\\(^3\\) = 0.216<br>\n<br>\nr = \\(\\sqrt[3]{0.216}\\)<br>\n<br>\n= 0.6</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.46m",
+            "0.60m",
+            "0.87m",
+            "1.80m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2011,
+        "question": "The height of a cylinder is equal to its radius. If the volume is 0.216 \\(\\pi m^3\\) Calculate the radius.",
+        "explanation": "volume of cylinder = \\(\\pi r^2\\)h<br><br>0.216\\(\\pi m^3 = \\pi \\times r^2 \\times 1m\\)<br><br>assumed that h = 1m<br><br>0.216 = r<sup>2</sup><br><br>r<sup>2</sup>= 0.216<br><br>r = \\(\\sqrt{0.216}\\)<br><br>= 0.46",
+        "correctIndex": 0,
+        "options": [
+            "0.46m",
+            "0.60m",
+            "0.87m",
+            "1.80m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2011,
+        "question": "What is the value of 3 in the number 42.7531?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{3}{10000}\\)",
+            "\\(\\frac{3}{1000}\\)",
+            "\\(\\frac{3}{100}\\)",
+            "\\(\\frac{1}{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2011,
+        "question": "Factorize the expression: am + bn - an - bm",
+        "explanation": "am + bn - an - bm<br><br>am - an - bm + bn<br><br>a(m - n) - b(m - n)<br><br>(a - b)(m - n)",
+        "correctIndex": 1,
+        "options": [
+            "(a - b)(m + n)",
+            "(a - b)(m - n)",
+            "(a + b)(m - n)",
+            "(a + b)(m + n)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27269381723_29.jpg\" class=\"img-fluid\">",
+        "explanation": "x<sup>2</sup>- 3x = 7<br><br>x<sup>2</sup>- 3x - 7 = 0<br><br>What can you add to both sides of the equation to give the same value of y = x<sup>2</sup>- 3x - 3<br><br>The number is 4<br><br>x<sup>2</sup>- 3x - 7 + 4 = 4<br><br>x<sup>2</sup>- 3x - 3 = 4<br><br>but y = x<sup>2</sup>- 3x - 3<br><br>y = 4; So are y = 4 draw a line parallel to x axis, to cut or intersect the graph. At these points look down to see the corresponding values on x axis<br><br>This give -1.55 and 4.55",
+        "correctIndex": 0,
+        "options": [
+            "-1.55, 4.44",
+            "1.55, -4.55",
+            "-1.55, -4.55",
+            "1.55, 4.55"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2011,
+        "question": "Simplify \\(\\frac{m}{n} + \\frac{(m - 1)}{5n} = \\frac{(m - 2)}{10n}\\) where n \\(\\neq\\) 0",
+        "explanation": "\\(\\frac{m}{n} + \\frac{(m - 1)}{5n} - \\frac{(m - 2)}{10n}\\); \\(\\frac{10m + 2(m - 1) - 1(m - 2)}{10m}\\)<br><br>= \\(\\frac{10m + 2m - 2 - m + 2}{10n}\\)<br><br>= \\(\\frac{10m + 2m - m - 2 + 2}{10n}\\)<br><br>= \\(\\frac{11m}{10n}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{m - 3}{10n}\\)",
+            "\\(\\frac{11m}{10n}\\)",
+            "\\(\\frac{m + 1}{10n}\\)",
+            "\\(\\frac{11m + 4}{10n}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2011,
+        "question": "If \\(\\sqrt{72} + \\sqrt{32} - 3 \\sqrt{18} = x \\sqrt{8}\\), Find the value of x",
+        "explanation": "\\(\\sqrt{2} + \\sqrt{32} - 3\\sqrt{18} = x\\sqrt{8}\\)<br><br>= \\(\\sqrt{36 \\times 2} + \\sqrt{16 \\times 2} - 3\\sqrt{2 \\times 9}\\)<br><br>= x\\(\\sqrt{2 \\times 4}\\)<br><br>= 6\\(\\sqrt{2} + 4\\sqrt{2} - 9\\sqrt{2} = 2 \\times \\sqrt{2}\\)<br><br>\\(\\sqrt{2} (6 + 4 - 9) = 2x\\sqrt{2}\\)<br><br>\\(\\sqrt{2} = 2x \\sqrt{2}\\) divide both sides by \\(\\sqrt{2}\\)<br><br>\\(\\frac{\\sqrt{2}}{\\sqrt{2}} = \\frac{2 \\times \\sqrt{2}}{\\sqrt{2}}\\)<br><br>1 = 2x<br><br>2x = 1<br><br>x = \\(\\frac{1}{2}\\)",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2011,
+        "question": "G varies directly as the square of H, If G is 4 when H is 3, find H when G = 100",
+        "explanation": "G \\(\\alpha\\) H<sup>2</sup><br><br>G = KH<sup>2</sup><br><br>4 = K(3)<sup>2</sup><br><br>4 = 9k; K = \\(\\frac{4}{9}\\)<br><br>100 = \\(\\frac{4}{9}H^2\\)<br><br>4H<sup>2</sup>= 900<br><br>H<sup>2</sup>= \\(\\frac{900}{4}\\)<br><br>H<sup>2</sup>= 225<br><br>H = \\(\\sqrt{225}\\)<br><br>H = 15",
+        "correctIndex": 0,
+        "options": [
+            "15",
+            "25",
+            "75",
+            "225"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2011,
+        "question": "Given that n(p) = 19, m(P \\(\\cup\\) Q) = 38 and n(P \\(\\cap\\) Q) = 7, Find n(C)",
+        "explanation": "n(P \\(\\cup\\) Q) = m(P \\(\\cap\\) C)<br><br>38 = 19 = n(C) - 7<br><br>n(C) = 38 - 12<br><br>= 26",
+        "correctIndex": 0,
+        "options": [
+            "26",
+            "31",
+            "36",
+            "50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2011,
+        "question": "<p>What must be added to (2x - 3y) to get (x - 2y)?</p>",
+        "explanation": "<p>What must be added to 2x - 3y = Difference between x - 2y and 2x - 3y<br>\n<br>\nx - 2y - 2y - (2x - 3y); x - 2y - 2x + 3y<br>\n<br>\n= x - 2x + 3y - 2y<br>\n<br>\n= y - x</p>",
+        "correctIndex": 1,
+        "options": [
+            "5y - x",
+            "y - x",
+            "x - 5x",
+            "x - y"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2011,
+        "question": "Simplify 1\\(\\frac{3}{4} - (2 \\frac{1}{3} + 4)\\)",
+        "explanation": "1\\(\\frac{3}{4} - (2 \\frac{1}{3} + 4)\\) = \\(\\frac{7}{4} - (\\frac{7}{3} + \\frac{4}{1})\\); \\(\\frac{7 + 12}{3}\\)<br><br>\\(\\frac{7}{4} - \\frac{19}{3} = \\frac{21 + 76}{12}\\)<br><br><br>= \\(\\frac{-55}{12} = -4 \\frac{7}{12}\\)",
+        "correctIndex": 2,
+        "options": [
+            "3\\(\\frac{5}{12}\\)",
+            "2\\(\\frac{7}{12}\\)",
+            "-4 \\(\\frac{7}{12}\\)",
+            "-5 \\(\\frac{7}{12}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2011,
+        "question": "Find the smaller value of x that satisfies the equation x<sub>2</sub>+ 7x + 10 = 0",
+        "explanation": "x<sup>2</sup>+ 7x + 10 = 0<br><br>x<sup>2</sup>+ 5x + 2x + 10 = 0<br><br>x(x + 5) + 2(x + 5) = 0<br><br>(x + 2)(x + 5) = 0<br><br>x + 2 = 0 or x + 5 = 0<br><br>x = -2 or x = -5<br><br>the smaller value x = -5",
+        "correctIndex": 0,
+        "options": [
+            "-5",
+            "-2",
+            "2",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2011,
+        "question": "The perpendicular bisectors of the sides of an acute-angled triangle are drawn. Which of these statements is correct? They intersect",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "on one of the vertices",
+            "at a midpoint of a side",
+            "inside the triangle",
+            "outside the triangle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2011,
+        "question": "A rectangular garden measures 18.6m by 12.5m. Calculate, correct to three significant figures, the area of the garden",
+        "explanation": "A = L x B<br><br>= (18.6 x 12.5)m<sup>2</sup><br><br>= 232.5m<sup>2</sup><br><br>= 233m<sup>2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "230m<sup>2</sup>",
+            "231m<sup>2</sup>",
+            "232m<sup>2</sup>",
+            "233m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2011,
+        "question": "John pours 96 litres of red oil into a rectangular container with length 220cm and breadth 40cm. Calculate, correct to the nearest cm, the height of the oil in the container",
+        "explanation": "volume of rectangular container = L x B x H<br><br>1 litre = 1000cm<sup>3</sup><br><br>96 litres = \\(\\frac{1000cm^3}{1 litres}\\) x 96 litres<br><br>volume = 96000cm<sup>3</sup><br><br>96000 = 220 x 40 x 11<br><br>96--- = 8800H<br><br>H = \\(\\frac{96000}{8800}\\)<br><br>= 10.97cm<br><br>= 11cm",
+        "correctIndex": 0,
+        "options": [
+            "11cm",
+            "18cm",
+            "21cm",
+            "34cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2011,
+        "question": "John pours 96 litres of red oil into a rectangular container with length 220cm and breadth 40cm. Calculate, correct to the nearest cm, the height of the oil in the container",
+        "explanation": "volume of rectangular container = L x B x H<br><br>1 litre = 1000cm<sup>3</sup><br><br>96 litres = \\(\\frac{1000cm^3}{1 litres}\\) x 96 litres<br><br>volume = 96000cm<sup>3</sup><br><br>96000 = 220 x 40 x 11<br><br>96--- = 8800H<br><br>H = \\(\\frac{96000}{8800}\\)<br><br>= 10.97cm<br><br>= 11cm",
+        "correctIndex": 0,
+        "options": [
+            "11cm",
+            "18cm",
+            "21cm",
+            "34cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2011,
+        "question": "in a quiz competition, a student answers n questions correctly and was given D(n + 50) for each question correctly answered. If he gets D600.00 altogether, how many questions did he answer correctly?",
+        "explanation": "let the number of question = n<br><br>n(n + 50) = 600<br><br>n<sup>2</sup>+ 50n - 600 - 0 by quadratic formular<br><br>x = \\(\\frac{b \\pm \\sqrt{b^2 - 4ac}}{2}\\)<br><br>n = \\(\\frac{-50 \\pm \\sqrt{50^2 - 4(1) (-600)}}{2(1)}\\)<br><br>= \\(\\frac{-50 \\pm \\sqrt{4900}}{2}\\)<br><br>= \\(\\frac{-50 + 70}{2}\\)<br><br>= \\(\\frac{20}{2}\\)<br><br>= 10",
+        "correctIndex": 3,
+        "options": [
+            "18",
+            "15",
+            "12",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2011,
+        "question": "If 27<sup>x</sup>= 9<sup>y</sup>. Find the value of \\(\\frac{x}{y}\\)",
+        "explanation": "27<sup>x</sup>= 9<sup>y</sup><br><br>3<sup>3x</sup>= 3<sup>2y</sup><br><br>3x = 2y",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "1\\(\\frac{1}{2}\\)",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2011,
+        "question": "a boy looks through a window of a building and sees a mango fruit on the ground 50m away from the foot of the building. If the window is 9m from the ground, calculate, correct to the nearest degree, the angle of depression of the mango from the window",
+        "explanation": "tan \\(\\theta\\) = \\(\\frac{9}{50}\\) = 0.18<br><br>\\(\\theta = tan^{-1} 0.18\\)<br><br>\\(\\theta\\) = 10.20",
+        "correctIndex": 1,
+        "options": [
+            "9<sup>o</sup>",
+            "10<sup>o</sup>",
+            "11<sup>o</sup>",
+            "12<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2870457032_4.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\bigtriangleup\\) PQK",
+            "\\(\\bigtriangleup\\) PKS",
+            "\\(\\bigtriangleup\\) SKR",
+            "\\(\\bigtriangleup\\) PSR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1435229200_5.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; Q = \\(\\frac{240}{2}\\) (angle at centre twice that at the circumference)<br><br>&lt; Q = 120<sup>o</sup><br><br>Also &lt; POR = 360 - 240<br><br>= 120<sup>o</sup><br><br>( &lt; s at centre) since /PQ/ = /QR/, &lt; x = &lt; R<br><br>Byt &lt; x + &lt; R + O + Q = 360 (sum of interior &lt; s of quadrilateral)<br><br>x + R + 120 = 360<sup>o</sup><br><br>x + R = 360 - 240 = 120; Since x = R<br><br>x + x = 120<br><br>2x = 120<br><br>Since x = R<br><br>x + x = 120<br><br>2x = 120<br><br>x = \\(\\frac{120}{2}\\)<br><br>= 60<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "60<sup>o</sup>",
+            "55<sup>o</sup>",
+            "50<sup>o</sup>",
+            "45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14352298650_10.jpg\" class=\"img-fluid\">",
+        "explanation": "x + 52<sup>o</sup>= 90<br><br>x = 90 - 52<br><br>x = 38<sup>o</sup><br><br>k = opposite angle Z<br><br>k = 38<sup>o</sup><br><br>y + k = 90<sup>o</sup><br><br>y + 38<sup>o</sup>= 90<sup>o</sup><br><br>y = 90<sup>o</sup>- 38<sup>o</sup><br><br>y = 52<sup>o</sup><br><br>y = x = 180<sup>o</sup>(sum of angles on straight line)<br><br>52 + x = 180<sup>o</sup><br><br>x = 180 - 52<br><br>x = 128",
+        "correctIndex": 2,
+        "options": [
+            "108<sup>o</sup>",
+            "112<sup>o</sup>",
+            "128<sup>o</sup>",
+            "142<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18844469917_blinkg11.jpg\" class=\"img-fluid\">",
+        "explanation": "2 + 2 + 5 + 8 + 12 + H + 7 + 3 + 2 = 52",
+        "correctIndex": 0,
+        "options": [
+            "52",
+            "50",
+            "48",
+            "40"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17991057432_scanrr.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "44.5",
+            "42.5",
+            "41.5",
+            "40.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5740929192_23.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; NOP = 180 - 125 = 55<sup>o</sup>(&lt; s on a straight line)<br><br>But &lt; NOP = &lt; ONM (alternate &lt; s)<br><br>&lt; ONM = 55<sup>o</sup><br><br>&lt; M + &lt; N + &lt; MQN = 180<sup>o</sup>(sum of interior &lt; s of a \\(\\bigtriangleup\\)) i.e<br><br>65<sup>o</sup>+ 55<sup>o</sup>+ &lt; MQN = 180<br><br>&lt; MQN = 180 - 12o = 60<br><br>&lt; MQR + &lt; MQN = 180 (&lt; s on straight line)<br><br>&lt; MQR + 60 = 180<br><br>&lt; MQR + 60 = 180<br><br>&lt; MQR = 180 - 60<br><br>= 120<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "11<sup>o</sup>",
+            "120<sup>o</sup>",
+            "130<sup>o</sup>",
+            "160<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4305696975_29.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "y = 0.5",
+            "x = 1.0",
+            "x = 1.5",
+            "y = 4.6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24398949729_27.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and iii",
+            "i and iv",
+            "ii and iii",
+            "ii and ic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15787563550_37.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; TUW = 110<sup>o</sup>= 180<sup>o</sup>(&lt; s on a straight line)<br><br>&lt; TUW = 180<sup>o</sup>- 110<sup>o</sup>= 70<sup>o</sup><br><br>In \\(\\bigtriangleup\\) XTU, &lt; XUT + &lt; TXU = 180<sup>o</sup><br><br>i.e. &lt; YTS + 70<sup>o</sup>= 180<br><br>&lt; XTU = 180 - 110<sup>o</sup>= 70<sup>o</sup><br><br>Also &lt; YTS + &lt; XTU = 180 (&lt; s on a straight line)<br><br>i.e. &lt; YTS + &lt; XTU - 180(&lt; s on straight line)<br><br>i.e. &lt; YTS + 70<sup>o</sup>= 180<br><br>&lt; YTS = 180 - 70 = 110<sup>o</sup><br><br>in \\(\\bigtriangleup\\) SYT + &lt; YST + &lt; YTS = 180<sup>o</sup>(Sum of interior &lt; s)<br><br>SYT + 40 + 110 = 180<br><br>&lt; SYT = 180 - 150 = 30<br><br>&lt; SYT = &lt; XYW (vertically opposite &lt; s)<br><br>Also &lt; SYX = &lt; TYW (vertically opposite &lt; s)<br><br>but &lt; SYT + &lt; XYW + &lt; SYX + &lt; TYW = 360<br><br>i.e. 30 + 30 + &lt; SYX + TYW = 360<br><br>but &lt; SYX = &lt; TYW<br><br>60 + 2(&lt; TYW) = 360<br><br>2(&lt; TYW) = 360<sup>o</sup>- 60<br><br>2(&lt; TYW) = 300<sup>o</sup><br><br>TYW = \\(\\frac{300}{2}\\) = 150<sup>o</sup><br>&lt; SYT",
+        "correctIndex": 0,
+        "options": [
+            "150<sup>o</sup>",
+            "140<sup>o</sup>",
+            "130<sup>o</sup>",
+            "120<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1435234336_44.jpg\" class=\"img-fluid\">",
+        "explanation": "student that like swimming = x + 2<br><br>where 2 is the number of students who like reading, dancing and swimming. To find x from the venn diagram of swimming<br><br>6 +3 + 2 + x = 16<br><br>11 + x = 16<br><br>x = 16 - 11 = 5<br><br>no. of students that like dancing and swimming<br><br>x + 2 = 5 + 2 = 7",
+        "correctIndex": 0,
+        "options": [
+            "7",
+            "9",
+            "11",
+            "13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14352345040_47.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; QPR = &lt; STU = 65<sup>o</sup>(Corresponding angles)<br><br>245 + &lt; QPR = x = 360<sup>o</sup>(&lt; s at a point)<br><br>i.e. 245 + 65 + x = 360<br><br>x = 360 - (245 + 65)<br><br>x = 360 - 310<br><br>x = 50<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "80<sup>o</sup>",
+            "70<sup>o</sup>",
+            "60<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17222968224_47.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; QPR = &lt; STU = 65<sup>o</sup>(Corresponding angles)<br><br>245 + &lt; QPR = x = 360<sup>o</sup>(&lt; s at a point)<br><br>i.e. 245 + 65 + x = 360<br><br>x = 360 - (245 + 65)<br><br>x = 50<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "80<sup>o</sup>",
+            "70<sup>o</sup>",
+            "60<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2011,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191127_094844%20%282%29.jpg\" style=\"height:267px; width:350px\"></p><p>Using the cumulative frequency curve, estimate the median of the data represented on the graph.</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "35.5",
+            "36.5",
+            "37.5",
+            "38.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2011,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191127_094844%20%282%29%281%29.jpg\" style=\"height:311px; width:350px\"></p><p>Using the cumulative frequency curve. What is the 80th percentile?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "45.5",
+            "46.5",
+            "47.5",
+            "48.5"
+        ],
+        "type": "objectives"
+    }
+]

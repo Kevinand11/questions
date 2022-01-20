@@ -1,0 +1,1003 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1992,
+        "question": "Which of the following is a scalar quantity?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Momentum",
+            "Acceleration",
+            "Displacement",
+            "Distance",
+            "Force"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12475454175_wcphy19923.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Usinθ/2g",
+            "2Usinθ/g",
+            "Ucosθ/g",
+            "2Ucosθ/g",
+            "Usinθ/g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1992,
+        "question": "What change in velocity would be produced on a body of mass 4kg if a constant force of 16 N acts on it for2 s?",
+        "explanation": "<div class=\"eq-c\">F = <div class=\"fraction\"><span class=\"fr_num\">m(v - u)</span><span class=\"bar\">/</span><span class=\"fr_den\">t</span></div>; (v - u) = <div class=\"fraction\"><span class=\"fr_num\">Ft</span><span class=\"bar\">/</span><span class=\"fr_den\">m</span></div> = 8.0</div>",
+        "correctIndex": 2,
+        "options": [
+            "0.5 ms<sup>-1</sup>",
+            "2.0ms<sup>-1</sup>",
+            "8.0 ms<sup>-1</sup>",
+            "32.0 ms<sup>-1</sup>",
+            "128.0 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1992,
+        "question": "Which of the following statements about solid friction is/are correct? I. Friction depends on the nature of the surfaces in contact II. Friction depends on the area of contact III. Friction always acts in the direction of motion.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I,II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1992,
+        "question": "A body accelerates uniformly from rest at the rate of 3 ms<sup>-1</sup>for 8 seconds. Calculate the distance covered by the body during the acceleration.",
+        "explanation": "S = ut + 1/2at<sup>2</sup>= 0 + 1/2 x 3 x 8<sup>2</sup><br>= 96m",
+        "correctIndex": 4,
+        "options": [
+            "12m",
+            "24m",
+            "48m",
+            "72m",
+            "96m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1992,
+        "question": "Which of the following has the same unit as the moment of a force?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Force",
+            "Power",
+            "Work",
+            "Momentum",
+            "Impulse"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1992,
+        "question": "Solid weighs 0.040 N in air and 0.024 N when fully immersed in a liquid of density 800 kg m<sup>-3</sup>. What is the volume of the solid? (g = 1Oms<sup>2</sup>)",
+        "explanation": "Upthrust = weight fluid displacement 0.040 - 0.024 = PVg<br>0.016 = 800 x V x 10<br>V = 2.0 x 10<sup>6</sup>",
+        "correctIndex": 0,
+        "options": [
+            "2.0 x 10<sup>-6</sup>m<sup>3</sup>",
+            "2.5x10<sup>-6</sup>m<sup>3</sup>",
+            "3.0x10<sup>-6</sup>m<sup>3</sup>",
+            "2.0x 10<sup>-5</sup>m<sup>3</sup>",
+            "3.0 x 10<sup>-5</sup>m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1992,
+        "question": "<p>Which of the following will reduce the frequency of oscillation of a simple pendulum?</p>",
+        "explanation": "<p>The swing rate of a pendulum is determined by its length. The longer the pendulum, the slower the pendulum swings and vice-versa.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Increasing the mass of the bob",
+            "Decreasing the mass of the bob",
+            "Increasing the length of the string",
+            "Decreasing the length of the string",
+            "Increasing the amplitude of oscillation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1992,
+        "question": "A force of 20 N applied parallel to the surface of a horizontal table, is just sufficient to make a block of mass 4kg move on the table. Calculate the coefficient of friction between the block and the table. (g = 10ms<sup>2</sup>)",
+        "explanation": "μ= F/mg = 20/40 = 0.5",
+        "correctIndex": 2,
+        "options": [
+            "0.05",
+            "0.20",
+            "0.50",
+            "0.80",
+            "2.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1992,
+        "question": "A barometer can be used in determining the I. height of a mountain II. depth of a mine III. dew point. Which of the following is/are correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I, II and III",
+            "II and III only",
+            "I and III only",
+            "I and II only",
+            "III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1992,
+        "question": "<p>A body of mass 5kg falls from a height of 10m above the ground. What is the kinetic energy of the body just before it strikes the ground? (Neglect energy losses and take gravity as 10ms^2)</p>",
+        "explanation": "<p>v2 = u2 + 2gh = 0 + 2 x 10 x 10<br>\nv2 = 200; K.E = 1/2mv2 = 1/2 x 5 x 200 = 500J</p>",
+        "correctIndex": 3,
+        "options": [
+            "5J",
+            "25J",
+            "250J",
+            "500J",
+            "625J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1992,
+        "question": "Steel bars, each of length 3.0 m at 28°C, are to be used for constructing a rail line. If the linear expansivity of steel is 1.0 x 10<sup>-5</sup>°C, what is the safety gap that must be left between successive bars if the highest temperature expected is 40<sup>o</sup>C?",
+        "explanation": "Gap ΔL = αL<sub>1</sub>Δθ = 1.0 x 10<sup>-5</sup>x 3 x (40 - 28)<br>= 3.6 x 10<sup>-2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "1.2 x 10<sup>-1</sup>cm",
+            "8.4 x 10<sup>-2</sup>cm",
+            "7.2 x10<sup>-2</sup>cm",
+            "3.6 x 10<sup>-2</sup>cm",
+            "1.8 x 10<sup>-2</sup>cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1992,
+        "question": "Which of the following statements is/are correct? I. Pure water freezes at 0<sup>o</sup>C under normal pressure ll. Water has its highest density at 4<sup>o</sup>C. III. The volume at 4<sup>o</sup>C,",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1992,
+        "question": "A given mass of gas at a temperature of 30°C is trapped in a tube of volume V. Calculate the temperature of the gas when the volume is reduced to two-third of its original value by applying a pressure twice the original value.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "71<sup>o</sup>C",
+            "40<sup>o</sup>C",
+            "131<sup>o</sup>C",
+            "313<sup>o</sup>C",
+            "404<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1992,
+        "question": "Which of the following colours of surfaces will radiate heat energy best?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Red",
+            "White",
+            "Black",
+            "Yellow",
+            "Blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1992,
+        "question": "<p>A gas which obeys Charles’ law exactly has a volume of 283cm3 at 10oC. What is its volume at 30oC?</p>",
+        "explanation": "<p>Using Charles law:</p><p>V1/T1 = V2/T2;</p><p>(283 * 303) / 283 </p><p>V2= 303</p>",
+        "correctIndex": 2,
+        "options": [
+            "142cm<sup>3</sup>",
+            "293cm<sup>3</sup>",
+            "303cm<sup>3</sup>",
+            "566cm<sup>3</sup>",
+            "849cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1992,
+        "question": "Which of the following best explains why a person suffers a more severe burn when his skin is exposed to steam than when boiling water pours on his skin?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Steam is at a higher temperature than boiling water",
+            "Steam possesses greater heat energy per unit mass than boiling water",
+            "Steam spreads more easily over a wider area of the skin man boiling water",
+            "Steam penetrates more deeply into the skin than boiling water",
+            "the specific latent heat of vaporization is released in changing from boiling water to steam"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1992,
+        "question": "<p>A small circular membrane is 10cm below the surface of a pool of mercury when the barometric height is 76 cm of mercury. If the density of mercury is 13600\\(kgm^{-3}\\), what is the pressure on the membrane in \\(Nm^{-2}\\)? \\((g =10ms^{-2})\\)</p>",
+        "explanation": "<p>Pressure at a depth for fluid with constant density such as mercury is given as </p><p>\\(p = p_{0} + \\rho hg\\)</p><p>where \\(p_{0}\\) = atmospheric pressure.</p><p>\\(p_{0} = \\rho hg =13600 \\times \\frac{76}{100} \\times 10\\)</p><p>= \\(103,360 Nm^{-2}\\)</p><p>\\(p = 103,360 + (13600 \\times \\frac{10}{100} \\times 10)\\)</p><p>\\(p = 103,360 + 13,600\\)</p><p>\\(p = 116,960 Nm^{-2} \\approxeq 1.17 \\times 10^{5} Nm^{-2}\\)</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "1.17 x 10<sup>7</sup>Nm<sup>-2</sup>",
+            "6.80 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "1.17x10<sup>5</sup>Nm<sup>-2</sup>",
+            "1.03 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "1.36 x10<sup>4</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1992,
+        "question": "Which of the following instruments is used to measure relative humidity?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Hydrometer",
+            "Barometer",
+            "Manometer",
+            "Hypsometer",
+            "Hygrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1992,
+        "question": "A metal of mass 1.5 kg was heated from 27<sup>o</sup>C to 47<sup>o</sup>C in 4 minutes by a boiling ring of 75 W rating. Calculate the specific heat capacity of the metal, (Neglect heat losses to the surrounding)",
+        "explanation": "<div class=\"eq-c\">I.Vt = mcθ; C = <div class=\"fraction\"><span class=\"fr_num\">I.Vt</span><span class=\"bar\">/</span><span class=\"fr_den\">mθ</span></div> = <div class=\"fraction\"><span class=\"fr_num\">75 x 4 x 60</span><span class=\"bar\">/</span><span class=\"fr_den\">1.5 x 20</span></div></div><br>= 6.0 X10<sup>2</sup>J kg<sup>-10</sup>C<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2.5 X10<sup>3</sup>J kg<sup>-10</sup>C<sup>-1</sup>",
+            "6.0 X10<sup>2</sup>J kg<sup>-10</sup>C<sup>-1</sup>",
+            "2.5 x 10<sup>2</sup>J kg<sup>-10</sup>C<sup>-1</sup>",
+            "1.4 X10<sup>2</sup>J kg<sup>-10</sup>C<sup>-1</sup>",
+            "1.0 x 10<sup>2</sup>J kg<sup>-10</sup>C<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1992,
+        "question": "A ray of light strikes a plane mirror at an angle of incidence i. Determine in terms of i the angle of deviation of the ray after reflection from the mirror.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "i",
+            "2i",
+            "90<sup>o</sup>-i",
+            "90<sup>o</sup>+ i",
+            "180<sup>o</sup>- 2i"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1992,
+        "question": "Images formed by a convex mirror are always",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "inverted, real and diminished",
+            "inverted, virtual and diminished",
+            "erect, virtual and diminished",
+            "erect, real and magnified",
+            "erect, virtual and magnified"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1992,
+        "question": "Which of the following statements is not correct for a light ray passing through a rectangular glass block which is surrounded by air? It",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "suffers a displacement at the point of emergence",
+            "emerges parallel to the incident ray",
+            "is partly reflected at the point of incidence",
+            "is deviated at the point of emergence",
+            "is reflected in the block"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15247925022_wcphy199225.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "f= the slope of the graph",
+            "f= the intercept on the 1/u axis",
+            "f =the intercept on the 1/v axis",
+            "f = reciprocal of the slope",
+            "f = reciprocal of the intercept on either axes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1992,
+        "question": "The image of a pin formed by a diverging lens of focal length 10cm is 5cm from the lens. Calculate the distance of the pin from the lens",
+        "explanation": "1/u - 1/v = 1/f; f = 10cm, v = 5cm<br>u = 10/3 = 3.3cm",
+        "correctIndex": 1,
+        "options": [
+            "-3.3cm",
+            "3.3cm",
+            "10.0cm",
+            "15.0cm",
+            "20.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1992,
+        "question": "As an object is moved close to the focus of a converging lens from infinity its image I. moves closer to the lens II. moves away from the lens. III. Remains the same size. IV becomes smaller. Which of the statements above is/are correct?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "III and IV only",
+            "I and III only",
+            "IV only",
+            "III only",
+            "II only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1992,
+        "question": "A real image of an object fom1ed by a converging lens of focal length 15cm is three times the size of the object. What is the distance of the object from the lens?",
+        "explanation": "1/u + 1/3u = 1/15; u = 20cm",
+        "correctIndex": 2,
+        "options": [
+            "30cm",
+            "25cm",
+            "20cm",
+            "15cm",
+            "10cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19490293251_scanrr.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "convex mirror",
+            "concave mirror",
+            "diverging lens",
+            "converging lens",
+            "piano-converging lens"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1992,
+        "question": "When an astronomical telescope is in normal adjustment, the focal length of the objective lens is 50cm and that of the eyepiece is 2.5om. What is the distance between the lenses?",
+        "explanation": "Distance between lens = f<sub>0</sub>+ f<sub>e</sub>= 52.5cm",
+        "correctIndex": 3,
+        "options": [
+            "20.0cm",
+            "47.5cm",
+            "50.0cm",
+            "52.5cm",
+            "125.0cm."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1992,
+        "question": "Which of the following is used for controlling the amount of light entering the eye?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Cornea",
+            "Pupil",
+            "Iris",
+            "Optic nerve",
+            "Ciliary muscle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1992,
+        "question": "<p>The angle of deviation of light of various colours passing through a glass prism decreases in the order of</p>",
+        "explanation": "<p> Upon passage <strong>through</strong> the <strong>prism</strong>, the white <strong>light</strong> is separated into its component colors - red, orange, yellow, green, blue and violet. </p>",
+        "correctIndex": 0,
+        "options": [
+            "blue orange and red",
+            "red, blue and orange",
+            "blue, red and orange",
+            "red, orange and blue",
+            "orange, blue and red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1992,
+        "question": "The change of the direction of a wavefront as a result of a change in the velocity of the wave in another medium is called",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "refraction",
+            "reflection",
+            "diffraction",
+            "polarization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5544704380_wcphy199026.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The waveform moved from A to B in \\(2.5 \\times 10^{-3}\\) seconds.</p><p>From the diagram, A to B has \\(2\\frac{1}{2}\\) complete oscillations between it, Therefore, the period of the oscillation is</p><p>\\(\\frac{2.5 \\times 10^{-3}}{2.5} = 1 \\times 10^{-3} s\\)</p><p>\\(Frequency = \\frac{1}{Period}\\)</p><p>= \\(\\frac{1}{1 \\times 10^{-3}} = 1 \\times 10^{3} Hz\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.0 x 10<sup>3</sup>Hz",
+            "1.0 x 10<sup>3</sup>Hz",
+            "4.0 x 10<sup>-2</sup>Hz",
+            "1.0 x 10<sup>-3</sup>Hz",
+            "5.0 x 10<sup>4</sup>Hz."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1992,
+        "question": "Which of the following radiations have the highest frequency?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Radio waves",
+            "Light waves",
+            "X-rays",
+            "infra-red rays",
+            "Ultraviolet rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1992,
+        "question": "How far from a cliff should a boy stand in order to hear the echo of his clap 0.9s later? (Speed of sound in air = 330 ms<sup>-1</sup>)",
+        "explanation": "v = 2x/t ∴ distance x = vt/2 = 148.5m",
+        "correctIndex": 2,
+        "options": [
+            "36.67m",
+            "74.25m",
+            "148.50m",
+            "297.00",
+            "366.67m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1992,
+        "question": "Which of the following waves are longitudinal waves? l. Ripples on the surface of water II. Waves produced by a tuning fork vibrating in air III. Light waves<br>IV. Waves produced by a flute",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I and II only",
+            "I and III only",
+            "II and III only",
+            "II and IV only",
+            "III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1992,
+        "question": "Which of the following statements is not true?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Musical notes consist of the combination of sounds of regular frequency",
+            "The combination of overtones produced by an instrument determines the quality of the sound",
+            "the loudness of sound is determined by its frequency",
+            "the pitch of a note depends on the frequency of vibration of the source",
+            "Noise can be produced by a combination of sounds of irregular frequency"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1992,
+        "question": "A pipe closed at one end is 1.0m long. The air in the pipe is set into vibration and a fundamental note of frequency 85Hz is produced. Calculate the velocity of sound in the air. (Neglect end correction).",
+        "explanation": "L = λ/4; λ= 4 = 4m<br>v = fλ = 85 x 4 = 340ms<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "340.0ms<sup>-1</sup>",
+            "33Oms<sup>-1</sup>",
+            "170ms<sup>-1</sup>",
+            "85.0ms<sup>-1</sup>",
+            "42.5ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6930884135_wcphy199240.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1 and 2",
+            "3 and 4",
+            "5 and 6",
+            "7 and 8",
+            "9 and 10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1992,
+        "question": "A negatively charged rod is brought near the cap of a gold-leaf electroscope. The cap is earthed momentarily while the rod is near to it. The rod is then removed. Which of the following is correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "The cap will be positively charged and the negatively charged leaves will diverge",
+            "The cap will be negatively charged and the positively charged leaves will diverge",
+            "The cap and the leaves will be positively charged",
+            "The cap and the leaves will be negatively charged.",
+            "The leaves will not diverge because the cap has been earthed."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13861773760_wcphy199242.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"eq-c\">R = <div class=\"fraction\"><span class=\"fr_num\">R<sub>1</sub>R<sub>2</sub></span><span class=\"bar\">/</span><span class=\"fr_den\">R<sub>1</sub>R<sub>2</sub></span></div> = 1</div><br>E = I<sup>2</sup>R = 2<sup>2</sup>x 1 =4W",
+        "correctIndex": 2,
+        "options": [
+            "0 W",
+            "2 W",
+            "4 W",
+            "8 W",
+            "16 W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1992,
+        "question": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Polarization",
+            "Local action",
+            "Formation of hydrogen electrode",
+            "Increase in the resistance of the cell",
+            "Generation of less current by the cell"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1992,
+        "question": "Calculate the length of a constantan wire of cross- sectional area 4 π x 10<sup>-8</sup>m<sup>2</sup>and resistivity 1.1 x 10<sup>-6</sup>Ω m required to construct a standard resistor of resistance 21 Ω. [Take π = 22/7]",
+        "explanation": "<div class=\"eq-c\">R = PL/A =&gt; L = <div class=\"fraction\"><span class=\"fr_num\">RA</span><span class=\"bar\">/</span><span class=\"fr_den\">P</span></div> = <div class=\"fraction\"><span class=\"fr_num\">21 x 4π x 10<sup>8</sup></span><span class=\"bar\">/</span><span class=\"fr_den\">1.1 x 10<sup>-6</sup></span></div> = 2.40</div>",
+        "correctIndex": 1,
+        "options": [
+            "0.42m",
+            "2.40 m",
+            "6.25 m",
+            "183.75 m",
+            "590.00 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1992,
+        "question": "In a domestic circuit, electrical appliances and lamps are arranged in parallel across the mains so as to enable the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "same current to flow through the electrical appliances and the lamps",
+            "maximum energy to be consumed at least cost",
+            "same fuse to be used for the electrical appliances and the lamps",
+            "voltage across the appliances not to be affected when the lamps are switched on and off",
+            "heat losses to be minimized"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1992,
+        "question": "Calculate the time in which 4.8 kJ of energy would be expended when an electric heater of resistance 1.8 x 10<sup>3</sup>Ω is used on a 240 V mains supply. (Neglect heat losses to the surrounding).",
+        "explanation": "E = V<sup>2</sup>t/R<br><div class=\"eq-c\">t = <div class=\"fraction\"><span class=\"fr_num\">ER</span><span class=\"bar\">/</span><span class=\"fr_den\">V<sup>2</sup></span></div> = <div class=\"fraction\"><span class=\"fr_num\">4800 x 1.8 x 10<sup>3</sup></span><span class=\"bar\">/</span><span class=\"fr_den\">240 x 240</span></div> = 150s</div>",
+        "correctIndex": 0,
+        "options": [
+            "150.0s",
+            "90.0s",
+            "36.0s",
+            "20.0s",
+            "2.7s."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1992,
+        "question": "Lenz’s law of electromagnetic induction states that",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "electromotive force is induced in a circuit whenever there is a change in the magnetic flux linked with the circuit",
+            "the induced current in a conductor is in such a direction as to oppose the change producing it",
+            "the induced e.m.f. in a circuit is proportional to the rate of change of number of lines of force linking the circuit",
+            "a force is exerted on a current carrying conductor in a magnetic field",
+            "the induced e.m.f. is proportional to the current producing the magnetic flux."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1992,
+        "question": "Which of the following statements is not correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "A magnetic Held is a region where a magnetic force can be detected.",
+            "Magnetic fields are scalar quantities.",
+            "The magnitude of the magnetic force experienced by a moving charge depends on the speed on the charge.",
+            "the angle between the direction of the earth’s magnetic held and the horizontal is called the angle of dip.",
+            "Iron filings can be used to trace out the magnetic field around a bar magnet."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 1992,
+        "question": "Calculate the energy stored in 20μF capacitor if the potential difference between the plates is 40 V.",
+        "explanation": "E = 1/2cv<sup>2</sup>= 1/2 x 10 x 10<sup>-6</sup>x 40<sup>2</sup>= 1.6 x 10<sup>-2</sup>J",
+        "correctIndex": 1,
+        "options": [
+            "3.2 x10<sup>-2</sup>J",
+            "1.6x10<sup>2</sup>J",
+            "8.0x10<sup>-4</sup>J",
+            "4.0x10<sup>-4</sup>J",
+            "2.0x10<sup>-4</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15247997798_wcphy199250.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 1992,
+        "question": "What is the electric potential at a point distance r from a proton of charge q placed in a medium of permittivity ε<sub>o</sub>?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "q<sup>2</sup>/4πε<sub>o</sub>r<sup>2</sup>",
+            "q/4πε<sub>o</sub>r<sup>2</sup>",
+            "q<sup>2</sup>/4πε<sub>o</sub>r",
+            "qr/4πε<sub>o</sub>",
+            "4πε<sub>o</sub>q<sup>2</sup>r"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 51,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12475640853_wcphy199252.jpg\" class=\"img-fluid\">",
+        "explanation": "C<sub>1</sub>+ C = 2 + 3 = 5μF<br><div class=\"eq-c\">Capacitive reactance = <div class=\"fraction\"><span class=\"fr_num\">1</span><span class=\"bar\">/</span><span class=\"fr_den\">2πfc </span></div></div><br><div class=\"eq-c\">X = <div class=\"fraction\"><span class=\"fr_num\">1</span><span class=\"bar\">/</span><span class=\"fr_den\">2π x 500 x 5 x 10<sup>-6</sup> </span></div> = 200</div>",
+        "correctIndex": 2,
+        "options": [
+            "0.01Ω",
+            "190.91 Ω",
+            "200.00 Ω",
+            "795.46 Ω",
+            "1000.00Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 52,
+        "year": 1992,
+        "question": "Which of the following statements is correct about cathode rays? They are fast moving",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "atoms",
+            "ions",
+            "neutrons",
+            "protons",
+            "electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 53,
+        "year": 1992,
+        "question": "Which of the following gives rise to the line spectra obtained from atoms?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Kinetic energy of a moving atom",
+            "Potential energy of an electron inside an atom",
+            "Change of an electron from a higher to a lower energy level in the atom",
+            "Disturbed proton in the nucleus",
+            "Excitation of an electron in the atom"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 54,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26337480116_wcphy199255.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "accelerated and they continue in a straight line",
+            "directionally reversed at the end of the plates",
+            "deflected towards plate Y",
+            "attracted by both plates",
+            "deflected towards plate X."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 55,
+        "year": 1992,
+        "question": "An element whose half-life is 3 years has N atoms. How many atoms would have decayed after 9 years",
+        "explanation": "\\(\\frac{N}{3}\\) = 3years<br><br>\\(\\frac{N}{4}\\) = 6years<br><br>\\(\\frac{N}{8}\\) = 9years<br><br>N - \\(\\frac{N}{8}\\) = \\(\\frac{7N}{8}\\)",
+        "correctIndex": 4,
+        "options": [
+            "1 N atoms8",
+            "1 N atoms3",
+            "2 N atoms3",
+            "5 N atoms6",
+            "7 N atoms8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 56,
+        "year": 1992,
+        "question": "When the nucleus of a uranium atom is split into two fragments of nearly equal mass the sum of the masses of the fragments is less than the mass of the original nucleus. This difference is a measure of the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "experimental error in calculating the separate masses",
+            "change of momentum of each fragment",
+            "potential energy lost",
+            "nuclear energy released",
+            "kinetic energy lost"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 57,
+        "year": 1992,
+        "question": "A sheet of paper is placed in the path of a beam of radiations from a radioactive source. Which of the following radiations will pass through the paper?I. Alpha rays II. Beta rays III. Gamma rays",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 58,
+        "year": 1992,
+        "question": "The process by which a metal, heated to high temperature, gives off electrons from its surface is known as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "photoelectric emission",
+            "thermionic emission",
+            "radioactive emission",
+            "Held emission",
+            "secondary emission"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 59,
+        "year": 1992,
+        "question": "An electric string of length l is elastically stretched through a length e by a force F. The area of cross- section of the string is A and its Young’s modulus is E. Which of the following expressions is correct?",
+        "explanation": "E = Stress/Strain = F/A/e/L<br>E = FL/AE; F = EAe/L",
+        "correctIndex": 2,
+        "options": [
+            "F = EA/eI",
+            "F = EAI/e",
+            "F = EAe/l",
+            "F = EAe"
+        ],
+        "type": "objectives"
+    }
+]

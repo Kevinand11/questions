@@ -1,0 +1,737 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2003,
+        "question": "<p>Simplify \\(\\left(\\frac{3}{4} - \\frac{1}{3}\\right)\\times 4\\frac{1}{3}\\div 3\\frac{1}{4}\\)</p>",
+        "explanation": "<p>\\((\\frac{3}{4} - \\frac{1}{3}) \\times 4\\frac{1}{3} \\div 3\\frac{1}{4}\\)</p><p>= \\((\\frac{9 - 4}{12}) \\times \\frac{13}{3} \\div \\frac{13}{4}\\)</p><p>= \\(\\frac{5}{12} \\times \\frac{13}{3} \\times \\frac{4}{13}\\)</p><p>= \\(\\frac{5}{9}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{5}{9}\\)",
+            "\\(\\frac{5}{16}\\)",
+            "\\(\\frac{8}{13}\\)",
+            "\\(\\frac{16}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13994622960_wamath032.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "5",
+            "8",
+            "18"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25190322102_wamath032.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25190323578_wamath032.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>= 12 + 18 + 11 + 8</p><p>= 49 students</p>",
+        "correctIndex": 3,
+        "options": [
+            "12",
+            "23",
+            "37",
+            "49"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16793549928_wamath035.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "-4&lt; X ≤ 5",
+            "-4 ≤ x&lt; 5",
+            "-4<x li>\n<li>\n<strong>D.</strong>\n-4≤x≤5\n</li>\n</x>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2003,
+        "question": "A student bought 3 notebooks and 1 pen for N35. After misplacing these items, she again bought 2 notebooks and 2 pens, all of the same type for<br>N30. What is the cost of a pen?",
+        "explanation": "Represent notebook with x<br>Represent pen with y<br>∴ 3x+y=35 ---- (i)<br>2x+2y=30 ---- (ii)<br>Multiply eqn (i) by 2 and eqn (ii) by 1<br>6x+2y=70 ---- (iii)<br>2x+2y=30 ---- (iv)<br>Subtract eqn (iv) from eqn (iii)<br>4x = 40<br>X = 10<br>Substitute x = 10 in eqn (i)<br>3x+y=35<br>3(10)+y=35<br>Y = 5<br>∴ The cost of pen is N5.00",
+        "correctIndex": 0,
+        "options": [
+            "N5.00",
+            "N7.50",
+            "N10.00",
+            "N15.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2003,
+        "question": "Simplify \\(\\frac{4}{a-3}-\\frac{1}{a+3}\\)",
+        "explanation": "\\(\\frac{4}{a-3}-\\frac{1}{a+3}\\\\<br>= \\frac{4(a+2)-1(a-3)}{(a-3)(a+2)}\\\\<br>=\\frac{3a+11}{(a-3)(a+2)}<br>\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3a+11}{(a-3)(a-2)}\\)",
+            "\\(\\frac{3a+11}{(a+3)(a-2)}\\)",
+            "\\(\\frac{3a+11}{(a+3)(a+2)}\\)",
+            "\\(\\frac{3a+11}{(a-3)(a+2)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2003,
+        "question": "Simplify \\(\\frac{4\\sqrt{18}}{\\sqrt{8}}\\)",
+        "explanation": "\\(\\frac{4\\sqrt{18}}{\\sqrt{8}}\\\\<br>= \\frac{4\\sqrt{9\\times 2}}{\\sqrt{4 \\times 2}} = \\frac{12\\sqrt{2}}{2\\sqrt{2}}=\\frac{6\\sqrt{2}}{\\sqrt{2}}\\\\<br>Rationalising \\frac{6\\sqrt{2}}{\\sqrt{2}}\\\\<br>=\\frac{6\\sqrt{2}}{\\sqrt{2}} \\times \\frac{\\sqrt{2}}{\\sqrt{2}} = 6\\)",
+        "correctIndex": 2,
+        "options": [
+            "2",
+            "3",
+            "6",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25190374896_wamath039.jpg\" class=\"img-fluid\">",
+        "explanation": "Reflex ∠WQS = 360<sup>o</sup>- (55<sup>o</sup>+ 70<sup>o</sup>)<br>=360<sup>o</sup>- 125<sup>o</sup>= 235<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "235<sup>o</sup>",
+            "290<sup>o</sup>",
+            "305<sup>o</sup>",
+            "325<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2003,
+        "question": "<p>Three men, Bedu, Bakre and Kofi shared' N500 in the ratio 3:2: x respectively. If Bedu’s share is N150, find the value of x.</p>",
+        "explanation": "<p>\\(5+x\\rightarrow 500\\\\<br>\n3 \\rightarrow 150\\\\<br>\n∴ 3 \\times 500 = 150 \\times (5+x)\\\\<br>\n1500 = 750 + 150x\\\\<br>\nx=\\frac{750}{150}=5\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2003,
+        "question": "<p>Simplify \\(\\left(1\\frac{2}{3}\\right)^2 - \\left(\\frac{2}{3}\\right)^2\\)</p>",
+        "explanation": "<p>\\(\\left(1\\frac{2}{3}\\right)^2 - \\left(\\frac{2}{3}\\right)^2=\\left(\\frac{5}{3}\\right)^2 - \\left(\\frac{2}{3}\\right)^2\\)<br>\nDifference of two squares<br>\n\\(\\left(\\frac{5}{3}-\\frac{2}{3}\\right)\\left(\\frac{5}{3}+\\frac{2}{3}\\right)=\\left(\\frac{3}{3}\\right)\\left(\\frac{7}{3}\\right)\\\\<br>\n\\frac{7}{3}=2\\frac{1}{3}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(2\\frac{1}{3}\\)",
+            "\\(1\\frac{1}{3}\\)",
+            "1",
+            "\\(\\frac{3}{7}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2003,
+        "question": "<p>Find the value of x which satisfies the equation<br>\n5(x-7)=7-2x</p>",
+        "explanation": "<p>5(x - 7) = 7 - 2x</p><p>5x - 35 = 7 - 2x</p><p>5x + 2x = 7 + 35</p><p>7x = 42</p><p>x = \\(\\frac{42}{7}\\)</p><p>= 6</p>",
+        "correctIndex": 2,
+        "options": [
+            "x =2",
+            "x=4",
+            "x=6",
+            "x = 14"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2003,
+        "question": "Evaluate \\(\\frac{log8}{log\\left(\\frac{1}{4}\\right)}\\)",
+        "explanation": "\\(\\frac{log8}{log\\frac{1}{4}}=\\frac{log2^3}{log2^{-2}}=\\frac{3log2}{-2log2}=-\\frac{3}{2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "-2",
+            "\\(\\frac{-3}{2}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2003,
+        "question": "A pyramid of volume 120cm<sup>3</sup>has a rectangular base which measures 5cm by 6cm. Calculate the height of the pyramid",
+        "explanation": "\\(V= \\frac{1}{2}\\hspace{1mm}base\\hspace{1mm}area\\hspace{1mm}\\times\\hspace{1mm}height\\\\<br>120=\\frac{1}{3}\\times 5 \\times 6 \\times h; h = \\frac{120}{10}=12cm\\)",
+        "correctIndex": 2,
+        "options": [
+            "5cm",
+            "9cm",
+            "12cm",
+            "15cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2003,
+        "question": "<p>PQRS is a cyclic quadrilateral. If ∠QPS = 75°, what is the size of ∠QRS?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191210_134212%20%282%29.jpg\" style=\"height:216px; width:250px\"></p><p>&lt; QPS = 75°</p><p>&lt; QRS = 180° - 75° = 105° (opposite angles of a cyclic quadrilateral)</p>",
+        "correctIndex": 2,
+        "options": [
+            "180<sup>o</sup>",
+            "150<sup>o</sup>",
+            "105<sup>o</sup>",
+            "75<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1399471901_wamath0316.jpg\" class=\"img-fluid\">",
+        "explanation": "The sum of angles in a triangle is 180<sup>o</sup><br>2x<sup>o</sup>+ (2x -21)<sup>o</sup>+ ∠ZYP = 180<sup>o</sup><br>Also ∠ZYP = 180<sup>o</sup>- (3x+14)<sup>o</sup><br>∴2x<sup>o</sup>+ (2x-21)<sup>o</sup>+ 180<sup>o</sup>- (3x+14)<sup>o</sup>= 180<br>x = 35<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "27<sup>o</sup>",
+            "30<sup>o</sup>",
+            "35<sup>o</sup>",
+            "37<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2003,
+        "question": "<p>Find the value of x in the equation 3x\\(^2\\) - 8x - 3 = 0</p>",
+        "explanation": "<p>3x\\(^2\\) - 8x - 3 = 0</p><p>3x\\(^2\\) - 9x + x - 3 = 0</p><p>3x(x - 3) + 1(x - 3) = 0</p><p>(3x + 1)(x - 3) = 0</p><p>3x = -1 \\(\\implies\\) x = \\(-\\frac{1}{3}\\)</p><p>or x = 3.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{3},-3\\)",
+            "\\(-\\frac{1}{3},-3\\)",
+            "\\(-\\frac{1}{3},3\\)",
+            "\\(\\frac{1}{3},3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2003,
+        "question": "In\\( ∆ PQR, P\\hat{Q}P = 84^°, |Q\\hat{P}R |= 43^°\\) and |PQ| = 5cm. Find /QR/ in cm, correct to 1 decimal place.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25190514306_wamath0318ans.jpg\" class=\"img-fluid\">\n</div>Using the sine rule<br>\\(\\frac{|QR|}{sinP}=\\frac{|PQ|}{sinR}\\\\<br>\\frac{x}{sin43^o}=\\frac{5}{sin53^o}\\\\<br>x = \\frac{5\\times sin43^o}{sin53^o}\\\\<br>=\\frac{5\\times 0.6820}{0.7986}\\\\<br>=4.3\\)",
+        "correctIndex": 1,
+        "options": [
+            "3.4",
+            "4.3",
+            "5.9",
+            "6.2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2003,
+        "question": "<p>Given, that \\(4P4_5 = 119_{10}\\), find the value of P</p>",
+        "explanation": "<p>\\(4P4_5 = 119_{10}\\)</p><p>\\(4 \\times 5^2 + P \\times 5^1 + 4 \\times 5^0 = 119\\)</p><p>\\(100 + 5P + 4 = 119\\)</p><p>\\(5P = 119 - 104 = 15\\)</p><p>\\(P = 3\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2003,
+        "question": "A ladder, 6m long, leans against a vertical wall at an angle 53<sup>o</sup>to the horizontal. How high up the wall does the ladder reach?",
+        "explanation": "Sin 53 = \\(\\frac {h}{6} \\)<br>h = 6 sin 53 = 6 x 0.7986<br>= 4.792m",
+        "correctIndex": 2,
+        "options": [
+            "3.611m",
+            "4.521m",
+            "4.792m",
+            "7.962m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1399629176_wamath0322.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/16795550112_wamath21ans.jpg\" class=\"img-fluid\">\n</div>\\(Sin\\theta^{\\circ} = \\frac{opp}{hyp}\\\\<br>Sin X^{\\circ}=\\frac{5}{10}=0.5000\\\\SinX^{\\circ}\\\\<br>X^{\\circ} = sin^{-1}0.5000\\\\<br>X^{\\circ}=30^{\\circ}\\)",
+        "correctIndex": 1,
+        "options": [
+            "15<sup>o</sup>",
+            "30<sup>o</sup>",
+            "45<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2003,
+        "question": "The four interior angles of a quadrilateral are (x + 20)<sup>o</sup>, (x+ 10)<sup>o</sup>(2x - 45)<sup>o</sup>and (x - 25)<sup>o</sup>. Find the value of x",
+        "explanation": "Sum of interior angles in a quadrilateral is 360<br>(x + 20)<sup>o</sup>+ (x+ 10)<sup>o</sup>+ (2x - 45)<sup>o</sup>+ (x - 25)<sup>o</sup>= 360<sup>o</sup><br>5x<sup>o</sup>- 40<sup>o</sup>= 360<sup>o</sup><br>x = 400/5 = 80<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "60",
+            "80",
+            "100",
+            "360"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12596697864_wamath0323.jpg\" class=\"img-fluid\">",
+        "explanation": "Sum of interior angle of the diagram equals 360<sup>o</sup><br>180<sup>o</sup>- 5y<sup>o</sup>+ 136<sup>o</sup>+ 180<sup>o</sup>+ 180<sup>o</sup>- 3y<sup>o</sup>= 360<sup>o</sup><br>-8y<sup>o</sup>+ 136<sup>o</sup>= 0<br>-8y<sup>o</sup>= -136; y = 17",
+        "correctIndex": 0,
+        "options": [
+            "17",
+            "34",
+            "44",
+            "45"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2003,
+        "question": "Out of 60 members of an Association, 15 are Doctors and 9 are Lawyers. If a member is selected at random from the Association, what is the probability that the member is neither a Doctor Nor a Lawyer",
+        "explanation": "Member that are neither doctors nor lawyers = 60-(15+9)=36<br>Probability (Not doctors ad not lawyers) \\(=\\frac{36}{60}\\\\<br>=\\frac{6}{10}=\\frac{3}{5}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{9}{10}\\)",
+            "\\(\\frac{3}{20}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2003,
+        "question": "Find the values of x for which \\( \\frac{1}{2x^2 - 13x +15} \\) is not defined,",
+        "explanation": "The fraction is undefined when the denominator is equal to zero<br>\\(2x^2 - 13x + 15 = 0\\\\<br>2x^2 - 3x - 10x + 15\\\\<br>x(2x-3)-5(2x-3) = 0\\\\<br>(2x-3)(x-5)=0\\\\<br>x = \\frac{3}{2} or x = 5\\)",
+        "correctIndex": 0,
+        "options": [
+            "5 or \\( \\frac{3}{2} \\)",
+            "1 or \\( \\frac{15}{13} \\)",
+            "2 or 15",
+            "13 or 15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9797454016_wamath0326.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; QPS = &lt; PRS = 65° (angles in the same segment)</p><p>&lt; PSR + 40° + 65° = 180°</p><p>&lt; PSR + 105° = 180°</p><p>&lt; PSR = 75°</p><p>&lt; PSR = &lt; PSQ + &lt; QSR</p><p>75° = &lt; PSQ + 20° \\(\\implies\\) &lt; PSQ = 75° - 20° = 55°</p>",
+        "correctIndex": 2,
+        "options": [
+            "85<sup>o</sup>",
+            "60<sup>o</sup>",
+            "55<sup>o</sup>",
+            "45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2003,
+        "question": "<p>Evaluate \\((111_{two})^2 - (101_{two})^2\\)</p>",
+        "explanation": "<p>\\((111_{2})^2 - (101_{2})^2\\)</p><p>Difference of two squares</p><p>\\((111 - 101)(111 + 101)\\)</p><p>= \\((10)(1100)\\)</p><p>= \\(11000_{2}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "10<sub>two</sub>",
+            "100<sub>two</sub>",
+            "1100<sub>two</sub>",
+            "11000<sub>two</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2003,
+        "question": "<p>Given that x ≅ 0.0102 correct to 3 significant figures, which of the following cannot be the actual value of x?</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.01014",
+            "0.01021",
+            "0.01015",
+            "0.01016"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2003,
+        "question": "If \\(\\frac{3^{(1-n)}}{9^{-2n}}=\\frac{1}{9}\\) find n",
+        "explanation": "\\(\\frac{3^{(1-n)}}{9^{-2n}}=\\frac{1}{9}\\\\<br>3^{1-n}\\times 3^{-2(-2n)} = 3^{-2}\\\\<br>1-n-2(-2n)= -2\\\\<br>1-n+4n=-2\\\\<br>n=-1\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(-\\frac{3}{2}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "-1",
+            "-3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2003,
+        "question": "<p>Which of the following is/are not the interior angle(s) of a regular polygon? I.108° II. 116° III. 120°</p>",
+        "explanation": "<p>Using the formula, \\((n - 2) \\times 180°\\) to get the sum of the interior angles. Then we can have</p><p>\\((n - 2) \\times 180° = 108n\\) ... (1)</p><p>\\((n - 2) \\times 180° = 116n\\) ... (2)</p><p>\\((n - 2) \\times 180° = 120n\\) ... (3)</p><p>Solving the above given equations, where n is not a positive integer then that angle is not the interior for a regular polygon.</p><p>(1): \\(180n - 360 = 108n \\implies 72n = 360\\)</p><p> \\(n = 5\\) (regular pentagon)</p><p>(2): \\(180n - 360 = 116n \\implies 64n = 360\\)</p><p> \\(n = 5.625\\)</p><p>(3): \\(180n - 360 = 120n \\implies 60n = 360\\)</p><p> \\(n = 6\\) (regular hexagon)</p><p>Hence, 116° is not an angle of a regular polygon.</p>",
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2003,
+        "question": "In a ∆ XYZ, /YZ/ = 6cm YXZ = 60<sup>o</sup>and XYZ is a right angle. Calculate /XZ/in cm, leaving your answer in surd form",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13996375180_wamath0334ans.jpg\" class=\"img-fluid\">\n</div>\\(sin \\theta = \\frac{opp}{hyp}\\\\<br>sin 60^o = \\frac{|YZ|}{|XZ|}=\\frac{6}{P}\\\\<br>P sin 60^o = 6\\\\<br>P = \\frac{6}{sin60^o}\\\\<br>=\\frac{6}{\\sqrt{\\frac{3}{2}}}=4\\sqrt{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "2√3",
+            "4√3",
+            "6√3",
+            "12√3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2003,
+        "question": "<p>If \\(P = \\sqrt{QR\\left(1+\\frac{3t}{R}\\right)}\\), make R the subject of the formula.</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(R = \\frac{3Qt}{P^2 - Q}\\)",
+            "\\(R = \\frac{P^2 – 3t}{Q+1}\\)",
+            "\\(R = \\frac{P^2 + 3t}{Q - 1}\\)",
+            "\\(R = \\frac{P^2-3Qt}{Q}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16795655436_wamath36.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>P \\(\\cap\\) Q = {f, e} = 2</p>",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "2",
+            "4",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2003,
+        "question": "<p>From the Venn Diagram below, find Q' ∩ R.</p>",
+        "explanation": "<p>Q' ∩ R<br>\nQ' = U - Q<br>\nQ' = {a, b, c, d, g, h, i}<br>\nR = {c, e, h, g}<br>\nQ' ∩ R = {c, h, g}</p>",
+        "correctIndex": 2,
+        "options": [
+            "(e)",
+            "(c, h)",
+            "(c, g, h)",
+            "(c, e, g, h)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2003,
+        "question": "<p>The square root of a number is 2k. What is half of the number</p>",
+        "explanation": "<p>Let the number be x.</p><p>\\(\\sqrt{x} = 2k \\implies x = (2k)^2\\)</p><p>= \\(4k^2\\)</p><p>\\(\\frac{1}{2} \\times 4k^2 = 2k^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\sqrt{\\frac{k}{2}}\\)",
+            "\\(\\sqrt{k}\\)",
+            "\\(\\frac{1}{2}k^2\\)",
+            "2k<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2003,
+        "question": "<p>Given that p varies as the square of q and q varies inversely as the square root of r. How does p vary with r?</p>",
+        "explanation": "<p>\\(p \\propto q^2\\)</p><p>\\(q \\propto \\frac{1}{\\sqrt{r}\\)</p><p>\\(p = kq^2\\)</p><p>\\(q = \\frac{c}{\\sqrt{r}}\\)</p><p>where c and k are constants.</p><p>\\(q^2 = \\frac{c^2}{r}\\)</p><p>\\(p = \\frac{kc^2}{r}\\)</p><p>If k and c are constants, then kc\\(^2\\) is also a constant, say z.</p><p>\\(p = \\frac{z}{r}\\)</p><p>p varies inversely as r.</p>",
+        "correctIndex": 3,
+        "options": [
+            "p varies as the square of r",
+            "p varies as the square root of r",
+            "p varies inversely as the square of r",
+            "p varies inversely as r"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2003,
+        "question": "The probabilities of a boy passing English and Mathematics test are x and y respectively. Find the probability of the boy failing both tests",
+        "explanation": "Prob (passing English) = x<br>Prob (passing Maths) = Y<br>Prob (failing English) = 1 - x<br>Prob (failing Maths) = 1 - y<br>Prob (failing both test) = Prob(failing English) and Prob(failing Maths) = (1 - x)(1 - y)<br>=1 - y - x + xy<br>=1 - (y + x) + xy",
+        "correctIndex": 2,
+        "options": [
+            "1-(x-y)+xy",
+            "1-(x+y)-xy",
+            "1-(x+y)+xy",
+            "1 - (x - y) + x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2003,
+        "question": "The locus of points equidistant from two intersecting straight lines PQ and PR is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a circle centre P radius Q.",
+            "a circle centre P radius PR",
+            "the point of intersection of the perpendicular bisectors of PQ and PR",
+            "the bisector of angle QPR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2003,
+        "question": "<p>Find the equation whose roots are \\(-\\frac{2}{3}\\) and 3</p>",
+        "explanation": "<p>\\(x = -\\frac{2}{3} \\implies x + \\frac{2}{3} = 0\\)</p><p>\\(x = 3 \\implies x - 3 = 0\\)</p><p>\\(\\implies (x - 3)(x + \\frac{2}{3}) = 0\\)</p><p>\\(x^2 - 3x + \\frac{2}{3}x - 2 = 0\\)</p><p>\\(x^2 - \\frac{7}{3}x - 2 = 0\\)</p><p>\\(3x^2 - 7x - 6 = 0\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "3x<sup>2</sup>+11x-6=0",
+            "3x<sup>2</sup>+7x+6=0",
+            "3x<sup>2</sup>-11x-6=0",
+            "3x<sup>2</sup>-7x-6=0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2003,
+        "question": "Evaluate Cos 45<sup>o</sup>Cos 30<sup>o</sup>- Sin 45<sup>o</sup>Sin 30<sup>o</sup>leaving the answer in surd form",
+        "explanation": "\\(cos45^o \\times cos30^o - sin45^o \\times sin30^o\\\\<br>\\frac{1}{\\sqrt{2}}\\times \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}}\\times \\frac{1}{2}\\\\<br>\\frac{\\sqrt{3}}{2\\sqrt{2}}-\\frac{1}{2\\sqrt{2}}; = \\frac{\\sqrt{3}-1}{2\\sqrt{2}}=\\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{\\sqrt{2}-1}{2}\\)",
+            "\\(\\frac{\\sqrt{3}-\\sqrt{2}}{4}\\)",
+            "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{2}\\)",
+            "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2003,
+        "question": "<p>In constructing an angle, Olu draws line OX. With centre O and a convenient radius, he draws an arc intersecting OX at P. With centre P and the same radius, he draws an arc intersecting the first arc at Q and finally joins OQ. What is the size of angle POQ so constructed?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "90<sup>o</sup>",
+            "75<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16797969432_wamath0346.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8398984716_wamath49ans.jpg\" class=\"img-fluid\">\n</div>Considering the triangle in the diagram<br>\\(tan\\theta = \\frac{opp}{hyp}\\\\<br>Tan 63^{\\circ} = \\frac{h}{4}\\\\<br>h = 4 tan 63^{\\circ}\\\\<br>Area of trapezium = \\frac{1}{2}h(a+b)\\\\<br>\\left(\\frac{1}{2} \\times 4 tan 63^{\\circ}[5+9]\\right)\\\\<br>=28\\times 1.963 = 54.96 = 55cm^2\\)",
+        "correctIndex": 0,
+        "options": [
+            "55cm<sup>2</sup>",
+            "25cm<sup>2</sup>",
+            "22cm<sup>2</sup>",
+            "13cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2003,
+        "question": "<p>A right circular cone is such that its radius r is twice its height h. Find its volume in terms of h</p>",
+        "explanation": "<p>Volume of a cone = \\(\\frac{\\pi r^2 h}{3}\\)</p><p>r = 2h.</p><p>V = \\(\\frac{\\pi \\times (2h)^2 \\times h}{3}\\)</p><p>= \\(\\frac{4}{3} \\pi h^3\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{2}{3}\\pi h^2\\)",
+            "\\(\\frac{1}{12}\\pi h^3\\)",
+            "\\(\\frac{4}{3}\\pi h^2\\)",
+            "\\(\\frac{4}{3}\\pi h^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2003,
+        "question": "<p>A man made a loss of 15% by selling an article for N595. Find the cost price of the article</p>",
+        "explanation": "<p>15% loss = N595</p><p>\\(\\implies\\) (100 - 15)% of CP = N595</p><p>85% of CP = N595</p><p>CP = \\(\\frac{595 \\times 100}{85}\\)</p><p>= N700.00</p>",
+        "correctIndex": 2,
+        "options": [
+            "N600.00",
+            "N684.25",
+            "N700.00",
+            "N892.50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2003,
+        "question": "The bearing of P from Q is x, where 270<sup>o</sup>&lt; x &lt; 360<sup>o</sup>. Find the bearing of Q from P",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/20997474630_wamath0349ans.jpg\" class=\"img-fluid\">\n</div>Bearing of Q and P<br>\\(180^{\\circ} – (360^{\\circ}-x)\\\\<br>180^{\\circ}-360^{\\circ}+x\\\\<br>-180^{\\circ}+x\\\\<br>x-180^{\\circ}\\)",
+        "correctIndex": 3,
+        "options": [
+            "(x - 90)<sup>o</sup>",
+            "(x-270)<sup>o</sup>",
+            "(x - 135)<sup>o</sup>",
+            "(x - 180)<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2003,
+        "question": "Which of the following is not a measure of dispersion?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Range",
+            "Mean deviation",
+            "Mean",
+            "Standard deviation"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2012,
+        "question": "<p>A ray of light is incident on an air-glass boundary at an angle \\(\\theta\\). If the angle between the partially reflected ray and the refracted ray is 90°, calculate \\(\\theta\\), given that the refractive index of glass is 1.50.</p>",
+        "answer": "<p>n = \\(\\frac{sin i}{sin r}\\)</p><p>1.5 = \\(\\frac{sin \\theta}{sin(190 - \\theta)} = \\frac{sin \\theta}{cos theta} = \\tan \\theta\\)</p><p>Hence, 0 = tan\\(^{-1}\\) 1.5 = 56.31\\(^o\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2012,
+        "question": "<p>(a)</p><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2813%29.jpeg\" style=\"height:120px; width:167px\"></p><p>In the diagram illustrated, a body of mass m slides on an inclined plane. Show that the coefficient Mg of friction between the surfaces in contact is tan \\(\\theta\\).<br>\nA spiral spring with a metal extends by 10.5 cm in air. When the metal is fully submerged in water, the spring extends by 6.8 cm. Calculate the relative density of the metal. (Assume Hooke's law is obeyed)</p><p> </p>",
+        "answer": "<p>If F = uniform speed of body</p><p>\\(\\mu = \\frac{F}{R} = \\frac{Mg sin \\theta}{Mg cos \\theta} = tan \\theta\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2012,
+        "question": "<p>(a) Explain the term electrodes in electric cells.</p><p>b) An electric current passing through an electrolyte for 2 minutes deposited 200 g of a substance. If the electrochemical equivalent of the substance is 8.33 x 10\\(^{-4}\\)g C\\(^{-1}\\), calculate the current passed.</p>",
+        "answer": "<p>(a) An electrode is a conductor through which electrons flow into and out of the electric cell.</p><p>(b) I = \\(\\frac{M}{zt} = \\frac{200}{8.33 \\times 10^{-4} \\times 60 \\times 2}\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2012,
+        "question": "<p>Explain why sound waves cannot be plane Polarized.</p>",
+        "answer": "<p> Sound waves are longitudinal waves which cannot be plane polarized as polarization is a characteristic of transverse waves only.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2012,
+        "question": "<p>a) Define surface tension.</p><p>(b) State two methods by which the surface tension of a liquid can be reduced.</p>",
+        "answer": "<p>(a) Surface tension is the force per unit length acting in the surface at right angles to one side of a line drawn in the surface of a liquid. It can be defined as the property of a liquid that makes it behave as if its surface is an elastic skin.</p><p>(b) Methods of reducing surface tension are by adding:</p><p>- Soap</p><p>- alcohol</p><p>- oil</p><p>- detergent</p><p>- increasing the temperature.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2012,
+        "question": "<p>Explain why it is desirable to install an air conditioner near the ceiling of a room and not close to the floor.</p>",
+        "answer": "<p>Air molecules near the ceiling get cooled, become denser and sink while warmer air moleculus below being lighter rise to the top, get cooled, become denser and sink once more, thereby sets up conventional current.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2012,
+        "question": "<p> (a) On what principle does lighting in a fluorescent tube operate?</p><p>(b) State two factors which determine the colour of light produced in a fluorescent tube.</p>",
+        "answer": "<p>(a) Fluorescent tube operate on the principle of electrical discharge through a gas at very low pressure and very high voltage.</p><p>(b) Factors which determine the colour of light in a fluorescent tube are: -voltage across the tube -nature of gas in the tube -nature of powder coating inside the tube.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2012,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2814%29.jpeg\" style=\"height:113px; width:302px\"></p><p>The diagram above illustrates an arrangement of a cathode ray from an electron gun and a bar magnet placed perpendicularly to the direction of the ray. Will the ray bend downward or upward? Explain.</p>",
+        "answer": "<p>The ray will bend upward. The direction of motion of the charge is due to the force acting on it which is mutually perpendicular to the direction of the magnetic field and the moving charge.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2012,
+        "question": "<p> (a) Explain wave-particle duality of light.</p><p>(b) Illustrate your answer in (a) with observable phenomena.</p>",
+        "answer": "<p>(a) Wave - particle duality of light means that light exists in two forms - wave and particle.</p><p>(b)(i) Wave nature - it has properties such as reflection, refraction, diffraction, polarization and interference.</p><p>(ii) Particle nature such as - Photo-electricity, momentum, radiation of energy from hot bodies and emission and absorption of light.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2012,
+        "question": "<p>(a) State the principle of conservation of linear momentum.</p><p>(b) Explain the mode of action of a propelled rocket.</p><p>(c) During a training session, two footballers pass a ball repeatedly between themselves. Give two reasons why the to and fro motion of the ball is not simple harmonic.</p><p>(d) A ball is dropped from a height, at the same time as another ball is projected horizontally from the same height.</p><p>(i) Would the balls hit the ground at the same time?</p><p>(ii) Explain your answer in (i).</p><p>(e) A ball of mass 0.10 kg is projected horizontally onto a vertical wall with a speed of 17 ms\\(^{-1}\\). The ball makes contact with the wall for 0.15 s and rebounds horizontally with a speed of 13 ms\\(^{-1}\\).</p><p>Calculate the:</p><p>(i) change in momentum of the ball;</p><p>(ii) average force exerted on the ball during its collision with the wall.</p>",
+        "answer": "<p>(a) Principle of conservation of linear momentum states that if two or more bodies collide in a closed system, the total momentum after the collision is equal to the total momentum before the collision.</p><p> </p><p>(b) The principle of action of a propelled rocket is that gas burnt within the combustion chamber of the rocket engine is expelled downwards through the exhaust (tail nozzle) at very high speed, hence an equal and opposite momentum is given to the rocket which moves the rocket upward.</p><p> </p><p>(c) The motion is not simple harmonic because:</p><p>-there is no equilibrium position</p><p>-acceleration of the ball is not directly proportional to displacement</p><p>-acceleration of the ball is not directed towards a fixed point.</p><p> </p><p>(d)(i) Both balls will hit the ground at the same time.</p><p>(ii) All free falling objects fall at the same rate because they are pulled towards the earth by gravity and accelerate at a constant rate.</p><p> </p><p>(e)(i) Charge in momentum = m(v-u)</p><p>= 0.10(13 - 17) = 3 kgms\\(^{-1}\\)</p><p>(ii) Average force F = \\(\\frac{\\text{change in momentum}}{\\text{time}}\\) = \\(\\frac{3}{0.15} = 20N\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2012,
+        "question": "<p>(a) (i) What is a machine?</p><p>(ii) State two uses of gears.</p><p>(iii) Define the velocity ratio for a pair of gear wheels.</p><p>(iv) How can the mechanical advantage of a gear system be increased?</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2815%29.jpeg\" style=\"height:121px; width:255px\"><br>\nThe diagram above illustrates the gears system of a bicycle.</p><p>(i) Determine its velocity ratio.</p><p>(ii) If the bicycle has an efficiency of 90%, calculate the effort required to overcome a load of 70N.</p><p>(iii) Why is the calculated effort less than the actual effort required?</p>",
+        "answer": "<p>(a)(i) A machine is a device in which an effort applied at one end is used to overcome a load at another point. Machine makes work easier.</p><p>(ii) Uses of gears are: - to change speed to change direction of motion</p><p>- to magnify force.</p><p>(iii) Velocity ratio of a gear wheel is the ratio of number of teeth on driven wheel to number of teeth on driving wheel OR</p><p>Velocity ratio = \\(\\frac{\\text{Time rate of revolution/speed/radius of driven wheel}}{\\text{Time rate of revolution/speed/radius of driving wheel}}\\)</p><p>(iv) To increase the mechanical advantage, the driving gear is made smaller with fewer teeth than the driven gear.</p><p>(b) Number of teeth on driven gear = 12.</p><p>Number of teeth on driving gear = 18.</p><p>(i) V.R. = \\(\\frac{\\text{no. of teeth on driven gear}}{\\text{no. of teeth on driving gear}}\\) </p><p>= \\(\\frac{12}{8} = \\frac{2}{3}\\)</p><p>(ii) Efficiency - \\(\\frac{M.A}{V.R}\\) x 100% = x 100%</p><p>= \\(\\frac{L/E}{V.R}\\) x 100%</p><p>90 = \\(\\frac{70/E}{2/3}\\) x 100%</p><p>(iii) This is due to: - Friction between the tyres and load.</p><p>- Friction between chain and gear.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2012,
+        "question": "<p>(a) Explain the term critical angle.</p><p>(b) List two factors which determine the deviation of a ray of light by a triangular glass prism.</p><p>(c) The angle of refraction (r) of a ray of white light from air through a triangular glass prism of refractive index 1.5 is 29.0°. Calculate the angle through which the ray is least deviated.</p><p>(d) Study the ray diagram below and use it to answer the questions that follow.</p><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2816%29.jpeg\" style=\"height:162px; width:337px\"></p><p> </p><p>Calculate the:</p><p>(i) values of angles P,Q and R;</p><p>(ii) refractive index n of the glass prism;</p><p>(iii) value of e;</p><p>(iv) total deviation D.</p>",
+        "answer": "<p>Critical angle is the angle of incidence in the denser medium when the angle of refraction in the less dense medium is 90°.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2817%29.jpeg\" style=\"height:126px; width:270px\"></p><p>(b) Deviation of a ray in a triangular prism is determined by the factors:</p><p>- Angle of incidence</p><p>- Refracting angle of the prism, and</p><p>- Refractive index of the prism material.</p><p>(c) A = 2r = 2 x 29 = 58\\(^o\\)</p><p>But n = \\(\\frac{sin \\frac{1}{2} (A + Dm)}{sin \\frac{1}{2}A} \\)</p><p>sin \\(\\frac{1}{2}\\)(A + Dm) = n sin A \\(\\frac{1}{2}\\)A</p><p>58 + Dm = 93.32 - 58 = 35.32\\(^o\\)</p><p>(d) Angle P = 45° - 20° = 25°</p><p>But Angle Q = 180°- 60° = 120°</p><p>P +Q + R = 180°</p><p>Hence R = 180 - (P + Q) =180 - (25 + 120) = 35°</p><p>(ii) n = \\(\\frac{Sini}{sinP} = \\frac{sin45^o}{sin45^o} = 1.673\\)</p><p>(iii) n = \\(\\frac{sini}{sine} = \\frac{sine}{sinR} = \\frac{sinee^o}{sin35^o}\\)</p><p>= 1.673 = \\(\\frac{sine}{sin35^o}\\)</p><p>e = sin\\(^{-1}\\) (1.673 x sin 35\\(^o\\)) = 73.7\\(^o\\)</p><p>(iv) D = (i + e) - A = (45 + 73.3) - 60\\(^o\\)</p><p>= 58.3\\(^o\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2012,
+        "question": "<p>(a) Define magnetic line of force.</p><p>(b) A wire of length 10 cm carrying a current of 4.0 A is placed between the poles of a powerful electromagnet of magnetic flux density 2.0 T. Calculate the:</p><p>(i) force on the wire when it is parallel to the field;</p><p>(ii) maximum force on the wire;</p><p>(iii) force on the wire when it makes an angle of 60° with the field.</p><p>(c) Describe how keepers can be used to preserve the magnetic strength of permanent bar magnets.</p><p>(d) A sailor observes that his mariners' compass reads N 10° W at a place where the angle of declination is N15° W. Calculate the true bearing of the place.</p>",
+        "answer": "<p>(a) Magnetic line of force is defined as an imaginary line in a mangetic field along which a free or isolated north pole would move. OR, it is an imaginary line in a magnetic field such that the targent to it at any point gives the direction of the field at that point.</p><p> </p><p>(b) F = 1BL Sin\\(\\theta\\)</p><p>(i) When wire is parallel to the field F = IBL = 4x 2 x 0.1 =0N</p><p>(ii) When force is maximum F = IBL Sin90° = 4 x 2 x 0.1 x Sin90°= 0.8N</p><p>(iii) When the wire is at 60° to the field</p><p>F = IBL Sin\\(\\theta\\) = 4 x 2 x 0.1 x Sin60° = 0.693N</p><p> </p><p>(c) Magnets are stored in pairs with their poles adjacent, placing soft iron pieces called keepers across their ends. The keepers become magnets by induction decreasing the reluctance of the air gap; hence both magnets and keepers form closed loops with no free poles preventing demagnetization</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2818%29.jpeg\" style=\"height:99px; width:273px\">.<br>\n </p><p>(d) True bearing = 15 + 10 = N25°W.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2012,
+        "question": "<p> (a) (i) Explain why x-rays can be used to produce photographs of fractures in bones.</p><p>(ii) List four uses of x-rays other than in medicine.</p><p>(b) State the energy transformations which takes place during the operation of an x-ray tube.</p><p>(c) (i) Explain three named dangers to which human beings may be exposed when subjected to large doses of x-rays.</p><p>(ii) State two precautions that must be taken by persons working with x-rays.</p><p>(d) In an x-ray tube, an electron is accelerated from rest towards a tungsten target biased at a potential of 33 kV. Calculate, for the electron, the</p><p>(i) kinetic energy;</p><p>(ii) velocity. [h = 6.6 x 10\\(^{-14}\\) Js; Me = 9.1 x10\\(^{-31}\\) kg; c = 3.0 x 10\\(^4\\) ms\\(^{-1}\\); e = 1.6 x 10\\(^{-19}\\) C.]</p>",
+        "answer": "<p>(a)(i) X-rays can produce photographs of fractures in bones; it can pass through fractures but cannot penetrate bones.</p><p>(ii) Uses of x-ray other than in medicine:</p><p>—detection of cracks in metallic products</p><p>—detection of alternations in art works</p><p>—detection of fake gems</p><p>—examination of bags and luggage</p><p>—identification of chemical elements and their isotopes.</p><p>(b) The energy transformations: Electrical energy</p><p>—&gt; Heat energy</p><p>—&gt; Kinetic energy</p><p>—&gt; Electromagnetic energy</p><p>—&gt; X-rays and Heat energy.</p><p> </p><p>(c)(i) Dangers of over exposure to x-rays are:</p><p>— Cell mutation, i.e. change in cell genetic codes.</p><p>— Leukaemia: the destruction of living cells, tissues and organs.</p><p>— Skins harm, causes skin burn and tanning.</p><p> </p><p>(ii) A person working on x-rays should take the following precautions:</p><p>— wear lead protective coats</p><p>— wear dosimeter</p><p>— wear protective goggles</p><p>— go for routine regular medical check-up.</p><p> </p><p>(d)(i) K.E. = eV = 1.6x10\\(^{-19}\\) x 33 x 10\\(^3\\)</p><p>= 5.28 x 10\\(^{-15}\\)J</p><p>V = \\(\\sqrt{\\frac{2K.E}{m}} = \\sqrt{\\frac{2 \\times 5.28 \\times 10^{-15}}{9.1 \\times 10^{-31}}}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2012,
+        "question": "<p>A spiral spring with a metal extends by 10.5 cm in air. When the metal is fully submerged in water, the spring extends by 6.8 cm. Calculate the relative density of the metal. (Assume Hooke's law is obeyed)</p>",
+        "answer": "<p>R.d = \\(\\frac{\\text{weight of object in air}}{\\text{upthrust in water}}\\)</p><p>= \\(\\frac{10.5}{10.5 - 6.8} = \\frac{10.5}{3.7} = 2.84\\)</p><p> </p>",
+        "type": "theory"
+    }
+]

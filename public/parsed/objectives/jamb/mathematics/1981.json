@@ -1,0 +1,794 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1981,
+        "question": "<p>Suppose x varies inversely as y, y varies directly as the square of t and x = 1, when t = 3. Find x when t = \\(\\frac{1}{3}\\).</p>",
+        "explanation": "<p>\\(x \\propto \\frac{1}{y}\\)</p><p>\\(x = \\frac{k}{y}\\)</p><p>\\(y \\propto t^{2}\\)</p><p>\\(y = ct^{2}\\) </p><p>k and c are constants.</p><p>\\(x = \\frac{k}{ct^{2}}\\)</p><p>Let \\(\\frac{k}{c} = d\\) (a constant)</p><p>\\(x = \\frac{d}{t^{2}}\\)</p><p>\\(1 = \\frac{d}{3^{2}} \\implies d = 9\\)</p><p>\\(\\therefore x = \\frac{9}{t^{2}}\\)</p><p>\\(x = 9 \\div (\\frac{1}{3})^{2} \\)</p><p>= \\( 9 \\div \\frac{1}{9} = 9 \\times 9 = 81\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "81",
+            "27",
+            "\\(\\frac{1}{9}\\)",
+            "\\(\\frac{1}{27}\\)",
+            "\\(\\frac{1}{81}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1981,
+        "question": "<p>If sine x equals cosine x, what is x in radians?</p>",
+        "explanation": "<p>\\(\\sin x = \\cos x\\)</p><p>\\(\\implies x = 45°\\)</p><p>In radians, \\(x = \\frac{\\pi}{4}\\).</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{\\pi}{2}\\)",
+            "\\(\\frac{\\pi}{3}\\)",
+            "\\(\\frac{\\pi}{4}\\)",
+            "\\(\\frac{\\pi}{6}\\)",
+            "\\(\\frac{\\pi}{12}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1981,
+        "question": "<p>The ratio of the price of a loaf of bread to the price of a packet of sugar in 1975 was r : t. In 1980, the price of a loaf went up by 25% and that of a packet of sugar went up by 10%. Their new ratio is now</p>",
+        "explanation": "<p>Ratio of bread to sugar = r:t<br>\n<br>\n25% increase in bread = \\(\\frac{125r}{100}\\)<br>\n<br>\n10% increase in sugar = \\(\\frac{100t}{100}\\)<br>\n<br>\nNew ratio = \\(\\frac{125r}{100}\\):\\(\\frac{110t}{100}\\)<br>\n<br>\n= 25r:22t<br>\n<br>\n= 50r:44t</p>",
+        "correctIndex": 2,
+        "options": [
+            "40r:50t",
+            "44r : 50t",
+            "50r : 44t",
+            "44r:55t",
+            "55r:44t"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1981,
+        "question": "<p>Find a two-digit number such that three times the tens digit is 2 less than twice the units digit and twice the number is 20 greater than the number obtained by reversing the digits</p>",
+        "explanation": "<p>Let the tens digits of the number be x and the unit digit be y<br>\n<br>\n3x = 2y - 2<br>\n<br>\n3x - 2y = -2.......(i)<br>\n<br>\nIf the digits are interchanged, the tens digit becomes y, the unit digit becomes x. Hence 2(10x + y) = 10y + x + 20<br>\n<br>\n(20x + 2y) - (10y + x) = 20<br>\n<br>\n19x - 8y = 20.....(ii)<br>\n<br>\nMultiply eqn.(i) by 8 and eqn.(ii) by 2<br>\n<br>\n24x - 16y = -16......(iii)<br>\n<br>\n38x - 16y = 40........(iv)<br>\n<br>\neqn(iv) - eqn(iii)<br>\n<br>\n14x = 56<br>\n<br>\nx = 4<br>\n<br>\nSub. for x = 4 in eqn(i)<br>\n<br>\n3(4) - 2y = -2<br>\n<br>\n14 = 2y<br>\n<br>\ny = 7<br>\n<br>\nSo the original number is 10(4) + 7<br>\n<br>\ni.e. 10x + y<br>\n<br>\n= 47</p>",
+        "correctIndex": 3,
+        "options": [
+            "24",
+            "42",
+            "74",
+            "47",
+            "72"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1981,
+        "question": "<p>Find the value of x satisfying \\(\\frac{x}{2}\\) - \\(\\frac{1}{3}\\) &lt; \\(\\frac{2x}{5}\\) + \\(\\frac{1}{6}\\)</p>",
+        "explanation": "<p>\\(\\frac{x}{2} - \\frac{1}{3} &lt; \\frac{2x}{5} + \\frac{1}{6}\\)</p><p>\\(\\frac{x}{2} - \\frac{2x}{5} &lt; \\frac{1}{6} + \\frac{1}{3}\\)</p><p>\\(\\frac{x}{10} &lt; \\frac{1}{2}\\)</p><p>\\(2x &lt; 10 \\implies x &lt; 5\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "x &lt; 5",
+            "x &lt; 7\\(\\frac{1}{2}\\)",
+            "x &gt; 5",
+            "x &gt; 7\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1981,
+        "question": "<p>A group of 14 children children received the following scores in a reading test: 35, 35, 26, 26, 26, 29, 29, 29, 12, 25, 25, 25, 25, 17. What was the median score?</p>",
+        "explanation": "<p>Arranging the scores in ascending order:</p><p>12, 17, 25, 25, 25, 25, 26, 26, 26, 29, 29, 29, 35, 35.</p><p>The median is the average of the 7th and 8th marks.</p><p>= \\(\\frac{26 + 26}{2} = 26\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "29",
+            "26",
+            "24",
+            "25",
+            "23"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1981,
+        "question": "<p>Which of the following fractions is less than one-third?</p>",
+        "explanation": "<p>All others are greater than 0.333 when converted to their fractions except \\(\\frac{15}{46}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{22}{63}\\)",
+            "\\(\\frac{4}{11}\\)",
+            "\\(\\frac{15}{46}\\)",
+            "\\(\\frac{33}{98}\\)",
+            "\\(\\frac{122}{303}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1981,
+        "question": "<p>A cuboid has a diagonal of length 9cm and a square base of side 4cm. What is its height?</p>",
+        "explanation": "<p>Given a cuboid, the diagonal cuts a face of the cuboid into 2 right-angled triangles.</p><p>Hence, using the Pythagoras theorem, we have</p><p>\\(9^{2} = 4^{2} + x^{2}\\)</p><p>\\(81 = 16 + x^{2}\\)</p><p>\\(x^{2} = 81 - 16 = 65\\)</p><p>\\(\\therefore x = \\sqrt{65} cm\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "9cm",
+            "\\(\\sqrt{65}\\)cm",
+            "\\(4\\sqrt{2}\\)cm",
+            "7cm",
+            "6.5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1981,
+        "question": "<p>Evaluate correct to 4 decimal places 827.51 x 0.015</p>",
+        "explanation": "<p>827.51 x 0.015<br>\n<br>\nBy normal multiplication or use of four figure table,<br>\n<br>\n827.51 x 0.015<br>\n<br>\n= 12.4127 (to 4 decimal places).</p>",
+        "correctIndex": 1,
+        "options": [
+            "8.8415",
+            "12.4127",
+            "124.1265",
+            "12.4120",
+            "114.1265"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1981,
+        "question": "<p>What is the area between two concentric circles of diameters 26cm and 20cm?</p>",
+        "explanation": "<p>Area of circle 1 with diameter 26cm:</p><p>\\(\\pi r^{2} = \\pi \\times (\\frac{26}{2})^{2} \\)</p><p>= \\(169 \\pi cm^{2}\\)</p><p>Area of circle 2 with diameter 20 cm:</p><p>\\(\\pi R^{2} = \\pi \\times (\\frac{20}{2})^{2}\\)</p><p>= \\(100 \\pi cm^{2}\\)</p><p>Area between the two circles = \\((169 - 100) \\pi cm^{2}\\)</p><p>= \\(69 \\pi cm^{2}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "100\\(\\pi\\)",
+            "169\\(\\pi\\)",
+            "69\\(\\pi\\)",
+            "9\\(\\pi\\)",
+            "269\\(\\pi\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1981,
+        "question": "<p>Marks scored by some children in an arithmetic test are:5, 3, 6, 9, 4, 7, 8, 6, 2, 7, 8, 4, 5, 2, 1, 0, 6, 9, 0, 8.<br>\nThe arithmetic mean of the marks is</p>",
+        "explanation": "<p>Add all the No.s together to give 100<br>\n<br>\n\\(\\sum\\)xf = 100<br>\n<br>\nN = 20<br>\n<br>\nx = \\(\\frac{\\sum xf}{N}\\)<br>\n<br>\n= \\(\\frac{100}{20}\\)<br>\n<br>\n= 5</p>",
+        "correctIndex": 1,
+        "options": [
+            "6",
+            "5",
+            "8",
+            "7",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1981,
+        "question": "<p>The weights of 30 new-born babies are given as follow: 6, 9, 5, 7, 6, 7, 5, 8, 9, 5, 7, 5, 8, 7, 8, 7, 5, 6, 5, 7, 6, 9, 9, 7, 8, 8, 7, 8, 9, 8. The mode is</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n</tr>\n<tr>\n<td>f</td>\n<td>6</td>\n<td>4</td>\n<td>8</td>\n<td>7</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p><br>\nMode is the No having the highest frequency = 7</p>",
+        "correctIndex": 3,
+        "options": [
+            "6",
+            "5",
+            "8",
+            "7",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1981,
+        "question": "<p>If \\(\\sin x° = \\frac{a}{b}\\), what is \\(\\sin (90 - x)°\\)?</p>",
+        "explanation": "<p>\\(\\sin x = \\frac{a}{b}\\)</p><p>\\(\\sin^{2} x + \\cos^{2} x = 1\\)</p><p>\\(\\sin^{2} x = \\frac{a^{2}}{b^{2}}\\)</p><p>\\(\\cos^{2} x = 1 - \\frac{a^{2}}{b^{2}} = \\frac{b^{2} - a^{2}}{b^{2}}\\)</p><p>\\(\\therefore \\cos x = \\frac{\\sqrt{b^{2} - a^{2}}}{b}\\)</p><p>\\(\\sin (90 - x) = \\sin 90 \\cos x - \\cos 90 \\sin x\\)</p><p>= \\((1 \\times \\frac{\\sqrt{b^{2} - a^{2}}}{b}) - (0 \\times \\frac{a}{b})\\)</p><p>= \\(\\frac{\\sqrt{b^{2} - a^{2}}}{b}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{\\sqrt{b^2 - a^2}}{b}\\)",
+            "1\\(\\frac{-a}{b}\\)",
+            "\\(\\frac{b^2 - a^2}{b}\\)",
+            "\\(\\frac{a^2 - b^2}{b}\\)",
+            "\\(\\sqrt{b^2 - a^3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1981,
+        "question": "<p>7 pupils of average age 12 years leave a class of 25 pupils of average age 14 years. If 6 new pupils of average age 11years join the class, what is the average age of the pupils now in the class?</p>",
+        "explanation": "<p>Total age of the 7 pupils = 7 x 12 = 84<br>\n<br>\nTotal age of the 25 pupils = 25 x 14 = 350<br>\n<br>\nTotal age of the 6 pupils = 6 x 11 = 66<br>\n<br>\n7 pupils leaving a class of 25 pupils given 18 pupils<br>\n<br>\nTotal age of the 18 pupils = 350 - 84 = 266<br>\n<br>\n6 pupils joining 18 pupils = 24<br>\n<br>\nTotal age of 24 pupils = 266 + 66 = 332<br>\n<br>\nAverage age of 24 pupils now in class \\(\\frac{332}{24}\\)<br>\n<br>\n= 13yrs 10 months</p>",
+        "correctIndex": 3,
+        "options": [
+            "13years",
+            "12 years 7\\(\\frac{1}{2}\\) months",
+            "13 years 5 months",
+            "13 years 10 months",
+            "11 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1981,
+        "question": "<p>A sum of money invested at 5% per annum simple interest amounts to $285.20 after 3 years. How long will it take the same sum to amount to $434.00 at 7\\(\\frac{1}{2}\\)% per annum simple interest?</p>",
+        "explanation": "<p>\\(A = P(1 + \\frac{R}{100})^{T}\\)</p><p>\\(285.20 = P(1 + \\frac{5}{100})^{3}\\)</p><p>\\(285.20 = P(1.05)^{3} \\implies 1.16P = 285.20\\)</p><p>\\(P = \\frac{285.20}{1.16} = $245.86\\)</p><p>Given Amount = $434.00</p><p>Interest = Amount - Principal</p><p>Interest = $434.00 - $245.86 = $188.14</p><p>\\(T = \\frac{100I}{PR}\\)</p><p>\\(T = \\frac{100 \\times 188.14}{245.86 \\times 7.5}\\)</p><p>\\(T = \\frac{18814}{1843.95} = 10.2\\)</p><p>Approximately 10 years.</p>",
+        "correctIndex": 1,
+        "options": [
+            "7\\(\\frac{1}{2}\\) years",
+            "10 years",
+            "5 years",
+            "12 years",
+            "14 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1981,
+        "question": "<p>By selling an article for N45.00 a man makes a profit of 8%. For how much should he have sold it in order to make a profit of 32%?</p>",
+        "explanation": "<p>When C.P = N45.00 at 8% profit<br>\n<br>\nC.P = \\(\\frac{100}{108}\\) x 45<br>\n<br>\nat profit of 32%, S.P = \\(\\frac{132}{100}\\) x c.p<br>\n<br>\n= \\(\\frac{132}{100}\\) x \\(\\frac{100 \\times 45}{108}\\)<br>\n<br>\n= \\(\\frac{5940}{108}\\)<br>\n<br>\n= N55.00</p>",
+        "correctIndex": 4,
+        "options": [
+            "N180.00",
+            "N59.00",
+            "N63.00",
+            "N58.00",
+            "N55.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1981,
+        "question": "<p>An isosceles triangle of sides 13cm, 13cm, 10cm is inscribed in a circle. What is the radius of the circle?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0405%20%282%29_LI.jpg\" style=\"height:290px; width:250px\"></p><p>In \\(\\Delta DAC, \\stackrel\\frown{DAC} = \\theta\\)</p><p>\\(\\sin \\theta = \\frac{5}{13}\\)</p><p>\\(\\theta = 22.6°\\)</p><p>\\(&lt; DOC = 22.6° \\times 2 = 45.2°\\)</p><p>\\(\\sin 45.2 = \\frac{5}{r} \\implies r = \\frac{5}{\\sin 45.2}\\)</p><p>\\(r = 7.046cm\\)</p><p>= \\(7\\frac{1}{24} cm\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "7cm",
+            "12cm",
+            "8cm",
+            "7cm",
+            "69cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1981,
+        "question": "<p>A micrometer is defined as one millionth of a millimeter. A length of 12,000 micrometres may be represented as</p>",
+        "explanation": "<p>1 UM = 10-6mm<br>\n<br>\n= 10-9m<br>\n<br>\n1.2 x 104 x 10-9m<br>\n<br>\n= 1.2 x 10-5m (0.000012)</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.00012m",
+            "0.0000012m",
+            "0.000012m",
+            "0.00000012m",
+            "0.000000012m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1981,
+        "question": "<p>In one and a half hours, the minute hand of a clock rotates through an angle of</p>",
+        "explanation": "<p>1 hr, = 60 mins, 60 mins = 360o<br>\n<br>\n30 mins = \\(\\frac{360^o}{1}\\) c \\(\\frac{30}{60}\\)<br>\n<br>\n= 180o<br>\n<br>\n90 mins = 360 + 180o<br>\n<br>\n= 540o</p>",
+        "correctIndex": 4,
+        "options": [
+            "90<sup>o</sup>",
+            "180<sup>o</sup>",
+            "640<sup>o</sup>",
+            "450<sup>o</sup>",
+            "540<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1981,
+        "question": "<p>Simplify \\(\\frac{\\sqrt{2}}{\\sqrt{3} - \\sqrt{2}}\\) - \\(\\frac{3 - 2}{\\sqrt{3} + \\sqrt{2}}\\)</p>",
+        "explanation": "<p>\\(\\frac{\\sqrt{2}}{\\sqrt{3} - \\sqrt{2}}\\) - \\(\\frac{3 - 2}{\\sqrt{3} + \\sqrt{2}}\\)<br>\n<br>\n\\(\\frac{\\sqrt{2}}{\\sqrt{3} - \\sqrt{2}}\\) = \\(\\frac{\\sqrt{2}}{\\sqrt{3}}\\) - \\(\\frac{x}{\\sqrt{2}}\\)<br>\n<br>\n\\(\\frac{\\sqrt{3} + \\sqrt{2}}{3 + \\sqrt{2}}\\) = \\(\\sqrt{6}\\) + 2<br>\n<br>\n\\(\\frac{\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + \\sqrt{2}}\\) = \\(\\frac{\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + \\sqrt{2}}\\) x \\(\\frac{\\sqrt{3} - \\sqrt{2}}{\\sqrt{3} - \\sqrt{2}}\\)<br>\n<br>\n= 5 - 2\\(\\sqrt{6}\\)<br>\n<br>\n\\(\\sqrt{6}\\) + 2 - (5 - 2 \\(\\sqrt{6}\\)) = \\(\\sqrt{6}\\) + 2 - 5 + 2\\(\\sqrt{6}\\)<br>\n<br>\n= 3\\(\\sqrt{6}\\) - 3<br>\n<br>\n= 3(\\(\\sqrt{6}\\) - 1)</p>",
+        "correctIndex": 1,
+        "options": [
+            "2\\(\\sqrt{2} - \\sqrt{3}\\)",
+            "3(\\(\\sqrt{6}\\) - 1)",
+            "\\(\\sqrt{6}\\) - 3",
+            "-\\(\\frac{1}{2}\\)",
+            "\\(\\frac{-\\sqrt{3}}{\\sqrt{2} - \\sqrt{2}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1981,
+        "question": "<p>Solve \\(\\frac{1}{x + 1}\\) - \\(\\frac{1}{x + 3}\\) = \\(\\frac{1}{4}\\)</p>",
+        "explanation": "<p>\\(\\frac{1}{x + 1}\\) - \\(\\frac{1}{x + 3}\\) = \\(\\frac{1}{4}\\)<br>\n<br>\n\\(\\frac{x + 3 - x - 1}{(x + 1)(x + 3)}\\) = \\(\\frac{1}{4}\\)<br>\n<br>\n\\(\\frac{2}{x^2 + 4x + 3}\\) = \\(\\frac{1}{4}\\)<br>\n<br>\n= x2 + 4x + 3 = 8<br>\n<br>\nx2 + 4x - 5 = 0<br>\n<br>\n= (x - 1)(x + 5) = 0<br>\n<br>\nx = 1 or -5</p>",
+        "correctIndex": 2,
+        "options": [
+            "x = -1 or 3",
+            "x = 1 or 3",
+            "x = 1 or -5",
+            "x = -1 or 5",
+            "x = -1 or -3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1981,
+        "question": "<p>In \\(\\bigtriangleup\\)XYZ, XY = 3cm, XZ = 5cm and YZ = 7cm. If the bisector of XYZ meets XZ at W, what is the length of XW?</p>",
+        "explanation": "<p>Let XW = a, a :7<br>\n<br>\n\\(\\frac{a}{5 - a}\\) = \\(\\frac{3}{7}\\)<br>\n<br>\n7a = 15 - 3a<br>\n<br>\n10a = 15<br>\n<br>\na = \\(\\frac{15}{10}\\)<br>\n<br>\n= \\(\\frac{3}{2}\\)<br>\n<br>\n= 1.5cm</p>",
+        "correctIndex": 0,
+        "options": [
+            "1.5cm",
+            "2.5cm",
+            "3cm",
+            "4cm",
+            "None of the above"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1981,
+        "question": "<p>If \\(\\log_{2} y = 3 - \\log_{2} x^{\\frac{3}{2}}\\), find y when x = 4.</p>",
+        "explanation": "<p>\\(\\log_{2} y = 3 - \\log_{2} x^{\\frac{3}{2}}\\)</p><p>When x = 4,</p><p>\\(\\log_{2} y = 3 - \\log_{2} 4^{\\frac{3}{2}}\\)</p><p>\\(\\log_{2} y = 3 - \\log_{2} 2^{3}\\)</p><p>\\(\\log_{2} y = 3 - 3 \\log_{2} 2 = 3 - 3 = 0\\)</p><p>\\(\\log_{2} y = 0 \\implies y = 2^{0} = 1\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "8",
+            "\\(\\sqrt{65}\\)",
+            "4\\(\\sqrt{2}\\)",
+            "3",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1981,
+        "question": "<p>Given that 10x = 0.2 and log102 = 0.3010, find x</p>",
+        "explanation": "<p>Given that log102 = 0.3010, If 10x = 0.2<br>\n<br>\nlog1010x = log10 0.2 = log10<br>\n<br>\nxlog10 10 = log10 2 - log1010 since log10 10 = 1<br>\n<br>\nx = 0.3010 - 1<br>\n<br>\nx = -0.6990</p>",
+        "correctIndex": 1,
+        "options": [
+            "-1.3010",
+            "-0.6990",
+            "0.6990",
+            "1.3010",
+            "0.02"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1981,
+        "question": "<p>Two cars X and Y start at the same point and travel towards a point P which is 150km away. If the average speed of Y is 60km per hour and x arrives at P 25 minutes earlier than Y. What is the average speed of X?</p>",
+        "explanation": "<p>Distance travelled by both x and y = 150 km.<br>\n<br>\nSpeed of y = 60km per hour, Time = \\(\\frac{dist.}{Speed}\\)<br>\n<br>\nTime spent by y = \\(\\frac{150}{60}\\)<br>\n<br>\n= 2\\(\\frac{3}{6}\\)hrs<br>\n<br>\n= \\(\\frac{1}{2}\\) hrs<br>\n<br>\nif x arrived at p 25 minutes earlier than y, then time spent by x = 2 hour 5 mins<br>\n<br>\n= 125 mins<br>\n<br>\nx average speed = \\(\\frac{150}{125}\\) x \\(\\frac{60}{1}\\)<br>\n<br>\n= \\(\\frac{9000}{125}\\)<br>\n<br>\n= 72 km\\hr</p>",
+        "correctIndex": 1,
+        "options": [
+            "51\\(\\frac{3}{7}\\)km per hour",
+            "72km per hour",
+            "37\\(\\frac{1}{2}\\) km per hour",
+            "66km per hour",
+            "75km per hour"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1981,
+        "question": "simplify \\(\\frac{6^{2n + 1} \\times 9^n \\times 4^{2n}}{18^n \\times 2^n \\times 12^{2n}}\\)",
+        "explanation": "\\(\\frac{6^{2n + 1} \\times 9^n \\times 4^{2n}}{18^n \\times 2^n \\times 12^{2n}}\\) = \\(\\frac{(2 \\times 3^{2n + 1} \\times 3^{2n}) \\times 2^{4n}}{(2 \\times 9)^n \\times 2^n \\times (6 \\times 2^{2n})}\\)<br><br>= \\(\\frac{(2^{2n + 1} \\times 3^{2n + 1}) \\times 3^{2n} \\times 2^{4n}}{2^n \\times 3^{2n} \\times 2^n \\times 2^{4n} \\times 3^{2n}}\\)<br><br>= \\(\\frac{2^{2n} + 1 + 4^n \\times 3^{2n} + 1 + 2^n}{2^{n + n + 4n} \\times 3^{2n + 4n} \\times 3^{2n + 2n}}\\)<br><br>= \\(\\frac{2^{6n + 1} \\times 3^{4n + 1}}{2^{6n} x 3^{4n}}\\)<br><br>= 2<sup>6n + 1 - 6n</sup>x 3<sup>4n + 1 - 4n</sup><br><br>2 x 3 = 6",
+        "correctIndex": 3,
+        "options": [
+            "3<sup>2n</sup>",
+            "3 x 2<sup>3n - 1</sup>",
+            "2<sup>n</sup>",
+            "6",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1981,
+        "question": "<p>The number 25 when converted from the tens and units base to the binary base (base two) is one of the following</p>",
+        "explanation": "<p>\\(\\begin{array}{c|c} 2 &amp; 25\\\\2 &amp; 12 R 1\\\\2 &amp; 6 R 0\\\\2 &amp; 3 R 0\\\\2 &amp; 1 R 1\\end{array}\\)<br>\n<br>\n= (11001)</p>",
+        "correctIndex": 3,
+        "options": [
+            "10011",
+            "111011",
+            "111000",
+            "11001",
+            "110011"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1981,
+        "question": "<p>Evaluate \\(\\frac{6.3 \\times 10^5}{8.1 \\times 10^3}\\) to 3 significant fiqures</p>",
+        "explanation": "<p>\\(\\frac{6.3 \\times 10^5}{8.1 \\times 10^3}\\)</p><p>\\(\\frac{7}{9} \\times 10^{2}\\)</p><p>= \\(0.77778 \\times 10^{2}\\)</p><p>= \\(77.778 \\approxeq 77.80\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "77.80",
+            "778.0",
+            "7.870",
+            "8.770",
+            "88.70"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1981,
+        "question": "<p>The positive root of t in the following equation, 4t2 + 7t - 1 = 0, correct to 4 places of decimal, is</p>",
+        "explanation": "<p>\\(4t^{2} + 7t - 1 = 0\\)</p><p>Using a = 4, b = 7, c = -1.</p><p>\\(x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}\\)</p><p>= \\(\\frac{-7 \\pm \\sqrt{7^{2} - 4(4)(-1)}}{2(4)}\\)</p><p>= \\(\\frac{-7 \\pm \\sqrt{49 + 16}}{8}\\)</p><p>= \\(\\frac{-7 \\pm \\sqrt{65}}{8}\\)</p><p>= \\(\\frac{-7 \\pm 8.0623}{8}\\)</p><p>The positive answer = \\(\\frac{-7 + 8.0623}{8} = \\frac{1.0623}{8}\\)</p><p>\\(\\approxeq 0.1328\\) (4 decimal place)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.0622",
+            "10.6225",
+            "0.1328",
+            "0.3218",
+            "2.0132"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1981,
+        "question": "<p>The difference between the length and width of a rectangle is 6cm and the area is 135cm2. What is the length?</p>",
+        "explanation": "<p>Area = L x B<br>\n<br>\nL - B = 6<br>\n<br>\nL = 6 + B<br>\n<br>\narea = 135<br>\n<br>\nB(6 + B) = B2 + 6B - 135 = 0<br>\n<br>\nB = 9<br>\n<br>\nL = 6 + 9<br>\n<br>\n= 15</p>",
+        "correctIndex": 2,
+        "options": [
+            "25cm",
+            "18cm",
+            "15cm",
+            "24cm",
+            "27cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1981,
+        "question": "The area of a circular plate is one-sixteenth the surface area of a ball of a ball, If the area of the plate is given as P cm<sup>2</sup>, then the radius of the ball is",
+        "explanation": "Surface area of a sphere = 4\\(\\pi\\)r<sup>2</sup><br><br>\\(\\frac{1}{16}\\) of 4\\(\\pi\\)r<sup>2</sup><br><br>= \\(\\frac{\\pi r^2}{4}\\)<br><br>P = \\(\\frac{\\pi r^2}{4}\\)<br><br>r = 2\\(\\frac{P}{\\pi}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{2P}{\\pi}\\)",
+            "\\(\\frac{P}{\\sqrt{\\pi}}\\)",
+            "\\(\\frac{P}{\\sqrt{2\\pi}}\\)",
+            "2\\(\\frac{P}{\\pi}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1981,
+        "question": "<p>Show that \\(\\frac{\\sin 2x}{1 + \\cos x}\\) + \\(\\frac{sin2 x}{1 - cos x}\\) is</p>",
+        "explanation": "<p>\\(\\frac{\\sin^{2} x}{1 + \\cos x} + \\frac{\\sin^{2} x}{1 - \\cos x}\\)</p><p>\\(\\frac{\\sin^{2} x (1 - \\cos x) + \\sin^{2} x (1 + \\cos x)}{1 - \\cos^{2} x}\\)</p><p>= \\(\\frac{\\sin^{2} x - \\cos x \\sin^{2} x + \\sin^{2} x + \\sin^{2} x \\cos x}{\\sin^{2} x}\\)</p><p>(Note: \\(\\sin^{2} x + \\cos^{2} x = 1\\)).</p><p>= \\(\\frac{2 \\sin^{2} x}{\\sin^{2} x}\\)</p><p>= 2.</p>",
+        "correctIndex": 2,
+        "options": [
+            "sin x",
+            "cos<sup>2</sup>x",
+            "2",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1981,
+        "question": "The first term of an Arithmetic progression is 3 and the fifth term is 9. Find the number of terms in the progression if the sum is 81",
+        "explanation": "1st term a = 3, 5th term = 9, sum of n = 81<br><br>nth term = a + (n - 1)d, 5th term a + (5 - 1)d = 9<br><br>3 + 4d = 9<br><br>4d = 9 - 3<br><br>d = \\(\\frac{6}{4}\\)<br><br>= \\(\\frac{3}{2}\\)<br><br>= 6<br><br>S<sub>n</sub>= \\(\\frac{n}{2}\\)(6 + \\(\\frac{3}{4}\\)n - \\(\\frac{3}{2}\\))<br><br>81 = \\(\\frac{12n + 3n^2}{4}\\) - 3n<br><br>= \\(\\frac{3n^2 + 9n}{4}\\)<br><br>3n<sup>2</sup>+ 9n = 324<br><br>3n<sup>2</sup>+ 9n - 324 = 0<br><br>By almighty formula positive no. n = 9<br>= 3",
+        "correctIndex": 2,
+        "options": [
+            "12",
+            "27",
+            "9",
+            "4",
+            "36"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1981,
+        "question": "Simplify T = \\(\\frac{4R_2}{R_1^{-1} + R_2^{-1} + 4R_3^{-1}}\\)",
+        "explanation": "T = \\(\\frac{4R_2}{R_1^{-1} + R_2^{-1} + 4R_3^{-1}}\\) = \\(\\frac{4R_2}{\\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{4}{R_3}}\\)<br><br>= \\(\\frac{4R_2}{\\frac{R_2R_3 + R_1R_3 + 4R_1R_2}{R_1R_2R_3}}\\)<br><br>= \\(\\frac{4R_2 \\times R_1 R_2 R_3}{R_2R_3 + R_1R_3 + 4R_1 R_2}\\)<br><br>= \\(\\frac{4R_1 \\times R_2 R_3}{R_2R_3 + R_1R_3 + 4R_1R_2}\\)<br><br>T = \\(\\frac{4R_1 \\times R_2 R_3}{R_2R_3 + R_1R_3 + 4R_1 R_2}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{4R_1 \\times R_2 R_3}{R_2R_3 + R_1R_3 + 4R_1 R_2}\\)",
+            "\\(\\frac{R_1 R_2 R_3}{R_2R_3 + R_1R_2 + 4R_1 R_2}\\)",
+            "\\(\\frac{16R_1 R_2 R_3}{R_2R_3 + R_1R_2 + R_1 R_2}\\)",
+            "\\(\\frac{4R_1 R_2 R_3}{4R_2R_3 + R_1R_2 + 4R_1 R_2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1981,
+        "question": "If b = a + cp and r = ab + \\(\\frac{1}{2}\\)cp<sup>2</sup>, express b<sup>2</sup>in terms of a, c, r.",
+        "explanation": "b = a + cp....(i)<br><br>r = ab + \\(\\frac{1}{2}\\)cp<sup>2</sup>.....(ii)<br><br>expressing b<sup>2</sup>in terms of a, c, r, we shall first eliminate p which should not appear in our answer from eqn, (i)<br><br>b - a = cp = \\(\\frac{b - a}{c}\\)<br><br>sub. for p in eqn.(ii)<br><br>r = ab + \\(\\frac{1}{2}\\)c\\(\\frac{(b - a)^2}{\\frac{ab + b^2 - 2ab + a^2}{2c}}\\)<br><br>2cr = 2ab + b<sup>2</sup>- 2ab + a<sup>2</sup><br><br>b<sup>2</sup>= 2cr - a<sup>2</sup>",
+        "correctIndex": 4,
+        "options": [
+            "b<sup>2</sup>= aV + 2cr",
+            "b<sup>2</sup>= ar + 2c<sup>2</sup>r",
+            "b<sup>2</sup>= a<sup>2</sup>= \\(\\frac{1}{2}\\) cr<sup>2</sup>",
+            "b<sup>2</sup>= \\(\\frac{1}{2}\\)ar<sup>2</sup>+ c",
+            "b<sup>2</sup>= 2cr - a<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1981,
+        "question": "Multiply x<sup>2</sup>+ x + 1 by x<sup>2</sup>- x + 1",
+        "explanation": "(x<sup>2</sup>+ x + 1)( x<sup>2</sup>- x + 1)<br><br>= x<sup>2</sup>(x<sup>2</sup>+ x + 1) - x(x<sup>2</sup>+ x + 1) + (x<sup>3</sup>+ x + 1)<br><br>= x<sup>4</sup>- x<sup>3</sup>+ x<sup>2</sup>+ x<sup>3</sup>- x<sup>2</sup>- x + 1<br><br>= x<sup>4</sup>+ x<sup>2</sup>+ 1",
+        "correctIndex": 2,
+        "options": [
+            "x<sup>4</sup>- x + x<sup>2</sup>",
+            "x<sup>4</sup>- x<sup>2</sup>+ x<sup>2</sup>",
+            "x<sup>4</sup>+ x<sup>2</sup>+ 1",
+            "x<sup>4</sup>+ x<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1981,
+        "question": "<p>A baking recipe calls for 2.5kg of sugar and 4.5kg of flour. With this recipe some cakes were baked using 24.5kg of a mixture of sugar and flour. How much sugar was used?</p>",
+        "explanation": "<p>Sugar : flour = 2.5 : 4.5<br>\n<br>\nTotal = 7<br>\n<br>\nsugar used = \\(\\frac{2.5}{7}\\) x 24.5<br>\n<br>\n= \\(\\frac{61.25}{7}\\)<br>\n<br>\n= 8.75</p>",
+        "correctIndex": 2,
+        "options": [
+            "12.25kg",
+            "6.75kg",
+            "8.75kg",
+            "15.75kg",
+            "8.25kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1981,
+        "question": "<p>The difference between 4\\(\\frac{5}{7}\\) and 2\\(\\frac{1}{4}\\) greater by</p>",
+        "explanation": "<p>Difference between 4\\(\\frac{5}{7}\\) and 2\\(\\frac{1}{4}\\)<br>\n<br>\n\\(\\frac{33}{7}\\) - \\(\\frac{9}{4}\\) = \\(\\frac{69}{24}\\)<br>\n<br>\nThe sum of \\(\\frac{1}{14}\\) and 1\\(\\frac{1}{14}\\) + \\(\\frac{3}{2}\\)<br>\n<br>\n= \\(\\frac{11}{7}\\)<br>\n<br>\n\\(\\frac{69}{28}\\) - \\(\\frac{11}{7}\\) = \\(\\frac{25}{28}\\)<br>\n<br>\n= \\(\\frac{50}{56}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{23}{28}\\)",
+            "\\(\\frac{24}{28}\\)",
+            "\\(\\frac{50}{56}\\)",
+            "\\(\\frac{27}{28}\\)",
+            "\\(\\frac{48}{56}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1981,
+        "question": "<p>What is the size of an exterior angle of a regular pentagon?</p>",
+        "explanation": "<p>Pentagon is a polygon with 5 sides. Sum of interior angles of polygon (regular) = (2n - 4) x 90o<br>\n<br>\n= 5<br>\n<br>\n= (10 - 4) x 90o<br>\n<br>\n= 540o<br>\n<br>\neach interior angle = \\(\\frac{540}{5}\\)<br>\n<br>\n= 108o<br>\n<br>\n= 180o let x represent ext. angle<br>\n<br>\nx + 108o = 180v<br>\n<br>\nx = 180o - 108o<br>\n<br>\n= 72o</p>",
+        "correctIndex": 2,
+        "options": [
+            "36<sup>o</sup>",
+            "60<sup>o</sup>",
+            "72<sup>o</sup>",
+            "120<sup>o</sup>",
+            "360<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1981,
+        "question": "<p>The sum of the root of a quadratic equation is \\(\\frac{5}{2}\\) and the product of its root is 4. The quadratic equation is</p>",
+        "explanation": "<p>x2 - (sum of roots) x + (product of roots) = 0<br>\n<br>\nx2 - \\(\\frac{5x}{2}\\) + 4 = 0<br>\n<br>\n2x2 - 5x + 8 = 0</p>",
+        "correctIndex": 1,
+        "options": [
+            "x + 8x<sup>2</sup>- 5 = 0",
+            "2x<sup>2</sup>- 5x + 8 = 0",
+            "2x<sup>2</sup>- 8x + 5 = 0",
+            "x<sup>2</sup>+ 8x - 5 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1981,
+        "question": "<p>Solve the given equation \\((\\log_{3} x)^{2} - 6(\\log_{3} x) + 9 = 0\\)</p>",
+        "explanation": "<p>\\((\\log_{3} x)^{2} - 6(\\log_{3} x) + 9 = 0\\)</p><p>Let \\(\\log_{3} x = a\\).</p><p>\\(a^{2} - 6a + 9 = 0\\)</p><p>\\(a^{2} - 3a - 3a + 9 = 0\\)</p><p>\\(a(a - 3) - 3(a - 3) = 0\\)</p><p>\\((a - 3)(a - 3) = 0\\)</p><p>\\(\\implies a = 3 (twice)\\)</p><p>\\(\\log_{3} x = 3 \\implies x = 3^{3} = 27\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "27",
+            "9",
+            "\\(\\frac{1}{27}\\)",
+            "18",
+            "81"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1981,
+        "question": "<p>What is the length of an arc of a circle that substends 2\\(\\frac{1}{2}\\) radians at the centre when the raduis of the circle = \\(\\frac{k}{k + 1}\\) + \\(\\frac{k + 1}{k}\\) then</p>",
+        "explanation": "<p>\\(\\frac{k}{k + 1}\\) + \\(\\frac{k + 1}{k}\\)<br>\n<br>\n= \\(\\frac{k^2 + (k + 1)^2}{k(k + 10}\\)<br>\n<br>\n= \\(\\frac{2k^2 + 2k + 1}{k(k + 1}\\)<br>\n<br>\nlet k = \\(\\frac{1}{2}\\)<br>\n<br>\np = \\(\\frac{10}{3}\\)<br>\n<br>\np &gt; 0</p>",
+        "correctIndex": 4,
+        "options": [
+            "p&lt; 0",
+            "p\\(\\geq\\) 0",
+            "p \\(\\leq\\) 0",
+            "p &lt; 1",
+            "p &gt; 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15698338722_math-1.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15698338722_math-1.jpg\" class=\"img-fluid\">\n</div><p>&lt; WYT = \\(\\frac{180 - 30}{2}\\)<br>\n<br>\n= \\(\\frac{150}{2}\\)<br>\n<br>\n= 75o(base angles of isosceles D)<br>\n<br>\nYXW = 75 - 40 = 35o(Exterior angle is equal to sum of interior angles)</p>",
+        "correctIndex": 2,
+        "options": [
+            "50<sup>o</sup>",
+            "75<sup>o</sup>",
+            "35<sup>o</sup>",
+            "115<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12844102185_math-2.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Average of trapezium XYZW = \\(\\frac{1}{2}\\)(a + b)h from rt &lt; YDZ,<br>\n<br>\nh = 8 sin 30o<br>\n<br>\narea = \\(\\frac{1}{2}\\)(10 + 8)4<br>\n<br>\n= 8 x \\(\\frac{1}{2}\\) = 4<br>\n<br>\n\\(\\frac{1}{2}\\)(18) x 4<br>\n<br>\n= 36cm2</p>",
+        "correctIndex": 2,
+        "options": [
+            "60cm<sup>2</sup>",
+            "54cm<sup>2</sup>",
+            "36cm<sup>2</sup>",
+            "54\\(\\sqrt{2}\\)cm<sup>2</sup>",
+            "27\\(\\sqrt{2}\\)cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11416981224_math-3.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>180 - x + a + b + c<br>\n<br>\n= 180(sum of interior angle in triangle)<br>\n<br>\na + b + c = x.</p>",
+        "correctIndex": 0,
+        "options": [
+            "a + b + c",
+            "180<sup>o</sup>- (a + b + c)",
+            "a - b - c",
+            "a + b",
+            "a + c"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24261089300_math-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of the triangle XYZ = \\(\\frac{1}{2}\\)bh = \\(\\frac{1}{2}\\)ZY x XY<br>\n<br>\n= \\(\\frac{1}{2}\\) x 3 x 4<br>\n<br>\n= 6cm2.</p>",
+        "correctIndex": 4,
+        "options": [
+            "12cm<sup>2</sup>",
+            "28\\(\\frac{1}{2}\\)cm<sup>2</sup>",
+            "16cm<sup>2</sup>",
+            "10cm<sup>2</sup>",
+            "6cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28542463100_math-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From similar triangle, \\(\\frac{x}{6}\\) = \\(\\frac{8}{12}\\)<br>\n<br>\n12x = 48<br>\n<br>\nx = \\(\\frac{48}{12}\\)<br>\n<br>\n= 4</p>",
+        "correctIndex": 3,
+        "options": [
+            "1cm``3cm",
+            "6cm",
+            "2cm",
+            "4cm"
+        ],
+        "type": "objectives"
+    }
+]

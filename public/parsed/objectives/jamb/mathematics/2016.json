@@ -1,0 +1,802 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2016,
+        "question": "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x",
+        "explanation": "\\(\\int\\) \\(\\frac{2x^3 + 2x}{x}\\) = \\(\\int\\) \\(\\frac{2x^3}{x}\\) + \\(\\frac{2x}{x}\\) = \\(\\int\\) (2x<sup>2</sup>+ 2)<i>dx</i><br><br>\\(\\frac{2x^2+1}{2 + 1}\\) + 2x + k<br><br>= \\(\\frac{2x^3}{3}\\)+ 2x + k<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2x^3}{3}\\) - 2x + k",
+            "x<sup>3</sup>+ 2x + k",
+            "\\(\\frac{2x^3}{3}\\) + 2x + k",
+            "x<sup>3</sup>- 2x + k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2016,
+        "question": "If the mean of 4, y, 8 and 10 is 7. Find Y?",
+        "explanation": "\\(\\frac{4 + y + 8 + 10}{4}\\) = 7<br><br>22 + y = 4 x 7<br>22 + y = 28<br>y = 28 - 22 = 6<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "6",
+            "10",
+            "7",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2016,
+        "question": "<p>Find the derivative of y = ( \\(\\frac{1}{3}\\)X + 6)\\(^2\\)</p>",
+        "explanation": "<p>Y = ( \\(\\frac{1}{3}\\)X + 6)\\(^2\\)<br>\n<br>\n\\(\\frac{dy}{dx}\\) = 2( \\(\\frac{1}{3}\\)X + 6) \\(\\frac{1}{3}\\)<br>\n<br>\n= \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2( \\(\\frac{1}{3}\\)X + 6",
+            "\\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)",
+            "\\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)<sup>2</sup>",
+            "\\(\\frac{1}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2016,
+        "question": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?",
+        "explanation": "80 - x + x + 60 - x + 20 = 150<br>160 - x = 150<br>x = 160 - 150 = 10<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "45",
+            "10",
+            "35",
+            "30"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2016,
+        "question": "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio.",
+        "explanation": "T<sub>2</sub>= \\(\\frac{8}{9}\\), T<sub>6</sub>= 4\\(\\frac{1}{2}\\)<br>ar = \\(\\frac{8}{9}\\)<br>ar<sup>5</sup>= \\(\\frac{9}{2}\\)<br><br>\\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\)<br><br>\\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\)<br><br>r = \\(\\sqrt[4]{18/16}\\) = \\(\\frac{3}{2}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28072328183_scan1.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; OTQ = \\(\\frac{130}{2}\\)<br>= 65<sup>o</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "230<sup>o</sup>",
+            "55<sup>o</sup>",
+            "115<sup>o</sup>",
+            "65<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2016,
+        "question": "The sum of the interior angles of a polygon is a given as 1080<sup>o</sup>. Find the number of the sides of the polygon.",
+        "explanation": "\\(\\frac{(n - 2) 180}{180}\\) = \\(\\frac{1080}{180}\\)<br><br>(n - 2) = 6<br>n = 6 + 2 = 8<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "5",
+            "7",
+            "6",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5909964084_scan2.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; MPT = 180<sup>o</sup>- 118<sup>o</sup>= 62<sup>o</sup><br><br>&lt; PML = 62<sup>o</sup>( Alternative angle)<br><br>y + 2y + 10<sup>o</sup>+ 62<sup>o</sup>= 180<sup>o</sup>(Angles on a straight line)<br><br>3y = 180 - 72<br>\\(\\frac{3y}{3}\\) = \\(\\frac{108}{3}\\)<br>y = 36<sup>o</sup><br><br>&lt; PMT = 2y + 10 = 2(36) + 10 = 82<sup>o</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "82<sup>o</sup>",
+            "36<sup>o</sup>",
+            "72<sup>o</sup>",
+            "118<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23639857168_scan3.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; ROP = 95<sup>o</sup>(Exterior angle of cyclic quadrilateral)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "110<sup>o</sup>",
+            "70<sup>o</sup>",
+            "95<sup>o</sup>",
+            "85<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20684875610_scan4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Number of students that plays only two games = 4 + 8 + 3 = 15</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "15",
+            "16",
+            "20",
+            "18"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2016,
+        "question": "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w.",
+        "explanation": "P = 5x + 3, P = wx + 5<br>M<sub>1</sub>= 5, M<sub>2</sub>= w<br>M<sub>1</sub>= M<sub>2</sub>(parallel lines)<br>w = 5<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "7",
+            "3",
+            "6",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2016,
+        "question": "<p>Evaluate \\(\\int\\)(cos4x + sin3x)dx</p>",
+        "explanation": "<p>\\(\\int (\\cos 4x + \\sin 3x) \\mathrm d x\\)</p><p>= \\(\\frac{1}{4} \\sin 4x - \\frac{1}{3} \\cos 3x + k\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "sin4x - cos3x + k",
+            "sin4x + cos3x + k",
+            "\\(\\frac{1}{4}\\)sin4x - \\(\\frac{1}{3}\\)cos3x + k",
+            "\\(\\frac{1}{4}\\)sin4x + \\(\\frac{1}{3}\\)cos3x + k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2016,
+        "question": "If x<sub>10</sub>= 23<sub>5</sub>. Find x",
+        "explanation": "x<sub>10</sub>= 23<sub>5</sub><br>x<sub>10</sub>= 2 x 5<sup>1</sup>+ 3 x 5<sup>0</sup><br>= 10 + 3<br>= x<sub>10</sub>= 13<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "15",
+            "12",
+            "14",
+            "13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26594841456_sc.jpg\" class=\"img-fluid\">",
+        "explanation": "x<sup>o</sup>+ 36<sup>o</sup>+ 54<sup>o</sup>+ 28<sup>o</sup>+ 90<sup>o</sup>+ 120<sup>o</sup>= 360<sup>o</sup><br><br>x + 328<sup>o</sup>= 360<sup>o</sup><br>x = 360<sup>o</sup>- 328<sup>o</sup><br>x = 32<sup>o</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "24<sup>o</sup>",
+            "39<sup>o</sup>",
+            "32<sup>o</sup>",
+            "36<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2016,
+        "question": "<p>Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.</p>",
+        "explanation": "<p>Range = 34 - (-6) = 34 + 6 = 40</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "32",
+            "36",
+            "33",
+            "40"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17729894988_s.jpg\" class=\"img-fluid\">",
+        "explanation": "No of visitors = 10 + 5 + 1 = 16<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "17",
+            "22",
+            "20",
+            "16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2016,
+        "question": "Factorize k<sup>2</sup>- 2kp + p<sup>2</sup>.",
+        "explanation": "k<sup>2</sup>- 2kp + p<sup>2</sup>= (k - p)<sup>2</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "(k +p)<sup>2</sup>",
+            "(k - p)<sup>2</sup>",
+            "k<sup>2</sup>+ p<sup>2</sup>",
+            "k<sup>2</sup>- p<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2016,
+        "question": "<p>Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60o.</p>",
+        "explanation": "<p>Perimeter = 2r + \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r<br>\n= 2(12) + \\(\\frac{60}{360}\\) x 2 x \\(\\pi\\) x 12<br>\n= (24 + 4\\(\\pi\\))cm</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "(12 + 4\\(\\pi\\))cm",
+            "(24 + 4\\(\\pi\\))cm",
+            "(12 + 6\\(\\pi\\))cm",
+            "(24 + 6\\(\\pi\\))cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2016,
+        "question": "\\(\\begin{array}{c|c}<br>Marks &amp; 2 &amp; 3 &amp; 4 \\\\<br>\\hline<br>Frequency &amp; 4 &amp; 4 &amp; y<br>\\end{array}\\)<br><br>The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y.",
+        "explanation": "(2 x 4) + (3 x 4) + (4 x y) = 48<br>8 + 12 + 4y = 48<br>4y = 48 - 20<br>\\(\\frac{4y}{4}\\) = \\(\\frac{28}{4}\\)<br>y = 7<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "6",
+            "8",
+            "7",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2016,
+        "question": "<p>Given U = {x: x is a positive integer less than 15} and P = {x: x is even number from 1 to 14}. Find the compliment of P.</p>",
+        "explanation": "<p>U = {1, 2, 3, 4, 5......14}<br>\nP = {2, 4, 6, 8, 10, 12, 14}<br>\nP' = {1, 3, 5, 7, 9, 11,13}</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "{1, 3, 5, 7, 9, 11, 13, 15}",
+            "{2, 3, 5, 7, 9, 11, 13}",
+            "{1, 3, 5, 7, 9, 11, 13}",
+            "{2, 3, 5, 7, 11, 15}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2016,
+        "question": "Simplify \\(\\frac{0.026 \\times 0.36}{0.69}\\). Leave your answer in standard form",
+        "explanation": "\\(\\frac{0.026 \\times 0.36}{0.69}\\) = \\(\\frac{26 \\times 10^-3 \\times 36 \\times 10^-2}{69 \\times 10^-2}\\)<br><br>= 0.01356 = 1.36 x 10<sup>-2</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "1.36 x 10<sup>-4</sup>",
+            "1.36 x 10<sup>-3</sup>",
+            "1.36 x 10<sup>-1</sup>",
+            "1.36 x 10<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2016,
+        "question": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out?",
+        "explanation": "Let x represent total number of pencils shared<br>B : S : T<br>2 : 3 : 5<br><br>2+3+5 = 10<br>\\(\\frac{2}{10}\\) x<i>x</i>= 5<br>\\(\\frac{2x}{10}\\) = 5<br>2<i>x</i>= 50<br><i>x</i>= 25<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "15",
+            "25",
+            "30",
+            "50"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2016,
+        "question": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36<sup>o</sup>.",
+        "explanation": "Perimeter = 2r + \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r<br>2(9) + \\(\\frac{36}{360}\\) x 2 x \\(\\pi\\) x 9 = 18 + \\(\\frac{9\\pi}{5}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "18cm",
+            "(18 + \\(\\frac{9\\pi}{5}\\))cm",
+            "(9 + \\(\\frac{9\\pi}{5}\\))cm",
+            "\\(\\frac{9\\pi}{5}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2016,
+        "question": "<p>Evaluate \\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\)</p>",
+        "explanation": "<p>\\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\)<br>\n<br>\n\\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\) = \\(\\frac{3\\sqrt{27} - 3\\sqrt{8}^2}{\\sqrt{16} \\times 2}\\)<br>\n<br>\n\\(\\frac{3 - 4}{4 \\times 2}\\)<br>\n= \\(\\frac{-1}{8}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{23}{5}\\)",
+            "-\\(\\frac{23}{5}\\)",
+            "-\\(\\frac{1}{8}\\)",
+            "\\(\\frac{21}{7}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2016,
+        "question": "<p>\\(\\begin{array}{c|c}<br>\nScores &amp; 3 &amp; 6 &amp; 5 &amp; 2 \\\\<br>\n\\hline<br>\nFrequency &amp; 2 &amp; 3 &amp; 4 &amp; 6<br>\n\\end{array}\\)<br>\n<br>\nFrom the table above, find the median</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "3",
+            "5",
+            "4",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2016,
+        "question": "<p>Find \\(\\frac{dy}{dx}\\), if y = \\(\\frac{2}{3}\\) x\\(^3\\) - \\(\\frac{4}{x}\\)</p>",
+        "explanation": "<p>y = \\(\\frac{2}{3}\\)x\\(^3\\) - \\(\\frac{4}{x}\\)<br>\n<br>\n\\(\\frac{dy}{dx}\\) = 2x\\(^2\\) - (-4)x\\(^{-2}\\) = 2x\\(^2\\) + \\(\\frac{4}{x^2}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3x<sup>2</sup>- \\(\\frac{4}{x}\\)",
+            "2x<sup>2</sup>+\\(\\frac{4}{x^2}\\)",
+            "3x<sup>2</sup>+ \\(\\frac{4}{x^2}\\)",
+            "2x<sup>2</sup>- \\(\\frac{4}{x}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2016,
+        "question": "Evaluate \\(\\frac{0.8 \\times 0.43 \\times 0.031}{0.05 \\times 0.72 \\times 0.021}\\). Correct to four significant figures.",
+        "explanation": "\\(\\frac{0.8 \\times 0.43 \\times 0.031}{0.05 \\times 0.72 \\times 0.021}\\) x \\(\\frac{10}{10}\\) = 14.11<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "14.09",
+            "14.1",
+            "14.12",
+            "14.11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2016,
+        "question": "An arc subtends an angle of 30<sup>o</sup>at the centre of a circle radius 12cm. Calculate the length of the arc.",
+        "explanation": "Length or arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r<br><br>= \\(\\frac{30}{360}\\) x 2 x \\(\\frac{22}{7}\\) x 12<br><br>= \\(\\frac{1}{12}\\) x 2 x \\(\\pi\\) x 2 = 2\\(\\pi\\)cm<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "6\\(\\pi\\)cm",
+            "2\\(\\pi\\)cm",
+            "3\\(\\pi\\)cm",
+            "9\\(\\pi\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2016,
+        "question": "Evaluate \\(\\int\\limits_0^\\frac{\\pi}{2}\\) sin<i>xdx</i>",
+        "explanation": "\\(\\int\\limits_0^\\frac{\\pi}{2}\\) sin<i>xdx</i>= -cosx|\\(\\frac{\\pi}{2}\\)<br><br>= -(cos\\(\\frac{\\pi}{2}\\) - cos0) = -(0-1) = 1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2",
+            "-1",
+            "1",
+            "-2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2016,
+        "question": "An arc of the length 16\\(\\pi\\)cm subtends an angle of 80<sup>o</sup>at the centre of the circle. Find the radius of the circle.",
+        "explanation": "L = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r<br>16\\(\\pi\\) = \\(\\frac{80}{360}\\) x 2\\(\\pi\\)r<br><br>\\(\\frac{16\\pi \\times 360}{80 \\times 2\\pi}\\) = r<br><br>r = 36cm<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "24cm",
+            "28cm",
+            "36cm",
+            "32cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2016,
+        "question": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is",
+        "explanation": "Mean = \\(\\frac{2 - t + 4 + t + 3 - 2t + 2 + t + t - 1}{5}\\)<br><br>= \\(\\frac{10}{5}\\) = 2<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "t",
+            "-t",
+            "-2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2016,
+        "question": "Evaluate \\(\\frac{12.02 \\times 20.06}{26.04 \\times 60.06}\\), correct to three significant figures.",
+        "explanation": "\\(\\frac{12.02 \\times 20.06}{26.04 \\times 60.06}\\) = \\(\\frac{241.1212}{15698.96}\\) = 0.154<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.157",
+            "0.154",
+            "0.155",
+            "0.158"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2016,
+        "question": "If y = 2x<sup>3</sup>+ 6x<sup>2</sup>+ 6x + 1, Find \\(\\frac{dy}{dx}\\)",
+        "explanation": "y = 2x<sup>3</sup>+ 6x<sup>2</sup>+ 6x + 1<br><br>\\(\\frac{dy}{dx}\\) = 6x<sup>2</sup>+ 12x + 6<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "6x<sup>2</sup>+ 12x + 1",
+            "6x<sup>2</sup>+ 6x + 1",
+            "6x<sup>2</sup>+ 6x + 6",
+            "6x<sup>2</sup>+ 12x + 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2016,
+        "question": "The nth term of the sequence 3, 9, 27, 81.....is",
+        "explanation": "3,9,27,81,.....<br>r = \\(\\frac{9}{8}\\) = 3<br>T<sub>n</sub>= ar<sup>n-1</sup><br><br>T<sub>n</sub>= 3(3)<sup>n-1</sup>= \\(\\frac{3(3^2)}{3}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3 x 3<sup>n-2</sup>",
+            "3 x 3<sup>n-1</sup>",
+            "3 x 3<sup>n+2</sup>",
+            "3 x 3<sup>n+1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2016,
+        "question": "Simplify 1 - (\\(\\frac{1}{7}\\) x 3 \\(\\frac{1}{2}\\)) \\(\\div\\) \\(\\frac{3}{4}\\)",
+        "explanation": "1 - (\\(\\frac{1}{7}\\) x 3 \\(\\frac{1}{2}\\)) \\(\\div\\) \\(\\frac{3}{4}\\)<br><br>1 - (\\(\\frac{1}{7}\\) x \\(\\frac{7}{2}\\)) x \\(\\frac{4}{3}\\)<br><br>1 - \\(\\frac{1}{2}\\) x \\(\\frac{4}{3}\\)<br><br>1 - \\(\\frac{2}{3}\\) = \\(\\frac{1}{3}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "\\(\\frac{1}{3}\\)",
+            "1",
+            "\\(\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2016,
+        "question": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
+        "explanation": "120km \\(\\to\\) 45litres<br>1km \\(\\to\\) \\(\\frac{45}{120}\\)litres<br>600km \\(\\to\\) \\(\\frac{45}{120}\\) x 600 = 225litres<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "720 litres",
+            "160 litres",
+            "225 litres",
+            "960 litres"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2016,
+        "question": "Find \\(\\frac{dy}{dx}\\). If y = 3x<sup>3</sup>+ 2x<sup>2</sup>+ 3x + 1",
+        "explanation": "y = 3x<sup>3</sup>+ 2x<sup>2</sup>+ 3x + 1<br>\\(\\frac{dy}{dx}\\) = 9x<sup>2</sup>+ 4x + 3<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "9x<sup>2</sup>+ 4x + 3",
+            "9x<sup>2</sup>- 4x - 3",
+            "9x<sup>2</sup>+ 4x - 3",
+            "9x<sup>2</sup>- 4x + 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2016,
+        "question": "Evaluate \\(\\int\\)(sinx - 5x<sup>2</sup>)dx",
+        "explanation": "\\(\\int\\)<sup>(sin x - 5x^2)</sup>= -cosx - \\(\\frac{5x^3}{3}\\) + k<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "-cosx - 10x + k",
+            "cosx - \\(\\frac{5x^3}{3}\\) + k",
+            "-cosx - \\(\\frac{5x^3}{3}\\) + k",
+            "cosx - 10x + k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2016,
+        "question": "If N = \\(\\frac{p}{2}\\)(\\(\\frac{T_1 - T_2}{T_1}\\)). Find P when N = 12, T<sub>1</sub>= 27 and T<sub>2</sub>= 24.",
+        "explanation": "N = \\(\\frac{p}{2}\\)(\\(\\frac{T_1 - T_2}{T_1}\\))<br>12 = \\(\\frac{p}{2}\\)(\\(\\frac{27 - 24}{27}\\))<br>24 = P(\\(frac{3}{27}\\)<br>P = 24 x 9 = 216<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "48",
+            "108",
+            "54",
+            "216"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2016,
+        "question": "Solve for x and y respectively<br>3x - 5y = 9<br>6x - 4y = 12",
+        "explanation": "3x - 5y = 9 ------x2<br>6x - 4y = 12 -----x1<br>6x - 10y = 18<br>-6x - 4y = 12<br>____________<br>\\(\\frac{6y}{-6}\\) = \\(\\frac{6}{6}\\)<br><br>y = -1<br>in eq (1) 3x - 5y = 9<br>3x - 5(-1) = 9<br>3x + 5 = 9<br>3x = 4<br>x = \\(\\frac{4}{3}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{4}\\), 1",
+            "\\(\\frac{4}{3}\\), 1",
+            "\\(\\frac{3}{4}\\), -1",
+            "\\(\\frac{4}{3}\\), -1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2016,
+        "question": "If Q is a factor of 18 and T is prime numbers between 2 and 18. What is Q\\(\\cap\\)T?",
+        "explanation": "Q = {1,2,3,6,9,18}, T = {2,3,5,7,11,13,17}<br>Q\\(\\cap\\)T = {2,3}<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "(2,3)",
+            "(2,3,18)",
+            "(2,3,9)",
+            "(2,3,6)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4432475094_sss.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; TVS = 180o - (80 + 20)<br>\n= 180 - 100 = 80o</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "60<sup>o</sup>",
+            "80<sup>o</sup>",
+            "70<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2016,
+        "question": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
+        "explanation": "\\(\\frac{10 + 8 + 5 + 11 + 12 + 9 + 6 + 3 + 15 + 23}{10}\\)<br>= \\(\\frac{102}{10}\\) = 10.2<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "11.2",
+            "10",
+            "10.2",
+            "11.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/29549828100_sxxx.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; PRO = 180° - (110 + 50)°<br>\n= 180 - 160 = 20°</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "70<sup>o</sup>",
+            "20<sup>o</sup>",
+            "50<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2016,
+        "question": "OGIVE is constructed using",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Third quartile range",
+            "Semi-quartile range",
+            "Cummulative frequency table",
+            "Inter-quartile table"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2016,
+        "question": "Rationalize \\(\\frac{\\sqrt{6} - \\sqrt{4}}{\\sqrt{6} + \\sqrt{4}}\\)",
+        "explanation": "\\(\\frac{\\sqrt{6} - \\sqrt{4}}{\\sqrt{6} + \\sqrt{4}}\\) = \\(\\frac{6-2\\sqrt{6} - 2\\sqrt{6} + 4}{6 - 4}\\)<br><br>\\(\\frac{10 - 4\\sqrt{6}}{2}\\) = 5 - 2\\(\\sqrt{6}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "5 + 2 \\(\\sqrt{6}\\)",
+            "5 - 4 \\(\\sqrt{6}\\)",
+            "5 + 4 \\(\\sqrt{6}\\)",
+            "5 - 2 \\(\\sqrt{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22162371750_scc.jpg\" class=\"img-fluid\">",
+        "explanation": "3 + 2 + 5 + 5 + + 5 + 10 + 4 + 3 + 1 + 2 = 40<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "40",
+            "30",
+            "10",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28072338215_scc.jpg\" class=\"img-fluid\">",
+        "explanation": "(3 x 0) + (1 x 2) + (5 x 2) + (5 x 3) + (5 x 4) +<br>(10 x 5) + (4 x 6) + (3 x 7) + (1 x 8) + (2 x 9) \\(\\div\\) 40<br><br>= \\(\\frac{168}{40}\\) = 4.2<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "4.5",
+            "4.3",
+            "4.2",
+            "4.6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10345476470_sa.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\theta\\) = 180<sup>o</sup>-(90 + 60)<br>\\(\\theta\\) = 180<sup>o</sup>- 150<sup>o</sup>= 30<sup>o</sup><br><br>Fraction of shaded position = \\(\\frac{30}{360}\\) + \\(\\frac{30}{360}\\)<br><br>= \\(\\frac{1}{12}\\) + \\(\\frac{1}{12}\\) = \\(\\frac{1}{6}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{1}{4}\\)",
+            "\\(\\frac{1}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2016,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13493250459_scanb.jpg\" class=\"img-fluid\">",
+        "explanation": "The required roots/region of x is -1\\(\\leq\\)x\\(\\leq\\)4<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "x\\(\\leq\\)-1, x \\(\\geq\\)4",
+            "x\\(\\leq\\)4",
+            "-1\\(\\leq\\)x\\(\\leq\\)4",
+            "x\\(\\leq\\)-1, o\\(\\leq\\)x\\(\\leq\\)4"
+        ],
+        "type": "objectives"
+    }
+]

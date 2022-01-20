@@ -1,0 +1,786 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2020,
+        "question": "<p>Evaluate and correct to two decimal places, 75.0785 - 34.624 + 8.83 </p>",
+        "explanation": "<p> 75.0785</p><p>- 34.624</p><p>--------------</p><p>40.4545</p><p>+  9.83</p><p>--------------</p><p>50.28 to 2d.p </p>",
+        "correctIndex": 2,
+        "options": [
+            "30.60",
+            "50.29",
+            "50.28",
+            "30.62"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2020,
+        "question": "<p>If  X = {x : x &lt; 7} and Y = {y:y is a factor of 24} are subsets of \\(\\mu\\) = {1, 2, 3...10} find X \\(\\cap\\) Y.</p>",
+        "explanation": "<p>\\(\\mu\\) = {1, 2, 3, 4..., 10}</p><p>X = {1, 2, 3, 4, 5, 6}</p><p>Y = {1, 2, 3, 4, 6, 8}</p><p>Therefore;</p><p>X \\(\\cap\\) Y = {1, 2, 3, 4, 6}</p>",
+        "correctIndex": 1,
+        "options": [
+            "{2, 3, 4, 6}",
+            "{1, 2, 3, 4, 6}",
+            "{2, 3, 4, 6, 8}",
+            "{1, 2, 3, 4, 6, 8}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2020,
+        "question": "<p>Simplify; [(\\(\\frac{16}{9}\\))\\(^{\\frac{-3}{2}}\\) x 16\\(^{\\frac{-3}{2}}\\)]\\(^{\\frac{1}{3}}\\)</p>",
+        "explanation": "<p>[(\\(\\frac{16}{9}\\))\\(^{\\frac{-3}{2}}\\) x 16\\(^{\\frac{-3}{2}}\\)]\\(^{\\frac{1}{3}}\\)</p><p>= [(\\(\\frac{9}{16}\\))]\\(^{\\frac{3}{2}}\\) x [(\\(\\frac{1}{16}\\))\\(^{\\frac{3}{4}}\\)]\\(^{\\frac{1}{3}}\\)</p><p>= [(\\(\\sqrt{\\frac{9}{10}}\\))\\(^3\\) x (4\\(\\sqrt{\\frac{1}{16}})^3\\)]\\(^{\\frac{1}{3}}\\)</p><p>= [(\\(\\frac{3}{4})^3 \\times (\\frac{1}{2})^3\\)]\\(^\\frac{1}{3}\\)</p><p>(\\(\\frac{27}{64} \\times \\frac{1}{8}\\))\\(^\\frac{1}{3}\\) = \\({3}\\sqrt{\\frac{27}{64} \\times \\frac{1}{8}}\\)</p><p>= \\(\\frac{3}{4} \\times \\frac{1}{2}\\) = \\(\\frac{3}{8}\\) </p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{9}{16}\\)",
+            "\\(\\frac{3}{8}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2020,
+        "question": "<p>Express 1 + 2 log10\\(^3\\) in the form log10\\(^9\\) </p>",
+        "explanation": "<p>1 + 2log\\(_{10}^3\\)</p><p>= log\\(_{10}^{10} + log_{10}^{3^2}\\)</p><p>= log\\(_{10}^{10} + log_{10}^{9}\\)</p><p>= log\\(_{10}^{10 \\times 90}\\) = log\\(_{10}^{90}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "log10\\(^{90}\\)",
+            "log10\\(^{19}\\)",
+            "log10\\(^{9}\\)",
+            "log10\\(^{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2020,
+        "question": "<p>If 101\\(_{\\text{two}}\\) + 12y = 3.3\\(_{\\text{five}}\\). Find the value of y</p>",
+        "explanation": "<p>012 + 01 = 01</p><p>101\\(_2\\) + 12\\(_y\\) = 2.3\\(_5\\)</p><p>1 x 2\\(^o\\) + 0 x 2\\(^o\\) + 1 x2\\(^2\\) + 1 x y\\(^o\\) + 2 x y\\(^1\\) = 3 x 5\\(^o\\) + 3 x 5\\(^1\\)</p><p>1 + 4 + 1 + 2y = 3 + 15</p><p>6 + 2y = 18 </p><p>2y = 18 - 6</p><p>\\(\\frac{2y}{2} = \\frac{12}{2}\\)</p><p>y = 6</p>",
+        "correctIndex": 2,
+        "options": [
+            "8",
+            "7",
+            "6",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2020,
+        "question": "<p>An amount of N550,000.00 was realized when a principal, x was saved at 2% simple interest for 5 years. Find the value of x</p>",
+        "explanation": "<p>S.I = \\(\\frac{x \\times 2 \\times 5}{100}\\) = 0.1x</p><p>A = P + S.I</p><p>550,000 = x + 0.1x</p><p>\\(\\frac{550,000}{1.1} = \\frac{1.1x}{1.1}\\)</p><p>x = N500,000</p>",
+        "correctIndex": 3,
+        "options": [
+            "N470,000.00",
+            "N480,000.00",
+            "N490,000.00",
+            "N500,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2020,
+        "question": "<p>Given that \\(\\frac{\\sqrt{3} + \\sqrt{5}}{\\sqrt{5}}\\) </p><p>= x + y\\(\\sqrt{15}\\), find the value of (x + y) </p>",
+        "explanation": "<p>\\(\\frac{\\sqrt{3} + \\sqrt{5}}{\\sqrt{5}}\\)  = x + y\\(\\sqrt{15}\\)</p><p>cross multiply to have: \\(\\sqrt{3}\\) + \\(\\sqrt{5}\\) =  x\\(\\sqrt{5}\\) + 5y\\(\\sqrt{3}\\)</p><p>Collect like roots :   x\\(\\sqrt{5}\\) =  \\(\\sqrt{5}\\) → x = 1</p><p>                                5y\\(\\sqrt{3}\\) =  \\(\\sqrt{3}\\) → y = \\(\\frac{1}{5}\\)</p><p>∴ ( x + y ) = 1 + \\(\\frac{1}{5}\\)</p><p>= 1\\(\\frac{1}{5}\\)</p><p>                           </p>",
+        "correctIndex": 2,
+        "options": [
+            "1\\(\\frac{3}{5}\\)",
+            "1\\(\\frac{2}{5}\\)",
+            "1\\(\\frac{1}{5}\\)",
+            "\\(\\frac{1}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2020,
+        "question": "<p>If x = 3 and y = -1, evaluate 2(x\\(^2\\) - y\\(^2\\))</p>",
+        "explanation": "<p>2(\\(x^2 - y^2\\))</p><p>= 2(x + y)(x - y)</p><p>= 2(3 + (-1))(3 - (-1))</p><p>= 2(2)(4) = 16</p>",
+        "correctIndex": 3,
+        "options": [
+            "24",
+            "22",
+            "20",
+            "16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2020,
+        "question": "<p>Solve 3x - 2y = 10 and x + 3y = 7 simultaneously</p>",
+        "explanation": "<p>3x - 2y = 10 - - x 3</p><p>x + 3y = 7 ---x 2</p><p>------------------------</p><p>9x - 6y = 30</p><p>2x + 6y = 14</p><p>-------------------------</p><p>\\(\\frac{11x}{11} \\frac{44}{11}\\) </p><p>x = 4</p><p>From x + 3y = 7</p><p>3y = 7 - 4</p><p>\\(\\frac{3y}{3}\\) = \\(\\frac{3}{3}\\)</p><p>y = 1</p>",
+        "correctIndex": 3,
+        "options": [
+            "x = -4 and y = 1",
+            "x = -1 and y = -4",
+            "x = 1 and y = 4",
+            "x = 4 and y = 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2020,
+        "question": "<p>The implication x \\(\\to\\) y is equivalent to </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "~ y \\(\\to\\) ~ x",
+            "y \\(\\to\\) ~ x",
+            "~ x \\(\\to\\) ~ y",
+            "y \\(\\to\\) x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2020,
+        "question": "<p>The first term of a geometric progression (G.P) is 3 and the 5th term is 48. Find the common ratio. </p>",
+        "explanation": "<p>T\\(_5\\) = ar\\(^4\\) </p><p>\\(\\frac{48}{3} = \\frac{3r^4}{3}\\)</p><p>16 = r\\(^4\\) </p><p>r = \\(4\\sqrt{16}\\)</p><p>= 2</p>",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2020,
+        "question": "<p>Solve \\(\\frac{1}{3}\\)(5 - 3x) &lt; \\(\\frac{2}{5}\\)(3 - x)</p>",
+        "explanation": "<p>\\(\\frac{1}{3}\\)(5 - 3x) &lt; \\(\\frac{2}{5}\\)(3 - 7x)</p><p>5(5 - 3x) &lt; 6(3 - 7x)</p><p>25 - 15x &lt; 18 - 42x </p><p>- 15x + 42x &lt; 18 - 25</p><p>\\(\\frac{27x}{27}\\) &lt; \\(\\frac{-7}{27}\\)</p><p>x &lt; \\(\\frac{-7}{27}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "x &gt; \\(\\frac{7}{22}\\)",
+            "x &lt; \\(\\frac{7}{22}\\)",
+            "x &gt; \\(\\frac{-7}{27}\\)",
+            "x &lt; \\(\\frac{-7}{27}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2020,
+        "question": "<p>Make m the subject of the relation k = \\(\\frac{m - y}{m + 1}\\)</p>",
+        "explanation": "<p>k = \\(\\frac{m - y}{m + 1}\\)</p><p>k\\(^2\\) = \\(\\frac{m  - y}{m + 1}\\)</p><p>k\\(^2\\)m + k\\(^2\\) = m - y </p><p>k\\(^2\\) + y = m - k\\(^2\\)m</p><p>\\(\\frac{k^2 + y}{1 - k^2}\\) = m\\(\\frac{(1 - k^2)}{1 - k^2}\\)</p><p>m = \\(\\frac{y + k^2}{1 - k^2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "m = \\(\\frac{y + k^2}{k^2 + 1}\\)",
+            "m = \\(\\frac{y + k^2}{1 - k^2}\\)",
+            "m = \\(\\frac{y - k^2}{k^2 + 1}\\)",
+            "m = \\(\\frac{y - k^2}{1 - k^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2020,
+        "question": "<p>Find the quadratic equation whose roots are \\(\\frac{1}{2}\\)  and -\\(\\frac{1}{3}\\) </p>",
+        "explanation": "<p>x = \\(\\frac{1}{2}\\) and x = \\(\\frac{-1}{3}\\) </p><p>(2x - 1) = 0 and (3x + 1) = 0</p><p>(2x - 1) (3x + 1) = 0</p><p>6x\\(^2\\) - x - 1 = 0</p>",
+        "correctIndex": 3,
+        "options": [
+            "3x\\(^2\\) + x + 1 = 0",
+            "6x\\(^2\\) + x - 1 = 0",
+            "3x\\(^2\\) + x - 1 = 0",
+            "6x\\(^2\\) - x - 1 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2020,
+        "question": "<p>Given that x is directly proportional to y and inversely proportional to Z, x = 15 when y = 10 and Z = 4, find the equation connecting x, y and z</p>",
+        "explanation": "<p>\\(x\\) x \\(\\frac{y}{z}\\) </p><p>x = \\(\\frac{ky}{z}\\)</p><p>15 = \\(\\frac{10k}{4}\\) </p><p> \\(\\frac{60}{10}\\) = k = 6</p><p>Therefore; x = \\(\\frac{6y}{z}\\)</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "x = \\(\\frac{6y}{z}\\)",
+            "x = \\(\\frac{12y}{z}\\)",
+            "x = \\(\\frac{3y}{z}\\)",
+            "x = \\(\\frac{3y}{2z}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2020,
+        "question": "<p>Two buses start from the same station at 9.00am and travel in opposite directions along the same straight road. The first bus travel at a speed of 72 km/h and the second at 48 km/h. At what time will they be 240km apart?</p>",
+        "explanation": "<p>Let x be the time </p><p>Then 72x + 48x = 240 </p><p>\\(\\frac{120}{120} \\times \\frac{240}{120}\\)</p><p>x = 2hrs</p><p>9:00 + 2hrs = 11:00 am </p>",
+        "correctIndex": 2,
+        "options": [
+            "1:00 pm",
+            "12:00 noon",
+            "11:00 am",
+            "10:00 am"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2020,
+        "question": "<p>A solid cuboid has a length of 7 cm, a width of 5 cm, and a height of 4 cm. Calculate its total surface area.</p>",
+        "explanation": "<p>Total = 2(LB + BH + LH) </p><p>Surface area </p><p>= 2(7 x 5 + 5 x 4 + 7 x 4)</p><p>= 2(35 + 20 + 28)</p><p>= 2(83) </p><p>= 166cm\\(^2\\) </p>",
+        "correctIndex": 1,
+        "options": [
+            "280 cm\\(^2\\)",
+            "166 cm\\(^2\\)",
+            "140 cm\\(^2\\)",
+            "83 cm\\(^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2020,
+        "question": "<p>In the diagram, PQ // SR. Find the value of x</p><p> </p><p><img alt=\"\" src=\"data:image/png;base64,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\"></p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/p206x206/232798234_361112909025082_8057989881238704223_n.jpg?_nc_cat=111&amp;ccb=1-4&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFSoioNGAS6JN3KB9bhkVdS_3SlG27-AeP_dKUbbv4B40jGwSWmhqYdknAVLPynTMxA8b6B8xvh7ybOpVau9ItA&amp;_nc_ohc=GtGosOUR1mYAX8p4uwc&amp;_nc_ht=scontent.flos8-1.fna&amp;oh=03bdfbfbe0ae9652ac50d9cd6ccb3dcb&amp;oe=61346966\"></p><p>x + 68\\(^o\\)  + 246\\(^o\\) = 360\\(^o\\)</p><p>x + 314\\(^o\\) = 360\\(^o\\)</p><p>x = 360\\(^o\\) - 314\\(^o\\)</p><p>x = 46\\(^o\\)</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "34",
+            "46",
+            "57",
+            "68"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2020,
+        "question": "<p>Find the equation of the line parallel to 2y = 3(x - 2) and passes through the point (2, 3) </p>",
+        "explanation": "<p>2y = 3(x - 2)</p><p>\\(\\frac{2y}{2} = \\frac{3x}{2} - \\frac{6}{2}\\)</p><p>y = \\(\\frac{3}{2}x - 3\\)</p><p>m = \\(\\frac{3}{2}\\)</p><p>\\(\\frac{y - y_1}{x - x_1}\\) = m</p><p>\\(\\frac{y - 3}{x - 2} = \\frac{3}{2}\\)</p><p>2y - 6 = 3x - 6</p><p>\\(\\frac{2y}{2} = \\frac{3x}{2}\\) </p><p>y = \\(\\frac{3}{2}\\)x</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "y = \\(\\frac{2}{3} x - 3\\)",
+            "y = \\(\\frac{2}{3} x - 2\\)",
+            "y = \\(\\frac{2}{3} x\\)",
+            "y = \\(\\frac{-2}{3} x\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2020,
+        "question": "<p>The expression \\(\\frac{5x + 3}{6x (x + 1)}\\) will be undefined when x equals </p>",
+        "explanation": "<p>6x(x + 1) = 0</p><p>When 6x = 0 and </p><p>x + 1 = 0</p><p>x = 0 and x = -1</p><p>(0, -1)</p>",
+        "correctIndex": 1,
+        "options": [
+            "{0, 1}",
+            "{0, -1}",
+            "{-3, -11}",
+            "{-3, 0}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2020,
+        "question": "<p>A man is five times as old as his son. In four years' time, the product of their ages would be 340. If the son's age is y, express the product of their ages in terms of y.</p>",
+        "explanation": "<p>Man = x, Son = y </p><p>x = 5y</p><p>(x + 4)(y + 4) = 350</p><p>(5y + 4)(y + 4) = 340</p><p>5y\\(^2\\) + 20y + 4y + 16 - 240 = 0</p><p>5y\\(^2\\) + 24y - 324 = 0</p>",
+        "correctIndex": 3,
+        "options": [
+            "5y\\(^2 - 16y - 380 = 0\\)",
+            "5y\\(^2 - 24y - 380 = 0\\)",
+            "5y\\(^2 - 16y - 330 = 0\\)",
+            "5y\\(^2 - 24y - 324 = 0\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2020,
+        "question": "<p>Simplify; \\(\\frac{a}{b} - \\frac{a}{a} - \\frac{c}{b}\\)</p>",
+        "explanation": "<p>\\(\\frac{a}{b} - \\frac{b}{d} - \\frac{c}{b}\\)</p><p>\\(\\frac{a^2 - b^2- ac}{ab}\\) </p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{a - b + c}{ab}\\)",
+            "\\(\\frac{ab - bc - ac}{ab}\\)",
+            "\\(\\frac{a^2 - b^2 + ac}{ab}\\)",
+            "\\(\\frac{a^2 - b^2 - ac}{ab}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/241329469_2079842402156865_1071220261503090389_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGIKG31GktSTSHDMvLIXXXjmPx0pbJflNKY_HSlsl-U0jkQqHd7DOnGPkAKN9bW1gsxJHpuZ6WB76-Q1xOtu7Qa&amp;_nc_ohc=M67fRssVszoAX9-yCLu&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=82cc7e48cbb76c18e7bde1d38258e9a9&amp;oe=61546D6F\"></p><p>In the diagram, XYZ is an equilateral triangle of side 6cm and Y is the midpoint of \\(\\overline{XY}\\). Find tan (&lt; XZT) </p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/s206x206/231508179_496473998116003_4483791545683633376_n.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGcY-xHBE74SyUTfQtBngOHg77mGwgcsKiDvuYbCBywqNfc0ku2acUtsMZZ5geyjNVdzRm-KwMzyRmCxWXxr8jy&amp;_nc_ohc=FChceT1T74kAX_UbxaU&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=151fe6199e9aeac511f91a2f0c556b38&amp;oe=6131CF53\"></p><p>ZT = \\(\\sqrt{6^2 - 3^2}\\)</p><p>ZT = \\(\\sqrt{27}\\) = \\(3\\sqrt{3}\\)</p><p>tan (&lt; XZT) =  \\(\\frac{3}{3\\sqrt{3}}\\)</p><p>= - \\(\\frac{1}{\\sqrt{3}}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{\\sqrt{3}}\\)",
+            "\\(\\frac{\\sqrt{3}}{2}\\)",
+            "\\(\\sqrt{3}\\)",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2020,
+        "question": "<p>A fence 2.4 m tall, is 10m away from a tree of height 16m. Calculate the angle of elevation of the top of the tree from the top of the fence. </p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/233185265_599285541058161_8184258360583383631_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeHyEZCqtGZy3pkBjXjlmHF1uisB0rEoxHC6KwHSsSjEcN5Sae6CvmBrbZH0vc26kU83Iun04SXAcq8PTDCPEQoo&amp;_nc_ohc=ZIUQeMGEgjoAX_V6Bld&amp;_nc_ht=scontent.flos8-1.fna&amp;oh=f926306ffed6f714e2ea2e1128e1ffa1&amp;oe=6131DA8E\"></p><p>Tan \\(\\theta\\) = \\(\\frac{13.6}{10}\\)</p><p>= tan\\(^{-1}\\)(1.36)</p><p>\\(\\theta\\) = 53.67\\(^o\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "76.11\\(^o\\)",
+            "53.67\\(^o\\)",
+            "52.40\\(^o\\)",
+            "51.32\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2020,
+        "question": "<p>Fati buys milk at ₦x per tin sells each at a profit of ₦y. If she sells 10 tins of milk, how much does she receives from the sales?</p>",
+        "explanation": "<p>Selling Price for each = ₦x + ₦y </p><p>= 10(₦x + ₦y)</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "₦(xy + 10)",
+            "₦(x + 10y)",
+            "₦(10x + y)",
+            "₦10(x + y)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2020,
+        "question": "<p>If tan y is positive and sin y is negative, in which quadrant would y lie? </p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "First and third only",
+            "First and second only",
+            "Third only",
+            "Second only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2020,
+        "question": "<p>The dimension of a rectangular base of a right pyramid is 9 cm by 5cm. If the volume of the pyramid is 105 cm\\(^3\\), how high is the pyramid? </p>",
+        "explanation": "<p>Volume = \\(\\frac{1}{3}\\) x 9 x 5 x h</p><p>105 = \\(\\frac{1}{3}\\) x 9 x 5 x h</p><p>\\(\\frac{105}{15} = \\frac{15h}{15}\\)</p><p>h = 7cm </p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "10cm",
+            "6cm",
+            "8cm",
+            "7cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2020,
+        "question": "<p>Each interior angle of a regular polygon is 168\\(^o\\). Find the number of sides of the polygon </p>",
+        "explanation": "<p>Exterior angle = 180\\(^o\\) - 168\\(^o\\)</p><p>Number of sides = \\(\\frac{360^o}{12}\\)</p><p>= 30\\(^o\\)</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "30",
+            "36",
+            "24",
+            "18"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/OSGSQFJsVnQolhV6vkOWfT7tmlU4NdsSHqPOChIp.png\" class=\"img-fluid\">",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/231391461_529760748277065_206015535613592764_n.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEoeMYFoCHc9BMriJmnfqwiwk-I1cNuegvCT4jVw256C3NGIw5KTSX9-7tkQfeH_wTsCOa9ez7cBOzS7rLYeAat&amp;_nc_ohc=aUrArvBxnu4AX-YO0tc&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=529a2aa5a9b666bed3826a23190279e3&amp;oe=6130C242\"></p><p>2x = 3x - 50 alternate angle </p><p>50\\(^o\\) = 3x - 2x </p><p>50\\(^o\\) = x </p><p>&lt; NPQ = (3x - 50)\\(^o\\) </p><p>= 3(500)\\(^o\\) - 50 </p><p>= 150 - 50 = 150\\(^o\\) </p>",
+        "correctIndex": 1,
+        "options": [
+            "200\\(^o\\)",
+            "150\\(^o\\)",
+            "120\\(^o\\)",
+            "90\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2020,
+        "question": "<p>The length of an arc of a circle of radius 3.5 cm is  1\\(\\frac{19}{36}\\) cm. Calculate, correct to the nearest degree , the angle substended by the centre of the circle. [Take \\(\\pi = \\frac{22}{7}\\)] </p>",
+        "explanation": "<p>L = \\(\\frac{\\theta}{360^o}\\) = 2\\(\\pi\\)</p><p>\\(\\frac{55}{36} = \\frac{\\theta}{360^o} \\times 2 \\times \\frac{22}{7} \\times 3.5\\)</p><p>\\(\\theta = \\frac{360 \\times 55 \\times 44 \\times 0.5}{3 \\times 44 \\times 0.5}\\)</p><p>= \\(\\theta = 25^o\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "55\\(^o\\)",
+            "36\\(^o\\)",
+            "25\\(^o\\)",
+            "22\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/s350x350/228767632_1476336216051667_2699072515089825776_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeH0cEYDYCST7AiEvPsD0qokA0SR3nJtsLYDRJHecm2wtgR6XDmAu9AyLrBA-8W5pG-e4MM8mY0uai-jb39ZviFT&amp;_nc_ohc=mc77so-q8_gAX_e280q&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=b3e8a03606a871033acf07ad7bae72f0&amp;oe=6130ECC5\"></p><p>In the diagram, \\(\\overline{PS}\\)/\\(\\overline{SR}\\), \\(\\overline{PS}\\)/\\(\\overline{TR}\\), \\(\\overline{QS}\\)/\\(\\overline{UR}\\), \\(\\overline{PS}\\) = 15cm, \\(\\overline{SR}\\) = 8cm, \\(\\overline{PS}\\) = 10cm and area of \\(\\triangle\\) SUR = 24cm\\(^2\\). Calculate the area of PTRS.</p>",
+        "explanation": "<p>Area PTRS = 10cm x 8cm </p><p>= 80cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "40 cm\\(^2\\)",
+            "48 cm\\(^2\\)",
+            "80 cm\\(^2\\)",
+            "120 cm\\(^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p296x100/230374309_1137235023469912_2737169750700694831_n.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGFM1w1pN_HU5v6V-9G97RPksssqL5YCQiSyyyovlgJCAhS1nZitcX9inHLs4IaXrYLSZtuvPrNb0fmCDTgztNH&amp;_nc_ohc=_YWKZGYlyrYAX-z93nM&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=1ca17b7bdf1abe37c16282bc240e20e9&amp;oe=613209E8\"></p><p> </p><p>In the diagram, PQR is a circle with centre O. If &lt; OPQ = 48\\(^o\\), find the value of m</p>",
+        "explanation": "<p>&lt; O\\(Q\\)P = 48\\(^o\\) (base angles of isoceles \\(\\triangle\\))</p><p>m = 48\\(^o\\) + 48\\(^o\\) = 96\\(^o\\) (exterior angle of a \\(\\triangle\\))</p>",
+        "correctIndex": 0,
+        "options": [
+            "96\\(^o\\)",
+            "90\\(^o\\)",
+            "68\\(^o\\)",
+            "42\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/s206x206/241168995_374809964147334_3128700810536626908_n.jpg?_nc_cat=108&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFbqoUg6G3yIhqPF222TNvMTzxGVKqO0mdPPEZUqo7SZ1W8h6Q9JF7VpHC_M9L7cmcKQg0n40VCWddKDSM_hvko&amp;_nc_ohc=XLL85Tb5XfEAX9axBcC&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=e9e51538a817477aaac6d1eefbe85ac9&amp;oe=6156B558\"></p><p>The pie chart shows the population of men, women, and children in a city. If the population of the city is 1,800,000, how many men are in the city?</p>",
+        "explanation": "<p>Angle of Men = 360\\(^o\\) - (120 + 169) </p><p>= 360\\(^o\\) - 289\\(^o\\) = 71\\(^o\\)</p><p>No. of men \\(\\frac{71}{360}\\) x 1800,000</p><p>= 355,000</p>",
+        "correctIndex": 2,
+        "options": [
+            "845,000",
+            "600,000",
+            "355,000",
+            "250,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2020,
+        "question": "<p>The mean of the numbers 15, 21, 17, 26, 18, and 29 is 21. Calculate the standard deviation </p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td>\n<p>x</p>\n</td>\n<td>x - \\(\\overline{x}\\))\\(^2\\)</td>\n<td>(x - \\(\\overline{x}\\))\\(^2\\)</td>\n</tr>\n<tr>\n<td>\n<p>15</p>\n<p>21</p>\n<p>17</p>\n<p>26</p>\n<p>18</p>\n<p>29</p>\n</td>\n<td>\n<p>-6</p>\n<p>0</p>\n<p>-4</p>\n<p>5</p>\n<p>-3</p>\n<p>-8</p>\n</td>\n<td>\n<p>36</p>\n<p>0</p>\n<p>16</p>\n<p>25</p>\n<p>9</p>\n<p>64</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>\\(\\sum (x - \\overline{x})^2\\) = 150</td>\n</tr>\n</tbody>\n</table><p> </p><p>Standard deviation = \\(\\sqrt{\\frac{ \\sum (x - \\overline{x})^2}{n} }\\)</p><p>= \\(\\frac{150}{6}\\)</p><p>= \\(\\sqrt{25}\\)</p><p>= 5</p>",
+        "correctIndex": 2,
+        "options": [
+            "9",
+            "6",
+            "5",
+            "0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240960101_436856114293488_657427848585018451_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeG8m5EmzSlazmbWsYD_Y-cV6aZ6m_iOXLjppnqb-I5cuDnKO4kVMg4LyfIYRpTQDUTWRI2x-U6opA-qkMSZPSWO&amp;_nc_ohc=y3U-tXq_J8UAX-ZCwGu&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=6368c90d1db95dccf2763015c54e1d7c&amp;oe=61563F21\"></p><p> </p><p>In the diagram, O is the centre of the circle. SOQ is the diameter and &lt; SRP = 37\\(^o\\). Find &lt; PSQ.</p>",
+        "explanation": "<p> </p><p>&lt; PSQ = 180\\(^o\\) - (37\\(^o\\) + 90\\(^o\\))</p><p>= 180\\(^o\\) - 127\\(^o\\) = 53\\(^o\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "127\\(^o\\)",
+            "65\\(^o\\)",
+            "53\\(^o\\)",
+            "37\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2020,
+        "question": "<p>Find the sum of the interior angle of a pentagon.</p>",
+        "explanation": "<p>Sum = (5 - ) 180\\(^o\\) </p><p>= (5 - 2) 180\\(^o\\)  = 3 x 180\\(^o\\)  </p><p>= 540\\(^o\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "340\\(^o\\)",
+            "350\\(^o\\)",
+            "540\\(^o\\)",
+            "550\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2020,
+        "question": "<p>A box contains 12 identical balls of which 5 are red, 4 blue, and the rest are green.  If a ball is selected at random from the box, what is the probability that it is green? </p>",
+        "explanation": "<p>No. of red = 5</p><p>No. of blue = 4</p><p>No. of green = 3</p><p>Total = 12</p><p>Pr(Green) = \\(\\frac{3}{12} = \\frac{1}{4}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{4}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2020,
+        "question": "<p>A box contains 12 identical balls of which 5 are red, 4 blue, and the rest are green. If two balls are selected at random one after the other with replacement, what is the probability that both are red? </p>",
+        "explanation": "<p>Pr(RR) = \\(\\frac{5}{12}\\) = \\(\\frac{5}{12} \\times \\frac{5}{12} = \\frac{25}{144}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{25}{144}\\)",
+            "\\(\\frac{5}{33}\\)",
+            "\\(\\frac{5}{6}\\)",
+            "\\(\\frac{103}{132}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/231956643_890697624872847_1191833829840600025_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGkLiyo9ai_ZpTntqCDGjcDiZ5TQwD4OQmJnlNDAPg5CRPzx_Xhk_zmOZRAelQIWKCX5uhVoiOuZF1S--Npq884&amp;_nc_ohc=ubPZ_1Gq-6gAX_7pjVp&amp;_nc_oc=AQl13LLkEyfjstA0vagzqGkNlQyLhU7qCEW_s3u_X5K4ILnxmN_jN4giR_Fg63qslC4xx5ek7J-mQEnhHC4z-Lr0&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=bd607aae24c4df98a43e328eb4602d0e&amp;oe=6131F97F\"></p><p>In the diagram PQ is a straight line. If m  = \\(\\frac{1}{2}\\) (x + y + z), find value of m.</p>",
+        "explanation": "<p>x + y + m + 2 = 180\\(^o\\)</p><p>\\(\\frac{x + y + 2}{2} + \\frac{m}{2}\\) = 90\\(^o\\)</p><p>m + \\(\\frac{m}{2} = 90^o\\)</p><p>3m = 2 x 90\\(^o\\)</p><p>\\(\\frac{3m}{3} = \\frac{180^o}{3}\\)</p><p>m = 60\\(^o\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "45\\(^o\\)",
+            "60\\(^o\\)",
+            "90\\(^o\\)",
+            "100\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2020,
+        "question": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>x</td>\n<td>6.20</td>\n<td>6.85</td>\n<td>7.50</td>\n</tr>\n<tr>\n<td>y</td>\n<td>3.90</td>\n<td>5.20</td>\n<td>6.50</td>\n</tr>\n</tbody>\n</table><p>The points on a linear graph are as shown in the table. Find the gradient (slope) of the line. </p>",
+        "explanation": "<p>Gradient = \\(\\frac{y_2 - y_ 1}{x_2 - x_1}\\)</p><p>= \\(\\frac{5.20 - 3.90}{6.85 - 6.20}\\)</p><p>= \\(\\frac{1.3}{0.5}\\) </p><p>= 2</p>",
+        "correctIndex": 1,
+        "options": [
+            "2\\(\\frac{1}{2}\\)",
+            "2",
+            "1",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p296x100/230578086_1496925067326709_2924859581854079674_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGAzk1ad61jyz-Vjmy1T_mzW31C0H8A4SJbfULQfwDhIr6reBzfMr1MC-SQCmI6smOvmxH4_wS15kPxoYMryIDX&amp;_nc_ohc=MV9vj_sInFcAX9HgVhl&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=e5600395596efac29682877e74c47e8b&amp;oe=6130137A\"></p><p>In the diagram, O is the centre of the circle, \\(\\overline{PQ}\\) and \\(\\overline{RS}\\) are tangents to the circle. Find the value of (m + n). </p>",
+        "explanation": "<p>m + n + 90\\(^o\\) + 180\\(^o\\) (sum of angle in a \\(\\triangle\\))</p><p>m + n = 180\\(^o\\) - 90\\(^o\\)</p><p>m + n =90\\(^o\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "120\\(^o\\)",
+            "90\\(^o\\)",
+            "75\\(^o\\)",
+            "60\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2020,
+        "question": "<p>Which of the following is not a sufficient condition for two triangles to be congruent?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "AAS",
+            "SSS",
+            "SAS",
+            "SSA"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2020,
+        "question": "<p>A woman received a discount of 20% on a piece of cloth she purchased from a shop. If she paid $525.00, what was the original price?</p>",
+        "explanation": "<p>\\(\\frac{20}{100}\\) x \\(x\\) = \\(x - 525\\)</p><p>\\(\\frac{x}{5} = x\\) - 535</p><p>x = 5x - 2625</p><p>\\(\\frac{4x}{4} = \\frac{2625}{4}\\) </p><p>x = $656.25</p>",
+        "correctIndex": 2,
+        "options": [
+            "$675.25",
+            "$660.25",
+            "$656.25",
+            "$616.25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2020,
+        "question": "<p>The interquartile range of distribution is 7. If the 25th percentile is 16, find the upper quartile.</p>",
+        "explanation": "<p>Q\\(_3\\) - Q\\(_1\\) = 7</p><p>Q\\(_3\\) - 16 = 7</p><p>Q\\(_3\\) - 7 + 16</p><p>= 23</p>",
+        "correctIndex": 2,
+        "options": [
+            "35",
+            "30",
+            "23",
+            "9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/231001119_356252236112173_8091734189566119517_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeG6YiJtxPwF1ZYF1OctERHrWWR4_m7zJoNZZHj-bvMmgzc4auKxzV4mcshgeJ5SZxyd4y54Ah0LqJmfhPnlYZ4V&amp;_nc_ohc=OyZzTeJdXisAX_j91Ac&amp;_nc_oc=AQnvMwXOgmEEmz4ahDcww6jVE0Yx2sUpwhOFI1U6A4tDycqXYdR4utVyZac4HjxkpWJNxHC3FTSds26byi6v97TC&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=42ac47d2e470ef073c2523fb53edb90f&amp;oe=6131D633\" style=\"height:220px; width:300px\"></p><p>The graph of the equations y = 2x + 5 and y = 2x\\(^2\\) + x - 1 are shown below. Find the points of intersection of the two graphs.</p><p> </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "(2.0, 9.0) and (-1.5, 2.0)",
+            "(2.0, 8.5) and (-1.5, 2.0)",
+            "(2.0, 8.0) and (-1.5, 2.5)",
+            "(2.0, 7.5) and (-1.5, 2.5)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/231001119_356252236112173_8091734189566119517_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeG6YiJtxPwF1ZYF1OctERHrWWR4_m7zJoNZZHj-bvMmgzc4auKxzV4mcshgeJ5SZxyd4y54Ah0LqJmfhPnlYZ4V&amp;_nc_ohc=OyZzTeJdXisAX_j91Ac&amp;_nc_oc=AQnvMwXOgmEEmz4ahDcww6jVE0Yx2sUpwhOFI1U6A4tDycqXYdR4utVyZac4HjxkpWJNxHC3FTSds26byi6v97TC&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=42ac47d2e470ef073c2523fb53edb90f&amp;oe=6131D633\" style=\"height:264px; width:300px\"></p><p>The graph of the equations y = 2x + 5 and y = 2x\\(^2\\) + x - 1 are shown. If x = -2.5, what is the value of u on the curve?</p>",
+        "explanation": "<p>If x = -2.5 </p><p>y = 8.5 </p>",
+        "correctIndex": 1,
+        "options": [
+            "y = 8.0",
+            "y = 8.5",
+            "y = 9.0",
+            "y = 9.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2020,
+        "question": "<p>If (x + 2) is a factor of x\\(^2\\) +px - 10, find the value of P. </p>",
+        "explanation": "<p>x + 2 = 0</p><p>x -2</p><p>x\\(^2\\) = px - 10 = 0</p><p>(-2)\\(^2\\) - 2p - 10 = 0</p><p>4 - 2p - 10 = 0</p><p>\\(\\frac{-2p}{-2} = \\frac{6}{-2}\\) \\(\\to\\) p = -3</p>",
+        "correctIndex": 1,
+        "options": [
+            "3",
+            "-3",
+            "7",
+            "-7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/229696542_357121855856004_5648311715449909218_n.jpg?_nc_cat=106&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFvTsl8o0z1t7c3hjmrNk4NOXdj1PS-EZE5d2PU9L4RkV47Smkg7AyMl44sHqhmqCmo1JVe5bmeW6R2CaYw0BNe&amp;_nc_ohc=Uww3oayYxFIAX8R63qm&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=a04818c777a3edcf0cc4679b90cfa49e&amp;oe=61319EDD\"></p><p>In the diagram, O is the centre of the circle. If &lt; NLM = 74\\(^o\\), &lt; LMN = 39\\(^o\\) and &lt; LOM = x, find the value of x. </p>",
+        "explanation": "<p>L\\(N\\)M = 180\\(^o\\) - (74\\(^o\\) + 39\\(^o\\)) </p><p>180\\(^o\\) - 113\\(^o\\) </p><p>= 67\\(^o\\)</p><p>L\\(^O\\)</p><p>M = x = 2 x 67\\(^o\\) </p><p>= 134\\(^o\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "134\\(^o\\)",
+            "126\\(^o\\)",
+            "113\\(^o\\)",
+            "106\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2020,
+        "question": "<p>Find the least value of x which satisfies the equation 4x = 7(mod 9)</p>",
+        "explanation": "<p>4x = 7 (mod 9)</p><p>4x = 7 + 9 (mod 9)</p><p>\\(\\frac{4x}{4} = \\frac{16}{4}\\) (mod 9)</p><p>x = 4</p>",
+        "correctIndex": 3,
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "type": "objectives"
+    }
+]

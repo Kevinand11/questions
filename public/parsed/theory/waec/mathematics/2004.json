@@ -1,0 +1,119 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2004,
+        "question": "<p>(a) Solve \\(\\frac{1}{81^{(x - 2)}} = 27^{(1 - x)}\\)</p><p>(b) Simplify \\(\\frac{5}{\\sqrt{7} - \\sqrt{3}} + \\frac{1}{\\sqrt{7} + \\sqrt{3}}\\), leaving your answer in surd form.</p>",
+        "answer": "<p>(a) \\(\\frac{1}{81^{(x - 2)}} = 27^{(1 - x)}\\)</p><p>\\(81^{-(x - 2)} = 27^{(1 - x)}\\)</p><p>\\(3^{4[-(x - 2)]} = 3^{3(1 - x)}\\)</p><p>\\(3^{-4(x - 2)} = 3^{3(1 - x)}\\)</p><p>\\(-4(x - 2) = 3(1 - x)\\)</p><p>\\(-4x + 8 = 3 - 3x\\)</p><p>\\(8 - 3 = -3x + 4x \\implies x = 5\\)</p><p>(b) \\(\\frac{5}{\\sqrt{7} - \\sqrt{3}} + \\frac{1}{\\sqrt{7} + \\sqrt{3}}\\)</p><p>= \\(\\frac{5(\\sqrt{7} + \\sqrt{3}) + (\\sqrt{7} - \\sqrt{3})}{(\\sqrt{7} - \\sqrt{3})(\\sqrt{7} + \\sqrt{3})}\\)</p><p>= \\(\\frac{5\\sqrt{7} + 5\\sqrt{3} + \\sqrt{7} - \\sqrt{3}}{7 - 3}\\)</p><p>= \\(\\frac{6\\sqrt{7} + 4\\sqrt{3}}{4}\\)</p><p>= \\(\\frac{3\\sqrt{7} + 2\\sqrt{3}}{2}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2004,
+        "question": "<p>(a) In the simultaneous equations : \\(px + qy = 5 ; qx + py = -10\\); p and q are constants. If x = 1 and y = -2 is a solution of the equations, find p and q.</p><p>(b) Solve : \\(\\frac{4r - 3}{6r + 1} = \\frac{2r - 1}{3r + 4}\\).</p>",
+        "answer": "<p>(a) \\(px + qy = 5 \\)</p><p>When x = 1 and y = -2, we have</p><p>\\(p - 2q = 5 .... (1)\\)</p><p>\\(qx + py = -10 \\)</p><p>When x = 1 and y = -2, we have</p><p>\\(q - 2p = -10 .... (2)\\)</p><p>Multiplying (1) by -2, we have</p><p>\\(-2p + 4q = -10 ... (1a)\\)</p><p>\\(\\equiv 4q - 2p = -10\\)</p><p>(2) - (1a) : \\(q - 4q = -10 + 10\\)</p><p>\\(-3q = 0\\)</p><p>\\(q = 0\\)</p><p>Putting q = 0 in (1a), we have</p><p>\\(-2p = -10 \\implies p = 5\\)</p><p>Hence, p = 5 and q = 0.</p><p>(b) \\(\\frac{4r - 3}{6r + 1} = \\frac{2r - 1}{3r + 4}\\)</p><p>\\((4r - 3)(3r + 4) = (2r - 1)(6r + 1)\\)</p><p>\\(12r^{2} + 16r - 9r - 12 = 12r^{2} + 2r - 6r - 1\\)</p><p>\\(12r^{2} - 12r^{2} + 7r + 4r = - 1 + 12\\)</p><p>\\(11r = 11\\)</p><p>\\(r = 1\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2004,
+        "question": "<p>(a) AB is a chord of a circle centre O. If |AB| = 24.2 cm and the perimeter of \\(\\Delta\\) AOB is 52.2 cm, calculate &lt; AOB, correct to the nearest degree.</p><p>(b) A rectangular tank 60cm by 80cm by 100cm is half filled with water. How many litres of water is it holding?</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0194%20%283%29_LI.jpg\" style=\"height:252px; width:250px\"></p><p>\\(2r + 24.2 = 52.2\\)</p><p>\\(2r = 52.2 - 24.2 = 28\\)</p><p>\\(r = 14 cm\\)</p><p>\\(|AB|^{2} = OA^{2} + OB^{2} - 2(OA)(OB) \\cos &lt;AOB\\)</p><p>\\(24.2^{2} = 14^{2} + 14^{2} - 2(14)(14) \\cos &lt; AOB\\)</p><p>\\(\\cos &lt; AOB = \\frac{14^{2} + 14^{2} - 24.2^{2}}{2(14)(14)}\\)</p><p>\\(\\cos &lt; AOB = \\frac{392 - 585.64}{392}\\)</p><p>= \\(\\frac{-193.64}{392}\\)</p><p>\\(\\cos &lt; AOB = - 0.4940\\)</p><p>\\(&lt; AOB = \\cos^{-1} (0.4940)\\)</p><p>= \\(119.6° \\approxeq 120°\\)</p><p>(b) Volume of water in the tank = \\(\\frac{1}{2} \\times l \\times b \\times h\\)</p><p>= \\(\\frac{1}{2} \\times 60 \\times 80 \\times 100\\)</p><p>= \\(240000 cm^{3}\\)</p><p>Number of litres of water = \\(\\frac{240000}{1000}\\)</p><p>= \\(240 litres\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2004,
+        "question": "<p>(a) The sides of an isosceles triangle triangle are in the ratio \\(7 : 5 : 7\\). Calculate, correct to the nearest degree, the angle included between the equal sides.</p><p>(b) The sum of the interior angles of a regular polygon is 1440°. Calculate : (i) the number of sides ; (ii) the size of one exterior angle of the polygon.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0194%20%284%29_LI.jpg\" style=\"height:182px; width:250px\"></p><p>\\(5^{2} = 7^{2} + 7^{2} - 2(7)(7) \\cos \\theta\\)</p><p>\\(25 = 98 - 98 \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{98 - 25}{98}\\)</p><p>\\(\\cos \\theta = 0.7449\\)</p><p>\\(\\theta = \\cos^{-1} (0.7449)\\)</p><p>\\(\\approxeq 42°\\).</p><p>(b) (i) \\((2n - 4) \\times 90° = 1440°\\)</p><p>\\(2n - 4 = \\frac{1440}{90} = 16\\)</p><p>\\(2n = 16 + 4 = 20\\)</p><p>\\(n = 10\\)</p><p>(ii) Size of exterior angle = \\(\\frac{360}{\\text{Number of sides}}\\)</p><p>= \\(\\frac{360}{10}\\)</p><p>= \\(36°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2004,
+        "question": "<p>The table shows the marks scored by a group of students in a class test.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n <td>Marks</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>1</td>\n<td>4</td>\n<td>9</td>\n<td>8</td>\n<td>5</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>(a)(i) Calculate the mean mark ; (ii) Find the median.</p><p>(b) If the information were to be represented in a pie chart, what would be the sectorial angle for the mark 2?</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>Total</td>\n</tr>\n<tr>\n<td>f</td>\n<td>1</td>\n<td>4</td>\n<td>9</td>\n<td>8</td>\n<td>5</td>\n<td>3</td>\n<td>30</td>\n</tr>\n<tr>\n<td>fx</td>\n<td>0</td>\n<td>4</td>\n<td>18</td>\n<td>24</td>\n<td>20</td>\n<td>15</td>\n<td>81</td>\n</tr>\n</tbody>\n</table><p>(i) Mean(\\(\\bar{x}\\) = \\(\\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{81}{30}\\)</p><p>= 2.7</p><p>(ii) \\(N = \\sum f = 30\\)</p><p>\\(median = \\frac{1}{2}(N + 1)\\)</p><p>= \\(\\frac{1}{2}(30 + 1)\\)</p><p>=15.5</p><p>= The 15th and 16th position.</p><p>\\(\\therefore median = \\frac{3 + 3}{2} = 3\\)</p><p>(b) Sectorial angle for the mark 2 = \\(\\frac{9}{30} \\times 360°\\)</p><p>= 108°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2004,
+        "question": "<p>(a) Simplify : \\((\\frac{x^{2}}{2} - x + \\frac{1}{2})(\\frac{1}{x - 1})\\)</p><p>(b) A point P is 40km from Q on a bearing 061°. Calculate, correct to one decimal place, the distance of P to (i) north of Q ; (ii) east of Q.</p><p>(c) A man left N5,720 to be shared among his son and three daughters. Each daughter's share was \\(\\frac{3}{4}\\) of the son's share. How much did the son receive?</p>",
+        "answer": "<p>(a) \\((\\frac{x^{2}}{2} - x + \\frac{1}{2})(\\frac{1}{x - 1})\\)</p><p>\\(\\frac{x^{2}}{2} - x + \\frac{1}{2} = \\frac{x^{2} - 2x + 1}{2}\\)</p><p>= \\(\\frac{(x - 1)^{2}}{2}\\)</p><p>\\(\\therefore (\\frac{x^{2}}{2} - x + \\frac{1}{2})(\\frac{1}{x - 1}) = (\\frac{(x - 1)^{2}}{2})(\\frac{1}{x - 1})\\)</p><p>= \\(\\frac{x - 1}{2}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0195%20%282%29.jpg\" style=\"height:131px; width:250px\"></p><p>(i) TQ = PR (North of Q)</p><p>\\(\\implies \\sin 29 = \\frac{PR}{40}\\)</p><p>\\(PR = 40 \\sin 29 = 19.39 km\\)</p><p>(ii) QR = East of Q</p><p>\\(\\frac{QR}{40} = \\cos 29\\)</p><p>\\(QR = 40 \\cos 29\\)</p><p>= 34.98km</p><p>\\(\\approxeq\\) 35km.</p><p>(c) Let the son's share = x.</p><p>Each daughter's share = \\(\\frac{3}{4}x\\)</p><p>For the three daughters = \\(3 \\times \\frac{3}{4} = \\frac{9}{4}\\)</p><p>\\(x + \\frac{9}{4}x = 5720 \\implies \\frac{13}{4}x = 5720\\)</p><p>\\(x = \\frac{5720 \\times 4}{13} = N1760\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2004,
+        "question": "<p>(a) The angles of depression of the top and bottom of a building are 51° and 62° respectively from the top of a tower 72m high. The base of the building is on the same horizontal level as the foot of the tower. Calculate the height of the building correct to 2 significant figures.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0193%20%282%29.jpg\" style=\"height:246px; width:250px\"> In the diagram, PR is a chord of the circle centre O and radius 30cm, &lt; POR = 120°. Calculate correct to three significant figures : (i) the length of chord PR ; (ii) the length of arc PQR ; (iii) the perimeter of the shaded portion. (Take \\(\\pi = 3.142\\)).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0195%20%283%29_LI.jpg\" style=\"height:250px; width:221px\"></p><p>ST = QR ; PS = height of tower.</p><p>In \\(\\Delta\\) PST,</p><p>\\(\\frac{72}{ST} = \\tan 62°\\)</p><p>\\(ST = \\frac{72}{\\tan 62}\\)</p><p>= 38.283m \\(\\approxeq\\) 38.3m</p><p>In \\(\\Delta\\) PQR, \\(\\frac{h}{QR} = \\tan 51°\\)</p><p>\\(h = QR \\times \\tan 51°\\)</p><p>= \\(38.3 \\times 1.235\\)</p><p>= \\(47.3m\\)</p><p>QS = RT (height of the building)</p><p>QS = PS - PQ</p><p>= 72 - 47.3 = 24.7m</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0195%20%284%29.jpg\" style=\"height:242px; width:250px\"></p><p>(i) \\(\\Delta POR = \\Delta QOR\\) (isosceles triangle)</p><p>\\(\\frac{PT}{30} = \\sin 60\\)</p><p>\\(PT = 30 \\sin 60 = 30 \\times \\frac{\\sqrt{3}}{2}\\)</p><p>= \\(15\\sqrt{3} cm\\)</p><p>PT = TR</p><p>PR = 2PT </p><p>= \\(2 \\times 15\\sqrt{3} = 30\\sqrt{3} cm\\)</p><p>= \\(30 \\times 1.732 = 51.96 cm\\)</p><p>\\(\\approxeq 52 cm\\)</p><p>(ii) Length of minor arc, PQR = \\(\\frac{\\theta}{360} \\times 2\\pi r\\)</p><p>= \\(\\frac{120}{360} \\times 2 \\times 3.142 \\times 30\\)</p><p>= \\(62.84 cm\\)</p><p>(iii) Perimeter of shaded portion = chord PR + Arc PQR</p><p>= 51.96 + 62.84</p><p>= 114.8 cm \\(\\approxeq\\) 115cm.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2004,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0193%20%283%29.jpg\" style=\"height:261px; width:250px\"></p><p>In the diagram, XY is a chord of a circle of radius 5cm. The chord subtends an angle 96° at the centre. Calculate, correct to three significant figures, the area of the minor segment cut-off. (Take \\(\\pi = \\frac{22}{7}\\)).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0193%20%284%29.jpg\" style=\"height:264px; width:250px\"> The figure shows a circle inscribed in a square. If a portion of the circle is shaded with some portions of the square, calculate the total area of the shaded portions. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) Area of minor sector = \\(\\frac{\\theta}{360} \\times \\pi r^{2}\\)</p><p>= \\(\\frac{96}{360} \\times \\frac{22}{7} \\times 5^{2}\\)</p><p>= \\(20.95 cm^{2}\\)</p><p>Area of triangle formed from the sector = \\(\\frac{1}{2} r^{2} \\sin \\theta\\)</p><p>= \\(\\frac{1}{2} \\times 5^{2} \\times \\sin 96\\)</p><p>= \\(12.43 cm^{2}\\)</p><p>\\(\\therefore \\text{The area of minor segment} = 20.95 - 12.43\\)</p><p>= \\(8.52 cm^{2}\\)</p><p>(b) Area of minor sector = \\(\\frac{\\theta}{360} \\times \\pi r^{2}\\)</p><p>= \\(\\frac{80}{360} \\times \\frac{22}{7} \\times 7^{2}\\)</p><p>= \\(34.22 cm^{2}\\)</p><p>Area of the square = \\((14)^{2} = 196 cm^{2}\\)</p><p>Area of the circle = \\(\\pi r^{2} = \\frac{22}{7} \\times 7^{2} = 154 cm^{2}\\)</p><p>Area of the shaded portion in the square = \\(196 - 154 = 42 cm^{2}\\)</p><p>Total area of the shaded portions = \\(42 + 34.22\\)</p><p>= \\(76.22 cm^{2} \\approxeq 76.2 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2004,
+        "question": "<p>Using a ruler and a pair of compasses only,</p><p>(a) Construct : (i) \\(\\Delta PQR\\) such that /PQ/ = 8cm, /PR/ = 7cm and &lt; QPR = 105°. (ii) locus \\(L_{1}\\) of points equidistant from P and Q. (iii) locus \\(l_{2}\\) of points equidistant Q and R.</p><p>(b)(i) Label the point T where \\(l_{1}\\) and \\(l_{2}\\) intersect ; (ii) With centre T and radius /TQ/, construct a circle \\(l_{3}\\). (iii) Complete quadrilateral PQSR such that /RS/ = /QS/ and /RQ/ = /TS/.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0195%20%285%29.jpg\" style=\"height:388px; width:400px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2004,
+        "question": "<p>K(lat. 60°N, long. 50°W) is a point on the eart's surface. L is another point due East of K and the third point N is due North of K. The distance KL is 3520km and KN is 10951km.</p><p>(a) Calculate: (i) The longitude of L ; (ii) The latitude of N. (Take \\(\\pi = \\frac{22}{7}\\) and the radius of the earth = 6400km).</p><p>(b) A man was allowed 20% of his income as tax free. He then paid 25 kobo in the naira on the remainder. If he paid N1,200.00 as tax, calculate his total income.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/0196%20%282%29.jpg\" style=\"height:254px; width:250px\"></p><p>(i) Let the length of the longitude be \\(\\theta\\).</p><p>Longitude difference = \\(50 + \\theta\\)</p><p>Distance along the parallel of latitude (KL) = \\(\\frac{50 + \\theta}{360} \\times 2\\pi R \\cos 60\\)</p><p>\\(3520 = \\frac{50 + \\theta}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\cos 60\\)</p><p>\\(3520 = \\frac{50 + \\theta}{360} \\times 2 \\times \\frac{22}{7} \\times 3200\\)</p><p>\\(50 + \\theta = \\frac{3520 \\times 360 \\times 7}{22 times 2 \\times 3200}\\)</p><p>\\(50 + \\theta = 63°\\)</p><p>\\(\\theta = 63° - 50° = 13°\\)</p><p>(ii) Let the latitude of N be \\(\\alpha\\).</p><p>The distance along the parallel of longitude (KN) = \\(\\frac{60 + \\alpha}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>\\(10951 = \\frac{60 + \\alpha}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>\\(60 + \\alpha = \\frac{10951 \\times 360 \\times 7}{2 \\times 22 \\times 6400}\\)</p><p>\\(60 + \\alpha = 98°\\)</p><p>\\(\\alpha = 98° - 60° = 38°\\)</p><p>The latitude of N = 38​​​​​​​°S.</p><p>(b) Let the man's income tax be x.</p><p>80% of x = \\(\\frac{1200}{0.25} = N4800\\)</p><p>\\(0.8x = N4,800\\)</p><p>\\(x = \\frac{4800}{0.8} = N6000\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2004,
+        "question": "<p>The frequency distribution shows tha marks of 100 students in a Mathematics test.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>1-10</td>\n<td>11-20</td>\n<td>21-30</td>\n<td>31-40</td>\n<td>41-50</td>\n<td>51-60</td>\n<td>61-70</td>\n<td>71-80</td>\n<td>81-90</td>\n<td>91-100</td>\n</tr>\n<tr>\n<td>\n<p>No. of</p>\n<p>Students</p>\n</td>\n<td>2</td>\n<td>4</td>\n<td>9</td>\n<td>13</td>\n<td>18</td>\n<td>32</td>\n<td>13</td>\n<td>5</td>\n<td>3</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>(a) Draw cumulative frequency curve for the distribution .</p><p>(b) Use your curve to estimate : (i) the median ; (ii) the lower quartile ; (iii) the 60th percentile.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>Frequency</td>\n<td>Cum. freq</td>\n</tr>\n<tr>\n<td>1 - 10</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>11 - 20</td>\n<td>4</td>\n<td>6</td>\n</tr>\n<tr>\n<td>21 - 30</td>\n<td>9</td>\n<td>15</td>\n</tr>\n<tr>\n<td>31 - 40</td>\n<td>13</td>\n<td>28</td>\n</tr>\n<tr>\n<td>41 - 50</td>\n<td>18</td>\n<td>46</td>\n</tr>\n<tr>\n<td>51 - 60</td>\n<td>32</td>\n<td>78</td>\n</tr>\n<tr>\n<td>61 - 70</td>\n<td>13</td>\n<td>91</td>\n</tr>\n<tr>\n<td>71 - 80</td>\n<td>5</td>\n<td>96</td>\n</tr>\n<tr>\n<td>81 - 90</td>\n<td>3</td>\n<td>99</td>\n</tr>\n<tr>\n<td>91 - 100</td>\n<td>1</td>\n<td>100</td>\n</tr>\n</tbody>\n</table><p><img alt=\"\" src=\"/storage/classroom/editor_images/0196%20%283%29.jpg\" style=\"height:389px; width:300px\"></p><p>(b)(i) \\(N = \\sum f = 100\\)</p><p>\\(Median = \\frac{1}{2}N = \\frac{1}{2}(100)\\)</p><p>= 50th percentile.</p><p>\\(\\therefore Median = 52\\).</p><p>(ii) \\(Q_{1} = \\frac{1}{4} N = \\frac{1}{4}(100)\\)</p><p>= 25th percentile.</p><p>\\(\\therefore Q_{1} = 39\\)</p><p>(iii) 60th percentile = 55.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2004,
+        "question": "<p>(a) Simplify : \\(\\sqrt{1001_{two}}\\), leaving your answer in base two.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0193%20%285%29.jpg\" style=\"height:254px; width:250px\"></p><p>In the diagram, O is the centre of the circle radius x. /PQ/ = z, /OK/ = y and &lt; OKP = 90°. Find the value of z in terms of x and y.</p><p>(c) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0194%20%282%29.jpg\" style=\"height:252px; width:250px\"></p><p>In the diagram, P, Q, R and S are points of the circle centre O. \\(\\stackrel\\frown{POQ} = 160°\\), \\(\\stackrel\\frown{QSR} = 45°\\) and \\(\\stackrel\\frown{PQS} = 40°\\). Calculate, (i) &lt; QPS ; (ii) &lt; RQS.</p>",
+        "answer": "<p>(a) \\(1001_{2} = 1 \\times 2^{3} + 0 \\times 2^{2} + 0 \\times 2^{1} + 1 \\times 2^{0}\\)</p><p>= \\(8 + 0 + 0 + 1\\)</p><p>= 9</p><p>\\(\\sqrt{9} = 3_{10}\\)</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>2</td>\n<td>1 r 1</td>\n</tr>\n<tr>\n<td> </td>\n<td>0 r 1</td>\n</tr>\n</tbody>\n</table><p>\\(\\therefore \\sqrt{1001_{2}} = 11_{2}\\)</p><p>(b) In \\(\\Delta QOP, OQ = OP\\)</p><p>\\(\\therefore QK = KP\\)</p><p>\\(\\Delta QOK = \\Delta POK\\) (right- angled triangle)</p><p>In \\(\\Delta POK\\),</p><p>\\(OP^{2} = PK^{2} + OK^{2}\\)</p><p>\\(x^{2} = y^{2} + (\\frac{z}{2})^{2}\\)</p><p>\\(\\frac{z^{2}}{4} = x^{2} - y^{2}\\)</p><p>\\(z^{2} = 4x^{2} - 4y^{2}\\)</p><p>\\(z = \\sqrt{4(x^{2} - y^{2})}\\)</p><p>\\(z = 2\\sqrt{x^{2} - y^{2}}\\)</p><p>(c)(i) \\(&lt; PSQ = \\frac{1}{2}(&lt; POQ) = \\frac{1}{2}(160°)\\)</p><p>= 80°</p><p>In \\(\\Delta PSQ\\),</p><p>\\(&lt; PQS + &lt; QPS + &lt; PSQ = 180°\\)</p><p>\\(40° + &lt; QPS + 80° = 180°\\)</p><p>\\(&lt; QPS = 180° - 120° = 60°\\)</p><p>(ii) \\(&lt; PSR = &lt; PSQ + &lt; QSR\\)</p><p>= \\(80° + 45°\\)</p><p>= \\(125°\\)</p><p>\\(&lt; PQS = &lt; PQO + &lt; RQS \\)</p><p>= \\(40° + &lt; RQS\\)</p><p>\\(&lt; PSR + &lt; PQS = 180°\\)</p><p>\\(\\therefore 125° + 40° + &lt; RQS = 180°\\)</p><p>\\(&lt; RQS = 180° - 165°\\)</p><p>= \\(15°\\) </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2004,
+        "question": "<p>(a)  Copy and complete the following table of values for the relation \\(y = 2x^{2} - 7x - 3\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>y</td>\n<td>19</td>\n<td> </td>\n<td>-3</td>\n<td> </td>\n<td>-9</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) Using 2 cm to 1 unit on the x- axis and 2 cm to 5 units on the y- axis, draw the graph of \\(y = 2x^{2} - 7x - 3\\) for \\(-2 \\leq x \\leq 5\\).</p><p>(c) From your graph, find the : (i) minimum value of y ;</p><p>                                                 (ii) gradient of the curve at x = 1.</p><p>(d) By drawing a suitable straight line, find the values of x for which \\(2x^{2} - 7x - 5 = x + 4\\).</p>",
+        "answer": "<p>(a) \\(y = 2x^{2} - 7x - 3\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(2x^{2}\\)</td>\n<td>8</td>\n<td>2</td>\n<td>0</td>\n<td>2</td>\n<td>8</td>\n<td>18</td>\n<td>32</td>\n<td>50</td>\n</tr>\n<tr>\n<td>\\(-7x\\)</td>\n<td>14</td>\n<td>7</td>\n<td>0</td>\n<td>-7</td>\n<td>-14</td>\n<td>-21</td>\n<td>-28</td>\n<td>-35</td>\n</tr>\n<tr>\n<td>\\(-3\\)</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n</tr>\n<tr>\n<td>\\(y\\)</td>\n<td>19</td>\n<td>6</td>\n<td>-3</td>\n<td>-8</td>\n<td>-9</td>\n<td>-6</td>\n<td>1</td>\n<td>12</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0197%20%282%29.jpg\" style=\"height:357px; width:300px\"></p><p>(c)(i) Minimum value of y = -9</p><p>(ii) \\(y = 2x^{2} - 7x - 3\\)</p><p>Gradient = \\(\\frac{\\mathrm d y}{\\mathrm d x} = 4x - 7\\)</p><p>Gradient at x = 1 : \\(4(1) - 7 = 4 - 7 = -3\\).</p><p>(d) \\(2x^{2} - 7x - 5 = x + 4\\)</p><p>\\(2x^{2} - 7x - 5 + 2 = x + 4 + 2\\)</p><p>\\(2x^{2} - 7x - 3 = x + 6\\)</p><p>\\(\\implies y = x + 6\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n<td>6</td>\n</tr>\n<tr>\n<td>y</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>11</td>\n</tr>\n</tbody>\n</table><p>From the graph, x = -0.9 or 5.</p><p> </p>",
+        "type": "theory"
+    }
+]

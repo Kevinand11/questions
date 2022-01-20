@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1991,
+        "question": "Which of the following is the most suitable for use as an altimeter?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "A mecury barometer",
+            "A fortin barometer",
+            "A mecury manometer",
+            "An aneroid barometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1991,
+        "question": "A body of weight W N rest on a smooth plane inclined at an angle\\(\\theta\\)<sup>o</sup>to the horizontal. What is the resolved part of the weight in Newtons along the plane?",
+        "explanation": "horizontal component = W cos(90<sup>o</sup>- \\(\\theta\\))<br><br>= W sin<sup></sup>",
+        "correctIndex": 0,
+        "options": [
+            "W sin\\(\\theta\\)",
+            "W cos\\(\\theta\\)",
+            "W sec\\(\\theta\\)",
+            "W tan\\(\\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1991,
+        "question": "A small metal ball thrown vertically upwards from the top of a tower with an initial velocity of 20ms<sup>-1</sup>. If the ball took a total of 6s to reach ground level, determine the height of the tower [g = 10ms<sup>-2</sup>]",
+        "explanation": "Time from tower to top, t = \\(\\frac{u - v}{g}\\)<br><br>= \\(\\frac{20 - 0}{10}\\)<br><br>= 2s<br><br>distance from tower to top<br><br>x = ut - \\(\\frac{1}{2}\\)gt<sup>2</sup><br><br>= (20 x 2) - (\\(\\frac{1}{2}\\) x 10 x 2 x 2)<br><br>= 20m<br><br>Time from the top to the ground, t = 6 - 2<br><br>= 4s<br><br>distance from top to ground,<br><br>x = ut - \\(\\frac{1}{2}\\)gt<sup>2</sup><br><br>= (0 x 4) + (\\(\\frac{1}{2}\\) x 10 x 4 x 4)<br><br>= 80cm<br><br>therefore, height of tower = 80 - 20<br><br>= 60m",
+        "correctIndex": 0,
+        "options": [
+            "60m",
+            "80m",
+            "100m",
+            "120m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1991,
+        "question": "An object moves with uniform speed round a circle. Its acceleration has",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "constant magnitude and constant direction",
+            "constant magnitude and varying direction",
+            "varying magnitude but constant direction",
+            "varying magnitude and varying direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1991,
+        "question": "<p>A body of mass 100g moving with a velocity of 10.0ms-1 collides with a wall. If after collision, it moves with a velocity of 2.0ms-1 in the opposite direction, calculate the change in momentum.</p>",
+        "explanation": "<p>Initial momentum = 0.1 x 10 = 1Ns<br>\n<br>\nfinal velocity = -2ms-1<br>\n<br>\nFinal momentum = -2 x 0.1 = -0.2Ns<br>\n<br>\nChange in momentum = -0.2 - 1 = -1.2Ns</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.8Ns",
+            "1.2Ns",
+            "12.0Ns",
+            "80.0Ns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1991,
+        "question": "A spring of force constant 1500Nm<sup>-1</sup>is acted upon by a constant force of 75N. Calculate the potential energy stored in the string",
+        "explanation": "P.E = \\(\\frac{1}{2}\\)Fe<br><br>= \\(\\frac{1}{2}\\)\\(\\frac{F}{K}\\)<br><br>= \\(\\frac{1}{2}\\) x \\(\\frac{75 \\times 75}{1500}\\)<br><br>= 1.9J",
+        "correctIndex": 0,
+        "options": [
+            "1.9J",
+            "2.8J",
+            "3.45J",
+            "0.43J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1991,
+        "question": "A wheel and axle have radii 80cm and 10cm respectively. If the efficiency of the machine is 0.85, an applied force of 1200N to the wheel will raise a load of",
+        "explanation": "Efficiency = m.A x \\(\\frac{1}{V.R}\\) x 100%<br><br>85 = \\(\\frac{load}{1200}\\) x \\(\\frac{10}{80}\\) x \\(\\frac{100}{1}\\)<br><br>load = 8160N",
+        "correctIndex": 2,
+        "options": [
+            "8.0N",
+            "6.8N",
+            "8160N",
+            "9600N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1991,
+        "question": "A 20kg mass is to be pulled up a slope inclined at 30<sup>o</sup>to the horizontal. If the efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms<sup>-2</sup>]",
+        "explanation": "Efficiency = m.A x \\(\\frac{1}{V.R}\\) X 100%<br><br>75 = \\(\\frac{20 \\times 10}{effort}\\) x \\(\\frac{1}{\\frac{g}{sin\\theta}}\\) x 100%<br><br>Effort = 133.3N",
+        "correctIndex": 2,
+        "options": [
+            "13.3N",
+            "73.5N",
+            "133.3N",
+            "53.2N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1991,
+        "question": "The spiral spring of a spring balance is 25.0cm long when 5N hangs on it and 30cm long, when the weight is 10N. What is the length of the spring if the weight is 3N assuming Hooke's law is obeyed?",
+        "explanation": "let the length be Lcm<br><br>\\(\\frac{5 - 3}{25 - L}\\) = \\(\\frac{10 - 5}{30 - 25}\\)<br><br>L = 23cm",
+        "correctIndex": 3,
+        "options": [
+            "15.0cm",
+            "17.0cm",
+            "20.0cm",
+            "23.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1991,
+        "question": "The mass of a stone is 15.0g when completely immersed in water and 10.0g when completely immersed in a liquid of relative density 2.0. The mass of the stone in air is",
+        "explanation": "R.D = \\(\\frac{\\text{ mass of liquid displaced}}{\\text {mass of water displaced}}\\)<br><br>2 = \\(\\frac{m - 10}{m - 15}\\)<br><br>m = 20g",
+        "correctIndex": 2,
+        "options": [
+            "5.0g",
+            "12.0g",
+            "20.0g",
+            "25.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1991,
+        "question": "A pilot records the atmospheric pressure outside its plane as 63cm of Hg while a ground observer records a reading of 75cm of Hg for the atmospheric pressure on the ground. Assuming that the density of the atmosphere is constant, calculate the height of the plane above the ground. (Relative density of Hg = 13.0 and that of air = 0.00013)",
+        "explanation": "Difference in pressure = 75 - 63<br><br>= 12cmHg<br><br>pressure = hge<br><br>difference in height = \\(\\frac{12}{10 \\times \\frac{0.00013}{13}}\\)<br><br>= 1200m",
+        "correctIndex": 0,
+        "options": [
+            "1200m",
+            "6300m",
+            "7500m",
+            "13800m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1991,
+        "question": "<p>In which of the following is surface tension important?</p>",
+        "explanation": "<p> A carefully placed small needle can be made to float on the surface of water even though it is several times as dense as water. If the surface is agitated to break up the surface tension, then needle will quickly sink.</p>",
+        "correctIndex": 1,
+        "options": [
+            "the floating of a ship in water",
+            "the floating of a dry needle in water",
+            "the floating of a baloon in air",
+            "the diffusion of sugar solution across a membrane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1991,
+        "question": "A thermometer with an arbitrary scale S, of equal division registers -30<sup>o</sup>S at the ice point and +90<sup>o</sup>S at the steam point. Calculate the Celsius temperature corresponding to 60<sup>o</sup>S",
+        "explanation": "100<sup>o</sup>C ... 90<sup>o</sup>S<br><br>\\(\\theta\\)<sup>o</sup>C ... 60<sup>o</sup>S<br><br>0<sup>o</sup>C ... 30<sup>o</sup>S<br><br>\\(\\frac{\\theta - 0}{100 - 0}\\) = \\(\\frac{60 - (-30)}{90 - (-30)}\\)<br><br>\\(\\theta\\) = 75<sup>o</sup>C",
+        "correctIndex": 3,
+        "options": [
+            "25.0<sup>o</sup>C",
+            "50.0<sup>o</sup>C",
+            "66.7<sup>o</sup>C",
+            "75.0<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1991,
+        "question": "A brass rod is 2m long at a certain temperature. What is the length for a temperature rise of 100K, if the expansivity of brass is 18 x 10<sup>-6</sup>K<sup>-1</sup>?",
+        "explanation": "\\(\\alpha\\) = \\(\\frac{L_2 - L_1}{L_1 \\times \\Delta \\theta}\\)<br><br>18 x 10<sup>-6</sup>= \\(\\frac{L_2 - 2}{2\\times 100}\\)<br><br>L = 2.0036m",
+        "correctIndex": 0,
+        "options": [
+            "2.0036m",
+            "2.0018cm",
+            "2.1800",
+            "2.0360m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1991,
+        "question": "What is the difference in the amount of heat given out by 4kg of steam and 4kg of water when both are cooled from 100<sup>o</sup>C to 80<sup>o</sup>C? [the specific latent heat of steam is 2,260,000Jkg<sup>-1</sup>, specific heat capacity of water is 4200Jkg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "Heat by water = mc\\(\\theta\\)<br><br>Heat by steam = mc\\(\\theta\\) + mL<br><br>Difference = mL = 4 x 2,260,000<br><br>= 9,040,000J",
+        "correctIndex": 2,
+        "options": [
+            "4200J",
+            "2,260,OOOJ",
+            "9,040,000J",
+            "9,380,000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1991,
+        "question": "How long does it take a 750W heater to raise the temperature of 1kg of water from 20<sup>o</sup>C to 50<sup>o</sup>C [specific heat capacity of water = 4200Jkg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "Heat energy = Elect. energy<br><br>mc\\(\\theta\\) = power x time<br><br>1 x 4200 x (50 - 20) = 750 x t<br><br>t = 168s",
+        "correctIndex": 2,
+        "options": [
+            "84s",
+            "112s",
+            "168s",
+            "280s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1991,
+        "question": "The saturated vapour pressure of a liquid increases as the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "volume of the liquid increases",
+            "volume of the liquid decreases",
+            "temperature of the liquid increases",
+            "temperature of the liquid decreases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1991,
+        "question": "The absolute temperature of a perfect gas is proportional to the average",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "potential energy of the molecules",
+            "seperation between the molecules",
+            "kinetic energy of the molecules",
+            "velocity of the molecules"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1991,
+        "question": "A room is heated by means of a charcoal fire, An occupant of the room standing away from the fire is warmed mainly by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "convection",
+            "radiation",
+            "conduction",
+            "reflection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1991,
+        "question": "A boy timed 30 oscillations of a certain pendulum thrice and obtained 1min. 10s, 1min. 12s and 1min. 7s respectively.The mean period of oscillation of the pendulum is",
+        "explanation": "Total time = (3 x 60) + 29<br>= 209sec<br><br>period \\(\\frac{t}{n}\\) = \\(\\frac{209}{90}\\)<br><br>= 2.32sec",
+        "correctIndex": 2,
+        "options": [
+            "0.14s",
+            "0.43s",
+            "2.32s",
+            "6.97s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1991,
+        "question": "Which of the following is TRUE of light and sound waves?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "they both transmit energy",
+            "they both need a mediumfor propagation",
+            "they are both transverse waves",
+            "their velocities in air are equal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1991,
+        "question": "The image in a pin-hole camera is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "errect and formed by refraction through a lens",
+            "virtual and formed by dispersion",
+            "erect and gets sharper as the hole becomes larger",
+            "inverted and formed by the light from each point travelling in a straight line"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1991,
+        "question": "When a plane mirror at which a ray is incident is rotated through an angle \\( \\theta \\), the reflected ray will be rotated through",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{2}\\)\\(\\theta\\)",
+            "\\(\\theta\\)",
+            "2\\(\\theta\\)",
+            "3\\(\\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1991,
+        "question": "A trough 12.0cm deep is filled with water of refractive index \\(\\frac{4}{3}\\). By how much would a coin at the bottom of the trough appear to be displaced when viewed vertically from above the water surface?",
+        "explanation": "\\(\\frac{4}{3}\\) = \\(\\frac{12}{\\text {Apparent depth}}\\)<br><br>Apparent depth = 9cm<br><br>Height by which coin is raised = 12 - 9<br><br>= 3cm",
+        "correctIndex": 0,
+        "options": [
+            "3.0cm",
+            "6.0cm",
+            "9.0cm",
+            "16.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1991,
+        "question": "In a ray diagram for a thin converging lens, a ray that is not parallel to the optic axis but passes through the optic center will",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "pass through undeviated",
+            "pass through the center of curvature after refraction",
+            "emerge parallel to the principal axis",
+            "pass through the principal focus after refraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1991,
+        "question": "Which of the following correctly, describes the image of an object, 4cm from a diverging lens of focal length 12cm?",
+        "explanation": "F = \\(\\frac{uv}{u + v}\\)<br><br>F = -ve<br><br>-12 = \\(\\frac{4 \\times v}{4 + v}\\)<br><br>v = -3cm",
+        "correctIndex": 0,
+        "options": [
+            "The image is virtual, 3cm in front of the lens",
+            "The image is real, 6cm behind the lens",
+            "The image is virtual, 6cm in front of the lens",
+            "The image is real, 3cm in front the lens"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1991,
+        "question": "Two tuning forks of frequency 256Hz and 260Hz are sounded close to each other. What is the frequency of the beats produced?",
+        "explanation": "F = F<sub>2</sub>- F<sub>1</sub><br><br>= 260 - 256<br><br>= 4Hz",
+        "correctIndex": 1,
+        "options": [
+            "2Hz",
+            "4Hz",
+            "8Hz",
+            "258Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1991,
+        "question": "A man hears his echo from a nearby hill 2s after he shouted. If the frequency of his voice is 260Hz and the wavelength is 1.29m, how far away is the hill?",
+        "explanation": "v = \\(\\lambda\\)F<br><br>260 x 1.29 =335.4ms<sup>-1</sup><br><br>Echo time = \\(\\frac{2}{2}\\) = 1sec.<br><br>distance = v x t<br><br>= 335.4 x 1 = 335.4m",
+        "correctIndex": 1,
+        "options": [
+            "330.0m",
+            "335.4m",
+            "660.0m",
+            "670.8m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1991,
+        "question": "When the bottom tip of a vibrating tuning fork is held in contact with a wooden box, a louder sound is heard. This phenomenon is known as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "beats",
+            "echoing",
+            "resonance",
+            "reverberation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1991,
+        "question": "Which of the following statements is CORRECT about the earth's magnetic field?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the angle of dip is the angle which a freely suspended magnet makes with the vertical",
+            "the angle of declination is the angle between the magnetic meridian and the geographic meridian",
+            "the angle of declination is the angle which a magnetic compass makes with the magnetic meridian",
+            "the angle of inclination is the difference between the angle of dip and the angle of declination"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1991,
+        "question": "An insulated rod when rubbed with a material acquires",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a negative charge if it is made of glass and rubbed with silk",
+            "no charge if it is made of glass and rubbed with fur",
+            "no charge if it is made of copper and rubbed with silk",
+            "a positive charge if it is made of copper and rubbed with fur"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1991,
+        "question": "The function of the system of granulated carbon mixed with manganese (IV) oxide in a Letanche cell is to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "increase the e.m.f. of the cell to 2.0V",
+            "prevent local action in the cell",
+            "prevent polarisation in the cell",
+            "make the cell black and hence a good radiator"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1991,
+        "question": "A moving coil galvanometer of 300\\(\\Omega\\) resistance gives full scale deflection for 1.0mA. The resistance R, of the shunt that is required to convert the galvanometer into a 3.0A ammeter is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "899.70\\(\\Omega\\)",
+            "10.00\\(\\Omega\\)",
+            "0.10\\(\\Omega\\)",
+            "0.01\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1991,
+        "question": "Which of the following obeys Ohm's Law?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Glass",
+            "Diode",
+            "All electrolytes",
+            "All metals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1991,
+        "question": "An equipment whose power is 1500W and resistance is 375 ohms would draw a current of",
+        "explanation": "P = I<sup>2</sup>R \\(\\Rightarrow\\) I = \\(\\sqrt\\frac{P}{R}\\)<br><br>I = \\(\\sqrt\\frac{1500}{375}\\)<br><br>= 2A",
+        "correctIndex": 1,
+        "options": [
+            "0.10A",
+            "2.00A",
+            "4.00A",
+            "77.5A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1991,
+        "question": "To convert an alternating current dynamo into a direct current dynamo, the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "number of turns in the coil is increased",
+            "strength of the field magnet is increased",
+            "slip rings are replaced with a split ring commutator",
+            "coil is wound on a soft iron armature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1991,
+        "question": "If a current carrying coil is mounted on a metal frame, the back e.m.f. induced in the coil causes",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "inductance",
+            "eddy currents",
+            "elecro-magnetism",
+            "dipole moment"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1991,
+        "question": "The electrochemical equivalent of platinum is 5.0 x 10<sup>-7</sup>kgC<sup>-1</sup>to plate-out 1.0kg of platinum, a current of 100A must be passed through an appropriate vessel for",
+        "explanation": "m = Itz<br><br>1 = 100 x 5 x 10<sup>-7</sup>x t<br><br>t = 20,000sec<br><br>= 5.6hrs",
+        "correctIndex": 0,
+        "options": [
+            "5.6 hours",
+            "56 hours",
+            "1.4 x 10<sup>4 hours</sup>",
+            "2.0 x 10<sup>4 hours</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1991,
+        "question": "which of the following statements are TRUE of isotopes? i. isotopes of an element have the same chemical properties because they have the same number of electrons. ii. isotopes of elements are normally separated using physical properties. iii. isotopes of an element have the same number of protons in their nuclei.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "ii and iii only",
+            "i, ii, and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1991,
+        "question": "When an atom loses or gains a charge, it becomes",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "an electron",
+            "an ion",
+            "a neutron",
+            "a proton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1991,
+        "question": "<p>4g of a radioactive material of half-life 10 days is spilled on a laboratory floor. How long would it take to disintegrate 3.5g of the material?</p>",
+        "explanation": "<p>half-life = 10 days </p><p>after 10 days, the 4g of element = 2g remaining with 2g disintegrated</p><p>after 10 days, 2g of element = 1g left with 1g disintegrated</p><p>hence, after 20 days, 3g of the element has been disintegrated with 1g left.</p><p>after 10 days, the 1g of element = 0.5g left with 0.5g disintegrated</p><p>after 30 days, we have 0.5g of element left with 3.5g disintegrated.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1\\(\\frac{1}{4}\\) days",
+            "8\\(\\frac{1}{4}\\) days",
+            "30 days",
+            "80 days"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1991,
+        "question": "<p>In a nuclear fusion process, four protons each of mass Mp were fused to produce a nucleus X of mass Mx. Which of the following equations is CORRECT?</p>",
+        "explanation": "<p>Energy is given out</p>",
+        "correctIndex": 0,
+        "options": [
+            "4M<sub>p</sub>&gt; M<sub>x</sub>",
+            "4M<sub>p</sub>= M<sub>x</sub>",
+            "4M<sub>p</sub>&lt; M<sub>x</sub>",
+            "M<sub>p</sub>&gt; M<sub>x</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1991,
+        "question": "Which of the following are True for \\(\\alpha\\)-decay. i. mass number, decrease by four. ii. Atomic number decreases by two. iii. mass number does not change.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii, and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1991,
+        "question": "Which of the following phenomena is called photoelectric effect?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "high energy electrons impinge on a metalic anode which then emits photons",
+            "a high energy photon emits photons as it slowed down",
+            "a metal absorbs quanta of light and then emits electrons",
+            "Two electrons are created from a quantum of light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18961459907_19910001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "200/√3N",
+            "100/√3N",
+            "300/√3N",
+            "100N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20420047200_19910002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "36π J",
+            "72π J",
+            "144π J",
+            "288π J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27712925570_19910003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.80A",
+            "0.50A",
+            "0.40A",
+            "0.004A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/29171508560_19910004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "8.0µF",
+            "6.0µF",
+            "4.0µF",
+            "2.0µF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26254360944_19910005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "K is Opened",
+            "K is closed",
+            "the 14 ohm resistor is doubled with k closed",
+            "the 6 ohm resistor is doubled with k closed"
+        ],
+        "type": "objectives"
+    }
+]

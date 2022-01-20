@@ -1,0 +1,706 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 1,
+        "year": 2012,
+        "question": "<p>The number of orbitals in a p-sub level of an atom is</p>",
+        "explanation": "<p>The p- orbital has 3 subshells; P\\(_x\\), P\\(_y\\) and P\\(_z\\) subshells.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 2,
+        "year": 2012,
+        "question": "<p>Which of the following electron configurations represents that of an atom in its ground state?</p>",
+        "explanation": "<p>An excited-state atom is an atom in which the total energy of the electrons can be lowered by transferring one or more electrons to different orbitals. That is, in an excited-state atom not all electrons are in the lowest possible energy levels.</p>",
+        "correctIndex": 2,
+        "options": [
+            "1s<sup>2</sup>2s<sup>1</sup>2p<sub>1\n</sub>",
+            "1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>1</sup>3p<sup>1</sup>",
+            "1s<sup>2</sup>2s<sup>1</sup>2p<sup>3</sup>",
+            "1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>0</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 3,
+        "year": 2012,
+        "question": "<p>Which of the following ions has an electron configuration different from the other?</p>",
+        "explanation": "<p>\\(_{17}\\)Cl\\(^-\\) = 18 electrons = 2, 8, 8</p><p>\\(_{12}\\)Mg\\(^{2+}\\), \\(_{8}\\)O\\(^{2-}\\) and \\(_{13}\\)Al\\(^{3+}\\) all have 10 electrons = 2, 8.</p>",
+        "correctIndex": 0,
+        "options": [
+            "<sub>17</sub>CI<sup>-</sup>",
+            "<sub>8</sub>O<sup>2-</sup>",
+            "<sub>12</sub>Mg<sup>2+</sup>",
+            "<sub>13</sub>AI<sup>3+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 4,
+        "year": 2012,
+        "question": "<p>The atomic radii of metals are usually</p>",
+        "explanation": "<p>Metals give off electrons. This means that atomic radius is always greater than the ionic radius for metals.</p>",
+        "correctIndex": 0,
+        "options": [
+            "greater than their ionic radii",
+            "equal to their ionic radii",
+            "less than their ionic radii",
+            "less than those of non-metals in the same period"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 5,
+        "year": 2012,
+        "question": "<p>Two elements, X and Y are in the same group on the periodic table because they both have the same</p>",
+        "explanation": "<p>The members of the same group always have the same number of electrons in the outer shell (i.e number of valence electrons).</p>",
+        "correctIndex": 1,
+        "options": [
+            "number of electronic shells",
+            "number of valence electrons",
+            "atomic size",
+            "atomic number"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 6,
+        "year": 2012,
+        "question": "<p>The d-block elements are paramagnetic because they</p>",
+        "explanation": "<p>Paramagnetism is a characteristic possessed by an atom with an unpaired electron. </p>",
+        "correctIndex": 1,
+        "options": [
+            "contain paired electrons which are repelled by magnetic field",
+            "contain unpaired electrons in the partially filled 3d-orbital",
+            "contain paired electrons which are repelled by magnetic field force",
+            "have delocalized valence electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 7,
+        "year": 2012,
+        "question": "<p>Which of the following statements about a radioactive substance is/are correct? l. lt emits radiation continuously and spontaneously. ll. The emitted radiations are affected by temperature and pressure III. The radiation can penetrate opaque matter</p>",
+        "explanation": "<p>The properties of radioactive elements holds true except that radioactive decay is not dependent on external conditions except electron capture and bombarding the radioactive material with subatomic particles.</p>",
+        "correctIndex": 2,
+        "options": [
+            "ll only",
+            "l and ll only",
+            "l and lll only",
+            "ll and lll only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 8,
+        "year": 2012,
+        "question": "<p>Which of the following elements is a metalloid?</p>",
+        "explanation": "<p>Some examples of metalloids include boron, silicon, germanium, arsenic etc.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Carbon",
+            "Oxygen",
+            "Silicon",
+            "Sodium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 9,
+        "year": 2012,
+        "question": "<p>Which of the following halogens is liquid at room temperature?</p>",
+        "explanation": "<p>Bromine is the third lightest halogen. It is a fuming red-brown liquid at room temperature.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Chlorine",
+            "Fluorine",
+            "lodine",
+            "Bromine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 10,
+        "year": 2012,
+        "question": "<p>The shape of a graphite crystal is</p>",
+        "explanation": "<p>Graphite is a crystalline form of the element Carbon. The atoms are arranged in a hexagonal structure.</p>",
+        "correctIndex": 2,
+        "options": [
+            "tetrahedral",
+            "pyramidal",
+            "hexagonal",
+            "octahedral"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 11,
+        "year": 2012,
+        "question": "<p>The complex compound formed by the combination of two elements with a large electronegativity difference is likely to be</p>",
+        "explanation": "<p>Ionic bonds are also formed when there is a large electronegativity difference between two atoms.</p>",
+        "correctIndex": 3,
+        "options": [
+            "polar covalent",
+            "giant molecular",
+            "covalent",
+            "ionic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 12,
+        "year": 2012,
+        "question": "<p>The complex compound formed when aluminum dissolves in aqueous sodium hydroxide is</p>",
+        "explanation": "<p>When aluminium is treated with dilute sodium hydroxide it forms a salt called sodium tetrahydroxoaluminate and hydrogen gas.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Na<sub>3</sub>Al(OH)<sub>4</sub>.",
+            "NaAl(OH)<sub>4</sub>",
+            "NaAl(OH)<sub>3</sub>",
+            "Na<sub>2</sub>Al(OH)<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 13,
+        "year": 2012,
+        "question": "<p>The vapour pressure of a liquid depends on l. temperature. ll. rate of condensation. III. cohesive forces holding the particles together</p>",
+        "explanation": "<p>Three common factors that influence the vapor pressure of a liquid are the surface area, intermolecular forces and the temperature.</p>",
+        "correctIndex": 2,
+        "options": [
+            "l only",
+            "l and ll only",
+            "l and lll only",
+            "ll and lll only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 14,
+        "year": 2012,
+        "question": "MgO does not readily dissolve in water because",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "of its high melting point",
+            "it is a covalent compound",
+            "it forms a hydroxide when dissolved in water",
+            "its lattice energy is higher than its hydration energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 15,
+        "year": 2012,
+        "question": "<p>Consider the following reaction equation: CaCO\\(_{3(s)}\\) + 2HCI\\(_{(aq)}\\) → CaCl\\(_{2(aq)}\\) + H\\(_2\\)O\\(_{(l)}\\) + CO\\(_{2(g)}\\). What mass of CaCI\\(_2\\) would be obtained when 25.0g of CaCO\\(_{3(s)}\\) is reacted with excess HCI\\(_{(aq)}\\)? [CaCO\\(_3 = 100; CaCI\\(_2\\) = 111]</p>",
+        "explanation": "<p>CaCO\\(_3\\) + 2HCI → CaCI\\(_2\\) + H\\(_2\\)O + CO\\(_2\\)</p><p>100g CaCO\\(_3\\) will produce 111g CaCI\\(_2\\)</p><p>25g CaCO\\(_3\\) will produce x ,</p><p>x = \\(\\frac{25 x 111}{100}\\)</p><p>= 27.75 \\(\\approxeq\\) 27.8g</p>",
+        "correctIndex": 3,
+        "options": [
+            "4.00g",
+            "4.44 g",
+            "18.9 g",
+            "27.8 g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 16,
+        "year": 2012,
+        "question": "<p>The number of sulphur atoms in 3.20g of SO\\(_{2(g)}\\) is [O = 16.0;S = 32.0; Avogadro constant = 6.02 x 10\\(^{23}\\)]</p>",
+        "explanation": "<p>32g of sulphur = 64g / 6.02 x 10\\(^{23}\\) atoms of SO\\(_2\\)</p><p>xg of sulphur = 3.2g of SO\\(_2\\) </p><p>: 1.6g of sulphur is present in 3.2g / 3.01 x 10\\(^{23}\\) atoms of SO\\(_2\\)  </p><p> </p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "3.01 x 10<sup>22</sup>",
+            "6.02 x 10<sup>22</sup>",
+            "6.02 x10<sup>23</sup>",
+            "1.20 x 10<sup>24</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 17,
+        "year": 2012,
+        "question": "<p>Consider the reaction represented by the following equation: xCH\\(_3\\)OH + yO\\(_2\\) → 2CO\\(_2\\) + zH\\(_2\\)O. The values of x,y and z respectively, are</p>",
+        "explanation": "<p>xCH\\(_3\\)OH + yO\\(_2\\) → 2CO\\(_2\\) + zH\\(_2\\)O</p><p>Balancing the equation, we have</p><p>C = x (on the left) and 2 (on the right)</p><p>⇒ x = 2</p><p>2CH\\(_3\\)OH + yO\\(_2\\) → 2CO\\(_2\\) + zH\\(_2\\)O</p><p>On the left, H = 8 and on the right = 2z</p><p>⇒ 2z = 8 ; z = 4</p><p>2CH\\(_3\\)OH + yO\\(_2\\) → 2CO\\(_2\\) + 4H\\(_2\\)O</p><p>On the right, O = 4 + 4 = 8.</p><p>On the left, O = 2 + 2y</p><p>⇒ 2 + 2y = 8</p><p>2y = 6 ; y = 3</p><p>x, y, z = 2, 3, 4.</p>",
+        "correctIndex": 0,
+        "options": [
+            "2,3 and 4",
+            "2, 4 and 3",
+            "1,2 and 3",
+            "1, 3 and 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 18,
+        "year": 2012,
+        "question": "The formula of mercury (l) dioxonitrate (III) is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "HgNO<sub>3</sub>",
+            "Hg<sub>2</sub>NO<sub>2</sub>",
+            "Hg<sub>2</sub>(NO<sub>2</sub>)<sub>2</sub>",
+            "Hg(NO<sub>3</sub>)<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 19,
+        "year": 2012,
+        "question": "<p>A sample of a gas may be identified as chlorine if it turns</p>",
+        "explanation": "<p>A test for chlorine is to place damp starch-iodide paper into a test tube of chlorine. A positive result for chlorine is indicated by the paper turning from white to blue-black.</p>",
+        "correctIndex": 3,
+        "options": [
+            "damp blue litmus paper red",
+            "lime water miky",
+            "lead ethanoate paper black",
+            "starch iodide paper blue-black"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 20,
+        "year": 2012,
+        "question": "<p>A metal M forms two types of chlorine, MCl\\(_2\\) and MCl\\(_3\\) which of the following laws best explains the relationship between the chlorides? Law of</p>",
+        "explanation": "<p>Law of multiple proportions, statement that when two elements combine with each other to form more than one compound, the weights of one element that combine with a fixed weight of the other are in a ratio of small whole numbers.</p>",
+        "correctIndex": 2,
+        "options": [
+            "conservation of mass",
+            "definite proportion",
+            "multiple proportion",
+            "reciprocal proportion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 21,
+        "year": 2012,
+        "question": "<p>Which of the following metals would readily displace hydrogen from steam?</p>",
+        "explanation": "<p>In the electrochemical series, H\\(^+\\) is above all the other elements in the series except Magnesium. Hence, only Mg\\(^{2+}\\) can displace hydrogen from a reaction.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Copper",
+            "Lead",
+            "Magnesium",
+            "Silver"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 22,
+        "year": 2012,
+        "question": "<p>The volume occupied by 0.4 g of hydrogen gas at s.t.p. is [H = 1. 00; Molar volume at s.t.p. = 22.4 dm3]</p>",
+        "explanation": "<p>2g of H\\(_2\\) = 22.4 dm\\(^3\\)</p><p>0.4g of H\\(_2\\) = x,</p><p>x = \\(\\frac{0.4 \\times 22.4}{2}\\) = 4.48dm\\(^3\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "2.24 dm<sup>3</sup>",
+            "4.48dm<sup>3</sup>",
+            "22.4dm<sup>3</sup>",
+            "44.8dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 23,
+        "year": 2012,
+        "question": "When a substance changes directly from the solid state to the gaseous state without forming a liquid, the substance is said to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "condense",
+            "evaporate",
+            "sublime",
+            "precipitate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 24,
+        "year": 2012,
+        "question": "<p>At ordinary temperature H\\(_2\\)O is a liquid while H\\(_2\\)S is a gas. This is because H\\(_2\\)O has</p>",
+        "explanation": "<p>H\\(_2\\)O has stronger intermolecular dipole--dipole interaction because of the greater polarity (or a hydrogen bond). Because of the stronger intermolecular interaction H\\(_2\\)O is more stable and exists as a liquid.</p>",
+        "correctIndex": 1,
+        "options": [
+            "weak intermolecular forces holding its molecules together",
+            "strong hydrogen bonds holding its molecules together",
+            "induced dipole-induced dipole forces between its molecules",
+            "ionic force between its molecules"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 25,
+        "year": 2012,
+        "question": "The postulate that molecules are in constant random motion best explains why liquids",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "can undergo solidification",
+            "maintain their volumes",
+            "are incompressible",
+            "have no characteristic shape"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 26,
+        "year": 2012,
+        "question": "<p>Which of the following gases has the lowest rate of diffusion under the same condition? [H = 1.00; He = 4. 00; O = 16.0; CI = 35.5]</p>",
+        "explanation": "<p>According to Graham's law of diffusion and effusion,</p><p>r \\(\\propto\\) \\(\\sqrt{\\frac{1}{M}}\\).</p><p>Therefore, the more the molar mass, the less the rate of diffusion and effusion.</p>",
+        "correctIndex": 0,
+        "options": [
+            "CI<sub>2</sub>",
+            "H<sub>2</sub>",
+            "He",
+            "O<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 27,
+        "year": 2012,
+        "question": "<p>The energy evolved when magnesium burns in air is in the form of</p>",
+        "explanation": "<p>When a piece of magnesium ribbon is ignited, light and heat are produced.The reaction is an exothermic reaction, as well as one that produces light energy.</p>",
+        "correctIndex": 2,
+        "options": [
+            "heat",
+            "heat and sound",
+            "light and heat",
+            "sound"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 28,
+        "year": 2012,
+        "question": "<p>A substance L reacts with NH\\(_4\\)NO\\(_{3(aq)}\\) to generate ammonia gas. L is likely to be</p>",
+        "explanation": "<p>The reaction between NH\\(_4\\)NO\\(_{3(aq)}\\) and any metal hydroxide produces ammonia, water and an alkali metal nitrate.</p>",
+        "correctIndex": 1,
+        "options": [
+            "HCl",
+            "NaOH",
+            "CH<sub>3</sub>COOH",
+            "CaSO<sub>4</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 29,
+        "year": 2012,
+        "question": "<p>On heating, the following trioxocarbonate (IV) salts decompose to give solid residue except</p>",
+        "explanation": "<p>Ammonium trioxocarbonate (IV) is an unstable compound. It decomposes on heating to yield ammonia, carbon (IV) oxide and water. All of these are gases.</p>",
+        "correctIndex": 0,
+        "options": [
+            "ammonium trioxocarbonate (IV)",
+            "calcium trioxocarbonate (IV)",
+            "lead (ll) trioxocarbonate(IV)",
+            "zinc trioxocarbonate (IV)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 30,
+        "year": 2012,
+        "question": "<p>Which of the following pH values indicates that a solution is a strong base?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1",
+            "5",
+            "9",
+            "13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 31,
+        "year": 2012,
+        "question": "<p>The hydrolysis of NH\\(_4\\)CI gives</p>",
+        "explanation": "<p>When you dissolve ammonium chloride crystals in water (H\\(_2\\)O), the ammonium chloride compound decomposes into its component ions: NH\\(_4 ^+\\) and Cl\\(^-\\). The reaction of these ions with water gives an acidic solution.</p>",
+        "correctIndex": 0,
+        "options": [
+            "an acidic solution",
+            "an alkaline solution",
+            "a buffer solution",
+            "a neutral solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 32,
+        "year": 2012,
+        "question": "<p>A spot of oil paint on a shirt can best be removed using</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "brine",
+            "detergent",
+            "kerosine",
+            "warm water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 33,
+        "year": 2012,
+        "question": "<p>Consider the reaction represented by the following equation: CuO\\(_{(s)}\\) + H\\(_2\\)SO\\(_{4(aq)}\\) → CuSO\\(_{4(aq)}\\) + H\\(_2\\)O\\(_{(l)}\\). Which of the following factors will not affect the rate of the reaction?</p>",
+        "explanation": "<p>The reaction rate between a solid and liquid will not be affected by pressure. Pressure majorly affects the reaction rate for gases.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Particle size of CuO<sub>(s)</sub>",
+            "Concentration of H<sub>2</sub>SO<sub>4(aq)</sub>",
+            "Temperature of the reacting mixture",
+            "Pressure of reaction system"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 34,
+        "year": 2012,
+        "question": "<p>Which of the following devices function on redox reaction? l. Dry cell ll. Car battery III. Electric generator</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "l and lll only",
+            "ll and lll only",
+            "l and ll only",
+            "l, ll and lll"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 35,
+        "year": 2012,
+        "question": "<p>The oxidation number of Fe in [Fe(CN)\\(_6\\)]\\(^{3-}\\) is</p>",
+        "explanation": "<p>Let the oxidation number of Fe in the compound [Fe(CN)\\(_6\\)]\\(^{3-}\\) be x.</p><p>x + 6(-1) = -3</p><p>x - 6 = -3;</p><p>x = -3 + 6</p><p>x = +3</p>",
+        "correctIndex": 0,
+        "options": [
+            "+3",
+            "+2",
+            "-2",
+            "-3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 36,
+        "year": 2012,
+        "question": "<p>Consider the following reaction equation: C\\(_{16}\\)H\\(_{34}\\) → C\\(_5\\)H\\(_{12}\\) + C\\(_{11}\\)H\\(_{22}\\). The process represented by the equation is</p>",
+        "explanation": "<p>In the reaction, a complex hydrocarbon is broken down into two simpler hydrocarbons. This is cracking.</p>",
+        "correctIndex": 0,
+        "options": [
+            "cracking",
+            "fermentation",
+            "polymerization",
+            "reforming"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 37,
+        "year": 2012,
+        "question": "<p>Which of the following substances would not produce ethanol when fermented?</p>",
+        "explanation": "<p>Vinegar is a product from fermentation. It can be gotten from the fermentation of ethanol.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Cane sugar",
+            "Glucose",
+            "Starch",
+            "Vinegar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 38,
+        "year": 2012,
+        "question": "<p>An alkanol can be prepared by the reaction of an alkene with</p>",
+        "explanation": "<p>An alkene reacts with conc. H\\(_2\\)SO\\(_4\\) to yield an alkyl hydrogen tetraoxosulphate (VI). The compound formed undergoes hydrolysis when boiled with water to yield an alcohol.</p>",
+        "correctIndex": 0,
+        "options": [
+            "concentrated tetraoxosulphate (VI) acid",
+            "bromine tetrachloroethane",
+            "aqueous potassium tetraoxomanganate (VII)",
+            "sodium hydroxide solution"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 39,
+        "year": 2012,
+        "question": "<p>A tertiary alkanol has a molecular formula C\\(_4\\)H\\(_{10}\\)O. What is the structural formula of the compound?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "(CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>OH",
+            "CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>3</sub>",
+            "(CH<sub>3</sub>)<sub>3</sub>COH",
+            "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 40,
+        "year": 2012,
+        "question": "<p>Which of the following industrial processes depends on the action of enzymes?</p>",
+        "explanation": "<p>The brewing of beer has to do with fermentation.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Liquefaction of air",
+            "Manufacture of soap",
+            "Brewing of beer",
+            "Catalytic cracking"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 41,
+        "year": 2012,
+        "question": "Which of the following pollutants is not usually recycled?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Aluminium cans",
+            "Glass bottles",
+            "Nuclear wastes",
+            "Paper wastes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 42,
+        "year": 2012,
+        "question": "A metal that is widely used in the manufacture of paints and overhead electric cables is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "aluminium",
+            "copper",
+            "iron",
+            "lead"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 43,
+        "year": 2012,
+        "question": "Brass is a mixture of",
+        "explanation": "Brass is an alloy made from copper and zinc. Unlike pure metals, most alloys do not have a single melting point, but a melting range in which the material is a mixture of solid and liquid phases.",
+        "correctIndex": 1,
+        "options": [
+            "Cu and Sn",
+            "Cu and Zn",
+            "Cu and Mg",
+            "Cu and Pb"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 44,
+        "year": 2012,
+        "question": "<p>Which of the following substances is mainly responsible for the depletion of the ozone layer?</p>",
+        "explanation": "<p>Ozone depletion occurs when chlorofluorocarbons (CFCs) and halons—gases formerly found in aerosol spray cans and refrigerants—are released into the atmosphere</p>",
+        "correctIndex": 1,
+        "options": [
+            "Oxgyen",
+            "Chlorofluorocarbon",
+            "Carbon (ll) oxide",
+            "Nitrogen (ll) oxide"
+        ],
+        "type": "objectives"
+    }
+]

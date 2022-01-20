@@ -1,0 +1,786 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1999,
+        "question": "200cm<sup>3</sup>each of 0.1M solutions of lead (II) trioxonitrate (V) and hydrochloric acid were mixed. Assuming that lead (II) chloride is completely insoluble, calculate the mass of lead (II) chloride that will be precipitated.<br>[Pb = 207, Cl= 35.5, N = 14, O = 16]",
+        "explanation": "The balanced equation of the reaction is:<br>Pb(NO<sub>3</sub>)<sub>2(aq)</sub>+ 2HCl<sub>(aq)</sub>---&gt; PbCl<sub>2(s)</sub>+ 2HNO<sub>3(aq)</sub><br>From the balanced equation,<br>1 mole of Pb(NO<sub>3</sub>)<sub>2</sub>gave 1 mole of PbCl<sub>2</sub><br>using, molar concentration = no of moles/volume in dm3<br>therefore, no of moles = molar concentration x volume in dm3<br>where, molar concentration of Pb(NO<sub>3</sub>)<sub>2</sub>= 0.1M<br>volume of Pb(NO<sub>3</sub>)<sub>2</sub>in dm3 = 0.2 dm3<br>therefore, no of moles of Pb(NO<sub>3</sub>)<sub>2</sub>= 0.1M x 0.2 dm3 = 0.02 mol<br><br>but from the balanced equation of the reaction, 1mol of Pb(NO<sub>3</sub>)<sub>2</sub>gave 1mol of PbCl<sub>2</sub>,<br>therefore 0.02mol of Pb(NO<sub>3</sub>)<sub>2</sub>will give 0.02mol of PbCl<sub>2</sub>.<br>But using, no of moles = mass/molar mass,<br>therefore mass = no of moles x molar mass<br>where, no of moles of PbCl<sub>2</sub>= 0.02mol<br>molar mass of PbCl<sub>2</sub>= 207 + (2 * 35.5) = 278 g/mol<br>therefore, mass of PbCl<sub>2</sub>= 0.02mol * 278g/mol<br>= 5.56g<br>therefore, mass of PbCl<sub>2</sub>that precipitated out is 5.56g.<br><br>Working and Answer was provided by<a href=\"https://www.facebook.com/Scientist4live\" target=\"_blank\">Chigbundu Emeruwa</a>",
+        "correctIndex": 1,
+        "options": [
+            "2.78g",
+            "5.56g",
+            "8.34g",
+            "11.12g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1999,
+        "question": "56.00cm<sup>3</sup>of a gas at S.T.P. weighed 0.11g. What is the vapour density of the gas?<br>[Molar volume of a gas at S.T.P = 22.4dm<sup>3</sup>]",
+        "explanation": "56.00cm<sup>3</sup>of a gas at S.T.P weighed 0.11g<br>Molar volume of the gas = 22.4dm3 = 22400cm3<br>molar mass = (22400 x 0.11)/56<br>molar mass = 2464/56 = 44<br>Vapour density = Molar mass/2 = 44/2 = 22",
+        "correctIndex": 1,
+        "options": [
+            "11.00",
+            "22.00",
+            "33.00",
+            "44.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1999,
+        "question": "Which of the following gases will diffuse fastest when passed through a porous plug?<br>[H = 1, C = 12, N = 14, O = 16]",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Propane",
+            "Oxygen",
+            "Methane",
+            "Ammonia"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1999,
+        "question": "Which is the temperature of a given mass of a gas initially at 0°C and 9 atm, if the pressure is reduced to 3 atm at constant volume?",
+        "explanation": "From P1/T1 = P2/T2 = 9/273 = 3/T2<br>T2 x 9 = 273 x 3<br>T2 = (273 x 3)/9<br>T2 = 91K",
+        "correctIndex": 0,
+        "options": [
+            "91K",
+            "182K",
+            "273K",
+            "819K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1999,
+        "question": "Which of the following will have its mass increased when heated in air?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Helium",
+            "Magnesium",
+            "Copper pyrites",
+            "Glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1999,
+        "question": "<p>Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)<br>\nFrom the equation above, the mass of magnesium required to react with 250cm3 of 0.5M HCl is<br>\n[Mg = 24]</p>",
+        "explanation": "<p>Molar conc. =no.of moles／Vol in dm3<br>\nVol=250cm3= 0.25dm3<br>\nMolar conc=0.5M<br>\nNo of moles=molar conc *Vol in dm3<br>\n=0.5*0.25<br>\n=0.125mole of HCl<br>\n2moles of HCl → １Mole of Mg<br>\n0.125 mole →(0.125*1)/2<br>\n=0.0625mole of Mg<br>\nReacting mass=no of moles* molar mass<br>\nMg=24<br>\nMass=0.0625*24<br>\n=1.5g</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.3g",
+            "1.5g",
+            "2.4g",
+            "3.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1999,
+        "question": "A gaseous metallic chloride MCl<sub>x</sub>consists of 20.22% of M by mass. The formula of the chloride is<br>[M = 27, Cl = 35.5]",
+        "explanation": "Percentage by mass of M = 20.22%<br>Percentage by mass of Cl = ?<br>100 - 20.22 = 79.78%<br>Mass given ration of M<br>M = 2022/27 = 0.75<br>Chlorine = 79.78/35.5 = 2.24<br>Divide by the smallest<br>M = 0.75/0.75 = 1<br>Cl = 2.24/0.75 = 3<br>∴ The formula = MCl<sub>3</sub>",
+        "correctIndex": 2,
+        "options": [
+            "MCl",
+            "MCl<sub>2</sub>",
+            "MCl<sub>3</sub>",
+            "M<sub>2</sub>Cl<sub>6</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1999,
+        "question": "<p>In which of the following are water molecules in the most disorderly arrangement?</p>",
+        "explanation": "<p>The gaseous state of matter has the most disorderly arrangement of particles. Hence, steam (water in gaseous form) is the most disorderly arrangement on the list.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Ice at -10°C",
+            "Ice at 0°C",
+            "Water at 100°C",
+            "Steam at 100°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1999,
+        "question": "In order to remove one electron from a 3S orbital of gaseous sodium atom, about 496KJMol<sup>-1</sup>of energy is required. This energy is referred to as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "electron affinity",
+            "ionization energy",
+            "activation evergy",
+            "electronegativity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1999,
+        "question": "Nitrogen obtained from the liquefaction of air has a higher density than that obtained from nitrogen containing compounds because the former contains",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "water vapour",
+            "oxygen",
+            "carbon (IV) oxide",
+            "rare gases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1999,
+        "question": "The method that can be used to convert hard water to soft water is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "chlorination",
+            "passage over activated charcoal",
+            "the use of an ion-exchange resin",
+            "aeration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1999,
+        "question": "1s<sup>2</sup>, 2s<sup>2</sup>, 2p<sup>6</sup>, 3s<sup>2</sup>, 3p<sup>6</sup>, 3d<sup>7</sup>, 4s<sup>2</sup><br>An element with the electronic configuration above is a",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "non-metal",
+            "metal",
+            "transition element",
+            "group two element"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1999,
+        "question": "Given that electronegativity increases across a period and decreases down a group in the periodic table, in which of the following compounds will the molecules be held together by the strongest hydrogen bond?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "HF<sub>(g)</sub>",
+            "NH<sub>3(g)</sub>",
+            "CH<sub>4(g)</sub>",
+            "HCl<sub>(g)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1999,
+        "question": "0.25 mole of hydrogen chloride was dissolved in distilled water and the volume made up of 0.50 dm<sup>3</sup>. If 15.0 cm<sup>3</sup>of the solution requires 12.50 cm<sup>3</sup>of aqueous sodium trioxocarbonate (IV) for neutralization, calculate the concentration of the alkaline solution",
+        "explanation": "M<sub>1</sub>V<sub>1</sub>= M<sub>2</sub>V<sub>2</sub><br>∴ M<sub>n</sub>V<sub>n</sub>represent volume and molar concentration of HCL also MyVy represent volume and molar concentration of Na<sub>2</sub>CO<sub>3</sub><br>M<sub>n</sub>V<sub>n</sub>= MyVy<br>0.25 * 15 = 12.50 * My<br>My = (0.25 * 15)/12.50<br>My = 0.3m/dm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "0.30 mol dm<sup>3</sup>",
+            "0.40 mol dm<sup>3</sup>",
+            "0.50 mol dm<sup>3</sup>",
+            "0.60 mol dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1999,
+        "question": "The correct order of increasing oxidation number of the transition metal ions for the compounds K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, V<sub>2</sub>O<sub>5</sub>and KMnO<sub>4</sub>is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "V<sub>2</sub>O<sub>5</sub>&lt; K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>&lt; KMnO<sub>4</sub>",
+            "K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>&lt; KMnO<sub>4</sub>&lt; V<sub>2</sub>O<sub>5</sub>",
+            "KMnO<sub>4</sub>&lt; K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>&lt; V<sub>2</sub>O<sub>5</sub>",
+            "KMnO<sub>4</sub>&lt; V<sub>2</sub>O<sub>5</sub>&lt; K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1999,
+        "question": "The set of pollutants that is most likely to be produced when petrol is accidentally spilled on plastic materials and ignited is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "CO, CO<sup>2</sup>and SO<sup>2</sup>",
+            "CO, HCL and SO<sup>2</sup>",
+            "CO, CO<sup>2</sup>and HCL",
+            "SO<sup>2</sup>, CO<sup>2</sup>and HCL"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1999,
+        "question": "What is observed when aqueous solutions of each of tetraoxosulphate (VI) acid, potassium trioxoiodate (V) and potassium iodide are mixed together?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "A white precipitate is formed",
+            "A green precipitate is formed",
+            "The mixture remains colourless",
+            "The mixture turns reddish brown"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1999,
+        "question": "The solution with the lowest pH value is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "5 ml of (m/10) HCL",
+            "10 ml of (m/10) HCL",
+            "15 ml of (m/5) HCL",
+            "20 ml of (m/8) HCL"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1999,
+        "question": "The solubility product of Cu(IO<sub>3</sub>)<sub>2</sub>is 1.08 * 10<sup>-7</sup>. Assuming that neither ions react appreciable with water to form H<sup>+</sup>and OH<sup>-</sup>, what is the solubility of this salt?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2.7 * 10<sup>-8</sup>mol dm<sup>-3</sup>",
+            "9.0 * 10<sup>-8</sup>mol dm<sup>-3</sup>",
+            "3.0 * 10<sup>-3</sup>mol dm<sup>-3</sup>",
+            "9.0 * 10<sup>-3</sup>mol dm<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1999,
+        "question": "The entropy and enthalpy of a system are a measure of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "degree of disorderlinesss and heat content respectively",
+            "heat content and degree of disorderliness respectively",
+            "heat content of a system only",
+            "degree of disorderliness only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1999,
+        "question": "2SO<sub>2(g)</sub>+ O<sub>2(g)</sub>↔ 2SO<sub>3(g)</sub>. In the chemical reaction above, the substance that will increase the rate of production of sulphur (VI) oxide is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "manganese (IV) oxide",
+            "finely divided iron",
+            "vanadium (V) oxide",
+            "nickel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1999,
+        "question": "N<sub>2</sub>O<sub>4(g)</sub>↔ 2NO<sub>2(g)</sub>. Increase in total pressure of the equilibrium reaction above will",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "produce more of NO<sub>2(g)</sub>in the mixture",
+            "convert all of N<sub>2</sub>O<sub>4(g)</sub>to NO<sub>2(g)</sub>",
+            "have no effect on the concentrations of NO<sub>2(g)</sub>and N<sub>2</sub>O<sub>4(g)</sub>",
+            "produce more of N<sub>2</sub>O<sub>4(g)</sub>in the mixture"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1999,
+        "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?<br>[ F = 96 5000 C mol<sup>-1</sup>]",
+        "explanation": "4 Faradays of electricity is required to liberate one mole of oxygen gas<br>∴ quantity of electricity required<br>= 0.125 * 4 * 96500 = 48250 coulombs",
+        "correctIndex": 1,
+        "options": [
+            "24 125 coulombs",
+            "48 250 coulombs",
+            "72 375 coulombs",
+            "96 500 coulombs"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1999,
+        "question": "X + Y → Z. The rate equation for the chemical reaction above is ((-Δ[x])/Δt) = K[X]<sup>2</sup>[Y].<br>The overall order of the reaction is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.0",
+            "1.0",
+            "2.0",
+            "3.09"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1999,
+        "question": "When a current I was passed through an electrolyte solution for 40 minutes, a mass X g of a univalent metal was deposited at the cathode. What mass of the metal will be deposited when a current 2I is passed through the solution for 10 minutes?",
+        "explanation": "From M = zit<br>Where M = to the mass of the metal liberated<br>z = Is the electrochemical equivalent<br>∴ X g = 1 * 1 * 40 * 60<br>X g = 2400 I<br>Let Y represent the new mass<br>Y = 1*2I * 10 * 60<br>Y = 1200 I<br>Y/(X g) = 1200 I/2400 I<br>Y = X/2 g",
+        "correctIndex": 1,
+        "options": [
+            "X/4 g",
+            "X/2 g",
+            "2X g",
+            "4X g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1999,
+        "question": "RS<sub>(aq)</sub>+ HF<sub>(aq)</sub>→ RF<sub>(s)</sub>+ HS<sub>(aq)</sub><br>ΔH = -65.7 kj mol<sup>(-1)</sup>.<br>From the equation above, it can be deduced that",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the heat content of the reactants is lower than that of the products",
+            "the heat content of the reactants is higher than that of the products",
+            "the reaction is slow",
+            "a large amount of heat is absorbed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1999,
+        "question": "Which of the following statement is true of the electrochemical series?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Electropositivity of metals increase down the series",
+            "Electropositivity of non-metals decrease down the series",
+            "Electronegativity of non-metals decrease down the series",
+            "Electropositivity of metals decreases down the series"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1999,
+        "question": "The gas that will form a white precipitate with acidified silver trioxonitrate (v) is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "NH<sub>3</sub>",
+            "SO<sub>2</sub>",
+            "CO<sub>2</sub>",
+            "HCL"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1999,
+        "question": "Chlorine, bromine and iodine resemble one another in that they",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "dissolve in alkalis",
+            "react violently with hydorgen without heating",
+            "are liquids",
+            "displace one another from solutiions of their salts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1999,
+        "question": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Na<sub>2</sub>SO<sub>4</sub>",
+            "Na<sub>2</sub>SO<sub>3</sub>",
+            "Na<sub>2</sub>S",
+            "Na<sub>2</sub>CO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1999,
+        "question": "<p>A pair of compounds that can be used to generate a gas which has physiological effect on human beings is</p>",
+        "explanation": "<p>The reaction between NaNO\\(_3\\) and NH\\(_4\\)Cl gives NaCl and NH\\(_4\\)NO\\(_3\\).</p><p>Upon heating, NH\\(_4\\)NO\\(_3\\) yields 2 moles of H\\(_2\\)O and N\\(_2\\)O.</p>",
+        "correctIndex": 2,
+        "options": [
+            "sodium trioxonitrate (V) and calcium chloride",
+            "sodium dioxonitrate (III) and ammonium chloride",
+            "sodium trioxonitrate (V) and ammonium chloride",
+            "sodium dioxonitrate (III) and potassium chloride"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1999,
+        "question": "Hydrogen is used in oxy-hydrogen flames for melting metals because it",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "evolves a lot of heat when burnt",
+            "combines explosively with oxygen",
+            "is a very light gas",
+            "is a rocket fuel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1999,
+        "question": "What properties of duralumin make it more useful than its constituent metals?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "It is heavy with a high melting point",
+            "It is malleable and has high density",
+            "It is strong and light",
+            "It is hard and ductile"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1999,
+        "question": "The pair of metals in the reactivity series that are usually extracted by the electrolysis of their ores is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "magnesium and zinc",
+            "magnesium and calcium",
+            "copper and zinc",
+            "lead and calcium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1999,
+        "question": "A metal that can be extracted from cassitertite is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "cacium",
+            "magnesium",
+            "tin",
+            "copper"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1999,
+        "question": "Which of the following metals is passive to concentrated trioxonitrate (V) acid?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Iron",
+            "Tin",
+            "Copper",
+            "Zinc"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1999,
+        "question": "The hydrocarbon that burns in air with a sooty flames is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "C<sub>2</sub>H<sub>6</sub>",
+            "C<sub>3</sub>H<sub>8</sub>",
+            "C<sub>4</sub>H<sub>10</sub>",
+            "C<sub>6</sub>H<sub>6</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1999,
+        "question": "2-methylprop-1-ene is an isomer of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "but-2-ene",
+            "pent-1-ene",
+            "2-methylbut-2-ene",
+            "2-methylbut-1-ene"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1999,
+        "question": "Which of the following is a solvent for perfumes?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "C<sub>5</sub>H<sub>12</sub>",
+            "C<sub>4</sub>H<sub>6</sub>",
+            "CH<sub>3</sub>COOH",
+            "C<sub>2</sub>H<sub>5</sub>OH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1999,
+        "question": "When excess ethanol is heated to 145<sup>o</sup>C in the presence of concentrated H<sub>2</sub>SO<sub>4</sub>, the product is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "ethyne",
+            "diethyl sulphate",
+            "diethyl ether",
+            "acetone"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1999,
+        "question": "POlyvinyl chloride is used to produce",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "bread",
+            "pencils",
+            "ink",
+            "pipes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1999,
+        "question": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "alkene",
+            "alkanal",
+            "alkanone",
+            "alkanoic acid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1999,
+        "question": "When the two end alkyl groups ethyl ethanoate are interchange, the compound formed is known as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "methyl ethanoate",
+            "ethyl propanaote",
+            "methyl propanoate",
+            "propyl ethanoate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12822350562_ch.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "117.00 g",
+            "58.50 g",
+            "11.70 g",
+            "5.85 g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11397647040_co10.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "calcium hydroxide and ammonium chloride",
+            "calcuim hydroxide and sodium chloride",
+            "sodium chloride and ammonuim trioxonitrate (V)",
+            "sodium dioxonitrate (lll) and ammouium chloride"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28494129040_co1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Z",
+            "Y",
+            "X",
+            "W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11397652024_co1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "W",
+            "X",
+            "Y",
+            "Z"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14247067480_co.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "distillation",
+            "fractional distillation",
+            "crystallization",
+            "fractional crystallization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5698829028_co3.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "l only",
+            "lll only",
+            "l and ll only",
+            "ll and lll only"
+        ],
+        "type": "objectives"
+    }
+]

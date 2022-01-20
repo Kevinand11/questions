@@ -1,0 +1,690 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2013,
+        "question": "When a brick is taken from the earth's surface to the moon, its mass",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "remains constant",
+            "reduces",
+            "increases",
+            "becomes zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2013,
+        "question": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle 0f 30<sup>o</sup>with the resultant, find its magnitude.",
+        "explanation": "F = 50Cos30<sup>o</sup>= 43.3<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "100.0N",
+            "57.7N",
+            "43.3N",
+            "25.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2013,
+        "question": "The pair of physical quantities that are scalar only are ?",
+        "explanation": "This is because volume and the area have only magnitude but no direction<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "volume and area",
+            "moment and momentum",
+            "length and displacement",
+            "Impulse and time"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2013,
+        "question": "A simple pendulum of length 0.4m has a period of 2s. What is the period a similar pendulum of length 0.8m at the same place?",
+        "explanation": "T<sub>2</sub>= \\(\\sqrt{\\frac{L^2 \\times T_1^2}{L_1}}\\)<br><br>= \\(\\sqrt{\\frac{0.8 \\times 2^2}{0.4}}\\)<br><br>= 2\\(\\sqrt{2}s\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "8s",
+            "4s",
+            "2\\(\\sqrt{2}s\\)",
+            "\\(\\sqrt{2}s\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2013,
+        "question": "A train with an initial velocity of 20ms<sup>-1</sup>is subjected to a uniform deceleration of 2m<sup>-2</sup>. The time required to bring the train to a complete halt is?",
+        "explanation": "t = \\(\\frac{v - u}{a}\\) = \\(\\frac{0 - 20}{-2}\\) = 10s<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "5s",
+            "10s",
+            "20s",
+            "40s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2013,
+        "question": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5ms<sup>-2</sup>.<br><br>[g = 10ms<sup>-2</sup>]",
+        "explanation": "Wt loss = mg - m (g - a)<br><br>= 70 x 10 - 70 (10 - 1.5) = 105N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "686N",
+            "595N",
+            "581N",
+            "105N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2013,
+        "question": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid?<br><br>[Density of the cork = 0.25 x 10<sup>3</sup>kgm<sup>-3</sup>, Density of the liquid = 1.25 x 10<sup>3</sup>kgm<sup>-3</sup>]",
+        "explanation": "\\(\\frac{0.25 \\times 10^3} {1.25 \\times 10^3}\\) = 0.2<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.8",
+            "0.5",
+            "0.2",
+            "0.1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2013,
+        "question": "An object is moving with a velocity of 5m<sup>-1</sup>. At what height must a similar body be situated to have a potential energy equal in value with kinetic energy of the moving body?",
+        "explanation": "P.E = K.E<br><br>Therefore, h = \\(\\frac{v^2}{2g} = \\frac{5^2}{2 \\times 10}\\)<br><br>= 1.25<br><br>Approx 1.3 (C)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "25.0m",
+            "20.0m",
+            "1.3m",
+            "1.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2013,
+        "question": "If a pump is capable of lifting 5000kg of water through a vertical height of 60m in 15 min, the power of the pump is",
+        "explanation": "P = \\(\\frac{mgh}{t}\\)<br><br>P = \\(\\frac{5000 \\times 10 \\times 60}{(15 \\times 60)s}\\)<br><br>P = 3333.3333<br><br>P = 3.3 x 10<sup>3</sup>js<sup>-1</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.2.5 x 10<sup>5</sup>js<sup>-1</sup>",
+            "2.5 x 10<sup>4</sup>js<sup>-1</sup>",
+            "3.3 x 10<sup>3</sup>js<sup>-1</sup>",
+            "3.3 x 10<sup>2</sup>js<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2013,
+        "question": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
+        "explanation": "W = \\(\\frac{1}{2}Fe\\)<br><br>W = \\(\\frac{1}{2}\\times 20 \\times 0.05\\)<br><br>W = 0.5J<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "0.5J",
+            "1.5J",
+            "2.0J",
+            "2.5J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2013,
+        "question": "<p>What volume of alcohol will have same mass as 4.2m-3 of petrol?<br>\nDensity of alcohol = 8.4 x 10^2 kgm-3, density of petrol =7.2x10^2 kgm-3</p>",
+        "explanation": "<p>Mp = ep x Vp<br>\n<br>\nMp = 7.2 x 102 x 4.2 = 3024<br>\n<br>\nVA = \\(\\frac{M}{e_A}\\)<br>\n<br>\nVA = \\(\\frac{3024}{8.4 \\times 10^2}\\)<br>\n<br>\nVA = 3.6</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.8m<sup>3</sup>",
+            "1.4m<sup>3</sup>",
+            "3.6m<sup>3</sup>",
+            "49.m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2013,
+        "question": "Calculate the length which corresponds to a temperature of 20<sup>o</sup>C if the ice and steam points of an unguarded thermometer are 400 mm apart",
+        "explanation": "At 100<sup>o</sup>C = 400<br><br>Therefore,<br><br>At 20<sup>o</sup>C = \\(\\frac{400}{100} \\times \\frac{20}{1}\\) = 80<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "20mm",
+            "30mm",
+            "60mm",
+            "80mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2013,
+        "question": "A wire of length 100.0m at 30<sup>o</sup>has linear expansive of 2x10<sup>-5</sup>K<sup>-1</sup>Calculate the length of the wire at a temperature of - 10<sup>o</sup>C",
+        "explanation": "\\(L_2 = L_1 + \\alpha(\\theta_2 - \\theta_1)\\)<br><br>= 100 + 0.00002(-10-30) = 99.92<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "100.08m",
+            "100.04m",
+            "99.96m",
+            "99.92m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2013,
+        "question": "A gas at a pressure of 10<sup>5</sup>Nm<sup>-2</sup>expands from 0.6m<sup>-3</sup>to 1.2m<sup>3</sup>at constant temperature, the work done is",
+        "explanation": "W = \\(\\frac{W_1 \\times V_1}{V_2}\\)<br><br>W = \\(\\frac{10 \\times 0.6}{1.2}\\)<br><br>W = 6.0 x 10<sup>4</sup>J<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "7.0 x 10<sup>6</sup>J",
+            "6.0 x 10<sup>6</sup>J",
+            "6.0 x 10<sup>5</sup>J",
+            "6.0 x 10<sup>4</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2013,
+        "question": "<p>Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is</p>",
+        "explanation": "<p>MC\\(x_\\theta\\) = MC\\(y_\\theta\\)</p><p>\\(x_\\theta\\) = 2 \\(\\times y_\\theta\\)</p><p>MC(2\\(y_\\theta\\)) = MC\\(y_\\theta\\)<br>\n<br>\n⇒ 2C = C<br>\n<br>\n=1 : 2</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2:1",
+            "1:2",
+            "4:1",
+            "1:4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2013,
+        "question": "<p>Steam from boiling water causes more damage on the skin than does boiling water because</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "water has a high specific heat",
+            "steam has latent heat of fusion",
+            "the steam is at a highter temperature than the water",
+            "steam brings heat more easily by convection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2013,
+        "question": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "It will be more than 100<sup>o</sup>C",
+            "It will be last than 100<sup>o</sup>C",
+            "It will still be at 100<sup>o</sup>C",
+            "It will be fluctuating"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2013,
+        "question": "<p>The rise or fall of a liquid in a narrow tube is because of the</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "viscosity of the liquid",
+            "surface tension of the liquid",
+            "friction between the walls of the tube and the liquid",
+            "osmotic pressure of the liquid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2013,
+        "question": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "covection",
+            "conduction",
+            "radiation",
+            "diffusion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2013,
+        "question": "A wave that travels through stretched strings is known as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electromagnetic wave",
+            "micro wave",
+            "mechanical wave",
+            "seismic wave"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2013,
+        "question": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "frequency",
+            "amplitude",
+            "direction of vibration of the particles of the medium",
+            "period of vibration of the particles of the medium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2013,
+        "question": "<p>What is the velocity of sound at 100 oC if the velocity of sound at 0 oC is 340ms -1?</p>",
+        "explanation": "<p>\\(V \\propto \\sqrt{T}\\)</p><p>⇒ \\(\\frac{V_{1}}{\\sqrt{T_{1}}} = \\frac{V_{2}}{\\sqrt{T_{2}}}\\)</p><p>Using the above formula, we get</p><p>\\(V_{2} \\approxeq 397ms^{-1}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "497m<sup>-1</sup>",
+            "440m<sup>-1</sup>",
+            "397m<sup>-1</sup>",
+            "240m<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2013,
+        "question": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone?",
+        "explanation": "5<sup>th</sup>Overtone = 6f<sub>o</sub>= 6 x 450 = 2700Hz<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "2700Hz",
+            "456Hz",
+            "444Hz",
+            "75Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2013,
+        "question": "A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?",
+        "explanation": "\\(h_i = \\frac{h_o \\times V}{u}\\)<br><br>\\(h_i = \\frac{1.5 \\times 0.1}{3}\\)<br><br>= 0.05m<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "0.05m",
+            "0.15m",
+            "0.30m",
+            "1.00m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2013,
+        "question": "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0<sup>o</sup>",
+            "45<sup>o</sup>",
+            "90<sup>o</sup>",
+            "180<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2013,
+        "question": "Total internal reflection will not occur when light travels from",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "water to air",
+            "water into glass",
+            "glass to air",
+            "glass into water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2013,
+        "question": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope",
+        "explanation": "M = M<sub>1</sub>x M<sub>2</sub>= 4 x 7 = 28<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "2",
+            "3",
+            "11",
+            "28"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2013,
+        "question": "The angle of deviation of light of various colours passing through a triangular prism increases in the order",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "red → green → blue",
+            "green → violet → blue",
+            "blue → red → green",
+            "blue → green → red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2013,
+        "question": "Calculate the force acting on an electron of charge 1.5 x 10<sup>-19</sup>C placed in an electric field of intensity 10<sup>5</sup>Vm<sup>-1</sup>",
+        "explanation": "F = qE<br><br>F = 1.5 x 10<sup>-19</sup>x 10<sup>5</sup><br><br>F = 1.5 x 10<sup>-14</sup>N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "1.5x10<sup>-11</sup>N",
+            "1.5x10<sup>-12</sup>N",
+            "1.5x10<sup>-13</sup>N",
+            "1.5x10<sup>-14</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2013,
+        "question": "Capacitors are used in the induction coil to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "control circuits",
+            "prevent distortion of electric fields",
+            "prevent electric sparks",
+            "dissipate energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2013,
+        "question": "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell",
+        "explanation": "r = \\(\\frac{E}{I} - R\\)<br><br>r = \\(\\frac{1.5}{0.3} - 1\\)<br><br>r = 4\\(\\Omega\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "4.0Ω",
+            "3.0Ω",
+            "1.5Ω",
+            "1.0Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2013,
+        "question": "Which of the following obeys ohms laws?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "electroytes",
+            "metals",
+            "diode",
+            "glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2013,
+        "question": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?",
+        "explanation": "P = 40 x 10 + 100 x 5<br><br>P = 400 + 500 = 900W<br><br>Cost = \\(\\frac{900 \\times 10 \\times 5}{1000}\\)<br><br>Cost = N45<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "N90",
+            "N50",
+            "N45",
+            "N5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2013,
+        "question": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take",
+        "explanation": "I = \\(\\frac{P}{v}\\)<br><br>I = \\(\\frac{2000}{250}\\)<br><br>I = 8A<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "9A",
+            "8A",
+            "7A",
+            "6A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2013,
+        "question": "<p>When a charge moves through an electric circuit in the direction of an electric force, it</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "gains both potential and kinetic energy",
+            "gains potential energy and lose kinetic energy",
+            "loses potential energy and gains kinetic energy",
+            "loses both potential and kinetic energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2013,
+        "question": "To convert a galvanometer to a voltmeter, a",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "high resistance is connected to it in series",
+            "high resistance is connected to it in parallel",
+            "low resistance is connected to it in parallel",
+            "low resistance is connected to it in series"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2013,
+        "question": "<p>Induced emfs are best explained using</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Ohm's law",
+            "Faraday's law",
+            "Colomb's law",
+            "Lenz's law"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2013,
+        "question": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?",
+        "explanation": "First let's find z<br><br>z = \\(\\frac{M}{It}\\)<br><br>z = \\(\\frac{1.8}{2.5 \\times (3 \\times 60 \\times 60)}\\)<br><br>Therefore, the new M equals<br><br>M = zIt<br><br>M = \\(\\frac{1.8 \\times 4 \\times 4.8 \\times 60 \\times 60}{2.5 \\times 3 \\times 60 \\times 60}\\)<br><br>M = 4.6g<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.4g",
+            "3.2g",
+            "4.6g",
+            "4.8g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2013,
+        "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
+        "explanation": "\\(E_3 = \\frac{E}{n^2}\\)<br><br>\\(E_3 = \\frac{-24.8}{3^2}\\)<br><br>\\(E_3 = 2.75eV\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "-9.20eV",
+            "-8.20eV",
+            "-2.75eV",
+            "-1.75eV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2013,
+        "question": "<p>In photo-emission, the number of photo-electrons ejected per second depends on the</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "frequency of the beam",
+            "work function of the metal",
+            "threshold frequency of the metal",
+            "intensity of the beam"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2013,
+        "question": "The particle nature of light is demonstrated by the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "photoelectric effect",
+            "speed of light",
+            "colours of light",
+            "diffraction of light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2013,
+        "question": "The energy of a photo having a wavelength of 10<sup>-10</sup>m is<br>(h= 6.63 x 10<sup>-34</sup>Js, c =3.0 x 10<sup>8</sup>ms<sup>-1</sup>)",
+        "explanation": "E = \\(\\frac{hc}{\\lambda}\\)<br><br>E = \\(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^18}{10^{-10}}\\)<br><br>E = 2 x 10<sup>-15</sup>J<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "2.0 x 10<sup>-15</sup>J",
+            "1.7 x 10<sup>-13</sup>J",
+            "2.0 x 10<sup>-12</sup>J",
+            "1.7 x 10<sup>-12</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2013,
+        "question": "The bond between silicon and germanium is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "dative",
+            "covalent bond",
+            "trivalent",
+            "ionic"
+        ],
+        "type": "objectives"
+    }
+]

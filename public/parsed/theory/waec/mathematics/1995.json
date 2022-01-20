@@ -1,0 +1,110 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1995,
+        "question": "<p>(a) Factorise : \\(px - 2px - 4qy + 2py\\)</p><p>(b) Given that the universal set U = {1, 2, 3, 4,5, 6, 7, 8, 9, 10}, P = {1, 2, 4, 6, 10} and Q = {2, 3, 6, 9}; show that \\((P \\cup Q)' = P' \\cap Q'\\)</p>",
+        "answer": "<p>(a) \\(px - 2qx - 4qy + 2py\\)</p><p>= \\(x(p - 2q) + 2y(p - 2q)\\)</p><p>= \\((x + 2y)(p - 2q)\\)</p><p>(b) \\(U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\\)</p><p>\\(P = {1, 2, 4, 6, 10} ; Q = {2, 3, 6, 9}\\)</p><p>\\((P \\cup Q) = {1, 2, 3, 4, 6, 9, 10}\\)</p><p>\\((P \\cup Q)' = {5, 7, 8}\\)</p><p>\\(P' \\cap Q' = {3, 5, 7, 8, 9} \\cap {1, 4, 5, 7, 8, 10}\\)</p><p>= \\({5, 7, 8}\\)</p><p>Hence, \\((P \\cup Q)' = P' \\cap Q'\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1995,
+        "question": "<p>The quantity y is partly constant and partly varies inversely as the square of x.</p><p>(a) Write down the relationship between x and y.</p><p>(b) When x = 1, y = 11 and when x = 2, y = 5, find the value of y when x = 4.</p>",
+        "answer": "<p>(a) \\(y = k + \\frac{c}{x^{2}}\\) </p><p>where c and k are constants.</p><p>(b) When x = 1, y = 11</p><p>\\(11 = k + \\frac{c}{1^{2}} \\implies 11 = k + c ... (1)\\)</p><p>When x = 2, y = 5</p><p>\\(5 = k + \\frac{c}{2^{2}} \\implies 5 = k + \\frac{c}{4}\\)</p><p>\\(\\equiv 20 = 4k + c ... (2)\\)</p><p>(2) - (1) :</p><p>\\(4k - k = 20 - 11 \\implies 3k = 9\\)</p><p>\\(k = 3\\)</p><p>Put k = 3 in (1), we have</p><p>\\(11 = 3 + c \\implies c = 11 - 3 = 8\\)</p><p>\\(\\therefore y = 3 + \\frac{8}{x^{2}}\\)</p><p>When x = 4, </p><p>\\(y = 3 + \\frac{8}{4^{2}} = 3 + \\frac{1}{2}\\)</p><p>= \\(3\\frac{1}{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1995,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%2814%29.jpg\" style=\"height:141px; width:250px\"></p><p>(a) In the diagram, PQSR and SRYZ are parallelograms and PQYZ is a straight line. If /QY/ = 2cm and /RS/ = 3cm, find /PZ/.</p><p>(b) P and Q are two towns on the earth's surface on latitude 56°N. Thei longitudes are 25°E and 95°E respectively. Find the distance PQ along their parallel of latitude, correct to the nearest km. [Take radius of the earth as 6400km and \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "answer": "<p>(a) \\(/QY/ = 2cm; /RS/ = 3cm\\)</p><p>\\(\\therefore /YZ/ = /RS/ = /PQ/ = 3cm\\) (opp sides of a parallelogram)</p><p>But \\(/PZ/ = /PQ/ + /QY/ + /YZ/\\)</p><p>\\(\\therefore /PZ/ = 3cm + 2cm + 3cm = 8cm\\)</p><p>(b) Difference in longitude = 95° - 25° = 70°</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0348%20%282%29.jpg\" style=\"height:106px; width:250px\"></p><p>Distance PQ = \\(\\frac{70}{360} \\times 2\\pi R \\cos \\theta\\)</p><p>= \\(\\frac{70}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\cos 56\\)</p><p>= \\(\\frac{7}{36} \\times 2 \\times \\frac{22}{7} \\times 6400 \\times 0.5592\\)</p><p>= \\(4374.19 km \\approxeq 4374 km\\) (to the nearest km)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1995,
+        "question": "<p>(a) A pack of 52 playing cards is shuffled and a card is drawn at random. Calculate the probability that it is either a five or a red nine.</p><p>[Hint : There are 4 fives and 2 red nines in a pack of 52 cards]</p><p>(b) P, Q and R are points in the same horizontal plane. The bearing of Q from P is 150° and the bearing of R from Q is 060°. If /PQ/ = 5m and /QR/ = 3m, find the bearing of R from P, correct to the nearest degree.</p>",
+        "answer": "<p>(a) Total no of cards = 52; No of fives = 4; No of red nines = 2.</p><p>Prob(of 5) = \\(\\frac{4}{52} = \\frac{1}{13}\\)</p><p>Prob(red nine) = \\(\\frac{2}{52} = \\frac{1}{26}\\)</p><p>\\(\\therefore\\) Prob (of 5 or red nine) = \\(\\frac{1}{13} + \\frac{1}{26} = \\frac{3}{26}\\)</p><p>(b) \\(\\tan &lt; RPQ = \\frac{3}{5} = 0.6\\)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0349%20%282%29.jpg\" style=\"height:157px; width:250px\"></p><p>\\(&lt; RPQ = 30.96°\\)</p><p>\\(\\therefore\\) Bearing of R from P = 150° - 30.96° = 119.04°</p><p>\\(\\approxeq\\) 119° (to the nearest degree).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1995,
+        "question": "<p>The frequency table shows the marks scored by 32 students in a test.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Marks scored</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n</tr>\n<tr>\n<td>No of students</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>4</td>\n<td>4</td>\n<td>4</td>\n<td>5</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>Find the :</p><p>(a)(i) mean ; (ii) median ; (iii) mode of the marks;</p><p>(b) percentage of the students who scored at least 8 marks.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>Total</td>\n</tr>\n<tr>\n<td>f</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>4</td>\n<td>4</td>\n<td>4</td>\n<td>5</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>32</td>\n</tr>\n<tr>\n<td>fx</td>\n<td>2</td>\n<td>6</td>\n<td>12</td>\n<td>16</td>\n<td>20</td>\n<td>24</td>\n<td>35</td>\n<td>24</td>\n<td>18</td>\n<td>10</td>\n<td>167</td>\n</tr>\n</tbody>\n</table><p>(a)(i) Mean = \\(\\frac{\\sum fx}{\\sum f} = \\frac{167}{32}\\)</p><p>= \\(5.21875 \\approxeq 5.22\\)</p><p>(ii) By inspection, the average of the numbers in the 16th and 17th position give the median</p><p>= \\(\\frac{5 + 5}{2} = 5\\)</p><p>(iii) Mode = 7 marks having the largest frequency.</p><p>(b) Students who scored at least 8 marks = Those who scored 8, 9, 10.</p><p>Total number of students that scored at least 8 = 3 + 2 + 1 = 6.</p><p>\\(%age = \\frac{6}{32} \\times 100% = 18.75%\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1995,
+        "question": "<p>(a) Using mathematical tables, find ; (i) \\(2 \\sin 63.35°\\) ; (ii) \\(\\log \\cos 44.74°\\);</p><p>(b) Find the value of K given that \\(\\log K - \\log (K - 2) = \\log 5\\);</p><p>(c) Use logarithm tables to evaluate \\(\\frac{(3.68)^{2} \\times 6.705}{\\sqrt{0.3581}}\\)</p>",
+        "answer": "<p>(a)(i) \\(\\sin 63.35° = 0.8938\\)</p><p>\\(2 \\sin 63.35° = 2 \\times 0.8938 = 1.7876\\)</p><p>(ii) \\(\\log \\cos 44.74° = \\bar{1}.8514\\)</p><p>(b) \\(\\log K - \\log (K - 2) = \\log 5\\)</p><p>\\(\\log (\\frac{K}{K - 2}) = \\log 5\\)</p><p>\\(\\therefore \\frac{K}{K - 2} = 5 \\implies K = 5(K - 2)\\)</p><p>\\(K = 5K - 10 \\implies 10 = 5K - K = 4K\\)</p><p>\\(K = 2\\frac{1}{2}\\)</p><p>(c) \\(\\frac{(3.68)^{2} \\times 6.705}{\\sqrt{0.3581}}\\)</p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:45%\">\n<tbody>\n<tr>\n<td>No</td>\n<td>Log</td>\n</tr>\n<tr>\n<td>\\((3.68)^{2}\\)</td>\n<td>\\(0.5658 \\times 2 = 1.316\\)</td>\n</tr>\n<tr>\n<td>\\(6.705\\)</td>\n<td>\\(0.8264  = 0.8264\\)</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>= \\(1.9580\\)</p>\n</td>\n</tr>\n<tr>\n<td>\\(\\sqrt{0.3581}\\)</td>\n<td>\\(\\bar{1}.5540 \\div 2 = \\bar{1}.7770\\)</td>\n</tr>\n<tr>\n<td>\\(151.7\\)</td>\n<td>\\(\\gets  2.1810\\)</td>\n</tr>\n</tbody>\n</table><p>\\(\\therefore \\frac{(3.68)^{2} \\times 6.705}{\\sqrt{0.3581}} = 151.7\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1995,
+        "question": "<p>(a) Given that \\(p = x + ym^{3}\\), find m in terms of p, x and y.</p><p>(b) Using the method of completing the square, find the roots of the equation \\(x^{2} - 6x + 7 = 0\\), correct to 1 decimal place.</p><p>(c) The product of two consecutive positive odd numbers is 195. By constructing a quadratic equation and solving it, find the two numbers.</p>",
+        "answer": "<p>(a) \\(p = x + ym^{3}\\)</p><p>\\(ym^{3} = p - x\\)</p><p>\\(m^{3} = \\frac{p - x}{y}\\)</p><p>\\(m = \\sqrt[3]{\\frac{p - x}{y}}\\)</p><p>(b) \\(x^{2} - 6x + 7 = 0\\)</p><p>\\(\\implies x^{2} - 6x = -7\\)</p><p>\\(x^{2} - 6x + (-3)^{2} = -7 + (-3)^{2}\\)</p><p>\\(x^{2} - 6x + 9 = 2\\)</p><p>\\((x - 3)^{2} = 2 \\implies x - 3 = \\pm \\sqrt{2}\\)</p><p>\\(x = 3 \\pm \\sqrt{2} = 3 \\pm 1.414\\)</p><p>\\(x = 4.414 ; 1.586\\)</p><p>\\(x \\approxeq 4.4 ; 1.6\\)</p><p>(c) Let the first odd number be z.</p><p>The next positive odd number = z + 2</p><p>\\(\\therefore z(z + 2) = 195\\)</p><p>\\(z^{2} + 2z = 195\\)</p><p>\\(z^{2} + 2z - 195 = 0 \\implies z^{2} - 13z + 15z - 195 = 0\\)</p><p>\\(z(z - 13) + 15(z - 13) = 0 \\implies \\text{z = 13 or -15}\\)</p><p>Since we are told the odd numbers are positive, then z = 13 is the suitable answer.</p><p>Hence the second odd number = 13 + 2 = 15.</p><p>The two odd numbers are 13 and 15.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1995,
+        "question": "<p>(a) Copy and complete the table for the relation \\(y = 2 \\cos 2x - 1\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n</tr>\n<tr>\n<td>\\(y = 2\\cos 2x - 1\\)</td>\n<td>1.0</td>\n<td>0</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>1.0</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2cm = 30° on the x- axis and 2cm = 1 unit on the y- axis, draw the graph of \\(y = 2 \\cos 2x - 1\\) for \\(0° \\leq x \\leq 180°\\).</p><p>(c) On the same axis, draw the graph of \\(y = \\frac{1}{180} (x - 360)\\)</p><p>(d) Use your graphs to find the : (i) values of x for which \\(2 \\cos 2x + \\frac{1}{2} = 0\\); (ii) roots of the equation \\(2 \\cos 2x - \\frac{x}{180} + 1 = 0\\).</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n</tr>\n<tr>\n<td>\\(y = 2\\cos 2x - 1\\)</td>\n<td>1.0</td>\n<td>0</td>\n<td>-2</td>\n<td>-3</td>\n<td>-2</td>\n<td>0</td>\n<td>1.0</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0350%20%282%29.jpg\" style=\"width:400px\"></p><p>(c) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n</tr>\n<tr>\n<td>\\(y = \\frac{1}{180} (x - 360)\\)</td>\n<td>-2.0</td>\n<td>-1.83</td>\n<td>-1.67</td>\n<td>-1.5</td>\n<td>-1.33</td>\n<td>-1.17</td>\n<td>-1.0</td>\n</tr>\n</tbody>\n</table><p>(d)(i) \\(2 \\cos 2x + \\frac{1}{2} = 0\\)</p><p>\\(2 \\cos 2x + \\frac{1}{2} - 1\\frac{1}{2} = -1\\frac{1}{2}\\)</p><p>\\(2 \\cos 2x - 1 = -1\\frac{1}{2}\\)</p><p>The values of x at \\(2 \\cos 2x + \\frac{1}{2} = 0\\) are x = 51° and 129°.</p><p>(ii) \\(2 \\cos 2x - \\frac{x}{180} + 1 = 0\\)</p><p>\\(2 \\cos 2x - 1 = \\frac{1}{180} (x - 360)\\)</p><p>The values of x is where the two graphs intersect; which are at x = 54° and 132°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1995,
+        "question": "<p>(a) Using a ruler and a pair of compasses only, construct triangle ABC with /AB/ = 7.5cm, /BC/ = 8.1cm and &lt; ABC = 105°.</p><p>(b) Locate a point D on BC such that /BD/ : /DC/ is 3 : 2.</p><p>(c) Through D, construct a line I perpendicular to BC.</p><p>(d) If the line I meets AC at P, measure /BP/.</p>",
+        "answer": "<p>(a - d) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0349%20%283%29_LI.jpg\" style=\"width:450px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1995,
+        "question": "<p>(a) A man travels from a village X on a bearing of 060° to a village Y which is 20km away. From Y, he travels to a village Z, on a bearing of 195°. If Z is directly east of X, calculate, correct to three significant figures, the distance of :</p><p>(i) Y from Z ; (ii) Z from X .</p><p>(b) An aircraft flies due South from an airfield on latitude 36°N, longitude 138°E to an airfield on latitude 36°S, longitude 138°E. </p><p>(i) Calculate the distance travelled, correct to three significant figures ; (ii) if the speed of the aircraft is 800km per hour, calculate the time taken, correct to the nearest hour.</p><p>[Take \\(\\pi = \\frac{22}{7}\\), R = 6400km].</p>",
+        "answer": "<p>(a) &lt; XZY = 180° - (30° + 45°) = 105°</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0349%20%284%29.jpg\" style=\"height:130px; width:250px\"></p><p>\\(\\frac{20}{\\sin 105°} = \\frac{YZ}{\\sin 30°}\\)</p><p>\\(YZ = \\frac{20 \\sin 30°}{\\sin 105°} = 10.35km\\)</p><p>\\(\\approxeq 10.4km \\) (to 3 sig. figs)</p><p>(ii) \\(\\frac{20}{\\sin 75} = \\frac{XZ}{\\sin 45}\\)</p><p>\\(XZ = \\frac{20 \\sin 45}{\\sin 75} = 14.64km\\)</p><p>\\(\\approxeq 14.6km\\) ( to 3 sig. figs)</p><p>(b) Let P and Q be two airfields.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0350%20%283%29.jpg\" style=\"height:256px; width:250px\"></p><p>Difference in latitude = 36° + 36° = 72°</p><p>(i) Distance between P and Q = \\(\\frac{72}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>= \\(\\frac{22}{7} \\times 2560\\)</p><p>= \\(8,045.71km \\approxeq 8,050 km\\) (3 sig. figs)</p><p>(ii) Time taken = \\(\\frac{8,045.71}{800} = 10.06 hours\\)</p><p>\\(\\approxeq 10hours\\) (to the nearest hour)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1995,
+        "question": "<p>The table shows the scores of 2000 candidates in an entrance examination into a private secondary school.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>% Mark</td>\n<td>11-20</td>\n<td>21-30</td>\n<td>31-40</td>\n<td>41-50</td>\n<td>51-60</td>\n<td>61-70</td>\n<td>71-80</td>\n<td>81-90</td>\n</tr>\n<tr>\n<td>\n<p>No of </p>\n<p>pupils</p>\n</td>\n<td>68</td>\n<td>184</td>\n<td>294</td>\n<td>402</td>\n<td>480</td>\n<td>310</td>\n<td>164</td>\n<td>98</td>\n</tr>\n</tbody>\n</table><p>(a) Prepare a cumulative frequency table and draw the cumulative frequency curve for the distribution.</p><p>(b) Use your curve to estimate the : (i) cut off mark, if 300 candidates are to be offered admission ; (ii) probability that a candidate picked at random, scored at least 45%.</p><p> </p>",
+        "answer": "<p>(a)(i) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks (x)</td>\n<td>No of pupils (f)</td>\n<td>Cum Freq</td>\n</tr>\n<tr>\n<td>11 - 20</td>\n<td>68</td>\n<td>68</td>\n</tr>\n<tr>\n<td>21 - 30</td>\n<td>184</td>\n<td>252</td>\n</tr>\n<tr>\n<td>31 - 40</td>\n<td>294</td>\n<td>546</td>\n</tr>\n<tr>\n<td>41 - 50</td>\n<td>402</td>\n<td>948</td>\n</tr>\n<tr>\n<td>51 - 60</td>\n<td>480</td>\n<td>1428</td>\n</tr>\n<tr>\n<td>61 - 70</td>\n<td>310</td>\n<td>1738</td>\n</tr>\n<tr>\n<td>71 - 80</td>\n<td>164</td>\n<td>1902</td>\n</tr>\n<tr>\n<td>81 - 90</td>\n<td>98</td>\n<td>2000</td>\n</tr>\n</tbody>\n</table><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0350%20%284%29.jpg\" style=\"height:426px; width:400px\"></p><p>(b)(i) Cut off mark = 68 marks for reading at 1700.</p><p>(ii) Candidates scoring more than 45% = 2000 - 720 = 1280</p><p>\\(\\therefore\\) P(scoring at least 45%) = \\(\\frac{1280}{2000} = 0.64\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1995,
+        "question": "<p>A box contains 5 blue balls, 3 black balls and 2 red balls of the same size. A ball is selected at random from the box and then replaced. A second ball is then selected. Find the probability of obtaining</p><p>(a) two red balls ;</p><p>(b) two blue balls or two black balls ;</p><p>(c) one black and one red ball in any order.</p>",
+        "answer": "<p>Number of blue balls = 5</p><p>Number of black balls = 3</p><p>Number of red balls = 2 </p><p>= 10 balls.</p><p>(a) P(two red balls) = \\(\\frac{2}{10} \\times \\frac{2}{10} = \\frac{1}{25}\\)</p><p>(b) P(2 blue or 2 black balls) = P(2 blue) or P(2 black)</p><p>= \\((\\frac{5}{10} \\times \\frac{5}{10}) + (\\frac{3}{10} \\times \\frac{3}{10})\\)</p><p>= \\(\\frac{25}{100} + \\frac{9}{100}\\)</p><p>= \\(\\frac{34}{100} = \\frac{17}{50}\\)</p><p>(c) P( one red and one black in any order) = P(one red, one black) or P(one black, one red)</p><p>= \\((\\frac{2}{10} \\times \\frac{3}{10}) + (\\frac{3}{10} \\times \\frac{2}{10})\\)</p><p>= \\(\\frac{12}{100}  = \\frac{3}{25}\\)</p>",
+        "type": "theory"
+    }
+]

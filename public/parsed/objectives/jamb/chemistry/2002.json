@@ -1,0 +1,754 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2002,
+        "question": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formula of the compound?<br>[K = 39, Cl = 35.5, O = 16]",
+        "explanation": "K- (31.91%), Mole = 31.91/39 =0.8182<br>Cl-(28.93%), Mole = 28.93/35.5 = 0.815<br>O-(39.16%), Mole = 39.6/16 = 2.448<br>K = 0.8182/0.815 = 1<br>Cl = 0.815/0.815 = 1<br>O = 2.448/0.815 = 3",
+        "correctIndex": 3,
+        "options": [
+            "KClO<sub>4</sub>",
+            "KClO",
+            "KClO<sub>2</sub>",
+            "KClO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2002,
+        "question": "The formula CH<sub>2</sub>for ethanoic acid is regarded as its",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Molecular formula",
+            "General formula",
+            "Empirical formula",
+            "Structural formula"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2002,
+        "question": "A little quantity of trichloromethane (b.pt 60,<sup>o</sup>C) was added to a large quantity of ethanol (b.pt 78,<sup>o</sup>C). The most probable boiling point of the resultant mixture is from",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "69<sup>o</sup>C - 70<sup>o</sup>C",
+            "70<sup>o</sup>C – 74<sup>o</sup>C",
+            "82<sup>o</sup>C – 84<sup>o</sup>C",
+            "60<sup>o</sup>C – 78<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2002,
+        "question": "The chromatography separation of ink is based on the ability of the components to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "React with solvent",
+            "React with each other",
+            "Dissolve in each other in the column",
+            "Move at different speeds in the column"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2002,
+        "question": "In the reaction E+F ↔ G+H, the backward reaction is favoured if the concentration of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "F is increased",
+            "E is increased",
+            "E is reduced",
+            "G is reduced"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2002,
+        "question": "What amount of mercury would be liberated if the same quantity of electricity that liberates 0.65g of zinc is applied?",
+        "explanation": "Zn<sup>2+</sup>+ 2e<sup>-</sup>→ Zn<br>2F will be liberated 65g of Zn, if 0.65gm of Zn is liberated, the quantity of electricity used<br>X = (0.65/65) * 2<br>= 0.02F<br>∴ Hg<sup>+</sup>+ e<sup>-</sup>→ Hg<sup>1</sup><br>i.e 1F → 201gm of Hg<br>∴ 0.02 will liberated<br>Y = (0.02/1) * 201<br>= 4.02g",
+        "correctIndex": 2,
+        "options": [
+            "2.01g",
+            "1.00g",
+            "4.02g",
+            "8.04g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2002,
+        "question": "Which of the following equations show that a reaction is in equilibrium?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ΔG &lt; O",
+            "ΔG = ΔH – TΔS",
+            "ΔG &gt; O",
+            "ΔG = O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2002,
+        "question": "PCl<sub>5(g)</sub>↔ PCl<sub>3(g)</sub>+ Cl<sub>2(g)</sub><br>In the reaction above, a decrease in pressure will",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Decelerate the reaction",
+            "Increase the yield of PCl<sub>3</sub>",
+            "Increase the yield of PCl<sub>5</sub>",
+            "Accelerate the reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2002,
+        "question": "<p>When H2S is passed into a solution of iron (III) chloride, the solution turns</p>",
+        "explanation": "<p>A reaction between Iron (iii) chloride and Hydrogen sulphide leads to the reaction</p><p>2FeCl3(aq) + H2S(g) → 2FeCl2(aq) + 2HCl(aq) + S(s)</p><p>The colour change is from REDDISH BROWN to PALE GREEN.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Pale green",
+            "Pale red",
+            "Brown",
+            "Colourless"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2002,
+        "question": "<p>The Arrhenius equation expresses the relationship between the speed of a reaction and its</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Molecular collision",
+            "Heat of reaction",
+            "Catalyst",
+            "Activation energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2002,
+        "question": "When dissolved in water, NaOH flakes show",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "An endothermic change",
+            "An exothermic change",
+            "A slow reaction",
+            "A rapid reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2002,
+        "question": "CU<sub>2</sub>S<sub>(s)</sub>+ O<sub>2(g)</sub>→ 2CU<sub>(s)</sub>+ SO<sub>2(g)</sub><br>What is the change in the oxidation number of copper in the reaction above?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "+1 to 0",
+            "0 to +2",
+            "+2 to +1",
+            "0 to +1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2002,
+        "question": "The product of the electrolysis of dilute sodium hydroxide using platinum electrodes are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Hydrogen and oxygen gases",
+            "Water and hydrogen gas",
+            "Water and sodium metal",
+            "Sodium metal and oxygen gas"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2002,
+        "question": "The solubility of a salt of molar mass 101g at 20<sup>o</sup>C is 0.34 mol dm<sup>-3</sup>. If 3.40g of the salt is dissolved completely in 250cm<sup>3</sup>of water in a beaker, the resulting solution is",
+        "explanation": "At 20<sup>o</sup>C<br>0.34 mol/dm of the salt dissolve<br>= 0.34 * 101 = 34.34gm<br>Of the salt dissolved.<br>∴ 34.34gm dissolve is 1,000cm<sup>3</sup><br>If only 250 cm<sup>3</sup>is the required mass<br>X = (250/1000) * 34.34<br>= 8.555gm<br>If only 3.40gm of the salt dissolved ,the solution is unsaturated",
+        "correctIndex": 2,
+        "options": [
+            "A suspension",
+            "Saturated",
+            "Unsaturated",
+            "Supersaturated"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2002,
+        "question": "Tetraoxosulphate (VI) acid burns the skin by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Hydrolysis",
+            "Hydration",
+            "Heating",
+            "Dehydration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2002,
+        "question": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Efflorescence",
+            "Deliquescence",
+            "Effervescence",
+            "Fluorescence"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2002,
+        "question": "Three drops of a 1.0 mol dm<sup>-3</sup>solution of NaOH are added to 20 cm<sup>3</sup>of a solution of pH 8.4. The pH of the resulting solution will be",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Close to that of pure water",
+            "Unaltered",
+            "Greater than 8.4",
+            "Less than 8.4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2002,
+        "question": "25cm<sup>3</sup>of a 0.2 mol dm<sup>3</sup>solution of Na<sub>2</sub>CO<sub>3</sub>requires 20 cm<sup>3</sup>of a solution of HCl for neutralization. The concentration of the HCl solution is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.5 mol dm<sup>3</sup>",
+            "0.6 mol dm<sup>3</sup>",
+            "0.2 mol dm<sup>3</sup>",
+            "0.4 mol dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2002,
+        "question": "The substance least considered as a source of environmental pollution is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Lead compounds",
+            "Organophosphorous compounds",
+            "Silicate minerals",
+            "Uranium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2002,
+        "question": "<p>The furring of kettles is caused by the presence in the water of</p>",
+        "explanation": "<p>In the presence of Calcium hydrogen trioxocarbonate(IV), a cause of temporary hardness of water, the kettle will most likely fur.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Calcium tetraoxosulphate (VI)",
+            "Calcium hydrogentrioxocarbonate (IV)",
+            "Calcium hydroxide",
+            "Calcium trioxocarbonate (IV)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2002,
+        "question": "The property which makes alcohol soluble in water is the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "boiling point",
+            "hydrogen bonding",
+            "ionic character",
+            "covalent nature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2002,
+        "question": "Steam changes the colour of anhydrous cobalt (II) chloride from",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "blue to pink",
+            "white to red",
+            "white to green",
+            "blue to white"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2002,
+        "question": "The gas that gives brown colouration in brown ring test is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "NO",
+            "CO<sub>2</sub>",
+            "NO<sub>2</sub>",
+            "CO"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2002,
+        "question": "Ethanol can easily be produced by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "fermentation of starch",
+            "distillation of starch solution",
+            "catalytic oxidation of methane",
+            "destructive distillation of wood"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2002,
+        "question": "Which of the following gives a precipitate when treated with NaOH solution?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "AlCl<sub>3</sub>",
+            "NH<sub>4</sub>CL",
+            "CH<sub>3</sub>COONa",
+            "Na<sub>2</sub>CO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2002,
+        "question": "An example of element that can catenate is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "bromine",
+            "nitrogen",
+            "chlorine",
+            "carbon"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2002,
+        "question": "The reaction of an alkene with hydrogen in the presence of catalyst is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "a substitution reaction",
+            "an oxidation reaction",
+            "a nucleophilic reaction",
+            "an addition reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2002,
+        "question": "The number of isomers formed by C<sub>6</sub>H<sub>14</sub>is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "4",
+            "5",
+            "2",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2002,
+        "question": "<p>Which of these pairs are synthetic and natural macromolecules respectively?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Haemoglobin and nylon, creatine and polyethylene",
+            "Nylon and polyethlene, creatine and Haemoglobin",
+            "Nylon and creatine, polyethylene and haemoglobin",
+            "Creatine and Polyethylene, nylon and haemoglobin"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2002,
+        "question": "Ordinary glass is manufactured from silica, CaCO<sub>3</sub>and",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Na<sub>2</sub>CO<sub>3</sub>",
+            "K<sub>2</sub>CO<sub>3</sub>",
+            "K<sub>2</sub>SO<sub>4</sub>",
+            "NaHCO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2002,
+        "question": "<p>A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into</p>",
+        "explanation": "<p>When <strong>ethyne</strong> is passed through an <strong>ammoniacal</strong> solution of <strong>copper</strong>(I) <strong>chloride</strong>, a red-brown precipitate of <strong>copper</strong>(I) acetylide is produced. Terminal alkynes also <strong>react</strong> to form a red-brown precipitate</p>",
+        "correctIndex": 2,
+        "options": [
+            "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+            "CH<sub>2</sub>= CH - CH<sub>2</sub>CH<sub>3</sub>",
+            "HC≡CH",
+            "CH<sub>3</sub>- C = C - CH<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2002,
+        "question": "The boiling of fat and aqueous caustic soda is referred to as",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "hydrolysis",
+            "esterification",
+            "acidification",
+            "saponification"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2002,
+        "question": "The most important use of hydrogen is in the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "manufacture of ammonia",
+            "manufacture of methyl alcohol",
+            "manufacture of ethyl alcohol",
+            "hydrogenation of oils"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2002,
+        "question": "which of the following polymers is suitable for packaging and electrical insulation?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "polyamide",
+            "polyethene",
+            "polycarbonate",
+            "polystyrene"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2002,
+        "question": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Cu",
+            "Na",
+            "Au",
+            "Ag"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2002,
+        "question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate (IV) is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "butanal",
+            "ethanal",
+            "methanal",
+            "propanal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2002,
+        "question": "A rock sample was added to cold dilute HNO<sub>3</sub>. The gas evolved was passed into a solution of acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>and the solution turned green. The sample contains",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Cl<sup>-</sup>",
+            "NO<sub>3</sub><sup>-</sup>",
+            "SO<sub>3</sub><sup>2-</sup>",
+            "SO<sub>4</sub><sup>2-</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2002,
+        "question": "Which of the following statement is true of a proton?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "The mass of a proton is 1840 times the mass of electron",
+            "the total mass of the protons in a particular nucleus is always half the nuclear size",
+            "The mass of a proton is one - twelfth the molar mass of carbon",
+            "The mass of a proton is 1.0008g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2002,
+        "question": "Which of the following chloride would exhibit the least ionic character?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "MgCl<sub>2</sub>",
+            "CaCl<sub>2</sub>",
+            "LiCl",
+            "AlCl<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2002,
+        "question": "A fixed mass of gas has a volume of 92cm<sub>3</sub>at 3<sup>o</sup>C. When will be its volume at 18<sup>o</sup>C if the pressure remains constant",
+        "explanation": "(V<sub>1</sub>/T<sub>1</sub>) = (V<sub>2</sub>/T<sub>2</sub>)<br>T<sub>1</sub>= 3+273 = 276K<br>∴ (92/276) = (V<sub>2</sub>/291)<br>T<sub>2</sub>= 18 + 273 = 291K<br>V<sub>2</sub>(92 * 291)/276<br>= 97.0 cm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "15.3cm<sup>3</sup>",
+            "87.3cm<sup>3</sup>",
+            "552.0cm<sup>3</sup>",
+            "97.0cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2002,
+        "question": "The processes which return carbon (IV) oxide to the atmosphere include",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "respiration, decay and combustion",
+            "photosynthesis, respiration and transpiration",
+            "ozone depletion, combustion and decay",
+            "photosynthesis, decay and respiration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2002,
+        "question": "The postulate of Dalton's atomic theory which still holds is that",
+        "explanation": "Postulates of Dalton’s atomic theory can used to explain the behavior of matter:<br><br>All matter is composed of small tiny particles called atoms. In Greek the word atom is termed as indivisible. The atoms can not be further broken down.<br>All atoms are indivisible, indestructible, and unchangeable. Atom of an element cannot be created, divided, destroyed, or split into smaller particles or transformed into atoms of other elements or transformed into other atoms in a chemical reaction. They are simply rearrangement of new compound. Dalton’s atomic theory based this hypothesis on the law of conservation of mass and on centuries of experimental evidence.",
+        "correctIndex": 0,
+        "options": [
+            "atoms can neither be created nor destroyed",
+            "the particles of the same element are exactly alike",
+            "particles of different elements combine in simple whole number ratio",
+            "all elemets are made of small indivisible particles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2002,
+        "question": "<sup>14</sup><sub>6</sub>C → X + B<br>X in the equation above represents",
+        "explanation": "<sup>14</sup><sub>6</sub>C → X + B<br>→ X +<sup>0</sup><sub>-1</sub>e<br>→<sup>14</sup><sub>7</sub>X",
+        "correctIndex": 2,
+        "options": [
+            "<sup>12</sup><sub>6</sub>C",
+            "<sup>12</sup><sub>5</sub>B",
+            "<sup>14</sup><sub>7</sub>N",
+            "<sup>13</sup><sub>6</sub>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2002,
+        "question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in vessel with a total pressure of 0.7 atmosphere, what is the partial pressure of oxygen in the mixture",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.44 atmosphere",
+            "0.22 atmosphere",
+            "0.55 atmosphere",
+            "0.33 atmosphere"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12822986898_scan%20work.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "R",
+            "P",
+            "S",
+            "Q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8548659216_co.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21371649570_co1.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The compound is BUTAN-2-OL, a secondary alcohol</p>",
+        "correctIndex": 2,
+        "options": [
+            "glycol",
+            "primary alkanol",
+            "secondary alkanol",
+            "tertiary alkanol"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,738 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2013,
+        "question": "<p>The rising of a liquid in an open and ended glass tube of narrow bore is</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "osmosis",
+            "adhesion",
+            "capillarity",
+            "surface tension"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2013,
+        "question": "<p>Which of the following units is equivalent to the watt?</p>",
+        "explanation": "<p>\\(Power = \\frac{\\text{Work done}}{time}\\)</p><p>= \\(\\frac{Force \\times distance}{time}\\)</p><p>= \\(\\frac{mass \\times acceleration \\times distance}{time}\\)</p><p>= \\(\\frac{kg \\times m \\times m}{s^{2} \\times s}\\)</p><p>= \\(kgm^{2} s^{-3}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "kgms<sup>-2</sup>",
+            "kgm<sup>2</sup>s<sup>-3</sup>",
+            "kgm<sup>2</sup>s<sup>-2</sup>",
+            "kgm<sup>2</sup>s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2013,
+        "question": "<p>Which of the following statements about pressure in a liquid is correct?</p>",
+        "explanation": "<p>At different depths, the pressure of a liquid differs.</p>",
+        "correctIndex": 0,
+        "options": [
+            "the pressure in a liquid increases with depth",
+            "the higher the density of a liquid, the lower the pressure it exerts",
+            "pressure in liquid act only in a direction perpendicular to the sides of the containing vessel",
+            "pressure is independent of the acceleration due to gravity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2013,
+        "question": "<p>Solid friction, like viscosity is</p>",
+        "explanation": "<p>The force acting on a body due to the viscous resistance of the surrounding fluid is called the drag force and it acts in the direction opposite to the direction of motion. So also does friction.</p>",
+        "correctIndex": 3,
+        "options": [
+            "independent of the surface area in contact",
+            "independent of the relative motion between layers",
+            "dependent on normal reaction",
+            "in opposition to motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2013,
+        "question": "The slope of a linear distance-times graph represents",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "acceleration",
+            "displacement",
+            "speed",
+            "velocity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2013,
+        "question": "<p>A body of mass 2kg is released from rest on a plane inclined at an angle of 60° to the horizontal. Calculate the acceleration of the body down the plane.[g = 10ms\\(^{-2}\\)]</p>",
+        "explanation": "<p>a = g sin \\(\\theta\\)<br>\n<br>\n= 10 sin 60<br>\n<br>\n= 8.7 ms\\(^{-2}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "3.1ms<sup>-2</sup>",
+            "5.2ms<sup>-2</sup>",
+            "6.0ms<sup>-2</sup>",
+            "8.7ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2013,
+        "question": "<p>The total area under a force-velocity graph represents</p>",
+        "explanation": "<p>Power = Force x Velocity.</p><p>Therefore, the area under the force- velocity graph gives Power.</p>",
+        "correctIndex": 2,
+        "options": [
+            "energy",
+            "momentum",
+            "power",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2013,
+        "question": "<p>A body of mass 20g projected vertically upwards in vacuum returns to the point of projection after 1.2s. [g = 10ms\\(^{-2}\\)]. Calculate the speed of projection</p>",
+        "explanation": "<p>V = u - gt<br>\n<br>\nu = v + gt<br>\n<br>\n= 0 + 10 x 0.6<br>\n<br>\n= 6ms\\(^{-1}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "1.2ms<sup>-1</sup>",
+            "6.0ms<sup>-1</sup>",
+            "12.0ms<sup>-1</sup>",
+            "0.6ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2013,
+        "question": "A body of mass 20g projected vertically upwards in vacuum returns to the point of projection after 1.2s. [g = 10ms<sup>-2</sup>]. Determine the potential energy of the body at the maximum height of its motion",
+        "explanation": "P.E at max = K.E on projection<br><br>= \\(\\frac{1}{2}\\)mv<sup>2</sup>= \\(\\frac{1}{2} \\times 0.02 \\times 6^2 = 0.36J\\)",
+        "correctIndex": 0,
+        "options": [
+            "0.36J",
+            "0.72J",
+            "360.00J",
+            "720.00J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2013,
+        "question": "The maximum displacement on either side of the equilibrium position of an object in simple harmonic motion represents",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "period",
+            "amplitude",
+            "wavelength",
+            "frequency"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2013,
+        "question": "<p>From Newton's first law of motion,</p>",
+        "explanation": "<p>The key point of this law is that if there is no net force resulting from unbalanced forces acting on an object. If all the external forces cancel each other out, then the object will maintain a constant velocity.</p>",
+        "correctIndex": 2,
+        "options": [
+            "a body can only undergo translational motion",
+            "once a body remains at rest no force acts on it",
+            "the net force acting in uniform linear motion is zero",
+            "a body's inertia is its weight"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2013,
+        "question": "A body of mass 11kg is suspended from a ceiling fan by an aluminum wire of length 2m and diameter 2mm. Calculate the elastic energy stored in the wire [Young's modulus of aluminum is 7.0 x 10<sup>10</sup>Nm<sup>-2</sup>, g = 10ms<sup>-2</sup>, \\(\\pi\\) = 3.142]`",
+        "explanation": "e = \\(\\frac{4FI}{Y \\pi d^2} = \\frac{4 \\times 11 \\times 10 \\times 2}{7 \\times 10^3 \\times 3.14(2 \\times 10^{-2})^2}\\)<br><br>= 0.001m<br><br>E = \\(\\frac{1}{2} Fe = \\frac{1}{2} \\times 110 \\times 0.001\\)<br><br>= 5.5 x 10<sup>-2</sup>J",
+        "correctIndex": 1,
+        "options": [
+            "1.1 x 10<sup>-1</sup>J",
+            "5.5 x 10<sup>-2</sup>J",
+            "1.1 x 10<sup>-4</sup>J",
+            "5.5 x 10<sup>-8</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2013,
+        "question": "The velocity ratio of an inclined plane",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increases with increase in the angle of inclination",
+            "increases with decrease in the angle of inclination",
+            "decreases with decrease in the angle of inclination",
+            "is independent of the angle of inclination"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2013,
+        "question": "Which of the following types of thermometer is used for the calibration of other thermometers?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "liqud-in-glass thermometer",
+            "constant volume gas thermometer",
+            "optical pyrometer",
+            "thermocouple"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2013,
+        "question": "The magnitude of the expansion or contraction of a substance depends on the i. temperature change ii. nature of the substance iii. size of the substance. Which of the statements above are correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2013,
+        "question": "Highly polished silvery surfaces are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "poor absorbers and poor emitters of radiation",
+            "poor absorbers and good emitters of radiation",
+            "good absorbers and poor emitters of radiation",
+            "good absorbers and good emitters of radiation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2013,
+        "question": "The volume of a given mass of gas at 27<sup>o</sup>C and 800 mmHg is 76cm<sup>2</sup>. Calculate its volume at s.t.p",
+        "explanation": "\\(V_2 = \\frac{P_1V_1T_2}{P_2T_1} = \\frac{800 \\times 76 \\times 273}{760 \\times 300}\\)<br><br>= 72.8cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "100.0 cm<sup>3</sup>",
+            "72.8 cm<sup>3</sup>",
+            "60.0 cm<sup>3</sup>",
+            "36.4 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2013,
+        "question": "<p>Ice of mass 10g at 5°C was completely converted to water at 0°C, calculate the quantity of heat used. [specific heat capacity of ice = 2.1 Jg\\(^{-1}\\)K\\(^{-1}\\), specific latent heat of fusion of ice = 336 Jg\\(^{-1}\\)]</p>",
+        "explanation": "<p>Q = ML + MC\\(\\theta\\)<br>\n<br>\n= 10 x 335 + 10 x 2.1 x 5<br>\n<br>\n= 3465J</p>",
+        "correctIndex": 2,
+        "options": [
+            "105J",
+            "3255J",
+            "3465J",
+            "16821J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2013,
+        "question": "<p>An electric heater has a resistance of 50\\(\\Omega\\). When it is immersed in water and connected to mains source, it draws a current of 4.0A. Calculate the heat gained by the water if the heater is switched on for 2 minutes, assuming no heat losses to the surroundings</p>",
+        "explanation": "<p>Q = I2RT<br>\n<br>\n= 42 x 50 x 2 x 60<br>\n<br>\n= 96000J</p>",
+        "correctIndex": 3,
+        "options": [
+            "4200J",
+            "1600J",
+            "24000J",
+            "96000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2013,
+        "question": "<p>When salt is dissolved in water, the freezing point of the water</p>",
+        "explanation": "<p>The salt in the water (same for any other impurities) lowers the freezing point of the solution so that water freezes at a lower temperature.</p>",
+        "correctIndex": 1,
+        "options": [
+            "increases",
+            "decreases",
+            "remains the same",
+            "increases and later decrease"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2013,
+        "question": "<p>The equation of a certain progressive transverse wave is y = 2 sin 2 \\(\\pi ( \\frac{t}{0.01} - \\frac{x}{30})\\), where x and y are in cm and t in seconds. Calculate the period of the wave.</p>",
+        "explanation": "<p>Compare: Y = 2 sin 2 \\(\\pi (\\frac{t}{0.01} - \\frac{x}{30})\\)</p><p>with the wave equation,<br>\n<br>\ny = A sin 2 \\(\\pi (\\frac{t}{T} - \\frac{x}{\\lambda}\\))<br>\n<br>\n⇒ \\(\\frac{t}{T} = \\frac{t}{0.01}\\)<br>\n<br>\nT = 0.010s</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.001s",
+            "0.010s",
+            "10.000s",
+            "100.000s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2013,
+        "question": "At which position should an object be placed in front of a concave mirror in order to obtain an image which is of the same size as the object?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "at the centre of curvature",
+            "at the principal focus",
+            "between the pole and principal focus",
+            "between the centre of curvature and principal focus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2013,
+        "question": "<p>Images formed by a convex mirror are always</p>",
+        "explanation": "<p>Convex mirrors always form virtual images, which appear behind the mirror.</p>",
+        "correctIndex": 1,
+        "options": [
+            "magnified",
+            "behind the mirror",
+            "real",
+            "inverted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2013,
+        "question": "<p>The refractive index of a material is 1.5. Calculate the critical angle at the glass-air interface</p>",
+        "explanation": "<p>Sin C = \\(\\frac{1}{\\eta} = \\frac{1}{1.5} = 0.6667\\)<br>\n<br>\nC = sin\\(^{-1}\\) 0.6667<br>\n<br>\n= 42°</p>",
+        "correctIndex": 3,
+        "options": [
+            "19<sup>o</sup>",
+            "21<sup>o</sup>",
+            "39<sup>o</sup>",
+            "42<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2013,
+        "question": "<p>A diverging lens of focal length 30cm produces an image 20cm from the lens. Determine the object distance</p>",
+        "explanation": "<p>Lens formula:</p><p>\\(\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}\\)</p><p>where f, d\\(_o\\) and d\\(_i\\) are the focal length, object distance and image distance respectively.</p><p>⇒ \\(\\frac{1}{30} = \\frac{1}{d_o} + \\frac{1}{20}\\)</p><p>\\(\\frac{1}{d_o} = \\frac{1}{30} - \\frac{1}{20}\\)</p><p>\\(\\frac{1}{d_o} = \\frac{-1}{60}\\)</p><p>\\(d_o = - 60 cm\\)</p><p>The object distance = 60cm.</p>",
+        "correctIndex": 3,
+        "options": [
+            "10cm",
+            "12cm",
+            "50cm",
+            "60cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2013,
+        "question": "Which of the following statements about the Galilean telescope is not correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the final image is inverted",
+            "it is shorter than terrestial telescope",
+            "the final image is erect",
+            "it has a small field of view"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2013,
+        "question": "Which of the following radiations has it's frequency lower than that of infrared radiation?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Utra-violet rays",
+            "gamma rays",
+            "x-rays",
+            "radio waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2013,
+        "question": "<p>A string under tension produces a note of frequency 14Hz. Determine the frequency when the tension is quadrupled.</p>",
+        "explanation": "<p>The formula for the frequency in a stringed instrument : \\(f = \\frac{1}{2} \\sqrt{\\frac{T}{m}}\\)</p><p>f = frequency; T = tension in the string; m = mass per unit lenth of the string.</p><p>f\\(_1\\) = 14 = \\(\\frac{1}{2} \\sqrt{\\frac{T}{m}}\\).</p><p>When T is quadrupled, we have</p><p>f\\(_2\\) = new frequency = \\(\\frac{1}{2} \\sqrt{\\frac{4T}{m}}\\)</p><p>= 2(\\(\\frac{1}{2} \\sqrt{\\frac{T}{m}}\\))</p><p>= 2 f\\(_1\\)</p><p>= 2 x 14 </p><p>= 28 Hz</p>",
+        "correctIndex": 2,
+        "options": [
+            "14Hz",
+            "18Hz",
+            "28Hz",
+            "56Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2013,
+        "question": "Which of the following statements about waves in pipes is correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "for open pipes, there is only one end correction to be accounted for",
+            "for closed pipes, there are two end corrections to be accounted for",
+            "only odd harmonics are possible in closed pipes",
+            "all harmonics are possible in closed pipes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2013,
+        "question": "When a person holds a negatively charges metal rod and stands bare-footed on the ground, how will the charges leak?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "negative charges flows to the ground through the person's body",
+            "positive charges flow from the ground through his body to neutralize the negative charges",
+            "positive charges in the air neutralizes the negative charges the person is holding",
+            "negative charges will leak through the air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2013,
+        "question": "<p>A charge of 2.0 x 10\\(^{-5}\\) C experiences a force of 80N in a uniform electric field. Calculate the magnitude of the electric field intensity</p>",
+        "explanation": "<p>E = \\(\\frac{F}{Q} = \\frac{80}{2 \\times 10^{-5}}\\)<br>\n<br>\n= 4 x 10\\(^6\\) NC\\(^{-1}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "8.0 x 10<sup>6</sup>NC<sup>-1</sup>",
+            "4.0 x 10<sup>6</sup>NC<sup>-1</sup>",
+            "4.0 x 10<sup>4</sup>NC<sup>-1</sup>",
+            "2.0 x 10<sup>4</sup>NC<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2013,
+        "question": "<p>A potential difference of 12V is applied across the ends of a 6\\(\\Omega\\) resistor for 10 minutes. Determine the quantity of heat generated</p>",
+        "explanation": "<p>Q = \\(\\frac{V^2 t}{R}</p><p>= \\frac{12^2 \\times 10 \\times 60}{6}\\)<br>\n<br>\n= 14400J</p>",
+        "correctIndex": 2,
+        "options": [
+            "720J",
+            "1200J",
+            "14400J",
+            "43200J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2013,
+        "question": "Which of the following instruments is used to determine the accurate value of the electromotive force of a cell?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "voltmeter",
+            "meterbridge",
+            "voltameter",
+            "potentiometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2013,
+        "question": "The capacitance of parallel plates capacitors varies",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "inversely as the square of the distance between the plates",
+            "directly as the square of the distance between the plates",
+            "inversely as the distance between the plates",
+            "directly as the distance between the plate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2013,
+        "question": "Which of the following devices does not makes use of eddy current for its action? A/An",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "galvanometer",
+            "speedometer",
+            "induction furnace",
+            "speedometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2013,
+        "question": "A coil of inductance 0.12 H and resistance 4\\(\\Omega\\), is connected across a 240V, 50Hz supply. Calculate the current through it. [\\(\\pi\\) = 3.142]",
+        "explanation": "XL = \\(2\\pi f L\\)<br><br>= = 2 x 3.142 x 50 x 0.12<br><br>= 37.68\\(\\Omega\\)<br><br>Z = \\(\\sqrt{R^2 + X_L^2} = \\sqrt{4^2 + 37.68^2}\\)<br><br>I = \\(\\frac{V}{z} = \\frac{240}{37.89}\\)<br><br>= 6.3A",
+        "correctIndex": 0,
+        "options": [
+            "6.3A",
+            "33.3A",
+            "37.2A",
+            "40.0A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2013,
+        "question": "The work function of a metal is 2.56 x 10<sup>-19</sup>J. Calculate the frequency of a photon whose energy is required to eject from the metal an electron with kinetic energy of 3.0ev. [1 eV = 1.6 x 10<sup>-19</sup>J, h = 6.6 x 10<sup>-34</sup>Js]",
+        "explanation": "F = \\(\\frac{K.E + Wo}{h}\\)<br><br>= \\(\\frac{3.0 \\times 1.6 \\times 10^{-19} + 2.56 \\times 106{-19}}{6.6 \\times 106{-34}}\\)<br><br>- 1.12 x 10<sup>-15</sup>HZ",
+        "correctIndex": 2,
+        "options": [
+            "5.56 x 10<sup>19</sup>Hz",
+            "1.66 x 10<sup>19</sup>Hz",
+            "1.12 x 10<sup>15</sup>Hz",
+            "8.42 x 10<sup>14</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2013,
+        "question": "The minimum energy required to cause photoelectric emission when the surface of a metal is irradiated with electromagnetic radiation of suitable frequency is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "critical energy",
+            "ionization energy",
+            "work function",
+            "planck's constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2013,
+        "question": "Which of the following particles are termed nucleons in a neutral atom?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "protons and neutrons",
+            "neutrons and electrons",
+            "protons and electrons",
+            "protons, electrons and neutrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2013,
+        "question": "Which of the following statements about the use of radioisotopes is not correct? They are used to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "induce mutations in plants and animals to obtain new and improved varieties",
+            "trace the paths of metabolic processes in plants and animals",
+            "estmate the age of rocks",
+            "locate broken bones"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2013,
+        "question": "Which of the following phenomena supports the theory that waves have a particle nature?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electron diffraction",
+            "photoelectric effect",
+            "diffraction of light",
+            "x-ray interference"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4294330116_4.jpg\" class=\"img-fluid\">",
+        "explanation": "F + Ma = P<br><br>a = \\(\\frac{P - F}{m}\\)<br><br>= \\(\\frac{40 - 12}{5} = 5.6ms^{-2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "2.4ms<sup>-2</sup>",
+            "5.6ms<sup>-2</sup>",
+            "8.0ms<sup>-2</sup>",
+            "2.4ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18608766774_11.jpg\" class=\"img-fluid\">",
+        "explanation": "Vertical resultant = 10 - 6 = 4N<br><br>Horizontal resultant = 20 - 17 = 3N<br><br>R = \\(\\sqrt{3^2 + 4^2}\\)<br><br>= 5N",
+        "correctIndex": 3,
+        "options": [
+            "53.N",
+            "21.0N",
+            "7.0N",
+            "5.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18608770830_20.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "momentum of the air molecules are increased",
+            "volume occupied by the molecules are increased",
+            "frequency of collision of the air molecules with the walls of the pump is increased",
+            "more air molecules are collidin with one another in the system"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15745883967_24.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "P and R",
+            "R and T",
+            "P and T",
+            "Q and S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4294332735_36.jpg\" class=\"img-fluid\">",
+        "explanation": "cells in V = voltage of the cell<br><br>= 2V<br><br>I = \\(\\frac{v}{R} = \\frac{2}{3}\\)<br><br>= 1A",
+        "correctIndex": 0,
+        "options": [
+            "2V, 1.0A",
+            "2V, 4.0A",
+            "6V, 0.3a",
+            "6V, 3.0a"
+        ],
+        "type": "objectives"
+    }
+]

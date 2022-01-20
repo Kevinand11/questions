@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1992,
+        "question": "What is the least possible error in using a rule graduated in centimeters?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.1cm",
+            "0.5cm",
+            "1.0cm",
+            "2.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1992,
+        "question": "Which of the following affects the period of a simple pendulum? i. mass of the pendulum bob. ii. length of the pendulum. iii. acceleration due to gravity.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i, ii, and iii",
+            "ii and iii only",
+            "i and iii only",
+            "i and ii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1992,
+        "question": "<p>A boy sits in a train moving with uniform speed on a straight track. If from his outstretched palm he gently tosses his coin upwards, the coin will fall</p>",
+        "explanation": "<p>The coin will fall back to the hand of the boy (INERTIA OF MOTION). When the coin is thrown vertically up, it moves with the horizontal velocity of the train. It moves along with the train and falls back in the boy's hand. The train in this case, has no acceleration (uniform velocity).</p>",
+        "correctIndex": 3,
+        "options": [
+            "in front of his palm",
+            "behind his palm",
+            "beside his palm",
+            "into his palm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1992,
+        "question": "A body starts from rest and moves with uniform acceleration of 6ms<sup>-2</sup>. What distance does it cover in the third seconds",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "15m",
+            "18m",
+            "27m",
+            "30m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1992,
+        "question": "A stone, Q is thrown with velocity U at an angle of 75<sup>o</sup>to the horizontal. Another stone R is thrown with the same velocity U but with an angle of 15<sup>o</sup>to the horizontal. The ranges covered by the stones will be",
+        "explanation": "Range = \\(\\frac{U^2sin2\\theta}{g}\\)<br><br>Range<sub>Q</sub>= \\(\\frac{U^2sin150}{g}\\)<br><br>Range<sub>R</sub>= \\(\\frac{U^2sin30}{g}\\)<br><br>Since, sin30<sup>o</sup>= sin150<sup>o</sup><br><br>therefore, R<sub>Q</sub>= R<sub>R</sub>",
+        "correctIndex": 2,
+        "options": [
+            "greater for Q",
+            "greater for R",
+            "the same for Q and R",
+            "greater for the heavier of the two stones"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1992,
+        "question": "A man weight 800N climbs up a stairs to height of 15m in 12.5s. What is the man''s average power output?",
+        "explanation": "power = \\(\\frac{\\text {work done}}{time}\\)<br><br>= \\(\\frac{800 \\times 15}{12.5}\\)<br><br>= 960W",
+        "correctIndex": 2,
+        "options": [
+            "667W",
+            "810W",
+            "960W",
+            "15000W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1992,
+        "question": "A machine requires 1000J of work to raise a load of 500N through a vertical distance of 1.5m. Calculate the efficiency of the",
+        "explanation": "\\(\\frac{500 \\times 1.5}{100.0}\\) x 100%<br><br>= 75%",
+        "correctIndex": 1,
+        "options": [
+            "80%",
+            "75%",
+            "50%",
+            "33%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1992,
+        "question": "In an experiment to determine Young's Modulus for a wire, several loads are attached to the wire and the corresponding extension measured. The tensile stress in each case depends on the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "load and the extension",
+            "load and the radius of the wire",
+            "radius of the wire and the extension",
+            "extension and the original length of the wire"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1992,
+        "question": "If a plastic sphere floats in water (density = 1000kgm<sup>3</sup>) with 0.5 of its volume submerged, and floats in oil with 0.4 of its volume submerged the density of the oil is",
+        "explanation": "R.d = \\(\\frac{0.4}{0.5}\\) = 0.8<br><br>0.8 = \\(\\frac{\\text {Density of oil}}{\\text{Density of water}}\\)<br><br>0.8 = \\(\\frac{\\text {Density of oil}}{1000}\\)<br><br>Density of oil = 800kgm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "800kgm<sup>3</sup>",
+            "1200kgm<sup>3</sup>",
+            "1250kgm<sup>3</sup>",
+            "2000kgm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1992,
+        "question": "A platinum resistance thermometer wire has a resistance of 5 ohms at 0<sup>o</sup>C and 5.5 ohms at 100<sup>o</sup>C. Calculate the temperature of the wire when the resistance is 5.2 ohms",
+        "explanation": "100<sup>o</sup>C .... 5.5<br><br>\\(\\theta\\)<sup>o</sup>C .... 5.3<br><br>0<sup>o</sup>C .... 5.0<br><br>\\(\\frac{\\theta - 0}{100 - 0}\\) = \\(\\frac{5.5 - 5 .0}{5.5 - 5.0}\\)<br><br>\\(\\theta\\) = 40<sup>o</sup>C",
+        "correctIndex": 2,
+        "options": [
+            "80<sup>o</sup>C",
+            "60<sup>o</sup>C",
+            "40<sup>o</sup>C",
+            "10<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1992,
+        "question": "<p>A bridge made of steel is 600m long. What is the daily variation in its length if the night-time and daytime temperatures are 10°C and 35°C respectively. The linear expansivity of steel is 0.000012C\\(^{-1}\\).</p>",
+        "explanation": "<p>\\(\\alpha\\) = \\(\\frac{extension}{L\\Delta\\theta}\\)<br>\n<br>\n0.000012 = \\(\\frac{e}{600 \\times (35 - 10}\\)<br>\n<br>\n= 0.18m</p><p>= (0.18 x 100) cm</p><p>= 18.0 cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "0.18cm",
+            "1.80cm",
+            "18.00cm",
+            "1800cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1992,
+        "question": "One of the most important applications of bi-metallic strip is found in the construction of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a thermostat",
+            "an altimeter",
+            "a thermocouple",
+            "a hydrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1992,
+        "question": "<p>At constant pressure, the density of a fixed mass of gas is</p>",
+        "explanation": "<p>Density = mass/ volume</p><p>At constant pressure, volume is directly proportional to Temperature</p><p>Density is inversely proportional to the volume at constant mass</p><p>At constant pressure, volume = constant x temperature</p><p>hence, density = mass/ (constant x temperature)</p><p>which shows density is inversely proportional to temperature</p>",
+        "correctIndex": 2,
+        "options": [
+            "constant with temperature",
+            "proportional to its volume",
+            "inversely proportional to its temperature",
+            "independent of its volume"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1992,
+        "question": "How much heat is absorbed when a block of copper of mass 0.05kg and specific heat capacity 390Jkg<sup>-1</sup>K<sup>-1</sup>is heated from 20<sup>o</sup>C to 70<sup>o</sup>C?",
+        "explanation": "Q = mc\\(\\theta\\)<br><br>= 0.05 x 390 x (70 - 20)<br><br>= 975J",
+        "correctIndex": 1,
+        "options": [
+            "39 . 98 x 10<sup>-1</sup>J",
+            "9.75 x 10<sup>2</sup>J",
+            "3.98 x 10<sup>3</sup>J",
+            "9.75 x 10<sup>3</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1992,
+        "question": "A block of ice floats on water inside a container. If the block of ice gets completely melted, the level of water in the container will",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increase",
+            "remain the same",
+            "decrease",
+            "first decrease and then increase"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1992,
+        "question": "The space between the double glass walls of a thermos flask is evacuated space are silvered. The residual source of heat loss takes place by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "convection",
+            "radiation from the surface",
+            "conduction through the stopper and the glass",
+            "conduction across the walls"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1992,
+        "question": "The equation of a wave is y = 0.005 sin[x(0.5X - 200t)] where x and y are in meters and t is in seconds. What is the velocity of the wave?",
+        "explanation": "y = 0.005 sin[x(0.5X - 200t)]<br><br>compare to Y = A sin(kx - wt)<br><br>\\(\\lambda\\) = \\(\\frac{2\\pi}{k}\\) and F = \\(\\frac{w}{2\\pi}\\)<br><br>V= \\(\\lambda\\)F<br><br>= \\(\\frac{2\\pi}{0.5}\\) x \\(\\frac{200}{2\\pi}\\)<br><br>= 400ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "4000ms<sup>-1</sup>",
+            "400ms<sup>-1</sup>",
+            "250ms<sup>-1</sup>",
+            "40ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1992,
+        "question": "Which of the following characteristics of a wave is used in the measurement of the depth of the sea?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "diffraction",
+            "interference",
+            "refraction",
+            "reflection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1992,
+        "question": "A note is the octave of another note if it has",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a frequency twice that of the first note",
+            "frequency half that of the first note",
+            "the same fundamental frequency as the first one",
+            "a frequency frequency eight times that of the first note"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1992,
+        "question": "What is the frequency of the sound made by a siren having a disc with 32 holes and making 25 revolution per seconds?",
+        "explanation": "No of holes x Revolution<br><br>F = N<sub>H</sub>x N<sub>R</sub><br><br>= 32 x 25<br><br>= 800Hz",
+        "correctIndex": 2,
+        "options": [
+            "80Hz",
+            "600Hz",
+            "800Hz",
+            "1600Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1992,
+        "question": "Which of the following properties make the convex mirror useful as a driving mirror? i. the image is real. ii. the image is erect. iii. it has a wide field of view. iv. the image is magnified.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i, ii, and iv",
+            "i, ii, iii",
+            "ii and iii",
+            "i and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1992,
+        "question": "When an object is placed very close to the pole of a concave mirror, the virtual image obtained is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "diminished and upright",
+            "diminished and inverted",
+            "enlarged and inverted",
+            "enlarged and upright"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1992,
+        "question": "A concave mirror has a radius of curvature of 36cm. At what distance from the mirror should an object be placed to give a real image three times the size of the object?",
+        "explanation": "F = \\(\\frac{uv}{u + v}\\)<br><br>v = 3u<br><br>18 = \\(\\frac{3u \\times u}{3u + u}\\)<br><br>u = 24cm",
+        "correctIndex": 1,
+        "options": [
+            "12cm",
+            "24cm",
+            "48cm",
+            "108cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1992,
+        "question": "<p>Which of the following statements is CORRECT about a long-sighted boy who does not put on glasses?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "He cannot see distant objects clearly",
+            "Rays of light from a close object are focused in front of his retina",
+            "His eye ball is too long",
+            "Parallel rays of light are focused behind his retina"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1992,
+        "question": "The speed of light in air is 3 x 10<sup>8</sup>ms<sup>-1</sup>. What is the speed in glass with a refractive index of 1.50?",
+        "explanation": "1.5 = \\(\\frac{3 \\times 10^8}{v}\\)<br><br>v = 2.0 x 10<sup>8</sup>ms<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "1.5 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "3.0 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "2.0 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "6.0 x 10<sup>8</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1992,
+        "question": "If the refractive index of a medium in air is 2.0, what is the critical angle for this medium?",
+        "explanation": "sin c = \\(\\frac{1}{n}\\) = \\(\\frac{1}{2}\\)<br><br>c = sin<sup>-1</sup>\\((\\frac{1}{n})\\)<br><br>= 30<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "30<sup>o</sup>",
+            "42<sup>o</sup>",
+            "45<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1992,
+        "question": "Which of the following arrangements of the components of electromagnetic spectrum is in ascending order of wavelengths?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Gamma rays, ultraviolet rays, X- rays, infra - red rays",
+            "Gamma rays, X-rays, ultraviolet rays, infra-red rays",
+            "infra-red rays, ultraviolet rays, X-rays, gamma rays",
+            "Gamma rays, ultraviolet rays, infra-red rays, X-rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1992,
+        "question": "The angle between the direction of the earth's magnetic field and the horizontal is called the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "angle of deviation",
+            "magnetic declination",
+            "magnetic meridian",
+            "angle of dip"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1992,
+        "question": "Calculate the force acting on an electron of charge 1.6 x 10<sup>-19</sup>C placed in an electric field of intensity 10<sup>8</sup>Vm<sup>-1</sup>",
+        "explanation": "F = EQ<br><br>1.6 x 10<sup>-19</sup>x 10<sup>8</sup><br><br>= 1.6 x 10<sup>-11</sup>N",
+        "correctIndex": 0,
+        "options": [
+            "1.6 x 10<sup>-11</sup>N",
+            "1.6 x 10<sup>-14</sup>N",
+            "1.6 x 10<sup>-16</sup>N",
+            "1.0 x 10<sup>-16</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1992,
+        "question": "When an ebolite rod is rubbed with fur, it has",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "no charge at all",
+            "a negative charge",
+            "a positive charge",
+            "negative and positive charges"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1992,
+        "question": "Which of the following factors has no effect on the e.m.f. of a primary cell?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "temperature",
+            "size of the cell",
+            "nature of the plate",
+            "nature of the electrolyte"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1992,
+        "question": "A wire of length 15m made of a material of resistivity 1.8 x 10<sup>-6</sup>\\(\\Omega\\)m has a resistance of 0.27\\(\\Omega\\). Determine the area of the wire",
+        "explanation": "Resistivity = \\(\\frac{\\text {Resiatance x Area}}{length}\\)<br><br>1.6 x 10<sup>-6</sup>= \\(\\frac{15 \\times Area}{0.27}\\)<br><br>Area = 1.0 x 10<sup>-4</sup>m<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "1.5 x 10<sup>-4</sup>m<sup>2</sup>",
+            "1.0 x 10<sup>-4</sup>m<sup>2</sup>",
+            "2.7 x 10<sup>-5</sup>m<sup>2</sup>",
+            "7.3 x 10<sup>-6</sup>m<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1992,
+        "question": "A 5-v battery is connected across the plates of a 2.0\\(\\mu\\)F uncharged parallel plate capacitor. The charge on the capacitor after a long time is",
+        "explanation": "Q = cv<br><br>= 2 x 10<sup>-6</sup>x 5<br><br>= 10 x 10<sup>-6</sup>C<br><br>= 10.0\\(\\mu\\)C",
+        "correctIndex": 1,
+        "options": [
+            "2.5\\(\\mu\\)C",
+            "10.0\\(\\mu\\)C",
+            "20.0\\(\\mu\\)C",
+            "50.0\\(\\mu\\)C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1992,
+        "question": "Which of the following apparatus will require the smallest fuse rating for its protection?",
+        "explanation": "I = \\(\\frac{P}{V}\\) = \\(\\frac{60}{240}\\) = 0.25A<br><br>I = \\(\\frac{P}{V}\\) = \\(\\frac{60}{40}\\) = 1.5A<br><br>I = \\(\\frac{P}{V}\\) = \\(\\frac{40}{12}\\) = 3.3A<br><br>I = \\(\\frac{P}{V}\\) = \\(\\frac{40}{5}\\) = 8A",
+        "correctIndex": 0,
+        "options": [
+            "60W, 240V",
+            "60W, 40V",
+            "40W, 12V",
+            "40W, 5V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1992,
+        "question": "The heat produced in a conductor carrying an electric current is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "inversely proportional to the current and the resistance",
+            "directly proportional to the current, resistance and the time",
+            "inversely proportional to of the resistance, current and the time",
+            "directly proportional to the square of the current, the resistance and the time"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1992,
+        "question": "The maximum permissible current through a galvanometer G of internal resistance 10\\(\\Omega\\) is 0.05A. A resistance R is used to convert G into a voltmeter with a maximum reading of 100V. Find the value of R and how it is connected to G",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "20,000 ohms in parallel",
+            "19,990 ohms in series",
+            "1990 ohms in series",
+            "100 ohms in series"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1992,
+        "question": "In alternating current theory, the units of impedance, r.m.s. voltage and resonance frequency are respectively equal to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "volt, ampere and hertz",
+            "ohms, volt and hertz",
+            "watt, ohms and radian",
+            "ohms, hertz and joule"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1992,
+        "question": "In A.C circuit theory, the root means square (r.m.s) current, I<sub>rms</sub>and the peak (maximum)current I<sub>o</sub>are related by",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I<sub>o</sub>= \\(\\frac{I_rms}{\\sqrt{2}}\\)",
+            "I<sub>rms</sub>= \\(\\frac{I_o}{\\sqrt{2}}\\)",
+            "I<sub>rms</sub>= \\(\\frac{\\frac{I}{I_o}}{\\sqrt2}\\)",
+            "I<sub>rms</sub>= \\(\\frac{I_rms}{\\sqrt{2}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1992,
+        "question": "The threshold of frequency for photoelectric effect depends on the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "intensity of incident light",
+            "frquency of incident light",
+            "material of the photocathode",
+            "potential difference between the cathode and the anode"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1992,
+        "question": "After three half lifes, the fraction of a radioactive material that has decayed is",
+        "explanation": "I = \\(\\frac{1}{2}\\) \\(\\Rightarrow\\) \\(\\frac{1}{4}\\) \\(\\Rightarrow\\) \\(\\frac{1}{8}\\)<br><br>Fraction decayed = 1 - \\(\\frac{1}{8}\\)<br><br>= \\(\\frac{7}{8}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{8}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{7}{8}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1992,
+        "question": "\\(^{27}_{13}Al\\) + \\(^{1}_{0}n\\) \\(\\Rightarrow\\) \\(^{24}_{11}Na\\) + X",
+        "explanation": "\\(^{27}_{13}Al\\) + \\(^{1}_{0}n\\) \\(\\Rightarrow\\) \\(^{24}_{11}Na\\) + \\(^{b}_{a}X\\)<br><br>a + 11 = 0 + 13 \\(\\Rightarrow\\) a = 2<br><br>b + 24 = 1 + 27 \\(\\Rightarrow\\) b = 4<br><br>\\(^{b}_{a}X\\) = \\(^{4}_{2}\\alpha\\)",
+        "correctIndex": 3,
+        "options": [
+            "a proton",
+            "a gamma ray",
+            "a helium particle",
+            "an alpha particle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27714231459_19920001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "F1 + F2 = F3 + F4",
+            "F1 + F2 - F3 + F = 0",
+            "(F1 + F2)ab = (F3 + F4)cd",
+            "F1a + F2b - F3c - F4d = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13127795721_19920002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "m1/m2",
+            "m1g/m2",
+            "m2/m1",
+            "m2g/m1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13127798007_19920003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1/3",
+            "2/3",
+            "3",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7293222175_19920004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "S-S poles",
+            "S-N poles",
+            "N-S poles",
+            "N-N poles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4375934535_19920005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.2Ω",
+            "1.3Ω",
+            "3.0Ω",
+            "6.0Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834580680_19920006.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "The reading of W is equal to that of Y and twice that of X",
+            "The reading of Y is greater than that of Z",
+            "The readings of W and Y are equal and each is greater than that of X",
+            "The reading of Z is equal to the sum of the readings of Y and W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11669179496_19920007.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "7.2 x 10<sup>-4</sup>J",
+            "1.4 x 10<sup>-3</sup>J",
+            "1.4 x 10<sup>-3</sup>J",
+            "1.2 x 10<sup>-2</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27714304875_19920008.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Upwards",
+            "Downwards",
+            "TOwards The North Pole",
+            "Towards The South Pole"
+        ],
+        "type": "objectives"
+    }
+]

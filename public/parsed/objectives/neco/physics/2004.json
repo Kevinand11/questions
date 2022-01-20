@@ -1,0 +1,766 @@
+[
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 1,
+        "year": 2004,
+        "question": "Which of these expresses the relationship between the earth’s magnetic field FE, and the field’ FB due to a magnet at neutral points? FE is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "equal and opposite to F<sup>B</sup>",
+            "equal to and in the same direction with F<sup>B</sup>",
+            "greater than and in the same direction with F<sub>B</sub>",
+            "greater than and opposite to F<sub>B</sub>",
+            "less than and opposite to F<sub>B</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 2,
+        "year": 2004,
+        "question": "The general equation of a wave CANNOT be written as",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "y = A Sin [2 π (\\(\\frac{t}{T}\\) ± Xλ)]",
+            "y = A Sin [wt ± kx]",
+            "y = A Sin [2 \\(\\frac{\\pi}{\\lambda}\\) (vt ± x)]",
+            "y = A Sin [2π (ft ± \\(\\frac{X}{\\lambda}\\) )]",
+            "y = A Sin 2 π f(T ± \\(\\frac{X}{\\lambda}\\))]"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 3,
+        "year": 2004,
+        "question": "A voltage supply of 12V r.m.s. and frequency 90Hz is connected to a 4 ω resistor. Calculate the peak value of the current",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "48.8 A",
+            "30.0 A",
+            "27.5 A",
+            "4.2 A",
+            "3.0A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 4,
+        "year": 2004,
+        "question": "Which of the following conclusion(s) can be drawn from Newton’s second law of motion? Force is proportional to<br><br>I. the product of mass and acceleration<br>II. the product of mass and velocity<br>III. Impulse",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 5,
+        "year": 2004,
+        "question": "How far from a hill should a boy stand to hear the echo of his clap 1 .6s later? [Speed of sound in air is 340ms<sup>-1</sup>]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "186m",
+            "272m",
+            "544m",
+            "1088m",
+            "2000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 6,
+        "year": 2004,
+        "question": "Which of the statements about prism binoculars is/are correct? They<br><br>I. are a pair of two telescopes mounted side by side<br>II. reduce the optical path of the light ray from the objective to the eye piece<br>III, present inverted and diminished image to the viewer<br>IV. present erect and magnified image to the viewer.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "I, II and IV only",
+            "II, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 7,
+        "year": 2004,
+        "question": "A body of mass 40g loses 80J of heat energy. If the specific heat capacity of the body is 400 Jkg<sup>-1</sup>, calculate the change in temperature of the body.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.2K",
+            "0.4K",
+            "2.0K",
+            "5.0K",
+            "10.0K"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 8,
+        "year": 2004,
+        "question": "A force F is applied to a body P as shown in the diagram above. If the body moves through a distance, a, which of the following represents the work done?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Fa",
+            "Fa Cos θ",
+            "\\(\\frac{Fa}{\\cos \\theta}\\)",
+            "FaSin θ",
+            "\\(\\frac{Fa}{\\sin \\theta}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 9,
+        "year": 2004,
+        "question": "In which of these fields are repulsive forces NOT experienced?<br><br>I. Magnetic field<br>II. Gravitational field<br>III. Electric field",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 10,
+        "year": 2004,
+        "question": "The component of a vector in a given direction is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "equal to the magnitude of the resultant vector in that direction",
+            "equal to the magnitude of the resultant vector in the opposite direction",
+            "its effective magnitude",
+            "its effective value in that direction",
+            "its effective value in the opposite direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 11,
+        "year": 2004,
+        "question": "A plane which is Inclined at an angle of 30 ° to the horizontal has a velocity ratio of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "1",
+            "0.87",
+            "0.67",
+            "0.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 12,
+        "year": 2004,
+        "question": "A mass of 5kg is suspended from the ceiling of a lift with a light inextensible string. As the lift moves upwards with an acceleration of 2ms<sup>-2</sup>, the tension in the string is [g = 10ms<sup>-2</sup>]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "25N",
+            "40N",
+            "50N",
+            "60N",
+            "70N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 13,
+        "year": 2004,
+        "question": "Which of the following is NOT an example of a percussion instrument?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Bell",
+            "Drum",
+            "Flute",
+            "Gong",
+            "Xylophone"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 14,
+        "year": 2004,
+        "question": "The time t<sub>1</sub>, t<sub>2</sub>and t<sub>3</sub>for 20 complete oscillations of a simple pendulum experiment are 32.0s, 34.6s and 35.5s respectively. Calculate the mean period of the pendulum.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.60s",
+            "1.70s",
+            "1.73s",
+            "1.78s",
+            "5.11s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 15,
+        "year": 2004,
+        "question": "Calculate the magnitude of the electric field intensity in vacuum at a distance of 25cm from a charge of 5 × 10<sup>-3</sup>C. [Take 1/4πε<sub>0</sub>]",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "7.2 × 108NC<sup>-1</sup>",
+            "1.8 × 108NC<sup>-1</sup>",
+            "5.6 × 108NC<sup>-1</sup>",
+            "3.6 × 108NC<sup>-1</sup>",
+            "1.5 × 106NC<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 16,
+        "year": 2004,
+        "question": "The temperature at which the water vapour present in the air is just enough to saturate the air is the _______ point.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "boiling",
+            "critical",
+            "dew",
+            "ice",
+            "steam"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 17,
+        "year": 2004,
+        "question": "Which of the following statements is true of nuclear fission?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Heavy nuclei combine to form new element",
+            "Protons are used in bombarding heavy nucleus",
+            "The sum of the masses of the products is greater than the mass of the original substance",
+            "Two light nuclei are made to combine to form a heavy nucleus",
+            "Very large amount of energy is released."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 18,
+        "year": 2004,
+        "question": "The frequency of a body executing simple harmonic motion when left undisturbed is known as__________ frequency.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "damped",
+            "forced",
+            "free",
+            "natural",
+            "sinusoidal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 19,
+        "year": 2004,
+        "question": "When very hot water is poured into a thin-walled glass container, it is less likely to break because",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "all parts of the container got heated-uniformly",
+            "glass can withstand a very high temperature",
+            "the molecules of glass are too far apart to cause breakages of the container",
+            "the outer part of the container is cooler than the inner part",
+            "thin glass does not expand fast"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 20,
+        "year": 2004,
+        "question": "An electron makes a transition from - 1.60 eV energy level to - 10.4eV energy level Calculate the energy loss due to the transition.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "16.64eV",
+            "12.00eV",
+            "10.40eV",
+            "8.80eV",
+            "6.50eV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 21,
+        "year": 2004,
+        "question": "Which to the following is NOT a fundamental unit?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Ampere",
+            "Kelvin",
+            "Kilogramme",
+            "Newton",
+            "Second"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 22,
+        "year": 2004,
+        "question": "A projectile fired with initial velocity, u will attain its maximum height H when the angle of projection θ is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "30°",
+            "450°",
+            "60°",
+            "75°",
+            "90°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 23,
+        "year": 2004,
+        "question": "For total internal reflection to occur,<br><br>I. light must be travelling from an optically more dense to an optically less dense medium.<br>II. the angle of incidence in the denser medium must be greater than its critical angle.<br>III. the angle of refraction in the less dense medium must be equal to 90 °. Which of the statements above is/are correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "II and III only."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 24,
+        "year": 2004,
+        "question": "Which property of a fluid determines its suitability as a lubricant?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Capillarity",
+            "Diffusion",
+            "Solubility",
+            "Surface tension",
+            "Viscosity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 25,
+        "year": 2004,
+        "question": "A note, A from a guitar produces a wave of amplitude 4 mm and frequency 1000 Hz. Another note, B from a whistle produces a similar waveform of amplitude 2 mm and frequency 2200 Hz. If the two notes are compared,",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "A has a higher pitch than B",
+            "A is louder than B.",
+            "B has a greater speed than A",
+            "B is louder than A",
+            "A and B have the same quality"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 26,
+        "year": 2004,
+        "question": "A surface in the path of an advancing wave on which all the particles are in the same state of disturbance is called a",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "crest",
+            "cycle",
+            "pulse",
+            "trough",
+            "wave front"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 27,
+        "year": 2004,
+        "question": "Calculate the wavelength of light travelling with a speed of 3 × 108ms<sup>-1</sup>and a frequency of 6.2 × 10<sup>14</sup>Hz.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "4.8 × 10<sup>-8</sup>m",
+            "4.8 × 10<sup>-7</sup>m",
+            "4.8 × 10<sup>-6</sup>m",
+            "4.8 × 10<sup>-5</sup>m",
+            "4.8 × 10<sup>-4</sup>m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 28,
+        "year": 2004,
+        "question": "What is the uncertainty in the measurement of time, if the uncertainty in measuring the energy of an electron of mass 10<sup>-30</sup>kg is 2.45 × 10<sup>-19</sup>J? h = 6.6 × 10<sup>-34</sup>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.35 ×10<sup>-15</sup>s",
+            "2.69 × 10<sup>-15</sup>s",
+            "4.15 × 10<sup>-15</sup>s",
+            "9.05 × 10<sup>-15</sup>s",
+            "1.62 × 10<sup>-14</sup>s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 29,
+        "year": 2004,
+        "question": "A body has masses of 0.013kg and 0.012 kg in oil and water respectively. If the relative density of oil is 0.875 calculate the mass of the body.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.02 kg",
+            "0.03kg",
+            "0.04kg",
+            "0.05kg",
+            "0.06kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 30,
+        "year": 2004,
+        "question": "A stone is dropped from the top of a tower of height 11 .25m. Calculate the time it will take to reach the ground. [g = 10ms-2]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.00s",
+            "1.50s",
+            "2.25s",
+            "2.50s",
+            "3.00s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 31,
+        "year": 2004,
+        "question": "The rate of diffusion of gases increases with increase(s) in<br><br>I. density<br>II. temperature<br>III, mass. Which is/are correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "I and II only",
+            "II and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 32,
+        "year": 2004,
+        "question": "In which of the following are crystalline structures observable?<br><br>I. Gas<br>II. Liquid<br>III. Solid",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and III only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 33,
+        "year": 2004,
+        "question": "Heat<br><br>I. is a form of energy<br>II. is measured with a thermometer<br>III. cannot be created or destroyed<br>IV. from a hot object is transferred through conduction only. Which of the statements above are correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I and II only",
+            "I and III only",
+            "I, II and III only",
+            "II, III and IV only",
+            "I, II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 34,
+        "year": 2004,
+        "question": "A car travels with a constant velocity of 45 kmh<sup>-1</sup>for 20s. What distance does it cover in this time?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "0.025m",
+            "0.250m",
+            "2.500m",
+            "25.000m",
+            "250.000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 35,
+        "year": 2004,
+        "question": "When the same amount of current, I is passed through different wires under the same conditions, the rates of production of heat are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "directly proportional to I",
+            "directly proportional to the resistances of the wires",
+            "directly proportional to the square of the resistances of the wires",
+            "inversely proportional to I",
+            "inversely proportional to the resistance of the wires"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 36,
+        "year": 2004,
+        "question": "A current flows in a series circuit containing a resistor, R, an inductor, L and a capacitor, C. Which of the following is true of the power dissipated in the circuit component(s)?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "The power dissipated in L is greater than zero",
+            "The power dissipated in R is zero",
+            "The sum of the power dissipated in L and C is equal to that in R",
+            "The sum of the power dissipated in L and C is greater than in R",
+            "The sum of the power dissipated in L and C is zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 37,
+        "year": 2004,
+        "question": "Emission spectra are caused by",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "kinetic energy of moving atoms",
+            "potential energy of an electron in an atom",
+            "transition of an electron from a higher energy level to a lower energy level",
+            "transition of an electron from a lower energy level to higher energy level",
+            "transition of excited protons in the nucleus."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 38,
+        "year": 2004,
+        "question": "Which of the following is used as a depolarizer in a Denial cell?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Ammonium chloride",
+            "Copper (II) tetra Oxo sulphate (VI) solution",
+            "Manganese (IV) oxide",
+            "Tetraoxo sulphate (VI) acid",
+            "Water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 39,
+        "year": 2004,
+        "question": "A radioactive isotope has a half-life of 8 days. What fraction of the atoms will remain after 72 days?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "9.766 × 10<sup>-4</sup>",
+            "1.736 ×10<sup>-3</sup>",
+            "1.953 ×10<sup>-3</sup>",
+            "3.472 × 10<sup>-3</sup>",
+            "3.906 x 10<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 40,
+        "year": 2004,
+        "question": "If the distance between the plates of a parallel plate capacitor is decreased, its capacitance",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "becomes zero",
+            "decreases",
+            "increases",
+            "is halved",
+            "remains the same"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 41,
+        "year": 2004,
+        "question": "The resultant of two forces P and Q is least when the angle between them is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "0°",
+            "45°",
+            "60°",
+            "90°",
+            "180°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 42,
+        "year": 2004,
+        "question": "A ray of light experiences a minimum deviation when passing through an equilateral triangular glass prism. Calculate the angle of incidence of the ray. [Refractive index of glass = 1.5]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "300.0°",
+            "48.6°",
+            "60.0°",
+            "75.5°",
+            "105.0 °"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 43,
+        "year": 2004,
+        "question": "Calculate the energy stored in an inductor of inductance 0.5H when a current of 3A flows through it.",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "15.00 J",
+            "9.45 J",
+            "6.00 J",
+            "4.50J",
+            "2.25 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 44,
+        "year": 2004,
+        "question": "The relative density of dilute tetraoxosulphate (vi) acid in a battery is measured with a",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "barometer",
+            "hydrometer",
+            "manometer",
+            "hypsometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "neco",
+        "order": 45,
+        "year": 2004,
+        "question": "<p>A resistor connected in parallel with a galvanometer so that a large amount of current can be measured is called a/an</p>",
+        "explanation": "<p>A galvanometer can be converted into ammeter by connecting a low resistance called shunt in parallel to the galvanometer.</p>",
+        "correctIndex": 4,
+        "options": [
+            "ammeter",
+            "avometer",
+            "coil resistor",
+            "multiplier",
+            "shunt."
+        ],
+        "type": "objectives"
+    }
+]

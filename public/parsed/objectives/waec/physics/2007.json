@@ -1,0 +1,770 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2007,
+        "question": "Which of the following observations is not an effect of surface tension?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "droplets of water dripping slowly from a tap",
+            "mercury spilled on a clean glass plate forms spherical droplets",
+            "an indect walking across the surface of a pond",
+            "water flowing out more easily then engine oil from a container"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2007,
+        "question": "Which of the following physical quantities is correctly paired with it's corresponding S.I unit?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "density[kg m<sup>3</sup>]",
+            "power[Js<sup>-1</sup>]",
+            "specific latent heat [J kg<sup>-1</sup>K<sup>-1</sup>",
+            "Pressure [Nm<sup>-1</sup>]"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2007,
+        "question": "A liquid of volume 2.00 m<sup>3</sup>and density 1.00 x 10<sup>3</sup>is mixed with 3.00 m<sup>3</sup>of another liquid of density 8.00 x 10<sup>3</sup>kg m<sup>-3</sup>. Calculate the density of the mixture [Assuming there is no chemical reaction]",
+        "explanation": "\\(V_T = 5m^3, m_1 = 2 \\times 1 \\times 10^3 = 2 \\times 10^3\\)<br><br>\\(M_2 = 3 \\times 8 \\times 10^3 = 24 \\times 10^3\\)<br><br>M<sub>T</sub>= 26 x 10<sup>3</sup><br><br>D = \\(\\frac{m}{v} = \\frac{26 \\times 10^3}{5} = 5.2 \\times 10^3\\)",
+        "correctIndex": 3,
+        "options": [
+            "5.20 x 10<sup>2</sup>kg m<sup>-3</sup>",
+            "1.13 x 10<sup>3</sup>kg m<sup>-3</sup>",
+            "8.80 x 10<sup>2</sup>kg m<sup>-3</sup>",
+            "5.20 x 10<sup>2</sup>kg m<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2007,
+        "question": "Which of the following statements about solid friction are correct? It i. is a force ii. occurs between the surfaces of two bodies in contact iii. depends on the area in contact",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "i adnd iii only",
+            "ii and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2007,
+        "question": "A mass of mass m, experiences a viscous drag, F and an upthrust, U as he descends towards the ground at a steady velocity, Using a parachute. If the acceleration of free fall is g, which of the following expressions is correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "FU = mg",
+            "U + F - mg = 0",
+            "U - F = mg",
+            "F - U - mg = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2007,
+        "question": "a body moving at a constant speed accelerates when it is in",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "rectilinear motion",
+            "translational motion",
+            "circular motion",
+            "vibrational motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2007,
+        "question": "An object of mass 2 kg moves with a uniform speed of 10ms<sup>-1</sup>for 5s along an straight path. Determine the magnitude of its acceleration",
+        "explanation": "a = \\(\\frac{v - u}{t} = \\frac{10 - 10}{5} = 0\\)m/s",
+        "correctIndex": 0,
+        "options": [
+            "0 ms<sup>-2</sup>",
+            "1 ms<sup>-2</sup>",
+            "3 ms<sup>-2</sup>",
+            "4 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2007,
+        "question": "The team rectilinear acceleration means the rate of increase of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "velocity along a circular path in a unit time",
+            "distance along a rectangular path in a unit time",
+            "displacement along a straight-line path in a unit time",
+            "velocity along a straight-line path in a unit time"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2007,
+        "question": "A body moving with an initial velocity U accelerates until it attains a velocity of V within a time t. The distance, s covered by the body is given by the expressions",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "s = (\\(\\frac{v - u}{2}\\))t",
+            "s = (\\(\\frac{v + 2u}{2}\\))t",
+            "s = (\\(\\frac{v + u}{2}\\))t",
+            "s = (\\(\\frac{2v + u}{2}\\))t"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2007,
+        "question": "A body accelerates uniformly from rest at 2ms<sup>-2</sup>. Calculate the magnitude of its velocity after travelling 9m",
+        "explanation": "v = \\(\\sqrt{U^2} + 2as = \\sqrt{0^2} + 2 \\times 2 \\times 9 = 6\\)m/s",
+        "correctIndex": 1,
+        "options": [
+            "4.5 ms<sup>-1</sup>",
+            "6.0ms<sup>-1</sup>",
+            "18.0<sup>-1</sup>",
+            "36.0<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2007,
+        "question": "A swinging pendulum between the rest position and its maximum displacement possesses",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Kinetic energy only",
+            "potential energy only",
+            "gravitational energy only",
+            "both kinetic and potential energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2007,
+        "question": "A block of mass 4.0kg causes a spiral spring to extend by 0.16m from its unstretched position. The block is removed and another body of mass 0.50kg is hung from the same spiral spring. If the spring is then stretched and released, what is the angular frequency of the subsequent motion? [g = 10 ms<sup>-2</sup>]",
+        "explanation": "K = \\(\\frac{F}{e} = \\frac{4}{0.16} = 250\\)<br><br>F = \\(\\frac{1}{T} = \\frac{1}{2 \\pi \\frac{\\sqrt{m}}{k}}\\)<br><br>= \\(\\frac{1}{2 pi \\frac{\\sqrt{0.5}}{250}}\\)<br><br>= 10\\(\\sqrt{5}\\)",
+        "correctIndex": 0,
+        "options": [
+            "10\\(\\sqrt 5\\) rads<sup>-1</sup>",
+            "5\\(\\sqrt 2\\) rads<sup>-1</sup>",
+            "5 rads<sup>-1</sup>",
+            "\\(\\sqrt 5\\) rads<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2007,
+        "question": "An external force of magnitude 100N acts on a particle of mass 0.15kg for 0.03s. Calculate the change in the speed of the particle",
+        "explanation": "a = \\(\\frac{F}{m} = \\frac{100}{0.15} = 666.7\\)<br><br>v = u + at<br><br>= 0 + 66.7 x 0.03<br><br>= 20m/s<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "50ms<sup>-1</sup>",
+            "25ms<sup>-1</sup>",
+            "20ms<sup>-1</sup>",
+            "5ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2007,
+        "question": "A car of mass 800kg moves from rest on a horizontal track and travels 60m in 20s with uniform acceleration. Assuming there were no frictional forces, calculate the accelerating force",
+        "explanation": "S = at + \\(\\frac{1}{2} at^2\\)<br><br>60 = 0 x 20 + \\(\\frac{1}{2}\\) x a x 20<br><br>a = \\(\\frac{3}{10}\\)m/s<sup>2</sup><br><br>F = ma = 800 x \\(\\frac{3}{10} = 240N\\)",
+        "correctIndex": 0,
+        "options": [
+            "240.0N",
+            "800.0N",
+            "1600.00N",
+            "2400.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2007,
+        "question": "A plane inclined at 30<sup>o</sup>to the horizontal has an efficiency of 50%. Calculate the force parallel to the plane required to push a load of 120N uniformly upn the plane",
+        "explanation": "V.R = \\(\\frac{1}{sin\\theta} = \\frac{1}{sin 30} = 2\\)<br><br>M.A = \\(\\frac{E \\times V.R}{100} = \\frac{50 \\times 2}{100} = 1\\)<br><br>Effort = \\(\\frac{load}{M.A} = \\frac{120}{1} = 120N\\)",
+        "correctIndex": 1,
+        "options": [
+            "50.0N",
+            "120.0N",
+            "200.0N",
+            "240N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2007,
+        "question": "Mechanical energy can be either",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "kinetic or electric",
+            "chemical or potential",
+            "potential or kinetic",
+            "electric or heat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2007,
+        "question": "Which of the following surfaces will radiate heat energy best?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Red surface",
+            "white surface",
+            "black surface",
+            "yellow surface"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2007,
+        "question": "The ice and steam point on a mercury-in-glass thermometer are 10cm and 30cm respectively. Calculate the temperature in decree Celsius when the mercury meniscus is the 14cm mark",
+        "explanation": "\\(\\frac{x - 0}{100 - 0} = \\frac{14 - 10}{30 - 10}\\)<br><br>x = \\(\\frac{100 \\times 4}{20} = 20^oC\\)",
+        "correctIndex": 0,
+        "options": [
+            "20<sup>o</sup>C",
+            "30<sup>o</sup>C",
+            "34<sup>o</sup>C",
+            "70<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2007,
+        "question": "Which of the following statements distinguishes thermal conduction for convection? i. Conduction requires a material medium while convection does not ii. In convection, there is actual motion of hot material, while in conduction, molecules molecules vibrates faster about their mean positions iii. Conduction takes place in solids while convection takes place in fluids.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2007,
+        "question": "A cube made of metal of linear expansivity \\(\\alpha\\) is heated through a temperature \\(\\theta\\). If the initial volume of the cube is V<sub>o</sub>, the correct expression for the increase in volume of the cube is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{3} \\alpha V_o \\theta\\)",
+            "\\(\\frac{1}{2} \\alpha V_o \\theta\\)",
+            "\\(2 \\alpha V_o \\theta\\)",
+            "\\(3 \\alpha V_o \\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2007,
+        "question": "A relative density bottle of volume 50cm<sup>3</sup>is completely filled with a liquid at 30<sup>o</sup>C. It is then heated to 80<sup>o</sup>C such that 0.75cm<sup>3</sup>of the liquid is expelled. Calculate the apparent cubic expansivity of the liquid.",
+        "explanation": "Ya = \\(\\frac{\\text{Vol. expelled}}{\\text{Vol. left x temp. change}} = \\frac{0.75}{49.25 \\times 50}\\)<br><br>= 0.00030k<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "0.00030k<sup>-1</sup>",
+            "0.00032k<sup>-1</sup>",
+            "0.01970k<sup>-1</sup>",
+            "0.02030k<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2007,
+        "question": "A body of mass 200g and specific heat capacity 0.4Jg<sup>-1</sup>k<sup>-1</sup>cools from 37<sup>o</sup>C to 31<sup>o</sup>C. Calculate the quantity of the heat released by the body.",
+        "explanation": "Q = mc\\(\\theta\\)<br><br>= 200 x 0.4 x 6 = 480J",
+        "correctIndex": 2,
+        "options": [
+            "4800J",
+            "1200J",
+            "480J",
+            "202J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2007,
+        "question": "According to the kinetic theory of gasses, which of the following property of a gas can be affected by the collision of the gas molecule with the walls of the container?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "temperature",
+            "energy",
+            "viscosity",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2007,
+        "question": "<p>The pressure of a fixed mass of an ideal gas at 27°C is 3 pa. The gas is heated at a constant volume until its pressure is 5 pa. Determine the new temperature of the gas.</p>",
+        "explanation": "<p>\\(\\frac{P_1}{T_1} = \\frac{P_2}{T_2} = \\frac{3}{300} = \\frac{5}{T_2}\\)<br>\n<br>\nT\\(_2\\) = 500°C<br>\n<br>\n°C = 500 - 273 = 227°</p>",
+        "correctIndex": 1,
+        "options": [
+            "100<sup>o</sup>C",
+            "227<sup>o</sup>C",
+            "273<sup>o</sup>C",
+            "500<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2007,
+        "question": "Which of the following wave is electromagnetic?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "x-rays",
+            "sound waves",
+            "water waves",
+            "tidal waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2007,
+        "question": "The distance between two points P and Q, along a wave is 0.05m. If the wave length of the wave is 0.10m, determine the phase angle between P and Q in radians",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.1\\(\\pi\\)",
+            "\\(\\pi\\)",
+            "2\\(\\pi\\)",
+            "10\\(\\pi\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2007,
+        "question": "Which of the following phenomena is not a direct consequence of rectilinear propagation of light?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "lunar and solar eclipses",
+            "images of objects in a pin hole camera",
+            "diffraction of light",
+            "shadows of opaque object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2007,
+        "question": "An object is placed 10cm in front of a plane mirror. If it is moved 8cm away father away from the mirror, determine the distance of the final image from the mirror",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2cm",
+            "9cm",
+            "16cm",
+            "18cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2007,
+        "question": "In which of the following piece of apparatus is the radius of curvature equal to twice the focal length?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "converging lens",
+            "diverging lens",
+            "converging mirror",
+            "parabolic mirror"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2007,
+        "question": "When an object is placed at the centre of curvature of a concave mirror, its image is formed at",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the focus",
+            "infinity",
+            "the centre of curvature",
+            "a distance twice the radius of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2007,
+        "question": "A rectangular glass prism of thickness d and absolute refractive index n is placed on a point object which is viewed vertically downward from above the prism. Which of the following expressions correctly defines the apparent upward displacement of the object?",
+        "explanation": "n = \\(\\frac{R.d}{A.d}\\)<br><br>R.d = \\(\\frac{R.d}{n} = \\frac{d}{n}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{d}{n}\\)",
+            "dn",
+            "\\(\\frac{d}{n - 2}\\)",
+            "\\(\\frac{d(n - 1)}{n}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2007,
+        "question": "Which of the following factors can affect the speed of sound in air? i. The temperature of the surrounding ii. The direction of the wind iii. The pitch of the sound.",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2007,
+        "question": "A sounding tuning fork is brought near the open end of a pipe containing air and the loudness of the sound is observed to increase. This observation is due to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "an echo",
+            "resonance",
+            "interference",
+            "reverbration"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2007,
+        "question": "Which of the following statements about sound wave is not correct? Sound waves can be",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "reflected",
+            "refracted",
+            "diffracted",
+            "polarized"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2007,
+        "question": "A dry plastic comb used in combing hair was found to attract pieces of paper and dust. The most probable explanation for this phenomenon is that the comb has been given",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "magnetization by induction",
+            "electric charges by induction",
+            "electric charges by conduction",
+            "electric charges by friction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2007,
+        "question": "Which of the following statements is correct about resonance? Resonance occurs when a body",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "vibrates with its natural frequency",
+            "is forced to vibrate on its own natural frequency by another body at the same vibration",
+            "vibrates at the frquency of the body causing the vibration",
+            "vibrates with an irregular frequency"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2007,
+        "question": "Which of the following components is used for storing electric charges?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "inductor",
+            "resistor",
+            "capacitor",
+            "electrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2007,
+        "question": "Which of the following operations does not represent an action of a force field?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "falling of a mango fruit from the tree",
+            "picking of nails using a bar magnet",
+            "repulsion of two like charges",
+            "pushing of a wheel-barrow on a level gound"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2007,
+        "question": "A bulb marked 240V, 40W is used for 30 minutes. Calculate the heat generated",
+        "explanation": "W = P x t<br><br>= 40 x 30 x 60<br><br>= 72000J",
+        "correctIndex": 3,
+        "options": [
+            "320J",
+            "400J",
+            "10800J",
+            "72000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2007,
+        "question": "Five 80-W and three 100W are run for 8 hours. If the cost of energy is N5.00 per unit, calculate the cost of running the lamp. [1 unit = 1 kWh]",
+        "explanation": "P = (80 x 5 + 100 x 3)8<br><br>= 5600W<br><br>Cost = \\(\\frac{5600}{1000} \\times 5 = N28\\)",
+        "correctIndex": 1,
+        "options": [
+            "N280.00",
+            "N28.00",
+            "N7.20",
+            "N1.44"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2007,
+        "question": "Which of the following electromagnetic wave can be detected by its heating effect?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ultraviolet radiation",
+            "x-rays",
+            "gamma rays",
+            "infrared radiation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2007,
+        "question": "If a gas is excited by high voltage to produce a discharge and the light is examined in a spectrometer",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "an explosion is observed",
+            "the rainbow colours are seen",
+            "an emission spectrum is observed",
+            "dark lines are observed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2007,
+        "question": "The number of protons in an element increased by one after a radioactive decay. The element must have decay by emitting",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a beta particle",
+            "an alpha particle",
+            "a gamma ray",
+            "a neutron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2007,
+        "question": "In a nuclear reactor, chain reactions result from the release of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electrons",
+            "photons",
+            "neutrons",
+            "protons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2007,
+        "question": "The correct sequence of energy transformation in the operation of an x-ray tube is i. X-rays ii. Kinetic energy of thermo electrons iii. Potential energy of the target atoms iv. Heat energy of the emitted electrons",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "iv, iii, ii, i",
+            "ii, iv, iii, i",
+            "iv, ii, iii, i",
+            "iii, iv, ii, i"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2007,
+        "question": "There is always an uncertainty involved in any attempt to measure the position and momentum of an electron simultaneously. This statement is known as the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "de Broglie's law",
+            "Heisenberg uncertainty principle",
+            "Franck-Hertz experimental law",
+            "wave-particle paradox"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11446007776_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": "10 - P sin 30 = 0<br><br>10 - P x 0.5 = 0<br><br>P = 20N",
+        "correctIndex": 3,
+        "options": [
+            "10.5N",
+            "11.0N",
+            "17.3N",
+            "20.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11446009064_maths-42.jpg\" class=\"img-fluid\">",
+        "explanation": "R = \\(\\frac{1}{2} + \\frac{1}{2} + 3 = 1 + 3 = 4\\Omega\\)",
+        "correctIndex": 1,
+        "options": [
+            "0.75\\(\\Omega\\)",
+            "4.00\\(\\Omega\\)",
+            "5.00\\(\\Omega\\)",
+            "7.00\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    }
+]

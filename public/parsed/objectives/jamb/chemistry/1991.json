@@ -1,0 +1,786 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1991,
+        "question": "Which of the following can be obtained by fractional distillation?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Nitrogen from liquid air",
+            "Sodium chloride from sea water",
+            "Iodine from a solution of Iondine in carbon tetrachloride",
+            "Sulphur from a solution of sulphur incarbon disulphide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1991,
+        "question": "Which of the following are mixtures?<br>i, Petroleum<br>ii, Rubber latex<br>iii. Vulcanizer's solution<br>iv, Carbon (II)sulphide",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i, ii and iii",
+            "i, ii and iv",
+            "i and ii only",
+            "i and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1991,
+        "question": "An iron ore is known to contain 70.0% Fe<sub>2</sub>O<sub>3</sub>. The obtain from 80kg of the ore is?<br><br>(Fe = 56, O = 16)",
+        "explanation": "2Fe<sub>2</sub>O<sub>3</sub>→ 4Fe + 3O<sub>2</sub><br>320g 224g 96g<br>(70) / (100) x (80) / (1) 56g<br>if 0.32kg of Fe<sub>2</sub>9<sub>3</sub>contains 0.224 kg<br>Then 56kg will contain (56 x 0.224) / (0.32) =39.2 kg",
+        "correctIndex": 1,
+        "options": [
+            "35.0 kg",
+            "39.2 kg",
+            "70.0 kg",
+            "78.4 kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1991,
+        "question": "In two separate experiments, 0.36g and 0.71g of chlorine combined with a metal X to give Y and Z respectively. An analysis showed that Y and Z contain 0.20g and 0.40g of X respectively. The data above represents the law of ?",
+        "explanation": "0.36g of Cl combines with 0.2g of x<br><br>1g of Cl will combine with \\(\\frac{1 \\times 0.2}{0.32}\\) = 0.56<br><br>0.71g of U combines with 0.49g of x<br><br>1g of U will combine with \\(\\frac{1 \\times 0.4}{71}\\) = 0.56<br><br>Ratio 0.56 : 0.56 = 1:1",
+        "correctIndex": 2,
+        "options": [
+            "multiple proportion",
+            "conservation of mass",
+            "constant composition",
+            "reciprocal proportion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1991,
+        "question": "<p>30cm\\(^3\\) of oxygen at 10 atmospheres pressure is placed in a 20 cm\\(^3\\) container. Calculate the new pressure if temperature is kept constant?</p>",
+        "explanation": "<p>P\\(_1\\)V\\(_1\\) = P\\(_2\\)V\\(_2\\) (where T is kept constant)</p><p>30 x 10 = P\\(_2\\) x 20</p><p>P\\(_2\\) = \\(\\frac{30 \\times 10}{20}\\)</p><p>= 15.0 atm</p>",
+        "correctIndex": 1,
+        "options": [
+            "6.7 atm",
+            "15.0 atm",
+            "60.0 atm",
+            "66. 0 atm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1991,
+        "question": "Calculate the volume of carbon (IV)oxide measured at s.t.p, produced when 1 kg of potassium hydrogen trioxocarbonate (IV) is totally decomposed by heat?<br><br>(G.M.V. at s.t.p 22.4 dm<sup>3</sup>, K = 39, O = 16, C = 12, H = 1)",
+        "explanation": "2KHCOdm<sub>3</sub>→ K<sub>2</sub>CO<sub>3</sub>+ H<sub>2</sub>O + CO<sub>2</sub><br>2(39 + 1 + 12 + 48) 22.4 dm<sup>3</sup><br>200 g 22.4 dm<sup>3</sup>of CO<sub>2</sub><br>1000 g (1000) / (200) x 22.4 = 112 dm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "28 dm<sup>3</sup>",
+            "56 dm<sup>3</sup>",
+            "112 dm<sup>3</sup>",
+            "196 dm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1991,
+        "question": "A given quantity of a gas occupies a volume of 228 cm<sup>3</sup>at a pressure of 750mm Hg. What will be its volume at atmospheric pressure?",
+        "explanation": "P<sub>1</sub>V<sub>1</sub>= P<sub>2</sub>V<sub>2</sub>∴ 750 x 228 = 760 V<sub>2</sub><br>V<sub>2</sub>= (750 x 228 cm<sup>3</sup>) / (760) = 225 cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "220 cm<sup>3</sup>",
+            "225 cm<sup>3</sup>",
+            "230 cm<sup>3</sup>",
+            "235 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1991,
+        "question": "A sample of a gas exerts a pressure of 8.2 atm when confined in a 2.93 dm<sup>3</sup>container at 20°C. The number of moles of gas in the sample is?<br><br>(R = 0.082 litre atm / deg mole)",
+        "explanation": "PV = nRT<br>2.93 x 8.2 = 0.082 x 293 xn<br>∴ n = (2.93 x8.2) / (0.082 x 293)<br>n = 1",
+        "correctIndex": 0,
+        "options": [
+            "1.00",
+            "2.00",
+            "3.00",
+            "4.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1991,
+        "question": "<p>Atoms of element X (with 2 electrons in the outer shell). combine with atoms of Y (with 7 electrons in the outer shell). Which of the following statements is FALSE? The compound formed?</p>",
+        "explanation": "<p>The compound formed by a mixture of X and Y will be \\(XY_{2}\\) not XY.</p>",
+        "correctIndex": 0,
+        "options": [
+            "has formula XY",
+            "is likely to be ionic",
+            "contains X<sup>2+</sup>ions",
+            "contains Y<sup>-</sup>ions"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1991,
+        "question": "The electronic configuration of an elements is 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>3</sup>. How many unpaired electrons are there in the element?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1991,
+        "question": "The ions X<sub>-</sub>and Y<sub>+</sub>are isoelectronic, each containing a total of 10 electrons.<br>How many protons are in the nuclei of the neutral atoms of X and Y respectively?",
+        "explanation": "X- means one excess electron, hence 9 protons while Y +/- means one deficit electron hence 11 protons X and Y = 9 and 11",
+        "correctIndex": 3,
+        "options": [
+            "10 and 10",
+            "9 and 9",
+            "11 and 9",
+            "9 and 11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1991,
+        "question": "Which of the following represents the type of bonding present in ammonium chloride molecule?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Ionic only",
+            "Covalent only",
+            "Ionic and dative covalent",
+            "Dative covalent only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1991,
+        "question": "Which of the following is arranged in order of increasing electronegativity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Chlorine, aluminium, magnesium, phosphorus, sodium",
+            "sodium, magnesium, aluminium, phosphorus, chlorine",
+            "Chlorine, phosphorus, phosphorous, aluminium, magnesium, sodium",
+            "Sodium, chlorine, phosphorus, magnesium, aluminium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1991,
+        "question": "A quantity of air was passed through a weighed amount of alkaline pyrogallol. An increase in the weight of the pyrogallol would result from the absorption of?",
+        "explanation": "Alkaline pyrogallol absorbs 9<sub>2</sub>",
+        "correctIndex": 3,
+        "options": [
+            "nitrogen",
+            "neon",
+            "argon",
+            "oxygen"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1991,
+        "question": "Which of the following ions is a pollutant in drinking water even in trace amounts?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Ca<sup>2+</sup>",
+            "Hg<sup>2+</sup>",
+            "Mg<sup>2+</sup>",
+            "Fe<sup>2+</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1991,
+        "question": "The solubility of copper (II) tetraoxosulphate (Iv) is 75g in 100g of water at 100°C and 25g in 100g of water at 30°C. What mass of the salt would crystallize, if 50g of copper (II) tetraoxosulphate (VI) solution saturated at 100°C were cooled to 30°C ?",
+        "explanation": "solute + solvent = solution<br><br>at 100<sub>o</sub>C; 75g + 100g = 175g<br><br>at30<sub>o</sub>C; \\(\\frac{25g}{50g}\\) + 100g = 125g<br><br>From 100<sub>o</sub>C - 30<sub>o</sub>C; 175g CuSO<sub>4</sub>ppt 50g<br><br>From 100<sub>o</sub>C - 30<sub>o</sub>C; 50g CuSO<sub>4</sub>ppt \\(\\frac{50 \\times 50}{175}\\) = 14.3",
+        "correctIndex": 3,
+        "options": [
+            "57.5",
+            "42.2",
+            "28.6",
+            "14.3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1991,
+        "question": "A sample of temporary hard water can be prepared in the laboratory by?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "disolving calcium chloride in distilled water",
+            "saturating lime water with carbon (IV) oxide",
+            "saturating distilled water with calcium hydroxide",
+            "dissolving sodium hydrogen trioxocarbonate (IV) in some distilled water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1991,
+        "question": "A property of a colloidal dispersion which a solution does not have is?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the Tyndall effect",
+            "homogeneity",
+            "osmotic pressure",
+            "surface polarity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1991,
+        "question": "50 cm<sup>3</sup>of sulphur (IV) oxide, 800 cm<sup>3</sup>of ammonia, 450 cm<sup>3</sup>of hydrogen chloride, 1.0 cm<sup>3</sup>of at 15°C. Which of the following is suitable for demonstrating the fountain experiment?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Sulphur (IV) oxide hydrogen chloride",
+            "Carbon (IV) oxide and amonia",
+            "Amonia and hydrogen chloride",
+            "Carbon (IV) oxide and surphur (IV) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1991,
+        "question": "How many structural isomers can be written for the alkyl bromide, C<sub>4</sub>H<sub>9</sub>Br?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "3",
+            "4",
+            "6",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1991,
+        "question": "What volume of CO<sub>2</sub>at s.t.p would be obtained by reacting trioxocarbonate (IV) with excess acid?<br><br>(G.M.V at s.t.p = 22.4 dm<sup>3</sup>)",
+        "explanation": "Na<sub>2</sub>CO<sub>3</sub>+ 2HCC → 2NaII + H<sub>2</sub>O<br>1000 cm<sup>3</sup>IM Na<sub>2</sub>CO<sub>3</sub>contains 22400 cm<sup>3</sup><br>10cm<sup>3</sup>IM Na<sub>2</sub>CO<sup>3</sup>will contain (10) / (100) x 224<br>=224 cm<sup>3</sup><br>10 cm<sup>3</sup>0.1 Na<sub>2</sub>CO<sup>3</sup>will contain (o.1 x 224) / (1) = 22.4 cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2.240 cm<sup>3</sup>",
+            "22.40 cm<sup>3</sup>",
+            "224.0 cm<sup>3</sup>",
+            "2240 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1991,
+        "question": "If a current of 1.5 A is passed for 4.00 hours through a molten tin salt and 13.3g of tin is deposited, what is the oxidation state of the metal in the salt?<br><br>(Sn = 118.7, F = 96500 C mol<sup>-1</sup>)",
+        "explanation": "Q = It = 1.5 x 4 x 60 x 60<br>13.3 g = 216000 C<br>118.7 g = (216000 x118.7) / (13.3) = 1927759.4 C<br>06500 C - 1 mole<br>1927759.4 C = (1927759.4) / (96500) = 1.998 = 2",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1991,
+        "question": "Which of the following equimolar solutions, Na<sub>2</sub>CO<sub>3</sub>Na<sub>2</sub>SO<br><sub>4</sub>CI FeCI<sub>3</sub>CH<sub>3</sub>COONa,<br>have pH greater than 7?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "FeCI<sub>3</sub>and NH<sub>4</sub>CI",
+            "Na<sub>2</sub>CO<sub>3</sub>, CH<sub>3</sub>COONa and Na,Na<sub>2</sub>SO<sub>4</sub>",
+            "Na<sub>2</sub>CO<sub>3</sub>and CH<sub>3</sub>COONa",
+            "FeCI<sub>3</sub>, CH<sub>3</sub>COONa and NH<sub>4</sub>CI"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1991,
+        "question": "MnO<sup>-</sup><sub>4</sub>+ 8H<sup>+</sup>+ ne → Mn<sup>++</sup>+ 4H<sub>2</sub>O. Which is the value of n in the reaction above?",
+        "explanation": "MnO<sup>-</sup><sub>4</sub>+ 8H<sup>+</sup>+ ne<sup>-</sup>→ Mn<sup>++</sup>+ 4H<sub>2</sub>O<br><br>Since Mn has 7 electrons on one side and 2 electrons on the other side. The value of ne<sup>-</sup>is 5.",
+        "correctIndex": 3,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1991,
+        "question": "<p>2H2S(g) + SO2(g) → 3S(s) + 2H2O(I). The above reaction is?</p>",
+        "explanation": "<p>In the above reaction, H\\(_2\\)S is oxidized to H\\(_2\\)O while SO\\(_2\\) is reduced to S. Hence, H\\(_2\\)S is the reductant while SO\\(_2\\) is the oxidant.</p>",
+        "correctIndex": 1,
+        "options": [
+            "a redox reaction H<sub>2</sub>S is the oxidant and SO<sub>2</sub>is the reductant",
+            "a redox reaction in which SO<sub>2</sub>is the oxidant and H<sub>2</sub>S is the reductant",
+            "not a redox reaction because there is no oxidant in reaction equation",
+            "not a redox because there is no reductant in the reaction equation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1991,
+        "question": "Magnesium (IV) oxide is known to hasten the decomposition of hydrogen peroxide. Its main action is to?",
+        "explanation": "As a catalyst, MnO<sub>2</sub>lowers activation energy of a reaction.",
+        "correctIndex": 2,
+        "options": [
+            "increase the surface area of the reactants",
+            "increase the concntration of the reactants",
+            "lower the activation energy for the reaction",
+            "lower the heat of reaction, ∆H, for the reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1991,
+        "question": "<p>1.1 g of CaCI2 dissolved in 50 cm3 of water caused a rise in temperature of3.4°C. The heat of reaction, ∆H for CaCI2 in kj per mole is?<br>\n<br>\n(Ca = 40, CI = 35.5, specific heat of water is 4.18 jk-1</p>",
+        "explanation": "<p>Q = mct = (50 x 4.18 x 3.4) / (1000)<br>\n= 0.71606 kj<br>\n1.1 g of call2 contains<br>\n(1.1) / (111) = 0.01 moles of call2<br>\nIf 0.01 liberates 0.7106 RS<br>\n1 will liberate (0.7106 x 1) / (0.01)<br>\nExothermic = 71.06 = -71.1</p>",
+        "correctIndex": 0,
+        "options": [
+            "-71.1",
+            "-4.18",
+            "+71.1",
+            "+111.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1991,
+        "question": "NO<sub>(g)</sub>+ CO<sub>(g)</sub>↔ (1)/(2)N<sub>2(g)</sub>+ CO<sub>2(g)</sub>∆H = -89.3 kj.<br>What conditions would favour maximum conversion of nitrogen (II) oxide and carbon (II) oxide in the reaction above?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Low temperature and high pressure",
+            "High temperature and low pressure",
+            "High temperature and high pressure",
+            "Low temperature and low pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1991,
+        "question": "<p>Which of the following equilibria is unaffected by a pressure change?</p>",
+        "explanation": "<p>The equilibrium concentrations of the products and reactants do not directly depend on the total pressure of the system. They may depend on the partial pressures of the products and reactants, but if the number of moles of gaseous reactants is equal to the number of moles of gaseous products, pressure has no effect on equilibrium.</p>",
+        "correctIndex": 1,
+        "options": [
+            "2NaCI(s) ↔ 2Na<sub>(I)</sub>+ CI<sub>2(g)</sub>",
+            "H<sub>2(g)</sub>+ I<sub>2(g)</sub>↔ 2HI<sub>(g)</sub>",
+            "2O<sub>3(g)</sub>↔ 3O<sub>2(g)</sub>",
+            "2NO<sub>2(g)</sub>↔ N<sub>2</sub>O<sub>4(g)</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1991,
+        "question": "Which of the following gases will rekindle a brightly glowing splint?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "NO<sub>2</sub>",
+            "NO",
+            "N<sub>2</sub>O",
+            "CI<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1991,
+        "question": "Which of the following salts can be melted without decomposition?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Na<sub>2</sub>CO<sub>3</sub>",
+            "CaCO<sub>3</sub>",
+            "MgCO<sub>3</sub>",
+            "ZnCO<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1991,
+        "question": "Oxygen gas can be prepared by heating?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "ammonium trioxonitrate (V)",
+            "ammonium trioxonitrate (III)",
+            "ppotassium trioxonitrate (V)",
+            "mamgamese (IV) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1991,
+        "question": "Addition of aqueous ammonia to a solution of Zn<sup>++</sup>gives a white precipitate which dissolves in an excess of ammonia because?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "zinc is amphoteric",
+            "zinc hydroxide is readily soluble",
+            "zinc forms a complex which is readily soluble in excess ammonia",
+            "ammonia solution is a strong base"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1991,
+        "question": "Which of the following, in clear solution, forms a white precipitate when carbon (IV) oxide is bubbled into it for a short time?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "KOH",
+            "NaOH",
+            "Ca(OH)<sub>2</sub>",
+            "AI(OH)<sub>3</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1991,
+        "question": "Which of the following metals can be prepared in samples by the thermal decomposition of their trioxonitrate (V) salts?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Copper and mercury",
+            "Silver and copper",
+            "Mercury and silver",
+            "Magnesium and mercury"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1991,
+        "question": "Copper (II) tetraoxosulphate (IV) is widely used as a?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "fertilizer",
+            "fungicide",
+            "disinfectant",
+            "purifier"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1991,
+        "question": "Which of the following compounds can exist as geometric isomers?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2-methylbut-2ene",
+            "But-2-ene",
+            "But-1-ene",
+            "CI-C-Br"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1991,
+        "question": "How many grams of bromine will be required to completely react with 10 g of propyne?<br><br>(C = 12, H = 1, Br = 80)",
+        "explanation": "C<sub>3</sub>H<sub>4</sub>+ 2Br<sub>2</sub>- C<sub>3</sub>Br<sub>4</sub>+ 2H<sub>2</sub><br>(36 + 4) (4 X 80)<br>40 g of C<sub>3</sub>H<sub>4</sub>reacts with 320 g of Br<br>10 \" \" will react with<br>(10)/(40) x (320) /(1) = 80g",
+        "correctIndex": 3,
+        "options": [
+            "20 g",
+            "40 g",
+            "60 g",
+            "80 g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1991,
+        "question": "Ethene when passed into concentrated H<sub>2</sub>SO<sub>4</sub>is rapidly absorbed. The product is diluted with water and then warmed to produce?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ethanol",
+            "diethyl ether",
+            "ethanal",
+            "diethyl sulphate"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1991,
+        "question": "One advantages of detergents over soap is that detergents?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "are easier to maufacture",
+            "foam more than soap",
+            "form soluble salts with hard water",
+            "are able to deter germs more than soap"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1991,
+        "question": "A certain liquid has a high boiling point. It is viscous, non-toxic, miscible with water being very hygroscopic. This liquid is most likely to be?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>HO",
+            "CH<sub>3</sub>CHOHCH<sub>3</sub>",
+            "CH<sub>3</sub>CH<sub>2</sub>CHOHCH<sub>3</sub>",
+            "CH<sub>2</sub>OHCHOHCH<sub>2</sub>OH"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1991,
+        "question": "CH<sub>3</sub>-CH-CH<sub>3</sub><br>CH<sub>2</sub>CI<br><br>Is known as?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1-chloro-2-methylbutane",
+            "1-chloro-2-methylpropane",
+            "2-chloromethylpropane",
+            "1-chloro-2, 2-dimethylethane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1991,
+        "question": "Which of the following statements is TRUE of the complete hydrolysis of a glycerine by sodium hygroxide?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "3 moles ofNaOH are required for each mole of glyceride",
+            "3 moles of glycerol are produced",
+            "Only one mole of soap is formed",
+            "concentrated H<sub>2</sub>SO<sub>4</sub>is essential for the completion of the reaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1991,
+        "question": "Which of the following are the products of the reaction between CH<sub>3</sub>COOH and CI<sub>2</sub>in sunlight?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "CICH<sub>2</sub>COOH + HCI",
+            "CH<sub>3</sub>COCI + HOCI",
+            "CH<sub>3</sub>COOCI + HCI",
+            "CH<sub>3</sub>COCI + HO<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1991,
+        "question": "Which of these is an acid salt?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "K<sub>2</sub>SO<sub>4-</sub>.AI<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>.24H<sub>2</sub>O",
+            "CuCO<sub>3</sub>.Cu(OH)<sub>2</sub>",
+            "NaHS",
+            "CaOCI<sub>2-</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25639648092_re.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Element Y is Silicon </p><p>Element Z is Chlorine</p><p><strong>Silicon</strong> reacts with <strong>chlorine</strong> to form the covalent compound SiCl4</p>",
+        "correctIndex": 1,
+        "options": [
+            "ionic",
+            "covalent",
+            "dative",
+            "metallic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15668679752_rr.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Sulphur (IV) oxide and hydrogen chloride.",
+            "Carbon (IV) oxide and ammonia",
+            "Ammonia and hydrogen chloride",
+            "Carbon (IV) oxide and Sulphur (IV) oxide"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2848851824_rrr.jpg\" class=\"img-fluid\">",
+        "explanation": "3.0 x 10<sup>-5</sup>x 4 = 1.2 x 10<sup>-4</sup><br>.: The rate increase by a factor of 4",
+        "correctIndex": 2,
+        "options": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1991,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28488522860_rrrr.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "litmus psper",
+            "potassium heptaoxodichromate (IV) paper",
+            "lead (ll) trioxonitrate (V) paper",
+            "universal indicator paper"
+        ],
+        "type": "objectives"
+    }
+]

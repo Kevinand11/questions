@@ -1,0 +1,722 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2001,
+        "question": "Which of the following physical processes cannot be explained by the molecular theory of matter?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "evaporation",
+            "thermal conduction",
+            "radiation of heat",
+            "convectional current of fliuds"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2001,
+        "question": "A spring balance,which is suspended from the roof of a lift, carries a mass of 1kg at its free end. If the lift accelerates upwards at 2.5ms<sup>-2</sup>, determine the reading on the spring balance. [g = 10ms<sup>-2</sup>]",
+        "explanation": "F = ma<br><br>= 1 x 2.5 = 2.5N<br><br>weight = mg = 1 x 10 = 10N<br><br>Reading = F + Wt = 2.5 + 10<br><br>= 12.5N",
+        "correctIndex": 1,
+        "options": [
+            "24.0N",
+            "12.5N",
+            "7.5N",
+            "4.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2001,
+        "question": "An object weight 10N immersed in a liquid displaces a quantity of the liquid. If the liquid displaced weighs 6N, determine the upthrust of the object",
+        "explanation": "Upthrust = Weight of fluid displayed = 6N",
+        "correctIndex": 2,
+        "options": [
+            "20N",
+            "10N",
+            "6N",
+            "4N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2001,
+        "question": "Which of the following statements about pressure is not correct? pressure",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increases with an increase in surface area",
+            "decreases with an increase in surface area",
+            "increases with a decrease in surface area",
+            "increases with an increase in the applied force"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2001,
+        "question": "The apparent weight of a body fully immersed in water is 32N and its weight in air is 96N. Calculate the volume of the body. [Density of water = 1000kgm<sup>-3</sup>, g = 10ms<sup>-2</sup>]",
+        "explanation": "Upthrust = 96 - 32 = 64N<br><br>mass(m) = \\(\\frac{64}{10} = 6.4 kg\\)<br><br>volume = \\(\\frac{mass}{Density} = \\frac{6.4}{1000}\\)<br><br>= 6.4 x 10<sup>-3</sup>m<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "8.9 x 10<sup>-3</sup>m<sup>3</sup>",
+            "6.4 x 10<sup>-3</sup>m<sup>3</sup>",
+            "3.2 x 10<sup>-3</sup>m<sup>3</sup>",
+            "3.0 x 10<sup>-3</sup>m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2001,
+        "question": "A block weighing 15N rests on a flat surface and a horizontal force of 3N is exerted on it. Determine the friction force on the block",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.3N",
+            "0.5N",
+            "3.0N",
+            "5.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2001,
+        "question": "Which of the following equations represents the distance x, travelled by a body moving on a straight road with a constant speed? [The other symbol have their usual meanings]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "x = Ut + \\(\\frac{1}{2}t^2\\)",
+            "x = Ut",
+            "x = \\(\\frac{V^2 - U^2}{2a}\\)",
+            "x = -\\(\\frac{1}{2} at^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2001,
+        "question": "The amplitude of the motion of a body performing simple harmonic motion decreases with time because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "friction force dissipate the energy of motion",
+            "the frequency of oscillation varies with time",
+            "the period of oscillation varies with time",
+            "energy is supplied by some external agency"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2001,
+        "question": "The amplitude of a particle executing simple harmonic motion in 5cm while its angular frequency is 10 rad s<sup>-1</sup>. calculate the magnitude of the maximum acceleration of the particle",
+        "explanation": "amax = \\(\\omega^2 r = 10^2 \\times \\frac{5}{100} = 5ms^{-2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "0.25ms<sup>-2</sup>",
+            "0.50ms<sup>-2</sup>",
+            "2.00ms<sup>-2</sup>",
+            "5.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2001,
+        "question": "The time rate of change of momentum is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "impulse",
+            "force",
+            "power",
+            "pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2001,
+        "question": "Which of the following statements about elastic collision is correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "momentum is lost due to the sound produced",
+            "loss of momentim is equal to loss in kinetic energy",
+            "both kinetic energy and momentum are conserved",
+            "kinetic energy is lost while momentum is conserved"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2001,
+        "question": "Electrical resistance is a property of an electrical energy to be converted into",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "mechanical energy",
+            "heat energy",
+            "magnetic energy",
+            "chemical energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2001,
+        "question": "A simple machine with an efficiency of 75% lifts a load of 5000N when a force of 500N is applied to it. Calculate the velocity ratio of the machine",
+        "explanation": "M.A = \\(\\frac{load}{effort} \\frac{5000N}{500N} = 10\\)<br><br>V.R = \\(\\frac{M.A \\times 100}{V} = \\frac{10 \\times 100}{75} = 13.3\\)",
+        "correctIndex": 1,
+        "options": [
+            "10.0",
+            "13.3",
+            "17.5",
+            "25.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2001,
+        "question": "A screw jack with a Tommy bar of length 12cm is used to raise a car through a vertical height of 25cm by turning the Tommy bar through 50 revolutions. Calculate the approximate velocity ratio of the jack [\\(\\pi = 3.142\\)]",
+        "explanation": "P = \\(\\frac{25}{50} = 0.5\\)<br><br>V.R = \\(\\frac{2\\pi D}{p} = \\frac{2 \\times 3.142 \\times 12}{0.5}\\)<br><br>= 151",
+        "correctIndex": 3,
+        "options": [
+            "21",
+            "38",
+            "48",
+            "151"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4288835607_maths-15.jpg\" class=\"img-fluid\">",
+        "explanation": "E x 3 = 80 x 0.5<br><br>E3 = 40<br><br>E = \\(\\frac{40}{3} = 13.3N\\)",
+        "correctIndex": 3,
+        "options": [
+            "32.0N",
+            "26.7N",
+            "16.0N",
+            "13.3N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2001,
+        "question": "A resistance thermometer has a resistance of 20\\(\\Omega\\) at 0<sup>o</sup>C and 85\\(\\Omega\\) at 100<sup>o</sup>C. If its resistance is 52\\(\\Omega\\)in a medium, calculate the corresponding temperature",
+        "explanation": "85\\(\\Omega\\) ........100<sup>o</sup>C<br><br>52\\(\\Omega\\) ........\\(\\theta\\)<sup>o</sup>C<br><br>20\\(\\Omega\\) ........0<sup>o</sup>C<br><br>\\(\\frac{52 - 20}{85 - 20} = \\frac{\\theta - 0}{100 - 0}\\)<br><br>\\(\\theta = \\frac{32 \\times 100}{65} = 49.2^oC\\)",
+        "correctIndex": 0,
+        "options": [
+            "49.2<sup>o</sup>C",
+            "60.6<sup>o</sup>C",
+            "80.0<sup>o</sup>C",
+            "84.7<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2001,
+        "question": "A given mass of an ideal gas has a pressure of 500Nm<sup>-2</sup>at -13<sup>o</sup>C. If its volume remains constant. Calculate its pressure at 247<sup>o</sup>C.",
+        "explanation": "\\(P_2 = \\frac{p_1 \\times T_2}{T_1} = \\frac{500 - 520}{65}\\)<br><br>= 1000Nm<sup>-2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "25Nm<sup>-2</sup>",
+            "50Nm<sup>-2</sup>",
+            "500Nm<sup>-2</sup>",
+            "1000Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2001,
+        "question": "The volume of an ideal gas at a pressure of 77cmHg and temperature 60<sup>o</sup>C is 24cm<sup>3</sup>. If the temperature and pressure are increased to 98<sup>o</sup>C<br>and 81cmhg respectively, calculate the new volume of the gas",
+        "explanation": "V<sub>2</sub>= \\(\\frac{P_1V_1T_2}{P_2T_1} = \\frac{77 \\times 240 \\times 371}{81 \\times 333}\\)<br><br>= 254.2cm<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "411.5cm<sup>3</sup>",
+            "267.1cm<sup>3</sup>",
+            "254.2cm<sup>3</sup>",
+            "112.7cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2001,
+        "question": "The amount of heat given out or absorbed when a substance changes its state at a constant temperature is known as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "latent heat",
+            "heat capacity",
+            "specific latent heat",
+            "specific heat capacity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2001,
+        "question": "Which of the following physical qualities affects the saturated vapour pressure of a liquid ?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "temperature",
+            "volume",
+            "mass",
+            "density"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2001,
+        "question": "Humidity is used to describe the amount of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "air in water vapour",
+            "cloud available in the atmosphere",
+            "air in equal volume of cloud",
+            "water vapour in the amosphere"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2001,
+        "question": "Surface waves travelling in deep water at 15ms<sup>-1</sup>are incident at a shallow water boundary. If the angles of incidence and refraction are 45<sup>o</sup>and 30<sup>o</sup>respectively. Calculate the speed of the waves in shallow water",
+        "explanation": "n = \\(\\frac{\\sin 45}{\\sin 30} = 1.4142\\)<br><br>n = \\(\\frac{15m/s}{x}\\)<br><br>x = \\(\\frac{15}{1.4142}\\) = 10.6m/s",
+        "correctIndex": 2,
+        "options": [
+            "8.1ms<sup>-1</sup>",
+            "10.0ms<sup>-1</sup>",
+            "10.6ms<sup>-1</sup>",
+            "22.5ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2001,
+        "question": "An incident ray is reflected normally by a plane mirror onto a screen where it forms a bright spot. The mirror and screen are parallel and 1m apart. If the mirror is rotated through 5<sup>o</sup>, calculate the displacement of the spot",
+        "explanation": "tan 10<sup>o</sup>= \\(\\frac{x}{1}\\)<br><br>x = 1 tan 10<sup>o</sup>= 0.176m<br><br>= 17.6cm",
+        "correctIndex": 3,
+        "options": [
+            "8.7cm",
+            "10.0cm",
+            "15.4cm",
+            "17.6cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2001,
+        "question": "Convex spherical mirrors are preferred to plane mirrors as driving mirrors because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the image produce is upright and clearly visible",
+            "it provides a wider field of view",
+            "the image produce is errect and diminished",
+            "the image produced is not laterally inverted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2001,
+        "question": "An object is placed 20cm from a lens. If an image is formed on a screen 260cm away from the lens, calculate the magnification of the image",
+        "explanation": "M = \\(\\frac{v}{u} = \\frac{260}{20} = 13\\)",
+        "correctIndex": 3,
+        "options": [
+            "28",
+            "26",
+            "24",
+            "13"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2001,
+        "question": "A piece of cloth appears green in sunlight. When held in red light, it will appear",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "green",
+            "blue",
+            "red",
+            "black"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2001,
+        "question": "Dispersion of white light by a glass prism occurs because",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "white light consist of a mixture of seven different colour",
+            "the refractive index of glass is different from each constituent colour of white light",
+            "the speed of each colour of light in the glass is proportional to the refractive index of glass for each colour",
+            "the speed of each colour of light in the glass is proportional to the angle of refraction in he prism"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2001,
+        "question": "Which of the following statements about sound is correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "when sound travels from air to a denser medium, it is refracted away from the normal at the point of incidence",
+            "sound travels faster in air than in water",
+            "the wavelength of sound changes when it travels from to water",
+            "the frequency of it travels from air to water"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7148088645_maths-29.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "stationary and lonitudinal",
+            "stationary and mechanical",
+            "mechanical and longitudinal",
+            "progessive and transverse"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11436944840_maths-29.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "proportional to the mass per unit length of the wire",
+            "equal to the frequency of the tuning fork",
+            "inversely proportional to the length of the wire",
+            "proportional to the sqare root of the tension"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2001,
+        "question": "If the frequency of the tuning fork at resonance is 256Hz, calculate the frequency of vibration of the wire when the tension in he wire is increased to 196N",
+        "explanation": "\\(\\frac{f}{256} = \\sqrt{\\frac{196}{100}}\\)<br><br>f = \\(\\sqrt{\\frac{256^2 \\times 196}{100}}\\)<br><br>= 356.4Hz",
+        "correctIndex": 2,
+        "options": [
+            "130.6Hz",
+            "182.9Hz",
+            "358.4Hz",
+            "501.8Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2001,
+        "question": "The magnitude of the gravitational force between two particles 0.10m apart is 10N. If the distance between them is increased to 0.20m, calculate the magnitude of the new force",
+        "explanation": "\\(g_1 = \\frac{Gm_1m_2}{r^2_1}\\)<br><br>\\(m_1m_2 = \\frac{gr^2_1}{G}\\)<br><br>\\(g_2 = \\frac{Ggr^2_1}{Gr^2_2} = \\frac{10 \\times 0.1^2}{0.2^2}\\)<br><br>= 2.5N",
+        "correctIndex": 3,
+        "options": [
+            "40.0N",
+            "20.0N",
+            "5.0N",
+            "2.5N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2001,
+        "question": "As the plates of a charged variable capacitor are moved closer together, the potential difference between them",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increased",
+            "decrease",
+            "remains the same",
+            "is doubled"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28592425240_maths-34.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{1}{c} = \\frac{1}{6} + \\frac{1}{6} + \\frac{1}{6}\\)<br><br>= \\(\\frac{1 + 1 + 1}{6} = \\frac{3}{6} = \\frac{1}{2}\\)<br><br>= 2\\(\\mu F\\)",
+        "correctIndex": 0,
+        "options": [
+            "2\\(\\mu F\\)",
+            "6\\(\\mu F\\)",
+            "18\\(\\mu F\\)",
+            "216\\(\\mu F\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7148107495_maths-34.jpg\" class=\"img-fluid\">",
+        "explanation": "Energy = \\(\\frac{1}{2}CV^2 = \\frac{1}{2} \\times 2 \\times 10^{-6} \\times 100^2\\)<br><br>= 1.0 x 10<sup>-2</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "2.0 x 10<sup>-4</sup>J",
+            "1.0 x 10<sup>-4</sup>J",
+            "9.0 x 10<sup>-2</sup>J",
+            "1.0 x 10<sup>-2</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2001,
+        "question": "Three identical lamps each power 100W are connected in parallel across a potential difference of 250V. Calculate the current in the circuit",
+        "explanation": "P = IV<br><br>I = \\(\\frac{P}{V} = \\frac{3 \\times 100}{250} = 1.2A\\)",
+        "correctIndex": 2,
+        "options": [
+            "7.5A",
+            "2.5A",
+            "1.2A",
+            "0.8A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2001,
+        "question": "An electric bulb is rated 60W, 220V. Calculate the resistance of its filament when it is operating normally",
+        "explanation": "P = \\(\\frac{v^2}{P} = \\frac{220^2}{100} = 806.7\\Omega\\)",
+        "correctIndex": 3,
+        "options": [
+            "296.7\\(\\Omega\\)",
+            "400.0\\(\\Omega\\)",
+            "512.2\\(\\Omega\\)",
+            "806.7\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2001,
+        "question": "The Earth's magnetic equator passes through Jos in Nigeria. At Jos. the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "angle of variation is zero",
+            "magnetic declination is 90<sup>o</sup>",
+            "angle of dip is zero",
+            "horizontal component of the Earth's magnetic field is zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2001,
+        "question": "Which of the following statements about magnetic lines of force is not correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a magnnetic line of force is an imaginary line which the north pole of a magnet would describe if it is free to moves",
+            "magnetic lines of force do not cross one another",
+            "magnetic lines of force are closely packed together at neutral point",
+            "the presence of magnetic lines of force in a region indicates the presence of a magnetic field"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2001,
+        "question": "The material used for constructing the core of an electromagnet is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "iron",
+            "carbon",
+            "copper",
+            "steel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24303624303_maths-41.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.100J",
+            "0.050J",
+            "0.010J",
+            "0.005J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28592542900_maths-42.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(X_L = 2 \\pi fL = 2 \\times \\pi \\times 60 \\times 0.7 = 264\\Omega \\)",
+        "correctIndex": 2,
+        "options": [
+            "132\\(\\Omega\\)",
+            "214\\(\\Omega\\)",
+            "264\\(\\Omega\\)",
+            "269\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2001,
+        "question": "Production of x-ray tube begins with",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "photo electric emission",
+            "collision of electrons",
+            "thermionic emission",
+            "field emission of electrons"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2001,
+        "question": "A nitrogen nucleus bombarded with an alpha particle produces an oxygen nucleus and a proton. The nuclear reaction for this process is \\(^4_2H + ^{14}_2N \\to ^{17}_{8}O + ^1_1H + Q\\). Which of the following statements about the reaction is not correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the bombardment results into a nucleus with greater proton number",
+            "it is an induced nuclear reaction",
+            "it is a natural radioactive decay",
+            "the sum of the final nucleon numbers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2001,
+        "question": "Electrons passing through crystals are diffracted because they",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "are repelled by the atoms in the crystal",
+            "are attracted by the atoms in the crystals",
+            "possess wave properties",
+            "are particles"
+        ],
+        "type": "objectives"
+    }
+]

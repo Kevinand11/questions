@@ -1,0 +1,786 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2010,
+        "question": "Simplify 0.000215 x 0.000028 and express your answer in standard form",
+        "explanation": "0.000215215 x 0.000028<br><br>= 215 x 10<sup>-4</sup>x 28 x 10<sup>-4</sup><br><br>= 215 x 28 x 10<sup>-6-6</sup><br><br>= 6020 x 10<sup>-12</sup><br><br>= 6.020 x 10<sup>3</sup>x 10<sup>-12</sup><br><br>= 6.02 x 10<sup>3 - 12</sup><br><br>= 6.02 x 10<sup>-9</sup>",
+        "correctIndex": 3,
+        "options": [
+            "6.03 x 10<sup>9</sup>",
+            "6.02 x 10<sup>9</sup>",
+            "6.03 x 10<sup>-9</sup>",
+            "6.02 x 10<sup>-9</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2010,
+        "question": "Factorize: x + y - ax = ay",
+        "explanation": "x + y - ax = ay<br><br>= (x + y) -a(x + y) = (x + y)(1 - a)",
+        "correctIndex": 2,
+        "options": [
+            "(x - y)(1 - a)",
+            "(x + y)(1 + a)",
+            "(x + y)(1 - a)",
+            "(x - y)(1 + a)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2010,
+        "question": "A car uses one litre of petrol for every 14km. If one of petrol cost N63.00, how far can the car go with N900.00 worth of petrol?",
+        "explanation": "1 litre = N63.00<br><br>xlitres = N900.00<br><br>x x N63 = N900 x 1 litre<br><br>x = \\(\\frac{900}{63} \\times litre\\)<br><br>x = \\(\\frac{100}{7}\\) litres<br><br>Also, 1 litre = 14km<br><br>\\(\\frac{100}{7}\\) = y<br><br>y x 1 litre = \\(\\frac{100litre}{7}\\) x 14km<br><br>y = 20km",
+        "correctIndex": 3,
+        "options": [
+            "420km",
+            "405km",
+            "210km",
+            "200km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2010,
+        "question": "Correct 0.002473 to 3 significant figure",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.002",
+            "0.0024",
+            "0.00247",
+            "0.0025"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2010,
+        "question": "Simplify 1\\(\\frac{1}{2} + 2\\frac{1}{3} \\times \\frac{3}{4} - \\frac{1}{2}\\)",
+        "explanation": "1\\(\\frac{1}{2} + 2\\frac{1}{3} \\times \\frac{3}{4} - \\frac{1}{2}\\)<br><br>\\(\\frac{3}{2} + \\frac{7}{3} \\times \\frac{3}{4} - \\frac{1}{2} = \\frac{3}{2} + \\frac{7}{4} - \\frac{1}{2}\\)<br><br>= \\(\\frac{6 + 7 - 2}{4} = \\frac{11}{4}\\)<br><br>= 2\\(\\frac{3}{4}\\)",
+        "correctIndex": 3,
+        "options": [
+            "-2\\(\\frac{1}{3}\\)",
+            "-2\\(\\frac{1}{4}\\)",
+            "2\\(\\frac{1}{8}\\)",
+            "2\\(\\frac{3}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2010,
+        "question": "The sum of 2 consecutive whole numbers is \\(\\frac{5}{6}\\) of their product, find the numbers",
+        "explanation": "Let the no. be x and x + 1<br><br>x + (x + 1) = \\(\\frac{5}{6}\\) of x(x + 1)<br><br>2x + 1 = \\(\\frac{5}{6}\\) x(x + 1)<br><br>6(2x + 1) = 5x<sup>2</sup>+ 5x<br><br>12x + 6 = 5x<sup>2</sup>+ 5x<br><br>5x<sup>2</sup>+ 5x - 12x - 6 = 0<br><br>5x<sup>2</sup>- 7x - 6 = 0<br><br>5x<sup>2</sup>- 10x + 3x - 6 = 0<br><br>5x(x - 2) + 3(x - 2) = 0<br><br>(5x + 3)(x - 2) = 0<br><br>(5x + 3)(x - 2) = 0<br><br>(5x + 3) = 0<br><br>x - 2 = 0<br><br>for (5x + 3) = 0<br><br>5x = -3<br><br>x = \\(\\frac{-3}{5}\\) (Imposible since x is a whole number)<br><br>x - 2 = 0<br><br>x = 2<br><br>x = \\(\\frac{-3}{5}\\)(Impossible since x is a whole number)<br><br>x - 2 = 0<br><br>x = 2<br><br>The numbers are x = 2<br><br>x + 1 = 2 + 1<br><br>= 3",
+        "correctIndex": 2,
+        "options": [
+            "3, 4",
+            "1, 2",
+            "2, 3",
+            "0, 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2010,
+        "question": "A casting is made up of Copper and Zinc. If 65% of the casting is Zinc and there are 147g of Copper. What is the mass of the casting?",
+        "explanation": "%Zinc + %Copper = 100%<br><br>65% + %Copper = 100%<br><br>%Copper = 100% - 65% = 35%<br><br>%Copper = \\(\\frac{\\text{Mass of % Copper}}{\\text{Mass of Casting}}\\) x 100%<br><br>Mass of Casting = \\(\\frac{147}{35}\\) x 100%<br><br>= 420g",
+        "correctIndex": 1,
+        "options": [
+            "320g",
+            "420g",
+            "520g",
+            "620g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2010,
+        "question": "<p>Given that P = {x : 1 \\(\\leq x \\leq 6\\)}, and Q = {x : 2 \\(\\leq x \\leq 10\\)} where x is an integer. Find n(P \\(\\cap\\) Q)</p>",
+        "explanation": "<p>P = {1, 2, 3, 4, 5, 6}; Q = {3, 4, 5, 6, 7, 8, 9}<br>\n<br>\nP \\(\\cap\\) Q) = {2, 3, 4, 5, 6}<br>\n<br>\nn(P \\(\\cap\\) Q) = 5</p>",
+        "correctIndex": 0,
+        "options": [
+            "5",
+            "6",
+            "8",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2010,
+        "question": "The sum of 6 and one-third of x is one more than twice x, find x",
+        "explanation": "6 = \\(\\frac{1}{3}x\\) = 1 + 2x<br><br>6 = 1 = \\(\\frac{2x}{1} - \\frac{x}{3}\\)<br><br>5 = \\(\\frac{6x - x}{3} = \\frac{5x}{3}\\)<br><br>5 = \\(\\frac{5x}{3}\\)<br><br>3 x 5 = 5x<br><br>15 = 5x<br><br>x = \\(\\frac{15}{5}\\)<br><br>= 3",
+        "correctIndex": 2,
+        "options": [
+            "x = 7",
+            "x = 5",
+            "x = 3",
+            "x = 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2010,
+        "question": "Given that = {x: -2 &lt; x \\(\\leq\\) 9}, where x is an integer what is n(T)?",
+        "explanation": "T = {-1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}<br><br>n(T) = 11",
+        "correctIndex": 2,
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2010,
+        "question": "<p>Solve the inequality: 3(x + 1) \\(\\leq\\) 5(x + 2) + 15</p>",
+        "explanation": "<p>3(x + 1) \\(\\leq\\) 5(x + 2) + 15<br>\n<br>\n3x + 3 \\(\\leq\\) 5x + 10 + 15<br>\n<br>\n3x - 5x \\(\\geq\\) 10 + 15 - 3<br>\n<br>\n-2x \\(\\geq\\) 22<br>\n<br>\nx \\(\\leq\\) \\(\\frac{-22}{2}\\)<br>\n<br>\nx \\(\\leq\\) -11</p>",
+        "correctIndex": 3,
+        "options": [
+            "x \\(\\geq\\) -14",
+            "x \\(\\leq\\) - 14",
+            "x \\(\\geq\\) -11",
+            "x \\(\\leq\\) - 11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2010,
+        "question": "An empty rectangular tank is 250cm long and 120cm wide. If 180 litres of water is poured into the tank. Calculate the height of the water",
+        "explanation": "Volume of water in tank = l x b x h = 180 litres<br><br>but 1 litre = 1000cm<sup>2</sup><br><br>250 x 120 x hw = 180 x 1000<br><br>hw = \\(\\frac{180 \\times 1000}{250 \\times 120}\\)<br><br>= 6cm",
+        "correctIndex": 0,
+        "options": [
+            "6.0cm",
+            "5.5cm",
+            "5.0cm",
+            "4.5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2010,
+        "question": "Given that \\(\\frac{5^{n +3}}{25^{2n -2}}\\) = 5<sup>o</sup>, find n",
+        "explanation": "\\(\\frac{5^{n +3}}{25^{2n -2}}\\) = 5<sup>o</sup><br><br>\\(\\frac{5^{n + 3}}{5^{2(2n - 3)}}\\) = 5<sup>o</sup><br><br>n + 3 - 4n + 6 = 0<br><br>-3n + 9 = 0<br><br>-3n = -9<br><br>n = \\(\\frac{-9}{-3}\\)<br><br>n = 3",
+        "correctIndex": 2,
+        "options": [
+            "n = 1",
+            "n = 2",
+            "n = 3",
+            "n = 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2010,
+        "question": "\\(\\begin{array}{c|c} \\text{No. of pets} &amp; 0 &amp; 1 &amp; 2 &amp; 3 &amp; 4 \\\\ \\hline \\text{No. of students} &amp; 8 &amp; 4 &amp; 5 &amp; 10 &amp; 3\\end{array}\\) The table shows the number of pets kept by 30 students in a class. If a student is picked at random ftom the class. What is the probability that he/she kept more than one pet?",
+        "explanation": "pr. (More than one pet)<br><br>= \\(\\frac{\\text{No. of students with &gt; 1 pet}}{\\text{total no. of students}}\\)<br><br>= \\(\\frac{5 + 10 + 3}{30}\\)<br><br>= \\(\\frac{18}{30}\\)<br><br>= \\(\\frac{3}{5}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{2}{5}\\)",
+            "\\(\\frac{3}{5}\\)",
+            "\\(\\frac{4}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2010,
+        "question": "Simplify 2\\(\\sqrt{3}\\) - \\(\\frac{6}{\\sqrt{3}} + \\frac{3}{\\sqrt{27}}\\)",
+        "explanation": "2\\(\\sqrt{3}\\) - \\(\\frac{6}{\\sqrt{3}} + \\frac{3}{\\sqrt{27}}\\)<br><br>= 2\\(\\sqrt{3} - \\frac{6}{\\sqrt{3}} + \\frac{3}{\\sqrt{9 \\times 3}}\\)<br><br>= 2\\(\\sqrt{3} - \\frac{6}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} + \\frac{3}{3\\sqrt{3}}\\)<br><br>= 2\\(\\sqrt{3} = 6 \\frac{\\sqrt{3}}{3} + \\frac{1}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}}\\)<br><br>= 2\\(\\sqrt{3} - 2\\sqrt{3} + \\frac{\\sqrt{3}}{3}\\)<br><br>= \\(\\frac{\\sqrt{3}}{3} = \\frac{1}{3} \\sqrt{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "\\(\\frac{1}{3}\\sqrt{3}\\)",
+            "2\\(\\sqrt{3} - 5\\frac{2}{3}\\)",
+            "6\\(\\sqrt{3}\\) - 17"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2010,
+        "question": "If sin 3y = cos 2y and 0<sup>o</sup>\\(\\leq\\) 90<sup>o</sup>, find the value of y",
+        "explanation": "sin 3y = cos 2y, but sin \\(\\theta\\) = cos(90 - \\(\\theta\\))<br><br>sin 3y = cos(90 - 3y)<br><br>cos(90 - 3y) = cos 2y<br><br>90 - 3y = 2y<br><br>5y = 90<br><br>y = \\(\\frac{90}{5}\\)<br><br>y = 18<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "18<sup>o</sup>",
+            "36<sup>o</sup>",
+            "54<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2010,
+        "question": "<p>A rectangle has length xcm and width (x - 1)cm. If the perimeter is 16cm. Find the value of x</p>",
+        "explanation": "<p>l = x; b = x - 1<br>\n<br>\nperimeter = 2(l + b) = 16<br>\n<br>\nl + b = \\(\\frac{16}{2}\\) = 8<br>\n<br>\nl + b = 8<br>\n<br>\nx + x - 1 = 8<br>\n<br>\n2x = 8 + 1<br>\n<br>\n2x = 9<br>\n<br>\nx = \\(\\frac{9}{2}\\)cm<br>\n<br>\nx = 4\\(\\frac{1}{2}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "3\\(\\frac{1}{2}\\)cm",
+            "4cm",
+            "4\\(\\frac{1}{2}\\)cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2010,
+        "question": "Given that tan x = 1, where 0<sup>o</sup>\\(\\geq\\) x 90<sup>o</sup>, evaluate \\(\\frac{1 - \\sin^2 x}{\\cos x}\\)",
+        "explanation": "Given tan x = 1<br><br>x = tan<sup>-1</sup>(1)<br><br>x = 45<sup>o</sup><br><br>Now, \\(\\frac{1 - ( \\frac{1}{\\sqrt{2} )^2}}{\\frac{1}{\\sqrt{2}}}\\)<br><br>= \\(\\frac{1 - \\frac{1}{2}}{\\frac{1}{2}}\\)<br><br>= \\(\\frac{1}{2} + \\frac{1}{\\sqrt{2}}\\)<br><br>= \\(\\frac{1}{2} \\times \\frac{1}{\\sqrt{2}}\\)<br><br>= \\(\\frac{\\sqrt{2}}{2}\\)",
+        "correctIndex": 2,
+        "options": [
+            "2\\(\\sqrt{2}\\)",
+            "\\(\\sqrt{2}\\)",
+            "\\(\\frac{\\sqrt{2}}{2}\\)",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2010,
+        "question": "What is the length of a rectangular garden whose perimeter is 32cm and area 39cm<sup>2</sup>?",
+        "explanation": "perimeter = 2(l + b) = 32<br><br>l + b = \\(\\frac{32}{2}\\)<br><br>l + b = 16<br><br>b = 16 - 1.......(1)<br><br>Area = l + b = 39<br><br>lb = 39 .....(2)<br><br>put (1) into (2)<br><br>l(16 - 1) = 39<br><br>16l - l<sup>2</sup>= 39<br><br>l<sup>2</sup>= 13l - 3l + 39 = 0<br><br>l(l - 13) - 3(1 - 13) = 0<br><br>(l - 3)(l + 130 = 0<br><br>l - 3 = 0 or l - 13 = 0<br><br>l = 3cm or l = 13cm; The length in 13cm",
+        "correctIndex": 2,
+        "options": [
+            "25cm",
+            "18cm",
+            "13cm",
+            "9cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2010,
+        "question": "Simplify \\(\\frac{2}{2 + x} + \\frac{2}{2 - x}\\)",
+        "explanation": "\\(\\frac{2}{2 + x} + \\frac{2}{2 - x}\\)<br><br>\\(\\frac{2(2 - x) + 2(2 + x)}{(2 + x)(2 - x)} = \\frac{4 - 2x + 4 + 2x}{4 - 2x + 2x - x^2}\\)<br><br>= \\(\\frac{8}{4 - x62}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{4}{4 - x^3}\\)",
+            "\\(\\frac{8}{4 - x^2}\\)",
+            "\\(\\frac{4x}{4 - x^2}\\)",
+            "\\(\\frac{8 - 4x}{4 - x^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2010,
+        "question": "The sum of the exterior of an n-sided convex polygon is half the sum of its interior angle. find n",
+        "explanation": "sum of exterior angles = 360<sup>o</sup><br><br>Sum of interior angle = (n - 2) x 180<br><br>360 = \\(\\frac{1}{2}\\) x(n - 2) x 180(90<sup>o</sup>)<br><br>360 = \\(\\frac{1}{2}\\) x(n - 2) x 90<sup>o</sup><br><br>\\(\\frac{360}{90}\\) = a - 2<br><br>4 = n - 2<br><br>n = 4 + 2 = 6",
+        "correctIndex": 0,
+        "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2010,
+        "question": "If y = \\(\\frac{y(2\\sqrt{x^2 + m})}{3N}\\), make x the subject of the formular",
+        "explanation": "y = \\(\\frac{y(2\\sqrt{x^2 + m})}{3N}\\)<br><br>3yN = 2(\\(\\sqrt{x^2 + m})\\)<br><br>\\(\\frac{3yN}{2} = \\sqrt{x^2 + m}\\)<br><br>(\\(\\frac{3yN}{2})^2 = ( \\sqrt{x^2 + m})\\)<br><br>\\(\\sqrt{\\frac{9y^2N^2}{4} - \\frac{m}{1}}\\)<br><br>x = \\(\\frac{\\sqrt{9Y^2N^2 - 4m}}{4}\\)<br><br>x = \\(\\frac{\\sqrt{9y^2N^2 - 4m}}{2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{\\sqrt{9y^2 N^2 - 2m}}{3}\\)",
+            "\\(\\frac{\\sqrt{9y^2 N^2 - 4m}}{2}\\)",
+            "\\(\\frac{\\sqrt{9y^2 N^2 - 3m}}{2}\\)",
+            "\\(\\frac{\\sqrt{9y^2 N - 3m}}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2010,
+        "question": "The nth term of the sequence -2, 4, -8, 16.... is given by",
+        "explanation": "sequence: -2, 4, -8, 16........{GP}<br><br>a = -2; r = \\(\\frac{4}{-2}\\) = -2<br><br>nth term T<sub>n</sub>= ar<sup>n-1</sup><br><br>T<sub>n</sub>= (-2)(-2)^<sup>n-1</sup><br><br>T<sub>n</sub>= (-2)<sup>1 + n - 1</sup><br><br>T<sub>n</sub>= (-2)<sup>n</sup>",
+        "correctIndex": 1,
+        "options": [
+            "T<sub>n</sub>= 2<sup>n</sup>",
+            "T<sub>n</sub>= (-2)<sup>n</sup>",
+            "T<sup>n</sup>= (-2n)",
+            "T<sub>n</sub>= n<sup></sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2010,
+        "question": "How many times, correct to the nearest whole number, will a man run round circular track of diameter 100m to cover a distance of 1000m?",
+        "explanation": "No. of times = \\(\\frac{\\text{Total distance}}{\\text{Circumference of circle}}\\)<br><br>= \\(\\frac{\\text{Total distance}}{\\pi d}\\)<br><br>= \\(\\frac{1000m}{\\frac{22}{7} \\times 100m}\\)<br><br>= \\(\\frac{1000 \\times 7}{2200} = 3.187\\)<br><br>= 3(approx.) nearest whole no.",
+        "correctIndex": 0,
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2010,
+        "question": "Bola sold an article for N6,900.00 and made a profit of 15%. If he sold it for N6,600.00 he would make a",
+        "explanation": "s.p = N6900<br><br>%profit = 15%<br><br>%profit = \\(\\frac{s.p - c.p}{c.p}\\) x 100%<br><br>15% = \\(\\frac{6900 - c.p}{c.p}\\) x 100%<br><br>\\(\\frac{15}{100}\\)c.p = N6900 - c.p<br><br>0.15 c.p = N6900 - c.p<br><br>1.15c.p + c.p = N6900<br><br>c.p = \\(\\frac{6900}{1.15}\\)<br><br>= 6000.00<br><br>Now new S.P = N6600<br><br>profit = s.p - c.p = 6000 - 6600<br><br>= 600<br><br>%profit = \\(\\frac{600}{6600}\\) x 100%<br><br>= 10%",
+        "correctIndex": 2,
+        "options": [
+            "profit of 13%",
+            "loss of 12%",
+            "loss of 10%",
+            "loss of 5%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2010,
+        "question": "The mean age of R men in a club is 50 years, Two men aged 55 and 63, left the club and the mean age reduced by 1 year. Find the value of R",
+        "explanation": "mean age = \\(\\frac{\\text{sum of ages}}{\\text{no. of men}}\\)<br><br>50 = \\9\\frac{sum}{R}\\)<br><br>sum = 50R.....(1)<br><br>Sum of ages of the men that left = 55 + 63 = 188<br><br>remaining sum = 50R - 118<br><br>remaining no. of men = R - 2<br><br>now mean age = 50 - 1 = 49 years<br><br>49 = \\(\\frac{50R - 118}{R - 2}\\)<br><br>49(R - 2) = 50R - 118<br><br>49R - 50R = -188 - 98<br><br>-R = -20<br><br>R = 20",
+        "correctIndex": 1,
+        "options": [
+            "18",
+            "20",
+            "22",
+            "28"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2010,
+        "question": "\\(\\begin{array}{c|c} x &amp; 0 &amp; 2 &amp; 4 &amp; 6\\\\ \\hline y &amp; 1 &amp; 2 &amp; 3 &amp; 4\\end{array}\\).<br>The table is for the relation y = mx + c where m and c are constants. What is the equation of the line described in the tablet?",
+        "explanation": "y = mx + c; when x = 0; y = 1<br><br>1 = m(0) + c; 1 = 0 + c; c = 1<br><br>when x = 2; y = 2<br><br>2 = m(2) + c; 2 = 2m + c; but c = 1<br><br>2 = 2m + 1<br><br>2 - 1 = 2m<br><br>2m = 1<br><br>m = \\(\\frac{1}{2}\\)<br><br>y = \\(\\frac{1}{2}\\)x + 1",
+        "correctIndex": 3,
+        "options": [
+            "y = 2x",
+            "y = x + 1",
+            "y = x",
+            "y = \\(\\frac{1}{2}x + 1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2010,
+        "question": "<p>What is the value of x when y = 5?</p><p>y = \\(\\frac{1}{2}\\)  x + 1</p>",
+        "explanation": "<p>when y = 5; x = ?; y = \\(\\frac{1}{2}\\)x + 1<br>\n<br>\n5 = \\(\\frac{1}{2}\\)x + 1<br>\n<br>\n5 - 1 = \\(\\frac{1}{2}\\)x<br>\n<br>\n4 = \\(\\frac{1}{2}\\)x<br>\n<br>\nx = 4 x 2<br>\n<br>\nx = 8</p>",
+        "correctIndex": 0,
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2010,
+        "question": "The subtraction below is in base seven. Find the missing number.<br>5 1 6 2<sub>seven</sub><br>-2 6 4 4<sub>seven</sub><br>--------<br>2 * 1 5<br>--------",
+        "explanation": "5 1 6 2<sub>seven</sub><br>-2 6 4 4<sub>seven</sub><br>--------<br>2 2 1 5<br>--------<br><br>the missing number is 2",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2010,
+        "question": "If the sum of the roots of the equation (x - p)(2x - 1) - 0 is 1, find the value of x",
+        "explanation": "(x - p)(2x + 1) = 0<br><br>2x<sup>2</sup>+ x - 2px - p = 0<br><br>2x<sup>2</sup>+ x (1 - 2p) - p = 0<br><br>2x<sup>2</sup>- (2p - 1)x - p = 0<br><br>divide through by 2<br><br>x<sup>2</sup>- \\(\\frac{(2p - 1)}{2}\\)x - \\(\\frac{p}{2}\\) = 0<br><br>compare to x<sup>2</sup>- (sum of roots)x + product of roots = 0<br><br>sum of roots = \\(\\frac{2p - 1}{2}\\)<br><br>But sum of roots = 1<br><br>Given; \\(\\frac{2p - 1}{2}\\) = 1<br><br>2p - 1 = 2 x 1<br><br>2p - 1 = 2<br><br>2p = 2 + 1 = 3<br><br>p = \\(\\frac{3}{2}\\)<br><br>p = 1\\(\\frac{1}{2}\\)",
+        "correctIndex": 0,
+        "options": [
+            "1\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "-\\(\\frac{3}{2}\\)",
+            "-1\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2010,
+        "question": "<p>If x2 + kx + \\(\\frac{16}{9}\\) is a perfect square, find the value of k</p>",
+        "explanation": "<p>x2 + kx + \\(\\frac{16}{9}\\); Perfect square<br>\n<br>\nBut, b2 - 4ac = 0, for a perfect square<br>\n<br>\nwhere a - 1; b = k; c = \\(\\frac{16}{9}\\)<br>\n<br>\nk2 - 4(1) x \\(\\frac{16}{9}\\) = 0<br>\n<br>\nk2 - \\(\\frac{64}{9}\\) = 0<br>\n<br>\nk2 = \\(\\frac{64}{9}\\)<br>\n<br>\nk = \\(\\sqrt{\\frac{64}{9}}\\)<br>\n<br>\nk = \\(\\frac{8}{3}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{8}{3}\\)",
+            "\\(\\frac{7}{3}\\)",
+            "\\(\\frac{5}{3}\\)",
+            "\\(\\frac{2}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2010,
+        "question": "If x km/h = y m/s, then y =",
+        "explanation": "x kmh<sup>-1</sup>= y ms<sup>-1</sup><br><br>\\(\\frac{x km}{1 hr}\\) = y ms<sup>-1</sup><br><br>\\(x \\times \\frac{1km}{1hr}\\) = y ms<sup>-1</sup><br><br>\\(x \\times \\frac{1000m}{60 \\times 60s}\\) = y ms<sup>-1</sup><br><br>\\(x \\times \\frac{1000}{3600} \\frac{m}{s}\\) = y ms<sup>-1</sup><br><br>\\(x \\times \\frac{5}{18} ms^{-1}\\)<br><br>\\(x \\times \\frac{5}{18} ms^{-1}\\) = y ms<sup>-1</sup><br><br>y = \\(\\frac{5}{18}\\)x",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{7}{18}\\)x",
+            "\\(\\frac{11}{20}\\)x",
+            "\\(\\frac{4}{15}\\)x",
+            "\\(\\frac{5}{18}\\)x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2010,
+        "question": "<p>The mean of the numbers 2, 5, 2x and 7 is less than or equal to 5. Find the range of the values of x</p>",
+        "explanation": "<p>mean \\(\\leq\\) 5; \\(\\frac{2 + 5 + 2x + 7}{4}\\) \\(\\leq\\) 5<br>\n<br>\n= \\(\\frac{14 + 2x}{4} \\leq 5\\)<br>\n<br>\n= 14 + 2x \\(\\leq\\) 5 x 4<br>\n<br>\n14 + 2x \\(\\leq\\) 20 ; 2x \\(\\leq\\) 20 - 14<br>\n<br>\n2x \\(\\leq\\) 20 - 14<br>\n<br>\n2x \\(\\leq\\) 6<br>\n<br>\nx \\(\\leq\\) \\(\\frac{6}{2}\\)<br>\n<br>\nx \\(\\leq\\) 3</p>",
+        "correctIndex": 0,
+        "options": [
+            "x \\(\\leq\\) 3",
+            "x \\(\\geq\\) 3",
+            "x &lt; 3",
+            "x &gt; 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2010,
+        "question": "In an athletic composition, the probability that an athlete wins a 100m race is \\(\\frac{1}{8}\\) and the probability that he wins in high jump is \\(\\frac{1}{4}\\). What is the probability that he wins only one of the events?",
+        "explanation": "Pr. (winning 100m race) = \\(\\frac{1}{8}\\)<br><br>Pr. (losing 100m race) = 1 - \\(\\frac{1}{8}\\) = \\(\\frac{7}{8}\\)<br><br>Pr. (winning high jump) = \\(\\frac{1}{4}\\)<br><br>Pr. (losing high jump ) = 1 - \\(\\frac{1}{4}\\) = \\(\\frac{3}{4}\\)<br><br>Pr. (winning only one) = Pr. (Winning 100m race and losing high jump) or Pr.(Losing 100m race and winning high jump)<br><br>= (\\(\\frac{1}{8} \\times \\frac{3}{4}\\)) + (\\(\\frac{7}{8} \\times \\frac{1}{4}\\))<br><br>= \\(\\frac{3}{32} + \\frac{7}{32}\\)<br><br>= \\(\\frac{10}{32}\\)<br><br>= \\(\\frac{5}{16}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{32}\\)",
+            "\\(\\frac{7}{3}\\)",
+            "\\(\\frac{5}{3}\\)",
+            "\\(\\frac{5}{16}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8609902260_3.jpg\" class=\"img-fluid\">",
+        "explanation": "Joining SQ. In \\(\\bigtriangleup\\) SPQ,<br><br>(22<sup>o</sup>+ a) + 55<sup>o</sup>+ (41<sup>o</sup>+ b) = 180<sup>o</sup><br><br>121<sup>o</sup>+ a + b = 180<sup>o</sup><br><br>a + b = 180 - 121<br><br>a + b = 59<sup>o</sup>.....(1)<br><br>In \\(\\bigtriangleup\\) SRPQ; R + a + b = 180<sup>o</sup><br><br>R + 59<sup>o</sup>= 180<sup>o</sup><br><br>(in (1), a + b = 59<sup>o</sup>)<br><br>R = 180 - 59<br><br>R = 121<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "90<sup>o</sup>",
+            "100<sup>o</sup>",
+            "121<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24394725365_5.jpg\" class=\"img-fluid\">",
+        "explanation": "Pass mark = 50%<br><br>No. of students that passed = f<sub>50</sub>+ f<sub>65</sub>+ f<sub>80</sub><br><br>= 45 + 25 + 15<br><br>= 85",
+        "correctIndex": 1,
+        "options": [
+            "100",
+            "85",
+            "80",
+            "70"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1434984161_5.jpg\" class=\"img-fluid\">",
+        "explanation": "Percentage of students with marks ranging from 35 to 50 = \\(\\frac{f_{35} + f{40} + f{50}}{\\sum f}\\)<br><br>= \\(\\frac{35 + 40 + 45}{20 + 35 + 40 + 45 + 25 + 15}\\) x 100%<br><br>= \\(\\frac{120}{180}\\) x 100%<br><br>= 66\\(\\frac{2}{3}\\)%",
+        "correctIndex": 3,
+        "options": [
+            "55\\(\\frac{1}{3}\\)%",
+            "60%",
+            "65%",
+            "66\\(\\frac{2}{3}\\)%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14349843770_10.jpg\" class=\"img-fluid\">",
+        "explanation": "4m - 15<sup>o</sup>= m + 75<sup>o</sup><br><br>(Vertically opposite angles are equal)<br><br>4m - m = 75 + 15<br><br>3m = 90<br><br>m = \\(\\frac{90}{3}\\)<br><br>m = 30<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "30<sup>o</sup>",
+            "40<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22959753376_11.jpg\" class=\"img-fluid\">",
+        "explanation": "In \\(\\bigtriangleup\\) PQR,<br><br>Q = S = 75<sup>o</sup>(Corresponding angle)<br><br>R = Q = 75<sup>o</sup>(Base angles of an isosceles \\(\\bigtriangleup\\))<br><br>But, y + 75<sup>o</sup>= 180<sup>o</sup>(Sum of angles in a straight line)<br><br>y = 180 - 75<br><br>y = 105<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "105<sup>o</sup>",
+            "110<sup>o</sup>",
+            "130<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11479879336_21.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\bigtriangleup\\) is similar to \\(\\bigtriangleup\\) HIJ<br><br>&lt; HKL = HJI = x<sup>o</sup><br><br>Hence, \\(\\frac{LH}{JH} = \\frac{KH}{JH} \\frac{KL}{IJ}\\)<br><br>\\(\\frac{LH}{JH} = \\frac{KL}{JI}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{KL}{JI}\\)",
+            "\\(\\frac{HK}{JK}\\)",
+            "\\(\\frac{JI}{KL}\\)",
+            "\\(\\frac{HK}{LK}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27264741277_37.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram, OP bisects &lt; ROS<br><br>&lt; POS = \\(\\frac{1}{2}\\) &lt; ROS = \\(\\frac{1}{2}\\) x 66<sup>o</sup><br><br>3x = 33<sup>o</sup><br><br>x = \\(\\frac{33^o}{3}\\)<br><br>= 11<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "10<sup>o</sup>",
+            "11<sup>o</sup>",
+            "22<sup>o</sup>",
+            "35<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7174932160_22.jpg\" class=\"img-fluid\">",
+        "explanation": "Join SR<br><br>&lt; PRS = 90<sup>o</sup>(Angle in a semicircle)<br><br>&lt; PRS = 55<sup>o</sup>(Angle between a chord and a tangent = Angle in the alternate segment)<br><br>&lt; PSR + &lt; PRS + &lt; RSP = 180<sup>o</sup><br><br>90v + 55<sup>o</sup>+ &lt; RSp = 180<sup>o</sup><br><br>&lt; RSP = 180<sup>o</sup>- 145<sup>o</sup><br><br>= 35<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "55<sup>o</sup>",
+            "45<sup>o</sup>",
+            "35<sup>o</sup>",
+            "25<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15784852479_31.jpg\" class=\"img-fluid\">",
+        "explanation": "3x = 2 x 60 = 2y (Angle at centre = 2 x angle at circumference)<br><br>3x = 2 x 60<br><br>x = \\(\\frac{2 \\times 60}{3}\\) = 40<sup>o</sup><br><br>2 x 60 = 2y<br><br>y = 60<sup>o</sup><br><br>x + y = 40 + 60<br><br>= 100<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "110<sup>o</sup>",
+            "100<sup>o</sup>",
+            "80<sup>o</sup>",
+            "70<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18654827737_33.jpg\" class=\"img-fluid\">",
+        "explanation": "Using \\(\\frac{x}{a} + \\frac{y}{b}\\) &lt; 1for the equation of the time<br><br>where a = intercept on x-axis and b = intercept on y - axis<br><br>\\(\\frac{x}{3} + \\frac{y}{3} = 1\\)<br><br>= \\(\\frac{x + y}{3} = 1\\)<br><br>= x + y &lt; 3",
+        "correctIndex": 1,
+        "options": [
+            "x + y \\(\\leq\\) 3",
+            "x + y &lt; 3",
+            "x + y &gt; 3",
+            "x + y \\(\\geq\\) 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11479900328_35.jpg\" class=\"img-fluid\">",
+        "explanation": "F = 54<sup>o</sup>(Alternate triangle angles)<br><br>&lt; GHE = F = 54<sup>o</sup>(Angle between a chord and a tangent = angles in the alternate segment)<br><br>Now, &lt; GHE + &lt; EHF + &lt; IHF = 180<sup>o</sup>(Angles on a straight line)<br><br>54<sup>o</sup>+ &lt; EHF + 54<sup>o</sup>= 180<sup>o</sup><br><br>&lt; EHF = 180<sup>o</sup>- 108<sup>o</sup><br><br>= 72<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "126<sup>o</sup>",
+            "72<sup>o</sup>",
+            "64cm<sup>o</sup>",
+            "32cm<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5740218716_41.jpg\" class=\"img-fluid\">",
+        "explanation": "Total surface area = sum of the area of the \\(\\bigtriangleup\\) S + Area of the rectangle<br><br>= 2 x Area of \\(\\bigtriangleup\\) PTQ + 2 x Area of \\(\\bigtriangleup\\) QUR + Area of rectangle PQRS<br><br>2 x \\(\\frac{1}{2}\\)(8 x 4) + 2 x \\(\\frac{1}{2}\\)(5 x 4) + 8 x 5<br><br>= 32 + 20 + 40<br><br>= 92cm<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "208cm<sup>2</sup>",
+            "112cm<sup>2</sup>",
+            "92cm<sup>2</sup>",
+            "76cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2870120748_442.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of remaining = Area of rectangle = Area of semi-circle<br><br>22 x 8 - \\(\\frac{1}{2}\\)xar<sup>2</sup><br><br>ehere r - \\(\\frac{14}{2}\\)cm = 7cm<br><br>Area of remaining = 176 - \\(\\frac{1}{2}\\) x \\(\\frac{22}{4}\\) x 7 x 7<br><br>= 176 - 77<br><br>= 99cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "44cm<sup>2</sup>",
+            "99cm<sup>2</sup>",
+            "154cm<sup>2</sup>",
+            "165cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17220662088_44.jpg\" class=\"img-fluid\">",
+        "explanation": "POQ in a straight line<br><br>Hence, &lt; POQ + &lt; QOR = 180<sup>o</sup><br><br>56<sup>o</sup>+ &lt; QOR = 180<sup>o</sup><br><br>&lt; QOR = 180<sup>o</sup>- 56<sup>o</sup><br><br>= 124<sup>o</sup><br><br>Now, in \\(\\bigtriangleup\\) QOR OR = OQ = Radius<br><br>&lt; ORQ = &lt; OQR = 2x (Base angles of an Isosceles \\(\\bigtriangleup\\))<br><br>2x + 124 + 2x = 180<sup>o</sup><br><br>4x + 124 = 180<br><br>4x = 180 - 124<br><br>4x = 56<br><br>x = \\(\\frac{56}{4}\\)<br><br>x = 14<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "34",
+            "29",
+            "17",
+            "14"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11480447648_46.jpg\" class=\"img-fluid\">",
+        "explanation": "The bearing of x from y = 270<sup>o</sup>+ \\(\\theta\\)<br><br>where \\(\\theta\\) + 50<sup>o</sup>= y<br><br>in \\(\\bigtriangleup\\) OXY<br><br>O + X + Y = 180<sup>o</sup><br><br>Where O = 40<sup>o</sup>+ 30<sup>o</sup>= 70<sup>o</sup><br><br>70<sup>o</sup>+ 30<sup>o</sup>+ y = 180<sup>o</sup><br><br>y + 100<sup>o</sup>= 180<sup>o</sup><br><br>y = 180<sup>o</sup>- 100<sup>o</sup>= 30<sup>o</sup><br><br>\\(\\theta\\) + 50<sup>o</sup>= 80<sup>o</sup><br><br>80<sup>o</sup>- 50<sup>o</sup>= 30<sup>o</sup><br><br>The bearing of x from y = 270<sup>o</sup>+ 30<sup>o</sup>= 300<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "300<sup>o</sup>",
+            "240<sup>o</sup>",
+            "190<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    }
+]

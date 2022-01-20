@@ -1,0 +1,738 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1995,
+        "question": "Which of the following is the dimension of pressure?",
+        "explanation": "Pressure = heg<br><br>= m x \\(\\frac{kg}{m^3}\\) x \\(\\frac{m}{5^2}\\)<br><br>= ML<sup>-1</sup>T<sup>-2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "ML<sup>-1</sup>T<sup>-2</sup>",
+            "MLT<sup>-2</sup>",
+            "ML<sup>2</sup>T<sup>-3</sup>",
+            "ML<sup>-3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1995,
+        "question": "<p>The length of a displaced pendulum ball which passes its lowest point twice every seconds is [g = 10ms-2]</p>",
+        "explanation": "<p>T = 2\\(\\pi\\) \\(\\sqrt\\frac{L}{g}\\)<br>\n1 = 2 x 3.142\\(\\sqrt\\frac{L}{10}\\)<br>\n(since the pendulum pass its lowest point twice in a second, hence the frequency is 1 and period T= \\(\\frac{1}{F}\\))<br>\nL= 0.25m</p>",
+        "correctIndex": 0,
+        "options": [
+            "0.25 m",
+            "0.45 m",
+            "0.58m",
+            "1.00m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1995,
+        "question": "<p>When a ball rolls on a smooth level ground, the motion of its center is</p>",
+        "explanation": "<p>A ball rolling along a smooth surface observes translational motion at the center while the rest of the body rotates round the center.</p>",
+        "correctIndex": 0,
+        "options": [
+            "translational",
+            "oscillatory",
+            "random",
+            "rotational"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1995,
+        "question": "What is the acceleration due to gravity 'g' on the moon, if g is 10<sup>-2</sup>on the earth?",
+        "explanation": "s = 10<sup>-2</sup>on earth<br><br>g = 6 ms<sup>-2</sup>on earth<br><br>Earth on moon = \\(\\frac{10}{6}\\)<br><br>= 1.6ms<sup>-2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0. 10 ms<sup>-2</sup>",
+            "0.74ms<sup>-2</sup>",
+            "1.6ms<sup>-2</sup>",
+            "10.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1995,
+        "question": "A body is projected from the earth's surface with the intention of letting it escape from the earth's gravitational field. What is the minimum escape velocity of the body? [Earth's radius = 6.4 x 10<sup>3</sup>km, g = 10ms<sup>-2</sup>]",
+        "explanation": "Velocity = \\(\\sqrt2gR\\)<br><br>= 2 x 6400 x 100 x 10<br><br>= 11 km<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "14 kms<sup>-1</sup>",
+            "13 kms<sup>-1</sup>",
+            "12 kms<sup>-1</sup>",
+            "11 kms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1995,
+        "question": "A uniform rod PQ of length 1m and mass 2kg is pivoted at the end p. If load of 14N is placed at the center of the rod, find the force that should be applied vertically upwards at Q to maintain the rod at equilibrium horizontally [g = 10ms<sup>-2</sup>]",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "68N",
+            "28N",
+            "17N",
+            "7N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1995,
+        "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{mv^2}{t}\\)",
+            "\\(\\frac{mv^2}{2t}\\)",
+            "\\(\\frac{mv}{t}\\)",
+            "\\(\\frac{mv}{2t}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1995,
+        "question": "<p>Which of the following statements are TRUE about frictional force? i. it is always a disadvantage ii. it is sometimes a disadvantage iii. it always exist where there is a relative motion of two bodies that are in contact iv. it is sometimes very useful</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i, iii only",
+            "i, iv only",
+            "ii, iii only",
+            "iii, iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1995,
+        "question": "The energy contained in a wire when it extended by 0.02m by a force 500 N is",
+        "explanation": "Energy = \\(\\frac{1}{2}\\)Fe<br><br>= \\(\\frac{1}{2}\\) x 500 x 0.02<br><br>E = 5J",
+        "correctIndex": 0,
+        "options": [
+            "5J",
+            "10J",
+            "10<sup>3</sup>J",
+            "10<sup>4</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1995,
+        "question": "<p>A hydraulic press has a large circular piston of radius 0.8m and a circular plunger of radius 0.2m. A force of 500N is exerted by the plunger. Find the force exerted on the piston</p>",
+        "explanation": "<p>Pressure on piston = pressure on the plunger<br>\n<br>\n\\(\\frac{500}{\\pi\\ \\times\\ 0.2 \\times\\ 0.2}\\) = \\(\\frac{F}{\\pi\\ \\times\\ 0.8 \\times\\ 0.8}\\)<br>\n<br>\nF = 8000N</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "8000N",
+            "4000N",
+            "2000N",
+            "31N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1995,
+        "question": "The volume of an air bubble increases from the bottom to the top of a lake at constant temperature because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "atmospheric pressure acts on the surface of the lake",
+            "pressure increases with depth",
+            "density remains constant with pressure",
+            "the bubble experiences an upthrust"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1995,
+        "question": "Temperature is the measure of the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "quantity of heat transferred into the molecules of an object",
+            "mean kinetic energy of the molecules of the object",
+            "kinetic energy of any individual molecule of the substance",
+            "amount of work done by the molecules of the object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1995,
+        "question": "A rectangular metal block of volume 10<sup>-6</sup>m<sup>3</sup>at 273k is heated to 573k. If its coefficient of linear expansion is 1.2 x 10<sup>-5</sup>k<sup>-1</sup>, the percentage change of it volume is",
+        "explanation": "Y = \\(\\frac{\\Delta V}{V \\times \\Delta \\theta}\\)<br><br>3 x 10<sup>-5</sup>x 1.2 = \\(\\frac{\\Delta\\ V}{10^{-6}\\times\\ (573 - 273)}\\)<br><br>\\(\\Delta\\)V = 1080 x 10<sup>-11</sup>m<sup>3</sup><br><br>%\\(\\Delta\\)V = \\(\\frac{1080 \\times\\ 10}{10^{-6}}\\) x 100<br><br>= 1.08%<br><br>\\(\\approx\\) = 1.1%",
+        "correctIndex": 1,
+        "options": [
+            "1.5%",
+            "1.1%",
+            "0.4%",
+            "0.1%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1995,
+        "question": "A piece of wood floats inside water at room temperature with a fraction of it above the liquid surface. As the temperature of the water is raised, the part of the wood above the liquid will",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "decrease because the density of water decreases with temperature",
+            "increase because the density of water decreases with temperature",
+            "decreases because the density of water increases with water temperature",
+            "increase because the density of water increases with temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1995,
+        "question": "The equation P<sup>x</sup>V<sup>y</sup>T<sup>z</sup>= constant in charles' law when",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "x = 1, y = -1, z = 1",
+            "x = 0, y = 1, z = -1",
+            "x = 1, y = 0, z = -1",
+            "x = 0, y = 1, z = 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1995,
+        "question": "An electric kettle with negligible heat capacity is rated at 2000W. If 2.0kg of water is put in it, how long will it take the temperature of water to rise from 20<sup>O</sup>C to 100<sup>O</sup>C? [specific heat capacity of water = 4200Jkg<sup>-1</sup>k<sup>-1</sup>]",
+        "explanation": "Heat energy = Elect. energy<br><br>mc\\(\\theta\\) = power x time<br><br>2 x 4200 x (100 - 20) = 2000 x t<br><br>t = 336s",
+        "correctIndex": 1,
+        "options": [
+            "420S",
+            "336S",
+            "168S",
+            "48S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1995,
+        "question": "A temperature scale has a lower fixed point of 40mm and a upper fixed point of 200mm. What is the reading on this scale when a thermometer reads 60<sup>o</sup>C?",
+        "explanation": "200mm ..... 100<sup>o</sup>C<br><br>Xmm ..... 60<sup>o</sup>C<br><br>400mm ..... 0<sup>o</sup>C<br><br>\\(\\frac{x - 40}{200 - 40}\\) = \\(\\frac{60 - 0}{100 - 0}\\)<br><br>X = 136mm",
+        "correctIndex": 3,
+        "options": [
+            "33.3mm",
+            "36.0mm",
+            "96.0mm",
+            "136.0mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1995,
+        "question": "A quantity of ice at 10<sup>o</sup>C is heated until the temperature of the heating vessel is 90<sup>o</sup>C. Which of the following constants is NOT required to determine the quantity of heat supplied to the vessel?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "specific heat capacity of ice",
+            "specific heat capacity of water",
+            "specific latent heat of fusion",
+            "specific latent heat of vaporization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1995,
+        "question": "Which of the following statements give the TRUE difference between evaporation and boiling? i. Evaporation occurs at all temperatures while boiling occurs at a fixed temperature for a given pressure. ii. Evaporation is a surface phenomenon while boiling is an interior phenomenon. iii. Evaporation is affected by surface area while boiling is not.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "i and iii only",
+            "ii and iii only",
+            "i, ii, iii."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1995,
+        "question": "A well-lagged bar of length 100cm has its ends maintained at 100<sup>o</sup>C and 40<sup>o</sup>C respectively. What is the temperature at a point 60cm from the hotter end?",
+        "explanation": "100<sup>o</sup>C ....100cm<br><br>60<sup>o</sup>C ....60cm<br><br>40<sup>o</sup>C .... 0cm<br><br>\\(\\frac{\\theta - 40}{100 - 40}\\) = \\(\\frac{60 - 0}{100 - 0}\\)<br><br>\\(\\theta\\) = 76<sup>o</sup>C",
+        "correctIndex": 3,
+        "options": [
+            "58<sup>o</sup>C",
+            "62<sup>o</sup>C",
+            "64<sup>o</sup>C",
+            "76<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1995,
+        "question": "Which of the following is the exclusive property of a transverse wave?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "diffraction",
+            "refraction",
+            "compression",
+            "polarization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1995,
+        "question": "The wavelength of signals from a radio transmitter is 1500mm and the frequency is 200kHz. What is the wavelength for a transmitter operating at 100kHz?",
+        "explanation": "\\(\\lambda\\)<sub>1</sub>F<sub>1</sub>= \\(\\lambda\\)<sub>2</sub>F<sub>2</sub><br><br>1500 x 200000 = 1000000 x \\(\\lambda\\)<sub>2</sub><br><br>\\(\\lambda\\)<sub>2</sub>= 300m",
+        "correctIndex": 1,
+        "options": [
+            "7500m",
+            "300m",
+            "75m",
+            "15m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1995,
+        "question": "The difference between sound waves and light waves is that sound waves",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "are transverse while light waves are longitudinal",
+            "require a medium to travel while light waves does not",
+            "can be diffracted but light waves cannot",
+            "cannot be reflected but light waves can"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1995,
+        "question": "The pitch of an acoustic device can be increased by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increasing the frequency",
+            "increasing the amplitude",
+            "decreasing the loudness",
+            "decreasing the intensity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1995,
+        "question": "Total eclipse of the sun occurs when the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "earth is between the moon and the sun",
+            "sun is between the moon and the earth",
+            "moon is between the sun and the earth",
+            "ozone layer is threatened"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1995,
+        "question": "What is the approximate critical angle for total internal reflection for diamond if the refractive index of diamond is 2.42?",
+        "explanation": "SinC = \\(\\frac{1}{n}\\)V<sub>2</sub><br><br>SinC = \\(\\frac{1}{2.42}\\)<br><br>SinC =24<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "21<sup>o</sup>",
+            "22<sup>o</sup>",
+            "23<sup>o</sup>",
+            "24<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1995,
+        "question": "<p>A real object is placed at a distance ucm in front of a curved mirror of focal length fcm. If the image is upright and magnified, then the mirror is</p>",
+        "explanation": "<p>-The image formed by a concave lens is always <strong>virtual, erect and magnified</strong>.</p><p>-The image formed by a concave mirror can be real or virtual, enlarged or diminished, and erect or inverted, depending upon the distance of the object from the mirror</p>",
+        "correctIndex": 1,
+        "options": [
+            "convex and u =2f",
+            "concave and u = 2f",
+            "convex and u = f",
+            "concave and u = f"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1995,
+        "question": "Which of the following pairs of colours gives the widest separation in the spectrum of white light?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Red and Violet",
+            "Green and Yellow",
+            "Red and Indigo",
+            "Yellow and Violet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1995,
+        "question": "Two parallel plates at a distance of 8.0 x 10<sup>-3</sup>m apart are maintained at a p.d of 600 volts with the negative plate earthed. What is the electric field strength?",
+        "explanation": "E = \\(\\frac{voltage}{distance}\\)<br><br>= \\(\\frac{600}{8 \\times 10^2}\\)<br><br>= 75000.0Vm<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "4.8 Vm<sup>-1</sup>",
+            "75.0Vm<sup>-1</sup>",
+            "4800.0Vm<sup>-1</sup>",
+            "75000.0Vm<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1995,
+        "question": "At different locations on the earth's surface, the earth's magnetic field is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the same in magnitude and direction",
+            "the same in magnitude but different in direction",
+            "different in both magnitude and direction",
+            "different in magnitude but different in direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1995,
+        "question": "If a resistance is halved in value and the potential difference across it is tripled, then the ratio of the new current to the old one is",
+        "explanation": "\\(\\frac{V_1}{V_2}\\) = \\(\\frac{I_1R_1}{I_2R_2}\\)<br><br>\\(\\frac{I_1}{I_2}\\)V<sub>2</sub>= 3V<sub>1</sub>and R<sub>1</sub>= 2R<sub>2</sub><br><br>\\(\\frac{V_1}{3V_1}\\) = \\(\\frac{I_1 \\times\\ 2R_2}{I_2\\times R_2}\\)<br><br>\\(\\frac{I_1}{I_2}\\) = \\(\\frac{6}{1}\\)",
+        "correctIndex": 3,
+        "options": [
+            "1 : 6",
+            "1 : 3",
+            "2 : 1",
+            "6 : 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1995,
+        "question": "A 12V battery has an internal resistance of 0.5W.If a cable of 1.0W resistance is connected across the two terminals of the battery, the current drawn from the battery is",
+        "explanation": "I = \\(\\frac{E.m.f}{R + r}\\)<br><br>= \\(\\frac{12}{1 + 0.5}\\)<br><br>I = 8A",
+        "correctIndex": 1,
+        "options": [
+            "16.0A",
+            "8.0A",
+            "0.8A",
+            "0.4A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1995,
+        "question": "The purpose of a dielectric material in a parallel plate capacitor is to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "increase its capacitance",
+            "decrease its capacitance",
+            "insulate the plate from each other",
+            "increase the magnetic field between the plates"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1995,
+        "question": "An electric current of 2 amperes flows in a heating coil of resistance 50 ohms for 3 minutes 20 seconds. Determine the heat produced",
+        "explanation": "Heat energy = Elect. energy<br><br><br>heat energy= I<sup>2</sup>RT<br><br>= 2 X 2 X 50 X 200<br><br>= 40000J<br><br>to convert to kJ, divide J by 1000<br><br>hence, \\(\\frac{40000}{1000}\\) = 40kJ",
+        "correctIndex": 3,
+        "options": [
+            "0.5kJ",
+            "8.0kJ",
+            "20.0kJ",
+            "40.0kJ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1995,
+        "question": "If the maximum voltage across a 100ohms resistor is 20V, then the maximum power it can dissipate is",
+        "explanation": "P = \\(\\frac{V^2}{R}\\)<br><br>= \\(\\frac{20 \\times 20}{100}\\)<br><br>= 4W",
+        "correctIndex": 1,
+        "options": [
+            "5.00W",
+            "4.00W",
+            "2.00W",
+            "25W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1995,
+        "question": "Which of the following is required to convert a milliammeter to an ammeter?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "A high resistance in parallel",
+            "A high resistance in series",
+            "A low resistance in parallel",
+            "A low resistance in series"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1995,
+        "question": "The primary winding of a transformer has 400 turns and its secondary has 100 turns. If a source of e.m.f. of 12V is applied to the primary, the secondary e.m.f. will be",
+        "explanation": "\\(\\frac{V_s}{V_p}\\) = \\(\\frac{N_s}{N_p}\\) = \\(\\frac{I_p}{I_s}\\)<br><br>\\(\\frac{100}{400}\\) = \\(\\frac{V_S}{12}\\)<br><br>V = 3V",
+        "correctIndex": 0,
+        "options": [
+            "3V",
+            "6V",
+            "24V",
+            "48V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1995,
+        "question": "A light of energy 5eV falls on a metal and the electrons with a maximum kinetic energy of 2eV are ejected. The work function of the metal is",
+        "explanation": "Work function = 5 - 2<br><br>= 3eV",
+        "correctIndex": 2,
+        "options": [
+            "0.4eV",
+            "2.5eV",
+            "3.0eV",
+            "7.0eV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1995,
+        "question": "The half-life of a radio-active element is 9 days, what fraction of atoms has decayed in 36 days?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\( \\frac{1}{16} \\)",
+            "\\( \\frac{1}{4} \\)",
+            "\\( \\frac{1}{2} \\)",
+            "\\( \\frac{15}{16} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1995,
+        "question": "An alternating source is connected in series to a capacitor of capacity reactance \\( 10^3 \\sqrt{3} \\) and a resistor of resistance 10<sup>3</sup>Ohms. The Impedance of the circuit is...",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\( 2000 \\sqrt{3} \\) Ohms",
+            "2000 Ohms",
+            "\\( 1000 \\sqrt{3} \\) Ohms",
+            "1000 Ohms"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21879825060_19950001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "P = Q + R",
+            "P = Q - R",
+            "P = R - Q",
+            "P + Q + R = O"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17503860900_19950002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "10.0N",
+            "11.8N",
+            "20.0N",
+            "40.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21879827415_19950003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2ms<sup>-2</sup>",
+            "4ms<sup>-2</sup>",
+            "6ms<sup>-2</sup>",
+            "8ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10210587821_1995.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "680J",
+            "400J",
+            "200J",
+            "100J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13127901219_19950004.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Brightness Of Y will reduce",
+            "Brightness Of Y will remain constant",
+            "Brightness Of Y will increase",
+            "fuse F will blow"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1995,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14586557950_19950005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "15.0µF",
+            "9.8µF",
+            "1.3µF",
+            "0.8µF"
+        ],
+        "type": "objectives"
+    }
+]

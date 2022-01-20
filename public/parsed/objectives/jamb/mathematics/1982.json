@@ -1,0 +1,807 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1982,
+        "question": "<p>Rationalize the expression \\(\\frac{1}{\\sqrt{2} + \\sqrt{5}}\\)</p>",
+        "explanation": "<p>\\(\\frac{1}{\\sqrt{2} + \\sqrt{5}}\\)</p><p>\\(\\frac{1}{\\sqrt{2} + \\sqrt{5}} \\times \\frac{(\\sqrt{2} - \\sqrt{5})}{(\\sqrt{2} - \\sqrt{5})}\\)</p><p>= \\(\\frac{\\sqrt{2} - \\sqrt{5}}{2 - 5}\\)</p><p>= \\(\\frac{\\sqrt{2} - \\sqrt{5}}{-3}\\)</p><p>= \\(\\frac{1}{3} (\\sqrt{5} - \\sqrt{2})\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{3}\\)(\\(\\sqrt{5} - \\sqrt{2}\\)",
+            "\\(\\frac{\\sqrt{2}}{3}\\) + \\(\\frac{\\sqrt{5}}{5}\\)",
+            "\\(\\sqrt{2} - \\sqrt{5}\\)",
+            "5(\\(\\sqrt{2} - \\sqrt{5}\\)",
+            "\\(\\frac{1}{3}\\)(\\(\\sqrt{2} - \\sqrt{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1982,
+        "question": "<p>Simplify 3 - 2 \\(\\div\\) \\(\\frac{4}{5}\\) + \\(\\frac{1}{2}\\)</p>",
+        "explanation": "<p>3 - 2 \\(\\div\\) (\\(\\frac{4}{5}\\)) + \\(\\frac{1}{2}\\)<br>\n<br>\n3 - (2 x \\(\\frac{5}{4}\\)) + \\(\\frac{1}{2}\\) = 3 - \\(\\frac{10}{4}\\) + \\(\\frac{1}{2}\\)<br>\n<br>\n= 3 - \\(\\frac{5}{2}\\) + \\(\\frac{1}{2}\\)<br>\n<br>\n= \\(\\frac{6 - 5 + 1}{2}\\)<br>\n<br>\n= \\(\\frac{2}{2}\\)<br>\n<br>\n= 1</p>",
+        "correctIndex": 3,
+        "options": [
+            "1\\(\\frac{3}{4}\\)",
+            "-1",
+            "1\\(\\frac{3}{10}\\)",
+            "1",
+            "1\\(\\frac{9}{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1982,
+        "question": "<p>If N560.70 is shared in the ratio 7 : 2 : 1, what is the smallest share?</p>",
+        "explanation": "<p>7 + 2 + 1 = 10<br>\n<br>\n\\(\\frac{1}{10}\\) x 560.70<br>\n<br>\n= N56.07</p>",
+        "correctIndex": 4,
+        "options": [
+            "N392.49",
+            "N56.70",
+            "N113.40",
+            "N112.14",
+            "N56.07"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1982,
+        "question": "<p>Seven years ago, the age of a father was three times that of his son, but in six years time the age of the son will be half that of his father, representing the present ages of the father and son by x and y, respectively, the two equations relating x and y are</p>",
+        "explanation": "<p>7 years ago, Father(x - 7) years old, Son (y - 7) years<br>\n<br>\nx - 7 = 3(y - 7)</p><p>x - 7 = 3y - 21</p><p>3y - x = -7 + 21 = 14</p><p>3y - x = 14 ... (1)</p><p>In six years time,</p><p>x + 6 = 2(y + 6)</p><p>x + 6 = 2y + 12</p><p>2y + 12 = x + 6</p><p>12 - 6 = x - 2y</p><p>6 = x - 2y ... (2)</p>",
+        "correctIndex": 1,
+        "options": [
+            "3y - x = 0; 2y - x = 0",
+            "3y - x = 14; x - 2y = 6",
+            "3y - x =7; x - 2y = 6",
+            "3y - x = 14; y - 2x = 6",
+            "x + 3y = 7; x = 2y = 12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1982,
+        "question": "<p>The factors of 6x - 5 - x2 are</p>",
+        "explanation": "<p>6x - 5 - x2 = (-1)(-x2 - 5 + 6x)<br>\n<br>\n= x2 - 6x + 5<br>\n<br>\n= (x - 5)(x - 1)<br>\n<br>\n-(x - 1) = 1 - x<br>\n<br>\n= (x - 5)(1 - x)</p>",
+        "correctIndex": 2,
+        "options": [
+            "-(x + 3)(x + 2)",
+            "(x + 5)(x + 1)",
+            "(x - 5)(1 - x)",
+            "(x + 1)(x + 5)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1982,
+        "question": "<p>The solution of the quadratic equation bx2 + cx + a = 0 is given by</p>",
+        "explanation": "<p>bx2 + cx + a = 0<br>\n<br>\na = b; b = c; c = a<br>\n<br>\nx = -b \\(\\pm\\) \\(\\frac{\\sqrt{b^2 - 4ac}}{2a}\\)<br>\n<br>\nx = -c \\(\\pm\\) \\(\\frac{\\sqrt{c^2 - 4ab}}{2b}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "x = b \\(\\pm\\) \\(\\frac{\\sqrt{b^2 - 4ac}}{2a}\\)",
+            "x = c \\(\\pm\\) \\(\\frac{\\sqrt{b^2 - 4ab}}{2b}\\)",
+            "x = -c \\(\\pm\\) \\(\\frac{\\sqrt{c^2 - 4ab}}{2b}\\)",
+            "x = -b \\(\\pm\\) \\(\\frac{\\sqrt{b^2 - 4ac}}{2b}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1982,
+        "question": "<p>The graphical method of solving the equation x3 + 3x2 + 4x - 28 = 0 is by drawing the graphs of the curves</p>",
+        "explanation": "<p>The graphical method of solving the equation x3 + 3x2 + 4x - 28 = 0 is by drawing the graphs of the curves<br>\n<br>\ny = x2 + 3x + 4 and y = \\(\\frac{28}{x}\\)`.</p>",
+        "correctIndex": 3,
+        "options": [
+            "y = x<sup>3</sup>and y = 3x<sup>2</sup>+ x - 28",
+            "y = x<sup>3</sup>+ 3x<sup>2</sup>+ 4x + 4 and the line y = \\(\\frac{28}{x}\\)",
+            "y = x<sup>3</sup>+ 3x<sup>2</sup>+ 4x and y",
+            "y = x<sup>2</sup>+ 3x + 4 and y = \\(\\frac{28}{x}\\)",
+            "y = x<sup>2</sup>+ 3x + 4 and line y = 28x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1982,
+        "question": "<p>Write the equation 2 log2x - x log2(1 + y) = 3 in a form not involving logarithms</p>",
+        "explanation": "<p>2log2 x - x log2 (1 + y) = 3<br>\n<br>\nlog2 \\(\\frac{x^2}{(1 + y)^x}\\) = 3<br>\n<br>\n= \\(\\frac{x^2}{(1 + y)^x}\\)<br>\n<br>\n= 23<br>\n<br>\n= 8<br>\n<br>\n= x2 = 8(1 + y)x</p>",
+        "correctIndex": 2,
+        "options": [
+            "2<sup>x</sup>(1 + y) = 3",
+            "2<sup>x</sup>- x(1 + y) = 8",
+            "x<sup>2</sup>= 8(1 + y)<sup>x</sup>",
+            "x<sup>2</sup>- x(1 + y) = 8",
+            "x<sup>2</sup>- (1 + y)<sup>2</sup>= 8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1982,
+        "question": "<p>Find \\(\\alpha\\) and \\(\\beta\\) such that x\\(\\frac{3}{8}\\) x y\\(\\frac{-6}{7}\\) x (\\(\\frac{y^{\\frac{9}{7}}}{x^{\\frac{45}{8}}}\\))\\(\\frac{1}{9}\\) = \\(\\frac{y^{\\alpha}}{y^{\\beta}}\\)</p>",
+        "explanation": "<p>x\\(\\frac{3}{8}\\) x y\\(\\frac{-6}{7}\\) x (\\(\\frac{y^{\\frac{9}{7}}}{x^{\\frac{45}{8}}}\\))\\(\\frac{1}{9}\\) = \\(\\frac{y^{\\alpha}}{y^{\\beta}}\\)<br>\n<br>\nx\\(\\frac{3}{8}\\) x y\\(\\frac{-6}{7}\\) x y\\(\\frac{1}{7}\\) = x\\(\\alpha\\)<br>\n<br>\n= x\\(\\frac{3}{8}\\) + \\(\\frac{5}{8}\\) + y\\(\\frac{6}{7}\\) + \\(\\frac{1}{7}\\)<br>\n<br>\n= x\\(\\alpha\\)y\\(\\beta\\)<br>\n<br>\nx1y\\(\\frac{-5}{7}\\) = x\\(\\alpha\\)y\\(\\beta\\)<br>\n<br>\n\\(\\alpha\\) = 1, \\(\\beta\\) = \\(\\frac{5}{7}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\alpha\\) = 1, \\(\\beta\\) = \\(\\frac{5}{7}\\)",
+            "\\(\\alpha\\)= 1, \\(\\beta\\) = -\\(\\frac{5}{7}\\)",
+            "\\(\\alpha\\)= \\(\\frac{3}{5}\\), \\(\\beta\\) = -6",
+            "\\(\\alpha\\)= 1, \\(\\beta\\) = -\\(\\frac{3}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1982,
+        "question": "<p>Which of the following lines is not parallel to the line 3y + 2x + 7 = 0?</p>",
+        "explanation": "<p>Two lines are said to be parallel if the slope of the two lines are equal.</p><p>The equation : \\(3y + 2x + 7 = 0\\)</p><p>\\(3y = -2x - 7\\)</p><p>\\(y = \\frac{-2}{3} x - \\frac{7}{3}\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = - \\frac{2}{3}\\)</p><p>All the options have the same slope except \\(3y - 2x + 7 = 0\\).</p>",
+        "correctIndex": 3,
+        "options": [
+            "3y + 2x - 7 = 0",
+            "9y + 6x + 17 = 0",
+            "24y + 16x + 19 = 0",
+            "3y - 2x + 7 = 0",
+            "15y + 10x - 13 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1982,
+        "question": "<p>What is the least possible value of \\(\\frac{9}{1 + 2x^2}\\) if 0 \\(\\geq\\) x \\(\\geq\\) 2?</p>",
+        "explanation": "<p>0 \\(\\geq\\) x \\(\\geq\\) 2 \\(\\to\\) 0, 1, 2<br>\n<br>\nIf x = 0, \\(\\frac{9}{1 + 2x^2}\\)<br>\n<br>\n\\(\\frac{9}{1 + 2(0)^2}\\) = \\(\\frac{9}{1}\\)<br>\n<br>\n= 3<br>\n<br>\nIf x = 2, \\(\\frac{9}{1 + 2(1)^2}\\)<br>\n<br>\n= \\(\\frac{9}{3}\\)<br>\n<br>\n= 3<br>\n<br>\nIf x = 2, \\(\\frac{9}{1 + 2(2)^2}\\)<br>\n<br>\n= \\(\\frac{9}{9}\\)<br>\n<br>\n= 1<br>\n<br>\nThe least value of \\(\\frac{9}{1 + 2x^2}\\) is 1 when x = 2</p>",
+        "correctIndex": 2,
+        "options": [
+            "9",
+            "5",
+            "1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1982,
+        "question": "<p>A man bought wrist watch for N150 but was only able to sell it for N120. Find the loss per cent on the transaction</p>",
+        "explanation": "<p>Loss% = \\(\\frac{\\text{actual loss}}{\\text{cost price}}\\) x 100%</p><p>\\(\\frac{N150 - N120}{N150} \\times 100%\\)</p><p>\\(\\frac{N30}{N150} \\times 100%\\)</p><p>= 20%</p>",
+        "correctIndex": 2,
+        "options": [
+            "25%",
+            "11%",
+            "20%",
+            "80%",
+            "30%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1982,
+        "question": "<p>Find the median of the set set of numbers 110, 116, 113, 119, 118, 127, 118, 117, 113</p>",
+        "explanation": "<p>Re-arrange in ascending order: 110, 113, 113, 116, |117|, 118, 119, 127<br>\n<br>\na= 117</p>",
+        "correctIndex": 2,
+        "options": [
+            "117.5",
+            "118",
+            "117",
+            "116",
+            "113"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1982,
+        "question": "If f(x - 2) = 3x<sup>2</sup>+ 4x + 1. Find the area of the sector",
+        "explanation": "f(x - 2) = 3x<sup>2</sup>+ 4x + 1<br><br>f(1) will be f(3 - 2)<br><br>When x = 3, f(1) = 3(3)<sup>2</sup>+ 4 x 3 = 1<br><br>27 + 12 +1 = 40",
+        "correctIndex": 1,
+        "options": [
+            "8",
+            "40",
+            "7",
+            "24",
+            "32"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1982,
+        "question": "A sector of a circle is bounded by two radii 7cm long and an arc length 6cm. Find the area of the sector.",
+        "explanation": "Length of arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r = 6<br><br>\\(\\theta\\) x 2\\(\\pi\\)r = 360 x 6<br><br>\\(\\theta\\) = \\(\\frac{360 \\times 6}{2\\pi r}\\)<br><br>Area of the sector = \\(\\frac{\\theta}{360}\\) x \\(\\pi\\)r<sup>2</sup><br><br>\\(\\frac{360 \\times 6}{2\\pi r}\\) x \\(\\frac{1}{360}\\) x \\(\\pi\\)r<sup>2</sup>= r<br><br>= 3 x 7<br><br>= 21cm<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "42cm<sup>2</sup>",
+            "3cm<sup>2</sup>",
+            "21cm<sup>2</sup>",
+            "24cm<sup>2</sup>",
+            "12cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1982,
+        "question": "<p>Given that p:q = \\(\\frac{1}{3}\\):\\(\\frac{1}{2}\\) and q:r = \\(\\frac{2}{5}\\), find p:r</p>",
+        "explanation": "<p>\\(p : q = \\frac{1}{3} : \\frac{1}{2}\\)</p><p>\\(\\frac{p}{q} = \\frac{2}{3}\\)</p><p>\\(2q = 3p ... (1)\\)</p><p>\\(q : r = \\frac{2}{5} : \\frac{4}{7}\\)</p><p>\\(\\frac{q}{r} = \\frac{2}{5} \\times \\frac{7}{4} = \\frac{7}{10}\\)</p><p>\\(10q = 7r ... (2)\\)</p><p>Eliminating q, we have</p><p>(1) : \\(2q = 3p \\)</p><p>\\(10q = 15p\\)</p><p>\\(\\implies 15p = 7r\\)</p><p>\\(\\therefore \\frac{p}{r} = \\frac{7}{15}\\)</p><p>\\(p : r = 7 : 15\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "4:105",
+            "7:15",
+            "20:21",
+            "2:35",
+            "3:20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1982,
+        "question": "<p>If sin \\(\\theta\\) = \\(\\frac{m - n}{m + n}\\); Find the value of 1 + tan2\\(\\theta\\)</p>",
+        "explanation": "<p>\\((m + n)^{2} = (m - n)^{2} + x^{2}\\)</p><p>\\(m^{2} + 2mn + n^{2} = m^{2} - 2mn + n^{2} + x^{2}\\)</p><p>\\(x^{2} = 4mn\\)</p><p>\\(x = \\sqrt{4mn} = 2\\sqrt{mn}\\)</p><p>1 + tan2\\(\\theta\\) = sec2\\(\\theta\\)<br>\n<br>\n= \\(\\frac{1}{cos^2\\theta}\\)<br>\n<br>\n\\(\\cos \\theta = \\frac{2\\sqrt{mn}}{(m + n)}\\)</p><p>\\(\\frac{1}{\\cos \\theta} = \\frac{(m + n)}{2\\sqrt{mn}}\\)</p><p>\\(\\sec^{2} \\theta = \\frac{(m + n)^{2}}{4mn}\\)</p><p>= \\(\\frac{(m^2 + n^2 + 2mn)}{4mn}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{(m^2 + n^2)}{m + n}\\)",
+            "\\(\\frac{(m^2 + n^2 + 2mn)}{4mn}\\)",
+            "\\(\\frac{2(m^2 + n^2 + mn)}{m + n}\\)",
+            "\\(\\frac{(m^2 + n^2 + mn)}{m + n}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1982,
+        "question": "<p>The currency used in a country is called 'Matimalik'(M) and is of base seven. A lady in that country bought 4 bags of rice at M56 per bag and and 3 tins of milk at M4 per tin. What is the total cost of the item she bought?</p>",
+        "explanation": "<p>4 bags of rice - M 56 each</p><p>3 tins of milk - M 4 each</p><p>\\(M 56 \\times 4 = M 323\\)</p><p>\\(M 4 \\times 3 = M 15\\)</p><p>\\(M (323 + 15) = M 341\\)</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "M246<sub>7</sub>",
+            "M242<sub>7</sub>",
+            "M236<sub>7</sub>",
+            "M341<sub>7</sub>",
+            "M338<sub>7</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1982,
+        "question": "<p>Solve for x, If \\(\\frac{\\frac{2}{x}}{\\frac{p^2 + p^2}{p^2 + p^2}}\\) = m</p>",
+        "explanation": "<p>\\(\\frac{1}{p^2}\\) + \\(\\frac{1}{q^2}\\) = \\(\\frac{q^2 + p^2}{p^2 + q^2}\\)<br>\n<br>\n\\(\\frac{\\frac{2}{x}}{\\frac{p^2 + p^2}{p^2 + p^2}}\\)<br>\n<br>\nm = \\(\\frac{2p^2q^2}{x(p^2 + q^2)}\\)<br>\n<br>\n= m2p2q2 = m x (p2 + q2)<br>\n<br>\nx = \\(\\frac{2p^2q^2}{m(q^2 + p^2)}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{4pq}{m(p + q)}\\)",
+            "\\(\\frac{2p^2q^2}{m(q^2 + p^2)}\\)",
+            "\\(\\frac{2pq}{m(q^2 + p^2)}\\)",
+            "\\(\\frac{2p^2q^2}{m(p^2)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1982,
+        "question": "Express 37.05 x 0.0042 in standard form",
+        "explanation": "37.05 x 0.0042 in standard form<br><br>\\(\\begin{array}{c|c}No. &amp; log \\\\\\hline 37.05 &amp; 1.5688\\\\ 0.0042 &amp; 3.6232 \\\\ \\hline &amp; 1.1920\\end{array}\\)<br><br>= 0.1556<br><br>= 1.556 x 10<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "15.561 x 10<sup>2</sup>",
+            "1.5561 x 10<sup>-4</sup>",
+            "1.556 x 10<sup>-1</sup>",
+            "1.5561 x 10<sup>1</sup>",
+            "1.55 x 10<sup>1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1982,
+        "question": "Find the values of x for which the expression \\(\\frac{(x - 3)(x - 2)}{x^2 + x - 2}\\)",
+        "explanation": "to find the values of x for which the expression is underlined, let x<sup>2</sup>+ x - 2 = 0<br><br>By factorizing, we have (x + 2)(x - 1) = 0<br><br>when x + 2 = 0, when x - 1 = 0, x = -2 or x = 1<br><br>The two values are -2 and 1",
+        "correctIndex": 0,
+        "options": [
+            "1, -2",
+            "-1, 2",
+            "2, 3",
+            "-1. -2",
+            "-2, -3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1982,
+        "question": "A stone Q is tied to a point P vertically above Q by an inelastic string of length 2 meters. How high does the stone rise when the string is inclined at an angle 60<sup>o</sup>to the vertical?",
+        "explanation": "Cos 60<sup>o</sup>= \\(\\frac{PD}{2}\\)<br><br>Cos 60<sup>o</sup>x 2 = 0.5 x 2<br><br>= 1m",
+        "correctIndex": 3,
+        "options": [
+            "It does not rise",
+            "2\\(\\sqrt{3}\\) meters",
+            "3 meters",
+            "1 meters",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1982,
+        "question": "<p>Express 130 kilometers per second in meters per hour</p>",
+        "explanation": "<p>1km = 1000m<br>\n<br>\n60sec. = 1 mins<br>\n<br>\n60 mins. = 1 hr<br>\n<br>\n130000m per sec = 130000 x 3600<br>\n<br>\n= 468000000m/hr<br>\n<br>\n= 468 x 108 m/hr</p>",
+        "correctIndex": 3,
+        "options": [
+            "7.8 x 10<sup>-5</sup>",
+            "4.68 x 10<sup>6</sup>",
+            "7,800,000",
+            "4.68 x 10<sup>8</sup>",
+            "7.80 x 10<sup>5</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1982,
+        "question": "<p>The quantity y is partly constant and partly varies inversely as the square of x. With P and Q as constants, a possible relationship between x and y is</p>",
+        "explanation": "<p>Given the above statement,</p><p>\\(y = Q + \\frac{P}{x^{2}}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "y = Q + \\(\\frac{P}{x^2}\\)",
+            "y = Q + px",
+            "y = \\(\\frac{PQ}{x^2}\\)",
+            "y = Q - \\(\\frac{P}{x^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1982,
+        "question": "If \\(\\frac{3e + f}{3f - e}\\) = \\(\\frac{2}{5}\\), find the value of \\(\\frac{e + 3f}{f - 3e}\\)",
+        "explanation": "\\(\\frac{3e + f}{3f - e}\\) = \\(\\frac{2}{5}\\)<br><br>= 3e + f<br><br>= 2 x 1<br><br>\\(\\frac{-e + 3f}{3e - f}\\) = \\(\\frac{5 \\times 3}{2}\\)<br><br>= \\(\\frac{3e + 9f = 15}{10f = 17}\\)<br><br>f = \\(\\frac{17}{10}\\)<br><br>Sub. for equ. (1)<br><br>3e + \\(\\frac{17}{10}\\) = 2<br><br>3e = 2 - \\(\\frac{17}{10}\\)<br><br>\\(\\frac{3}{10}\\)<br><br>e = \\(\\frac{3}{10}\\) x \\(\\frac{1}{3}\\)<br><br>= \\(\\frac{1}{10}\\)<br><br>= e + 3f = \\(\\frac{1}{10}\\) + \\(\\frac{3 \\times}{10}\\) = \\(\\frac{52}{10}\\)<br><br>f - 3e = \\(\\frac{17}{10}\\) - 3 x \\(\\frac{1}{10}\\)<br><br>= \\(\\frac{14}{10}\\)<br><br>= \\(\\frac{52}{10}\\) x \\(\\frac{10}{14}\\)<br><br>= \\(\\frac{26}{7}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{5}{2}\\)",
+            "1",
+            "\\(\\frac{26}{7}\\)",
+            "\\(\\frac{1}{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1982,
+        "question": "<p>A world congress of mathematicians were held in Nice in 1970 with 800 people participating. There were 300 from Europe, 200 from America, 150 from Asia, 45 from Africa and 105 from Australia. Representing the above on a pie chart, the angle of the sector representing the participants from Asia is?</p>",
+        "explanation": "<p>Representing from Asia is 150<br>\n<br>\n\\(\\frac{150}{800}\\) x 360<br>\n<br>\n= \\(\\frac{135}{2}\\)<br>\n<br>\n= 67\\(\\frac{1}{2}\\)o</p>",
+        "correctIndex": 1,
+        "options": [
+            "150<sup>o</sup>",
+            "67\\(\\frac{1}{2}\\)<sup>o</sup>",
+            "67<sup>o</sup>",
+            "135<sup>o</sup>",
+            "68<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1982,
+        "question": "The diameter of a metal rod is measured as 23.40 cm to four significant figures. What is the maximum error in the measurement?",
+        "explanation": "Maximum error in measurement to 2 decimal places<br><br>Maximum error = \\(\\frac{1}{2}\\) x 0.001<br><br>= 0.005",
+        "correctIndex": 3,
+        "options": [
+            "0.05cm",
+            "0.5cm",
+            "0.045cm",
+            "0.005cm",
+            "0.004cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1982,
+        "question": "<p>In a regular polygon of n sides, each interior angle is 144o. Find n</p>",
+        "explanation": "<p>Formula for an interior angle of a polygon is (2n - 4) x 90<br>\n<br>\n(2n - 4) x 90 = 144n<br>\n<br>\n190n - 360 = 144n<br>\n<br>\nn = \\(\\frac{360}{36}\\)<br>\n<br>\n= 10</p>",
+        "correctIndex": 2,
+        "options": [
+            "12",
+            "11",
+            "10",
+            "8",
+            "6F"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1982,
+        "question": "Simplify \\(\\frac{3}{2x - 1}\\) + \\(\\frac{2 - x}{x - 2}\\)",
+        "explanation": "\\(\\frac{3}{2x - 1}\\) + \\(\\frac{2 - x}{x - 2}\\)<br><br>= \\(\\frac{3}{2x - 1}\\) - \\(\\frac{x - 2}{x - 2}\\)<br><br>= \\(\\frac{3}{2x - 1}\\) - 1<br><br>= \\(\\frac{3 - (2x - 1)}{2x - 1}\\)<br><br>= \\(\\frac{3 - 2x + 1}{2x - 1}\\)<br><br>= \\(\\frac{4 - 2x}{2x - 1}\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2 - x}{(2x - 1)(x - 2)}\\)",
+            "\\(\\frac{5 - x}{(2x - 1)(x - 2)}\\)",
+            "\\(\\frac{4 - 2x}{2x - 1}\\)",
+            "\\(\\frac{6 - 3x}{(2x - 1)(x - 2)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1982,
+        "question": "The solution to the quadratic equation 5 + 3x - 2x<sup>2</sup>= 0 is",
+        "explanation": "5 + 3x - 2x<sup>2</sup>= 0, (x + 1)(5 - 2x) (expand to check)<br><br>(x + 1)(5 - 2x) = 0<br><br>when x = 1 = 0, x = -1<br><br>when 5 - 2x = 0, x = \\(\\frac{5}{2}\\) - 1",
+        "correctIndex": 3,
+        "options": [
+            "(\\(\\frac{5}{2}\\), 1)",
+            "(5, 3)",
+            "-(\\(\\frac{5}{2}\\), -1)",
+            "(\\(\\frac{5}{2}\\), -1)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1982,
+        "question": "A housewife bought 3 kilograms of garri at N13.00 per kg. She deposited N160. 00 for half a cow and bought 24 oranges at 10k each. She came back home with N20.60. She therefore left home with",
+        "explanation": "3 kg of garri at N13.00 per kg = N39.00<br><br>half a cow = n160.00<br><br>24 oranges at 10k each = N2.40<br><br>balance = N20.60<br><br>Adding all together = N22.00",
+        "correctIndex": 1,
+        "options": [
+            "N220.00",
+            "N222.00",
+            "N201.40",
+            "N202.00",
+            "N180.80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1982,
+        "question": "The solution to the simultaneous equations 3x + 5y = 4, 4x + 3y = 5 is",
+        "explanation": "3x + 5y = 4, 4x + 3y = 5<br><br>3x + 5y = 4 x 4<br><br>4x + 3y = 5 x 3<br><br>12x + 20y = 16.....(i)<br><br>12x + 9y = 15.......(ii)<br><br>subtract eqn.(ii) from eqn.(i)<br><br>11y = 1<br><br>y = \\(\\frac{1}{11}\\)<br><br>12x + 20 x \\(\\frac{1}{11}\\) = 16<br><br>12x = \\(\\frac{156}{11}\\)<br><br>x = \\(\\frac{13}{11}\\)<br><br>= \\(\\frac{13}{11}, \\frac{1}{11}\\)",
+        "correctIndex": 1,
+        "options": [
+            "(\\(\\frac{-13}{11}, \\frac{1}{11}\\))",
+            "(\\(\\frac{13}{11}, \\frac{1}{11}\\))",
+            "(\\(\\frac{13}{11}, \\frac{-1}{11}\\))",
+            "(\\(\\frac{11}{13}, \\frac{1}{11}\\))",
+            "(13, 11)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1982,
+        "question": "The area of the curved surface of the cone generated by the sector of a circle radius 6cm and are length 22cm is (\\(\\pi\\) = \\(\\frac{22}{7}\\))",
+        "explanation": "Given: length of the arc AOB = 22cm ; L = 6cm<br><br>Curved surface area of cone = \\(\\pi\\)rl<br><br>Length of an arc = \\(\\frac{\\theta}{360}\\) x 2 \\(\\pi\\)L<br><br>= 22cm<br><br>but length of an arc = circumference of the cone = 2\\(\\pi\\)<br><br>where r is the radius of the cone circle<br><br>2\\(\\pi\\)r = 22, r = \\(\\frac{22}{2\\pi}\\)r<br><br>= 11 x \\(\\frac{7}{22}\\)<br><br>= \\(\\frac{7}{2}\\)<br><br>curved surface area = \\(\\pi\\)rl<br><br>= \\(\\frac{22}{7}\\) x \\(\\frac{7}{2}\\) x 6<br><br>= 66 sq.cm",
+        "correctIndex": 4,
+        "options": [
+            "58 sq.cm",
+            "34 sq.cm",
+            "132 sq.cm",
+            "77 sq.cm",
+            "66 sq.cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1982,
+        "question": "The square base of a pyramid of side 3cm has height 8cm. If the pyramid is cut into two parts by a plane parallel to the base midway between the base and the vertex, the volumes of the two sections are",
+        "explanation": "Vol. of the 1st section is side x height<br><br>vol. = 3 x 8<br><br>= 24cm<sup>3</sup><br><br>vol. of the second section is 3 x 1 = 3<br><br>= 24cm<sup>3</sup>, 3cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "(21cm<sup>3</sup>, 3cm<sup>3</sup>)",
+            "(24cm<sup>3</sup>, 3cm<sup>3</sup>)",
+            "(24cm<sup>3</sup>, 21cm<sup>3</sup>)",
+            "(72cm<sup>3</sup>, 9cm<sup>3</sup>)",
+            "(63cm<sup>3</sup>, 9cm<sup>3</sup>)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1982,
+        "question": "Simplify f<sup>\\(\\frac{1}{2}\\)</sup>g<sup>2</sup>h<sup>\\(\\frac{1}{2}\\)</sup>\\(\\div\\) f<sup>\\(\\frac{5}{2}\\)</sup>g<sup>o</sup>h<sup>\\(\\frac{7}{3}\\)</sup>",
+        "explanation": "f<sup>\\(\\frac{1}{2}\\)</sup>g<sup>2</sup>h<sup>\\(\\frac{1}{2}\\)</sup>\\(\\div\\) f<sup>\\(\\frac{5}{2}\\)</sup>g<sup>o</sup>h<sup>\\(\\frac{7}{3}\\)</sup>= f<sup>\\(\\frac{1}{2}\\)</sup>- \\(\\frac{5}{2}\\) g<sup>2 - 0</sup>h\\(\\frac{1}{2}\\) - \\(\\frac{7}{3}\\)<br><br>f<sup>-2</sup>g<sup>2</sup>h<sup>-2</sup><br><br>= \\(\\frac{g^2}{f^2h^2}\\)<br><br>= (\\(\\frac{g}{fh}\\))<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "(\\(\\frac{g}{fh}\\))<sup>2</sup>",
+            "f<sup>2</sup>g<sup>2</sup>h<sup>2</sup>",
+            "\\(\\frac{5}{4}\\)g<sup>o</sup>h\\(\\frac{7}{9}\\)",
+            "\\(\\frac{g^2}{f^5h^7}\\)",
+            "\\(\\frac{1}{f^2h^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1982,
+        "question": "Determine the mean monthly salary of 50 employees of a company from the following frequency distribution.<br>\\(\\begin{array}{c|c} \\text{Monthly salary} &amp; \\text{Frequency}\\\\\\hline N200.00 &amp; 10\\\\ N325.00 &amp; 5\\\\N100.00 &amp; 20\\\\N120.00 &amp; 2\\\\ N60.00 &amp; 10\\\\ N80.00 &amp; 3\\end{array}\\)",
+        "explanation": "\\(\\bar{x}\\) = \\(\\frac{fx}{N}\\)<br><br>= \\(\\frac{6705}{50}\\)<br><br>= 1341<br><br>= N134.10",
+        "correctIndex": 1,
+        "options": [
+            "N215.30",
+            "N134.10",
+            "N143.10",
+            "N80.00",
+            "N50.30"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1982,
+        "question": "If the function y = 5x is graphed, what would be its intercept on the y-axis?",
+        "explanation": "y = 5x, when x = 0<br><br>y = 0, when x = 1<br><br>y = 5<br><br>intercept on y axis is 0",
+        "correctIndex": 4,
+        "options": [
+            "5",
+            "\\(\\frac{1}{5}\\)",
+            "1",
+            "2",
+            "zero"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1982,
+        "question": "A side of a rhombus is 2cm in length. An angle of the rhombus is 60<sup>o</sup>. What is the length of the diagonal facing this angle?",
+        "explanation": "\\(\\frac{x}{2}\\) = sin60<sup>o</sup>= cos30<sup>o</sup><br><br>x = 2 sin<sup>o</sup><br><br>= 2 x \\(\\frac{\\sqrt{3}}{2}\\)<br><br>= \\(\\sqrt{3}\\)<br><br>length of the diagonal = 2 x \\(\\sqrt{2}\\)<br><br>= 2\\(\\sqrt{3}\\)",
+        "correctIndex": 3,
+        "options": [
+            "2cm",
+            "8cm",
+            "4cm",
+            "2\\(\\sqrt{3}\\)cm",
+            "16cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1982,
+        "question": "A variable y is inversely proportional to x<sup>2</sup>, when y = 10, x = 2. What is y when x = 10?",
+        "explanation": "y \\(\\alpha\\) \\(\\frac{1}{x^2}\\)<br><br>y = \\(\\frac{k}{x^2}\\)<br><br>k = x<sup>2</sup>y<br><br>= (2)<sup>2</sup>x 10<br><br>= 40<br><br>y = \\(\\frac{40}{x^2}\\)<br><br>= \\(\\frac{40}{(10)^2}\\)<br><br>= \\(\\frac{40}{100}\\)<br><br>= 0.4",
+        "correctIndex": 3,
+        "options": [
+            "2",
+            "4",
+            "100",
+            "0.4",
+            "0.1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1982,
+        "question": "Two distinct sectors i the same circle substend 100<sup>o</sup>and 30<sup>o</sup>respectively at the centre of the circle. Their corresponding arcs are in ratio",
+        "explanation": "The distinct sectors i the same circle substend 100<sup>o</sup>and 30<sup>o</sup>respectively at the centre of the circle. Their corresponding arcs are in ratio 100:30 = 10:3",
+        "correctIndex": 0,
+        "options": [
+            "10:3",
+            "1:100",
+            "3:1",
+            "5:2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1982,
+        "question": "The arithmetic mean of the ages of 30 pupils in a class is 15.3 years. One boy leaves the class and one girl is enrolled, and the new average age of 30 pupils in the class becomes 15.2 years. How much older is the boy than the girl?",
+        "explanation": "1st 30 pupils at average age of 15.3 yrs. give total age of 15.3 x 30 = 459yrs<br><br>2nd group of 30 pupils at average age of 15.2 yrs<br><br>give total age of 15.2 x 30 = 456yrs<br><br>Difference in age = 459 - 456<br><br>= 3 yrs",
+        "correctIndex": 3,
+        "options": [
+            "30 years",
+            "6 years",
+            "9 years",
+            "3 years",
+            "1 year"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9989869960_math-6.jpg\" class=\"img-fluid\">",
+        "explanation": "From \\(\\bigtriangleup\\)QPR, &lt; R = 180<sup>o</sup>- (25<sup>o</sup>+ 90<sup>o</sup>)<br><br>180<sup>o</sup>- 115<sup>o</sup>= 65<sup>o</sup><br><br>From \\(\\bigtriangleup\\)PSQ, Sin 65<sup>o</sup>= \\(\\frac{QPR}{hyp}\\) = \\(\\frac{PS}{5}\\)<br><br>PS = 5 sin 65<sup>o</sup><br><br>From \\(\\bigtriangleup\\)PSR, tan = \\(\\frac{OPP}{adj}\\) = \\(\\frac{PS}{QS}\\)<br><br>but PS = 5 sin 65<sup>o</sup><br><br>QS tan 25<sup>o</sup>= PS<br><br>QS tan 25<sup>o</sup>= 5 sin 65<sup>o</sup><br><br>QS = \\(\\frac{5 sin 65^o}{tan 25^o}\\)<br><br>= 5 tan 25<sup>o</sup>cos 65<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "5 tan 25<sup>o</sup>sin 65<sup>o</sup>",
+            "5 cos 25<sup>o</sup>sin 65<sup>o</sup>",
+            "5 tan 25<sup>o</sup>cos 65<sup>o</sup>",
+            "cos 25<sup>o</sup>cos 65<sup>o</sup>",
+            "5 cosec 25<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25688245158_math-7.jpg\" class=\"img-fluid\">",
+        "explanation": "Distance = 155 - 50 = 105km<br><br>Time = 75mins<br><br>= \\(\\frac{75}{60}\\)hr = \\(\\frac{5}{4}\\)hr<br><br>Average speed = \\(\\frac{Distance}{time}\\) = \\(\\frac{105}{\\frac{5}{4}}\\)<br><br>= \\(\\frac{105 \\times 4}{5}\\)<br><br>= 84km\\h",
+        "correctIndex": 4,
+        "options": [
+            "155km/hr",
+            "50km/hr",
+            "40km/hr",
+            "124km/hr",
+            "84km/hr"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7135625485_math-8.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; STR = \\(\\frac{180 - 52}{2}\\) = \\(\\frac{128}{2}\\) = 64<sup>o</sup><br><br>&lt; PTR = 180 - &lt; STR(angle on a straight line)<br><br>= 180 - 64 = 116<sup>o</sup><br><br>&lt; PQR + &lt; PTR = 180(Supplementary)<br><br>&lt; PQR + 118 = 180<br><br>&lt; PQR = 180 - 118<br><br>= 64<br><br>M = 180 - &lt; PQR<br><br>= 180 - &lt; PQR = 180 - 64<br><br>= 116<sup>o</sup>",
+        "correctIndex": 4,
+        "options": [
+            "128<sup>o</sup>",
+            "52<sup>o</sup>",
+            "104<sup>o</sup>",
+            "64<sup>o</sup>",
+            "116<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19979756930_math-9.jpg\" class=\"img-fluid\">",
+        "explanation": "The parabola is best described by the equation x = y<sup>2</sup>- k because all other equations do not give the equation of the parabola in this position. C for example is the equation of a hyperbola facing downwards. D is the equation of a hyperbola A and E are equations of parabola facing upwards",
+        "correctIndex": 1,
+        "options": [
+            "y = kx<sup>2</sup>",
+            "x = y<sup>2</sup>- k",
+            "y = k - x<sup>2</sup>",
+            "x<sup>2</sup>= y<sup>2</sup>- k",
+            "y = (k - x)<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17125508976_math-10.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of a //gm PQRS = B X H<br><br>Area of a //gm PQRS = PQ x TF<br><br>50 = 10TF<br><br>TF = 5cm",
+        "correctIndex": 4,
+        "options": [
+            "10cm",
+            "12.5cm",
+            "8cm",
+            "6cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15698385340_math-11.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>QRST is a rectangle<br>\n<br>\nPT //QM, P = 60o = angle MUR = 150o</p>",
+        "correctIndex": 0,
+        "options": [
+            "150<sup>o</sup>",
+            "30<sup>o</sup>",
+            "60<sup>o</sup>",
+            "120<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28542524280_math-12.jpg\" class=\"img-fluid\">",
+        "explanation": "PTQ = 45<sup>o</sup><br><br>&lt; PRQ = 76\\(\\frac{1}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "45",
+            "135",
+            "40",
+            "76\\(\\frac{1}{2}\\)",
+            "52\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    }
+]

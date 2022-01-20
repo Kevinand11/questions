@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1999,
+        "question": "The inner diameter of a test tube can be measured accurately using a",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "micrometer screw guage",
+            "pair of dividers",
+            "metre rule",
+            "pair of vernier calipers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1999,
+        "question": "<p>Two bodies have masses in the ratio 3:1. They experience forces which impart to them acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced.</p>",
+        "explanation": "<p>Let the forces be F1, and F2.<br>\nF1 = m1 a1 = 3 x 2 = 6N<br>\n<br>\nF2 = m2 a2 = 1 x 9 = 9N<br>\n<br>\nF1 : F2 = 6:9 = 2:3<br>\n<br>\nThus ratio of forces is 2: 3</p>",
+        "correctIndex": 2,
+        "options": [
+            "1 : 4",
+            "2 : 1",
+            "2 : 3",
+            "2 : 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1999,
+        "question": "<p>Particles of mass 10^-2kg is fixed to the tip of a fan blade which rotates with angular velocity of 100rad-1. If the radius of the blade is 0.2m, the centripetal force is</p>",
+        "explanation": "<p>F = \\(\\frac{mv ^2}{r}\\)</p><p>= \\(mω^2r\\)</p><p>(Since V = ωr)</p><p>F = 10\\(^{-2}\\) x 100\\(^2\\) x 0.2<br>\n<br>\nF =20 N</p>",
+        "correctIndex": 1,
+        "options": [
+            "2 N",
+            "20 N",
+            "200 N",
+            "400 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1999,
+        "question": "<p>A lead bullet of mass 0.05kg is fired with a velocity of 200ms\\(^{-1}\\) into a lead block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is</p>",
+        "explanation": "<p>From principle of conservation of linear momentum,<br>\n(0.05 x 200) + (0.95 x 0) = (0.05 + 0.95) x V (since collision is inelastic).</p><p>10 + 0 = V</p><p>Thus V = 10m/s.</p><p>Recall Kinetic Energy = \\(\\frac{1}{2} mv^2\\)</p><p>\\(\\therefore\\) K.E = 1/2 (0.05 + 0.95) x 10\\(^2\\)</p><p>K.E = 1/2 (1 x 100) = 50 J.</p>",
+        "correctIndex": 0,
+        "options": [
+            "50 J",
+            "100 J",
+            "150 J",
+            "200 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1999,
+        "question": "<p>A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms-1 from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is<br>\n<br>\n(take g = 10ms-2)</p>",
+        "explanation": "<p>Height h = 1/2 (U\\(^2\\)/g) = 10\\(^2\\)/20 = 5m<br>\n<br>\nEnergy before hitting ground is = P.E at the height of 5m.<br>\n<br>\nP.E = mgh = 0.1 x 10 x 10= 10 J</p><p> K.E = 1/2 MV\\(^2\\) = 5J</p><p>T.E = K.E + P.E = 5 + 10 = 15J</p>",
+        "correctIndex": 2,
+        "options": [
+            "5 J",
+            "10 J",
+            "15 J",
+            "20 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1999,
+        "question": "<p>A car of mass 800kg attains a speed of 25m/s in 20 secs. The power developed in the engine is</p>",
+        "explanation": "<p>Power = Force x \\(\\frac{distance}{time}\\) = \\(\\frac{m(v - u)}{t} \\times v\\)<br>\n<br>\n\\(\\frac{800(25 - 0)}{20} \\times 25\\)</p><p>= 2.5 x 10\\(^{4}\\) watts</p>",
+        "correctIndex": 1,
+        "options": [
+            "1 . 25 x 10<sup>4</sup>W",
+            "2 . 50 x 10<sup>4</sup>W",
+            "1 . 25 x 10<sup>6</sup>W",
+            "2 . 50 x 10<sup>6</sup>W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1999,
+        "question": "When the brakes in a car are applied, the frictional force force on the tyres is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "is a disadvantage because it is in the direction of the motion of the car",
+            "is a disadvantage because it is in the opposite direction of the motion of the car",
+            "is an advantage because it is in the direction of the motion of the car",
+            "is an advantage because it is in the opposite direction of the motion of the car"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1999,
+        "question": "If the stress on a wire is 10<sup>7</sup>NM<sup>-2</sup>and the wire is stretched from its original length of 10.00 cm to 10.05 cm. The young's modulus of the wire is",
+        "explanation": "Y = stress/strain, but stress = 10<sup>7</sup>Nm<sup>-2</sup>(given).<br><br>Strain = e/l<sub>0</sub>. = (10.05 - 10.00)/10.00 = 0.005<br><br>Thus Y = 10<sup>7</sup>/0.005 = 2 . 0 x 10<sup>9</sup>Nm<sup>-2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "5 . 0 x 10<sup>4</sup>Nm<sup>-2</sup>",
+            "5 . 0 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "2 . 0 x 10<sup>8</sup>Nm<sup>-2</sup>",
+            "2 . 0 x 10<sup>9</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1999,
+        "question": "A solid weigh 10 .00 N in air, 6 N when fully immersed in water and 7 . 0 N when fully immersed in a liquid X. Calculate the relative density of the liquid, X.",
+        "explanation": "R.D = loss in weight in liquid X<dby> loss in weight in water.<br>\n<br>\nR.D = (10 - 7)/(10 - 6) = 3/4\n</dby>",
+        "correctIndex": 2,
+        "options": [
+            "5/3",
+            "4/3",
+            "3/4",
+            "7/10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1999,
+        "question": "When temperature of a liquid increases, its surface tension",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remain Constant",
+            "Increases then decreases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1999,
+        "question": "A gas at a volume of V<sub>0</sub>in a container at pressure P<sub>0</sub>is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
+        "explanation": "At constant T, P<sub>1</sub>V<sub>1</sub>= P<sub>2</sub>V<sub>2</sub>.<br><br>Let P<sub>1</sub>= P<sub>0</sub>and V<sub>1</sub>= V<sub>0</sub>, then solve accordingly.",
+        "correctIndex": 3,
+        "options": [
+            "P<sub>0</sub>/5",
+            "4P<sub>0</sub>/5",
+            "P<sub>0</sub>",
+            "5P<sub>0</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1999,
+        "question": "A piece of substance of specific head capacity 450JKg<sup>-1</sup>K<sup>-1</sup>falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms<sup>-2</sup>]",
+        "explanation": "Energy at the height = mgh<br>This energy is converted to heat energy - mcΔt<br>∴ From the principle of energy conversion,<br>mcΔt = mgh<br>m x 450 x Δt = m x 10 x 20<br>∴ Δt = m x 10 x 20/(m x 450)<br>= 200/450<br>= 4/9°C",
+        "correctIndex": 1,
+        "options": [
+            "2/9°C",
+            "4/9°C",
+            "9/4°C",
+            "9/2°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1999,
+        "question": "I. A liquid boils when its saturated vapour pressure is equal to the external pressure<br>II. Dissolved substances in pure water lead to increase in the boiling point.<br>III. When the external pressure is increased, the boiling point increases.<br>IV. Dissolved substances in pure water decrease the boiling point.<br><br>Which combination of the above are peculiarities of the boiling point of a liquid?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "I, II and III",
+            "I, II, III and IV",
+            "I, II and IV",
+            "II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1999,
+        "question": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is",
+        "explanation": "Temperature Gradient = \\(\\frac{\\Delta {\\text{temp.}}}{\\text{thickness}}\\)<br><br>= \\(\\frac{80 - 20}{0.02}\\)<br><br>= \\(\\frac{60}{0.02}\\)<br><br>= 3000Km<sup>-1</sup><br><br>= 3.0 x 10<sup>3</sup>Km<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "3.0 x 10<sup>2</sup>Km<sup>-1</sup>",
+            "3.0 x 10<sup>3</sup>Km<sup>-1</sup>",
+            "5.0 x 10<sup>3</sup>Km<sup>-1</sup>",
+            "3.0 x 10<sup>4</sup>Km<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1999,
+        "question": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss;<br>Specific heat capacity of copper = 400JKg<sup>-1</sup>K<sup>-1</sup><br>Latent heat of fusion of ice = 3.3 x 10<sup>5</sup>JKg<sup>-1</sup>",
+        "explanation": "Heat given off by the copper = MCt<br>= 2 x 400 x (100 - 0)<br>Heat absorbed by the ice = ML<br>= M x 3.3 x 10<sup>5</sup><br>Heat lost = Heat gained<br>∴ M x 3.3 x 10<sup>5</sup>= 2 x 400 x 100<br>∴ M = (2 x 400 x 100)/3.3 x 10<sup>5</sup><br>= 8/33Kg",
+        "correctIndex": 0,
+        "options": [
+            "8/33kg",
+            "33/80kg",
+            "80/33kg",
+            "33/8kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1999,
+        "question": "The equation of a wave travelling along the positive x-direction is given by;<br>y = 0.25 x 10<sup>-3</sup>sin (500t - 0.025x).<br>Determine the angular frequency of the wave motion.",
+        "explanation": "The general wave equation is given by;<br>y = A Sin(wt - 2∏x/Wavelenght)<br>where w = angular frequency<br>Thus comparing this equation with the equation<br>y = 0.25 x 10<sup>-3</sup>Sin (500t - 0.025x)<br>That Amplitude = 0.25 x 10<sup>-3</sup>m<br>the angular frequency w = 500 (the coefficient of t in both equations)<br>∴ w = 500 rad s<sup>-1</sup><br>= 5.00 x 10<sup>2</sup>rad s<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0.25 x 10<sup>-3</sup>rad s<sup>-1</sup>",
+            "0.25 x 10<sup>-1</sup>rad s<sup>-1</sup>",
+            "5.00 x 10<sup>2</sup>rad s<sup>-1</sup>",
+            "2.50 x 10<sup>3</sup>rad s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1999,
+        "question": "If a sound wave goes from a cold air region to a hot air region, its wavelength will",
+        "explanation": "If a sound wave goes from a cold air region to a hot air region (which will be less dense), the velocity decreases, and since the frequency is always constant, the wave length decreases with the velocity",
+        "correctIndex": 1,
+        "options": [
+            "increase",
+            "decrease",
+            "decrease then increase",
+            "remain constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1999,
+        "question": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40hz and 180Hz?",
+        "explanation": "The lowest note (fundamental note) emitted by any stretched string has a fundamental frequecy f<sub>o</sub>= V/2l = 40Hz<br>The 1st overtone = 2f<sub>o</sub>= 2 x 40 = 80Hz<br>2nd overtone = 3f<sub>o</sub>= 3 x 40 = 120Hz<br>3rd overtone = 4f<sub>o</sub>= 4 x 40 = 160Hz<br>4th overtone = 5f<sub>o</sub>= 5 x 40 = 200Hz<br><br>Overtones between 40Hz and 180Hz are 80Hz, 120Hz, 160Hz = 3 Overtones",
+        "correctIndex": 1,
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1999,
+        "question": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is",
+        "explanation": "The image of an object placed in front of a plane mirror is always as far behind the mirror as the object is in front of the mirror. Thus when the object is 4m in front of the mirror, the image will be 4m behind the mirror. But when the mirror is moved in towards the man, (that is the man is now 3m from the mirror), the image distance will again decrease by 1m from behind the mirror. Thus the new image position is 3m behind the mirror. Therefore, the distance between the man and his new image is 6m.",
+        "correctIndex": 2,
+        "options": [
+            "3m",
+            "5m",
+            "6m",
+            "10m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1999,
+        "question": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "concave mirror of focal length 5cm",
+            "concave mirror of focal length 10cm",
+            "convex mirror of focal length 5cm",
+            "convex mirror of focal length 20cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1999,
+        "question": "The velocities of light in air and glass are 3.0 x 10<sup>8</sup>ms<sup>-1</sup>and 2.0 x 10<sup>8</sup>ms<sup>-1</sup>respectively. If the angle of refraction is 30°, the sine of the angle of incidence is",
+        "explanation": "Refractive index<br>= \\(\\frac{Sin i}{Sin r}\\) = \\(\\frac{\\text{Vel. of light in air}}{\\text{vel. of light in glass}}\\)<br><br>= \\(\\frac{Sin i}{Sin 30^o}\\)= \\(\\frac{3.0 \\times 10^8}{2.0 \\times 10^8}\\)<br><br>= Sin i = \\(\\frac{(3.0 \\times 10^8 \\times Sin 30^o)}{2.0 \\times 10^8}\\)<br><br>= Sin i = \\(\\frac{(3.0 \\times 10^8 \\times 0.5)}{2.0 \\times 10^8}\\)<br><br>= \\(\\frac{1.5}{2}\\)<br><br>= 0.75",
+        "correctIndex": 3,
+        "options": [
+            "0.33",
+            "0.50",
+            "0.67",
+            "0.75"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1999,
+        "question": "An astronomical telescope is said to be in normal adjustment when the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "eye is accommodated",
+            "focal length of objective lens is longer than that of eye piece",
+            "final image is at the near point of eye",
+            "final image is at infinity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1999,
+        "question": "Which of the following electromagnetic waves is least energetic?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Infra-red rays",
+            "X-rays",
+            "Ultra-violet rays",
+            "Gamma rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1999,
+        "question": "Steel is more suitable for permanent magnet than iron because the former",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "is easily demagnetized by shaing vigorously",
+            "is an alloy of many metals",
+            "is easily magnetized by alternating current through one cycle",
+            "retains magnetism more than iron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1999,
+        "question": "Four cells each of e.m.f 1.5V and internal resistance of 4Ω are connected in parallel. What is the effective e.m.f. and internal resistance of the combination?",
+        "explanation": "Since all the cells are connected in parallel, the effective e.m.f. is just that of one single cell. Which means e.m.f. = 1.5V<br><br>However, the effective internal resistance adds as parallel arrangement given as<br>1/r = 1/r<sub>1</sub>+ 1/r<sub>2</sub>+ 1/r<sub>3</sub>+ 1/r<sub>4</sub><br>= 1/4 + 1/4 + 1/4 + 1/4<br>= 1Ω<br>∴ r = 1Ω<br><br>Answer = 1.5V, 1Ω",
+        "correctIndex": 3,
+        "options": [
+            "6.0V, 16Ω",
+            "6.0V, 1Ω",
+            "1.5V, 4Ω",
+            "1.5V, 1Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1999,
+        "question": "<p>A 3000W electric cooker is to be used on a 200V mains circuit. Which of the fuses below can be used safely with the cooker?</p>",
+        "explanation": "<p>The maximum current drawn by the cooker is given by;<br>\nI = \\(\\frac{P}{V}\\)<br>\n∴ I = \\(\\frac{\\text{3000}}{200}\\)<br>\nI = 15A<br>\nThe fuse rating = I \\(\\times\\) 125% (the fuse is rated at 125% of the normal operating current)</p><p>Hence, the fuse rating = 15A \\(\\times\\) (\\(\\frac{125}{100}\\)) = 18.75amps</p><p>Therefore, the best fuse is 20A.</p>",
+        "correctIndex": 3,
+        "options": [
+            "2A",
+            "5A",
+            "10A",
+            "20A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1999,
+        "question": "A galvanometer has a resistance of 5Ω. By using a shunt wire of resistance 0.05Ω, the galvanometer could be converted to an ammeter capable of reading 2Amp. What is the current through the galvanometer?",
+        "explanation": "Shunt resistance is usually given as<br>R = igrg/(I - ig)<br>Where R = 0.05Ω<br>rg = 5Ω<br>I = 2M<br>∴ ig = IR/(rg + R)<br>= (2 x 0.05)/(5 + 0.05)<br>= 0.10/5.05<br>= 0.0198A<br>= 19.8mA<br>= 20mA",
+        "correctIndex": 2,
+        "options": [
+            "2mA",
+            "10mA",
+            "20mA",
+            "25mA"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1999,
+        "question": "In fleming's right-hand rule, the thumb, the forefinger and the middle finger if held mutually at right angles represent respectively, the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "motion, the field and the induced current",
+            "induced current, the motion and the field",
+            "field, the induced current and the motion",
+            "induced current, the field and the motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1999,
+        "question": "At what frequency would a 10H inductor have a reactance of 2000Ω?",
+        "explanation": "Inductive reactance X<sub>L</sub>= 2πfL<br>∴ 2πfL = 2000Ω<br>then f = 2000Ω/2 x π x 10<br>f = 100/πHz",
+        "correctIndex": 2,
+        "options": [
+            "π/200Hz",
+            "π/100Hz",
+            "100/πHz",
+            "100πHz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1999,
+        "question": "The core of an efficient transformer should consist of laminated pieces of metal in order to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "increase the heat produced by increasing the eddy current",
+            "increase the heat produced by reducing the eddy current",
+            "reduce the heat produced by increasing the eddy current",
+            "reduce the heat produced by reducing the eddy current"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1999,
+        "question": "Gamma rays are produced when",
+        "explanation": "Gamma rays are electromagnetic radiation of nuclear origin; they are produced from energy changes which occur within the nucleus of atoms",
+        "correctIndex": 1,
+        "options": [
+            "high velocity electrons are abruptly stopped in metals",
+            "energy changes occur within the nucleus of atoms",
+            "energy changes occur within the electronic structure of atoms",
+            "electrons are deflected in very strong magnetic fields"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1999,
+        "question": "What is the speed of a particle of mass 10<sup>-27</sup>kg whose wavelength is 10<sup>-8</sup>m.<br><br>[h = 6.63 x 10<sup>-34</sup>Js]",
+        "explanation": "Energy of a particle is given by<br>E = hf = hV/λ (since V = fxλ)<br>But in terms of mass M, E = ∆MV<sup>2</sup><br>∴ ∆MV<sup>2</sup>= hV/λ<br>∆MV = h/λ<br>∴ V = h/λ∆M<br>V = 6.63 x 10<sup>-34</sup>/(10<sup>-27</sup>x 10<sup>-8</sup>)<br>V = 6.63 x 10<sup>-34</sup>/10<sup>-35</sup><br>V = 6.63 x 10<sup>-34+35</sup><br>V = 6.63 x 10<br>V = 66.3ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "6.63ms<sup>-1</sup>",
+            "66.30ms<sup>-1</sup>",
+            "663.00ms<sup>-1</sup>",
+            "6630.00ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1999,
+        "question": "in a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively, what is the voltage across the capacitor?",
+        "explanation": "At resonance, inductive reactant X<sub>L</sub>is equal to the capacitive reactance X<sub>C</sub><br>i.e. X<sub>L</sub>= X<sub>C</sub><br>and X<sub>L</sub>= V<sub>L</sub>/I<sub>L</sub><br>and X<sub>C</sub>= V<sub>C</sub>/I<sub>C</sub><br><br>Again since the components are in series, the same current flows in the series arrangment<br>i.e. I<sub>L</sub>= I<sub>C</sub><br>at resonance, V<sub>L</sub>/I<sub>L</sub>= V<sub>C</sub>/I<sub>C</sub><br>∴ V<sub>L</sub>= V<sub>C</sub><br>= 40V",
+        "correctIndex": 1,
+        "options": [
+            "30V",
+            "40V",
+            "50V",
+            "70V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1999,
+        "question": "In the Rutherford scattering experiment, a beam of alpha particles was fired at a thin gold film with some of the particles being considerably deflected. This shows that",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a gold nucleus contains protons, neutrons and electrons uniformly distributed in a tiny volume",
+            "the gold nucleus is positively charged and is concentrated in a tiny volume",
+            "the gold nucleus emitted alpha particles",
+            "the gold nucleus is concentrated in a tiny volume and contains alpha particles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1999,
+        "question": "<sup>23</sup><sub>11</sub>Na + Proton →<sup>p</sup><sub>q</sub>X + alpha particle<br>What are the values of p and q respectively in the equation above?",
+        "explanation": "<sup>23</sup><sub>11</sub>Na + Proton →<sup>p</sup><sub>q</sub>X + alpha particle<br>Represent;<br><sup>23</sup><sub>11</sub>Na +<sup>1</sup><sub>1</sub>P →<sup>p</sup><sub>q</sub>X +<sup>4</sup><sub>2</sub>He<br><br>Thus from the above equations, p = 20 and q = 10",
+        "correctIndex": 2,
+        "options": [
+            "10 and 20",
+            "12 and 24",
+            "20 and 10",
+            "24 and 12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1999,
+        "question": "A semiconductor diode is used in rectifying alternating current into direct current mainly because it",
+        "explanation": "A rectifier of an alternating current is a device which allows the flow of current only in one direction",
+        "correctIndex": 3,
+        "options": [
+            "allows current to flow in either direction",
+            "is non-linear",
+            "offers a high input resistance",
+            "allows current to flow only in one direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1999,
+        "question": "if ∆x is the uncertainty in the measurement of the position of a particle along the x-axis and ∆P<sub>x</sub>is the uncertainty in the measurement of the linear momentum along the x-axis, then the uncertainty principle relation is given as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "∆x ∆P<sub>x</sub>≥ h",
+            "∆x ∆P<sub>x</sub>= 0",
+            "∆x ∆P<sub>x</sub>&lt; h",
+            "∆x ∆P<sub>x</sub>= ∞"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1999,
+        "question": "If ∆x is the uncertainty in the measurement of the position of a particle along the x-axis and ∆P<sub>a</sub>is the uncertainty in the measurement of the linear momentum along the x-axis, then the uncertainty principle relation is given as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "∆x ∆P<sub>x</sub>≥ h",
+            "∆x ∆P<sub>x</sub>= 0",
+            "∆x ∆P<sub>x</sub>&lt; h",
+            "∆x ∆P<sub>x</sub>= ∞"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12226508316_phy19992.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24453016632_phy19992.jpg\" class=\"img-fluid\">\n</div>Acceleration = slope =<sup>AE</sup>/<sub>OE</sub>=<sup>80</sup>/<sub>20</sub>= 4m/s<sup>2</sup><br>∴ acceleration and retardation = 4m/s<sup>2</sup>; 2m/s<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "8.0 ms<sup>-2</sup>, 4,0 ms<sup>-2</sup>",
+            "4.0 ms<sup>-2</sup>, 8.0 ms<sup>-2</sup>",
+            "4.0 ms<sup>-2</sup>, 2.0 ms<sup>-2</sup>",
+            "2.0 ms<sup>-2</sup>, 4.0 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16302013680_phy19995.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/10868009120_phy19995a.jpg\" class=\"img-fluid\">\n</div>Since P<sub>1</sub>is frictionless and P<sub>2</sub>as shown is simply used as a hook for the effort, the weight W = 40N",
+        "correctIndex": 2,
+        "options": [
+            "13.3N",
+            "20.0N",
+            "40.0N",
+            "80.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2717003028_phy19996.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/6792507570_phy19996.jpg\" class=\"img-fluid\">\n</div>The solid will fall over if when the vertical line through G lies outside the base, when slightly tilted",
+        "correctIndex": 0,
+        "options": [
+            "The solid will fall over if the vertical line through G lies outside the base",
+            "The solid will fall over if the vertical line through lies inside the base",
+            "The solid will not fall over if the vertical line through G lies outside the base",
+            "The solid can never fall over"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14943572765_phy199912.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "both valves are open",
+            "P is open while Q is closed",
+            "P is closed while Q is open",
+            "Both valves are closed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8151046614_phy199916.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/20377616535_phy199916.jpg\" class=\"img-fluid\">\n</div>Since the temperature of the air is to remain Constant =&gt; P<sub>1</sub>V<sub>1</sub>= P<sub>2</sub>V<sub>2</sub><br>∴ 75 x 30 = (75 + 15) x V<sub>2</sub><br>75 x 30 = 90 x V<sub>2</sub><br><table><tbody><tr><td rowspan=\"2\">=&gt; V<sub>2</sub> = </td><td style=\"border-bottom:solid 1px\">75 x 30</td></tr><tr><td>_90</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">2250</td></tr><tr><td>_90</td></tr></tbody></table><br>= 25cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "15 cm<sup>3</sup>",
+            "25 cm<sup>3</sup>",
+            "35 cm<sup>3</sup>",
+            "45 cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27533971657_waec%2044444.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9509565807_phy199922a.jpg\" class=\"img-fluid\">\n</div>The frequency f =<sup>V</sup>/<sub>λ</sub>,<br>Where λ = wavelength<br>From the above, the distance OA = one wavelength; AB = one wave length and BC = one wavelength.<br>=&gt; OC = 3 wavelength = 3λ<br>∴3λ = 0.3M<br>λ =<sup>0.3</sup>/<sub>3</sub><br>= 0.1m<br>∴ f =<sup>V</sup>/<sub>λ</sub>= (3.0 x 10<sup>8</sup>) / 0.1<br>= 3.0 x 10<sup>9</sup>Hz",
+        "correctIndex": 3,
+        "options": [
+            "3.0 x 10<sup>7</sup>Hz",
+            "9.0 x 10<sup>7</sup>Hz",
+            "1.0 x 10<sup>9</sup>Hz",
+            "3.0 x 10<sup>9</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10868846224_phy199928.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "binocular",
+            "spectrometer",
+            "periscope",
+            "projector"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14944669817_phy199932.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "North - North",
+            "North - South",
+            "South - North",
+            "South - South"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9510249938_phy199933.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12227464206_phy199933.jpg\" class=\"img-fluid\">\n</div>From Ohms Law, E = I(R +X)<br>=&gt; E = I<sub>1</sub>(R<sub>1</sub>+ X)<br>again, E = I<sub>2</sub>(R<sub>2</sub>+ X)<br>=&gt; I<sub>1</sub>(R<sub>1</sub>+ X) = I<sub>2</sub>(R<sub>2</sub>+ X)<br>∴ 5(8 + X) = 7(5 + X)<br>40 + 5X = 35 + 7X<br>7X - 5X = 40 - 35<br>2X = 5<br>X =<sup>5</sup>/<sub>2</sub><br>= 2.5Ω",
+        "correctIndex": 3,
+        "options": [
+            "10.0Ω",
+            "7.5Ω",
+            "5.0Ω",
+            "2.5Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6793042650_phy199935.jpg\" class=\"img-fluid\">",
+        "explanation": "Energy stored in a capacitor is given by<br>E =<sup>1</sup>/<sub>2</sub>CV<sup>2</sup><br>But effective capacitance for the parallel arrangement is given by<br>C = C<sub>1</sub>+ C<sub>2</sub><br>= 2 + 3<br>= 5μF = 5 x 10<sup>-6</sup>x (100)<sup>2</sup><br>∴E =<sup>1</sup>/<sub>2</sub>CV<sup>2</sup><br>=<sup>1</sup>/<sub>2</sub>x 5 x 10<sup>-6</sup>x 10<sup>4</sup><br>2.9 x 10<sup>-2</sup>J",
+        "correctIndex": 2,
+        "options": [
+            "3.0 x 10<sup>4</sup>J",
+            "3.0 x 10<sup>2</sup>J",
+            "2.5 x 10<sup>-2</sup>J",
+            "6.0 x 10<sup>-3</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12227575617_phy199936.jpg\" class=\"img-fluid\">",
+        "explanation": "Power = IV = I<sup>2</sup>R =<sup>V<sup>2</sup></sup>/<sub>R</sub><br>In terms of e.m.f E, of a cell we have<br>IE = I<sup>2</sup>R = E<sup>2</sup>/R<br>∴P<sub>1</sub>=<sup>E<sup>2</sup></sup>/<sub>R</sub>; P<sub>2</sub>=<sup>E<sup>2</sup></sup>/<sub>R<sub>2</sub></sub>/<sup>E<sup>2</sup></sup>/<sub>R<sub>2</sub></sub><br>=<sup>E<sup>2</sup></sup>/<sub>R<sub>1</sub></sub>x<sup>R<sub>2</sub></sup>/<sub>E<sup>2</sup></sub>=<sup>R<sub>2</sub></sup>/<sub>R<sub>1</sub></sub><br>∴<sup>P<sub>1</sub></sup>/<sub>P<sub>2</sub></sub>=<sup>R<sub>2</sub></sup>/<sub>R<sub>1</sub></sub>",
+        "correctIndex": 0,
+        "options": [
+            "<sup>R<sub>2</sub></sup>/<sub>R<sub>1</sub></sub>",
+            "<sup>R<sub>1</sub></sup>/<sub>R<sub>2</sub></sub>",
+            "<sup>R<sub>1</sub>+R<sub>2</sub></sup>/<sub>R<sub>1</sub></sub>",
+            "<sup>R<sub>1</sub>+R<sub>2</sub></sup>/<sub>R<sub>2</sub></sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1999,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6793106905_phy199941.jpg\" class=\"img-fluid\">",
+        "explanation": "<span style=\"white-space: nowrap; font-size:larger\">The effective V = <br>\n√<span style=\"text-decoration:overline;\"> V<sub>R</sub><sup>2</sup> + V<sub>L</sub><sup>2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 6<sup>2</sup> + 8<sup>2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 36 + 64 </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 100 </span><br>\n</span><br>10V",
+        "correctIndex": 1,
+        "options": [
+            "2V",
+            "10V",
+            "14V",
+            "48V"
+        ],
+        "type": "objectives"
+    }
+]

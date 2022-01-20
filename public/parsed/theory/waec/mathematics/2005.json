@@ -1,0 +1,119 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2005,
+        "question": "<p>(a) Evaluate without using the mathematical table or calculator, \\(\\log_{10} \\sqrt{30} - \\log_{10} \\sqrt{6} + \\log_{10} \\sqrt{2}\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%286%29.jpg\" style=\"height:170px; width:250px\"> </p><p>\\(U = {1, 2, 3, ..., 10} ; A = {1, 2, 3, 4, 5} ; B = {2, 3, 5}\\) and \\(C = {6, 8, 10}\\). (i) Given that the Venn diagram represents the sets above, copy and fill in the elements.</p><p>(ii) Find \\(A \\cap C\\) ; (iii) Find \\(A \\cap B'\\).</p>",
+        "answer": "<p>(a) \\(\\log_{10} \\sqrt{30} - \\log_{10} \\sqrt{6} + \\log_{10} \\sqrt{2}\\)</p><p>= \\(\\log_{10} (\\sqrt{\\frac{30}{6}} \\times \\sqrt{2})\\)</p><p>= \\(\\log_{10} (\\sqrt{5} \\times \\sqrt{2})\\)</p><p>= \\(\\log_{10} \\sqrt{10}\\)</p><p>= \\(\\log_{10} (10^{\\frac{1}{2}})\\)</p><p>= \\(\\frac{1}{2} \\log_{10} 10\\)</p><p>= \\(\\frac{1}{2}\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0189%20%284%29.jpg\" style=\"height:191px; width:250px\"></p><p>(ii) \\(A \\cap C = { } \\)</p><p>(iii) \\(A \\cap B' = {1, 4}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2005,
+        "question": "<p>(a) Evaluate : \\(2 \\div (\\frac{64}{125})^{-\\frac{2}{3}}\\)</p><p>(b) The lines \\(y = 3x + 5\\) and \\(y = - 4x - 1\\) intersect at a point k. Find the coordinates of k.</p>",
+        "answer": "<p>(a) \\((\\frac{64}{125})^{-\\frac{2}{3}} = (\\frac{125}{64})^{\\frac{2}{3}}\\)</p><p>= \\((\\frac{5}{4})^{3})^{\\frac{2}{3}} \\)</p><p>= \\((\\frac{5}{4})^{2}\\)</p><p>= \\(\\frac{25}{16}\\)</p><p>\\(\\therefore 2 \\div (\\frac{64}{125})^{-\\frac{2}{3}} = 2 \\div \\frac{25}{16}\\)</p><p>= \\(2 \\times \\frac{16}{25}\\)</p><p>= \\(\\frac{32}{25}\\)</p><p>(b) \\(3x + 5 = - 4x - 1\\)</p><p>\\(3x + 4x = - 1 - 5\\)</p><p>\\(7x = - 6\\)</p><p>\\(x = -\\frac{6}{7}\\)</p><p>\\(y = 3x + 5\\) ( You can use any of the given equations to get y)</p><p>\\(y = 3(-\\frac{6}{7}) + 5 = -\\frac{18}{7} + \\frac{35}{7}\\)</p><p>= \\(\\frac{17}{7}\\)</p><p>\\(k = (x, y) = (-\\frac{6}{7}, \\frac{17}{7})\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2005,
+        "question": "<p>(a) Simplify : \\(\\frac{5}{8} of 2\\frac{1}{2} - \\frac{3}{4} \\div \\frac{3}{5}\\).</p><p>(b) A cone and a right pyramid have equal heights and volumes. If the area of the base of the pyramid is \\(154 cm^{2}\\), find the base radius of the cone. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) \\(\\frac{5}{8} of 2\\frac{1}{2} - \\frac{3}{4} \\div \\frac{3}{5}\\)</p><p>= \\((\\frac{5}{8} \\times \\frac{5}{2}) - (\\frac{3}{4} \\div \\frac{3}{5})\\)</p><p>= \\((\\frac{25}{16}) - (\\frac{5}{4})\\)</p><p>= \\(\\frac{25 - 20}{16}\\)</p><p>= \\(\\frac{5}{16}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0189%20%285%29_LI.jpg\" style=\"height:255px; width:250px\"></p><p>\\(V = \\frac{1}{3} \\times A \\times h = \\frac{1}{3} \\pi r^{2} h\\)</p><p>\\(\\therefore \\frac{1}{3} \\times 154 \\times h = \\frac{1}{3} \\times \\pi \\times r^{2} \\times h\\)</p><p>Comparing the two equations,</p><p>\\(154 = \\frac{22}{7} \\times r^{2}\\)</p><p>\\(r^{2} = \\frac{154 \\times 7}{22}\\)</p><p>\\(r^{2} = 49\\)</p><p>\\(\\therefore r = 7 cm\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2005,
+        "question": "<p>(a) Two fair die are thrown once. Find the probabitlity of getting : (i) the same digit ; (ii) a total score greater than 5.</p><p>(b) Given that \\(x = \\cos 30°\\) and \\(y = \\sin 30°\\), evaluate without using a mathematical table or calculator : \\(\\frac{x^{2} + y^{2}}{y^{2} - x^{2}}\\).</p>",
+        "answer": "<p>(a) Sample - space</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td> </td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1, 1</td>\n<td>1, 2</td>\n<td>1, 3</td>\n<td>1, 4</td>\n<td>1, 5</td>\n<td>1, 6</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2, 1</td>\n<td>2, 2</td>\n<td>2, 3</td>\n<td>2, 4</td>\n<td>2, 5</td>\n<td>2, 6</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3, 1</td>\n<td>3, 2</td>\n<td>3, 3</td>\n<td>3, 4</td>\n<td>3, 5</td>\n<td>3, 6</td>\n</tr>\n<tr>\n<td>4</td>\n<td>4, 1</td>\n<td>4, 2</td>\n<td>4, 3</td>\n<td>4, 4</td>\n<td>4, 5</td>\n<td>4, 6</td>\n</tr>\n<tr>\n<td>5</td>\n<td>5, 1</td>\n<td>5, 2</td>\n<td>5, 3</td>\n<td>5, 4</td>\n<td>5, 5</td>\n<td>5, 6</td>\n</tr>\n<tr>\n<td>6</td>\n<td>6, 1</td>\n<td>6, 2</td>\n<td>6, 3</td>\n<td>6, 4</td>\n<td>6, 5</td>\n<td>6, 6</td>\n</tr>\n</tbody>\n</table><p>(i) Same digit = {(1,1), (2,2),(3,3), (4,4),(5,5), (6,6)}</p><p>P(same digit) = \\(\\frac{6}{36}\\)</p><p>(ii) P(total score greater than 5) = \\(\\frac{26}{36}\\)</p><p>= \\(\\frac{13}{18}\\)</p><p>(b) \\(\\frac{x^{2} + y^{2}}{y^{2} - x^{2}} = \\frac{(\\cos 30)^{2} + (\\sin 30)^{2}}{(\\sin 30)^{2} - (\\cos 30)^{2}}\\)</p><p>= \\(\\frac{(\\frac{\\sqrt{3}}{2})^{2} + (\\frac{1}{2})^{2}}{(\\frac{1}{2})^{2} - (\\frac{\\sqrt{3}}{2})^{2}}\\)</p><p>= \\(\\frac{\\frac{3}{4} + \\frac{1}{4}}{\\frac{1}{4} - \\frac{3}{4}}\\)</p><p>= \\(\\frac{1}{-\\frac{1}{2}}\\)</p><p>= \\(-2\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2005,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29_LI%281%29.jpg\" style=\"height:162px; width:250px\"></p><p>In the diagram, A, B, C and D are points on the circumference of a circle. XY is a tangent at A. Find : (i) &lt; CAX ; (ii) &lt; ABY.</p><p>(b) If (m + 1) and (m - 3) are factors of \\(m^{2} - km + c\\), find the values of k and c.</p>",
+        "answer": "<p>(a) \\(&lt; ADB = &lt; ACB = 20°\\) (Angle in the same segment).</p><p>In \\(\\Delta ACY\\),</p><p>\\(\\hat{C} = &lt; ACB\\)</p><p>(i) \\(\\hat{C} + \\hat{A} + \\hat{Y} = 180°\\)</p><p>\\(20° + \\hat{A} + 60° = 180°\\)</p><p>\\(\\hat{A} = 180° - 80° = 100°\\)</p><p>\\(&lt; CAY = \\hat{A} = 100°\\)</p><p>\\(&lt; CAX = 180° - 100° = 80°\\)</p><p>(ii) In \\(\\Delta ACB\\),</p><p>\\(\\hat{B} = \\hat{C} = \\frac{180° - 20°}{2} \\)</p><p>= \\(\\frac{160°}{2}\\)</p><p>= \\(80°\\)</p><p>In \\(\\Delta ABY\\),</p><p>\\(&lt; ABY = \\hat{B} = 180° - 80°\\)</p><p>= \\(100°\\)</p><p>(b) \\((m + 1)(m - 3) \\equiv m^{2} - km + c\\)</p><p>\\(m^{2} - 3m + m - 3 = m^{2} - 2m - 3\\)</p><p>\\(m^{2} - 2m - 3 \\equiv m^{2} - km + c\\)</p><p>\\(\\implies k = 2 ; c = -3\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2005,
+        "question": "<p>(a) Without using mathematical table or calculator, evaluate : \\(\\sqrt{\\frac{0.18 \\times 12.5}{0.05 \\times 0.2}}\\).</p><p>(b) Simplify : \\(\\frac{8 - 4\\sqrt{18}}{\\sqrt{50}}\\).</p><p>(c) x, y and z are related such that x varies directly as the cube of y and inversely as the square of z. If x = 108 when y = 3 and z = 4, find z when x = 4000 and y = 10.</p>",
+        "answer": "<p>(a) \\(\\sqrt{\\frac{0.18 \\times 12.5}{0.05 \\times 0.2}}\\)</p><p>\\(\\frac{0.18 \\times 12.5}{0.05 \\times 0.2} = \\frac{18 \\times 10^{-2} \\times 125 \\times 10^{-1}}{5 \\times 10^{-2} \\times 2 \\times 10^{-1}}\\)</p><p>= \\(9 \\times 25 \\times 10^{-3 - (-3)}\\)</p><p>= \\(9 \\times 25\\)</p><p>= \\(225\\)</p><p>\\(\\therefore \\sqrt{\\frac{0.18 \\times 12.5}{0.05 \\times 0.2}} = \\sqrt{225}\\)</p><p>= \\(15\\).</p><p>(b) \\(\\frac{8 - 4\\sqrt{18}}{\\sqrt{50}}\\)</p><p>\\(\\sqrt{18} = \\sqrt{9 \\times 2} = 3\\sqrt{2}\\)</p><p>\\(\\sqrt{50} = \\sqrt{25 \\times 2} = 5\\sqrt{2}\\)</p><p>\\(\\frac{8 - 4(3\\sqrt{2})}{5\\sqrt{2}} = \\frac{8 - 12\\sqrt{2}}{5\\sqrt{2}}\\)</p><p>Rationalising, we have</p><p>= \\(\\frac{8 - 12\\sqrt{2}}{5\\sqrt{2}} \\times \\frac{\\sqrt{2}}{\\sqrt{2}}\\)</p><p>= \\(\\frac{8\\sqrt{2} - 24}{10}\\)</p><p>= \\(0.8\\sqrt{2} - 2.4\\)</p><p>= \\(-2.4 + 0.8\\sqrt{2}\\)</p><p>(c) \\(x \\propto \\frac{y^{3}}{z^{2}}\\)</p><p>\\(\\implies x = \\frac{ky^{3}}{z^{2}}\\)</p><p>\\(108 = \\frac{k \\times 3^{3}}{4^{2}}\\)</p><p>\\(k = \\frac{108 \\times 16}{27}\\)</p><p>\\(k = 64\\)</p><p>\\(\\therefore x = \\frac{64y^{3}}{z^{2}}\\)</p><p>\\(\\therefore 4000 = \\frac{64 \\times 10^{3}}{z^{2}}\\)</p><p>\\(4 = \\frac{64}{z^{2}}\\)</p><p>\\(z^{2} = \\frac{64}{4} = 16\\)</p><p>\\(z = \\sqrt{16} = \\pm 4\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2005,
+        "question": "<p>(a) A regular polygon of n sides is such that each interior angle is 120° greater than the exterior angle. Find :</p><p>(i) the value of n ; (ii) the sum of all the interior angles.</p><p>(b) A boy walks 6km from a point P to a point Q on a bearing of 065°. He then walks to a point R, a distance of 13km, on a bearing of 146°. </p><p>(i) Sketch the diagram of his movement. (ii) Calculate, correct to the nearest kilometre, the distance PR.</p>",
+        "answer": "<p>(a) (i) Let the exterior angle be x</p><p>Let the interior angle be x + 120°.</p><p>Exterior angle + Interior angle = 180°</p><p>\\(\\therefore x + x + 120 = 180 \\implies 2x + 120 = 180\\)</p><p>\\(2x = 60 \\implies x = 30°\\)</p><p>Number of sides = \\(\\frac{360}{\\text{exterior angle}}\\)</p><p>= \\(\\frac{360}{30} = 12 sides\\)</p><p>(ii) Sum of interior angle = \\((2n - 4) \\times 90°\\)</p><p>= \\((2(12) - 4) \\times 90°\\)</p><p>= \\(20 \\times 90\\)</p><p>= \\(1800°\\)</p><p>(b) Note : &lt; PQR = 65° + 34° = 99°\\)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0190%20%282%29.jpg\" style=\"height:128px; width:250px\"></p><p>\\(|PR|^{2} = |PQ|^{2} + |QR|^{2} - 2(|QR|)(|PQ|) \\cos 99\\)</p><p>\\(|PR|^{2} = 6^{2} + 13^{2} - 2(6)(13) \\cos 99\\)</p><p>\\(|PR|^{2} = 205 - 156 \\cos 99\\)</p><p>\\(|PR|^{2} = 205 + 24.40 = 229.40\\)</p><p>\\(|PR| = \\sqrt{229.40}\\)</p><p>= \\(15.146 km\\)</p><p>\\(\\approxeq 15 km\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2005,
+        "question": "<p>(a) A plane flies due East from A(lat. 53°N, long. 25°E) to a point B(lat. 53°N, long. 85°E) at an average speed of 400 km/h. The plane then flies South from B to a point C 2000km away. Calculate, correct to the nearest whole number : </p><p>(a) the distance between A and B.</p><p>(b) the time the plane takes to reach point B ;</p><p>(c) the latitude of C. </p><p>[Take radius of the earth = 6400km; \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0190%20%283%29_LI.jpg\" style=\"height:216px; width:300px\"></p><p>Longitude difference = 85° - 25° = 60°.</p><p>Distance AB along the parallel of latitude = \\(\\frac{\\theta}{360°} \\times 2\\pi R \\cos \\alpha\\)</p><p>\\(AB = \\frac{60}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\cos 53\\)</p><p>= \\(\\frac{1}{6} \\times \\frac{44}{7} \\times 3851.62\\)</p><p>= \\(4,035.03 km\\)</p><p>\\(\\approxeq 4035 km\\)</p><p>(b) \\(Speed = \\frac{Distance}{Time}\\)</p><p>\\(\\therefore Time = \\frac{Distance}{Speed}\\)</p><p>= \\(\\frac{4035}{400}\\)</p><p>\\(\\approxeq 10 hours\\).</p><p>(c) Distance BC measured along the meridian</p><p>\\(BC = \\frac{\\theta}{360} \\times 2 \\pi R\\)</p><p>\\(2000 = \\frac{\\theta}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>\\(\\theta = 17.898° \\approxeq 18°\\)</p><p>\\(\\theta\\) = Latitude difference</p><p>Let the latitude of C = x.</p><p>\\(\\theta = 53 - x\\)</p><p>\\(18 = 53 - x\\) </p><p>\\(x = 35°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2005,
+        "question": "<p>(a) Find the smallest integer that satisfies the inequality \\(x + 8 &lt; 4x - 15\\).</p><p>(b) A sales girl is paid a monthly salary of N2,500 in addition to a commission of 5 kobo in the naira on all sales made by her during the month. If her sales for a month amounts to N200,000.00, calculate her income for that month.</p><p>(c) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%284%29_LI%281%29.jpg\" style=\"height:205px; width:200px\"> The diagram shows a window consisting of a rectangular and semi- circular parts. The radius of the semi- circular part is 35 cm and the height of the rectangular part is 50 cm. Find the area of the window. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) \\(x + 8 &lt; 4x - 15 \\implies 4x - 15 &gt; x + 8\\)</p><p>\\(4x - x &gt; 8 + 15 \\implies 3x &gt; 23\\)</p><p>\\(x &gt; \\frac{23}{3}\\)</p><p>\\(x &gt; 7\\frac{2}{3}\\).</p><p>(b) Extra income = 5k of N200,000</p><p>= \\(\\frac{5}{100} \\times N200,000\\)</p><p>= \\(N10,000\\)</p><p>Total income = Monthly income + commission</p><p>= N(2,500 + 10,000)</p><p>= N12,500.</p><p>(c) Area of semi- circle = \\(\\frac{\\pi r^{2}}{2}\\)</p><p>= \\(\\frac{1}{2} \\times \\frac{22}{7} \\times 35 \\times 35\\)</p><p>= \\(1925 cm^{2}\\)</p><p>Length of rectangular part = 50 cm</p><p>Breadth = Diameter of semi- circle = 2(35 cm) = 70 cm</p><p>Area of rectangular part = \\(length \\times \\breadth\\)</p><p>= \\(50 \\times 70\\)</p><p>= \\(3500 cm^{2}\\)</p><p>Total area of window = \\((3500 + 1925) cm^{2}\\)</p><p>= \\(5425 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2005,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%285%29%283%29.jpg\" style=\"height:163px; width:200px\"></p><p>The sketch shows a plot of land . </p><p>(a) Using a scale of 1 cm to 10m, draw an accurate diagram of the plot ;</p><p>(b) Construct : (i) The locus \\(l_{1}\\) of points equidistant from AC and BC ; (ii) the locus \\(l_{2}\\) of points 60m from A.</p><p>(c) A tree T inside the plot is on both \\(l_{1}\\) and \\(l_{2}\\). Locate T and find |TC| in metres.</p><p>(d) A flagpole, P is to be placed such that it it is nearer AC than BC and more than 60m from A. Shade the regions where P can be located.</p>",
+        "answer": "<p>(a) \\(|AB| = 85m = \\frac{85}{10}\\)</p><p>= \\(8.5cm\\)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0191%20%282%29.jpg\" style=\"height:239px; width:300px\"></p><p>\\(|TC| = 6cm \\equiv 60 m\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2005,
+        "question": "<p>The table shows the age distributions of the members of a club.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>Age (years)</td>\n<td>10-14</td>\n<td>15-19</td>\n<td>20-24</td>\n<td>25-29</td>\n<td>30-34</td>\n<td>35-39</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>7</td>\n<td>18</td>\n<td>25</td>\n<td>17</td>\n<td>9</td>\n<td>4</td>\n</tr>\n</tbody>\n</table><p>(a) Calculate, correct to one decimal place, the mean age.</p><p>(b) (i) Draw a histogram to illustrate the information.</p><p>(ii) Use the histogram to estimate the modal age .</p><p>(c) If a member is selected at random, what is the probability that he/she is in the modal class?</p><p> </p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Class Interval</td>\n<td>Freq (f)</td>\n<td>Classmark (x)</td>\n<td>\\(fx\\)</td>\n</tr>\n<tr>\n<td>10 - 14</td>\n<td>7</td>\n<td>12</td>\n<td>84</td>\n</tr>\n<tr>\n<td>15 - 19</td>\n<td>18</td>\n<td>17</td>\n<td>306</td>\n</tr>\n<tr>\n<td>20 - 24</td>\n<td>25</td>\n<td>22</td>\n<td>550</td>\n</tr>\n<tr>\n<td>25 - 29</td>\n<td>17</td>\n<td>27</td>\n<td>459</td>\n</tr>\n<tr>\n<td>30 - 34</td>\n<td>9</td>\n<td>32</td>\n<td>288</td>\n</tr>\n<tr>\n<td>35 - 39</td>\n<td>4</td>\n<td>37</td>\n<td>148</td>\n</tr>\n<tr>\n<td> </td>\n<td>80</td>\n<td> </td>\n<td>1835</td>\n</tr>\n</tbody>\n</table><p>\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{1835}{80}\\)</p><p>\\(\\approxeq 22.9yrs\\)</p><p>(b)(i) </p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Class Interval</td>\n<td>Freq (f) </td>\n<td>Class boundaries</td>\n</tr>\n<tr>\n<td>10 - 14</td>\n<td>7</td>\n<td>9.5 - 14.5</td>\n</tr>\n<tr>\n<td>15 - 19</td>\n<td>18</td>\n<td>14.5 - 19.5</td>\n</tr>\n<tr>\n<td>20 - 24</td>\n<td>25</td>\n <td>19.5 - 24.5</td>\n</tr>\n<tr>\n<td>25 - 29</td>\n<td>17</td>\n<td>24.5 - 29.5</td>\n</tr>\n<tr>\n<td>30 - 34</td>\n<td>9</td>\n<td>29.5 - 34.5</td>\n</tr>\n<tr>\n<td>35 - 39</td>\n<td>4</td>\n<td>34.5 - 39.5</td>\n</tr>\n</tbody>\n</table><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0191%20%283%29.jpg\" style=\"height:278px; width:350px\"></p><p>(ii) Modal age = \\(\\frac{20 + 24}{2} = 22\\)</p><p>(c) P(picking from the modal class) = \\(\\frac{25}{80}\\)</p><p>= \\(\\frac{5}{16}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2005,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0189%20%282%29_LI.jpg\" style=\"height:204px; width:250px\"> In the diagram, \\(\\Delta\\) ABD is right-angled at B. |AB| = 3 cm, |AD| = 5 cm, \\(\\stackrel\\frown{ACB}\\) = 61° and \\(\\stackrel\\frown{DAC}\\) = x°. Calculate, correct to one decimal place, the value of x.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0189%20%283%29_LI.jpg\" style=\"height:265px; width:250px\"> In the diagram, OABCD is a pyramid with a square base of side 2cm and a slant height of 4 cm. Calculate, correct to three significant figures : (i) the vertical height of the pyramid ; (ii) the volume of the pyramid.</p>",
+        "answer": "<p>(a) In \\(\\Delta ACB, &lt; CAB = 180° - (90° + 61°)\\)</p><p>= \\(180° - 151°\\)</p><p>= \\(29°\\)</p><p>In \\(\\Delta ADB, &lt; DAB = (29 + x)°\\)</p><p>\\(\\cos (29 + x) = \\frac{3}{5} = 0.6\\)</p><p>\\((29 + x)° = \\cos^{-1} (0.6)\\)</p><p>\\((29 + x)° = 53.13°\\)</p><p>\\(x = 53.13° - 29°\\)</p><p>= \\(24.13°\\)</p><p>\\(\\approxeq 24.1°\\) (1 decimal place).</p><p>(b) (i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0191%20%284%29.jpg\" style=\"height:238px; width:250px\"> \\(DB = 2DN = 2NB\\)</p><p>\\(OA = OB = OC = OD = 4cm\\)</p><p>\\(AB = BC = CD = DA = 2cm\\)</p><p>\\(DB^{2} = BC^{2} + DC^{2}\\)</p><p>= \\(2^{2} + 2^{2}\\)</p><p>= \\(\\sqrt{8}\\)</p><p>= \\(2\\sqrt{2} cm\\)</p><p>\\(2DN = DB \\implies DN = \\frac{2\\sqrt{2}}{2} = \\sqrt{2} cm\\)</p><p>In \\(\\Delta DON\\),</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0191%20%285%29.jpg\" style=\"height:241px; width:250px\">\\(OD^{2} = ON^{2} + DN^{2}\\)</p><p>\\(4^{2} = h^{2} + (\\sqrt{2})^{2} \\implies h^{2} = 16 - 2\\)</p><p>\\(h^{2} = 14 \\implies h = \\sqrt{14}\\)</p><p>(ii) \\(V = \\frac{1}{3} \\times \\base area \\times \\perp distance\\)</p><p>\\(V = \\frac{1}{3} \\times 2^{2} \\times \\sqrt{14}\\)</p><p>= \\(\\frac{4\\sqrt{14}}{3}\\)</p><p>= \\(4.99 cm^{3}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2005,
+        "question": "<p>(a) Copy and complete the table. </p><p>\\(y = x^{2} - 2x - 2\\) for \\(-4 \\leq x \\leq 4\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-4</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n</tr>\n<tr>\n<td>y</td>\n<td>22</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>-2</td>\n<td> </td>\n<td> </td>\n<td>1</td>\n<td>6</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2 cm to 1 unit on the x- axis and 2 cm to 5 units on the y- axis, draw the graph of \\(y = x^{2} - 2x - 2\\).</p><p>(c) Use your graph to find : (i) the roots of the equation \\(x^{2} - 2x - 2 = 0\\) ; (ii) the values of x for which \\(x^{2} - 2x - 4\\frac{1}{2} = 0\\) ; (iii) the equation of the line of symmetry of the curve.</p>",
+        "answer": "<p>(a) \\(y = x^{2} - 2x - 2\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-4</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n</tr>\n<tr>\n<td>\\(x^{2}\\)</td>\n<td>16</td>\n<td>9</td>\n<td>4</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>4</td>\n<td>9</td>\n<td>16</td>\n</tr>\n<tr>\n<td>\\(-2x\\)</td>\n<td>8</td>\n<td>6</td>\n<td>4</td>\n<td>2</td>\n<td>0</td>\n<td>-2</td>\n<td>-4</td>\n<td>-6</td>\n<td>-8</td>\n</tr>\n<tr>\n<td>\\(-2\\)</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n<td>-2</td>\n</tr>\n<tr>\n<td>\\(y\\)</td>\n<td>22</td>\n<td>13</td>\n<td>6</td>\n<td>1</td>\n<td>-2</td>\n<td>-3</td>\n<td>-2</td>\n<td>1</td>\n<td>6</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0192%20%282%29.jpg\" style=\"height:286px; width:350px\"></p><p>(c)(i) \\(x^{2} - 2x - 2 = 0\\)</p><p>\\(\\therefore y = 0 ; x = \\text{-0.7 or 2.7}\\)</p><p>(ii) \\(x^{2} - 2x - 4\\frac{1}{2} = 0\\)</p><p>\\(x^{2} - 2x - 4\\frac{1}{2} + 2\\frac{1}{2} = 0 + 2\\frac{1}{2}\\)</p><p>\\(x^{2} - 2x - 2 = 2.5\\)</p><p>When y = 2.5, \\(x = \\text{-1.3 or 3.3}\\).</p><p>(iii) Line of symmetry at x = 1.</p><p> </p>",
+        "type": "theory"
+    }
+]

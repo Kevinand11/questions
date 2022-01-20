@@ -1,0 +1,786 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2000,
+        "question": "When a ship sails from salt water into fresh water, the fraction of its volume above the water surface will",
+        "explanation": "Fresh water is less dense than the salt water, hence when the ship sails in fresh water, it will sink more, thus the fraction of the ship above the water surface will decrease.",
+        "correctIndex": 1,
+        "options": [
+            "increase",
+            "decrease",
+            "remain the same",
+            "increase then decrease"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2000,
+        "question": "I. Its velocity is constant<br>II. No work is done on the body<br>III. It has constant acceleration directed away from the centre<br>IV. The centripetal force is directed towards the centre<br><br>Which combination of the above is true of a body moving with constant speed in a circular track?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "II and IV",
+            "I and IV",
+            "II and III",
+            "I and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2000,
+        "question": "The velocity ratio of a machine is 5 and its efficiency is 75%. What effort would be needed to lift a load of 150N with the machine?",
+        "explanation": "Efficiency = M.A/V.R<br>75% = M.A/V.R<br>75/100 = M.A/5<br>M.A = 75(5)/100 = 3.75<br><br>But M.A = Load/Effort<br>3.75 = 150/Effort<br>Effort = 150/3.75<br>Effort = 40N",
+        "correctIndex": 2,
+        "options": [
+            "20N",
+            "30N",
+            "40N",
+            "50N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2000,
+        "question": "<p>At a fixed point below a liquid surface, the pressure downwards is P1 and pressure upwards is P2. It can be deduced that</p>",
+        "explanation": "<p>As the temperature increases, the molecules in the gas move faster, impacting the gas's container more frequently and exerting a greater force. This increases the pressure. And similarly As the pressure goes up, the temperature also goes up. So the temperature and the pressure is directly proportional to each other. At a fixed point, temperature is kept constant. Hence, at this point, it can be deduced that \\(P_{1} = P_{2}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "P<sub>1</sub>&gt; P<sub>2</sub>",
+            "P<sub>1</sub>≥ P<sub>2</sub>",
+            "P<sub>1</sub>&lt; P<sub>2</sub>",
+            "P<sub>1</sub>= P<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2000,
+        "question": "If the force and the velocity on a system are each reduced simultaneously by half, the power of the system is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "doubled",
+            "reduced to a quarter",
+            "reduced by half",
+            "constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2000,
+        "question": "<p>A catapult used to hold a stone of mass 500g is extended by 20cm with an applied force F. If the stone leaves with a velocity of 40m/s, the value of F is</p>",
+        "explanation": "<p>Work done = kinetic energy of the stone </p><p>\\(\\frac{1}{2} F e = \\frac{1}{2} mv^2\\)</p><p>Given m = 500g = 0.5kg; v = 40m/s ; e = 20cm = 0.2m</p><p>\\(F = \\frac{mv^2}{e}\\)</p><p>= \\(\\frac{0.5 \\times (40)^2}{0.2}\\)</p><p>= 4.0 \\(\\times\\) 10\\(^3\\) N</p>",
+        "correctIndex": 2,
+        "options": [
+            "4.0 x 10<sup>2</sup>N",
+            "2.0 x 10<sup>3</sup>N",
+            "4.0 x 10<sup>3</sup>N",
+            "4.0 x 10<sup>4</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2000,
+        "question": "<p>A stream is flowing at 0.75ms\\(^{-1}\\) and a boat heading perpendicular for the stream landed at the opposite bank at an angle of 30°. Calculate the velocity of the boat.</p>",
+        "explanation": "<p>Let the velocity of the boat = Vm/s<br>\n0.75/V = adj/hyp = Cos 30°<br>\n0.75/V = 0.8660<br>\n∴ V = 0.75/0.8660<br>\nV = 0.866 ms\\(^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.50ms<sup>-1</sup>",
+            "1.00ms<sup>-1</sup>",
+            "0.86ms<sup>-1</sup>",
+            "0.65ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2000,
+        "question": "<p>A rope is being used to pull a mass of 10kg vertically upward. Determine the tension in the rope if, starting from rest, the mass acquires a velocity of 4ms\\(^{-1}\\) in 8s [g = 10ms\\(^{-2}\\)]</p>",
+        "explanation": "<p>Tension = Force of gravity + acceleration force</p><p>= mg + ma</p><p>\\(a = \\frac{v - u}{t}\\)</p><p>= \\(\\frac{4 - 0}{8}\\)</p><p>= 0.5 ms\\(^{-2}\\)</p><p>Tension = \\(10 \\times 10 + 10 \\times 0.5\\)</p><p>= 100 + 5</p><p>= 105N</p>",
+        "correctIndex": 3,
+        "options": [
+            "5N",
+            "50N",
+            "95N",
+            "105N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2000,
+        "question": "I. The frictional force is independent of the area of the surfaces in conduct<br>II. The frictional force depends on the nature of the surfaces in contact<br>III. The frictional force depends on the speed of sliding<br>IV. The frictional force is directly proportional to the normal reaction.<br><br>Which combination of the above is true of sliding friction?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I, III and IV",
+            "I, II and IV",
+            "I, II and III",
+            "II, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2000,
+        "question": "Total internal reflection occurs when light moves from",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "a dense medium to a less dense medium",
+            "air to water",
+            "water to glass",
+            "a less dense to a dense medium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2000,
+        "question": "A quantity of water at 0°C is heated to about 30°C. At each degree rise in temperature, its density will",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "rise steadily",
+            "fall steadily",
+            "fall then rise",
+            "rise then fall"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2000,
+        "question": "I. Coherence<br>II. Same frequency<br>III. Same wavelength<br>IV. Same Intensity<br><br>Which of the conditions above are necessary to produce interference fringes?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "I and III",
+            "I, II and IV",
+            "I, II and III",
+            "II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2000,
+        "question": "A boy observes a piece of stone at the bottom of a river 6.0m deep. If he looks from the surface of the river, what is the apparent distance of the stone from him? [Refractive Index of Water = 4/3]",
+        "explanation": "Refractive Index = Real Depth/App. Depth<br>4/3 = 6/app. depth<br>App Depth = (3 x 6)/4 = 4.5m",
+        "correctIndex": 3,
+        "options": [
+            "8.0m",
+            "5.5m",
+            "5.0m",
+            "4.5m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2000,
+        "question": "A thin wire with heavy weights attached to both ends is hung over a block of ice resting on two supports. If the wire cuts through the ice block while the block remains solid behind the wire, the process is called",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "condensation",
+            "sublimation",
+            "regelation",
+            "fusion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2000,
+        "question": "<p>Dry<br>\nDay 1 - 30°C | Day 2 - 29°C | Day 3 - 25°C<br>\n<br>\nWet<br>\nDay 1 - 22°C | Day 2 - 22°C | Day 3 - 21°C<br>\n<br>\nThe reading above are for three consecutive days from a wet and dry bulb hygrometer. It can be concluded that the relative humidity for the three days</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td> </td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Dry</td>\n<td>30°C</td>\n<td>29°C</td>\n<td>25°C</td>\n</tr>\n<tr>\n<td>Wet</td>\n<td>22°C</td>\n<td>22°C</td>\n<td>\n<p>21°C </p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Diff</p>\n</td>\n<td>8°C</td>\n<td>7°C</td>\n<td>4°C</td>\n</tr>\n</tbody>\n</table><p>\\(Relative Humidity \\propto \\frac{1}{temp}\\)</p><p>Hence, the relative humidity increases steadily</p>",
+        "correctIndex": 2,
+        "options": [
+            "decreased steadily",
+            "remained unchanged",
+            "increased steadily",
+            "was least on Day 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2000,
+        "question": "<p>One end of a long wire is fixed while a vibrator is attached to the other end. When the vibrator is energized, the types of waves generated in the wire are</p>",
+        "explanation": "<p>The vibrator is fixed at the end of the rope, hence, it is stationary. Also, the wave in this case, as well as the vibration are in the same direction, hence, it is longitudinal.</p>",
+        "correctIndex": 0,
+        "options": [
+            "stationary and longitudinal",
+            "stationary and transverse",
+            "progressive and transverse",
+            "progressive and longitudinal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2000,
+        "question": "A metal of mass 0.5kg is heated to 100°C and then transferred to a well-lagged calorimeter of heat capacity 80JK<sup>-1</sup>containing water of heat capacity 420JK<sup>-1</sup>at 15°C. If the final steady temperature of the mixture is 25°C, find the specific heat capacity of the metal.",
+        "explanation": "Let the specific heat cap. of the metal = C<br>∴ Heat lost by the metal = heat gained by the Calorimeter + Water<br>∴ 0.5 x C x [100 - 25]<br>80 x [25 - 15] + 420 [25 - 15]<br>0.5 x C x 75 = 80 x 10 + 420 x 10<br>37.5C = 800 + 4200<br>C = 5000/37.5 = 133.3Jkg<sup>-1</sup>K<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "877Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "286Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "133Jkg<sup>-1</sup>K<sup>-1</sup>",
+            "92Jkg<sup>-1</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2000,
+        "question": "The main reason for making the cover of a vacuum flask airtight is to prevent heat loss by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "convection",
+            "conduction",
+            "radiation",
+            "evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2000,
+        "question": "A radio is operated by eight cells each of e.m.f. 2.0V connected in series. If two of the cells are wrongly connected, the net e.m.f. of the radio is",
+        "explanation": "Net e.m.f = (8 x 2) - (2 x 2)<br><br>= 12V",
+        "correctIndex": 2,
+        "options": [
+            "8V",
+            "10V",
+            "12V",
+            "16V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2000,
+        "question": "If a charged ion goes through combined electric and magnetic fields, the resultant emergent velocity of the ion is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "E/B",
+            "EB",
+            "B/E",
+            "E - B"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2000,
+        "question": "A projection lantern is used to give the image of a slide on a screen. If the image is 24 times as large as the slide and the screen is 72.0m from the projecting lens, what is the position of the slide from the lens?",
+        "explanation": "V = 72m<br>U = Magnification = 24<br>But Magnification = V/U<br>∴ 24 = 72/U<br>U = 72/24<br>U = 3.0m",
+        "correctIndex": 1,
+        "options": [
+            "0.3m",
+            "3.0m",
+            "3.5m",
+            "4.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2000,
+        "question": "An electron of charge 1.6 x 10<sup>-19</sup>C and mass 9.1 x 10<sup>-31</sup>kg is accelerated between two metal plates with a velocity of 4 x 10<sup>7</sup>ms<sup>-1</sup>, the potential difference between the plates is",
+        "explanation": "When a charged particle is accelerated across a region of p.d. V Volt, the work done is the product of the charge Q and the p.d. V<br><br>i.e. Work done = Q x V<br><br>But this work done is equal to the K.E. imparted to the charge given by K.E = 1/2MV<sup>2</sup>, where V is the velocity of the charge = Q x V = 1/2MV<sup>2</sup><br><br>∴ p.d V = (1/2MV<sup>2</sup>)/Q<br>= 1/2 x 9.1<sup>-31</sup>x [4 x 10<sup>7</sup>]<sup>2</sup>/1.6 x 10<sup>-19</sup><br>= 8 x 9.1 x 10<sup>2</sup>/1.6<br>= 4550V<br>= 4.55 x 10<sup>3</sup>V",
+        "correctIndex": 0,
+        "options": [
+            "4.55 x 10<sup>3</sup>V",
+            "4.55 x 10<sup>2</sup>V",
+            "9.10 x 10<sup>1</sup>V",
+            "4.55 x 10<sup>1</sup>V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2000,
+        "question": "A cell of internal resistance 0.01Ω can be measured accurately using the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Ohm meter",
+            "metre bridge",
+            "potentiometer",
+            "electroscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2000,
+        "question": "What optical instrument can best be constructed with converging lenses of focal lengths 50cm and 5cm?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Compound microscope",
+            "Galileo's telescope",
+            "Terrestrial telescope",
+            "Astronomical telescope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2000,
+        "question": "in a pure semiconductor, the number of electrons in the conduction band is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "less than the number of holes in the valence band",
+            "equal to the number of holes in the valence band",
+            "greater than the number of holes in the valence band",
+            "twice the number of holes in the valence band"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2000,
+        "question": "<p>In a thermonuclear reaction, the total initial mass is 5.02 x \\(10^{-{2}{7}}\\)kg and the total final mass is 5.01 x \\(10^{-{2}{7}}\\)kg. The energy released in the process is<br>\n[c = 3.0 x \\(10^8\\) ms-1]</p>",
+        "explanation": "<p>In thermonuclear reactions,<br>\nEnergy = ∆mC2<br>\n∆m = Change in Mass<br>\nC = Speed of light<br>\n∴ 5.02 x 10-27 - 5.01 x 10-27 x [3 x 108]2<br>\n0.01 x 10-27 x 9 x 1016<br>\nE = 9.0 x 10-13J</p>",
+        "correctIndex": 0,
+        "options": [
+            "9.0 x 10<sup>-13</sup>J",
+            "9.0 x 10<sup>-12</sup>J",
+            "9.0 x 10<sup>-11</sup>J",
+            "9.0 x 10<sup>-10</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2000,
+        "question": "A gas would serve as an electrical conductor under",
+        "explanation": "In general, gases conduct electricity under reduced pressure and high voltage/potential.<br><br>But from Ohms Law, current is directly proportional to voltage. Thus high current presupposes high voltage.",
+        "correctIndex": 0,
+        "options": [
+            "reduced pressure and high current",
+            "increased magnetic field",
+            "reduced pressure and reduced potential",
+            "exposure to visible light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2000,
+        "question": "An electric generator with a power output of 3.0KW at a voltage of 1.5KV distributes power along cables of resistance 20.0Ω. The power loss in the cables is",
+        "explanation": "Power input = 3KW = 3000W<br>Voltage = 1.5KV = 1500V<br>Current (I) = P/V = 3000/1500 = 2Amps.<br>∴ Power loss in the cables = I<sup>2</sup>R<br>= 2 x 2 x 20<br>= 80W",
+        "correctIndex": 0,
+        "options": [
+            "80.0W",
+            "40.0W",
+            "10.0W",
+            "0.1W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2000,
+        "question": "If the frequency of an emitted x-ray is 1.6 x 10<sup>16</sup>Hz, the accelerating potential is?<br>[e = 1.6 x 10<sup>-19</sup>C, h = 6.63 x 10<sup>-34</sup>Js]",
+        "explanation": "Energy imparted by the accelerating system = e x V, where V is the accelerating potential; and this energy is equal to the energy of the X-ray, give by hf<br><br>e x V = hf<br>∴ V = hf/e<br>(6.63 x 10<sup>-34</sup>x 1.6 x 10<sup>-16</sup>)/1.6 x 10<sup>-19</sup><br><br>= 6.63 x 10 = 66.3V",
+        "correctIndex": 2,
+        "options": [
+            "6630.0V",
+            "663.0V",
+            "66.3V",
+            "6.6V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2000,
+        "question": "If the fraction of the atoms of a radioactive material left after 120years is 1/64, what is the half-life of the material?",
+        "explanation": "1/64 is the usual fraction left of any radio active material after 4 half-lives, since 1/64 = (1/2)<sup>6</sup><br>This implies that 6 half lives have elapsed.<br>Thus 6 half lives = 120 years<br>∴ 1 half life = 120/6 = 20 years",
+        "correctIndex": 1,
+        "options": [
+            "24 years",
+            "20 years",
+            "10 years",
+            "2 years"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2000,
+        "question": "A certain radioactive source emits radiations that were found to be deflected by both magnetic and electric fields. The radiations are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "beta rays",
+            "gamma rays",
+            "x-rays",
+            "unltr-violet rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2000,
+        "question": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C. Supply. The reactance of the inductor is",
+        "explanation": "Inductive reactance is given by<br>X<sub>L</sub>= W<sub>L</sub>= 2πfL<br>X<sub>L</sub>= 2 x π x (50/π) x 2<br>X<sub>L</sub>= 200Ω",
+        "correctIndex": 0,
+        "options": [
+            "200 Ω",
+            "50 Ω",
+            "100/π Ω",
+            "25/π Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2000,
+        "question": "A cell of internal resistance 1Ω supplies current to an external resistor of 3Ω. The efficiency of the cell is",
+        "explanation": "Efficiency = Output/input x 100/1<br>Efficiency = 3/(3+1) x 100/1<br>= 3/4 x 100/1 = 75%",
+        "correctIndex": 3,
+        "options": [
+            "25%",
+            "33%",
+            "50%",
+            "75%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2000,
+        "question": "A conductor of length 2m carries a current of 0.8A while kept in a magnetic field of magnetic flux density 0.5T. The maximum force acting on it is",
+        "explanation": "The force on the conductor is maximum when the conductor lies perpendicular to the field during which the maximum force is given as;<br>F = ILB = 0.8 x 2 x 0.5 = 0.8N",
+        "correctIndex": 1,
+        "options": [
+            "0.2N",
+            "0.8N",
+            "3.2N",
+            "8.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2000,
+        "question": "Light of energy 5eV falls on a metal of work function 3eV and electrons are liberated. The stopping potential is",
+        "explanation": "For a photoemitted electron,<br>eV = K.E.<sub>max</sub>, where V = stopping potential and K.E. = maximum kinetic energy of the photo emitted electron given by K.E. = Energy of incident rad - Work - function<br>= 5ev - 3ev = 2ev<br>∴ eV = 2eV<br>V = 2eV/e = 2V<br>∴ Stopping Potential = 2.0V",
+        "correctIndex": 1,
+        "options": [
+            "1.7V",
+            "2.0V",
+            "8.0V",
+            "15.0V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2000,
+        "question": "The velocity y of a particle in a time t is given by the equation<br>y = 10 + 2t<sup>2</sup><br>Find the instantaneous acceleration after 5 seconds",
+        "explanation": "The velocity V = 10 + 2t<sup>2</sup><br>But acceleration, a = dv/dt<br>thus if V = 10 + 2t<sup>2</sup><br>dv/dt = 4t<br>And t = 5s then a = 4x5 = 20m/s<sup>2</sup><br>∴a = 20ms",
+        "correctIndex": 1,
+        "options": [
+            "60 ms<sup>-2</sup>",
+            "20 ms<sup>-2</sup>",
+            "15 ms<sup>-2</sup>",
+            "10 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2000,
+        "question": "A simple pendulum has a period of 17.0s. When the length is shorten by 1.5m, its period is 8.5s. Calculate the original length of the pendulum",
+        "explanation": "<span style=\"white-space: nowrap; font-size:larger\">For a simple pendulum, the period T = 2π<br>\n√<span style=\"text-decoration:overline;\">  <sup>1</sup>/<sub>g</sub> </span><br>\n</span><br>Since g, 2 and π are constant, =&gt; T ∝ √l<br>∴ T = K√l<br>Let the original length = l<br>thus for the length l, period T = 17s<br>∴ 17 = K√1 .................. [1]<br>Again, for the new length [1 - 1.5]<br>the period T = 8.5s<br><span style=\"white-space: nowrap; font-size:larger\">∴ 8.5 = k<br>\n√<span style=\"text-decoration:overline;\"> [1-1.5] </span>...............[2]<br>\n</span><br>thus dividing eqn [1] by eqn[2] we have<br><sup>17</sup>/<sub>8.5</sub>= √(l/l-1.5)<br>∴2 = √(l/l-1.5)<br>=&gt;4 = (l/l-1.5)<br>∴l = 4[l-1.5]<br>= 4l - 6.0<br>∴4l - l = 6.0<br>3l = 6.0<br>l = 2.0m",
+        "correctIndex": 2,
+        "options": [
+            "4.0 m",
+            "3.0 m",
+            "2.0 m",
+            "1.5 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2000,
+        "question": "A sonometer wire is vibrating at frequency<i>f</i><sub>o</sub>. If the tension in the wire is doubted while the length and the mass per unit length are kept constant, the new frequency of vibration is",
+        "explanation": "For a vibrating sonometer wire, the frequency<br>F =<sup>l</sup>/<sub>2l</sub>√(<sup>T</sup>/<sub>m</sub>)<br>and if the length, l and mass per unit length, m, are constant, then F<sub>o</sub>∝ √T =&gt; F<sub>o</sub>K√T or<sup>F<sub>o</sub></sup>/<sub>√T</sub>= K<br>=&gt;<sup>F<sub>1o</sub></sup>/<sub>√F<sub>1</sub></sub>=<sup>F<sub>2o</sub></sup>/<sub>√F<sub>2</sub></sub><br>∴<sup>F<sub>1o</sub></sup>/<sub>√T<sub>1</sub></sub>=<sup>F<sub>2o</sub></sup>/<sub>√T<sub>2</sub></sub><br><table><tbody><tr><td rowspan=\"2\">thus F<sub>2</sub> =</td><td style=\"border-bottom:solid 1px\">F<sub>3</sub>x√(2T<sub>1</sub></td></tr><tr><td>__√T<sub>1</sub></td></tr></tbody></table><br>=<table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">F<sub>o</sub>x√2 x √T<sub>1</sub></td></tr><tr><td>√T<sub>1</sub></td></tr></tbody></table><br>∴F<sub>2</sub>= F<sub>o</sub>x √2 = F<sub>o</sub>x√2",
+        "correctIndex": 3,
+        "options": [
+            "<sup><i>f</i><sub>o</sub></sup>/<sub>2</sub>",
+            "2<i>f</i><sub>o</sub>",
+            "<sup><i>f</i><sub>o</sub></sup>/<sub>√2</sub>",
+            "<i>f</i><sub>o</sub>√2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2000,
+        "question": "A travelling wave moving from left to right has an amplitude of 0.15m, a frequency of 550Hz and a wavelength of 0.01m. The equation describing the wave is",
+        "explanation": "The general wave equation is given by Y = sin A<sup>2π</sup>/<sub>λ</sub>[x - vt]<br>= Sin A [(2π X)/λ - (2π vt)/λ]<br>thus if A = 0.15;λ = 0.01m; f = 550Hz<br>then V = f x λ = 550 x 0.01 = 5.50m/s<br>∴ Y = 0.15 sin [(2 x λ x X)/0.01 - (2 x λ x 5.5t)/0.01]<br>= 0.15 sin[200λX - 200 x λ x 5.5t]<br>∴ Y = 0.15 sin 200λ[x - 5.5t]",
+        "correctIndex": 0,
+        "options": [
+            "y = 0.15 sin 200π(x - 5.5t)",
+            "y = 0.15 sin π(0.01x - 5.5t)",
+            "y = 0.15 sin 5.5π(x - 200t)",
+            "y = 0.15 sin π(550x - 0.01t)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2000,
+        "question": "A transverse wave is applied to a string whose mass per unit length is 3 x 10<sup>-2</sup>kgm<sup>-1</sup>. If the string is under a tension 12N, the speed of the propagation of the wave is",
+        "explanation": "For transverse wave on string<br>velocity V = √<sup>T</sup>/<sub>M</sub><br>where T is the tension, and M is the mass per unit length<br>∴ for T = 12N and M = 3.0 x 10<sup>-2</sup>kgm<sup>-1</sup><br><span style=\"white-space: nowrap; font-size:larger\">V= <br>\n√<span style=\"text-decoration:overline;\"> 12 / (3.0x10<sup>-2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\"> = <br>\n√<span style=\"text-decoration:overline;\"> 12 / 0.03 </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\"> = <br>\n√<span style=\"text-decoration:overline;\"> 1200 / 3 </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\"> = <br>\n√<span style=\"text-decoration:overline;\"> 1200 / 3 </span>= 20<br>\n</span><br>∴V = 20m/s",
+        "correctIndex": 1,
+        "options": [
+            "5 ms<sup>-1</sup>",
+            "20 ms<sup>-1</sup>",
+            "30 ms<sup>-1</sup>",
+            "40 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2000,
+        "question": "An engineer intends to deviate a light ray from its path by 120<sup>o</sup>through reflection from a plane mirror. Calculate the angle of incidence",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4076687349_phy200017.jpg\" class=\"img-fluid\">\n</div>Angle of deviation = 180 - [i + v]<br>= 180 - 2i [since i = v]<br>∴ 120 = 180 - 2i<br>2i = 180 - 120<br>= 60<br>∴ i = 30<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "60<sup>o</sup>",
+            "40<sup>o</sup>",
+            "30<sup>o</sup>",
+            "20<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20383450965_phy200026.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Alcohol, mercury and alcohol",
+            "Air, alcohol and mercury",
+            "Mercury, alcohol and mercury",
+            "Air, mercury and alcohol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13588973610_phy200028.jpg\" class=\"img-fluid\">",
+        "explanation": "Since capacitance C = Q/V, =&gt; Q = CV<br>∴ Q<sub>p</sub>= 5 x 10<sup>-b</sup>x 20<br>= 100 x 10<sup>-b</sup>or 100μC<br>Q<sub>p</sub>= 10 x 10<sup>-b</sup>x 70<br>= 200 x 10<sup>-b</sup>or 200μC<br>Correct option 100μC and 200μC",
+        "correctIndex": 2,
+        "options": [
+            "2μC and 4μC",
+            "4μC and 2μC",
+            "100μC and 200μC",
+            "200μC and 100μC"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21742385264_phy200030.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "red, green and blue",
+            "Green, red and blue",
+            "Yellow , blue and red",
+            "Blue , yellow and red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8153400570_phy200031.jpg\" class=\"img-fluid\">",
+        "explanation": "Effective resistance in the circuit<br>= 3 + 2 + 1 = 6Ω<br>Current through the I = E/(R+V)<br>∴I =<sup>2</sup>/<sub>6</sub><br>=&gt; V<sub>1</sub>= I x R<sub>1</sub><sup>2</sup>/<sub>6</sub>x<sup>3</sup>/<sub>1</sub>= 1V<br>= V<sub>2</sub>= I x R<sub>2</sub>=<sup>2</sup>/<sub>6</sub>x<sup>2</sup>/<sub>1</sub>=<sup>2</sup>/<sub>3</sub>V<br>∴ we have 1V and<sup>2</sup>/<sub>3</sub>V",
+        "correctIndex": 3,
+        "options": [
+            "1V and<sup>1</sup>/<sub>3</sub>V",
+            "<sup>1</sup>/<sub>3</sub>V and 1V",
+            "<sup>1</sup>/<sub>3</sub>V and<sup>2</sup>/<sub>3</sub>V",
+            "1V and<sup>2</sup>/<sub>3</sub>V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16306804956_phy200039.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "between P and Q",
+            "Q",
+            "S",
+            "P"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13589009420_phy200043.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "P",
+            "Y",
+            "X",
+            "Q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4076704545_phy200049.jpg\" class=\"img-fluid\">",
+        "explanation": "<span style=\"white-space: nowrap; font-size:larger\">Impedance Z = <br>\n√<span style=\"text-decoration:overline;\"> R<sup>2</sup> x X<sup>2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 30<sup>2</sup> x 40<sup>2</sup> </span><br>\n</span><br>∴<span style=\"white-space: nowrap; font-size:larger\">Z =<br>\n√<span style=\"text-decoration:overline;\"> 2500 </span> = 50W<br>\n</span><br>But current I =<sup>V</sup>/<sub>Z</sub>=<sup>200</sup>/<sub>50</sub>= 4.00 A",
+        "correctIndex": 2,
+        "options": [
+            "0.58 A",
+            "3.00 A",
+            "4.00 A",
+            "6.67 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2000,
+        "question": "<p>A handbag containing some load weighing 162N is carried by two students each holding the handle of the bag next to him. If each handle is pulled \\( 60^{\\circ} \\) to the vertical, find the force on each student's arm</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "81N",
+            "121N",
+            "162N",
+            "324N"
+        ],
+        "type": "objectives"
+    }
+]

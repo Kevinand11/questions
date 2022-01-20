@@ -1,0 +1,722 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1994,
+        "question": "If it takes 5.0 hrs to drain a container of 540.0cm<sup>3</sup>of water, what is the flow rate of water from the container in kg<sup>-1</sup>? [Density of water = 1000kgm<sup>-3</sup>]",
+        "explanation": "Flow = rate = \\(\\frac{mass}{time}\\)<br><br>= \\(\\frac{1000 \\times 540}{5 \\times 3600}\\)<br><br>= 30.0kg<sup>-1</sup>s",
+        "correctIndex": 3,
+        "options": [
+            "32.5kg<sup>-1</sup>s",
+            "31.5kg<sup>-1\n</sup>",
+            "30.8kg<sup>-1</sup>s",
+            "30.0kg<sup>-1</sup>s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1994,
+        "question": "A boat travels due east at a speed 40ms<sup>-1</sup>s across a river flow due south at 30ms<sup>-1</sup>s. What is the resultant speed of the boat?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.3ms<sup>-1</sup>",
+            "10.0ms<sup>-1</sup>",
+            "50.0ms<sup>-1</sup>",
+            "70.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1994,
+        "question": "An object is projected with a velocity of 80ms<sup>-1</sup>at an angle of 30<sup>o</sup>to the horizontal.The maximum height reached is",
+        "explanation": "max. height = \\(\\frac{U^2\\sin^2\\theta}{2g}\\)<br><br>= \\(\\frac{80 \\times 80 \\times \\sin^2(30)}{2 \\times 10}\\)<br><br>= 80m",
+        "correctIndex": 1,
+        "options": [
+            "20m",
+            "80m",
+            "160m",
+            "320m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1994,
+        "question": "A motor vehicle is brought to rest from a speed of 15ms<sup>-1</sup>in 20 seconds. Calculate the retardation.",
+        "explanation": "Retardation = \\(\\frac{u - v}{t}\\)<br><br>= \\(\\frac{15 -0}{20}\\)<br><br>= 0.75ms<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "0.75ms<sup>-1</sup>",
+            "1.33ms<sup>-2</sup>",
+            "5.00ms<sup>-2</sup>",
+            "7.50ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1994,
+        "question": "Which of the following is TRUE of a particle moving in a horizontal circle with constant angular velocity?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "The energy is costant but the linear momentum varies",
+            "The linear momentum is conatant but the energy varies",
+            "both energy and linear momentum are constant",
+            "The speed and the linear velocity are both constant"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1994,
+        "question": "An object of mass 50kg is released from a height of 2m.Find the kinetic energy just before it strikes the ground",
+        "explanation": "P.E = K.E = mgh<br><br>= 50 x 10 x 2 = 1000J",
+        "correctIndex": 1,
+        "options": [
+            "250J",
+            "1000J",
+            "10 000J",
+            "100 000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1994,
+        "question": "A cone in an unstable equilibrium has its potential energy",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "decreased",
+            "increased",
+            "unchanged",
+            "oscillating"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1994,
+        "question": "Calculate the magnitude of the force required to just move a 20kg object along a horizontal surface if the coefficient of friction is 0.2. [g = 10ms<sup>-2</sup>]",
+        "explanation": "F = \\(\\mu\\)mg<br><br>= 0.2 x 20 x 10<br><br>= 40N",
+        "correctIndex": 1,
+        "options": [
+            "400.0N",
+            "40.0N",
+            "4.0N",
+            "0.4N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1994,
+        "question": "Calculate the velocity ratio of a screw jack of pitch 0.3cm if the length of the tommy bar is 21cm",
+        "explanation": "V.R = \\(\\frac{2\\pi L}{p}\\)<br><br>= \\(\\frac{2 \\times \\pi \\times 2}{0.3}\\)<br><br>V.R = 140\\(\\pi\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{140}\\)\\(\\pi\\)",
+            "14\\(\\pi\\)",
+            "70\\(\\pi\\)",
+            "140\\(\\pi\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1994,
+        "question": "A force of 15N stretches a spring to a total length of 30cm. An additional force of 10N stretches the spring 5cm further. Find the natural length of the spring",
+        "explanation": "\\(\\frac{15}{30 - L}\\) = \\(\\frac{10}{5}\\)<br><br>L = 22.5cm",
+        "correctIndex": 1,
+        "options": [
+            "25.0cm",
+            "22.5cm",
+            "20.0cm",
+            "15.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1994,
+        "question": "Which of these statements are TRUE of pressure in liquids? i. pressure acts equally in all direction. ii. pressure decreases with depth. iii. pressure at the same level of a liquid is the same. iv pressure is dependent on the cross-sectional area of the barometer tube",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i, iii only",
+            "i, ii, iii only",
+            "i, iii, and iv only",
+            "i, ii, iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1994,
+        "question": "The mass of a specific gravity bottle is 15.2g when it is empty. it is 24.8g when filled with kerosene and 27.2g when filled with distilled water. Calculate the relative density of kerosene",
+        "explanation": "Masses of kerosene = 24.8 - 15.2<br><br>= 9.6<br><br>mass of H<sub>2</sub>O = 27.2 - 15.2<br><br>= 12<br><br>R.d = \\(\\frac{9.6}{12}\\) = 0.8",
+        "correctIndex": 3,
+        "options": [
+            "1.25",
+            "1.10",
+            "0.90",
+            "0.80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1994,
+        "question": "If a solid X floats in liquids P of relative density 2.0 and in liquid Q of relative density 1.5, it can be inferred that the",
+        "explanation": "R.d \\(\\alpha\\) weight of liquid displaced<br><br>\\(\\frac{\\text {R.d of P}}{\\text {R.d of Q}}\\) = \\(\\frac{\\text{weight of p displaced}}{\\text{weight of Q displaced}}\\)<br><br>\\(\\frac{2}{1.5}\\) = \\(\\frac{\\text {weight of p displaced}}{\\text {weight of Q displaced}}\\)",
+        "correctIndex": 0,
+        "options": [
+            "weight of P displaced is greater than that of Q",
+            "weight of P displaced is less than that of Q",
+            "volume of P displaced is greater than that of Q",
+            "volume of P displaced is less than that of Q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1994,
+        "question": "The melting point of naphthalene is 78<sup>o</sup>C. What is this temperature in kelvin",
+        "explanation": "T = 78 + 273<br><br>= 351k",
+        "correctIndex": 1,
+        "options": [
+            "100k",
+            "351k",
+            "378k",
+            "444k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1994,
+        "question": "A Motor Tyre is inflated to pressure of 2.0 x 10<sup>5</sup>Nm<sup>-2</sup>when the temperature of air is 27<sup>o</sup>C. What will be the pressure in it at 87<sup>o</sup>C assuming that the volume of the Tyre does not change?",
+        "explanation": "\\(\\frac{p_1}{T_1}\\) = \\(\\frac{p_2}{T_2}\\)<br><br>\\(\\frac{2 \\times 10^5}{27 + 273}\\) = \\(\\frac{p_2}{87 + 273}\\)<br><br>P<sub>2</sub>= 2.4 x 10<sup>5</sup>Nm<sup>-2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2.6 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "2.4 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "2.2 x 10<sup>5</sup>Nm<sup>-2</sup>",
+            "1.3 x 10<sup>5</sup>Nm<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1994,
+        "question": "<p>When 100g of liquids L1 at 78°C was mixed with Xg of liquid L2 at 50°C, the final temperature was 66°C. Given that the specific heat capacity of L2is half that of L1, find x</p>",
+        "explanation": "<p>Heat lost by L1 = heat gained by L2<br>\n<br>\ncL1 = 2cL2<br>\n<br>\n100 x 2cL2 x (78 - 66)<br>\n<br>\n= xg x cL2 x (66 - 50)<br>\n<br>\nxg = 150g</p>",
+        "correctIndex": 2,
+        "options": [
+            "50g",
+            "100g",
+            "150g",
+            "200g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1994,
+        "question": "Heat is supplied to a test tube containing 100g of ice at its melting point. The ice melts completely in 1 min.What is the power rating of the source of heat? [Latent heat of fusion of ice = 336Jg<sup>-1</sup>]",
+        "explanation": "p x t = heat energy<br><br>P x 1 x 60 = 100 x 336<br><br>p = 560W",
+        "correctIndex": 2,
+        "options": [
+            "336W",
+            "450W",
+            "560W",
+            "600W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1994,
+        "question": "If a room is saturated with water vapour, the temperature of the room must be",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "at 0<sup>o</sup>C",
+            "above the dew point",
+            "at 100<sup>o</sup>C",
+            "below or at the dew point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1994,
+        "question": "Two similar kettles containing equal masses of boiling water are placed on a table. If the surface of one is highly polished and the surface of the other is covered with soot, Which of the following observations is correct",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "The two kettles will cool down at the same rate",
+            "the polished kettle cools down more quickly by conduction",
+            "the kettle covered with soot cools down more quickly because it is a good radiator",
+            "the kettle covered with soot cools down more quickly by the process of heat convection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1994,
+        "question": "The equation of transverse wave traveling along a string is given by Y = 0.3 sin(0.5x - 50t) where Y and X are in cm and t is in seconds.Find the maximum displacement of the particles from the equilibrium position",
+        "explanation": "Y = 0.3 sin(0.5x - 50t) compare with,<br><br>y = A sin(kx - wt)<br><br>A = 0.3m",
+        "correctIndex": 3,
+        "options": [
+            "50.0cm",
+            "2.5 cm",
+            "0.5cm",
+            "0.3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1994,
+        "question": "The sound from a source travelled to the bottom of the sea and the echo was heard 4s later. If the speed of sound in sea water is 1500ms<sup>-1</sup>the depth of the sea is",
+        "explanation": "t = 4s ; v = 150ms<sup>-1</sup><br><br>depth = X ; but 2X = vt<br><br>X = \\(\\frac {vt}{2}\\) = \\(\\frac {1500 \\times 4}{2}\\)<br><br>X = 3000m",
+        "correctIndex": 1,
+        "options": [
+            "6000m",
+            "3000m",
+            "1500m",
+            "375m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1994,
+        "question": "The fundamental frequency of vibration of a sonometer wire may be halved by",
+        "explanation": "F \\(\\alpha\\) \\(\\frac{1}{L}\\)",
+        "correctIndex": 0,
+        "options": [
+            "doubling the length of the wire",
+            "doubling the mass of the wire",
+            "reducing the tension by half",
+            "reducing the absolute temperature by half"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1994,
+        "question": "A pipe of length 45cm is closed at the end. Calculate the fundamental frequency of the sound wave generated in the pipe if the velocity of sound in air is 360ms<sup>-1</sup>[Neglect end correction]",
+        "explanation": "\\(\\lambda\\) = 4L = 4 X 45 = 180cm<br><br>F = \\(\\frac {V}{\\lambda}\\)<br><br>= \\(\\frac {360}{180 \\times 10^{-2}}\\)<br><br>= 200Hz",
+        "correctIndex": 2,
+        "options": [
+            "5.5Hz",
+            "148.5Hz",
+            "200.0Hz",
+            "550.0Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1994,
+        "question": "The note produced by a stretched string has a fundamental frequency of 400Hz. If the length of the string is doubled while the tension in the string is increased by a factor of 4, the frequency is",
+        "explanation": "F = \\(\\frac {1}{2L}\\) \\(\\sqrt\\frac{T}{m}\\)<br><br>T<sub>2</sub>= 4T<sub>1</sub>; L<sub>2</sub>= 2L<sub>1</sub><br><br>\\(\\frac{2F_1L_1}{2F_2L_2}\\) = \\(\\sqrt\\frac{T_1}{T_2}\\)<br><br>\\(\\frac{400\\times L_1}{F \\times L_1}\\) = \\(\\sqrt\\frac{T_1}{4T_1}\\)<br><br>F = 400Hz",
+        "correctIndex": 1,
+        "options": [
+            "200Hz",
+            "400Hz",
+            "800Hz",
+            "1600Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1994,
+        "question": "To produce a parallel beam of light from a concave mirror, the distance at a which the lamp should be placed from the mirror is equal to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the focal length",
+            "two times the focal length",
+            "the distance of the image",
+            "two times the radius of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1994,
+        "question": "Light of frequency 6.0 x 10<sup>14</sup>Hz travelling in air is transmitted through glass or refractive index 1.5. Calculate the frequency of the light in the glass",
+        "explanation": "1.5 = \\(\\frac{6 \\times 10^{14}}{F}\\)<br><br>F = 4 x 10<sup>14</sup>Hz",
+        "correctIndex": 0,
+        "options": [
+            "4.0 x 10<sup>14</sup>Hz",
+            "6.0 x 10<sup>14</sup>Hz",
+            "7.5 x 10<sup>14</sup>Hz",
+            "9.0 x 10<sup>14</sup>Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1994,
+        "question": "An object is placed in front of a converging lens of a focal length 20cm. The image is virtual and has a magnification of 2. What is the distance of the object from the lens?",
+        "explanation": "V = -2u<br><br>F = \\(\\frac{uv}{u + v}\\)<br><br>20 = \\(\\frac{uv - 2u}{u - 2u}\\)<br><br>u = 10cm",
+        "correctIndex": 1,
+        "options": [
+            "5cm",
+            "10cm",
+            "30cm",
+            "40cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1994,
+        "question": "An object is placed directly below a glass block of thickness 3.0cm. Calculate the lateral displacement of the object if the refractive index of the glass is 1.5.",
+        "explanation": "1.5 = \\(\\frac{3}{\\text {apparent displacement}}\\)<br><br>Apparent depth = 2cm<br><br>displacement = 3 - 2<br><br>= 1cm",
+        "correctIndex": 0,
+        "options": [
+            "1.0cm",
+            "1.5cm",
+            "2.0cm",
+            "2.5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1994,
+        "question": "In a projection lantern of focal length f, the object distance u, is such that",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "u &gt; 2f &gt; f",
+            "u &lt; f &lt; 2f",
+            "u = f &lt; 2f",
+            "f &lt; u &lt; 2f"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1994,
+        "question": "If the Nigeria flag (green, white, green) is viewed in pure yellow light, which of the following set of colours would be observed on the flag?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Green, yellow, green",
+            "Red, yellow, red",
+            "black, yellow, black",
+            "Green, white, green"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1994,
+        "question": "Which of the following has the lowest internal resistance when new?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "leclanche cell",
+            "Daniel cell",
+            "Accumulator",
+            "Torch battery"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1994,
+        "question": "When a biro pen rubbed on a dry silk cloth is moved very close to a piece of paper on a dry table, the pen is found to pick up the paper. This is because",
+        "explanation": "They are all charged either positively or negatively",
+        "correctIndex": 3,
+        "options": [
+            "both the pen and the cloth are magnetized",
+            "the pen is magnetized but the cloth is not",
+            "the pen is charged while the cloth is magnetized",
+            "both the pen and the cloth are charged"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1994,
+        "question": "A capacitor 8\\(\\mu\\)F is charged to a potential difference of 100V. The energy stored by the capacitor is",
+        "explanation": "Energy = \\(\\frac{1}{2}\\)CV<sup>2</sup><br><br>= \\(\\frac{1}{2}\\) x 8 x 10<sup>-6</sup>x (100)<sup>2</sup><br><br>= 4 x 10<sup>-2</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "1.0 x 10<sup>4</sup>J",
+            "8.0 x 10J",
+            "1.25 x 10J",
+            "4.0 x 10<sup>-2</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1994,
+        "question": "Two capacitors R<sub>1</sub>= 4\\(\\Omega\\) and R<sub>2</sub>= 5\\(\\Omega\\) are connected in parallel across a potential difference. If P<sub>1</sub>and P<sub>2</sub>represent power dissipated in R<sub>1</sub>and R<sub>2</sub>respectively, then the ratio P<sub>1</sub>: P<sub>2</sub>is",
+        "explanation": "P<sub>1</sub>= \\(\\frac{V^2_1}{R_1}\\) and P<sub>2</sub>= \\(\\frac{V^2_2}{R_2}\\)<br><br>P<sub>1</sub>R<sub>1</sub>= P<sub>2</sub>R<sub>2</sub><br><br>4P<sub>1</sub>= 5P<sub>2</sub><br><br>\\(\\frac{p_1}{p_2}\\) = \\(\\frac{5}{4}\\)<br><br>= 5 : 4",
+        "correctIndex": 1,
+        "options": [
+            "4 : 5",
+            "5 : 4",
+            "16 : 25",
+            "25 : 16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1994,
+        "question": "Which of the following are found in the receiver but not in the microphone of a telephone handset? i. Diaphragm. ii. soft iron pole pieces. iii. permanent magnet. iv.carbon blocks",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i and ii",
+            "i and iv",
+            "ii and iii",
+            "iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1994,
+        "question": "If two parallel conductors carry currents flowing in the same direction, the conducts will",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "attract each other",
+            "repel each other",
+            "both move in the same direction",
+            "have no effect on each other"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1994,
+        "question": "A certain radioisotope of \\(^{235}_{92}U\\) emits four alpha particles and three beta particles. The mass number and the atomic number of the resulting elements respectively are",
+        "explanation": "\\(^{235}_{92}U\\) \\(\\to\\) 4\\((^{4}_{2}\\alpha)\\) + 3\\((^{0}_{-1}e)\\) + \\(^{b}_{a}y\\)<br><br>a + (4 + 2) + (3x - 1) = 92 \\(\\Rightarrow\\) a = 87<br><br>b + (4 x 4) + (3 x 0) = 235 \\(\\Rightarrow\\) b = 219<br><br>\\(^{b}_{a}Y\\) = \\(^{219}_{87}Y\\)",
+        "correctIndex": 0,
+        "options": [
+            "219 and 87",
+            "84 and 223",
+            "223 and 87",
+            "219 and 81"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1994,
+        "question": "If light with photon energy 2eV is incident suitably on the surface of a metal with work function 3eV, then",
+        "explanation": "An electron can only be emitted if photon energy is equal or greater than work function of the plate",
+        "correctIndex": 0,
+        "options": [
+            "no electron will be emitted",
+            "the few electrons emitted will have a maximum kinetic energy of 1eV",
+            "the few electrons emitted will have a maximum kinetic energy of 3eV",
+            "many electrons will be emitted"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1994,
+        "question": "A spring of length 25cm is extended to 30cm by a load of 150N attached to one of its end, what is the energy stored in the spring?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3750J",
+            "2500J",
+            "3.75J",
+            "2.50J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2917308084_1994.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1.79cm",
+            "1.73cm",
+            "1.39cm",
+            "1.34cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2917308568_19940001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "10N",
+            "20N",
+            "100N",
+            "200N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27714433562_19940002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "660mm",
+            "690mm",
+            "830mm",
+            "860mm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14586545210_19940003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "3.0Ω",
+            "13.3Ω",
+            "15.0Ω",
+            "30.0Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10210582508_19940004.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(E = I(R + r)\\)</p><p>\\(I = \\frac{E}{R + r}\\)</p><p>\\(\\frac{1}{R} = \\frac{1}{12} + \\frac{1}{6} = \\frac{1}{4}\\)</p><p>\\(R = 4\\Omega\\)</p><p>\\(I = \\frac{12}{1 + 4} = \\frac{12}{5}\\)</p><p>= 2.4A</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.8A",
+            "1.0A",
+            "1.6A",
+            "2.4A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11669238424_19940005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "25s",
+            "1/50s",
+            "1/100s",
+            "1/200s"
+        ],
+        "type": "objectives"
+    }
+]

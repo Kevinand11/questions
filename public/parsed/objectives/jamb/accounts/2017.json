@@ -1,0 +1,786 @@
+[
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2017,
+        "question": "Which of these accounts is dissolution expenses credited?",
+        "explanation": "Realization account: the cash realized from sales of asset is credited to it",
+        "correctIndex": 3,
+        "options": [
+            "partners capital account",
+            "revaluation account",
+            "partners current account",
+            "Realization account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2017,
+        "question": "Capital for a profit making organization is generated through",
+        "explanation": "Share: profit making organizations use different shares such as ordinary and preference shares to source for money from the public",
+        "correctIndex": 1,
+        "options": [
+            "Subscription",
+            "shares",
+            "donation",
+            "gift"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2017,
+        "question": "The account where the profit are distributed to the partner in their profit sharing ratio in partnership",
+        "explanation": "Appropriation account is the account into which the net profit found in the profit and loss account of the partner will be carried down to and will be shared according to their sharing ratio",
+        "correctIndex": 1,
+        "options": [
+            "trading account",
+            "appropriation account",
+            "balance sheet",
+            "profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2017,
+        "question": "In manufacturing account, depreciation of office machine is charged to",
+        "explanation": "profit and loss account: the depreciation of the office machine is considered as part of administrative expense which must be charged against the profit of the company",
+        "correctIndex": 3,
+        "options": [
+            "trading account",
+            "appropriation account",
+            "balance street",
+            "profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2017,
+        "question": "Given:<br>I. Cash refunds<br>II. Debit note issued<br>III. Dishonored cheque<br>IV. Purchases<br>The item on the credit side of purchases ledger control account includes",
+        "explanation": "Purchases control account it is also called total creditor control account<br>I,II &amp; IV : some of the items that appear on the credit side of purchases ledger are cash refund to supplier, dishonored cheque by banks and credit purchases",
+        "correctIndex": 3,
+        "options": [
+            "I,II and III only",
+            "I and II only",
+            "III and IV only",
+            "I, III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2017,
+        "question": "You add the following when starting with the balance as per cash book when preparing the bank reconciliation statement except",
+        "explanation": "Uncredited cheque: This have to be deducted when starting balance as per cash book",
+        "correctIndex": 2,
+        "options": [
+            "Unpresented",
+            "Dividend",
+            "Uncredited cheque",
+            "credit transfer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2017,
+        "question": "\\(\\begin{array}{c|c} &amp; \\text{N} \\\\ \\hline \\text{Debtors opening} &amp; 4000 \\\\ \\hline \\text{Debtors closing} &amp; 1500 \\\\ \\hline \\text{Cash received from debtors} &amp; 8500 \\\\ \\hline \\text{Bad debts written off} &amp; 350 \\\\ \\hline \\text{Discount allowed} &amp; 500 \\\\ \\hline \\text{Discount received} &amp; 1000<br>\\end{array}\\)<br><br>If the gross profit is N5 000, what is the net profit?",
+        "explanation": "If the gross profit is ₦5,000, then the net profit is calculated below;<br>The item that will appear in the profit and loss account are;<br>Bad debt written off ₦350, Discount allowed ₦500 and Discount received ₦1,000<br><br>\\(\\begin{array}{c|c} \\text{Gross Profit} &amp; 5000 &amp; \\\\ \\hline \\text{Discount Received} &amp; 1000 &amp; 6000 \\\\ \\hline \\text{Expenses} &amp; &amp; \\\\ \\hline \\text{Bad debt.} &amp; 350 &amp; \\\\ \\hline \\text{Discout Allowed} &amp; 500 &amp; 850 \\\\ \\hline \\text{Net profit} &amp;<br>&amp; 5,150 \\end{array}\\)<br><br>Net profit is the profit made after all the expenses incurred are deducted from the gross profit<br>₦5150 is the net profit calculated i.e bad debt 350 &amp;nplus; discount allowed 500 &amp;nplus; net profit 5,150 less gross profit 5,000 + discount received 1,000",
+        "correctIndex": 2,
+        "options": [
+            "₦4,350",
+            "₦6,000",
+            "₦5,150",
+            "₦4,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2017,
+        "question": "<p>Which fund is used to meet unforeseen or urgent expenditure</p>",
+        "explanation": "<p><em><strong>contingencies fund</strong></em>: if there is an urgent and unforeseen need for expenditure for which no other provision exist, such expenses shall be deducted from the contingencies fund</p>",
+        "correctIndex": 2,
+        "options": [
+            "General reserve fund",
+            "Consolidated Reserve Fund",
+            "contingencies fund",
+            "special fund"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2017,
+        "question": "In the period of rising prices, which method of stock valuation is most appropriate?",
+        "explanation": "Last in first out:when price rise it results to lower bet income because the leftover inventory might be extremely old and perhaps obsolete",
+        "correctIndex": 0,
+        "options": [
+            "Last in First Out",
+            "weighted average",
+            "First in First Out",
+            "Simple average"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2017,
+        "question": "Which of these is the subsidiary book for return inwards?",
+        "explanation": "Sales return journal otherwise called return inward book is meant for recording of all good returned by customer",
+        "correctIndex": 1,
+        "options": [
+            "Sales day book",
+            "Sales return journal",
+            "Purchases day journal",
+            "Cash book"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2017,
+        "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
+        "explanation": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
+        "correctIndex": 1,
+        "options": [
+            "original entry",
+            "contra entry",
+            "prime entry",
+            "contract entry"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2017,
+        "question": "What is the main purpose of transaction file?",
+        "explanation": "The main purpose of organization file is to update the master file of the organization",
+        "correctIndex": 2,
+        "options": [
+            "To record assets and liabilities",
+            "To update income and expenses",
+            "to update master files",
+            "to make organization decision"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2017,
+        "question": "Processed data is only useful to user if it is",
+        "explanation": "first thing to be considered when gathering data is the relevant and usefulness of the data or information before considering the qualitative aspect and other things<br>Relevant : even if the information of data is not processed, if the processed data is relevant, it will be useful to the user",
+        "correctIndex": 2,
+        "options": [
+            "complex",
+            "quantitative",
+            "relevant",
+            "qualitative"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2017,
+        "question": "Changes can occur in partnership when:<br>i. partnership is dissolved<br>ii. There is amalgamation of partnership<br>iii.There is a change in the profit or loss sharing ratio<br>Iv. Intangible asset increase",
+        "explanation": "I II and III:Changes will occur in partnership is dissolved amalgamation and changes in profit or loss sharing ratio",
+        "correctIndex": 2,
+        "options": [
+            "I,II and IV",
+            "I &amp; III",
+            "I,II and III",
+            "I, III and IV"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2017,
+        "question": "The authority warrant issued prior to the approval of the appropriate bill at the beginning of the year",
+        "explanation": "Provisional general warrant is issued by minister to enable money to be released for expenditure for the early of the year before the appropriation Act is passed",
+        "correctIndex": 0,
+        "options": [
+            "provisional general warrant",
+            "annual general warrant",
+            "Reserved expenditure warrant",
+            "contigencies"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2017,
+        "question": "one of the options below is not the source of income for non- profit organization",
+        "explanation": "Ordinary shares: This type of source of income is only used in profit oriented organization to generate fund the pubic so as to enable the organization make more profit at the end of a specified period",
+        "correctIndex": 2,
+        "options": [
+            "Entrance fees",
+            "subscription/dues",
+            "odrinary shares",
+            "Donations"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2017,
+        "question": "\\(\\begin{array}{c|c} &amp; N \\\\ \\hline<br>\\text{Stock Jan 1} &amp; 2600 \\\\ \\hline \\text{Purchases} &amp; 4000 \\\\ \\hline \\text{Carriage inwards} &amp; 500 \\\\ \\hline \\text{Sales} &amp; 9000 \\\\ \\hline \\text{Carriage outwards} &amp; 500<br>\\end{array}\\)<br><br>Determine the net profit",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "₦4,000",
+            "₦4,500",
+            "₦5,000",
+            "₦1,400"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2017,
+        "question": "Salaries in arrears is treated in the balance sheet as a",
+        "explanation": "Current Liability: salaries in arrears fall into the category of them under the current liability because it is benefit due to outsiders but still enjoying by the organisation and can't exceed a year",
+        "correctIndex": 1,
+        "options": [
+            "current asset",
+            "current liability",
+            "fixed asset",
+            "long term liability"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2017,
+        "question": "\\(\\begin{array}{c|c} &amp; N \\\\ \\hline \\text{Plant and Machinery} &amp; 190 000 \\\\ \\hline \\text{Motor Vehicle} &amp; 170 000 \\\\ \\hline \\text{Stock} &amp; 60 000 \\\\ \\hline \\text{Current Liabilities} &amp; 50 000 \\\\ \\hline \\text{Purchase consideration} &amp; 400 000 \\end{array}\\)<br><br>Determine the amount of goodwill",
+        "explanation": "\\(\\begin{array}{c|c} \\text{Assets} &amp; N \\\\ \\hline \\text{Plant and Machinery} &amp; 190 000 \\\\ \\hline \\text{Motor Vehicle} &amp; 170 000 \\\\ \\hline \\text{Stock} &amp; 60 000 \\\\ \\hline &amp; 420,000 \\\\ \\hline \\text{Less Liabilities} &amp; 50 000 \\\\ \\hline \\text{Value / Net worth of the business} &amp; 370,000\\end{array}\\)<br><br>Purchase Consideration less worth of the business<br>400,000 - N 370,000<br><br>= N30,000<br><br>Goodwill is an asset that can not be seen or touched. It is referred to as intangible asset.<br>Goodwill is generated as may be the good name ot the business, confident of the customers an the product of the business. It is quantifiable by the management an monetary terms.",
+        "correctIndex": 3,
+        "options": [
+            "₦110 000",
+            "₦ 80 000",
+            "₦ 90 000",
+            "₦ 30 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2017,
+        "question": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added",
+        "explanation": "Uncredited cheque have to be less when starting with balance as per cashbook not add because the cheque are yet to be credited by the bank",
+        "correctIndex": 2,
+        "options": [
+            "Unpresented cheque",
+            "Dividend",
+            "Uncredited cheque",
+            "credit transfer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2017,
+        "question": "Which of these is the main source document for recording cash paid into bank?",
+        "explanation": "Pay-in-slip:this is in form of a slip designed with the name of the bank on top that has dates amounts in figure and word, column for the denomination of money paid in signature bank teller, stamp to prove the money is deposited into the bank",
+        "correctIndex": 3,
+        "options": [
+            "invoice",
+            "cheque book",
+            "credit note",
+            "pay-in-slip"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2017,
+        "question": "Given:<br>I. It records subscription in arrears<br>II. Payments of liabilities is effected<br>III. The account does not show if cash payment is revenue or capital expenditure<br>IV. It performs the same function as cashbook<br>The features of receipts and payment account includes",
+        "explanation": "The receipts and payment account is one of the account of a non-profit oriented organization that performs the same functions as cash account in a profit oriented organization<br>all forms of payment since cash is involved will be recorded and also performs the same functions as the cashbook does for profit oriented organization",
+        "correctIndex": 1,
+        "options": [
+            "I,II and IV",
+            "II,III and IV",
+            "III and IV",
+            "I,II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2017,
+        "question": "The movement of goods from head office to a branch is treated in the head office as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Sales",
+            "issue",
+            "purchases",
+            "requisition"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2017,
+        "question": "The following are the importance of branch account except",
+        "explanation": "The activities and resources of branches is strictly monitored by the head office and each branch is supplied according to its need so it will be difficult to commit fraud or waste any resources",
+        "correctIndex": 3,
+        "options": [
+            "it enable the organization to determine the branch that is making either profit or loss",
+            "it allows proper control over the branch by the head office",
+            "it assist the organization to determine the performance of a branch manager",
+            "it allows fraud and wastage of resources"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2017,
+        "question": "The current growth in the volume of trading and financial dealing in Nigeria is helped by",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increased financial activities",
+            "government intervention",
+            "credit as a factor in business",
+            "Payment for goods in cash"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2017,
+        "question": "One of the options below have the same features as the profit and loss account in non-profit organization",
+        "explanation": "Income and expenditure : This is the type of account that operate same features as the profit and loss account it takes in consideration all arrears and prepayments",
+        "correctIndex": 0,
+        "options": [
+            "Income and expenditure account",
+            "profit and loss account",
+            "receipts and payment account",
+            "Non profit account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2017,
+        "question": "Calculate the discount received in Department B<br>\\(\\begin{array}{c|c} &amp; \\text{Dept A} &amp; \\text{Dept B} \\\\ \\hline &amp; N &amp; \\\\ \\hline \\text{Sales} &amp; 250 000 &amp; 500 000 \\\\ \\hline \\text{Purchases} &amp; 150 000 &amp; 250 000 \\\\ \\hline \\text{Discount received} &amp; 24 000 &amp; \\\\ \\hline \\text{Discount allowed} &amp; 15 000 &amp; &amp;<br>\\end{array}\\)",
+        "explanation": "Before calculating the discount received in Dep. B<br><br>We need to calculate the percentage of purchases for Dep B<br><br>Out of the total purchases<br><br>Dep. A purchases 150,000<br><br>Dep. B purchases 250,000<br><br>400,000 - Total purchases<br><br>there4; \\(\\frac{250,000 \\times 24,000}{\\text{(Total discount received)}}\\) x 400,000<br><br>= 15,000",
+        "correctIndex": 1,
+        "options": [
+            "₦12,000",
+            "₦15,000",
+            "₦16,000",
+            "₦9,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2017,
+        "question": "An advantage of FIFO method of stock valuation is that",
+        "explanation": "The first in first out(FIFO) method of stock valuation, major advantage 1 it is very easy to apply 2 no manipulation of income is possible 3 the balance sheet amount for inventory is likely to approximate the current market value<br><br>its flow of cost is in sequence with the flow of stock: since the first stock will be considered for sale before other stock. the cost is always in sequence with the flow of stock because it correspondence with the normal physical flow of goods",
+        "correctIndex": 3,
+        "options": [
+            "it serves-as a control during inflation",
+            "it is calculated at the end of the year",
+            "it is progressive in nature",
+            "its flow of cost is in sequence with the flow of stock."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2017,
+        "question": "Discount allowed is enjoyed by",
+        "explanation": "Customer: customers are the one that enjoys discount allowed. It is allowed to them by the suppliers. it can be in cash or trade",
+        "correctIndex": 1,
+        "options": [
+            "Managers",
+            "Customers",
+            "Suppliers",
+            "Staff of the company"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2017,
+        "question": "<p>\\(\\begin{array}{c|c} &amp; \\text{Dept A} &amp; \\text{Dept B} \\\\ \\hline &amp; N &amp; \\\\ \\hline \\text{Sales} &amp; 250 000 &amp; 150,000 \\\\ \\hline \\text{Purchases} &amp; 500,000 &amp; 250 000 \\\\ \\hline \\text{Discount received} &amp; 24 000 &amp; \\\\ \\hline \\text{Discount allowed} &amp; 15 000 &amp; &amp;<br>\n\\end{array}\\)<br>\n<br>\nDetermine the discount allowed by Department A</p>",
+        "explanation": "<p>To determine the discount allowed by Department B, the percentage of sales by Department B need to be calculated<br>\n<br>\nDep A 250,000<br>\n<br>\nDep B \\(\\frac{150,000}{400,000}\\)<br>\n<br>\n% of Dep A = \\(\\frac{250,000}{400000}\\) X 100<br>\n<br>\n= 62.5%<br>\n<br>\n∴ Discount allowed in Dep A = \\(\\frac{62.5}{100}\\) x 250,000<br>\n<br>\n= ₦ 9,375<br>\n<br>\n= ₦ 9,375</p>",
+        "correctIndex": 1,
+        "options": [
+            "₦5,000",
+            "₦9,375",
+            "₦5,625",
+            "₦8,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2017,
+        "question": "The accounting entries for goods stolen in branch will be to debit",
+        "explanation": "A branch account is a small part of business account operating with some degree of independence . It maintains its own personal/self accounting entries to determine the profit/loss made by a specific period of time<br><br>The accounting entries is to debit profit and loss account and credit branch stock. The profit and loss is debited because the cost of the stolen goods must be charged against the profit for the period to balance the account and the branch stock account is credited because the cost of the goods is out of the branch already.",
+        "correctIndex": 0,
+        "options": [
+            "The accounting entries for goods stolen in branch will be to debit",
+            "branch stock account and credit branch adjustment account",
+            "branch adjustment account and credit profit and loss account",
+            "branch adjustment account and credit branch stock account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2017,
+        "question": "\\(\\begin{array}{c|c} &amp; \\text{N} \\\\ \\hline \\text{Balance as per cashbook} &amp; 5 467 \\\\ \\hline \\text{Uncredited cheques} &amp; 4 410 \\\\ \\hline \\text{Unpresented cheques} &amp; 19 404 \\\\ \\hline \\text{Cheques wrongly debited by bank} &amp; 1 404 \\end{array}\\)<br><br>The balance as per bank statement is",
+        "explanation": "Bank reconciliation statement helps to reconcile the cashbook and bank statement if there are disagreement<br>A is correct: 21,901 is correct because the cheque wrongly debited by the bank will have increase the bank balance therefore to get the value of the bank statement needed to first of all add back the cashbook",
+        "correctIndex": 0,
+        "options": [
+            "₦21,901",
+            "₦19,021",
+            "₦21,109",
+            "₦21,091"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2017,
+        "question": "The following appears in trading account except",
+        "explanation": "carriage outward: it is the cost of transporting goods from the company to the buyer. it is on debit side of the profit and loss account because it is an expenses incurred on distributing the goods to customer.",
+        "correctIndex": 1,
+        "options": [
+            "sales",
+            "carriage outward",
+            "carriage inward",
+            "opening stock"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2017,
+        "question": "Goodwill can be created in the books of a partnership firm when",
+        "explanation": "The partnership experiences super profit: super profit is the profit that is generated by intangible asset or the profit that is attributed by the tangible asset when such profit is capitalized we get intangible asset or goodwill",
+        "correctIndex": 0,
+        "options": [
+            "the partnership experiences super profit",
+            "a new member is admitted",
+            "the business is being expanded",
+            "the business suffers high loss"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2017,
+        "question": "\\(\\begin{array}{c|c} &amp; \\text{N} \\\\ \\hline \\text{Debtors opening} &amp; 4000 \\\\ \\hline \\text{Debtors clsoing} &amp; 1500 \\\\ \\hline \\text{Cash received from debtors} &amp; 8500 \\\\ \\hline \\text{Bad debts written off} &amp; 350 \\\\ \\hline \\text{Discount allowed} &amp; 500 \\\\ \\hline \\text{Discount Received} &amp; 1000\\end{array}\\)<br><br>What is the amount of sales of sales for the year?",
+        "explanation": "Dr Total Debtors Control A/c Cr<br><br>\\(\\begin{array}{c|c} \\text{bal b/f.....4,000} &amp; \\text{Cash received..... 8,500} \\\\ \\hline \\text{Credit sales.....6,850} &amp; \\text{Bad debt written off.....50} \\\\ \\hline<br>&amp; \\text{Dr. Allowed.....500} \\\\ \\hline &amp; \\text{bal c/d.....1,500} \\\\ \\hline 10,850 &amp; 10,850 \\\\ \\hline \\text{bal b/d.....1,500} &amp; \\end{array}\\)<br><br>D is correct ₦6850 as the sales for the year accordingly to the above calculations<br>The total debtors account is meant to control the transactions with customers whether in cash or credits and to know the remaining cash receivables from customers.",
+        "correctIndex": 3,
+        "options": [
+            "₦3850",
+            "₦6650",
+            "₦1550",
+            "₦6850"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2017,
+        "question": "Given:<br>I. Settlement of debts<br>II. Cessation of business<br>III. Introduction of assets<br>IV. Disposal of assets<br>Which of these constitutes dissolution of partnership?",
+        "explanation": "Dissolution of partnership business simply means the break up of partnership business and which are caused by many factors<br>II,III and IV: disposal of asset does not constitute dissolution",
+        "correctIndex": 1,
+        "options": [
+            "II and IV only",
+            "I,II and IV only",
+            "I,II and III only",
+            "II,III and IV only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2017,
+        "question": "The use of a three column cash book is determined by",
+        "explanation": "A cash discount is a deduction allowed by the seller of goods or by the provider of services in order to motivate the customer to pay within a specified time",
+        "correctIndex": 0,
+        "options": [
+            "cash discount",
+            "trade discount",
+            "cash transaction",
+            "Bank transaction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2017,
+        "question": "The discount column on the left-hand side of cashbook represents a discount",
+        "explanation": "Allowed to a debtor: the debit side of the cashbook is where all proceeds from sales are recorded and have to be matched with the discount allowed to the debtor /creditor",
+        "correctIndex": 1,
+        "options": [
+            "received from a creditor",
+            "allowed to a debtor",
+            "received from a debtor",
+            "allowed to a creditor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2017,
+        "question": "Which of the following is used to service all operations of government?",
+        "explanation": "consolidation revenue fund generate its revenue through allocation from the federation account, court fees and fines etc and is used to finance government operation e g cost, overhead",
+        "correctIndex": 0,
+        "options": [
+            "Consolidated Revenue Fund",
+            "Consolidated Reserve Fund",
+            "Special Operational Fund",
+            "General-Reserve Fund"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2017,
+        "question": "The tier of government that uses financial memorandum",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Federal government",
+            "state government",
+            "local government",
+            "municipal government"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2017,
+        "question": "What is the effect of transaction when cash is paid into the bank",
+        "explanation": "Cash balance decrease and bank balance increase: The cash as leaving the cash till and will be deposited into the bank",
+        "correctIndex": 3,
+        "options": [
+            "Bank balance decrease and cash balance increase",
+            "bank balance decrease and cash balance decrease",
+            "cash balance increase and bank balance increase",
+            "cash balance decrease and bank balance increase"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2017,
+        "question": "The principle of double entry developed from the axioms of accounting equation is given as",
+        "explanation": "Liabilities + Equity = Asset is given as the fundamental equation",
+        "correctIndex": 2,
+        "options": [
+            "Assets + Liability = Equity",
+            "Assets + Equity = Liabilities",
+            "Liabilities + Equity = Asset",
+            "Liabilities + Equity = Net assets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2017,
+        "question": "\\(\\begin{array}{c|c} &amp; \\text{N} \\\\ \\hline \\text{Stock Jan 1} &amp; 2000 \\\\ \\hline \\text{Purchases} &amp; 4000 \\\\ \\hline \\text{Carriage inwards} &amp; 500 \\\\ \\hline \\text{Sales} &amp; 9000 \\\\ \\hline \\text{Carriage outwards} &amp; 500\\end{array}\\)<br><br>Carriage outwards",
+        "explanation": "\\(\\begin{array}{c|c} \\text{Sales} &amp; &amp; 9000 \\\\ \\hline \\text{Stock Jan 1} &amp; 2000 &amp; \\\\ \\hline \\text{Purchases} &amp; 4000 &amp; \\\\ \\hline \\text{Carriage inwards} &amp; 500 &amp; 6500 \\\\ \\hline \\text{Gross profit} &amp; &amp; 2500 \\end{array}\\)",
+        "correctIndex": 1,
+        "options": [
+            "₦9,000",
+            "₦2,500",
+            "₦3,000",
+            "₦1,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2017,
+        "question": "The correct expression of accounting equation is",
+        "explanation": "The fundamental accounting equation is Asset = Capital + Liabilities<br>Asset = Liabilities + Equity the total assets of the company is generated through liabilities to outsiders that the company is still enjoying in addition with the equity by the owners of the business",
+        "correctIndex": 0,
+        "options": [
+            "Assets = Liabilities + Equity",
+            "Net assets = Liabilities + Equity",
+            "Assets + Liabilities = Equity",
+            "Assets = Equity - liabilities"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2017,
+        "question": "Subscription in advance is treated in the balance sheet as a",
+        "explanation": "current assets are assets of the company that can be easily converted to cash when needed<br><br>current liability: this is the liability owned to outsiders but still enjoying its benefit within a year e.g creditors, wages in arrears",
+        "correctIndex": 1,
+        "options": [
+            "current asset",
+            "current liability",
+            "fixed asset",
+            "long term liability"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2017,
+        "question": "Which of these is a content of a master file?",
+        "explanation": "All record relevant to the organization: the records which are only relevant to the organization such as the name and address as well as summary information such as amount due and year to date sales will be in master file",
+        "correctIndex": 0,
+        "options": [
+            "All records relevant to the organisation.",
+            "Records of assets of the organisation",
+            "A collection of data items",
+            "All records relating to employees"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2017,
+        "question": "An evidence of payment issued to a government ministry by a revenue collector is",
+        "explanation": "Receipt voucher is raised as evidence by revenue collector when government funds and property or received<br><br>Receipt voucher: these are vouchers raised as evidence for the receipt of government funds and property. The revenue collected is prepared for the government ministry as a means that revenue has been collected",
+        "correctIndex": 1,
+        "options": [
+            "treasury receipt",
+            "receipt voucher",
+            "payment voucher",
+            "treasury card"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2017,
+        "question": "A part of public company's profits belonging to the shareholders is",
+        "explanation": "Dividend is known as the kind of benefit enjoyed by the shareholder for investing their fund in a particular organisation",
+        "correctIndex": 3,
+        "options": [
+            "public issue",
+            "bonus",
+            "right issue",
+            "dividends"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2017,
+        "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+        "explanation": "Joint venture account is an account that all expenditure incurred for the venture is debited and all income is credited to.<br>Debit joint venture and credit bank account because expenses incurred on behalf of the venture has to be debited to the joint venture account and since the money is joint out the bank must be credited to balance the account",
+        "correctIndex": 3,
+        "options": [
+            "bank account and credit joint venture account",
+            "expenses account and credit bank account",
+            "joint venture account and credit expenses account",
+            "joint venture account and credit bank account"
+        ],
+        "type": "objectives"
+    }
+]

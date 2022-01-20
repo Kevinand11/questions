@@ -1,0 +1,642 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2013,
+        "question": "<p>A binary operation * is defined on the set of real numbers, R, by \\(x * y = x + y - xy\\). If the identity element under the operation * is 0, find the inverse of \\(x \\in R\\).</p>",
+        "explanation": "<p>\\(x * y = x + y - xy\\)</p><p>Let \\(x^{-1}\\) be the inverse of x, so that</p><p>\\(x * x^{-1} = x + x^{-1} - x(x^{-1}) = 0\\)</p><p>\\(x + x^{-1} - x(x^{-1}) = 0 \\implies x(x^{-1}) - x^{-1} = x\\)</p><p>\\(x^{-1}(x - 1) = x \\implies x^{-1} = \\frac{x}{x - 1}\\)</p><p>= \\(\\frac{x}{-(1 - x)} = \\frac{-x}{1 - x}, x \\neq 1\\) </p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{-x}{1 - x}, x \\neq 1\\)",
+            "\\(\\frac{1}{1 - x}, x \\neq 1\\)",
+            "\\(\\frac{-1}{1 - x}, x \\neq 1\\)",
+            "\\(\\frac{x}{1 - x}, x \\neq 1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2013,
+        "question": "<p>Solve: \\(\\sin \\theta = \\tan \\theta\\)</p>",
+        "explanation": "<p>\\(\\sin \\theta = \\tan \\theta \\implies \\frac{\\sin \\theta}{1} = \\frac{\\sin \\theta}{\\cos \\theta}\\)</p><p>Equating, we have</p><p>\\(\\cos \\theta = 1 \\implies \\theta = \\cos^{-1} 1\\)</p><p>= \\(0°\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "200°",
+            "90°",
+            "60°",
+            "0°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2013,
+        "question": "<p>Given that \\(a^{\\frac{5}{6}} \\times a^{\\frac{-1}{n}} = 1\\), solve for n.</p>",
+        "explanation": "<p>\\(a^{\\frac{5}{6}} \\times a^{\\frac{-1}{n}} = 1\\)</p><p>\\(\\implies a^{\\frac{5}{6} + \\frac{-1}{n}} = a^{0}\\)</p><p>Equating bases, we have</p><p>\\(\\frac{5}{6} - \\frac{1}{n} = 0\\)</p><p>\\(\\frac{5n - 6}{6n} = 0\\)</p><p>\\(5n - 6 = 0 \\implies 5n = 6\\)</p><p>\\(n = \\frac{6}{5} = 1.20\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "-6.00",
+            "-1.20",
+            "0.83",
+            "1.20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2013,
+        "question": "<p>Express \\(\\log \\frac{1}{8} + \\log \\frac{1}{2}\\) in terms of \\(\\log 2\\).</p>",
+        "explanation": "<p>\\(\\log \\frac{1}{8} + \\log \\frac{1}{2} = \\log 8^{-1} + \\log 2^{-1}\\)</p><p>= \\(\\log 2^{-3} + \\log 2^{-1}\\)</p><p>= \\(-3 \\log 2 - 1 \\log 2 = -4 \\log 2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "3 log 2",
+            "4 log 2",
+            "-3 log 2",
+            "-4 log 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2013,
+        "question": "<p>If \\(f(x) = x^{2}\\)  and \\(g(x) = \\sin x\\), find g o f.</p>",
+        "explanation": "<p>\\(f(x) = x^{2}, g(x) = \\sin x\\)</p><p>\\(g \\circ f = g(x^{2}) = \\sin x^{2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\sin^{2} x\\)",
+            "\\(\\sin x^{2}\\)",
+            "\\((\\sin x)x^{2}\\)",
+            "\\(x \\sin x\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2013,
+        "question": "<p>Find the third term in the expansion of \\((a - b)^{6}\\) in ascending powers of b.</p>",
+        "explanation": "<p>\\((a - b)^{6} = ^{6}C_{0}(a)^{6}(-b)^{0} + ^{6}C_{1}(a)^{5}(-b)^{1} + ^{6}C_{2}(a)^{4}(-b)^{2} + ...\\)</p><p>Third term = \\(^{6}C_{2}(a)^{4}(-b)^{2} = \\frac{6!}{(6-2)! 2!}(a^4)(b^2)\\)</p><p>= \\(15a^{4}b^{2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(-15a^{4}b^{2}\\)",
+            "\\(15a^{4}b^{2}\\)",
+            "\\(-15a^{3}b^{3}\\)",
+            "\\(15a^{3}b^{3}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2013,
+        "question": "<p>If \\(\\sqrt{x} + \\sqrt{x + 1} = \\sqrt{2x + 1}\\), find the possible values of x.</p>",
+        "explanation": "<p>\\(\\sqrt{x} + \\sqrt{x + 1} = \\sqrt{2x + 1}\\)</p><p>Squaring both sides, we have</p><p>\\((\\sqrt{x} + \\sqrt{x + 1})^{2} = (\\sqrt{2x + 1})^{2}\\)</p><p>\\(x + 2\\sqrt{x(x + 1)} + x + 1 = 2x + 1\\)</p><p>\\(2x + 1 + 2\\sqrt{x(x+1)} - (2x + 1) = 0\\)</p><p>\\((2\\sqrt{x(x + 1)})^{2}= 0^{2}  \\implies 4(x(x + 1)) = 0\\)</p><p>\\(\\therefore x(x + 1) = 0\\)</p><p>\\(x = \\text{0 or -1}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "1 and -1",
+            "-1 and 2",
+            "1 and 2",
+            "0 and -1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2013,
+        "question": "<p>If \\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 6x + 5 = 0\\), evaluate \\(\\frac{\\beta}{\\alpha} + \\frac{\\alpha}{\\beta}\\).</p>",
+        "explanation": "<p>\\(2x^{2} - 6x + 5 = 0 \\implies a = 2, b = -6, c = 5\\)</p><p>\\(\\alpha + \\beta = \\frac{-b}{a} = \\frac{-(-6)}{2} = 3\\)</p><p>\\(\\alpha\\beta = \\frac{c}{a} = \\frac{5}{2} \\)</p><p>\\(\\frac{\\beta}{\\alpha} + \\frac{\\alpha}{\\beta} = \\frac{\\beta^{2} + \\alpha^{2}}{\\alpha\\beta}\\)</p><p>\\(\\frac{(\\alpha + \\beta)^{2} - 2\\alpha\\beta}{\\alpha\\beta} = \\frac{3^{2} - 2(\\frac{5}{2})}{\\frac{5}{2}}\\)</p><p>= \\(\\frac{4}{\\frac{5}{2}} = \\frac{8}{5}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{24}{5}\\)",
+            "\\(\\frac{8}{5}\\)",
+            "\\(\\frac{5}{8}\\)",
+            "\\(\\frac{5}{24}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2013,
+        "question": "<p>Given that \\(f(x) = 2x^{3} - 3x^{2} - 11x + 6\\) and \\(f(3) = 0\\), factorize f(x).</p>",
+        "explanation": "<p>Since f(3) = 0, then (x - 3) is a factor of f(x).</p><p>Dividing f(x) by (x - 3), we get \\(2x^{2} + 3x - 2\\).</p><p>\\(2x^{2} + 3x - 2 = 2x^{2} - x + 4x - 2\\)</p><p>\\(x(2x - 1) + 2(2x - 1) = (x + 2)(2x - 1)\\)</p><p>Therefore, \\(f(x) = (x - 3)(x + 2)(2x -1)\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "(x - 3)(x - 2)(2x + 2)",
+            "(x + 3)(x - 2)(x - 1)",
+            "(x - 3)(x + 2)(2x -1)",
+            "(x + 3)(x - 2)(2x - 1)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2013,
+        "question": "<p>Find the equation of the line that is perpendicular to \\(2y + 5x - 6 = 0\\) and bisects the line joining the points P(4, 3) and Q(-6, 1).</p>",
+        "explanation": "<p>\\(Line: 2y + 5x - 6 = 0\\)</p><p>\\(2y = 6 - 5x  \\implies y = 3 - \\frac{5x}{2}\\)</p><p>Gradient = \\(\\frac{-5}{2}\\)</p><p>For the line perpendicular to the given line, Gradient = \\(\\frac{-1}{\\frac{-5}{2}} = \\frac{2}{5}\\)</p><p>The midpoint of P(4, 3) and Q(-6, 1) = \\((\\frac{-6 + 4}{2}, \\frac{3 + 1}{2})\\)</p><p>= (-1, 2).</p><p>Therefore, the line = \\(\\frac{y - 2}{x + 1} = \\frac{2}{5}\\)</p><p>\\(2(x + 1) = 5(y - 2) \\implies 5y - 2x - 12 = 0\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "y + 5x + 3 = 0",
+            "2y - 5x - 9 = 0",
+            "5y + 2x - 8 = 0",
+            "5y - 2x - 12 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2013,
+        "question": "<p>Differentiate \\(x^{2} + xy - 5 = 0\\).</p>",
+        "explanation": "<p>\\(\\frac{\\mathrm d}{\\mathrm d x}(x^2 + xy - 5) = \\frac{\\mathrm d (x^{2})}{\\mathrm d x} + \\frac{\\mathrm d (xy)}{\\mathrm d x} - \\frac{\\mathrm d (5)}{\\mathrm d x} = 0\\)</p><p>= \\(2x + x\\frac{\\mathrm d y}{\\mathrm d x} + y = 0\\)</p><p>\\(\\implies x\\frac{\\mathrm d y}{\\mathrm d x} = -(2x + y)\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{-(2x + y)}{x}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{-(2x + y)}{x}\\)",
+            "\\(\\frac{(2x - y)}{x}\\)",
+            "\\(\\frac{-x}{2x + y}\\)",
+            "\\(\\frac{(2x + y)}{x}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2013,
+        "question": "<p>The fourth term of an exponential sequence is 192 and its ninth term is 6. Find the common ratio of the sequence.</p>",
+        "explanation": "<p>\\(T_{n} = ar^{n - 1}\\)</p><p>\\(T_{4} = ar^{4 - 1} = ar^{3} = 192\\)</p><p>\\(T_{9} = ar^{9 - 1} = ar^{8} = 6\\)</p><p>Dividing \\(T_{9}\\) by \\(T_{4}\\), </p><p>\\(r^{8 - 3} = \\frac{6}{192}\\)</p><p>\\(r^{5} = \\frac{1}{32} = (\\frac{1}{2})^{5}\\)</p><p>\\(r = \\frac{1}{2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(2\\)",
+            "\\(3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2013,
+        "question": "<p>Find the range of values of x for which \\(x^{2} + 4x + 5\\) is less than \\(3x^{2} - x + 2\\)</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(x &gt; \\frac{-1}{2}, x &gt; 3\\)",
+            "\\(x &lt; \\frac{-1}{2}, x &gt; 3\\)",
+            "\\(\\frac{-1}{2} \\leq x \\leq 3\\)",
+            "\\(\\frac{-1}{2} &lt; x &lt; 3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2013,
+        "question": "<p>Given that \\(\\frac{\\mathrm d y}{\\mathrm d x} = \\sqrt{x}\\), find y.</p>",
+        "explanation": "<p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\sqrt{x} = x^{\\frac{1}{2}}\\)</p><p>\\(y = \\int x^{\\frac{1}{2}} \\mathrm {d} x\\)</p><p>= \\(\\frac{x^{\\frac{1}{2} + 1}}{\\frac{1}{2} + 1} + c = \\frac{x^{\\frac{3}{2}}}{\\frac{3}{2}} + c \\)</p><p>= \\(\\frac{2}{3}x^{\\frac{3}{2}} + c\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(2x^{\\frac{3}{2}} + c\\)",
+            "\\(\\frac{2}{3}x^{\\frac{3}{2}} + c\\)",
+            "\\(\\frac{3}{2}x^{\\frac{3}{2}} + c\\)",
+            "\\(\\frac{2}{3}x^{2} + c\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2013,
+        "question": "<p>Given that \\(P = \\begin{pmatrix} y - 2 &amp; y - 1 \\\\ y - 4 &amp; y + 2 \\end{pmatrix}\\) and |P| = -23, find the value of y.</p>",
+        "explanation": "<p>\\(P = begin{pmatrix} y - 2 &amp; y - 1 \\\\ y - 4 &amp; y + 2 \\end{pmatrix}\\)</p><p>\\(|P| = (y - 2)(y + 2) - (y - 1)(y - 4) = (y^{2} - 4) - (y^{2} - 5y + 4) = -23\\)</p><p>\\(5y - 8 = -23 \\implies 5y = -23 + 8 = -15\\)</p><p>\\(y = \\frac{-15}{5} = -3\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "-4",
+            "-3",
+            "-1",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2013,
+        "question": "<p>An object is thrown vertically upwards from the top of a cliff with a velocity of \\(25ms^{-1}\\). Find the time, in seconds, when it is 20 metres above the cliff. \\([g = 10ms^{-2}]\\).</p>",
+        "explanation": "<p>\\(s = ut + \\frac{at^{2}}{2}\\)</p><p>This movement is against gravity, so it is negative.</p><p>\\(s = ut - \\frac{gt^{2}}{2}\\)</p><p>\\(s = 20m, u = 25ms^{-1}\\)</p><p>\\(20 = 25t - \\frac{10t^{2}}{2} \\implies 20 = 25t - 5t^{2}\\)</p><p>\\(5t^{2} - 25t + 20 = 0 \\)</p><p>\\(5t^{2} - 5t - 20t + 20 = 0 \\implies 5t(t - 1) - 20(t - 1) = 0\\)</p><p>\\(5t - 20 = \\text{0 or t - 1 = 0}\\)</p><p>\\(t = \\text{1 or 4}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "0 and 1",
+            "0 and 4",
+            "0 and 5",
+            "1 and 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2013,
+        "question": "<p>Evaluate \\(\\int_{0}^{2} (8x - 4x^{2}) \\mathrm {d} x\\).</p>",
+        "explanation": "<p>\\(\\int_{0}^{2} (8x - 4x^{2}) \\mathrm {d} x  = (\\frac{8x^{1 + 1}}{2} - \\frac{4x^{2+1}}{3})|_{0}^{2}\\)</p><p>= \\((4x^{2} - \\frac{4x^{3}}{3}) |_{0}^{2}\\)</p><p>= \\((4(2^2) - \\frac{4(2^3)}{3})\\)</p><p>= \\(16 - \\frac{32}{3} = \\frac{16}{3}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(-16\\)",
+            "\\(\\frac{-16}{3}\\)",
+            "\\(\\frac{16}{3}\\)",
+            "\\(16\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2013,
+        "question": "<p>Find the coordinates of the point which divides the line joining P(-2, 3) and Q(4, 9) internally in the ratio 2 : 3.</p>",
+        "explanation": "<p>\\((x = \\frac{nx_{1} + mx_{2}}{n + m}, y = \\frac{ny_{1} + my_{2}}{n + m})\\)</p><p>Given P(-2, 3) and Q(4, 9),</p><p>\\((\\frac{2(4) + 3(-2)}{2 + 3}, \\frac{2(9) + 3(3)}{2 + 3})\\)</p><p>= \\((\\frac{2}{5}, \\frac{27}{5})\\)</p><p>= \\((\\frac{2}{5}, 5\\frac{2}{5})\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\((5\\frac{2}{3}, \\frac{2}{5})\\)",
+            "\\((\\frac{2}{5}, 5\\frac{2}{5})\\)",
+            "\\((\\frac{2}{5}, 2\\frac{2}{5})\\)",
+            "\\((\\frac{-2}{5}, 5\\frac{2}{5})\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2013,
+        "question": "<p>The angle subtended by an arc of a circle at the centre is \\(\\frac{\\pi}{3} radians\\). If the radius of the circle is 12cm, calculate the perimeter of the major arc.</p>",
+        "explanation": "<p>The angle subtended by the minor arc = \\(\\frac{\\pi}{3} radians\\)</p><p>The angle subtended by the major arc = \\(2\\pi - \\frac{\\pi}{3} = \\frac{5\\pi}{3}\\)</p><p>Perimeter of the major arc = \\(r\\theta + 2r\\)</p><p>= \\(12 \\times \\frac{5\\pi}{3} + 2(12) = 20\\pi + 24\\)</p><p>= \\(4(5\\pi + 6)\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(4(6 + 5\\pi)\\)",
+            "\\(4(6 + 2\\pi)\\)",
+            "\\(4(3 + 3\\pi)\\)",
+            "\\(4(3 + 5\\pi)\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2013,
+        "question": "<p>The function \\(f : F \\to R\\) </p><p>= \\(f(x) = \\begin{cases} 3x + 2 : x &gt; 4 \\\\ 3x - 2 : x = 4 \\\\ 5x - 3 : x &lt; 4 \\end{cases}\\). Find f(4) - f(-3).</p>",
+        "explanation": "<p>\\(f(4) = 3(4) - 2 = 12 - 2 = 10\\)</p><p>\\(f(-3) = 5(-3) - 3 = -15 - 3 = -18\\)</p><p>\\(f(4) - f(-3) = 10 - (-18) = 28\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "28",
+            "26",
+            "-26",
+            "-28"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2013,
+        "question": "<p>A committee consists of 5 boys namely: Kofi, John, Ojo, Ozo and James and 3 girls namely: Rose, Ugo and Ama. In how many ways can a sub-committee consisting of 3 boys and 2 girls be chosen, if Ozo must be on the sub-committee?</p>",
+        "explanation": "<p>Since Ozo is a boy and must be in the sub-committee, we have 2 spaces for the boys and 2 for the girls.</p><p>= \\(^{4}C_{2} \\times ^{3}C_{2} \\)</p><p>= \\(\\frac{4!}{(4 - 2)! 2!} \\times \\frac{3!}{(3 - 2)! 2!} = 6 \\times 3 = 18\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "35",
+            "30",
+            "18",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/s9j15cFnqefotHSleWKgvv92UWOzFKnsCLb1fBMC.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Given a force F, the horizontal component = \\(F\\cos \\theta\\)</p><p>R = \\(-50\\cos 30 + 80\\cos 45\\)</p><p>= \\(-50(\\frac{\\sqrt{3}}{2}) + 80(\\frac{\\sqrt{2}}{2})\\)</p><p>= \\( -25\\sqrt{3} + 40\\sqrt{2} = -43.30 + 56.67 \\)</p><p>= \\(13.37N \\approxeq 13N\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "13N",
+            "43N",
+            "57N",
+            "95N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2013,
+        "question": "<p>The sales of five salesgirls on a certain day are as follows; GH¢ 26.00, GH¢ 39.00, GH¢ 33.00, GH¢ 25.00 and GH¢ 37.00. Calculate the standard deviation if the mean sale is GH¢ 32.00. </p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>\\(x\\)</td>\n<td>\\(x - \\bar{x}\\)</td>\n<td>\\((x - \\bar{x})^{2}\\)</td>\n</tr>\n<tr>\n<td>\n<p>26.00</p>\n</td>\n<td>-6</td>\n<td>36</td>\n</tr>\n<tr>\n<td>39.00</td>\n<td>7</td>\n<td>49</td>\n</tr>\n<tr>\n<td>33.00</td>\n<td>1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>25.00</td>\n<td>-7</td>\n<td>49</td>\n</tr>\n<tr>\n<td>37.00</td>\n<td>5</td>\n<td>25</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>\\(\\sum (x - \\bar{x})^{2}\\)=160</td>\n</tr>\n</tbody>\n</table><p>\\(S.D = \\sqrt{\\frac{(x - \\bar{x})^{2}}{n}}\\)</p><p>\\(S.D = \\sqrt{\\frac{160}{5}} = \\sqrt{32}\\)</p><p>= \\(GH¢ 5.656 \\approxeq GH¢ 5.66\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "GH¢ 5.65",
+            "GH¢ 5.66",
+            "GH¢ 6.5",
+            "GH¢ 6.56"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2013,
+        "question": "<p>A circular ink blot on a piece of paper increases its area at the rate \\(4mm^{2}/s\\). Find the rate of the radius of the blot when the radius is 8mm. \\([\\pi = \\frac{22}{7}]\\).</p>",
+        "explanation": "<p>Given: \\(\\frac{\\mathrm d A}{\\mathrm d t} = 4 mm^{2}/s\\)</p><p>\\(\\frac{\\mathrm d A}{\\mathrm d t} = (\\frac{\\mathrm d A}{\\mathrm d r})(\\frac{\\mathrm d r}{\\mathrm d t})\\)</p><p>\\(A = \\pi r^{2} \\implies \\frac{\\mathrm d A}{\\mathrm d r} = 2\\pi r\\)</p><p>\\(\\implies 4 = 2\\pi r \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)</p><p>\\(\\frac{\\mathrm d r}{\\mathrm d t} = \\frac{4}{2\\pi r} = \\frac{4 \\times 7}{2 \\times 22 \\times 8}\\)</p><p>= \\(0.07954 mm/s \\approxeq 0.08 mm/s\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.20 mm/s",
+            "0.08 mm/s",
+            "0.25 mm/s",
+            "0.05 mm/s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2013,
+        "question": "<p>Express \\(\\frac{x^{2} + x + 4}{(1 - x)(x^{2} + 1)}\\) in partial fractions.</p>",
+        "explanation": "<p>\\(\\frac{x^{2} + x + 4}{(1 - x)(x^{2} + 1)} = \\frac{A}{1 -  x} + \\frac{Bx + C}{x^{2} + 1}\\)</p><p>= \\(\\frac{A(x^{2} + 1) + (Bx + C)(1 - x)}{(1 - x)(x^{2} + 1)}\\)</p><p>\\(\\implies x^{2} + x + 4 = A(x^{2} + 1) + (Bx + C)(1 - x)\\)</p><p>\\(x^{2} + x + 4 = Ax^{2} + A + Bx - Bx^{2} - Cx + C\\)</p><p>\\(\\implies (A - B)x^{2} = x^{2}; A - B = 1 ...... (i)\\)</p><p>\\((B - C)x = x; B - C = 1 ..... (ii)\\)</p><p>\\(A + C = 4 ...... (iii)\\)</p><p>Solving the above simultaneous equations by any of the known methods, we get</p><p>\\(A = 3, B = 2, C = 1\\)</p><p>\\(\\therefore  \\frac{x^{2} + x + 4}{(1 - x)(x^{2} + 1)} = \\frac{3}{1 - x} + \\frac{2x + 1}{x^{2} + 1}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{x^{2}}{x^{2} + 1} + \\frac{x + 4}{1 - x}\\)",
+            "\\(\\frac{3}{1 - x} + \\frac{2x + 1}{x^{2} + 1}\\)",
+            "\\(\\frac{x^{2}}{1 - x} + \\frac{x + 4}{x^{2} + 1}\\)",
+            "\\(\\frac{3}{1 - x} + \\frac{2x + 2}{x^{2} + 1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2013,
+        "question": "<p>Two bodies of masses 3kg and 5kg moving with velocities 2 m/s and V m/s respectively in opposite directions collide. If they move together after collision with velocity 3.5 m/s in the direction of the 5kg mass, find the value of V.</p>",
+        "explanation": "<p>Since the bodies are in an opposite direction, one takes the negative velocity.</p><p>\\(m_{1}v_{1} + m_{2}v_{2} = (m_{1} + m_{2})v\\) (Momentum when the two bodies move in the same direction after collision)</p><p>\\(3(-2) + 5(V) = (3 + 5)3.5\\)</p><p>\\(-6 + 5V = 28 \\implies 5V = 34; V = 6.8 m/s\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "7.8 m/s",
+            "6.8 m/s",
+            "5.6 m/s",
+            "4.6 m/s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2013,
+        "question": "<p>The equation of a circle is \\(x^{2} + y^{2} - 8x + 9y + 15 = 0\\). Find its radius.</p>",
+        "explanation": "<p>The equation of a circle is given as \\((x - a)^{2} + (y - b)^{2} = r^{2}\\).</p><p>Expanding, we have: \\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2}\\)</p><p>\\(x^{2} + y^{2} - 2ax - 2by + a^{2} + b^{2} = r^{2}\\)</p><p>Comparing with the equation, \\(x^{2} + y^{2} - 8x + 9y = -15\\), we have</p><p>\\(2a = 8; 2b = -9; r^{2} - a^{2} - b^{2} = -15\\)</p><p>\\(a = 4; b = \\frac{-9}{2}\\)</p><p>\\(\\therefore  r^{2} = -15 + 4^{2} + (\\frac{-9}{2})^{2}\\)</p><p>= \\(-15 + 16 + \\frac{81}{4} = \\frac{85}{4}\\)</p><p>\\(r = \\sqrt{\\frac{85}{4} = \\frac{1}{2}\\sqrt{85}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "\\(\\frac{1}{2}\\sqrt{15}\\)",
+            "\\(\\frac{1}{2}\\sqrt{85}\\)",
+            "\\(\\sqrt{85}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2013,
+        "question": "<p>A particle is acted upon by two forces 6N and 3N inclined at an angle of 120° to each other. Find the magnitude of the resultant force.</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(18\\sqrt{3}\\) N",
+            "\\(27\\) N",
+            "\\(24\\) N",
+            "\\(3\\sqrt{3}\\) N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2013,
+        "question": "<p>If \\(s = 3i - j\\) and \\(t = 2i + 3j\\), find \\((t - 3s).(t + 3s)\\).</p>",
+        "explanation": "<p>\\(s = 3i - j; t = 2i + 3j\\)</p><p>\\( t - 3s = (2i + 3j) - 3(3i - j) = 2i + 3j - 9i + 3j = -7i + 6j\\)</p><p>\\(t + 3s = (2i + 3j) + 3(3i - j) = 2i + 3j + 9i - 3j = 11i\\)</p><p>\\((t - 3s).(t + 3s) = (-7i + 6j).(11i) = -77\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "-77",
+            "-71",
+            "-53",
+            "-41"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2013,
+        "question": "<p>If \\(2\\sin^{2}\\theta = 1 + \\cos \\theta, 0° \\leq \\theta \\leq 90°\\), find \\(\\theta\\).</p>",
+        "explanation": "<p>\\(2\\sin^{2}\\theta = 1 + \\cos \\theta \\implies 2(1 - \\cos^{2}\\theta) = 1 + \\cos \\theta\\)</p><p>\\(2 - 2\\cos^{2}\\theta = 1 + \\cos \\theta\\)</p><p>\\(2 - 2\\cos^{2}\\theta - 1 - \\cos \\theta = 0\\)</p><p>\\(2\\cos^{2}\\theta + \\cos \\theta - 1 = 0\\)</p><p>\\(2\\cos^{2}\\theta + 2\\cos\\theta - \\cos \\theta - 1 = 0 \\implies 2\\cos \\theta(\\cos \\theta + 1) - 1(\\cos \\theta + 1) = 0\\)</p><p>\\((2\\cos \\theta - 1)(\\cos \\theta + 1) = 0 \\implies \\cos \\theta = \\frac{1}{2} \\)</p><p>\\(\\theta = \\cos^{-1} \\frac{1}{2} = 60°\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2013,
+        "question": "<p>Find the upper quartile of the following scores: 41, 29, 17, 2, 12, 33, 45, 18, 43 and 5.</p>",
+        "explanation": "<p>Arranging the scores in ascending order, we have: 2, 5, 12, 17, 21, 29, 33, 41, 43, 45.</p><p>The upper quartile = 41.</p>",
+        "correctIndex": 1,
+        "options": [
+            "45",
+            "41",
+            "33",
+            "21"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2013,
+        "question": "<p>Given that \\(P = \\begin{pmatrix} 3 &amp; 4 \\\\ 2 &amp; x \\end{pmatrix}; Q = \\begin{pmatrix} 1 &amp; 3 \\\\ -2 &amp; 4 \\end{pmatrix}; R = \\begin{pmatrix} -5 &amp; 25 \\\\ -8 &amp; 26 \\end{pmatrix}\\)  and PQ = R, find the value of x.</p>",
+        "explanation": "<p>\\(P = \\begin{pmatrix} 3 &amp; 4 \\\\ 2 &amp; x \\end{pmatrix}; Q = \\begin{pmatrix} 1 &amp; 3 \\\\ -2 &amp; 4 \\end{pmatrix}; R = \\begin{pmatrix} -5 &amp; 25 \\\\ -8 &amp; 26 \\end{pmatrix}\\) </p><p>PQ = \\(\\begin{pmatrix} 3 &amp; 4 \\\\ 2 &amp; x \\end{pmatrix} \\begin{pmatrix} 1 &amp; 3 \\\\ -2 &amp; 4 \\end{pmatrix} = \\begin{pmatrix} -5 &amp; 25 \\\\ 2 - 2x &amp; 6 + 4x \\end{pmatrix} = R\\)</p><p>\\(\\implies 2 - 2x = -8; -2x = -8 - 2 = -10\\)</p><p>\\(6 + 4x = 26 \\implies 4x = 26 - 6 = 20\\)</p><p>\\(\\implies x = 5\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "-5",
+            "-2",
+            "2",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2013,
+        "question": "<p>Two out of ten tickets on sale for a raffle draw are winning tickets. If a guest bought two tickets, what is the probability that both tickets are winning tickets?</p>",
+        "explanation": "<p>P(winning) = \\(\\frac{2}{10}\\)</p><p>P(both tickets winning) = \\(\\frac{2}{10} \\times \\frac{1}{9} = \\frac{1}{45}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{80}\\)",
+            "\\(\\frac{1}{45}\\)",
+            "\\(\\frac{1}{20}\\)",
+            "\\(\\frac{1}{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2013,
+        "question": "<p>P and Q are the points (3, 1) and (7, 4) respectively. Find the unit vector along PQ.</p>",
+        "explanation": "<p>\\(PQ = \\begin{pmatrix} 7 - 3 \\\\ 4 - 1 \\end{pmatrix}\\)</p><p>\\(= \\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}\\)</p><p>\\(\\hat{n} = \\frac{\\overrightarrow{PQ}}{|PQ|} \\)</p><p>\\(|PQ| = \\sqrt{4^{2} + 3^{2}} = \\sqrt{25} = 5\\)</p><p>\\(\\hat{n} = \\frac{1}{5}\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} 0.8 \\\\ 0.6 \\end{pmatrix}\\) </p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} 0.6 \\\\ 0.8 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} 0.8 \\\\ 0.6 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} -0.8 \\\\ 0.6 \\end{pmatrix}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2013,
+        "question": "<p>If \\(g(x) = \\frac{x + 1}{x - 2}, x \\neq -2\\), find \\(g^{-1}(2)\\).</p>",
+        "explanation": "<p>\\(g(x) = \\frac{x + 1}{x + 2}, x \\neq 2\\)</p><p>Let y = x, then \\(g(y) = \\frac{y + 1}{y + 2}\\)</p><p>Let x = g(y), so that \\(x = \\frac{y + 1}{y + 2}\\)</p><p>\\(x(y + 2) = y + 1\\)</p><p>\\(xy + 2x = y + 1 \\implies xy - y = 1 - 2x\\)</p><p>\\(y(x - 1) = 1 - 2x \\implies y = \\frac{1 - 2x}{x - 1}\\)</p><p>\\(y = g^{-1}(x) = \\frac{1 - 2x}{x - 1}\\)</p><p>\\(g^{-1}(2) = \\frac{1 - 2(2)}{2 - 1} = -3\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "3",
+            "2",
+            "\\(\\frac{3}{4}\\)",
+            "-3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2013,
+        "question": "<p>Calculate the mean deviation of 1, 2, 3, 4, 5, 5, 6, 7, 8, 9.</p>",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>Total</td>\n</tr>\n<tr>\n<td>\\(x - \\bar{x}\\)</td>\n<td>-4</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td> </td>\n</tr>\n<tr>\n<td>\\(|x - \\bar{x}|\\)</td>\n<td>4</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>20</td>\n</tr>\n</tbody>\n</table><p>Mean (\\(\\bar{x}\\)) = \\(\\frac{1+2+3+4+5+5+6+7+8+9}{10} = \\frac{50}{10} = 5\\)</p><p>\\(MD = \\frac{\\sum |x - \\bar{x}|}{n} = \\frac{20}{10} = 2\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2013,
+        "question": "<p>If \\(V = \\begin{pmatrix} -2 \\\\ 4 \\end{pmatrix}\\) and \\(U = \\begin{pmatrix} -1 \\\\ 5 \\end{pmatrix}\\), find \\(|U + V|\\).</p>",
+        "explanation": "<p> \\(V = \\begin{pmatrix} -2 \\\\ 4 \\end{pmatrix}\\) and \\(U = \\begin{pmatrix} -1 \\\\ 5 \\end{pmatrix}\\)</p><p>\\(U + V = \\begin{pmatrix} -1 - 2 \\\\ 5 + 4 \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ 9 \\end{pmatrix}\\)</p><p>\\(|U + V| = \\sqrt{(-3)^{2} + 9^{2}} = \\sqrt{9 + 81} = \\sqrt{90}\\)</p><p>= \\(sqrt{9 \\times 10} = 3\\sqrt{10}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(3\\sqrt{10}\\)",
+            "\\(\\sqrt{82}\\)",
+            "15",
+            "\\(2\\sqrt{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2013,
+        "question": "<p>Find the equation of the straight line that passes through (2, -3) and perpendicular to the line 3x - 2y + 4 = 0.</p>",
+        "explanation": "<p>Given line: \\(3x - 2y + 4 = 0 \\implies 2y = 3x + 4\\)</p><p>\\(y = \\frac{3}{2}x + 2\\)</p><p>\\(Gradient (\\frac{\\mathrm d y}{\\mathrm d x}) = \\frac{3}{2}\\)</p><p>Gradient of perpendicular line = \\(\\frac{-1}{\\frac{3}{2}} = \\frac{-2}{3}\\)</p><p>\\(\\implies \\frac{y - (-3)}{x - 2} = \\frac{-2}{3}\\)</p><p>\\(\\frac{y + 3}{x - 2} = \\frac{-2}{3} \\)</p><p>\\(3(y + 3) = -2(x - 2) \\implies 3y + 2x + 9 - 4 = 0\\)</p><p>= \\(3y + 2x + 5 = 0\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "2y - 3x = 0",
+            "3y - 2x + 5 = 0",
+            "3y + 2x + 5 = 0",
+            "2y - 3x - 5 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2013,
+        "question": "<p>If \\(\\frac{^{n}C_{3}}{^{n}P_{2}} = 1\\), find the value of n.</p>",
+        "explanation": "<p>\\(^{n}C_{3} = \\frac{n!}{(n - 3)! 3!}\\)</p><p>\\(^{n}P_{2} = \\frac{n!}{(n - 2)!}\\)</p><p>\\(\\frac{^{n}C_{3}}{^{n}P_{2}} = \\frac{n!}{(n - 3)! 3!} ÷ \\frac{n!}{(n - 2)!}\\)</p><p>\\(\\frac{n!}{(n - 3)! 3!} \\times \\frac{(n - 2)!}{n!} = \\frac{(n - 2)!}{(n - 3)! 3!}\\)</p><p>Note that \\((n - 2)! = (n - 2) \\times (n - 2 - 1)! = (n - 2)(n - 3)!\\)</p><p>\\(\\frac{(n - 2)(n - 3)!}{(n - 3)! 3!} = 1\\)</p><p>\\(\\frac{n - 2}{3!} = 1 \\implies n - 2 = 6\\)</p><p>\\(n = 2 + 6 = 8\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "8",
+            "7",
+            "6",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2013,
+        "question": "<p>A body is kept at rest by three forces \\(F_{1} = (10N, 030°), F_{2} = (10N, 150°)\\) and \\(F_{3}\\). Find \\(F_{3}\\).</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "(12N, 090°)",
+            "(10N, 270°)",
+            "(10N, 180°)",
+            "(10N, 120°)"
+        ],
+        "type": "objectives"
+    }
+]

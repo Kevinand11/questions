@@ -1,0 +1,802 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2006,
+        "question": "Which of the following phenomena causes capillary of liquids in tubes of narrow bore?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "viscosity",
+            "surface tension",
+            "osmosis",
+            "brownian motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2006,
+        "question": "Which of the following physical quantities are derived? i. Area ii. Thrust iii. Pressure iv. Mass",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i, ii, iii and iv",
+            "i, ii and iii only",
+            "i, ii and iv only",
+            "i and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2006,
+        "question": "A block of volume 3 x 10<sup>5</sup>m<sup>3</sup>and density 2.5 x 10<sup>3</sup>kg m<sup>-3</sup>is suspended from a spring balance with \\(\\frac{2}{3}\\) of its volume immersed in a liquid of density 900 kg m<sup>-3</sup>. Determine the reading of the spring balance [g = 10ms<sup>-2</sup>]",
+        "explanation": "Volume immersed solid = 3 x 10<sup>5</sup>x \\(\\frac{2}{3}\\)<br><br>= 2 x 10<sup>5</sup>m<sup>3</sup><br><br>Mass of liquid displaced = ev<br><br>= 2 x 10<sup>5</sup>x 900 = 18 x 10<sup>7</sup>kg<br><br>Upthrust = 18 x 10<sup>7</sup>x 10<br><br>= 7.8 x 10<sup>9</sup>N<br><br>Mass of solid = ev<br><br>= 2.5 x 10<sup>3</sup>x 10<sup>5</sup><br><br>= 7.5 x 10<sup>8</sup><br><br>Weight of solid = 7.5 x 10<sup>8</sup>x10 = 7.8 x 10<sup>9</sup><br><br>Reading = 0.75 - 0.18 = 0.57N",
+        "correctIndex": 1,
+        "options": [
+            "0.18N",
+            "0.57N",
+            "0.75n",
+            "0.93N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2006,
+        "question": "A solid body will float in a liquid if its",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "density is less than that of a liquid",
+            "mass is equal to that of the liquid",
+            "density is greater than that of the liquid",
+            "mass is less than that of the liquid"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2006,
+        "question": "An object is said to undergo oscillatory motion when it moves",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "in an erratic manner",
+            "to and fro about a fixed point",
+            "in a circular path",
+            "along a continuous path from the starting point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2006,
+        "question": "A body is rotating in a horizontal circle of radius 2.5m with an angular speed of 5 rad s<sup>-1</sup>. Calculate the magnitude of the radial acceleration of the body",
+        "explanation": "\\(\\alpha = \\frac{W_2 - W_1}{t} = \\frac{5}{1} = 5 rad\\)/s<sup>2</sup><br><br>9 = \\(\\alpha\\)r<br><br>= 5 x 2.5 = 12.50m\\s<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "62.50ms<sup>-2</sup>",
+            "31.25ms<sup>-2</sup>",
+            "12.50ms<sup>-2</sup>",
+            "10.00ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2006,
+        "question": "A moving car of mass 800 kg experiences a frictional force of 200N. If it accelerates 2 ms<sup>-2</sup>, calculate the magnitude of the force applied to the car",
+        "explanation": "F = M + F<sub>F</sub>800 x 2 = 200<br><br>= 1800N",
+        "correctIndex": 3,
+        "options": [
+            "600N",
+            "1000N",
+            "1600N",
+            "1800N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2006,
+        "question": "Uniform speed occurs when there is equal change of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "distance in equal times",
+            "displacement in equal times",
+            "velocity in equal times",
+            "acceleration in equal times"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2006,
+        "question": "A car accelerates uniformly from rest at 5 ms<sup>-2</sup>. Determine its speed after 10s",
+        "explanation": "V = u + at = 0 + 5 x 10 = 50m/s<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "50.0ms<sup>-1</sup>",
+            "25.0ms<sup>-1</sup>",
+            "2.0ms<sup>-1</sup>",
+            "0.5ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2006,
+        "question": "Which of the following quantities is a vector?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "speed",
+            "distance",
+            "energy",
+            "momentum"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2006,
+        "question": "which of the following statements about simple harmonic motion is correct? The",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "total mechanical energy is always conserved",
+            "linear acceleration is directed to any variable point",
+            "linear acceleration varies inversely with displacement",
+            "period of oscillation varies linearly as acceleration due to gravity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2006,
+        "question": "A force acting on a body causes a change in the momentum of a body from 12 kg ms<sup>-1</sup>to 16kg ms<sup>-1</sup>in 0.25. Calculate the magnitude of the impulse",
+        "explanation": "Ft = I = MY - Mv<br><br>I = 16 - 12 = 4Ns",
+        "correctIndex": 2,
+        "options": [
+            "28.0Ns",
+            "20.0Ns",
+            "4.0Ns",
+            "0.8Ns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2006,
+        "question": "Which of the following source of energy is renewable?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "petroleum",
+            "charcoal",
+            "hydro",
+            "nuclear"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2006,
+        "question": "A stone of mass 2.0kg is thrown vertically upward with a velocity of 20.0 ms<sup>-1</sup>, calculate the initial kinetic energy of the stone",
+        "explanation": "K.E = \\(\\frac{1}{2}Mv^2 = \\frac{1}{2} \\times 2 \\times 20^2 = 400J\\)",
+        "correctIndex": 1,
+        "options": [
+            "200J",
+            "400J",
+            "800J",
+            "1600J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2006,
+        "question": "Which of the following statements about the mouth piece of a telephone is correct? It converts sound energy into",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "acoustic energy",
+            "mechanival energy",
+            "electrical energy",
+            "heat energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2006,
+        "question": "The potential energy in an elastic string of force constant K which has been extended by X metres is expresses as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{2}k \\Box ^2\\)",
+            "\\(k \\Box ^2\\)",
+            "\\(\\frac{1}{2}k \\Box \\)",
+            "\\(k \\Box \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2006,
+        "question": "The engine of a train produces a force of 3000N when moving at 30.ms<sup>-1</sup>. calculate the power of the engine",
+        "explanation": "P = FV<br><br>= 3 x 10<sup>3</sup>x 30<br><br>= 9 x 10<sup>4</sup>W",
+        "correctIndex": 2,
+        "options": [
+            "1.00 x 10<sup>2</sup>W",
+            "3.00 x 10<sup>4</sup>W",
+            "9.00 x 10<sup>4</sup>W",
+            "3.00 x 10<sup>5</sup>W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2006,
+        "question": "The velocity ratio of an inclined plane, inclines at an angle \\(\\theta\\) to the horizontal can be expressed as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "(sin \\(\\theta)^{-1}\\)",
+            "\\(\\sin \\theta\\)",
+            "(cos \\(\\theta)^{-1}\\)",
+            "\\(\\cos \\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2006,
+        "question": "A block and tackle system has six pulleys. a force of 50N applied to it lifts a load of weight W. If the efficiency of the system is 40%, calculate W",
+        "explanation": "M.A = \\(\\frac{E \\times V.R}{100} = \\frac{40 \\times 6}{100} = \\frac{12}{5}\\)<br><br>W = M.A x effort<br><br>= \\(\\frac{12}{5} \\times 50 = 120N\\)",
+        "correctIndex": 3,
+        "options": [
+            "300N",
+            "200N",
+            "140N",
+            "120N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2006,
+        "question": "The sagging of overhead electrical cables is the consequence of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "linear expansivity",
+            "superficial expansivity",
+            "cubic expansivity",
+            "conductivity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2006,
+        "question": "The silvered surface in a vacuum flask reduces heat loos due to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "conduction",
+            "convection",
+            "radiation",
+            "evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2006,
+        "question": "How long will it take to heat 3kg of water from 28<sup>o</sup>C to 88<sup>o</sup>C in an electric kettle taking 6a from a 220V supply? [specific heat capacity of water = 4180 J kg<sup>-1</sup>K<sup>-1</sup>]",
+        "explanation": "t = \\(\\frac{mc\\theta}{IV} = \\frac{3 \\times 4189 \\times 60}{6 \\times 120} = 570s\\)",
+        "correctIndex": 1,
+        "options": [
+            "120s",
+            "570s",
+            "600s",
+            "836s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2006,
+        "question": "The amount of energy required to change a kilogram of ice in water without a change in temperature is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "heat capacity of ice",
+            "specific heat capacity",
+            "specific latent heat of vaporisation of ice",
+            "specific latent heat of fusion of ice"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2006,
+        "question": "A quantity of steam at 100<sup>o</sup>C condenses to water at the same temperature by releasing 6.9 x 10<sup>4</sup>J of energy. Calculate the mass of the condensed steam. [specific latent heat of vaporization of eater = 2.3 x 10<sup>6</sup>J kg<sup>-1</sup>]",
+        "explanation": "M = \\(\\frac{Q}{T} = \\frac{6.9 \\times 10^{4}}{2.3 \\times 10^6} = 3 \\times 10^{-2} kg\\)",
+        "correctIndex": 1,
+        "options": [
+            "3.0 x 10<sup>-1</sup>kg",
+            "3.0 x 10<sup>-2</sup>kg",
+            "3.0 x 10<sup>-3</sup>kg",
+            "3.0 x 10<sup>-4</sup>kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2006,
+        "question": "The temperature of a liquid falls after some of it has evaporated because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "the liquid left is smaller in volume and the breeae easily cools it",
+            "the more energetic molecules have escaped into the atmosphere",
+            "the liquid left has less latent heat",
+            "after evaporation impurites are left behind"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2006,
+        "question": "The S.I units of frequency, period and amplitude of a wave are respectively",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "hertz, second and centimeter",
+            "second, metre and hertz",
+            "metre, hertz and seconds",
+            "hertz, second and metre"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2006,
+        "question": "a note of frequency 2000Hz has a velocity of 400 ms<sup>-1</sup>. calculate the wavelength of the note",
+        "explanation": "\\(\\pi = \\frac{v}{f} = \\frac{400}{2000} = 0.2m\\)",
+        "correctIndex": 3,
+        "options": [
+            "5.0m",
+            "2.0m",
+            "0.5m",
+            "0.2m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2006,
+        "question": "The eclipse of the moon occurs when the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "moon comes exactly between the earth and the sun",
+            "earth comes exactly between the moon and the sun",
+            "sun comes exactly between the earth and the moon",
+            "moon reflects all the rays from the sun onto the earth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2006,
+        "question": "<p>Which of the following observations cannot be explained using the rectilinear propagation of light?</p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "production of images by a pinhole camera",
+            "production of real images of objects by lenses",
+            "formation of an annular eclipse",
+            "diffraction patterns of light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2006,
+        "question": "The distance between the successive crests of a wave travelling at 20ms<sup>-1</sup>is 25cm. Calculate the frequency of the wave",
+        "explanation": "f = \\(\\frac{v}{\\pi} = \\frac{20}{0.25} = 80Hz\\)",
+        "correctIndex": 3,
+        "options": [
+            "0.8Hz",
+            "5.0Hz",
+            "50.0Hz",
+            "80.0hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2006,
+        "question": "A ray from a fixed object is incident on a plane mirror at an angle of 20<sup>o</sup>. If the mirror is rotated through 30<sup>o</sup>by how many degree would the reflected ray rotate?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "60<sup>o</sup>",
+            "50<sup>o</sup>",
+            "40<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2006,
+        "question": "Which of the following distances is usually adjustable in the camera? The distance between the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "lens and the film",
+            "diaphragm and the shutter",
+            "shutter and the film",
+            "diaphragm and the film"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2006,
+        "question": "A travelling microscope is focused on a mark on a table. If a glass block of thickness 18.0cm is placed on the mark by how many centimeters will the microscope be moved upwards so as to focus the mark once again? [refractive index of glass = 1.5]",
+        "explanation": "Apparent depth = \\(\\frac{\\text{thickness}}{\\text{refractive index}}\\)<br><br>= \\(\\frac{18}{1.5} = 12cm\\)<br><br>Upward adjustment = 18 - 12<br><br>= 6cm",
+        "correctIndex": 3,
+        "options": [
+            "27cm",
+            "24cm",
+            "9cm",
+            "6cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2006,
+        "question": "In which of the following media would sound wave travel fastest?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "wood",
+            "water",
+            "iron",
+            "mercury"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2006,
+        "question": "Which of the following actions is necessary in order to tune a string to produce a note of an octave higher than its fundamental?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "doucling the length of the string",
+            "reducing the tension by half",
+            "reducing the mass per unit length",
+            "increasing the tension four times"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2006,
+        "question": "The acceleration due o gravity may be defined as the force",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "of attraction of the sun and on the earth",
+            "with which the earth revolves around the sun",
+            "with which the earth attracts one kilo-gram mass",
+            "of the moon on the earth"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2006,
+        "question": "An electron of mass m and charge \\(\\Box\\) enters a uniform electric field between two metal plates P and q separated by a distance d. P is maintained at a potential V while Q is earthed. Determine an expression for the magnitude of the acceleration of electron through the field",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{eV}{md}\\)",
+            "\\(\\frac{d}{meV}\\)",
+            "\\(\\frac{md}{eV}\\)",
+            "\\(\\frac{e}{Vmd}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2006,
+        "question": "Which of the following factors does not affect the capacitance of a parallel plate capacitor?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "area of the plates",
+            "nature of the surface of the plates",
+            "distance of separation between the plates",
+            "nature of the insulating material between the plates"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2006,
+        "question": "The equivalent capacitance of a 3\\(\\mu F\\) capacitor and a 6\\(\\mu F\\) capacitor connected in parallel is",
+        "explanation": "C = C<sub>1</sub>+ C<sub>2</sub><br><br>= 3 + 6 = 9\\(\\mu F\\)",
+        "correctIndex": 3,
+        "options": [
+            "2.0\\(\\mu F\\)",
+            "3.0\\(\\mu F\\)",
+            "4.5\\(\\mu F\\)",
+            "9.0\\(\\mu F\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2006,
+        "question": "a cell of e.m.f. 1.5V and internal resistance 1.0\\(\\Omega\\) is connected to two resistor of resistance 2.0\\(\\Omega\\) and 3.0\\(\\Omega\\) in series. Calculate the current through the resistors",
+        "explanation": "I = \\(\\frac{E}{R + r} = \\frac{1.5}{5 + 1}\\)<br><br>= \\(\\frac{1.5}{6} = 0.25A\\)",
+        "correctIndex": 0,
+        "options": [
+            "0.25A",
+            "0.30A",
+            "0.35A",
+            "0.50A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2006,
+        "question": "An electric lamp rated 120W is used on a 240Vrms, calculate the resistance of its filament",
+        "explanation": "R = \\(\\frac{V^2}{P} = \\frac{240^2}{120} = 480\\Omega\\)",
+        "correctIndex": 0,
+        "options": [
+            "480\\(\\Omega\\)",
+            "360\\(\\Omega\\)",
+            "60\\(\\Omega\\)",
+            "2\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2006,
+        "question": "Which of the following statements about a bar magnet is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "iron fillings cling uniformly along the length of a bar magnet",
+            "the magnetic properties are more pronounced at the middle of a magnet",
+            "it is impossible to have the same poles at the end of a magnet",
+            "the magnetic properties are more pronounced at points near the end of the bar"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2006,
+        "question": "The force experienced by a current-carrying conductor move in a magnetic field is employed in the working of the i. moving coil ammeter ii. electric bell iii. electric motor. Which of the statements above are correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2006,
+        "question": "The breaking up of an atomic nucleus into the fragment of nearly equal size is known as",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "nuclear fusion",
+            "nuclear fission",
+            "thermonuclear reaction",
+            "natural radioactivity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2006,
+        "question": "A 500kV is applied across an X-ray tube. Calculate the maximum velocity of the electrons produced [Me = 9.1 x 10<sup>-31</sup>kg, e = 1.6 x 10<sup>-19</sup>C]",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "4.2 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "1.9 x 10<sup>8</sup>ms<sup>-1</sup>",
+            "4.2 x 10<sup>5</sup>ms<sup>-1</sup>",
+            "1.8 x 10<sup>5</sup>ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2006,
+        "question": "A radioactive substance of mass 768g has a half life of 3 years. After how many years does this substance leave only 6g undecayed?",
+        "explanation": "\\(768 \\to 384 \\to 192 \\to 96 \\to 48 \\to 24 \\to 12 \\to 6\\)<br><br>7 x 3 = 21yrs",
+        "correctIndex": 0,
+        "options": [
+            "21",
+            "18",
+            "15",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2006,
+        "question": "Fusion is not usually used for generating electric power because",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "no energy is released when fusion takes place",
+            "very high temperatures are required to initiate fusion reaction",
+            "the raw materials needed is not easily available",
+            "heavy nuclei are involved"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2006,
+        "question": "An atom \\(^{234}_{91} P\\) emits a gamma radiation. The resultant nuclide is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(^{230}_{90} Th\\)",
+            "\\(^{234}_{91} Pa\\)",
+            "\\(^{234}_{90} Th\\)",
+            "\\(^{234}_{89} Ac\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5721631804_10.jpg\" class=\"img-fluid\">",
+        "explanation": "S = \\(\\frac{1}{2} (a + b)h\\)<br><br>60 = \\(\\frac{1}{2}(15 + 25)h\\)<br><br>h = \\(\\frac{1200}{40} = 30\\)m/s",
+        "correctIndex": 0,
+        "options": [
+            "30ms<sup>-1</sup>",
+            "25ms<sup>-1</sup>",
+            "20ms<sup>-1</sup>",
+            "15ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17164895592_12.jpg\" class=\"img-fluid\">",
+        "explanation": "X = 50 sin30 = 30 x 0.5 = 25cm<br><br>40 x 20 = p x 25<br><br>p = \\(\\frac{40 \\times 20}{25}\\)<br><br>= 32N",
+        "correctIndex": 2,
+        "options": [
+            "16N",
+            "20N",
+            "32N",
+            "40N"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,803 @@
+[
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2009,
+        "question": "<p>Which of the following branches of accounting was first developed?</p>",
+        "explanation": "<p>Financial Accounting is based on a systematic method of recording transactions of any business according to the accounting principles. It is the first and original form of accounting process.</p>",
+        "correctIndex": 1,
+        "options": [
+            "Cost accounting",
+            "Financial acounting",
+            "Management accounting",
+            "Petroleum accounting"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2009,
+        "question": "<p>The accounting convention which states that the performance of a business should be determined by matching all expenses against revenues is?</p>",
+        "explanation": "<p>Accrual concept is the most fundamental principle of accounting which requires recording revenues when they are earned and not when they are received in cash, and recording expenses when they are incurred and not when they are paid.</p>",
+        "correctIndex": 0,
+        "options": [
+            "accruals",
+            "materiality",
+            "objectivity",
+            "periodicity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2009,
+        "question": "<p>The process of bookkeeping includes records produced from?</p>",
+        "explanation": "<p>Bookkeeping is the recording of financial transactions  in which all of the financial transactions of the business (consisting of income and expenses) are entered into a database. It uses records recorded in the ledger.<br>\nLedgers is a book or other collection of financial accounts.</p>",
+        "correctIndex": 0,
+        "options": [
+            "ledgers",
+            "source documents",
+            "minutes of meeting",
+            "intuitive reasoning"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2009,
+        "question": "Musa, a prepaid customer of XYZ and KLM, bought N1500 recharge card from XYZ, and N2000 recharge recharge card from KLM, for business calls. The entry to record these transaction is debit?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "telephone N3,500 credit XYZ and KLM, N3,500",
+            "telephone N3,500, credit cash N3,500",
+            "sundries N3,500, credit KLM N3,500",
+            "sundries N3,500, credit telephone N3,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2009,
+        "question": "Given:<br><br>Capital...............................N2375 000<br>Debtors...............................N495 000<br>Motor vehicle.........................N870 000<br>Creditors.............................N245 000<br>Prepayment............................N500 000<br>Bills receivable......................N505 000<br>Furniture.............................N150 000<br><br>What is the total debit for the trial balance?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N4 690 000",
+            "N2 620 000",
+            "N2 520 000",
+            "N1 565 000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2009,
+        "question": "<p>If Odukoya takes money out of business bank account for his own private use, the effect of the transaction is?</p>",
+        "explanation": "<p>Drawings is the withdrawals from a business by a business owner for his personal use. It represents a reduction of owners' equity (capital) in the business. </p><p> Drawings account have a debit balance which increases assets (remember in the balance sheet, assets are recorded on the debit side of the account while liabilities have a credit ballance). Hence drawings would reduce owners capital and increase the asset balance.</p>",
+        "correctIndex": 2,
+        "options": [
+            "increase in assets and increase in capital",
+            "increase in liabilities and decrease in capital",
+            "decrease in capital and increase in assets",
+            "decrease in capital and decrease in assets"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2009,
+        "question": "<p>Use the information to answer below to answer questions <br>\n<br>\ni Operating machines<br>\nii Furniture<br>\niii Fixtures and fitting<br>\niv Loan from friends<br>\nV Creditors<br>\n<br>\nWhat are the current liabilities?</p>",
+        "explanation": "<p><strong>Current Liabilities </strong>= Notes payable + Accounts payable + Accrued expenses + Unearned revenue + Current portion of long term debt + other short term debt.</p><p>From the question above, Loans from friends and creditors are liabilities the rest are assets</p>",
+        "correctIndex": 1,
+        "options": [
+            "i and ii",
+            "iv and v",
+            "iii and v",
+            "ii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2009,
+        "question": "<p>Use the information to answer below to answer questions <br>\n<br>\ni Operating machines<br>\nii Furniture<br>\niii Fixtures and fitting<br>\niv Loan from friends<br>\nV Creditors</p><p>Find the fixed assets?</p>",
+        "explanation": "<p>Fixed assets are assets which are purchased for long-term use and are not likely to be converted quickly into cash, such as land, buildings, furniture and equipment. From the question above they include; i, ii &amp; iii</p>",
+        "correctIndex": 2,
+        "options": [
+            "i, ii and v",
+            "i, ii and iv",
+            "i, ii and iii",
+            "iii, iv and v"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2009,
+        "question": "<p>Use the information above to answer question<br>\n<br>\nPeriod 1:<br>\n........Cash to petty cashier.............N1000<br>\n........Petty cashier pays out............N780<br>\n<br>\nPeriod 2:<br>\n........Petty cashier pays out............N840<br>\n<br>\nIf the float is increased to N1200, how much should the petty cashier receive after period 2?</p>",
+        "explanation": "<p>previous imprest - pay out in period 2;</p><p> 1,000 - 840 = 160<br>\nThen when it is increased to 1200;</p><p>1200 - 160 = 1040</p><p>The petty cashier will be reimbursed with 1,040</p>",
+        "correctIndex": 3,
+        "options": [
+            "160",
+            "840",
+            "1000",
+            "1040"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2009,
+        "question": "<p>What is the balance of cash with the petty cashier at the end of period 1?</p>",
+        "explanation": "<p>period one income =</p><p>N1,000- N780 pay out = N220 balance </p>",
+        "correctIndex": 0,
+        "options": [
+            "220",
+            "780",
+            "980",
+            "1780"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2009,
+        "question": "<p>Cash discount is often recorded on?</p>",
+        "explanation": "<p>A cash discount is a deduction allowed by some sellers of goods or by some providers of services in order to motivate customers to pay within a specified time. It will be recorded on the debit and credit side of the cash book. Recall the three column cashbook has the cash, bank and discount columns. The debit side of the discount will record cash discount received while the credit side will record discount allowed</p>",
+        "correctIndex": 3,
+        "options": [
+            "the debit side of the cash book",
+            "the credit side of the cash book",
+            "the folio column of the cash book",
+            "both credit and debit side of the cash book"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2009,
+        "question": "<p>The standing order is a payment instruction given by a?</p>",
+        "explanation": "<p>Standing order is an instruction to a bank by an account holder or customer to make regular fixed payments to a particular person or organization on their behalf.</p>",
+        "correctIndex": 0,
+        "options": [
+            "customer to the bank",
+            "bank to the customer",
+            "bank to an employee",
+            "customer to a fellow customer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2009,
+        "question": "Which of the should not be added or subtracted from the bank statement balance to determine the adjust cash balance?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Error by the bank",
+            "Undercasting of the cash book",
+            "Overcasting of the cash book",
+            "Bank service charges"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2009,
+        "question": "<p>Given:<br>\n<br>\nBalance as per cash book...................N20,000<br>\nUnpresented cheques........................N5, 200<br>\nDirect credit to the bank..................N1, 000<br>\nDirect debit from the bank.................N1, 000<br>\nCredit in the cash book....................N500<br>\n<br>\nCalculate the balance as per bank statement at the end of the year?</p>",
+        "explanation": "<p>Balance per bank is the ending cash balance appearing on a bank statement.</p><p>Hence we have; cashbook balance + unpresented cheques + direct bank debit - (direct credit + cashbook credit)</p><p>20,000+5200+1000 - (1000+500) = 24,700</p>",
+        "correctIndex": 0,
+        "options": [
+            "N24,700",
+            "N25,200",
+            "N26,200",
+            "N27,700"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions<br>\n<br>\nTotal current assets..................N2,000<br>\nTotal fixed assets....................N4,000<br>\nCurrent liabilities...................N1,200<br>\nDrawings..............................N200<br>\nLong-term loan........................N2,000<br>\n<br>\nDetermine the capital of the business?</p>",
+        "explanation": "<p>Capital = Assets - liabilities</p><p>Assets = Fixed assets + current assets + drawings</p><p>2000 + 4000 + 200 = 6200</p><p>Liabilities = current liabilities + longterm loans</p><p>1200 + 2000 = 3200</p><p>6200 - 3200 = 3000</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "N9,400",
+            "N6,000",
+            "N3,400",
+            "N3,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions<br>\n<br>\nTotal current assets..................N2,000<br>\nTotal fixed assets....................N4,000<br>\nCurrent liabilities...................N1,200<br>\nDrawings..............................N200<br>\nLong-term loan........................N2,000</p><p>What is the net working capital?</p>",
+        "explanation": "<p>Working capital = current assets - current liabilities</p><p>2000 - 1200 = 800</p>",
+        "correctIndex": 2,
+        "options": [
+            "N2,600",
+            "N1,800",
+            "N800",
+            "N600"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2009,
+        "question": "<p>Which of the following items are current assets?</p>",
+        "explanation": "<p>Current assets include cash and other assets that are expected to be converted to cash within a year. Option A ''Stock, bills receivable, cash and debtors'' is correct.</p><p>- Stock are goods bought for the purpose of resale<br>\n- Bills receivable are incurred as a result of credit sales<br>\n- Cash is the available money at hand<br>\n- A debtor is a person, company, or other entity that owes money.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Stock, bills receivable, cash and debtors",
+            "Stock, bill payable, cash and debtors",
+            "Stock, bad debt, bills receivable and cash",
+            "Stock, work-in-progress, cash and bills payable"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions <br>\n<br>\nJan. 1 Received 1,000 units at N10 each<br>\nJan. 2 Received 2,000 units at N12 each<br>\nJan. 3 Issued 1,500 units<br>\nJan. 4 Received 1,000 units at N11 each<br>\nJan. 5 Issued 1,000 units<br>\n<br>\nUsing FIFO method, what is the value of the closing stock?</p>",
+        "explanation": "<p>FIFO means first in first out. This method assumes that the oldest products in a company’s inventory have been sold first. The costs paid for those oldest products are the ones used in the calculation.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>issue price method</td>\n<td>Date</td>\n<td>Receipt</td>\n<td> </td>\n<td> </td>\n<td>Issue</td>\n<td> </td>\n<td>Balance</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"5\">FIFO</td>\n<td> </td>\n<td>Qty</td>\n<td>price</td>\n<td>Value</td>\n<td>Qty</td>\n<td>price</td>\n<td>Value</td>\n<td>Qty</td>\n<td>value</td>\n</tr>\n<tr>\n<td>1/1</td>\n<td>1000</td>\n<td>10</td>\n<td>10000</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>1000</td>\n<td>10000</td>\n</tr>\n<tr>\n<td>2/1</td>\n<td>2000</td>\n<td>12</td>\n<td>24000</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>3000</td>\n<td>34000</td>\n</tr>\n<tr>\n<td>3/1</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>1500</td>\n<td>-</td>\n<td>1500</td>\n<td>1500</td>\n<td>18000</td>\n</tr>\n<tr>\n<td>4/1</td>\n<td>1000</td>\n<td>11</td>\n<td>11000</td>\n<td>-</td>\n<td>-</td>\n<td>2500</td>\n<td>2500</td>\n<td>27,500</td>\n</tr>\n<tr>\n<td colspan=\"1\"> </td>\n<td>5/1</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>1000</td>\n<td> </td>\n<td>1500</td>\n<td>1500</td>\n<td>16500</td>\n</tr>\n</tbody>\n</table><p>From the table above, value of closing stock using FIFO = </p><p>Total closing stock = 1500</p><p>previous stock bought at N12 = 500 units</p><p>Last stock bought at N11 = 1000 units</p><p>12 x 500 + (11 x 1000) = 17,000</p>",
+        "correctIndex": 2,
+        "options": [
+            "N34,000",
+            "N29,000",
+            "N17,000",
+            "N12,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions<br>\n<br>\nJan. 1 Received 1,000 units at N10 each<br>\nJan. 2 Received 2,000 units at N12 each<br>\nJan. 3 Issued 1,500 units<br>\nJan. 4 Received 1,000 units at N11 each<br>\nJan. 5 Issued 1,000 units</p><p>What is the value of closing stock using simple average?</p>",
+        "explanation": "<p>In this method of stock valuation, the average unit cost is calculated by multiplying the total of the unit costs by the number of receiving. </p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n<tbody>\n<tr>\n<td>issue price method</td>\n<td>Date</td>\n<td colspan=\"3\" rowspan=\"1\">Receipt</td>\n<td colspan=\"2\" rowspan=\"1\">Issue</td>\n<td colspan=\"3\" rowspan=\"1\">Balance</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"5\">Simple average</td>\n<td> </td>\n<td>Qty</td>\n<td>price</td>\n<td>Value</td>\n<td>Dispatch Qty</td>\n<td colspan=\"4\" rowspan=\"1\">Balance</td>\n</tr>\n<tr>\n<td>1/1</td>\n<td>1000</td>\n<td>10</td>\n<td>10000</td>\n<td>-</td>\n<td colspan=\"4\" rowspan=\"1\">1000</td>\n</tr>\n<tr>\n<td>2/1</td>\n<td>2000</td>\n<td>12</td>\n<td>24000</td>\n<td>-</td>\n<td colspan=\"4\" rowspan=\"1\">3000</td>\n</tr>\n<tr>\n<td>3/1</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>1500</td>\n<td colspan=\"4\" rowspan=\"1\">1500</td>\n</tr>\n<tr>\n<td>4/1</td>\n<td>1000</td>\n<td>11</td>\n<td>11000</td>\n<td>-</td>\n<td colspan=\"4\" rowspan=\"1\">2500</td>\n</tr>\n<tr>\n<td colspan=\"1\"> </td>\n<td>5/1</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>1000</td>\n<td colspan=\"4\" rowspan=\"1\">1500</td>\n</tr>\n<tr>\n<td colspan=\"1\">Total</td>\n<td> </td>\n<td><strong>4000</strong></td>\n<td><strong>33</strong></td>\n<td> </td>\n<td><strong>2500</strong></td>\n<td colspan=\"4\" rowspan=\"1\"><strong>1500</strong></td>\n</tr>\n</tbody>\n</table><p>The closing stock using simple average =</p><p>(33 ÷ 3) x 1500 = 16500</p>",
+        "correctIndex": 2,
+        "options": [
+            "N11,500",
+            "N17,000",
+            "N16,500",
+            "N28,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2009,
+        "question": "Which of the following methods gives a conservative closing stock value during a period of rising prices?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "LIFO",
+            "FIFO",
+            "Simple average",
+            "Periodic simple average"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2009,
+        "question": "Apart from the common control accounts, a control account can also be opened for?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "sales account",
+            "purchases account",
+            "cash account",
+            "wages account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2009,
+        "question": "Which of the following is a debit item in the purchases ledger control account.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Balance b/d",
+            "Cheque dishonoured",
+            "Purchases",
+            "Balance c/d"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2009,
+        "question": "<p>Which of the following is an item in the debit side of the sales ledger control account?</p>",
+        "explanation": "<p>Recall sales ledger control account are used to track trade debtors, that is goods sold on credit. We already know that we debit all income and credit expenses. The debit side of the account contains interest charged by suppliers because the goods were sold on credit and its considered an income</p>",
+        "correctIndex": 0,
+        "options": [
+            "Interest charged by suppliers",
+            "Bills receivable honored",
+            "Transfer of credit balances from credit control account",
+            "Transfer of debit balance from creditors control account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2009,
+        "question": "<p>The cost incurred by departments that support the production departments with such activities as maintenance, production control and storage are called?</p>",
+        "explanation": "<p>Service costs are the costs incurred to provide or deliver a service. They have the element of manufacturing cost but are not directly involved in production. They include cost such as the use of power and water; fee for use of furniture carpeting/curtains, costs such as cleaning of common areas, costs of concierge or maintenance of common garden.</p>",
+        "correctIndex": 1,
+        "options": [
+            "autonomous costs",
+            "service costs",
+            "supporting cost",
+            "subsidiary costs"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions below<br>\n<br>\nWork-in-progress 1/1........................N1,000<br>\nWork-in-progress 31/12......................N2,000<br>\nProduction cost of goods manufactured.......N20,000<br>\nSales.......................................N50,000<br>\nStock of finished goods 1/1.................N4,000<br>\nStock of finished goods 31/12...............N5,000<br>\nSelling and distribution expenses...........N2,000<br>\nAdministrative expenses.....................N1,000<br>\n<br>\nDetermine the gross profit?</p>",
+        "explanation": "<p>                            Trading profit and Loss Account </p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>\n<p>opening stock                   4,000<br>\nAdd: cost of products       20,000     <ins> 24,000</ins><br>\nLess: closing stock                            5000<br>\n                                                         <ins>19,000</ins></p>\n<p>Gross profit                                    <ins>  <strong>31,000</strong></ins><br>\n                                                       <ins>  50,000</ins><br>\nselling &amp; dis. Exp               2000<br>\nAdmin. Exp                       1,000      <ins>   3000</ins><br>\nNet profit                                          <ins> 28,000</ins><br>\n<br>\n                                                         31,000             </p>\n</td>\n<td>Sales             50,000<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\nG.profit b/d    31000<br>\n<br>\n<br>\n </td>\n</tr>\n</tbody>\n</table><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "49,000",
+            "48,000",
+            "31,000",
+            "30,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions below<br>\n<br>\nWork-in-progress 1/1........................N1,000<br>\nWork-in-progress 31/12......................N2,000<br>\nProduction cost of goods manufactured.......N20,000<br>\nSales.......................................N50,000<br>\nStock of finished goods 1/1.................N4,000<br>\nStock of finished goods 31/12...............N5,000<br>\nSelling and distribution expenses...........N2,000<br>\nAdministrative expenses.....................N1,000</p><p>What is the net profit?</p>",
+        "explanation": "<p><br>\n                            Trading profit and Loss Account </p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n<tbody>\n<tr>\n<td>\n<p>opening stock                   4,000<br>\nAdd: cost of products       20,000     <ins> 24,000</ins><br>\nLess: closing stock                            5000<br>\n                                                         <ins>19,000</ins></p>\n<p>Gross profit                                    <ins>  31,000</ins><br>\n                                                       <ins>  50,000</ins><br>\nselling &amp; dis. Exp               2000<br>\nAdmin. Exp                       1,000      <ins>   3000</ins><br>\nNet profit                                          <ins> <strong>28,000</strong></ins><br>\n<br>\n                                                         31,000             </p>\n</td>\n<td>Sales             50,000<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\nG.profit b/d    31000<br>\n<br>\n<br>\n </td>\n</tr>\n</tbody>\n</table>",
+        "correctIndex": 2,
+        "options": [
+            "N46,000",
+            "N45,000",
+            "N28,000",
+            "N27,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2009,
+        "question": "<p>Receipt and payments account is a summary of the?</p>",
+        "explanation": "<p>A receipts and payments account is a summary of actual cash receipts and payments extracted from the cash book over a certain period. All cash received and paid during the period whether capital or revenue is included in this account. It is the equivalent of a cashbook</p>",
+        "correctIndex": 2,
+        "options": [
+            "budget",
+            "trading account",
+            "cash book",
+            "profit and loss account"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2009,
+        "question": "<p>Given:<br>\n<br>\nFurniture and fittings..................N20,000<br>\nEquipment...............................N15,000<br>\nBank overdrafts.........................N6, 500<br>\nBar creditors...........................N4,800<br>\nSubscription in arrears.................N4,700<br>\nSubscription in advance.................N650<br>\n<br>\nWhat is the accumulated fund?</p>",
+        "explanation": "<p>Accumulated fund = Total assets - Liabilities</p><p>20,000 + 15,000 +4,700 - (6,500+4800+650)</p><p>39,700-11,950 = 27,750</p>",
+        "correctIndex": 1,
+        "options": [
+            "23,700",
+            "27,750",
+            "29,650",
+            "51,650"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2009,
+        "question": "i Space occupied by each department.<br>ii Average value of stock held by each department.<br>iii Departmental turnover.<br>iv Number of articles sold by each department .<br><br>From the information above, the two most logical bases for apportioning expenses that are common to departments are?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "i and ii",
+            "i and iii",
+            "ii and iii",
+            "iii and iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2009,
+        "question": "<p>Use the information to answer question below<br>\n<br>\n.........................     Departments<br>\n...........................                      P                Q                R<br>\nSales value...............                           N23,400<br>\nSelling expenses..........      1,100         N1,400         N1,280<br>\nAdministrative expenses...N1,400       N1,000          N1,020<br>\nCost of sales.............      N6,900....    N6,700           N5,500<br>\n<br>\nSales value of department Q doubles that of p, which is 1/3 of R. Depreciation which amounts to N1,800 is to be apportioned among the three departments in the ratio 3:5:7 respectively.<br>\n<br>\nWhat is the sales value of department R?</p>",
+        "explanation": "<p>sales volume of Q = 23,400</p><p>If sales volume of Q doubles that of p which is \\(\\frac{1}{3}\\) of R we have;<br>\nfor P = 23,400 ÷ 2p</p><p>p = \\(\\frac{23,400}{2}\\) = 11,700</p><p>Since R is \\(\\frac{1}{3}\\) of P, hence we have,</p><p>R= 1/3P<br>\nR = 3 x P</p><p>R =  \\(\\frac{3}\\times{11700}\\)  = 35,100</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "N7,800",
+            "N11,700",
+            "N23,400",
+            "N35,100"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2009,
+        "question": "<p>Use the information to answer questions<br>\n<br>\n.........................     Departments<br>\n...........................                      P                Q                R<br>\nSales value...............                           N23,400<br>\nSelling expenses..........      1,100         N1,400         N1,280<br>\nAdministrative expenses...N1,400       N1,000          N1,020<br>\nCost of sales.............      N6,900....    N6,700           N5,500<br>\n<br>\nSales value of department Q doubles that of p, which is 1/3 of R. Depreciation which amounts to N1,800 is to be apportioned among the three departments in the ratio 3:5:7 respectively.</p><p>Determine the total expenses of department P?</p>",
+        "explanation": "<p>Depreciation is considered an operating expense so it will be added to the expenses.</p><p>Total expense of P = Selling expenses +  Administrative expenses +  depreciation</p><p>1100 + 1400 + \\(\\frac{3}{15}\\) x 1800 </p><p>1100 + 1400 + 360 = 2,860</p>",
+        "correctIndex": 2,
+        "options": [
+            "9,760",
+            "9,400",
+            "2,860",
+            "2,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2009,
+        "question": "<p>One of the purposes of maintaining the account of a branch at the head office is to?</p>",
+        "explanation": "<p>The primary objectives of branch accounting are better accountability and control since profitability and efficiency can be closely tracked for individual locations</p>",
+        "correctIndex": 3,
+        "options": [
+            "record charges in shareholdings",
+            "record charges in liabilities",
+            "check the excesses of customers",
+            "check and monitor the growth of individual branches"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2009,
+        "question": "Which of the following is a common cause of a discrepancy between head office and branch trial balance?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Debtors and cash in transit",
+            "Creditors and cash in transit",
+            "Stock and cash in transit",
+            "Stock and prepayments"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2009,
+        "question": "<p>Sule and Ahmad are in partnership sharing profits and losses equally. If Khadija is admitted as new partner to take \\(\\frac{1}{5}\\) as her share,  what is the new profit or loss sharing ratio?</p>",
+        "explanation": "<p>Recall that Sule and Ahmed have been sharing profit and losses equally. The admission of Khadija will only reduce the rate of losses and profits shared but will still be equally shared. The new sharing formula would be ;</p><p>\\(\\frac{2}{5}:{2}{5}:{1}{5}\\)</p><p>\\(\\frac{2}{5}+{2}{5}+{1}{5}\\) = \\(\\frac{5}{5}\\) = 1</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "Sule 1/3, Ahmad 1/3 and Khadija 1/3",
+            "Sule 1/5, Ahmad 15 and Khadija 3/5",
+            "Sule 2/5, Ahmad 2/5 and Khadija 1/5",
+            "Sule 2/5, Ahmad 1/5 and Khadija 2/5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2009,
+        "question": "<p>Given:<br>\n<br>\nNet profit b/d.....................N10,000<br>\nInterest on capital:...M...........N2, 000<br>\n.......................K...........N1, 000<br>\nPartners' on salary....K...........N800<br>\nInterest on drawings...M...........N500<br>\nProfit sharing ratio M and K 3:2<br>\n<br>\nDetermine M's share of profit?</p>",
+        "explanation": "<p>                       Profit and Loss Appropriation A/C</p><table border=\"0\" cellpadding=\"1\" cellspacing=\"0\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>partners salary - K              800<br>\nInt.on capital -    M             2000<br>\n                           K  1000<br>\nshare of profit -  M  4020<br>\n                          K   <ins>2680</ins>  <ins> 6700</ins><br>\n                                        <ins>  10500</ins></td>\n<td>Net profit b/d           10000<br>\nInt. on drawings: M    500<br>\n<br>\n<br>\n                                 <ins>         </ins>  <br>\n                                 <ins>10500</ins></td>\n</tr>\n</tbody>\n</table>",
+        "correctIndex": 1,
+        "options": [
+            "6,280",
+            "4,020",
+            "2,820",
+            "2,280"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2009,
+        "question": "<p>Use the information to answer question below<br>\n<br>\nCapital balances b/d:.....P.............N20,000<br>\n..........................K.............N10,000<br>\nDrawings:.................P.............N2, 000<br>\n..........................K.............N1, 000<br>\nShare of profits:.........K.............N4, 000<br>\n..........................K.............N2, 000<br>\nSalary....................P.............N1, 000<br>\nInterest on drawings:.....K.............N100<br>\n..........................K.............N20<br>\n<br>\n<br>\nAssuming that the partnership maintains a fixed capital, what is P's closing capital?</p>",
+        "explanation": "<p>Assuming the partnership maintains a fixed capital balance P capital would be the balance brought down 20,000 (that is capital without drawings)</p>",
+        "correctIndex": 3,
+        "options": [
+            "N25,000",
+            "N24,900",
+            "N22,900",
+            "N20,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2009,
+        "question": "<p>Use the information to answer question below<br>\n<br>\nCapital balances b/d:.....P.............N20,000<br>\n..........................K.............N10,000<br>\nDrawings:.................P.............N2, 000<br>\n..........................K.............N1, 000<br>\nShare of profits:.........K.............N4, 000<br>\n..........................K.............N2, 000<br>\nSalary....................P.............N1, 000<br>\nInterest on drawings:.....K.............N100<br>\n..........................K.............N20</p><p>If the capital of the partnership is unfixed, what is K's current accounts?</p>",
+        "explanation": "<p>K capital contributed = 10000</p><p>10000 - 1,000 - 2000 - 100 - 10 = 6880<br>\n </p>",
+        "correctIndex": 4,
+        "options": [
+            "N11,950",
+            "N10,950",
+            "N20",
+            "N 0",
+            "NO OPTION"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2009,
+        "question": "<p>In a partnership account, conversation of non-cash assets into cash is referred to as?</p>",
+        "explanation": "<p>Realization account refers to an account opened by the firm when it goes to dissolution to record the profit made from the sale of assets and loss suffered on the settlement of liabilities. When non-assets are converted to cash its called realization</p>",
+        "correctIndex": 0,
+        "options": [
+            "realization",
+            "disposal",
+            "dissolution",
+            "revaluation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions below;<br>\n<br>\nA company advertised and issued N750,000, 12% preference shares of N1 each to be issued at N1.50 per share. Applications for N1,370,000 were received at 30k per share. 70k per share (including premium) was due om allotment while 25k per share was due on each of the remaining two calls. All amounts due were received . Application money for 120,000 shares was refunded to unsuccessful applicants were allotment shares on pro-rata basis.<br>\n<br>\nThe share premium account would be?</p>",
+        "explanation": "<p>Premium shares = Issue price per share – Face value/par value per share x No of shares.</p><p>Issue price = N1.50</p><p>Face value = N1</p><p>No. of shares = 750,000</p><p>1.50 - 1 = 0.50</p><p>0.50 x 750,000 = 375,000</p><p>Share Application or share allotment or Share capital A/c all are personal accounts as they represent money from the shareholders and when money is due, these are to be debited because of the rule \"Debit the receiver\".</p>",
+        "correctIndex": 2,
+        "options": [
+            "credited with application and allotment N187, 500",
+            "debited with appllication and allotment N375,000",
+            "credited with application and allotment N375, 000",
+            "debited with application and allotment N187, 500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2009,
+        "question": "<p>Use the information below to answer questions below;<br>\n<br>\nA company advertised and issued N750,000, 12% preference shares of N1 each to be issued at N1.50 per share. Applications for N1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received . Application money for 120,000 shares was refunded to unsuccessful applicants were allotment shares on pro-rata basis.</p><p>The second and final call account was debited with?</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ordinary share capital account N187,500",
+            "12% preference share capital N375,000",
+            "bank account N187,500",
+            "12% preference share capital account N187,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2009,
+        "question": "<p>Provision for bad and double debts in companies final accounts is treated in?</p>",
+        "explanation": "<p>The Provision for Bad and Doubtful Debts will appear in the Balance Sheet. Next year, the actual amount of bad debts will be debited not to the Profit and Loss Account but to the Provision for Bad and Doubtful Debts Account which will then stand reduced.</p>",
+        "correctIndex": 1,
+        "options": [
+            "trading account",
+            "profit and loss account",
+            "fund flow statement",
+            "cash flow statement"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2009,
+        "question": "<p>The book value per share is obtained by dividing?</p>",
+        "explanation": "<p>To calculate the book value per share, you must first calculate the book value, then divide by the number of common shares. Also, since you're working with common shares, you must subtract the preferred shareholder equity from the total equity. Hence we have;</p><p>Book Value per Share = (Shareholders' Equity - Preferred Equity) / Total Outstanding Common Shares.</p>",
+        "correctIndex": 0,
+        "options": [
+            "shareholders equity by outstanding shares",
+            "total assets by outstanding shares",
+            "gross profit by outstanding shares",
+            "net profit by outstanding shares"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2009,
+        "question": "<p>Expenditure incurred on consumables and goods for resale is?</p>",
+        "explanation": "<p>Revenue expenses are incurred when a company purchases products or services necessary for generating revenue in the short term. They include overhead cost, maintenance cost of plants and equiptment.</p>",
+        "correctIndex": 0,
+        "options": [
+            "revenue expenditure",
+            "capital expenditure",
+            "sunk cost",
+            "miscellanous expenses"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2009,
+        "question": "<p>Replacement and renewal of fixed assets are?</p>",
+        "explanation": "<p> Capital expenditures are money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment.</p>",
+        "correctIndex": 2,
+        "options": [
+            "revenue receipt",
+            "capital receipt",
+            "capital expenditure",
+            "revenue expenditure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2009,
+        "question": "<p>Which of the following is credited to the consolidated revenue fund?</p>",
+        "explanation": "<p>The Consolidated Revenue Fund is an account that is owned and managed by the Federal Government, where all its revenues are paid. <br>\nRemember in account we debit all incomes and credit all expenses. Recurrent expenditures would be credited to the consolidated fund. showing monies that have gone out of the fund.</p><p>Recurrent expenditure is expenditure, which does not result in the creation or acquisition of fixed assets (new or second-hand). It consists mainly of expenditure on wages, salaries and supplements, purchases of goods and services .</p>",
+        "correctIndex": 0,
+        "options": [
+            "Recurrent expenditure",
+            "Capital expenditure",
+            "Transfer to revenue fund",
+            "International revenue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2009,
+        "question": "<p>One of the reasons for the existence of the public sector is to?</p>",
+        "explanation": "<p>Purpose of public sector is to provide public services. This  include public goods and governmental services such as the military, police, public education along with health care and those working for the government itself. These services are provided at a cheap and affordable rate to the citizens.</p>",
+        "correctIndex": 2,
+        "options": [
+            "Take adequate care of the needy",
+            "supplement the commercial sector",
+            "provide cheap services to all citizens",
+            "correct perceived inequalities"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21943444305_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{10}{100}\\) x 100,000 = 10,000</p><p>cost of goods sold = sales - profit</p><p>100,000 - 10,000 = 90,000</p>",
+        "correctIndex": 1,
+        "options": [
+            "N10,000",
+            "N90,000",
+            "N105,600",
+            "N110,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26332140690_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>opening stock + cost of goods sold - closing stock = purchase</p><p>Remember COGS was given as;</p><p>cost of goods sold = sales - profit (10% of sales)</p><p>100,000 - 10,000 = 90,000</p><p>Hence we have;</p><p>purchase = 5,000 + 90000 - 5,600 = 90,600</p>",
+        "correctIndex": 2,
+        "options": [
+            "N95,600",
+            "N95,000",
+            "N90,600",
+            "N85,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2009,
+        "question": "<p>Use the information to answer the question.<br>\n..........................30/9/06.......30/9/07.....<br>\n............................N.............N.........<br>\nAccrued insurance premium...600...........710.......<br>\nPrepaid rent income.........490............630......<br>\n<br>\nThe cash book includes N1,850 and N,2,100 in respect of insurance premium and rent income respectively.<br>\n<br>\nThe insurance premium to be taken to the profit and loss account would be.</p>",
+        "explanation": "<p>The insurance premium to be taken to the profit and loss account will be the amount which could not be recovered by the trader on account of credit sales. It is a business loss, so is debited in the profit and loss account.</p><p>Insurance premium posted to the P/L account would be;</p><p>710 + 600 = 1310</p>",
+        "correctIndex": 0,
+        "options": [
+            "N1,310",
+            "N1,850",
+            "N1,990",
+            "2,210"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2009,
+        "question": "Use the information to answer the question.<br>..........................30/9/06.......30/9/07.....<br>............................N.............N.........<br>Accrued insurance premium...600...........710.......<br>Prepaid rent income.........490............630......<br><br>The cash book includes N1,850 and N,2,100 in respect of insurance premium and rent income respectively.<br><br>What amount is to be credited to the profit and loss account in respect of rent income?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "N1,710",
+            "N1760",
+            "N2000",
+            "N2240"
+        ],
+        "type": "objectives"
+    }
+]

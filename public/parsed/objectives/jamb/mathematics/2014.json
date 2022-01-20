@@ -1,0 +1,754 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2014,
+        "question": "Find the value of 110111<sub>2</sub>+ 10100<sub>2</sub>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1101011<sub>2</sub>",
+            "1001001<sub>2</sub>",
+            "1001011<sub>2</sub>",
+            "1001111<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2014,
+        "question": "A woman bought a grinder for N60,000. She sold it at a loss of 15%. How much did she sell it?",
+        "explanation": "SP = Nx<br>CP = N60,000<br>Percentage loss = 15%<br>Using percentage loss...<br><br>\\(\\frac{CP - SP}{CP} = \\text{100%}\\)<br><br>\\(\\text{15%} = \\frac{60000 - x}{60000} \\times \\text{100%}\\)<br><br>\\(\\text{15%} \\times 60000 = (60000 - x)\\text{100%}\\)<br><br>\\(60000 - x = \\frac{\\text{15%} \\times 60000}{\\text{100%}}\\)<br><br>60000 - x = 3 x 3000<br><br>60000 -x = 9000<br><br>x = 60000 - 9000<br><br>x = N51,000<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "N53,000",
+            "N52,000",
+            "N51,000",
+            "N50,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2014,
+        "question": "Express the product of 0.00043 and 2000 in standard form.",
+        "explanation": "0.00043 x 2000<br><br>= 43 x 10<sup>-5</sup>x 2 x 10<sup>3</sup><br><br>= 43 x 2 x 10<sup>-5+3</sup><br><br>= 86 x 10<sup>-2</sup><br><br>= 8.6 x 10<sup>1</sup>x 10<sup>-2</sup><br><br>= 8.6 x 10<sup>-1</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "8.6 x 10<sup>-3</sup>",
+            "8.3 x 10<sup>-2</sup>",
+            "8.6 x 10<sup>-1</sup>",
+            "8.6 x 10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2014,
+        "question": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income?",
+        "explanation": "Let;<br>M = Man monthly net earnings<br><br>Then;<br><br>\\(\\text{N4500} = \\frac{\\text{10%}}{\\text{100%}} \\times M \\)<br><br>\\(M = \\frac{\\text{N4500} \\times \\text{100%}}{\\text{10%}} \\)<br><br>M = N45,000<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "N40,500",
+            "N45,000",
+            "N52,500",
+            "N62,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2014,
+        "question": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
+        "explanation": "If log 7.5 = 0.8751<br>Then 2log75 + log750<br>= 2(1.8751) + 2.8751<br>= 3.7502 + 2.8751<br>= 6.6253<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "6.6252",
+            "6.6253",
+            "66.252",
+            "66.253"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2014,
+        "question": "Solve for x in 8x<sup>-2</sup>= 2/25",
+        "explanation": "8x<sup>-2</sup>= 2/25<br><br>x<sup>-2</sup>= 2/25 x 1/8<br><br>x<sup>-2</sup>= 2/200<br><br>x<sup>-2</sup>= 1/100<br><br>1/x<sup>2</sup>= 1/100<br><br>x<sup>2</sup>= 100<br><br>x = 10<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2014,
+        "question": "<p>Simplify \\(\\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}}\\)</p>",
+        "explanation": "<p>\\(= \\frac{2\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}} \\times \\frac{\\sqrt{2} - \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}}\\)<br>\n<br>\n\\(= \\frac{2\\sqrt{2}(\\sqrt{2}) + (2\\sqrt{2})(-\\sqrt{3})-\\sqrt{3}(\\sqrt{2})-\\sqrt{3}(-\\sqrt{3})}{(\\sqrt{2})^2-(\\sqrt{3})^2}\\)<br>\n<br>\n\\(= \\frac{2 \\times 2 - 2\\sqrt{6} - \\sqrt{6} + 3}{2 - 3}\\)<br>\n<br>\n\\(= \\frac{4 - 3\\sqrt{6} + 3}{-1}\\)<br>\n<br>\n\\(= \\frac{7 - 3\\sqrt{6}}{-1}\\)<br>\n<br>\n\\(= \\frac{7}{-1} - \\frac{3\\sqrt{6}}{-1}\\)<br>\n<br>\n\\(= -7 + 3\\sqrt{6}\\)<br>\n<br>\n\\(= 3\\sqrt{6}-7\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "3\\(\\sqrt{6} - 7\\)",
+            "3\\(\\sqrt{6} + 7\\)",
+            "3\\(\\sqrt{6} - 1\\)",
+            "3\\(\\sqrt{6} + 1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2014,
+        "question": "Evaluate Log<sub>2</sub>8 + Log<sub>2</sub>16 - Log<sub>2</sub>4",
+        "explanation": "\\( = log_2 \\frac{8 \\times 16}{4}\\)<br><br>\\( = log_2 32\\)<br><br>\\( = log_2 2^5\\)<br><br>\\( = 5log_2 2\\)<br><br>\\( = 5 \\times 1\\)<br><br>\\( = 5 \\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2014,
+        "question": "If P = {1,2,3,4,5} and P \\(\\cup\\) Q = {1,2,3,4,5,6,7}, list the elements in Q",
+        "explanation": "Q = (P \\(\\cup\\) Q) - P<br>{6,7}<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "{6}",
+            "{7}",
+            "{6,7}",
+            "{5,6}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2014,
+        "question": "If gt<sup>2</sup>- k - w = 0, make g the subject of the formula",
+        "explanation": "gt<sup>2</sup>- k - w = 0<br><br>gt<sup>2</sup>= k + w<br><br>\\(g = \\frac{k + w}{t^2}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{k + w}{t^2}\\)",
+            "\\(\\frac{k - w}{t^2}\\)",
+            "\\(\\frac{k + w}{t}\\)",
+            "\\(\\frac{k - w}{t}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2014,
+        "question": "Factorize 2y<sup>2</sup>- 15xy + 18x<sup>2</sup>",
+        "explanation": "2y<sup>2</sup>- 15xy + 18x<sup>2</sup><br><br>2y<sup>2</sup>- 12xy - 3xy + 18x<sup>2</sup><br><br>2y(y - 6x) - 3x(y - 6x)<br><br>(2y - 3x) (y - 6x)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "(2y - 3x) (y + 6x)",
+            "(2y - 3x) (y - 6x)",
+            "(2y + 3x) (y - 6x)",
+            "(3y + 2x) (y - 6x)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2014,
+        "question": "Find the value of<strong>k</strong>if<strong>y - 1</strong>is a factor of y<sup>3</sup>+ 4y<sup>2</sup>+ ky - 6",
+        "explanation": "if y - 1 is a factor of y<sup>3</sup>+ 4y<sup>2</sup>+ ky - 6, then<br><br>f(1) = (1)<sup>3</sup>+ 4(1)2 + k(1) - 6 = 0 (factor theorem)<br><br>1 + 4 + k - 6 = 0<br><br>5 - 6 + k = 0<br><br>-1 + k = 0<br><br>k = 1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "-6",
+            "-4",
+            "O",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2014,
+        "question": "<i>y</i>varies directly as<i>w<sup>2</sup></i>. When y = 8, w = 2. Find y when w = 3",
+        "explanation": "\\(y \\propto w^2\\)<br><br>y = kw<sup>2</sup><br><br>8 = k(2)<sup>2</sup><br><br>8 = k(4)<br><br>k = 8/4<br><br>k = 2<br><br>Thus y = 2w<sup>2</sup><br>When w = 3, y = 2(3)<sup>2</sup><br><br>y = 2 x 9 = 18<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "18",
+            "12",
+            "9",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2014,
+        "question": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
+        "explanation": "\\(P \\propto \\frac{Q}{R}\\)<br><br>\\(P = K \\frac{Q}{R}\\)<br><br>When Q = 36, R = 16, P = 27<br><br>Then substitute into the equation<br><br>\\(27 = K \\frac{36}{16}\\)<br><br><br>\\(K = \\frac{27 \\times 16}{36}\\)<br><br>\\(K = 12\\)<br><br>So the equation connecting P, Q and R is<br><br>\\(P = \\frac{12Q}{R}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(P = \\frac{Q}{12R}\\)",
+            "\\(P = \\frac{12Q}{R}\\)",
+            "\\(P = 12QR\\)",
+            "\\(P = \\frac{12}{QR}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2014,
+        "question": "What is the solution of \\(\\frac{x - 5}{x + 3} &lt; -1\\)?",
+        "explanation": "Consider the range -3 &lt; x &lt; -1<br><br>= { -2, -1, 0}, for instance<br><br>When x = -2,<br><br>\\(\\frac{-2 - 5}{-2 + 3} &lt; -1\\)<br><br>\\(\\frac{-7}{1} &lt; -1\\)<br><br>When x = -1,<br><br>\\(\\frac{-1 - 5}{-1 + 3} &lt; -1\\)<br><br>\\(\\frac{-6}{2} &lt; -1\\)<br><br>= -3 &lt; -1<br><br>When x = 0,<br><br>\\(\\frac{0 - 5}{0 + 3} &lt; -1\\)<br><br>\\(\\frac{- 5}{3} &lt; -1\\)<br><br>Hence -3 &lt; x &lt; 1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "-3 &lt; x &lt; 1",
+            "x &lt; -3 or x &gt; 1",
+            "-3 &lt; x &lt; 5",
+            "x &lt; -3 or x &gt; 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2014,
+        "question": "Evaluate the inequality \\(\\frac{x}{2} + \\frac{3}{4} \\leq \\frac{5x}{6} - \\frac{7}{12}\\)",
+        "explanation": "\\(\\frac{x}{2} + \\frac{3}{4} \\leq \\frac{5x}{6} - \\frac{7}{12}\\)<br><br>\\(12\\frac{x}{2} + 12\\frac{3}{4} \\leq 12\\frac{5x}{6} - 12\\frac{7}{12}\\)<br><br>6x + 9 \\(\\leq\\) 10x - 7<br><br>6x - 10x \\(\\leq\\) - 7 - 9<br><br>-4x \\(\\leq\\) -16<br><br>-4x/-4 \\(\\geq\\) -16/-4<br><br>x \\(\\geq\\) 4<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(x \\geq 4\\)",
+            "\\(x \\leq 3\\)",
+            "\\(x \\geq -3\\)",
+            "\\(x \\leq -4\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2014,
+        "question": "The 4th term of an A.P. is 13 while the 10th term is 31. Find the 24th term.",
+        "explanation": "a + 3d = 13 .......... (1)<br>a + 9d = 31 .......... (2)<br><br>(2) - (1): 6d = 18<br><br>d = 18/6 = 3<br><br>From (1), a + 3(3) = 13<br><br>a + 9 = 13<br><br>a = 13 - 9 = 4<br><br>Hence,<br>T<sub>24</sub>= a + 23d<br>T<sub>24</sub>= 4 + 23(3)<br>T<sub>24</sub>= 4 + 69<br>T<sub>24</sub>= 73<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "89",
+            "75",
+            "73",
+            "69"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2014,
+        "question": "What is the common ratio of the G.P. \\((\\sqrt{10} + \\sqrt{5}) + (\\sqrt{10} + 2\\sqrt{5}) + ... \\)?",
+        "explanation": "Common ratio r of the G.P is<br><br>\\(r = \\frac{T_n + 1}{T_n} = \\frac{T_2}{T_1}\\)<br><br>\\(r = \\frac{\\sqrt{10} + 2\\sqrt{5}}{\\sqrt{10} + \\sqrt{5}}\\)<br><br>\\(r = \\frac{\\sqrt{10} + 2\\sqrt{5}}{\\sqrt{10} + \\sqrt{5}} \\times \\frac{\\sqrt{10} - \\sqrt{5}}{\\sqrt{10} - \\sqrt{5}} \\)<br><br>\\( = \\frac{(\\sqrt{10})(\\sqrt{10}) + (\\sqrt{10})(-\\sqrt{5}) + (2\\sqrt{5})(\\sqrt{10}) + (2\\sqrt{5})(-\\sqrt{5})}{(\\sqrt{10})^2 - (\\sqrt{5})^2}\\)<br><br>\\(\\frac{10 - \\sqrt{50} + 2\\sqrt{50} - 10}{10 - 5}\\)<br><br>\\(\\frac{\\sqrt{50}}{5}\\)<br><br>\\(\\frac{\\sqrt{25 \\times 2}}{5}\\)<br><br>\\(\\frac{5\\sqrt{2}}{5}\\)<br><br>\\(\\sqrt{2}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\sqrt{2}\\)",
+            "\\(\\sqrt{5}\\)",
+            "3",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2014,
+        "question": "A binary operation * is defined by x * y = x<sup>y</sup>. If x * 2 = 12 - x, find the possible values of x",
+        "explanation": "x * y = x<sup>y</sup><br>x * 2 = 12 - x<br><br>Thus by comparison,<br><br>x = x, y = 2<br><br>But x * y = x * 2<br><br>x<sup>y</sup>= 12 - x<br><br>x<sup>2</sup>= 12 - x<br><br>x<sup>2</sup>+ x - 12 = 0<br><br>x<sup>2</sup>+ 4x - 3x - 12 = 0<br><br>x(x + 4) - 3(x + 4) = 0<br><br>(x - 3)(x + 4) = 0<br><br>x - 3 = 0 or x + 4 = 0<br><br>So x = 3 or x = -4<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "3,4",
+            "3,-4",
+            "-3,4",
+            "-3,-4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2014,
+        "question": "<p>Find y, if \\(\\begin{pmatrix}5 &amp; -6 \\\\2 &amp; -7\\end{pmatrix}\\begin{pmatrix}x \\\\ y \\end{pmatrix} = \\begin{pmatrix}7 \\\\-11\\end{pmatrix}\\)</p>",
+        "explanation": "<p>\\(\\begin{pmatrix}5 &amp; -6 \\\\2 &amp; -7\\end{pmatrix}\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix}7 \\\\-11\\end{pmatrix}\\)<br>\n<br>\nBy matrices multiplication;<br>\n<br>\n5x - 6y = 7 ........(1)<br>\n2x - 7y = -11 ......(2)<br>\n2 x (1): 10x - 12y = 14 .......(3)<br>\n5 x (2): 10x - 35y = -55 ......(4)<br>\n<br>\n(3) - (4): 23y = 69<br>\n<br>\ny = 69/23 = 3</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "8",
+            "5",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2014,
+        "question": "<p>If \\(\\begin{vmatrix}-x &amp; 12 \\\\-1 &amp; 4 \\end{vmatrix} = - 12\\), find x.</p>",
+        "explanation": "<p>\\(\\begin{vmatrix}-x &amp; 12 \\\\-1 &amp; 4\\end{vmatrix} = - 12\\)<br>\n<br>\n-4x - (-1)12 = -12<br>\n<br>\n-4x + 12 = -12<br>\n<br>\n-4x = -12 - 12<br>\n<br>\n-4x = - 24<br>\n<br>\nx = 6</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "-6",
+            "-2",
+            "3",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2014,
+        "question": "<p>Find the value of \\(\\begin{vmatrix}0 &amp; 3 &amp; 2 \\\\1 &amp; 7 &amp; 8 \\\\0 &amp; 5 &amp; 4\\end{vmatrix}\\).</p>",
+        "explanation": "<p>\\(0 \\begin{vmatrix}7 &amp; 8 \\\\5 &amp; 4\\end{vmatrix} -3 \\begin{vmatrix}1 &amp; 8 \\\\0 &amp; 4\\end{vmatrix} +2 \\begin{vmatrix}1 &amp; 7 \\\\0 &amp; 5\\end{vmatrix}\\)<br>\n<br>\n= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)<br>\n<br>\n= 0(-12) - 3(4) + 2(5)<br>\n<br>\n= 0 - 12 + 10<br>\n<br>\n= -2</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "12",
+            "10",
+            "-1",
+            "-2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2014,
+        "question": "<p>How many sides has a regular polygon whose interior angle is 135°?</p>",
+        "explanation": "<p>If each interior angle of the polygon is 135°, then each exterior angle is 180° - 135° = 45°.</p><p>Hence, number of sides =<br>\n<br>\n\\(\\frac{360°}{\\text{one exterior angle}}\\)<br>\n<br>\n\\(\\frac{360°}{45°}\\)<br>\n<br>\n= 8</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "12",
+            "10",
+            "9",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2014,
+        "question": "A cylindrical tank has a capacity of 6160m<sup>3</sup>. What is the depth of the tank if the radius of its base is 28cm?",
+        "explanation": "Using \\(V = \\pi r^2 h\\)<br><br>6160 = 22/7 x 28 x 28 x h<br><br>\\(h = \\frac{6160}{22 \\times 4 \\times 28} \\)<br><br>\\(h = 2.5m \\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "8.0m",
+            "7.5m",
+            "5.0m",
+            "2.5m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2014,
+        "question": "Find the mid point of S(-5, 4) and T(-3, -2)",
+        "explanation": "Mid point of S(-5, 4) and T(-3, -2) is<br><br>\\([\\frac{1}{2}(-5 + -3), \\frac{1}{2}(4 + 2)]\\)<br><br>\\([\\frac{1}{2}(x_1 + x_2), \\frac{1}{2}(y_1 + y_2)]\\)<br><br>\\([\\frac{1}{2}(-8), \\frac{1}{2}(2)]\\)<br><br>\\([-4, 1]\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "-4, 2",
+            "4, -2",
+            "-4, 1",
+            "4, -1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2014,
+        "question": "The gradient of a line joining (x,4) and (1,2) is \\(\\frac{1}{2}\\). Find the value of x",
+        "explanation": "\\(\\text{Gradient m} = \\frac{y_2 - y_1}{x_2 - x_1}\\)<br><br>\\(\\frac{1}{2} = \\frac{2 - 4}{1 - x}\\)<br><br>1 - x = 2(2 - 4)<br><br>1 - x = 4 - 8<br><br>1 - x = -4<br><br>-x = -4 - 1<br><br>x = 5<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "5",
+            "3",
+            "-3",
+            "-5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2014,
+        "question": "<p>Calculate the mid point of the line segment y - 4x + 3 = 0, which lies between the x-axis and y-axis.</p>",
+        "explanation": "<p>y - 4x + 3 = 0<br>\n<br>\nWhen y = 0, 0 - 4x + 3 = 0<br>\n<br>\nThen -4x = -3<br>\n<br>\nx = 3/4<br>\n<br>\nSo the line cuts the x-axis at point (3/4, 0).<br>\n<br>\nWhen x = 0, y - 4(0) + 3 = 0<br>\n<br>\nThen y + 3 = 0<br>\n<br>\ny = -3<br>\n<br>\nSo the line cuts the y-axis at the point (0, -3)<br>\n<br>\nHence the midpoint of the line y - 4x + 3 = 0, which lies between the x-axis and the y-axis is;<br>\n<br>\n\\([\\frac{1}{2}(x_1 + x_2), \\frac{1}{2}(y_1 + y_2)]\\)<br>\n<br>\n\\([\\frac{1}{2}(\\frac{3}{4} + 0), \\frac{1}{2}(0 + -3)]\\)<br>\n<br>\n\\([\\frac{1}{2}(\\frac{3}{4}), \\frac{1}{2}(-3)]\\)<br>\n<br>\n\\([\\frac{3}{8}, \\frac{-3}{2}]\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\begin{pmatrix} 3 &amp; -3 \\\\ 8 &amp; 2 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} 3 &amp; 3 \\\\ 8 &amp; 2 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} -2 &amp; 2 \\\\ 2 &amp; 2 \\end{pmatrix}\\)",
+            "\\(\\begin{pmatrix} -2 &amp; 3 \\\\ 3 &amp; 2 \\end{pmatrix}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2014,
+        "question": "If \\(\\sin\\theta = \\frac{12}{13}\\), find the value of \\(1 + \\cos\\theta\\)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{25}{13}\\)",
+            "\\(\\frac{18}{13}\\)",
+            "\\(\\frac{8}{13}\\)",
+            "\\(\\frac{5}{13}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2014,
+        "question": "If y = 4x<sup>3</sup>- 2x<sup>2</sup>+ x, find \\(\\frac{\\delta y}{\\delta x}\\)",
+        "explanation": "If y = 4x<sup>3</sup>- 2x<sup>2</sup>+ x, then;<br><br>\\(\\frac{\\delta y}{\\delta x}\\) = 3(4x<sup>2</sup>) - 2(2x) + 1<br><br>= 12x<sup>2</sup>- 4x + 1<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "8x<sup>2</sup>- 2x + 1",
+            "8x<sup>2</sup>- 4x + 1",
+            "12x<sup>2</sup>- 2x + 1",
+            "12x<sup>2</sup>- 4x + 1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2014,
+        "question": "If y = cos 3x, find \\(\\frac{\\delta y}{\\delta x}\\)",
+        "explanation": "y = cos 3x<br><br>Let u = 3x so that y = cos u<br><br>Now, \\(\\frac{\\delta y}{\\delta x} = 3\\),<br><br>\\(\\frac{\\delta y}{\\delta x} = -sin u\\)<br><br>By the chain rule,<br><br>\\(\\frac{\\delta y}{\\delta x} = \\frac{\\delta y}{\\delta u} \\times \\frac{\\delta u}{\\delta x}\\)<br><br>\\(\\frac{\\delta y}{\\delta x} = (-\\sin u) (3)\\)<br><br>\\(\\frac{\\delta y}{\\delta x} = -3 \\sin u\\)<br><br>\\(\\frac{\\delta y}{\\delta x} = -3 \\sin 3x\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{3} \\sin 3x\\)",
+            "\\(-\\frac{1}{3} \\sin 3x\\)",
+            "3 sin 3x",
+            "-3 sin 3x"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2014,
+        "question": "Find the minimum value of y = x<sup>2</sup>- 2x - 3",
+        "explanation": "y = x<sup>2</sup>- 2x - 3,<br><br>Then \\(\\frac{\\delta y}{\\delta x} = 2x - 2\\)<br><br>But at minimum point,\\(\\frac{\\delta y}{\\delta x} = 0\\),<br><br>Which means 2x - 2 = 0<br><br>2x = 2<br><br>x = 1.<br><br>Hence the minimum value of y = x<sup>2</sup>- 2x - 3 is;<br><br>y<sub>min</sub>= (1)<sup>2</sup>- 2(1) - 3<br><br>y<sub>min</sub>= 1 - 2 - 3<br><br>y<sub>min</sub>= -4<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "4",
+            "1",
+            "-1",
+            "-4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2014,
+        "question": "Evaluate \\(\\int \\sin 2x dx\\)",
+        "explanation": "\\(\\int \\sin 2x dx = \\frac{1}{2} (-\\cos 2x) + k\\)<br><br>\\(- \\frac{1}{2} \\cos 2x + k\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "cos 2x + k",
+            "\\(\\frac{1}{2}\\)cos 2x + k",
+            "\\(-\\frac{1}{2}\\)cos 2x + k",
+            "-cos 2x + k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2014,
+        "question": "Evaluate \\(\\int (2x + 3)^{\\frac{1}{2}} \\delta x\\)",
+        "explanation": "\\(\\int (2x + 3)^{\\frac{1}{2}} \\delta x\\)<br><br>let u = 2x + 3, \\(\\frac{\\delta y}{\\delta x} = 2\\)<br><br>\\(\\delta x = \\frac{\\delta u}{2}\\)<br><br>Now \\(\\int (2x + 3)^{\\frac{1}{2}} \\delta x = \\int u^{\\frac{1}{2}}.{\\frac{\\delta x}{2}}\\)<br><br>\\( = \\frac{1}{2} \\int u^{\\frac{1}{2}} \\delta u\\)<br><br>\\( = \\frac{1}{2} u^{\\frac{3}{2}} \\times \\frac{2}{3} + k\\)<br><br>\\( = \\frac{1}{3} u^{\\frac{3}{2}} + k\\)<br><br>\\( = \\frac{1}{3} (2x + 3)^{\\frac{3}{2}} + k\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{12} (2x + 3)^6 + k\\)",
+            "\\(\\frac{1}{3} (2x + 3)^{\\frac{1}{2}} + k\\)",
+            "\\(\\frac{1}{3} (2x + 3)^{\\frac{3}{2}} + k\\)",
+            "\\(\\frac{1}{12} (2x + 3)^{\\frac{3}{4}} + k\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2014,
+        "question": "<p>The mean of 2 - t, 4 + t, 3 - 2t, 2 + t and t - 1 is</p>",
+        "explanation": "<p>Mean x = \\(\\frac{\\sum x}{n}\\)<br>\n<br>\n= [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1)] \\(\\div\\) 5<br>\n<br>\n= [11 - 1 + 3t - 3t] \\(\\div\\) 5<br>\n<br>\n= 10 \\(\\div\\) 5<br>\n<br>\n= 2</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "t",
+            "-t",
+            "2",
+            "-2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2014,
+        "question": "<p>\\(\\begin{array}{c|c}<br>\nValues &amp; 0 &amp; 1 &amp; 2 &amp; 3 &amp; 4 \\\\<br>\n\\hline<br>\nFrequency &amp; 1 &amp; 2 &amp; 2 &amp; 1 &amp; 9<br>\n\\end{array}\\)<br>\n<br>\nFind the mode of the distribution above</p>",
+        "explanation": "<p>The number with the highest frequency = 4</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2014,
+        "question": "Find the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3 and 6",
+        "explanation": "First arrange the numbers in order of magnitude;<br>1,2,3,3,4,5,5,<strong class=\"red_text\">5</strong>,5,6,7,8,9,9,10<br><br>Hence the median = 5<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "6",
+            "5",
+            "4",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2014,
+        "question": "Find the standard deviation of 5, 4, 3, 2, 1",
+        "explanation": "Mean x = \\(\\frac{\\sum x}{n}\\)<br><br>\\( = \\frac{5 + 4 + 3 + 2 + 1}{5}\\)<br><br>\\( = \\frac{15}{5}\\)<br><br>= 3<br><br>\\(\\begin{array}{c|c}<br>x &amp; d = x - 3 &amp; d^2 \\\\<br>\\hline<br>5 &amp; 2 &amp; 4 \\\\<br>4 &amp; 1 &amp; 1 \\\\<br>3 &amp; 0 &amp; 0 \\\\<br>2 &amp; -1 &amp; 1 \\\\<br>1 &amp; -2 &amp; 4 \\\\<br>\\hline<br>&amp; &amp; \\sum d^2 + 10<br>\\end{array}\\)<br><br>Hence, standard deviation;<br><br>\\( = \\sqrt{\\frac{\\sum d^2}{n}} = \\sqrt{\\frac{10}{5}}\\)<br><br><br>\\( = \\sqrt{2}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\sqrt{2}\\)",
+            "\\(\\sqrt{3}\\)",
+            "\\(\\sqrt{6}\\)",
+            "\\(\\sqrt{10}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2014,
+        "question": "In how many ways can a team of 3 girls be selected from 7 girls?",
+        "explanation": "A team of 2 girls can be selected from 7 girls in \\(^7C_3\\)<br><br>\\( = \\frac{7!}{(7 - 3)! 3!}\\)<br><br>\\( = \\frac{7!}{4! 3!} ways\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{7!}{3!}\\)",
+            "\\(\\frac{7!}{4!}\\)",
+            "\\(\\frac{7!}{3!4!}\\)",
+            "\\(\\frac{7!}{2!5!}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2014,
+        "question": "\\(\\begin{array}{c|c}<br>Numbers &amp; 1 &amp; 2 &amp; 3 &amp; 4 &amp; 5 &amp; 6 \\\\<br>\\hline<br>Frequency &amp; 18 &amp; 22 &amp; 20 &amp; 16 &amp; 10 &amp; 14<br>\\end{array}\\)<br><br>The table above represents the outcome of throwing a die 100 times. What is the probability of obtaining at least a 4?",
+        "explanation": "Let E demote the event of obtaining at least a 4<br>Then n(E) = 16 + 10 + 14 = 40<br><br>Hence, prob (E) = \\(\\frac{n(E)}{n(S)}\\)<br><br>\\( = \\frac{40}{100}\\)<br><br>\\( = \\frac{2}{5}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{2}{5}\\)",
+            "\\(\\frac{3}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2014,
+        "question": "<p>A number is chosen at random from 10 to 30 both inclusive. What is the probability that the number is divisible by 3?</p>",
+        "explanation": "<p>Sample space S = {10, 11, 12, ... 30}<br>\n<br>\nLet E denote the event of choosing a number divisible by 3<br>\n<br>\nThen E = {12, 15, 18, 21, 24, 27, 30} and n(E) = 7<br>\n<br>\nProb (E) = \\(\\frac{n(E)}{n(S)}\\)<br>\n<br>\nProb (E) = \\(\\frac{7}{21}\\)<br>\n<br>\nProb (E) = \\(\\frac{1}{3}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{2}{15}\\)",
+            "\\(\\frac{1}{10}\\)",
+            "\\(\\frac{1}{3}\\)",
+            "\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22856120752_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "(P\\(\\cap\\)Q)\\(\\cup\\)(P\\(\\cap\\)R)",
+            "(P\\(\\cup\\)Q)\\(\\cap\\)(P\\(\\cap\\)R)",
+            "(P\\(\\cup\\)Q)\\(\\cup\\)(P\\(\\cup\\)R)",
+            "(P\\(\\cap\\)Q)\\(\\cup\\)(P\\(\\cup\\)R)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19999121380_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "In the diagram above, \\(\\alpha\\) = 54<sup>o</sup>(alternate angles; KL||MN) &lt; KNM = 2\\(\\alpha\\) (LN is bisector of &lt; KNM) = 108<sup>o</sup><br><br>35<sup>o</sup>+ &lt; KMN + 108<sup>o</sup>= 180<sup>o</sup>(sum of angles of \\(\\bigtriangleup\\))<br><br>&lt; KMN + 143<sup>o</sup>= 180<sup>o</sup><br><br>&lt; KMN = 180<sup>o</sup>- 143<sup>o</sup><br><br>= 37<sup>o</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "91<sup>o</sup>",
+            "89<sup>o</sup>",
+            "37<sup>o</sup>",
+            "19<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12857103693_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4285701231_maths-3.jpg\" class=\"img-fluid\">\n</div>In the figure above, q<sup>o</sup>= 30<sup>o</sup>(vertically opposite angles)<br><br>(P + 2q)<sup>o</sup>+ 30<sup>o</sup>= 180<sup>o</sup>(angles on a straight line)<br><br>p + 2 x 30<sup>o</sup>+ 30<sup>o</sup>= 180<sup>o</sup><br><br>p + 60<sup>o</sup>+ 30<sup>o</sup>= 180<sup>o</sup><br><br>p + 90<sup>o</sup>= 180<sup>o</sup><br><br>p = 180<sup>o</sup>- 90<sup>o</sup><br><br>= 90<sup>o</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "135<sup>o</sup>",
+            "90<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19999943684_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9999971842_maths-4.jpg\" class=\"img-fluid\">\n</div>In the figure above, \\(\\frac{x}{\\sin 60^o} = \\frac{10}{\\sin 30^o}\\) (Sine rule)<br><br>x = \\(\\frac{10 \\sin 60^o}{\\sin 30^o}\\)<br><br>= 10 x \\(\\frac{\\sqrt{3}}{2} \\times \\frac{1}{2}\\)<br><br>= 10 x \\(\\frac{\\sqrt{3}}{2} \\times \\frac{2}{1}\\)<br><br>= 10\\(\\sqrt{3}\\)cm<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "20\\(\\sqrt{3}\\)cm",
+            "10\\(\\sqrt{3}\\)cm",
+            "5\\(\\sqrt{3}\\)cm",
+            "4\\(\\sqrt{3}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7142869655_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>(x1, y1) = (0,5)<br>\n<br>\n(x2, y2) = (5, 0)<br>\n<br>\nUsing \\(\\frac{y - y_1}{y_2 - y_1} = \\frac{x - x_1}{x_2 - x_1}\\)<br>\n<br>\n\\(\\frac{y - 5}{0 - 5} = \\frac{x - 0}{5 - 0}\\)<br>\n<br>\n\\(\\frac{y - 5}{-5} = \\frac{x}{5}\\)<br>\n<br>\n5(y - 5) = -5x<br>\n<br>\ny - 5 = -x<br>\n<br>\nx + y = 5<br>\n<br>\ny = -x + 5</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "y = x + 5",
+            "y = -x + 5",
+            "y = x - 5",
+            "y = -x - 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27142913524_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "Angle of sector subtended by yam<br><br>= 360<sup>o</sup>- (70 + 80 + 50)<sup>o</sup><br><br>= 360<sup>o</sup>- 200<sup>o</sup><br><br>= 160<sup>o</sup><br><br>But \\(\\frac{80^o}{360^o}\\) x T = 8000<br><br>T = \\(\\frac{8000 \\times 360^o}{80^o}\\)<br><br>= N36,000<br><br>Hence the amount spent on yam = \\(\\frac{160^o}{260} \\times N36,000\\)<br><br>= N16,000<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "N42,000",
+            "N18,000",
+            "N16,000",
+            "N12,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2014,
+        "question": "<p>If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector. [Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "explanation": "<p>Perimeter of the sector = \\(2r + \\frac{\\theta}{360°} \\times 2\\pi r\\)</p><p>= \\(2(10.5) + \\frac{120}{360} \\times 2 \\times \\frac{22}{7} \\times 10.5\\)</p><p>= \\(21 + 22\\)</p><p>= 43 cm</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "48 cm",
+            "40 cm",
+            "43 cm",
+            "45 cm"
+        ],
+        "type": "objectives"
+    }
+]

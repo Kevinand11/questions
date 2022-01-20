@@ -1,0 +1,835 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12863546010_maths-11.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "100 tan 30<sup>o</sup>",
+            "\\(\\frac{100}{\\cos 30^o}\\)",
+            "200 sin 30<sup>1</sup>",
+            "\\(\\frac{200}{tan 30^o}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2000,
+        "question": "An iron rod is moved from the earth to the moon. Which of the following properties of the rod would remain unchanged? i. mass ii. weight iii. relative density",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i only",
+            "ii only",
+            "iii only",
+            "i and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2000,
+        "question": "A uniform cylindrical hydrometer of mass 20g and cross sectional area 0.54cm<sup>2</sup>floats upright in a liquid. If 25cm of its length is submerged, calculate the relative density of the liquid. (Density of water = 1 gcm<sup>-3</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.54",
+            "1.48",
+            "1.25",
+            "0.80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2000,
+        "question": "The apparent weight of a body wholly immersed in water is 32N and its weight in air is 96N. Calculate the volume of the body. (Density of water = 1000kgm<sup>-3</sup>, g = 10ms<sup>-3</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "8.9 x 10m<sup>-3</sup>m<sup>3</sup>",
+            "6.4 x 10m<sup>-3</sup>m<sup>3</sup>",
+            "3.2 x 10m<sup>-3</sup>m<sup>3</sup>",
+            "3.0 x 10m<sup>-3</sup>m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2000,
+        "question": "A wooden block of mass 1.6kg rest on a rough horizontal surface, if the limiting friction force between the block and the surface is 8N. Calculate the coefficient of friction. (g = 10ms<sup>-2</sup>)",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.6",
+            "0.5",
+            "0.3",
+            "0.2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2000,
+        "question": "A ball bearing is gently released from rest and allowed to fall through a viscous fluid. Which of the following statements about the motion is correct?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "its acceleration decreases before terminal velocity is attained",
+            "when terminal velocity is attained the acceleration of the fluid becomes zero",
+            "its velocity increases before terminal velocity is attained",
+            "there is no resultant force on the ball before it attains terminal velocity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2000,
+        "question": "The driver of a car moving with uniform speed of 40ms<sup>-1</sup>observes a truck approaching from the opposite direction with a speed of 20ms<sup>-1</sup>. Calculate the speed of the car relative to that of the truck",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            ".5ms<sup>-1</sup>",
+            "2.0ms<sup>-1</sup>",
+            "20.0ms<sup>-1</sup>",
+            "60.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2000,
+        "question": "A bus travelling at 15ms<sup>-1</sup>accelerates uniformly at 4ms<sup>-2</sup>, what is the distance covered in 10s?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "150m",
+            "170m",
+            "350m",
+            "600m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2000,
+        "question": "A uniform metre rule of mass 90g is provided at the 40cm mark. If the rule is in equilibrium with an unknown mass m placed at the 10cm mark and a 72g mass at the 70cm mark, determine m",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "72g",
+            "102g",
+            "298g",
+            "504g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2000,
+        "question": "The resultant of two forces acting on an object is maximum when the angle between them is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "180<sup>o</sup>",
+            "90<sup>o</sup>",
+            "45<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2000,
+        "question": "The bob of a simple pendulum takes 0.25s to swing from its equilibrium position to one extreme end. Calculate its period",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0.25s",
+            "0.50s",
+            "0.75s",
+            "1.00s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2000,
+        "question": "The period of oscillation pf a particle executing simple harmonic motion is 4\\(\\pi\\) seconds. If the amplitude of oscillation is 3.0m. Calculate its period",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "1.5ms<sup>-1</sup>",
+            "3.0ms<sup>-1</sup>",
+            "4.5ms<sup>-1</sup>",
+            "6.0ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2000,
+        "question": "An inelastic collision takes place between ball of known masses, just before the collision one of the ball is moving with a known velocity while the other is stationary. Which of the following physical quantities can be determined from the information given?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "speed of each of the ball after collision",
+            "kinetic energy of each ball after collision",
+            "total momentum of the ball after collision",
+            "total momentum of the two ball after collision",
+            "mutual forces excerted by the balls"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12865748859_maths-17.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2000J",
+            "1000J",
+            "20J",
+            "5J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2000,
+        "question": "A machine of efficiency 8% is used to raise a body of mass 75kg through a vertical height of 3m in 30s. Calculate the power input. (g = 10ms<sup>-2</sup>)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "9.4W",
+            "60.0W",
+            "75.0W",
+            "93.8W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2000,
+        "question": "Two bodies P and Q, are in thermal equilibrium, which of the following statements about the bodies is correct?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the temperature of Q is higher than that of P",
+            "P and Q have the same heat capacty",
+            "P and Q have the same mass",
+            "P and Q are at the same temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2000,
+        "question": "The cubic expansivity of mercury is 1.8 x 10<sup>-4</sup>K<sup>-1</sup>and the linear expansivity of glass 8.0 x 10<sup>-6</sup>K<sup>-1</sup>, calculate the apparent expansivity of mercury in a glass container",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.00 x 10<sup>-4</sup>K<sup>-1</sup>",
+            "1.56 x 10<sup>-4</sup>K<sup>-1</sup>",
+            "1.72 x 10<sup>-4</sup>K<sup>-1</sup>",
+            "2.04 x 10<sup>-4</sup>K<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15724813973_maths-21.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "-32<sup>o</sup>C",
+            "-100<sup>o</sup>C",
+            "-273<sup>o</sup>C",
+            "-373<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2000,
+        "question": "The volume and pressure of a given mass of gas at 27<sup>o</sup>C are 76cm<sup>3</sup>and 80cm of mercury respectively. Calculate the volume at s.t.p",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "36.2cm<sup>3</sup>",
+            "72.8cm<sup>3</sup>",
+            "100.0cm<sup>3</sup>",
+            "808.9cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2000,
+        "question": "A piece of metal of mass 50g is cooled from 80<sup>o</sup>C to 20<sup>o</sup>C. Calculate the amount of heat lost. (specific heat capacity of the material of metal = 450Jkg<sup>-1</sup>K<sup>-1</sup>)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "4.50 x 10<sup>3</sup>J",
+            "2.25 x 10<sup>3</sup>J",
+            "1.80 x 10<sup>3</sup>J",
+            "1.35 x 10<sup>3</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2000,
+        "question": "The mass of water vapour in a given volume of air is 0.05g at 20<sup>o</sup>C, while the mass of water vapour required to saturate it at the same temperature is 0.15g. Calculate the relative humidity of the air",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "3.33%",
+            "5.55%",
+            "33.33%",
+            "55.55%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2000,
+        "question": "The temperature at which the saturated vapour pressure of a liquid is equal to the external atmospheric pressure is known as its",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "dew point",
+            "boiling point",
+            "lower fixed point",
+            "tripple point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2000,
+        "question": "A periodic pulse travels a distance of 20.0m in 1.00s. If its frequency is 2.0 x 10<sup>3</sup>Hz. Calculate the wavelength.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.0 x 10<sup>-3</sup>m",
+            "1.0 x 10<sup>-2</sup>m",
+            "2.0 x 10<sup>-2</sup>m",
+            "1.0 x 10<sup>2</sup>m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2000,
+        "question": "A wave has an amplitude equal to 4.0m, angular speed \\(\\frac{1}{3} \\pi\\) rads<sup>-1</sup>and phase angle \\(\\frac{2}{3} \\pi\\) rad. The displacement y of the wave particle is given as",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "y = 4 sin \\(\\frac{\\pi}{3}\\)(t + 2)",
+            "y = 4 sin \\(\\frac{\\pi}{3}\\)(t + \\(\\frac{2}{\\pi}\\)",
+            "y = 4 sin \\(\\frac{\\pi}{3} (2t + 1)\\)",
+            "y = 4 sin \\(\\frac{\\pi}{3} (t + 2)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12865825440_maths-28.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "70<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2000,
+        "question": "A concave mirror can be used to produce a parallel beam of light if a lighted bulb is placed",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "between its focus and the pole",
+            "at its focus",
+            "at its centre of curveture",
+            "between its focus and centre of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2000,
+        "question": "A simple microscope forms an image 10cm from an eye close to the lens. If the object is 6cm from the eye, calculate the focal length of the lens",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "3.75cm",
+            "4.00cm",
+            "15.00cm",
+            "16.00cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2000,
+        "question": "When white light passes through a triangular glass prism, there is dispersion because of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "diffraction of light",
+            "polarisation of light",
+            "the difference in speed of the components of light",
+            "the interference of light waves in glass"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2000,
+        "question": "In which of the following media does sound travel faster?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "water",
+            "brass",
+            "air",
+            "wood"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2000,
+        "question": "<p>A turning fork of frequency 600Hz is sounded over a closed resonance tube. If the first and second resonant positions are 0.130m and 0.413m respectively, calculate the speed of sound in air</p>",
+        "explanation": "<p>\\(v = f\\lambda\\)</p><p>\\(v = 2f \\times (l_{2} - l_{1})\\)</p><p>\\(v = 2 \\times 600 \\times(0.413 - 0.130)\\)</p><p>\\(v = 1200 \\times 0.283\\)</p><p>\\(v = 339.6ms^{-1}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "508.4ms<sup>-1</sup>",
+            "480.0ms<sup>-1</sup>",
+            "339.6ms<sup>-1</sup>",
+            "169.8ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2000,
+        "question": "loudness increases as a vibrating tuning fork is brought nearer the end of a pipe containing air column due to",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "resonance",
+            "echo",
+            "reverberation",
+            "diffraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2000,
+        "question": "the factor which enables the ear to distinguish between a note played on different instruments is the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "pitch",
+            "speed",
+            "harmonics",
+            "loudness"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2000,
+        "question": "An object is situated within the Earth's gravitational field. Which of the following factor does not affect the acceleration of free fall g?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the distance of the object from the centre of the earth",
+            "the latitude of the earth on which the object is situated",
+            "rotation of the earth",
+            "the mass of the object"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2000,
+        "question": "The capacitance of a parallel-plate capacitor is increased by making the area of the plates",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "small and their seperation large",
+            "large and their seperation small",
+            "and their seperation small",
+            "and their seperation equal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1429539591_maths-38.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1.20A",
+            "0.90A",
+            "0.75A",
+            "0.60A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12865859253_maths-38.jpg\" class=\"img-fluid\">",
+        "explanation": "C.V = 1R<sub>1</sub>+ 1R<sub>2/sub&gt;<br>\n<br>\n= (1.2 1.5) + (1.5 6)<br>\n<br>\n= 1.8 + 9 <br>\n<br>\n= 10.80V\n</sub>",
+        "correctIndex": 2,
+        "options": [
+            "7.50V",
+            "9.00V",
+            "10.80V",
+            "1.25V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2000,
+        "question": "An immersion heater is rated 120W. How long does it take the heater to raise the temperature of 1.2kg of water by 15<sup>o</sup>C. (Assuming heat lost to the surrounding is negligible. Specific heat capacity of water = 4200 Jkg<sup>-1</sup>K<sup>-1</sup>C)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "65.0 minutes",
+            "60.0 minutes",
+            "52.5 minutes",
+            "10.5 minutes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2000,
+        "question": "The region around a magnet in which the magnetic influence is experienced is called",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "magnetic flux",
+            "magnetic field",
+            "magnetic meridian",
+            "magnetic declination"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2000,
+        "question": "A device used to prevent wearing away of the make and-brake contacts of an induction coil is called a\\an",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "fuse",
+            "electroscope",
+            "resistor",
+            "capacitor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2000,
+        "question": "If a bar magnet is accidentally broken into three pieces as shown in the diagram above, the polarities of P and Q respectively are",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "S and S",
+            "N and S",
+            "N and N",
+            "S and N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2000,
+        "question": "An inductor of inductance 10H carries a current of 0.2A. Calculate the energy stored in the inductor",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "0.1J",
+            "0.2J",
+            "1.0J",
+            "2.0J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2000,
+        "question": "calculate the inductance of an inductor whose reactance is one ohm at 50 Hz.",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "2.00 x 10<sup>-2</sup>H",
+            "6.36 x 10<sup>-2</sup>H",
+            "3.18 x 10<sup>-2</sup>H",
+            "4.55 x 10<sup>-2</sup>H"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2000,
+        "question": "Borh's theory provides evidence for the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "structure of the atom",
+            "positive charge of an electron",
+            "existence of energy level in the atom",
+            "positive charge on a proton"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2000,
+        "question": "A nuclide \\(^{202}_{84} Y\\) emits in succession an \\(\\alpha-particle\\) and a \\(\\beta-particle\\). The atomic number of the resulting nuclide is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "198",
+            "83",
+            "82",
+            "80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2000,
+        "question": "The half life of a radioactive substance is 14 days. If 48g of this substance is stored, after how many days will 1.5g of the original substance remain?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "84 days",
+            "70 days",
+            "56 days",
+            "40 days"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2000,
+        "question": "A material of mass 1.0 x 10<sup>-2</sup>kg undergoes a fission process which decreases its mass by 0.02 percent. Calculate the amount of energy released in the process. (c = 3.0 x 10<sup>8</sup>ms<sup>-1</sup>)",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1.8 x 10<sup>20</sup>J",
+            "1.8 x 10<sup>13</sup>J",
+            "1.8 x 10<sup>11</sup>J",
+            "1.8 x 10<sup>10</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2000,
+        "question": "Absorption line spectra exhibited by atoms is a result of",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "change in the kinetic energy of a movimg atom",
+            "instability of the nucleons",
+            "excitation of an electron in the atom",
+            "transition of an electron from a higher to a lower energy level"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2000,
+        "question": "In which of the following transitions is the largest quantum of energy liberated by an hydrogen atom when the electron changes energy levels? [n is the quantum number]",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "n = 2 to n = 1",
+            "n = 1 to n = 2",
+            "n = 2 to n = 3",
+            "n = 3 to n = 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2000,
+        "question": "A proton of wavelength \\(\\lambda_o\\) is emitted when an electron in an atom makes a transition from a level of energy 2E<sub></sub>. If the electron transits from \\(\\frac{4}{3}E_k\\) to E<sub></sub>level, determine the wavelength of the photon that would be emitted",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "3\\(\\lambda_o\\)",
+            "2\\(\\lambda_o\\)",
+            "\\(\\frac{3}{4}\\)\\(\\lambda_o\\)",
+            "\\(\\frac{1}{3}\\)\\(\\lambda_o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2000,
+        "question": "The nucleon number and the proton number of a neutral atom of an element are 23 and 11 respectively. How many neutrons are present in the atom?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "11",
+            "12",
+            "23",
+            "34"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 51,
+        "year": 2000,
+        "question": "In a nuclear reactor, electricity can be generated through the following processes. Arrange the processes in the correct order. i. The steam is used to drive turbines. ii. The heat energy released is removed by passing water through the reactor. iii. The turbines in turn generate electricity. iv. The water then passes through some form of heat exchanger to produce steam",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ii, iv, i and iii",
+            "i, ii, iii and iv",
+            "iii, i, iv and ii",
+            "iv, i, iii and ii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 52,
+        "year": 2000,
+        "question": "The duality of matter implies that matter",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "exists as a particle of dual composition",
+            "has momentum and enrgy",
+            "has both wave and particle properties",
+            "is made up of dual materials"
+        ],
+        "type": "objectives"
+    }
+]

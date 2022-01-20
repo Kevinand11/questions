@@ -1,14 +1,20 @@
 <template>
 	<div class="container py-4">
-		<div class="d-flex mb-5 border border-secondary">
-			<router-link class="flex-grow w-50 p-3 text-secondary text-center text-decoration-none"
-			             exact-active-class="bg-primary text-white" to="/">Upload Questions
+		<div class="d-flex mb-5">
+			<router-link
+				class="flex-grow border border-secondary w-50 p-3 text-secondary text-center text-decoration-none"
+				exact-active-class="bg-primary text-white" to="/">Upload Questions
 			</router-link>
-			<router-link class="flex-grow w-50 p-3 text-secondary text-center text-decoration-none"
-			             exact-active-class="bg-primary text-white" to="/crosscheck">Crosscheck Doc
+			<router-link
+				class="flex-grow border border-secondary w-50 p-3 text-secondary text-center text-decoration-none"
+				exact-active-class="bg-primary text-white" to="/crosscheck">Crosscheck Doc
+			</router-link>
+			<router-link
+				class="flex-grow border border-secondary w-50 p-3 text-secondary text-center text-decoration-none"
+				exact-active-class="bg-primary text-white" to="/review">Review
 			</router-link>
 		</div>
-		<router-view :key="$route.path" />
+		<router-view />
 	</div>
 </template>
 

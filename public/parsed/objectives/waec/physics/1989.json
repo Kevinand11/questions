@@ -1,0 +1,546 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1989,
+        "question": "Which of the following is NOT a vector quantity?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "momentum",
+            "force",
+            "velocity",
+            "temperature",
+            "displacement"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1989,
+        "question": "Which of the following is not a consequence of a force field?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "wieght",
+            "surface tension",
+            "gravitational pull",
+            "magnetic force",
+            "electric force"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1989,
+        "question": "A boy pulls a nail from the wall with a string tied to the nail. The string is inclined at an angle of 60<sup>o</sup>to the wall. If the tension in the string is 4N, what is the effective force used in pulling the nail?",
+        "explanation": "F = 4 x sin 60<sup>o</sup><br>F = 4 x √3/2 = 2√3 N",
+        "correctIndex": 0,
+        "options": [
+            "2√3 N",
+            "4 N",
+            "4√3 N",
+            "8 N",
+            "2 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1989,
+        "question": "Which of the following is used to determine the relative density of the acid in a car battery?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Hypsometer",
+            "Hygrometer",
+            "Manometer",
+            "Hydrometer",
+            "Spectrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1989,
+        "question": "A block of material of volume 20cm<sup>-3</sup>and density 2.5gcm<sup>-3</sup>is suspended from a spring balance with half the volume immersed in water. What is the reading of the spring balance? (Density of water = 1.0gcm<sup>-3</sup>).",
+        "explanation": "W = pvg = (2.5 x 10 x 60)/100 = 0.500N.<br>Upthrust = wt of liquid displaced = pvg water.<br>pvg water = (1x20x10)/2 = 0.10N<br>Reading =&gt; 0.500N - 0.100N = 0.4N = 40g",
+        "correctIndex": 3,
+        "options": [
+            "8g",
+            "25g",
+            "30g",
+            "40g",
+            "50g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1989,
+        "question": "A piece of cork floating on water is acted upon by the forces of...",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Weight and viscosity",
+            "weight and upthrust",
+            "upthrust and viscosity",
+            "weight only",
+            "upthrust only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1989,
+        "question": "A stone tied to a string is made to revolve in a horizontal circle of radius 4m with an angular speed of 2 rad per sec. With what tangential velocity will the stone move off the circle if the string is cut?",
+        "explanation": "V = wr = 2x4 = 8.0 ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "16.0 ms<sup>-1</sup>",
+            "8.0 ms<sup>-1</sup>",
+            "6.0 ms<sup>-1</sup>",
+            "2.0 ms<sup>-1</sup>",
+            "0.5 ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1989,
+        "question": "The motion of the prongs of the sounding tuning fork is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "random",
+            "translational",
+            "rotational",
+            "vibratory",
+            "vibratory and rotational"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1989,
+        "question": "Which of the following is a derived unit?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Metre",
+            "Coulomb",
+            "Kilogram",
+            "Second",
+            "Ampere"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1989,
+        "question": "An engine raises 1000kg of water through a height of 60m in 20s. What is the power of the engine? (Take g = 10ms<sup>-2&gt;</sup>).",
+        "explanation": "P = mgh/t = (1000 \\(\\times\\) 10 \\(\\times\\) 60) \\(\\div\\) 20 = 30,000 W.",
+        "correctIndex": 1,
+        "options": [
+            "120,000 W",
+            "30,000 W",
+            "333 W",
+            "300 W",
+            "30 W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1989,
+        "question": "A thermometer has its stem marked in millimeter instead of degree Celsius. The lower fixed point is 30mm and the upper is 180mm. Calculate the temperature in degree celsius when the thermometer reads 45mm.",
+        "explanation": "θ = (x/y) x 100.<br>where x = UFP -LFP -another scale, and y = UFP - LFP for celsius scale.<br><br>=&gt; {(45-30)/(180-30)} x 100 = 10.0<sup>o</sup>C",
+        "correctIndex": 4,
+        "options": [
+            "67.5<sup>o</sup>C",
+            "30.0<sup>o</sup>C",
+            "25.0<sup>o</sup>C",
+            "15.0<sup>o</sup>C",
+            "10.0<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1989,
+        "question": "Which of the following surfaces will radiate heat energy best?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Red",
+            "White",
+            "Black",
+            "Yellow",
+            "Blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1989,
+        "question": "Which of the followiempeng statements is/are not correct?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Evaporation takes place only at the surface of the liquid",
+            "Boiling takes place throughout the volume of the liquid",
+            "Evaportaion takes place at all temperatures",
+            "Boiling takes place at a particular temperature for a liquid at a fixed external pressure",
+            "The boiling point of a liquid is not affected by impurities"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1989,
+        "question": "Water in an open container boils at a lower temperature when heated at the top of a mountain than at sea-level because at the top of a mountain the",
+        "explanation": "Refer to Elementary physics, pressure reduces with height.",
+        "correctIndex": 3,
+        "options": [
+            "relative humidity is higher than at sea-level",
+            "rays of the sun adds more heat to the water",
+            "temperature is lower than that at sea-level",
+            "pressure is lower than that at sea-level",
+            "pressure is more than that at sea-level"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1989,
+        "question": "Which of the following substance is not a good conductor of electricity?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Human body",
+            "Glass",
+            "Aluminium",
+            "Earth",
+            "Copper"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1989,
+        "question": "Calculate the heat energy required to vapourize 50g of water initially at 80<sup>o</sup>C if the specific heat capacity of water is 4.2Jg<sup>-1</sup>K (specific latent heat of vapourization of water is 2260Jg<sup>-1</sup>).",
+        "explanation": "Q = McΔθ + ml<br>Q = {50 x 4.2 x (100 - 80) + 50 x 2260} 117200J.",
+        "correctIndex": 2,
+        "options": [
+            "533000J",
+            "230000J",
+            "117200J",
+            "113000J",
+            "4200J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1989,
+        "question": "A block of ice at its melting point is left on a table in the atmosphere and observed to melt gradually. Which of the following statements is true about the melting process?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the reaction force of the table on the ice breaks the ice into water molecules",
+            "heat extracted from the ice block makes the ice block cold",
+            "the ice block absorbs heat from the atmosphere and its temperature rises",
+            "the atmosphere absorbs heat from the ice block and its temperature falls",
+            "the ice block absorbs heat from the atmosphere and its temperature remains constant as it melts"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1989,
+        "question": "All the heat generated by a current of 2A passing through a resistor of 6Ω for 2.5s is used to evaporate 5 g of a liquid at its boiling point. What is the specific latent heat of the liquid?",
+        "explanation": "Electrical Energy = Heat Energy.<br>I<sup>2</sup>Rt = ml<br>2<sup>2</sup>x 6 25 = 5 x L.<br>L = 120 Jg<sup>-1</sup>.",
+        "correctIndex": 1,
+        "options": [
+            "60 Jg<sup>-1</sup>",
+            "120 Jg<sup>-1</sup>",
+            "300 Jg<sup>-1</sup>",
+            "360 Jg<sup>-1</sup>",
+            "1500 Jg<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1989,
+        "question": "Which of the following instruments can be used to compare the relative magnitudes of charges on two given bodies?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "The electrophorous",
+            "Ebonite rod",
+            "Proof plane",
+            "Gold leaf electroscope",
+            "Capacitor"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1989,
+        "question": "A short chain is usual attached to the back of a petrol tanker trailing behind it to ensure that the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "petrol tanker is balanced on the wh eel",
+            "heat generated by friction in the engine can be conducted to the floor",
+            "charges generated by friction in the tanker can be conducted to the earth",
+            "the tanker moves slowly as the chain touches the floor",
+            "chain produces sound for the resonance of the tanker engine"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1989,
+        "question": "A ray of light is incidence on a plane mirror at an angle of 35<sup>o</sup>. What is the angle by the reflected ray with the surface of the mirror?",
+        "explanation": "The angle of reflection is always equal to the the angle of incidence, which is the angle that the incoming ray, called incident ray makes with the normal.<br><br>(Please note that the angle of incidence and angle of reflection are always defined in terms of angle the ray makes with the normal. There is nothing like \"angle of reflection with respect to mirror)<br><br>The angle of incidence can be calculated from the angle incident rays makes the reflection surface as:<br><br>Angle of incidence = 90 - Angle made with reflecting surface<br><br>The angle with the reflecting surface, that is mirror, is given as 35 degrees.<br><br>Therefore:<br><br>Angle of incidence = 90 - 35 = 55 degrees<br><br>And<br><br>Angle of reflection = angle of incidence = 55 degrees",
+        "correctIndex": 3,
+        "options": [
+            "125<sup>o</sup>",
+            "70<sup>o</sup>",
+            "65<sup>o</sup>",
+            "55<sup>o</sup>",
+            "35<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1989,
+        "question": "The image in a pine-hole camera is always",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "diminished",
+            "enlarged",
+            "upright",
+            "inverted",
+            "blurred"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1989,
+        "question": "The refractive index of a given transparent medium is 1.4. Which of the following is the minimum internal angle for total internal reflection to take place in the medium?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "30<sup>o</sup>",
+            "36<sup>o</sup>",
+            "44<sup>o</sup>",
+            "46<sup>o</sup>",
+            "54<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1989,
+        "question": "The distance between a node and an anti-node for a transverse wave is equal to",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the wavelength",
+            "thrice the wavelength",
+            "one-half of the wavelength",
+            "one-quater of the wavelength",
+            "three quaters of the wavelength"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1989,
+        "question": "Which of the following is a stringed instrument?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "flute",
+            "trumpet",
+            "piano",
+            "drum",
+            "saxophone"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1989,
+        "question": "A sound pulse sent vertically downwards into the earth is reflected from two different layers of the earth such that echoes are heard 1.2s and 1.4s. Assuming speed of the pulse is 2000ms<sup>-1</sup>, calculate the distance between the layers.",
+        "explanation": "X = Δvt/2 = {(2000x14)<dby>2 - (2000x12)<dby>2} = 200 m.\n</dby></dby>",
+        "correctIndex": 0,
+        "options": [
+            "200 m",
+            "400 m",
+            "2400 m",
+            "2600 m",
+            "2800 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1989,
+        "question": "In a wave the maximum displacement of particles from their equilibrium positions is called.",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "frequency",
+            "amplitude",
+            "period",
+            "wavelength",
+            "wave velocity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1989,
+        "question": "A string is stretched between two points 50cm apart. It is then plucked at its center and the velocity of the wave produced is 300m/s. Calculate the number of vibrations made by the string in 1s.",
+        "explanation": "λ = 2 x 50 = 100cm = 1m.<br>V = fλ, f = v/λ = 300.",
+        "correctIndex": 3,
+        "options": [
+            "3",
+            "6",
+            "150",
+            "300",
+            "600"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1989,
+        "question": "Which of the following is not a property of longitudinal waves?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "compression",
+            "reflection",
+            "refraction",
+            "polarization",
+            "diffraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1989,
+        "question": "What is the gravitational potential due to a molecule of mass, m and at a distance, r from it? (G = gravitational constant).",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Gm<sup>2</sup>/r<sup>2</sup>",
+            "Gm/r",
+            "Gm<sup>2</sup>/r",
+            "G<sup>2</sup>m<sup>2</sup>/r",
+            "m<sup>2</sup>/Gr<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1989,
+        "question": "Calculate the escape velocity for a rocket fired from the earth's surface at a point where the acceleration due to gravity is 10ms<sup>-2</sup>and the radius of the earth is 6 x 10<sup>6</sup>m.",
+        "explanation": "Hint: V = √2gr = √(2x10x6x10<sup>6</sup>) + 1.1 x 10<sup>4</sup>ms<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "7.8 x 10<sup>6</sup>ms<sup>-12</sup>",
+            "1.1 x 10<sup>4</sup>ms<sup>-1</sup>",
+            "3.5 x 10<sup>7</sup>ms<sup>-1</sup>",
+            "6.0 x 10<sup>7</sup>ms<sup>-1</sup>",
+            "1.2 x 10<sup>8</sup>ms<sup>2-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1989,
+        "question": "The electric force between two point charges each of the magnitude, q at a distance of r apart in air of permittivity is:",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "q<sup>2</sup>/4πεr",
+            "rε<sub>0</sub>/q<sup>2</sup>",
+            "4πq/ε<sub>0</sub>",
+            "qr<sup>2</sup>/ε<sub>0</sub>",
+            "qε<sub>0</sub>/4πε<sub>0</sub>r<sup>2</sup>"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 1987,
+        "question": "Which of the following units is equivalent to kgms<sup>-1</sup>?",
+        "explanation": "kgms<sup>-1</sup>= \\(\\frac{mass}{distance}\\)<br><br>since, F = ma = kgms<sup>-1</sup>= N<br><br>kgms<sup>-1</sup>= Ns",
+        "correctIndex": 2,
+        "options": [
+            "Ns<sup>-1</sup>",
+            "Nms<sup>-1</sup>",
+            "Ns",
+            "Js<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 1987,
+        "question": "A jet engine develops a thrust of 270Ns when the velocity of the exhaust gases relative to the engine is 300ms<sup>-1</sup>. What is the mass of the material ejected per second?",
+        "explanation": "Thrust = force x time<br><br>thrust = \\(\\frac{m(v - u)}{t}\\) x \\(\\frac{t}{1}\\)<br><br>270 = m(300 - 0)<br><br>m = 0.90kg",
+        "correctIndex": 2,
+        "options": [
+            "81.00kg",
+            "9.00kg",
+            "0.90kg",
+            "0.09kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 1987,
+        "question": "A man walks 8km north and then 5km in a direction 60<sup>o</sup>east of north. Find the distance from his starting point",
+        "explanation": "R = \\(\\sqrt {5^2 + 8^2 - 2 \\times 5 \\times 8 \\times cos 120^o}\\)<br><br>R = \\(\\sqrt{129}\\)<br><br>= 11.36km",
+        "correctIndex": 0,
+        "options": [
+            "11.36km",
+            "12.36km",
+            "13.00km",
+            "14.36km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 1987,
+        "question": "An elevator of mass 4800kg is supported by a cable which can safely withstand a maximum tension of 60 000N. The maximum upward acceleration the elevator can have is",
+        "explanation": "a = \\(\\frac{F}{m}\\)<br><br>= \\(\\frac{60000 -(4800 \\times10)}{4800}\\)<br><br>= 2.5ms<sup>-2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "2.5ms<sup>-2</sup>",
+            "5.0ms<sup>-2</sup>",
+            "7.5ms<sup>-2</sup>",
+            "10.0ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 1987,
+        "question": "A constant force of 40N acting on a body initially at rest gives an acceleration of 0.1ms<sup>-2</sup>for 4s. Calculate the work done by the force",
+        "explanation": "X = ut + \\(\\frac{1}{2}\\)at<sup>2</sup><br><br>= (0 x 4) + (\\(\\frac{1}{2}\\) x 0.1 x 4 x 4)<br><br>= 0.8m<br><br>workdone = force x distance<br><br>= 40 x 0.8<br><br>= 32J",
+        "correctIndex": 2,
+        "options": [
+            "8J",
+            "10J",
+            "32J",
+            "160J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 1987,
+        "question": "A body rolls down a slope from a height of 100m. its velocity at the foot of the slope is 20ms<sup>-1</sup>. What percentage of its initial potential energy is converted into kinetic energy? [g = 10ms<sup>-1</sup>]",
+        "explanation": "P.E = mgh = 1000m joules<br><br>K.E = \\(\\frac{1}{2}\\)mv<sup>2</sup>= 200m joules<br><br>%converted = \\(\\frac{200m}{1000m}\\) x 100<br><br>= 20%",
+        "correctIndex": 2,
+        "options": [
+            "40%",
+            "35%",
+            "20%",
+            "15%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 1987,
+        "question": "<p>The coefficient of static friction between a 40kg crate and concrete surface is 0.25. Find the magnitude of the minimum force needed to keep the crate stationary on the concrete base inclined at 45o to the horizontal. [G = 10ms-1]</p>",
+        "explanation": "<p>momentum force = Rsin\\(\\theta\\) - \\(\\mu\\)Rcos\\(\\theta\\)<br>\n<br>\nFm = (40 x 10 x sin 45) - (40 x 10 x 0.25 x cos 45)<br>\n<br>\n= 212N</p>",
+        "correctIndex": 3,
+        "options": [
+            "400N",
+            "300N",
+            "283N",
+            "212N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1987,
+        "question": "If a beaker is filled with water it is observed that the surface of the water is not horizontal at the glass-water interface. This behavior is due to",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "friction",
+            "viscosity",
+            "surface tension",
+            "evaporation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 1987,
+        "question": "The mechanical advantage(MA) of an inclined plane depends on",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "its length",
+            "its height",
+            "the product of its length and height",
+            "the ratio of its length to its height"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 1987,
+        "question": "A load of 5N gives an extension of 0.56cm in a wire which obeys Hooke's law. What is the extension caused by a load of 20N?",
+        "explanation": "\\(\\frac{F_1}{e_1}\\) = \\(\\frac{F_2}{e_2}\\)<br><br>\\(\\frac{5}{0.56}\\) = \\(\\frac{20}{e_2}\\)<br><br>e<sub>2</sub>= 2.24cm",
+        "correctIndex": 2,
+        "options": [
+            "1.12cm",
+            "2.14cm",
+            "2.24cm",
+            "2.52cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 1987,
+        "question": "A cube of side 10cm and mass 0.5kg floats in a liquid with only \\(\\frac{1}{5}\\) of its height above the liquid surface. What is the relative density of the liquid?",
+        "explanation": "Height below liquid = 1 - \\(\\frac{1}{5}\\) = \\(\\frac{4}{5}\\)<br><br>volume of cube = 10<sup>3</sup>cm<sup>3</sup><br><br>volume of liquid displaced = \\(\\frac{4}{5}\\) x 1000<br><br>= 800cm<sup>3</sup><br><br>density of liquid displaced;<br><br>= \\(\\frac{500}{800}\\)<br><br>= 0.625cm<sup>-1</sup>",
+        "correctIndex": 2,
+        "options": [
+            "0.125cm<sup>-1</sup>",
+            "0.250gcm<sup>-1</sup>",
+            "0.625cm<sup>-1</sup>",
+            "2.500cm<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 1987,
+        "question": "The distance between the fixed points of a centigrade thermometer is 20cm. What is the temperature when the mercury level is 4.5cm above the lower mark?",
+        "explanation": "20cm .... 100<sup>o</sup>C<br><br>4.5cm .... \\(\\theta\\)<br><br>0cm ....0<sup>o</sup>C<br><br>\\(\\frac{4.5 - 0}{20 - 0}\\) = \\(\\frac{0 - 0}{100 - 0}\\)<br><br>\\(\\theta\\) = 22.5<sup>o</sup>C",
+        "correctIndex": 0,
+        "options": [
+            "22.5<sup>o</sup>C",
+            "29.0<sup>o</sup>C",
+            "90.0<sup>o</sup>C",
+            "100.0<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 1987,
+        "question": "The length of a side of a metallic cube at 20<sup>o</sup>C is 5.0cm. Given that the linear expansivity of the metal is 4.0 x 10<sup>-5</sup>k<sup>-1</sup>, find the volume of the cube at 120<sup>o</sup>C .",
+        "explanation": "Y = \\(\\frac{V_2 - V_1}{V_1 \\times \\theta}\\)<br><br>3 x 4 x 10<sup>-5</sup>= \\(\\frac{V_2 - 125}{125 \\times (120 - 20)}\\)<br><br>V<sub>2</sub>= 126.50cm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "126.50cm<sup>3</sup>",
+            "126.25cm<sup>3</sup>",
+            "126.00cm<sup>3</sup>",
+            "125.00cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 1987,
+        "question": "As a result of air at the top of a barometer, the height of the mercury column is 73.5cm when it should be 75.0cm; the volume of the space above the mercury is 8.0cm<sup>3</sup>. Calculate the correct barometer height when the barometer reads 74.0cm and the volume of the space above the mercury is 6.0cm<sup>3</sup>.",
+        "explanation": "Using, P<sub>1</sub>P<sub>1</sub>= P<sub>2</sub>P<sub>2</sub><br><br>(75 - 73.5) x 8 = (X - 74) x 6<br><br>X = 76cm",
+        "correctIndex": 3,
+        "options": [
+            "72.0cm",
+            "74.5cm",
+            "75.1cm",
+            "76.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 1987,
+        "question": "Hot water is added to three times its mass of water at 10<sup>o</sup>C and the resultant temperature is 20<sup>o</sup>C. What is the initial temperature of the hot water?",
+        "explanation": "Heat loss = heat gained<br><br>m<sub>h</sub>x c<sub>h</sub>x \\(\\theta\\)<sub>h</sub>= m<sub>c</sub>x c<sub>c</sub>x \\(\\theta\\)<sub>c</sub><br><br>m<sub>h</sub>x c<sub>h</sub>x (\\(\\theta\\) - 20) = m<sub>c</sub>x c<sub>c</sub>x (20 - 10)<br><br>c<sub>h</sub>= c<sub>c</sub>; m<sub>c</sub>= 3m<sub>h</sub><br><br>therefore, \\(\\theta\\) = 50<sup>o</sup>C",
+        "correctIndex": 2,
+        "options": [
+            "100<sup>o</sup>C",
+            "80<sup>o</sup>C",
+            "50<sup>o</sup>C",
+            "40<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 1987,
+        "question": "22,000J of heat is required to raise the temperature of 1.5kg of paraffin from 20<sup>o</sup>C to 30<sup>o</sup>C. Calculate the specific heat capacity of paraffin.",
+        "explanation": "22,000 = 1.5 x c x (30 - 20)<br><br>c = 1466Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>",
+        "correctIndex": 0,
+        "options": [
+            "1466Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>",
+            "2933Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>",
+            "4400Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>",
+            "5866Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1987,
+        "question": "In which of the following are the substance arranged in descending order of their thermal conductivities?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "copper, steel, glass",
+            "steel, copper, glass",
+            "steel, glass, copper",
+            "copper, glass, steel"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 1987,
+        "question": "The vacuum in a thermos flask helps to reduce heat transfer by?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "convection and radiation",
+            "convection and conduction",
+            "conduction and radiation",
+            "radiation only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 1987,
+        "question": "Which of the following phenomena explains the fact that a house whose roof is coated with white paint will be cooler in the hot season than one coated with black paint ?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "conduction",
+            "convection",
+            "refraction",
+            "reflection"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 1987,
+        "question": "Calculate the amount of heat required to convert 2kg of ice at 2<sup>o</sup>C to water at 0<sup>o</sup>C. [specific heat capacity of ice = 2090Jkg<sup>-1</sup><sup>o</sup>C<sup>-1</sup>, specific latent heat of fusion of ice = 333kJkg<sup>-1</sup>]",
+        "explanation": "Q = mL + mc\\(\\theta\\)<br><br>= (2 x 333000) + (2 x 2090 x 2)<br><br>= 674 360J",
+        "correctIndex": 3,
+        "options": [
+            "666J",
+            "8360J",
+            "666 000J",
+            "674 360J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 1987,
+        "question": "A wave has a frequency of 2Hz and a wavelength of 30cm. The velocity of the wave is",
+        "explanation": "V = F\\(\\lambda\\)<br><br>= 2 x 0.3<br><br>= 0.6ms<sup>-1</sup>",
+        "correctIndex": 3,
+        "options": [
+            "60.0ms<sup>-1</sup>",
+            "6.0ms<sup>-1</sup>",
+            "1.5ms<sup>-1</sup>",
+            "0.6ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 1987,
+        "question": "A boat at anchor is rocked by waves whose crest are 100m apart and whose velocity is 25ms<sup>-1</sup>. At what interval does the wave crest reach the boat?",
+        "explanation": "Distance between the boat and crest = 100m<br><br>time = \\(\\frac{100}{25}\\)<br><br>= 4sec",
+        "correctIndex": 2,
+        "options": [
+            "2500.00s",
+            "75.00s",
+            "4.00s",
+            "0.25s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 1987,
+        "question": "Which of the following instruments has a pure tone?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "guitar",
+            "vibrating strings",
+            "tuning fork",
+            "siren"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 1987,
+        "question": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 150Hz?",
+        "explanation": "In stretched strings the overtones are in odd multiple of F<sub>o</sub>.<br><br>F<sub>1</sub>= 3F<sub>o</sub><br><br>= 3 x 40 = 120Hz<br><br>F<sub>2</sub>= 5F<sub>o</sub><br><br>= 5 x 40<br><br>= 200Hz",
+        "correctIndex": 0,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1987,
+        "question": "Which of the following statements supports the assumption that light travels in straight lines?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "light can be diffracted",
+            "a source of light produces distinct shadows of opaque objects",
+            "a source of light produces interference patterns on a suitably placed screen",
+            "light can be reflected"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 1987,
+        "question": "When the length I of a piece of wire under constant tension is varied, the relationship of the frequency of the vibration f\\(\\alpha\\)/ is",
+        "explanation": "F = \\(\\frac{1}{2L}\\sqrt\\frac{T}{m}\\)",
+        "correctIndex": 3,
+        "options": [
+            "f\\(\\alpha\\)/",
+            "f\\(\\alpha \\frac{1}{I^2}\\)",
+            "f \\(\\alpha\\sqrt I\\)",
+            "f\\(\\alpha \\frac{1}{1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 1987,
+        "question": "If an object is placed in front of two mirrors inclined at 90<sup>o</sup>, how many images will be formed?",
+        "explanation": "n = \\(\\frac{360}{\\theta}\\) - 1<br><br>= 360 - 1<br><br>= 3 images",
+        "correctIndex": 2,
+        "options": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 1987,
+        "question": "An object 3.0cm high is placed 60.0cm from a converging lens whose focal length is 20.0cm. Calculate the size of the image formed",
+        "explanation": "F = \\(\\frac{UV}{U + V}\\)<br><br>20 = \\(\\frac{60 \\times V}{60 + V}\\)<br><br>V = 30cm<br><br>similarly, \\(\\frac{U}{V}\\) = \\(\\frac{\\text{height of object}}{\\text{height of image}}\\)<br><br>\\(\\frac{60}{30}\\) = \\(\\frac{3}{h}\\)<br><br>h = 1.5cm",
+        "correctIndex": 1,
+        "options": [
+            "0.5cm",
+            "1.5cm",
+            "2.0cm",
+            "6.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 1987,
+        "question": "A pool of water appears to be 1.0m deep when viewed vertically from above. If the refractive index of water is 1.33, what is the actual depth of the pool?",
+        "explanation": "n = \\(\\frac{\\text {real depth}}{\\text{apparent depth}}\\)<br><br>1.33 = \\(\\frac{\\text {real depth}}{1}\\)<br><br>real depth = 1.33cm",
+        "correctIndex": 2,
+        "options": [
+            "0.750m",
+            "1.013m",
+            "1.330m",
+            "13.3000m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 1987,
+        "question": "A ray of light is incident at an angle of 30<sup>o</sup>on one top surface of a parallel-sided glass block of refractive index 1.5. The ray finally emerges from the lower surface. What is the angular deviation of the emergent ray?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "60<sup>o</sup>",
+            "39<sup>o</sup>",
+            "28<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 1987,
+        "question": "Four lenses are being considered for use as a microscope objective. Which of the following focal lengths is most suitable?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-5mm",
+            "+5mm",
+            "-5cm",
+            "+5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 1987,
+        "question": "<p>If the angle of declination in a place is 10oE, calculate the true geographic bearing if the compass reads N40oE</p>",
+        "explanation": "<p>The true declination is calculated by adding the reading of compass bearing to the declination at that place.</p><p>= N40°E + 10° = N50°E</p>",
+        "correctIndex": 0,
+        "options": [
+            "N50<sup>o</sup>E",
+            "N40<sup>o</sup>E",
+            "N30<sup>o</sup>E",
+            "N25<sup>o</sup>E"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 1987,
+        "question": "Two capacitance of 6\\(\\mu\\)F and 8\\(\\mu\\)F are connected in series. What additional capacitance must be connected in series with this combination to give a total of 3\\(\\mu\\)F",
+        "explanation": "3 = \\(\\frac{6 \\times 8 \\times c}{(6 \\times 8) + (6 \\times c) + (8 \\times c}\\)<br><br>therefore, C = 24\\(\\mu\\)F",
+        "correctIndex": 2,
+        "options": [
+            "3\\(\\mu\\)F",
+            "16\\(\\mu\\)F",
+            "24\\(\\mu\\)F",
+            "30\\(\\mu\\)F"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 1987,
+        "question": "<p>When a transformer has more secondary windings than primary windings, it</p>",
+        "explanation": "<p>A <strong>transformer</strong> that increases the voltage from primary to secondary (more secondary winding turns than primary winding turns) is called a <strong>step</strong>-<strong>up transformer</strong>. </p>",
+        "correctIndex": 0,
+        "options": [
+            "has a smaller secondary current",
+            "has a greater power output",
+            "is a step-down transformer",
+            "increases the total energy output"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 1987,
+        "question": "A current of 0.5A flows through a resistor when connected to a 40-V battery. How much energy is dissipated in 2 minutes?",
+        "explanation": "Electrical energy = IVT<br><br>= 0.5 x 40 x 2 x 60<br><br>= 2400J",
+        "correctIndex": 2,
+        "options": [
+            "1200J",
+            "1500J",
+            "2400J",
+            "96000J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1987,
+        "question": "The direction of the magnetic field at a point in the vicinity of a bar magnet is",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "always towards the north pole of the magnet",
+            "always away from the south pole of the magnet",
+            "along the line joining the point to the neutral point",
+            "in the direction the north pole of a compass needle would point"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1987,
+        "question": "When two parallel wires carry currents in opposite directions, the force on either wire is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "away from the other wire",
+            "zero, because the currents cancel each other",
+            "twice as much as when the currents are in the same direction",
+            "towards the other wire"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1987,
+        "question": "A galvanometer of resistance 20\\(\\Omega\\) is to be provided with a shunt that \\(\\frac{1}{10}\\) of the whole current in a circuit passes through the galvanometer. The resistance of the shunt is",
+        "explanation": "\\(\\frac{1}{10}\\)I x 20 = \\(\\frac{9}{10}\\)I x R<sub>s</sub><br><br>R<sub>s</sub>= 2.22\\(\\Omega\\)",
+        "correctIndex": 1,
+        "options": [
+            "2.00\\(\\Omega\\)",
+            "2.22\\(\\Omega\\)",
+            "18.00\\(\\Omega\\)",
+            "18.22\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1987,
+        "question": "What type of reaction is represented by the following scheme? \\( ^2 _1X \\) + \\( ^{2} _{1}Y \\) + \\( ^{3} _{2}Z \\) + \\( ^{1} _{0}n \\) + energy",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Fusion reaction",
+            "Fission reaction",
+            "Chain reaction",
+            "Radioactive decay"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1987,
+        "question": "Which of the following statements is TRUE of photoelectric effect?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "it cannot occur in liquids",
+            "the energy of the emitted electrons is independent of the work function of the surface",
+            "the energy of the emitted electron depends on the wavelength of the incident light",
+            "the greater the intensity of the incuident light, the greater the incident of the emitted electron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1987,
+        "question": "Isotopes are nuclei which have",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the same number of nuetrons and electrons",
+            "equal number of electrons and protons",
+            "the same atomic number but different number of neutrons",
+            "the same number of total particles"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1987,
+        "question": "<p>A radioactive sample initially contains N atoms. After three half-lives the number of atoms that have disintegrated is</p>",
+        "explanation": "<p>N \\(\\to\\) \\(\\frac{N}{2}\\) \\(\\to\\) \\(\\frac{N}{4}\\) \\(\\to\\) \\(\\frac{N}{8}\\)</p><p> Number of atoms left = 1-1/8=\\(\\frac{7N}{8}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{N}{8}\\)",
+            "\\(\\frac{3N}{8}\\)",
+            "\\(\\frac{5N}{8}\\)",
+            "\\(\\frac{7N}{8}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23336997392_1987.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "17.0m",
+            "18.0m",
+            "22.5m",
+            "30.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23337001264_19870001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "(m1-m2)g",
+            "m1g",
+            "m2g",
+            "(m1+m2)g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834251692_19870002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.25m",
+            "0.50m",
+            "0.25m",
+            "0.05m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834252756_19870003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Q1/Q2",
+            "E/Q1",
+            "E/(Q1-Q2)",
+            "E/(Q1-Q2)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834253380_19870004.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Using the voltage- divider method which states that the output voltage is <strong>directly proportional</strong> to the <strong>input voltage</strong> and the <strong>ratio of R1 and R2, given by:</strong></p><p>\\(V_{a}\\) = \\(\\frac{R_{a}}{R_{T}}\\times V_{T}\\)</p><p>\\(R_{T}\\) = \\(1 + \\frac{4\\times4}{4+4}\\)</p><p>⇒ \\(R_{T}\\) = \\(3\\Omega\\)</p><p>\\(V_{1}\\) = \\(\\frac{1}{3}V\\)</p><p> </p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "V/8",
+            "V/4",
+            "V/3",
+            "V/2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23337024896_19870005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "both M and N have acquired negative charges",
+            "both M and N have acquired positive charges",
+            "M has acquired negative charge and N positive charge",
+            "N has acquired negative charge and M positive charge"
+        ],
+        "type": "objectives"
+    }
+]

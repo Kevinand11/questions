@@ -1,0 +1,754 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2005,
+        "question": "<p>Correct 0.04945 to two significant figures</p>",
+        "explanation": "<p>0.04945 \\(\\approxeq\\) 0.049. (to 2 sig. figs)</p>",
+        "correctIndex": 1,
+        "options": [
+            "0.040",
+            "0.049",
+            "0.050",
+            "0.49"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2005,
+        "question": "Simplify \\(\\frac{5}{\\sqrt{3}}-\\frac{3}{\\sqrt{2}}\\)",
+        "explanation": "\\(\\frac{5}{\\sqrt{3}}-\\frac{3}{\\sqrt{2}}=\\frac{5\\sqrt{2}-3\\sqrt{3}}{\\sqrt{6}}\\\\<br>=\\frac{5\\sqrt{2}-3\\sqrt{3}}{\\sqrt{6}} \\times \\frac{\\sqrt{6}}{\\sqrt{6}}Rationalize\\\\<br>\\frac{\\sqrt{6}(5\\sqrt{2}-3\\sqrt{3})}{6}\\\\<br>\\frac{5\\sqrt{12}-3\\sqrt{18}}{6}=\\frac{10\\sqrt{3}-9\\sqrt{2}}{6}\\\\<br>\\frac{1}{6}(10\\sqrt{3}-9\\sqrt{2})\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{6}(5\\sqrt{3}-3\\sqrt{2}\\)",
+            "\\(\\frac{1}{6}(15\\sqrt{3}-6\\sqrt{2}\\)",
+            "\\(\\frac{1}{6}(3\\sqrt{2}-\\sqrt{3}\\)",
+            "\\(\\frac{1}{6}(10\\sqrt{3}-9\\sqrt{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2005,
+        "question": "Evaluate, correct to the nearest whole number \\(7\\frac{1}{2}-\\left(2\\frac{1}{2}+3\\right)\\div\\frac{33}{2}\\)",
+        "explanation": "\\(7\\frac{1}{2}-\\left(2\\frac{1}{2}+3\\right)\\div\\frac{33}{2}\\\\<br>=\\frac{15}{2}-\\left(\\frac{5}{2}+\\frac{3}{1}\\right)\\times\\frac{2}{33}\\\\<br>=\\frac{15}{2}-\\left(\\frac{5+6}{2}\\right)\\times \\frac{2}{33}=\\frac{15}{2}-\\frac{11}{2}\\times \\frac{2}{33}=\\frac{15}{2}-\\frac{1}{3}\\\\<br>=\\frac{45-2}{6}=\\frac{43}{6}\\)",
+        "correctIndex": 2,
+        "options": [
+            "33",
+            "8",
+            "7",
+            "o"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2005,
+        "question": "Simplify the expression \\(log_{10}18 - log_{10}2.88+log_{10}16\\)",
+        "explanation": "\\(log_{10}18 - log_{10}2.88+log_{10}16\\\\<br>=log_{10}18 - log_{10}\\left(\\frac{288}{100}\\right)+log_{10}16 = log_{10}\\left(\\frac{18\\times 16}{1}\\times \\frac{100}{288}\\right)\\\\<br>=log_{10}\\left(\\frac{288\\times 100}{288}\\right)=log_{10}100=log_{10}10^2=2log_{10}10=2\\)",
+        "correctIndex": 2,
+        "options": [
+            "31.12",
+            "3.112",
+            "2",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2005,
+        "question": "Find the equation whose roots are 2 and \\(-3\\frac{1}{2}\\)",
+        "explanation": "x<sup>2</sup>(sum of roots)x + (product of roots) = 0<br>Sum of roots \\(2+-3\\frac{1}{2} = -1\\frac{1}{2}=-\\frac{1}{2}\\)<br>Product of roots \\(=2 \\times -3\\frac{1}{2}=-7\\\\<br>x^2-\\left(\\frac{-3}{2}\\right)x+(-7)=0\\Rightarrow 2x^2 + 3x - 14 = 0\\)",
+        "correctIndex": 3,
+        "options": [
+            "2x<sup>2</sup>+ 3x + 14 = 0",
+            "2x<sup>2</sup>+ 5x + 7 = 0",
+            "2x<sup>2</sup>+ 5x - 7 = 0",
+            "2x<sup>2</sup>+ 3x - 14 = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2005,
+        "question": "A man bought 220 mangoes at N5x. He sold each for 3x kobo and made a gain of N8. Find the value of x",
+        "explanation": "The cost price of the whole mangoes = N5x<br>The sold amount of the mangoes = 3x * 220 = N6.60x<br>The gain made on mangoes = N6.60x - N5x = N8.00 =&gt; N1.60x = N8 =&gt; \\(x=\\frac{8}{1.60}=\\frac{1}{0.2}=\\frac{10}{2}=5\\)",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "5",
+            "6",
+            "10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2005,
+        "question": "From a point P, R is 5km due west and 12km due south. Find the distance between P and R",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23814292988_wamath0507ans.jpg\" class=\"img-fluid\">\n</div>Using Pythagoras theorem<br>\\(|PR|^2=|PO|^2+|OR|^2\\\\<br>|PR|^2=5^2+12^2\\\\<br>|PR|=\\sqrt{25+144}=\\sqrt{169}=13km\\)",
+        "correctIndex": 2,
+        "options": [
+            "5km",
+            "12km",
+            "13km",
+            "17km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2005,
+        "question": "A fair die is tossed once, what is the probability of obtaining neither 5 or 2",
+        "explanation": "Probability of obtaining a 5 is P(5)=\\(\\frac{1}{6}\\)<br>Probability of obtaining a 2 is P(2)=\\(\\frac{1}{6}\\)<br>Probability of obatining either 2 or 5 = P(2∪5) = \\(\\frac{2}{6}\\)<br>Probability of obtaining neither 5 or 2 = \\(1 - \\frac{2}{6}=\\frac{4}{6}=\\frac{2}{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{5}{6}\\)",
+            "\\(\\frac{2}{3}\\)",
+            "\\(\\frac{1}{2}\\)",
+            "\\(\\frac{1}{6}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11206746128_wamath0509.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19611805724_wamath0509.jpg\" class=\"img-fluid\">\n</div>∠KPM = 360<sup>o</sup>- (30 + 45)<sup>o</sup><br>= 360<sup>o</sup>- 75<sup>o</sup>= 285<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "285<sup>o</sup>",
+            "255<sup>o</sup>",
+            "225<sup>o</sup>",
+            "210<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15413183896_wamath0510.jpg\" class=\"img-fluid\">",
+        "explanation": "180 = ∠RPQ + ∠PRQ + ∠PQR Since PQR = 90 (theorem: angle in a semi circle)<br>180 = ∠RPQ + ∠PRQ + 90 =&gt; 180<sup>o</sup>= (3x-8)<sup>o</sup>+(2y-7)<sup>o</sup>+90<sup>o</sup>; 90+8+7 = 3x+2y =&gt;\\(\\frac{105-2y}{3}=x\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(x=\\frac{75-2y}{3}\\)",
+            "\\(x=\\frac{105-3y}{2}\\)",
+            "\\(x=\\frac{105-2y}{3}\\)",
+            "\\(x=\\frac{75-3y}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2005,
+        "question": "Convert 101101<sub>two</sub>to a number in base ten",
+        "explanation": "101101<sub>2</sub>= 1 x 2<sup>5</sup>+ 0 x 2<sup>4</sup>+ 1 x 2<sup>3</sup>+ 1 x 2<sup>2</sup>+ 0 x 2<sup>1</sup>+ 1 x 2<sup>0</sup>= 32 + 0 + 8 + 4 + 0 + 1 = 45<sub>10</sub>",
+        "correctIndex": 2,
+        "options": [
+            "61",
+            "46",
+            "45",
+            "44"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2005,
+        "question": "Solve the equation \\(2^7 = 8^{5-x}\\)",
+        "explanation": "\\(2^7 = 2^{3(5-x)}\\Rightarrow 7 = 3^{5-x} \\Rightarrow 7 15 - 3x\\\\<br>\\Rightarrow -8 = -3x \\Rightarrow x = \\frac{8}{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{5}{8}\\)",
+            "\\(\\frac{8}{3}\\)",
+            "\\(\\frac{3}{2}\\)",
+            "\\(\\frac{15}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2005,
+        "question": "expand (2x-3y)(x-5y)",
+        "explanation": "\\((2x-3y)(x-5y)=2x^2 - 10xy - 3xy + 15y^2\\\\<br>=2x^2 - 13xy + 15y^2\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(2x^2 + 13xy - 15y^2\\)",
+            "\\(2x^2 - 13xy - 15y^2\\)",
+            "\\(2x^2 + 13xy + 15y^2\\)",
+            "\\(2x^2 - 13xy + 15y^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2005,
+        "question": "Make f the subject of the relation \\(v = u + ft\\)",
+        "explanation": "\\(v=u+ft \\Rightarrow v-u=ft\\Rightarrow f=\\frac{v-u}{t}\\)",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{v-u}{t}\\)",
+            "\\(\\frac{u-v}{t}\\)",
+            "\\(t(v+u\\)",
+            "\\(\\frac{v}{u}-t\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2005,
+        "question": "The lengths of the adjacent sides of a right - angled triangle are xcm, (x-1)cm. If the length of the hypotenuse is \\(\\sqrt{13}cm\\), find the value of x",
+        "explanation": "\\(x^2+(x-1)^2 = (\\sqrt{13})^2 \\Rightarrow x^2 + x^2 - 2x + 1 = 13\\\\<br>2x^2 - 2x - 12 = 0\\) dividing through by 2<br>\\(x^2 - x- 6 = 0; (x-3)(x-2) = 0 \\Rightarrow x = 3 or -2 \\)",
+        "correctIndex": 1,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2005,
+        "question": "<p>The probability that John and James pass an examination are 3/4 and 3/5 respectively, find the probability of both boys failing the examination</p>",
+        "explanation": "<p>Prob.(John pass)\\(=frac{3}{4}\\) prob.(John fail) \\(=1-frac{3}{4}=\\frac{1}{4}\\)<br>\nProb.(James pass) \\(=frac{3}{5}\\) Prob.(James fail) \\(=1-frac{3}{5}=\\frac{2}{5}\\)<br>\nProb(both boys fail)\\(=frac{1}{4}\\times \\frac{2}{5}=\\frac{1}{10}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{10}\\)",
+            "\\(\\frac{3}{10}\\)",
+            "\\(\\frac{9}{20}\\)",
+            "\\(\\frac{11}{20}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1401441080_wamath0516.jpg\" class=\"img-fluid\">",
+        "explanation": "The straight line MN = 180 = 2(x+30<sup>o</sup>) + 86<sup>o</sup>=&gt;<br>180 = 2x + 60<sup>o</sup>+ 86<sup>o</sup>=&gt; 180<sup>o</sup>= 2x + 146<sup>o</sup>=&gt; 2x = 180 - 46 = 34<sup>o</sup>=&gt; x = 34/2 = 17<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "13<sup>o</sup>",
+            "17<sup>o</sup>",
+            "28<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25232426712_wamath0517.jpg\" class=\"img-fluid\">",
+        "explanation": "Since ∠QRS = 180<sup>o</sup>- 30<sup>o</sup>= 150<sup>o</sup>and ∠SPQ = ∠QRS (theorem opp. angles in a parallelogram are equal) ∴ x = 150<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "95<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2005,
+        "question": "From a point R, 300m north of P, man walks eastward to a place Q which is 600m from P. Find the bearing of P from Q, correct to the nearest degreeee",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9810101385_wamath0518ans.jpg\" class=\"img-fluid\">\n</div>\\(cos\\theta = \\frac{adj}{hyp}=\\frac{300}{600}=\\frac{1}{2}\\\\<br>\\theta = cos^{-1}(0.5000)=60^{\\circ}\\)<br>The bearing of P from \\(Q = \\theta + 180 = 60 + 180 = 240^{\\circ}\\)",
+        "correctIndex": 3,
+        "options": [
+            "026<sup>o</sup>",
+            "045<sup>o</sup>",
+            "210<sup>o</sup>",
+            "240<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2005,
+        "question": "What is the diameter of a circle of area 77cm<sup>2</sup>[Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "\\(A=\\pi r^2 \\Rightarrow 77 = \\frac{22}{7} \\times \\frac{r^2}{1}\\Rightarrow r^2 = \\frac{77\\times 7}{22} \\Rightarrow r^2 = \\frac{49}{2}\\\\<br>\\Rightarrow r = \\sqrt{\\frac{49}{2}}=\\frac{7}{\\sqrt{2}}. Since D = 2r ∴ D = 2 \\times \\frac{7}{\\sqrt{2}} = \\frac{14}{\\sqrt{2}} \\times \\frac{\\sqrt{2}}{\\sqrt{2}} = 7\\sqrt{2}cm\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{\\sqrt{2}}{7}cm\\)",
+            "\\(3\\frac{1}{2}cm\\)",
+            "7cm",
+            "\\(7\\sqrt{2}cm\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2005,
+        "question": "Solve the equation 2x - 3y = 22; 3x + 2y = 7",
+        "explanation": "2x - 3y = 22 ---- eqn I<br>3x + 2y = 7 ---- eqn II<br>multiply eqn I by 2<br>4x - 6y = 44 ---- eqn III<br>multiply eqn II by 3<br>9x + 6y = 21 ---- eqn IV<br>Adding eqn III and IV<br>=&gt; 13x = 65 =&gt; x = 5<br>Substituting 5 for x in eqn II<br>3x5 + 2y = 7 =&gt; 2y = -8<br>y = -4",
+        "correctIndex": 1,
+        "options": [
+            "-5",
+            "-4",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2005,
+        "question": "Solve the equation \\(\\frac{2y-1}{3} - \\frac{3y-1}{4} = 1\\)",
+        "explanation": "\\(\\frac{4(2y-1)-3(3y-1)}{12}=12 \\Rightarrow 12 8y - 4 - 9y + 3 = 12 \\\\<br>\\Rightarrow -y-1=12\\Rightarrow -y=13\\Rightarrow y=-13\\)",
+        "correctIndex": 1,
+        "options": [
+            "-8",
+            "-13",
+            "13",
+            "19"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2005,
+        "question": "If \\(log_9x= 1.5\\),find x",
+        "explanation": "\\(log_9x= 1.5\\Rightarrow x = 9^{1.5} = 9^{\\frac{3}{2}}=(3^2)^{\\frac{3}{2}}=3^3=27\\)",
+        "correctIndex": 1,
+        "options": [
+            "36",
+            "27",
+            "24.5",
+            "13.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2005,
+        "question": "A sequence is given by \\(2\\frac{1}{2}, 5, 7\\frac{1}{2}, .....\\) if the nth term is 25, find n",
+        "explanation": "\\(a = 2\\frac{1}{2}, nth = a + (n-1)d \\Rightarrow 25 = 2\\frac{1}{2} + (n-1)2\\frac{1}{2}\\\\<br>25 = \\frac{5}{2}+(n-1)\\frac{5}{2} \\Rightarrow 22\\frac{1}{2} = \\frac{5n-5}{2}\\Rightarrow \\frac{45}{2} = \\frac{5n-5}{2}\\\\<br>45 = 5n - 5 \\Rightarrow 5n = 50 \\Rightarrow n = 10\\)",
+        "correctIndex": 1,
+        "options": [
+            "9",
+            "10",
+            "12",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2005,
+        "question": "Given that the root of an the equation \\(2x^2 + (k+2)x+k=0\\) is 2, find the value of k",
+        "explanation": "Substituting for x in the equation<br>\\(2(2)^2 + (k+2)2+k = 0 \\Rightarrow 8 +2k + 4 + k =0 \\Rightarrow 3k =-12; k=-4\\)",
+        "correctIndex": 0,
+        "options": [
+            "-4",
+            "-2",
+            "-1",
+            "\\(-\\frac{1}{4}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2005,
+        "question": "Find the mean of the numbers 1, 3, 4, 8, 8, 4 and 7",
+        "explanation": "mean \\(=\\frac{1+3+4+8+8+4+7}{7}=\\frac{35}{7}=5\\)",
+        "correctIndex": 1,
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2005,
+        "question": "What is the total surface area of a closed cylinder of height 10cm and diameter 7cm? [Take \\(\\pi = \\frac{22}{7}\\)]",
+        "explanation": "T.S.A of s closed cylinder = \\(2\\pi r(r+h)\\\\<br>=\\frac{2}{1}\\times \\frac{22}{7} \\times \\frac{7}{2}\\left(\\frac{7}{2}+\\frac{10}{1}\\right)=\\frac{22}{1}\\left(\\frac{27}{2}\\right)=27\\time 11=297cm^2\\)",
+        "correctIndex": 2,
+        "options": [
+            "77cm<sup>2</sup>",
+            "227cm<sup>2</sup>",
+            "297cm<sup>2</sup>",
+            "374cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2005,
+        "question": "An arc of a circle of radius 14cm subtends angle 300<sup>o</sup>at the center. Find the perimeter of the sector formed by the arc",
+        "explanation": "The perimeter of the sector \\(=2r+\\frac{\\theta}{360}\\times 2\\pi r \\\\<br>\\Rightarrow 28 + \\frac{300}{360} \\times \\frac{2}{1} \\times \\frac{22}{7}\\times \\frac{14}{1} = \\frac{220}{3}+28\\\\<br>73.133+28=101.33cm\\)",
+        "correctIndex": 2,
+        "options": [
+            "14.67cm",
+            "42.67cm",
+            "101.33cm",
+            "543.33cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2005,
+        "question": "which of the following statements describes the locus of a point R which moves in a plane such that its equidistant from two intersecting lines?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "the bisector of the angle formed by the lines",
+            "the point of intersection of the two lines",
+            "A cone, with two intersecting lines as slant height",
+            "A circle, with the point of intersection of the two lines as the center"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2005,
+        "question": "P = {3, 9, 11, 13} and Q = {3, 7, 9, 15} are subset of the universal set ξ = {1, 3, 7, 9, 11, 13, 15} find P<sup>I</sup>∩ Q<sup>I</sup>",
+        "explanation": "P<sup>I</sup>= {1, 7, 15} ; Q<sup>I</sup>= {1, 13, 11}<br>P<sup>I</sup>∩ Q<sup>I</sup>= {1}",
+        "correctIndex": 2,
+        "options": [
+            "{3, 9}",
+            "{5, 7, 9}",
+            "{1}",
+            "{1, 11}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2005,
+        "question": "A train moving at a uniform speed covers 36km in 21 minutes. How long does it take to cover 60km?",
+        "explanation": "Since 36km in 21 minutes<br>1km in \\(\\frac{21}{36}\\)minutes<br>60km in \\(\\left(\\frac{21}{36}\\times 60\\right)\\)minutes = \\(\\frac{70}{2}\\)min<br>= 35 mins",
+        "correctIndex": 0,
+        "options": [
+            "35 mins",
+            "40 mins",
+            "45 mins",
+            "90 mins"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2005,
+        "question": "The salary of a man was increased in the ratio 40:47. calculate the percentage increase in the salary",
+        "explanation": "\\(\\%Increase = \\frac{Actual \\hspace{1mm}increase}{initial \\hspace{1mm}ratio}\\times 100\\%\\)<br>Actual increase = 7; Initial ratio = 40<br>\\(=\\left(\\frac{7}{40} \\times 100\\%\\right)=\\frac{35}{2}=17.5\\%\\)",
+        "correctIndex": 2,
+        "options": [
+            "85.1%",
+            "58.5%",
+            "17.5%",
+            "14.9%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2005,
+        "question": "A regular polygon has 9 sides. What is the size of one of its exterior angles?",
+        "explanation": "Exterior angle \\(=\\frac{360}{n}\\) where n = no of sides<br>\\(=\\frac{360}{9}=40^{\\circ}\\)",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "90<sup>o</sup>",
+            "140<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2005,
+        "question": "Simplify: \\(\\frac{2}{3xy} - \\frac{3}{yz}\\)",
+        "explanation": "\\(\\frac{2}{3xy} - \\frac{3}{yz} = \\frac{2(4)-3(3x)}{12xyz} = \\frac{8z-9x}{12xyz}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{2-x}{12xyz}\\)",
+            "\\(\\frac{2z-3x}{12xyz}\\)",
+            "\\(\\frac{4z-3x}{12xyz}\\)",
+            "\\(\\frac{8z-9x}{12xyz}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2005,
+        "question": "<p>The total surface area of the walls of a room 7m long, 5m wide and xm high is 96m2. Find the value of x</p>",
+        "explanation": "<p>T.S.A of the wall \\(=2(7\\times 5 + 7 \\times x + 5 \\times x) = 96\\\\<br>\n70 + 14x + 10x = 96 \\Rightarrow 24x = 96-70=26\\\\<br>\nx = \\frac{26}{24}=\\frac{13}{12}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{2}{3}\\)",
+            "2",
+            "4",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2005,
+        "question": "For what values of y is the expression \\(\\frac{6y-1}{y^2 - y-6}\\)",
+        "explanation": "The expression is not defines when y<sup>2</sup>- y - 6 = 0<br>=&gt; y<sup>2</sup>- 3y + 2y - 6 = 0 =&gt; (y-3)(y+2) = 0 =&gt; y<br>-3 = 0 or y + 2 = 0 =&gt; y = 3 or -2",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{6}, \\frac{1}{4}\\)",
+            "3, -2",
+            "-3, 2",
+            "0,1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25230921966_wamath0531.jpg\" class=\"img-fluid\">",
+        "explanation": "The two points of contact of the curve with the x-axis are x = 1 and x = 4. The roots of the equation are x = 1 and x = 4",
+        "correctIndex": 2,
+        "options": [
+            "-1 and 1",
+            "4 and 1",
+            "1 and 4",
+            "4 and 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9812037452_wamath0531.jpg\" class=\"img-fluid\">",
+        "explanation": "The factor for the curve are (x-1)(x-4). The product off the curves gives \\(=x^2-5x+4=y\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(y=x^2+6x+4\\)",
+            "\\(y=x^2-5x-4\\)",
+            "\\(y=x^2-5x+4\\)",
+            "\\(y=x^2+5x-4\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2803440956_wamath0542.jpg\" class=\"img-fluid\">",
+        "explanation": "∠QPT = ∠QTP = 70<sup>o</sup>. Since ∠QTR = 140<sup>o</sup><br>∠PRS = TSR = 1/2(180-40) = 70<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "40<sup>o</sup>",
+            "70<sup>o</sup>",
+            "80<sup>o</sup>",
+            "140<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2005,
+        "question": "The angle of elevation of the top of a cliff 15 meters high from a landmark is 60<sup>o</sup>. How far is the landmark from the foot of the cliff? Leave your answer in surd form",
+        "explanation": "\\(tan 60^{\\circ} = \\frac{15}{x} \\Rightarrow x = \\frac{15}{tan60^{\\circ}\\\\<br>x = \\left(\\frac{15}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}}\\right)m \\Rightarrow 5\\sqrt{3}m\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(15\\sqrt{3}m\\)",
+            "\\(15\\sqrt{2}m\\)",
+            "\\(10\\sqrt{3}m\\)",
+            "\\(5\\sqrt{3}m\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2005,
+        "question": "XOY is a real sector of a circle center O of radius 3.5cm which subtends an angle of 144<sup>o</sup>at the center. Calculate, in term of ϖ, the area of the sector",
+        "explanation": "Area of a sector \\(=\\frac{\\theta}{360}\\times \\pi r^2\\\\<br>\\left(\\frac{144}{360}\\times \\pi \\times \\frac{3.5}{1} \\times 3.5\\right)cm^2 = 4.9\\pi cm^2\\)",
+        "correctIndex": 2,
+        "options": [
+            "1.4ϖcm<sup>2</sup>",
+            "2.8ϖcm<sup>2</sup>",
+            "4.9ϖcm<sup>2</sup>",
+            "9.8ϖcm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2005,
+        "question": "A rectangular packet has inner dimension 16cm by 12cm by 6cm. How many cubes of sugar of side 2cm can be neatly packed into the packet?",
+        "explanation": "Volume of rectangular packet = (16 x 12 x 6)cm<sup>3</sup>= 1152cm<sup>3</sup>. Volume of cube of sugar = 2 x 2 x 2 = 8cm<br>∴ The number of cubes f sugar \\(=\\frac{1152}{8}=144\\)",
+        "correctIndex": 1,
+        "options": [
+            "90",
+            "144",
+            "150",
+            "288"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2005,
+        "question": "If \\(y \\alpha \\frac{1}{x^2}\\) and \\(y = 1\\frac{1}{4}\\) when x = 4, find the value of y when \\(x = \\frac{1}{2}\\)",
+        "explanation": "\\(y \\propto \\frac{1}{x^2} \\Rightarrow y = \\frac{k}{x^2} \\Rightarrow k = yx^2\\\\<br>k = 1\\frac{1}{4} \\times 4^2 \\Rightarrow k=\\frac{5}{4}\\times \\frac{16}{1}=20\\\\<br>∴y = 20 \\div \\left(\\frac{1}{2}\\right)^2=20\\times \\frac{4}{1}=80\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(2\\frac{1}{2}\\)",
+            "5",
+            "10",
+            "80"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2005,
+        "question": "Ladi sold a car for N84,000 at a loss of 4%. How much did ladi buy the car",
+        "explanation": "The car was sold at 96% ---- N84,000.00<br>The price of the car is 100% ---- ?<br>\\(\\frac{100}{96} \\times \\frac{84,000}{1}; 25 \\times 10,500 = 87,500 \\)",
+        "correctIndex": 3,
+        "options": [
+            "80,500",
+            "80,640",
+            "87,360",
+            "87,500"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2005,
+        "question": "The monthly salary of a man increased from N2,700 to N3,200. Find the percentage increase",
+        "explanation": "\\(\\% increase = \\frac{Increase}{initial\\hspace{1mm} salary}\\times 100\\%\\\\<br>Increase=N3,200 - N2,700 = N500\\\\<br>Initial \\hspace{1mm} salary=N2,700.00=\\frac{N500}{N2,700}\\times 100\\% = 18.5\\%\\)",
+        "correctIndex": 3,
+        "options": [
+            "10%",
+            "15%",
+            "15.6%",
+            "18.5%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15419865252_wamath0523.jpg\" class=\"img-fluid\">",
+        "explanation": "Reflex + ∠OML + ∠ONL + ∠NLM = 360<br>280<sup>o</sup>+ 10<sup>o</sup>+ 15<sup>o</sup>+ x = 360<sup>o</sup>=&gt; 305<sup>o</sup>+ x<sup>o</sup>= 360<sup>o</sup><br>x = 360<sup>o</sup>- 305<sup>o</sup>= 55<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "40<sup>o</sup>",
+            "50<sup>o</sup>",
+            "55<sup>o</sup>",
+            "75<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14018078670_wamath0527.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "|PO|=|RO|",
+            "PQR is an equilateral triangle",
+            "PQRX is a parallelogram",
+            "There are two lines of symmetry"
+        ],
+        "type": "objectives"
+    }
+]

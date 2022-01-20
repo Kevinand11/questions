@@ -1,0 +1,818 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2004,
+        "question": "The molecular structure of a liquid is such that",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "the molecules have unlimited freedom of movement",
+            "molecular movement is restricted to vibration only",
+            "intermolecular collisions take place",
+            "all molecules moves move with the same speed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2004,
+        "question": "Which of the following statements about the mass and the weight of a body is not correct? its",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "mass is a scalar quantity",
+            "weight is a function of the gravitational pull on it",
+            "mass on earth and on the moon is the same",
+            "weigh at the equatior and at the poles is the same"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2004,
+        "question": "An object weighs 60.0N in air, 48.2N in a certain liquid X, and 44.9N in water, Calculate the relative density of X",
+        "explanation": "R.d = Wt in Air-Wt in Air-Wt in water<br><br>= \\(\\frac{60.0 - 48.2}{60.0 - 44.9}\\)<br><br>= 0.782",
+        "correctIndex": 3,
+        "options": [
+            "3.300",
+            "1.279",
+            "0.932",
+            "0.782"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2004,
+        "question": "Calculate the change in volume when 90g of ice is completely melted. [density of water = 1g cm<sup>-3</sup>, density of ice = 0.9cm<sup>-3</sup>]",
+        "explanation": "\\(\\Delta\\)y = V<sub>ice</sub>- V<sub>water</sub><br><br>= \\(\\frac{90}{0.9} - \\frac{90}{1} = 10cm^3\\)",
+        "correctIndex": 2,
+        "options": [
+            "0.00cm<sup>3</sup>",
+            "9.00cm<sup>3</sup>",
+            "10.00cm<sup>3</sup>",
+            "90.00cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5720560400_maths-18.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "20 Hz",
+            "10 Hz",
+            "5 Hz",
+            "4 Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2004,
+        "question": "Which of the following concept is not an evidence of the particle nature of matter?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "diffusion",
+            "brownian motion",
+            "diffraction",
+            "crystallization"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2004,
+        "question": "A diver is 5.2m below the surface of water of density 1000Kgm<sup>-3</sup>. If the atmospheric pressure is 1.02 x 10<sup>5</sup>pa. Calculate the pressure on the diver [g = 10ms<sup>-2</sup>]",
+        "explanation": "P = hpg + A.P<br><br>= 5.2 x 1000 x 10 + 1.02 x 10<sup>5</sup><br><br>= 1.54 x 10<sup>5</sup>",
+        "correctIndex": 2,
+        "options": [
+            "6.20 x 10<sup>4</sup>pa",
+            "1.02 x 10<sup>5</sup>pa",
+            "1.54 x 10<sup>5</sup>pa",
+            "5.20 x 10<sup>5</sup>pa"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2004,
+        "question": "A steel needle floating on water, sinks when kerosine is added to the water. This is because the kerosine",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "increased the surface tension of the water",
+            "reduces the density of the water",
+            "reduces the surface tension of the water",
+            "reduces the upthrust on the needle"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2004,
+        "question": "On which of the following factor does the viscosity of a liquid depend? i. Nature of the liquid. ii. Temperature of the liquid. iii. Area of the liquid surface",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "i and ii only",
+            "ii and iii only",
+            "i and iii only",
+            "i, ii and iii"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2004,
+        "question": "An elastic string of force constant 200N m<sup>-1</sup>is stretched through 0.8m within its elastic limit. Calculate the energy stored in the string",
+        "explanation": "E = \\(\\frac{1}{2}Ke^2\\)<br><br>= \\(\\frac{1}{2} \\times 200(0.8)^2 = 64J\\)",
+        "correctIndex": 0,
+        "options": [
+            "64.0J",
+            "80.0J",
+            "128.0J",
+            "160.0J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2004,
+        "question": "A machine of velocity ratio 5 is used in lifting a load with an effort of 500N. If the machine is 80% efficient. Determine the magnitude of load",
+        "explanation": "M.A = \\(\\frac{Eff \\times V.r}{100} = \\frac{80 \\times 5}{100} = 4\\)<br><br>Load = effort x M.A<br><br>= 4 x 500 = 2000N",
+        "correctIndex": 1,
+        "options": [
+            "2500N",
+            "2000N",
+            "900N",
+            "625N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2004,
+        "question": "The speed of an object in rectilinear motion can be determine from the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "area under a velocity-time graph",
+            "area under a distance-time graph",
+            "slope of a distance-time graph",
+            "slope of a velocity-time graph"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2004,
+        "question": "A body is said to be moving with uniform acceleration if it experiences equal",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "increase in velocity at equal time intervals",
+            "decreases in velocity at equal time intervals",
+            "increases in speed at equal time intervals",
+            "decreases in speed at equal time intervals"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2004,
+        "question": "<p>A body is dropped from a certain height above the ground level, falls with uniform</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "speed",
+            "velocity",
+            "acceleration",
+            "retardation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2004,
+        "question": "A body of mass 8kg moving with a speed of 30ms<sup>-1</sup>is brought to rest in 2.5s by a constant retarding force. Calculate the magnitude of the force",
+        "explanation": "F = ma = \\(\\frac{mv}{t} = \\frac{8 \\times 30}{2.5} = 96\\)",
+        "correctIndex": 1,
+        "options": [
+            "240N",
+            "96N",
+            "20N",
+            "9N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2004,
+        "question": "A force acting on a body causes a change in the momentum of the body from 12kg ms<sup>-1</sup>to 16kg ms<sup>-1</sup>in 0.2s. calculate the magnitude of the force",
+        "explanation": "F = \\(\\frac{mv - mu}{t} = \\frac{16 - 12}{0.2} = 20N\\)",
+        "correctIndex": 1,
+        "options": [
+            "140.0N",
+            "20.0N",
+            "4.0N",
+            "0.8N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2004,
+        "question": "The bob of a single pendulum has a mass of 0.02kg. Determine the weight of the bob [g = 10ms<sup>-2</sup>]",
+        "explanation": "Wt = mg = 0.02 x 10 = 0.2N",
+        "correctIndex": 1,
+        "options": [
+            "0.02N",
+            "0.20N",
+            "20.00N",
+            "200.00N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2004,
+        "question": "A ball bearing is projected vertically upwards from the ground with a velocity of 15ms<sup>-1</sup>. Calculate the time taken by the ball to return to the ground [g = 10ms<sup>-1</sup>]",
+        "explanation": "t = 2\\(\\frac{(v - u)}{g} = 2\\frac{(0 - 15)}{-10}\\)<br><br>\\(\\frac{2 \\times 15}{10}\\) = 3.0s",
+        "correctIndex": 1,
+        "options": [
+            "1.5s",
+            "3.0s",
+            "5.0s",
+            "7.5s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2004,
+        "question": "A loaded spring performs simple harmonic motion with an amplitude of 5cm. If the maximum acceleration of the load is 20cm s<sup>-1</sup>, calculate the angular frequency of the motion",
+        "explanation": "w = \\(\\frac{v}{g} = \\frac{0.2}{0.05}\\)<br><br>= 4 rad s<sup>-1</sup>",
+        "correctIndex": 1,
+        "options": [
+            "2 rad s<sup>-1</sup>",
+            "4 rad s<sup>-1</sup>",
+            "5 rad s<sup>-1</sup>",
+            "10 rad s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2004,
+        "question": "<p>When compared with water, mercury is preferred as a thermometric liquid because</p>",
+        "explanation": "<p>Specific Heat Capacity of mercury and water are 0.14 Jg\\(^{-1}\\)C\\(^{-1}\\) and 4.186Jg\\(^{-1}\\)C\\(^{-1}\\) respectively.</p>",
+        "correctIndex": 1,
+        "options": [
+            "has a higher density",
+            "has lower specific heat capacity",
+            "exhibits anomalous thermal expansion",
+            "contains molecules which have very strong adhesive forces"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2004,
+        "question": "Which of the following values on the absolute scale of temperature is the ice point?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "0K",
+            "32K",
+            "100K",
+            "273k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2004,
+        "question": "On a cold day, a concrete floor feels colder to the bear foot then a mat on the same floor because the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "is better conductor of heat than the foot",
+            "mat loses heat to the bare foot at a faster rate",
+            "mat is better conductor of heat than the floor",
+            "concrete floor is a better conductor of heat than the mat"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2004,
+        "question": "When a metal ball is heated through 30<sup>o</sup>C,its volume becomes 1.0018cm<sup>3</sup>. If the linear expansivity of the material of the ball is 2.0 x 10<sup>-5</sup>K<sup>-1</sup>, calculate its original volume",
+        "explanation": "\\(V_1 = \\frac{V_2}{3} = \\frac{1.0018}{3 \\times 2.0 \\times 10^{-5} \\times 30 + 1}\\)<br><br>= 1cm<sup>3</sup>",
+        "correctIndex": 0,
+        "options": [
+            "1.0000cm<sup>3</sup>",
+            "1.0020cm<sup>3</sup>",
+            "1.0036cm<sup>3</sup>",
+            "1.0180cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2004,
+        "question": "A faulty barometer reads 72.6cm Hg when the atmospheric pressure is 75.0cm Hg. Calculate the atmospheric pressure when the barometer reads 72.0cn Hg",
+        "explanation": "At 77cm Hg, A.P = \\(\\frac{75.0 \\times 72.0}{72.6} = 74.38\\)",
+        "correctIndex": 1,
+        "options": [
+            "79.4cm Hg",
+            "74.38cm Hg",
+            "74.2cm Hg",
+            "69.4cm Hg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2004,
+        "question": "On a basis of the kinetic theory, an increase in the temperature of a fixed volume of an ideal gas causes",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a incease in the number of gas molecules",
+            "a decrease in the density of the gass",
+            "an increase in the average speed of the gas molecules",
+            "a decrease in pressure exerted by the gas"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2004,
+        "question": "The temperature of 900cm<sup>3</sup>of an ideal gas at a pressure of 114cm Hg is 27<sup>o</sup>C. Calculate its volume at 76cm Hg and 0<sup>o</sup>C",
+        "explanation": "\\(V_2 = \\frac{P_1V_1T_2}{T_1P_2} = \\frac{114 \\times 900 \\times 273}{300 \\times 76}\\)<br><br>= 1228.5cm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "50.0cm<sup>3</sup>",
+            "546.0cm<sup>3</sup>",
+            "659.3cm<sup>3</sup>",
+            "1228.5cm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2004,
+        "question": "The basic difference between a transverse wave and a longitudinal wave travelling in the same direction in a medium is in the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "amplitude of the wave",
+            "wavelength of the wave",
+            "direction of vibration of the particles of the medium",
+            "period of vibration of the particle of the medium"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2004,
+        "question": "A wave travelling from water to glass suffers a change in its speed at the common boundary. Which of the following properties explains this observation?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "dispersion",
+            "refraction",
+            "interference",
+            "diffraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2004,
+        "question": "The image of an optical pin placed at the principal focus of a concave mirror will be formed",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "between the principal focus and the pole",
+            "at the centre of the curvature",
+            "between the principal focus and the centre of curvature",
+            "at infinity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2004,
+        "question": "A man 1.8m tall stands 3m away from a pin hole camera. If the distance between the pin hole and the screen of the camera is 0.3m. Calculate the height of the image of the man produced by the camera",
+        "explanation": "hi = \\(\\frac{ho \\times v}{u} = \\frac{1.8 \\times 0.3}{3} = 0.18m\\)",
+        "correctIndex": 0,
+        "options": [
+            "0.18m",
+            "0.50m",
+            "1.62m",
+            "18.00m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2004,
+        "question": "During a thunderstorm, lightning and thunder occurred simultaneously in the atmosphere. An observer on the earth surface's sees the lightning flash shortly before hearing the thunder. This is because the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "atmospheric pressure is higher at the surface than at the higher altitudes",
+            "speed of sound is less than that of light",
+            "temperature of the atmosphere decreases with altitude",
+            "atmospheric density decreases with altitude"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2004,
+        "question": "A magnified and virtual image of a near object is produced by",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "prism binoculas",
+            "astronomical telescope",
+            "periscope",
+            "simple microscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2004,
+        "question": "A girl stand 80m away from a tall cliff and blows a whistle. If the speed of sound in air is 330ms<sup>-1</sup>, how long would it take for her to hear the echo of the sound?",
+        "explanation": "t = \\(\\frac{2x}{v} = \\frac{2 \\times 80}{330} = 0.485s\\)",
+        "correctIndex": 2,
+        "options": [
+            "2.062s",
+            "0.970s",
+            "0.485s",
+            "0.242s"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2004,
+        "question": "Which of the following reasons explains why the walls and ceilings of a standard concert hall are usually covered with perforated pads? To",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "increase the intensity of sound waves",
+            "increases the loudness of the sound waves",
+            "reduce the effect of revibration of sound waves",
+            "decreases thr frequency of sound waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2004,
+        "question": "The sound from a vibrating tuning sound is when the tip of its stem is placed on a wooden table than when in air because",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "the friction between the table and the tuning fork generates additional energy",
+            "air molecules obsorb sound wave but wood transmit sound waves",
+            "the table increases the frequency of the turning fork",
+            "a large mass of air is set into vibration by the table"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2004,
+        "question": "Charges on a conductor are",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "evenly distributed over a surface of any shape",
+            "concentrate on the inner surface of the conductor",
+            "concentrate at the outer flat surface of the conductor",
+            "generally concentrated at sharply curved surface"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2004,
+        "question": "Which of following functions is performed by manganese IV oxide in the Lenclanche cell?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "control of local action",
+            "depolarisation of the cell",
+            "regulating current flow in the cell",
+            "reduction of the internal resistance of the cell"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2004,
+        "question": "A car fuse marked 3A operates optimally on a 12V battery, calculate the resistance of the fuse",
+        "explanation": "R = \\(\\frac{v}{I} = \\frac{12}{3} = 4\\Omega\\)",
+        "correctIndex": 3,
+        "options": [
+            "36.0\\(\\Omega\\)",
+            "15.0\\(\\Omega\\)",
+            "9.0\\(\\Omega\\)",
+            "4.0\\(\\Omega\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2004,
+        "question": "Find the cost of running a 60W lamp for 24 hours. If 1kW hr cost 5 naira",
+        "explanation": "Cost = P(Kwh) x Cost per KW<br><br>= \\(\\frac{60 \\times 24}{1000} \\times N5 = N7.2\\)",
+        "correctIndex": 2,
+        "options": [
+            "14.4 naira",
+            "12.5 naira",
+            "7.2 naira",
+            "2.0 naira"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2004,
+        "question": "The quantity of electric charge stored in a capacitor is measured in",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "farad",
+            "ampere",
+            "coulomb",
+            "volt"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2004,
+        "question": "Calculate the energy stored in a 20\\(\\mu F\\) capacitor. If the p.d between the plates is 40V",
+        "explanation": "W = \\(\\frac{cv^2}{2} = \\frac{20 \\times 10^{-6} \\times 40^{2}}{2}\\)<br><br>= 1.6 x 10<sup>-2</sup>J",
+        "correctIndex": 1,
+        "options": [
+            "3.2 x 10<sup>-2</sup>J",
+            "1.6 x 10<sup>-2</sup>J",
+            "8.0 x 10<sup>-4</sup>J",
+            "4.0 x 10<sup>-4</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2004,
+        "question": "Given that the gravitational constant is G. Newton's universal law of gravitation states that the force of attraction between two masses M<sub>1</sub>and M<sub>2</sub>separation by a distance r is",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "\\(Gr^2 M_1M_2\\)",
+            "\\(Gr M_1M_2\\)",
+            "\\(\\frac{GM_1 M_2}{r^2}\\)",
+            "\\(\\frac{GM_1 M_2}{r}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2004,
+        "question": "A charge of 1.6 x 10<sup>-10</sup>C is placed in a uniform electric field of intensity 2.0 x 10<sup>5</sup>NC<sup>-1</sup>. calculate the magnitude of the electric force exerted on the change",
+        "explanation": "F = Exq = 2.0 x 10<sup>5</sup>x 1.6 x 10<sup>-10</sup><br><br>= 3.2 x 10<sup>-5</sup>N",
+        "correctIndex": 2,
+        "options": [
+            "3.2 x 10<sup>5</sup>N",
+            "1.8 x 10<sup>5</sup>N",
+            "3.2 x 10<sup>-5</sup>N",
+            "1.8 x 10<sup>-5</sup>N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2004,
+        "question": "Which of the following statements is not correct?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a magnetic field is a region in which a magnetic force will be detected",
+            "a magnetic line of force is a path along which a magnetic fields are scalar quantities it were free",
+            "magnetic fields are scalar quantities",
+            "neutral point are obtained where the earth's magnetic force is exactly equal and opposite to that due to a magnet"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2004,
+        "question": "The main function of the mouth piece of a telephone is that it converts sound energy to",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "mechanical energy",
+            "electrical energy",
+            "chemical energy",
+            "thermal energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2004,
+        "question": "An atom is normally electrically neutral because the",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "number of electrons is equal to the number of protons",
+            "number of electrons is equal to the number of neutrons",
+            "number of protons is equal to the number of neutrons",
+            "electrons of the atom are buried deeply in the nucleus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2004,
+        "question": "In which of the following devices is the principle of photoelectric effect not applicable?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "close-circuit television camera",
+            "burglar alarm",
+            "solar cells",
+            "periscope"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2004,
+        "question": "Which of the following statements about X-rays is not correct? They",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "are electromagnetic waves",
+            "can be used to study crystal lattice",
+            "can destroy living cells",
+            "are produced from the nucleus of an atom"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2004,
+        "question": "A radioactive substance has a half-life of 3 days. If a mass of 1.55g of this substance is left after decaying for 15 days, determine the original value of the mass",
+        "explanation": "\\(1 \\to \\frac{1}{2} \\to \\frac{1}{4} \\to \\frac{1}{8} \\to \\frac{1}{16} \\to \\frac{1}{32}\\)<br><br>\\(\\frac{1}{32} = 1.55g\\)<br><br>1 = 1.55 x \\(\\frac{32}{1} = 49.6g\\)",
+        "correctIndex": 0,
+        "options": [
+            "49.6g",
+            "37.2g",
+            "24.8g",
+            "12.4g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2004,
+        "question": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
+        "explanation": "\\(X^{A = p + n = 28 + 30 = 58}_{Z = P = E = 28}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(^{30}_{28} X\\)",
+            "\\(^{28}_{30} X\\)",
+            "\\(^{58}_{30} X\\)",
+            "\\(^{58}_{28} X\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 51,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10011582154_dddeeeeeeee.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "focal legth of the lens",
+            "thickness of the lens",
+            "radius of curvature of the lens",
+            "diameter of the lens"
+        ],
+        "type": "objectives"
+    }
+]

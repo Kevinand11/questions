@@ -1,0 +1,137 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2018,
+        "question": "<p>If \\(\\begin{vmatrix} x - 3 &amp; -4 &amp; 3 \\\\ 5 &amp; 2 &amp; 2 \\\\ 2 &amp; -4 &amp; 6 - x \\end{vmatrix} = -24 \\), find the values of x.</p>",
+        "answer": "<p>\\(\\begin{vmatrix} x - 3 &amp; -4 &amp; 3 \\\\ 5 &amp; 2 &amp; 2 \\\\ 2 &amp; -4 &amp; 6 - x \\end{vmatrix} = -24\\)</p><p>\\((x - 3)[2(6 - x) + 8] + 4[5(6 - x) - 4] + 3[- 20 - 4] = -24\\)</p><p>\\((x - 3)[12 - 2x + 8] + 4[30 - 5x - 4] + 3[-24] = -24\\)</p><p>\\((x - 3)(20 - 2x) + 4(26 - 5x) - 72 = -24\\)</p><p>\\((x - 3)(20 - 2x) + 4(26 - 5x) = - 24 + 72 = 48\\)</p><p>\\(20x - 2x^{2} - 60 + 6x + 104 - 20x = 48\\)</p><p>\\(-2x^{2} + 6x - 4 = 0\\)</p><p>\\(2x^{2} - 6x + 4 = 0\\)</p><p>Solving the equation, we get x = 1 or 2.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2018,
+        "question": "<p>Given that \\(\\log_{3} x - 3\\log_{x} 3 + 2 = 0\\), find the values of x.</p>",
+        "answer": "<p>\\(\\log_{3} x - 3\\log_{x} 3 + 2 = 0\\)</p><p>\\(\\log_{3} x - 3\\log_{x} 3 + 2 = 0\\)</p><p>Let \\(\\log_{3} x = a\\), then \\(\\log_{x} 3 = \\frac{1}{a}\\).</p><p>\\(a - \\frac{3}{a} + 2 = 0\\)</p><p>\\(a^{2} + 2a - 3 = 0\\)</p><p>\\(a^{2} - a + 3a - 3 = 0\\)</p><p>\\(a(a - 1) + 3(a - 1) = 0\\)</p><p>\\((a - 1)(a + 3) = 0\\)</p><p>\\(\\text{a = 1 or -3}\\)</p><p>\\(\\log_{3} x = 1 \\implies x = 3^{1} = 3\\)</p><p>\\(\\log_{3} x = -3 \\implies x = 3^{-3} = \\frac{1}{27}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2018,
+        "question": "<p>(a) Using the substitution \\(u = x - 2\\), write \\(\\frac{x^{3} + 5}{(x - 2)^{4}}\\) as an expression in terms of u.</p><p>(b) Using the answer in (a), express \\(\\frac{x^{3} + 5}{(x - 2)^{4}}\\) in partial fractions.</p>",
+        "answer": "<p>(a) \\(u = x - 2 \\implies x = u + 2\\)</p><p>\\(\\frac{x^{3} + 5}{(x - 2)^{4}}\\) becomes \\(\\frac{(u + 2)^{3} + 5}{u^{4}}\\)</p><p>= \\(\\frac{u^{3} + 6u^{2} + 12u + 8 + 5}{u^{4}}\\)</p><p>= \\(\\frac{u^{3} + 6u^{2} + 12u + 13}{u^{4}}\\)</p><p>= \\(\\frac{1}{u}\\) + \\(\\frac{6}{u^{2}}\\) + \\(\\frac{12}{u^{3}}\\) + \\(\\frac{13}{u^{4}}\\)</p><p>(b) \\(\\frac{x^{3} + 5}{(x - 2)^{4}}\\) = \\(\\frac{1}{x - 2}\\) + \\(\\frac{6}{(x - 2)^{2}}\\) + \\(\\frac{12}{(x - 2)^{3}}\\) + \\(\\frac{13}{(x - 2)^{4}}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2018,
+        "question": "<p>The sum of the first twelve terms of an Arithmetic Progression is 168. If the third term is 7, find the values of the common difference and the first term.</p>",
+        "answer": "<p>A.P ; \\(S_{12} = 168 ; T_{3} = 7\\)</p><p>\\(S_{n} = \\frac{n}{2}(2a + (n - 1) d)\\)</p><p>\\(T_{n} = a + (n - 1)d\\)</p><p>\\(168 = \\frac{12}{2}(2a + (12 - 1)d \\implies 168 = 6(2a + 11d)\\)</p><p>\\(168 = 12a + 66d \\implies 84 = 6a + 33d ..... (1)\\)</p><p>\\(7 = a + 2d .... (2)\\)</p><p>From (2), a = 7 - 2d. Put into (1), we have</p><p>\\(84 = 6(7 - 2d) + 33d \\)</p><p>\\(84 = 42 - 12d + 33d \\implies 84 - 42 = 21d\\)</p><p>\\(21d = 42 \\implies d = 2\\)</p><p>\\(a = 7 - 2(2) = 7 - 4 = 3\\)</p><p>\\(a(\\text{first term}) = 3 ; d(\\text{common difference}) = 2\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2018,
+        "question": "<p>Two panel of judges, X and Y, rank 8 brands of cooking oil as follows :</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Cooking oil type</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>D</td>\n<td>E</td>\n<td>F</td>\n<td>G</td>\n<td>H</td>\n</tr>\n<tr>\n<td>X</td>\n<td>8</td>\n<td>5</td>\n<td>1</td>\n<td>7</td>\n<td>2</td>\n<td>6</td>\n<td>3</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Y</td>\n<td>6</td>\n<td>3</td>\n<td>4</td>\n<td>8</td>\n<td>5</td>\n<td>7</td>\n<td>1</td>\n<td>2</td>\n</tr>\n</tbody>\n</table><p>Calculate the Spearmann's rank correlation coefficient.</p><p> </p>",
+        "answer": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>\\(R_{X}\\)</td>\n<td>\\(R_{Y}\\)</td>\n<td>\\(D = R_{X} - R_{Y}\\)</td>\n<td>\\(D^{2}\\)</td>\n</tr>\n<tr>\n<td>8</td>\n<td>6</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>5</td>\n<td>3</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>1</td>\n<td>4</td>\n<td>-3</td>\n<td>9</td>\n</tr>\n<tr>\n<td>7</td>\n<td>8</td>\n<td>-1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>5</td>\n<td>-3</td>\n<td>9</td>\n</tr>\n<tr>\n<td>6</td>\n<td>7</td>\n<td>-1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>3</td>\n<td>1</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>4</td>\n<td>2</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Total</td>\n<td> </td>\n<td> </td>\n<td>36</td>\n</tr>\n</tbody>\n</table><p>Spearmann's rank correlation coefficient = \\(1 - \\frac{6\\sum D^{2}}{N(N^{2} - 1)}\\)</p><p>= \\(1 - \\frac{6(36)}{8(64 - 1)}\\)</p><p>= \\(1 - \\frac{216}{504}\\)</p><p>= \\(1 - 0.4286\\)</p><p>= \\(0.5714\\)</p><p>\\(\\approxeq 0.57\\).</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2018,
+        "question": "<p>(a) The probability that Kunle solves a particular question is \\(\\frac{1}{3}\\) while that of Tayo is \\(\\frac{1}{5}\\). If both of them attempt the question, find the probability that only one of them will solve the question.</p><p>(b) A committee of 8 is to be chosen from 10 persons. In how many ways can this be done if there is no restriction?</p>",
+        "answer": "<p>(a) \\(p(Kunle) = \\frac{1}{3} ; p(\\text{not Kunle}) = \\frac{2}{3}\\)</p><p>\\(p(Tayo) = \\frac{1}{5} ; p(\\text{not Tayo}) = \\frac{4}{5}\\)</p><p>\\(p(\\text{only one solve the question}) = p(\\text{Kunle and not Tayo}) + p(\\text{Tayo and not Kunle})\\)</p><p>= \\((\\frac{1}{3} \\times \\frac{4}{5}) + (\\frac{1}{5} \\times \\frac{2}{3})\\)</p><p>= \\(\\frac{4}{15} + \\frac{2}{15}\\)</p><p>= \\(\\frac{6}{15} = \\frac{2}{5}\\)</p><p>(b) 10 persons to choose 8</p><p>Number of ways = \\(^{10}C_{8}\\)</p><p>= \\(\\frac{10!}{(10 - 8)! 8!}\\)</p><p>= \\(\\frac{10 \\times 9}{2}\\)</p><p>= 45 ways.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2018,
+        "question": "<p>Given that \\(m = 3i - 2j ; n = 2i - 3j\\) and \\(p = -i + 6j\\), find \\(4m + 2n - 3p\\).</p>",
+        "answer": "<p>\\(m = 3i - 2j ; n = 2i - 3j ; p = -i + 6j\\)</p><p>\\(4m + 2n - 3p = 4(3i - 2j) + 2(2i - 3j) - 3(-i + 6j)\\)</p><p>= \\(12i - 8j + 4i - 6j + 3i - 18j\\)</p><p>= \\(19i - 32j\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2018,
+        "question": "<p>A body of mass 20kg moving with a velocity of 80ms\\(^{-1}\\) collides with another body of mass 30kg moving with a velocity of 50ms\\(^{-1}\\). If they both moved in the same direction after collision, find their common velocity if they moved in the :</p><p>(a) same direction before collision ; (b) opposite direction before collision.</p>",
+        "answer": "<p>(a)    <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%288%29.jpg\" style=\"height:50px; width:301px\"></p><p>Momentum before collision = \\((20 \\times 80) + (30 \\times 50) =  1600 + 1500\\)</p><p>= \\(3100 kgm/s\\)</p><p>Momentum after collision = 50v kgm/s</p><p>Momentum before collision = Momentum after collision</p><p>\\(3100 = 50v\\)</p><p>\\(v = \\frac{3100}{50} = 62m/s\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29%287%29.jpg\" style=\"height:50px; width:303px\"></p><p>Momentum before collision = \\((20 \\times 80) - (30 \\times 50) = 1600 - 1500\\)</p><p>= \\(100 kgm/s\\)</p><p>Momentum after collision = \\(50v kgm/s\\)</p><p>\\(\\therefore 100 = 50v\\)</p><p>\\(v = 2m/s\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2018,
+        "question": "<p>A circle is drawn through the points (3, 2), (-1, -2) and (5, -4). Find the :</p><p>(a) coordinates of the centre of the circle ;</p><p>(b) radius of the circle ;</p><p>(c) equation of the circle.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%284%29_LI%282%29.jpg\" style=\"height:237px; width:250px\"></p><p>\\((x - a)^{2} + (y - b)^{2} = r^{2}\\)</p><p>\\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2}\\)</p><p>Using A(3, 2) :</p><p>\\(9 - 6a + a^{2} + 4 - 4b + b^{2} = r^{2}\\)</p><p>\\(13 - 6a - 4b + a^{2} + b^{2} = r^{2} .... (1)\\)</p><p>Using B(-1, -2) :</p><p>\\(1 + 2a + a^{2} + 4 + 4b + b^{2} = r^{2}\\)</p><p>\\(5 + 2a + 4b + a^{2} + b^{2} = r^{2} .... (2)\\)</p><p>Using C(5, -4) :</p><p>\\(25 - 10a + a^{2} + 16 + 8b + b^{2} = r^{2}\\)</p><p>\\(41 - 10a + 8b + a^{2} + b^{2} = r^{2} ... (3)\\)</p><p>(1) - (2) :</p><p>\\(8 - 8a - 8b = 0 \\implies 1 - a - b = 0 .... (4)\\)</p><p>(3) - (2) :</p><p>\\(24 - 12a + 12 + 4b = 0 \\implies 36 - 12a + 4b = 0 \\)</p><p>\\(\\equiv 9 - 3a + b = 0... (5)\\)</p><p>Solving (4) and (5), we have :</p><p>\\(a = 2\\frac{1}{2} ; b = -1\\frac{1}{2}\\)</p><p>Coordinates of the centre : \\(C(2\\frac{1}{2}, -1\\frac{1}{2})\\).</p><p>(b) To get the radius, we can make use of any point on the circle as well as the centre.</p><p>Using point \\(A(3, 2) &amp; C(2\\frac{1}{2}, -1\\frac{1}{2})\\)</p><p>Radius = \\(\\sqrt{(3 - 2\\frac{1}{2})^{2} + (2 + 1\\frac{1}{2})^{2}}\\)</p><p>= \\(\\sqrt{\\frac{1}{4} + \\frac{49}{4}}\\)</p><p>= \\(\\sqrt{\\frac{50}{4}}\\)</p><p>= \\(\\frac{5\\sqrt{2}}{2} cm\\)</p><p>(c) Equation of the circle :</p><p>\\((x - 2\\frac{1}{2})^{2} + (y + 1\\frac{1}{2})^{2} = (\\frac{5\\sqrt{2}}{2})^{2}\\)</p><p>\\(x^{2} - 11x + \\frac{25}{4} + y^{2} + 3y + \\frac{9}{4} = \\frac{50}{4}\\)</p><p>\\(x^{2} + y^{2} - 11x + 3y + \\frac{34}{4} - \\frac{50}{4} = 0\\)</p><p>\\(x^{2} + y^{2} - 11x + 3y - 4 = 0\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2018,
+        "question": "<p>(a) Solve : \\(2^{3y + 2} - 7(2^{2y + 2}) - 31(2^{y}) - 8 = 0, y \\in R\\).</p><p>(b) Find \\(\\int (\\sqrt{x^{2} + 1}) xdx\\).</p>",
+        "answer": "<p>(a) \\(2^{3y + 2} - 7(2^{2y + 2}) - 31(2^{y}) - 8 = 0\\)</p><p>\\(\\equiv (2^{2})(2^{y})^{3} - 7(2^{2})(2^{y})^{2} - 31(2^{y}) - 8 = 0\\)</p><p>Let \\(2^{y} = x\\),</p><p>\\(4x^{3} - 28x^{2} - 31x - 8 = 0\\)</p><p>If x = 8, \\(4(8^{3}) - 28(8^{2}) - 31(8) - 8 = 2048 - 1792 - 248 - 8\\)</p><p>= \\(0\\)</p><p>\\(\\therefore (x - 8) \\text{is a factor}\\)</p><p>Dividing \\(\\frac{4x^{3} - 28x^{2} - 31x - 8}{x - 8}\\), we get</p><p>= \\(4x^{2} + 4x + 1 \\)</p><p>= \\((2x + 1)^{2}\\)</p><p>Therefore, \\(x = -\\frac{1}{2}, -\\frac{1}{2}, 8\\)</p><p>Recall, \\(x = 2^{y}\\)</p><p>\\(2^{y} = -\\frac{1}{2}\\) has no real solution.</p><p>\\(2^{y} = 8 = 2^{3} \\implies y = 3\\)</p><p>(b) \\(\\int (\\sqrt{x^{2} + 1}) xdx\\)</p><p>Let \\(u^{2} = x^{2} + 1; 2\\frac{\\mathrm d u}{\\mathrm d x} = 2x\\)</p><p>\\(\\mathrm d u = x \\mathrm d x\\)</p><p>\\(\\therefore \\int (\\sqrt{x^{2} + 1}) xdx = \\int (\\sqrt{u^{2}}) \\mathrm d u\\)</p><p>= \\(\\int u \\mathrm d u\\)</p><p>= \\(\\frac{u^{2}}{2} + c\\)</p><p>= \\(\\frac{x^{2} + 1}{2} + c\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2018,
+        "question": "<p>(a)(i) Write down the binomial expansion of \\((2 - \\frac{1}{2}x)^{5}\\) in ascending powers of x.</p><p>(ii) Using the expansion in (a)(i), find, correct to two decimal places, the value of \\((1.99)^{5}\\).</p><p>(b) The polynomial \\(x^{3} + qx^{2} + rx + 9\\), where q and r are constants, has (x + 1) as a factor and has a remainder -17 when divided by (x + 2). Find the values of q and r.</p>",
+        "answer": "<p>(a)(i) \\((2 - \\frac{1}{2}x)^{5} = ^{5}C_{5}(2)^{5}(-\\frac{1}{2}x)^{0} + ^{5}C_{4}(2)^{4}(-\\frac{1}{2}x)^{1} + ^{5}C_{3}(2)^{3}(-\\frac{1}{2}x)^{2} + ^{5}C_{2}(2)^{2}(-\\frac{1}{2}x)^{3} + ^{5}C_{1} (2)^{1}(-\\frac{1}{2}x)^{4} + ^{5}C_{0} (2)^{0}(-\\frac{1}{2}x)^{5}\\)</p><p>= \\(32 - 5(8x) + 10(2x^{2}) - 10(\\frac{x^{3}}{2}) + 5(\\frac{x^{4}}{8}) - \\frac{x^{5}}{32}\\)</p><p>= \\(32 - 40x + 20x^{2} - 5x^{3} + \\frac{5}{8}x^{4} - \\frac{1}{32}x^{5}\\)</p><p>(ii) \\((1.99)^{5} = (2 - \\frac{1}{2}x)^{5}\\)</p><p>\\(2 - \\frac{1}{2}x = 1.99 \\implies \\frac{1}{2}x = 2 - 1.99 = 0.01\\)</p><p>\\(x = 0.01 \\times 2 = 0.02\\)</p><p>Put x = 0.02 in the equation, we have</p><p>\\(32 - 40(0.02) + 20(0.02)^{2} - 5(0.02)^{3} + \\frac{5}{8}(0.02)^{4} - \\frac{1}{32}(0.02)^{5}\\)</p><p>\\(32 - 0.8 + 0.008 - ...\\)</p><p>= \\(31.208 \\approxeq 31.21\\) </p><p>(b) \\(f(x) = x^{3} + qx^{2} + rx + 9\\)</p><p>(x + 1) is a factor, hence, f(-1) = 0.</p><p>\\(f(-1) = (-1)^{3} + q(-1)^{2} + r(-1) + 9\\)</p><p>\\(0 = -1 + q - r + 9\\)</p><p>\\(-8 = q - r ... (1)\\)</p><p>(x + 2) has remainder -17, therefore f(-2) = -17.</p><p>\\(-17 = (-2)^{3} + q(-2)^{2} + r(-2) + 9\\)</p><p>\\(-17 = -8 + 4q - 2r + 9\\)</p><p>\\(-18 = 4q - 2r \\implies -9 = 2q - r ... (2)\\)</p><p>From (1), r = q + 8.</p><p>\\(\\therefore 2q - q - 8 = -9\\)</p><p>\\(q = -1\\)</p><p>\\(r = -1 + 8 = 7\\)</p><p>\\((q, r) = (-1, 7)\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2018,
+        "question": "<p>Ten coins were tossed together a number of times. The distribution of the number of heads obtained is given in the following table :</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>No of heads</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>2</td>\n<td>7</td>\n<td>23</td>\n<td>36</td>\n<td>11</td>\n<td>61</td>\n<td>100</td>\n<td>12</td>\n<td>8</td>\n<td>5</td>\n<td>3</td>\n</tr>\n</tbody>\n</table><p>Calculate, correct to three decimal places, the :</p><p>(a) mean number of heads ;</p><p>(b) probability of getting an even head ;</p><p>(c) probability of getting an odd number.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>No of heads</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>Total</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>2</td>\n<td>7</td>\n<td>23</td>\n<td>36</td>\n<td>11</td>\n<td>61</td>\n<td>100</td>\n<td>12</td>\n<td>8</td>\n<td>5</td>\n<td>3</td>\n<td>268</td>\n</tr>\n<tr>\n<td>\\(fx\\)</td>\n<td>0</td>\n<td>7</td>\n<td>46</td>\n<td>108</td>\n<td>44</td>\n<td>305</td>\n<td>600</td>\n<td>84</td>\n<td>64</td>\n<td>45</td>\n<td>30</td>\n<td>1333</td>\n</tr>\n</tbody>\n</table><p>(a) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{1333}{268}\\)</p><p>= \\(4.974\\) (to 3 d.p.)</p><p>(b) Even numbers = 147</p><p>p(even number) = \\(\\frac{147}{268}\\)</p><p>= \\(0.5485 \\approxeq 0.549\\)</p><p>(c) Odd numbers = 121</p><p>p(odd number) = \\(\\frac{121}{268}\\)</p><p>= \\(0.4515 \\approxeq 0.452\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2018,
+        "question": "<p>The probabilities that Ali, Baba and Katty will gain admission to college are \\(\\frac{2}{3}, \\frac{3}{4}\\) and \\(\\frac{4}{5}\\) respectively. Find the probability that:</p><p>(a) only Katty and Baba will gain admission ;</p><p>(b) none of them will gain admission ;</p><p>(c) at most two of them will gain admission.</p>",
+        "answer": "<p>\\(p(Ali) = p(A) = \\frac{2}{3} ; p(Baba) = p(B) = \\frac{3}{4} ; p(Katty) = p(K) = \\frac{4}{5}\\)</p><p>(a) \\(p(\\text{only Katty and Baba}) = p(K) \\times p(B) \\times p(A')\\)</p><p>= \\(\\frac{4}{5} \\times \\frac{3}{4} \\times \\frac{1}{3}\\)</p><p>= \\(\\frac{1}{5}\\)</p><p>(b) \\(p(\\text{none gains admission}) = p(A') \\times p(K') \\times p(B')\\)</p><p>= \\(\\frac{1}{3} \\times \\frac{1}{4} \\times \\frac{1}{5}\\)</p><p>= \\(\\frac{1}{60}\\).</p><p>(c) \\(p(\\text{at most two will gain admission}) = p(\\text{none gains}) + p(\\text{one gains}) + p(\\text{two gains})\\)</p><p>\\(p(\\text{one gains}) = p(A) \\times p(B') \\times p(K') + p(B) \\times p(A') \\times p(K') + p(K)  \\times p(A') \\times p(B')\\)</p><p>= \\(\\frac{2}{3} \\times \\frac{1}{4} \\times \\frac{1}{5} + \\frac{3}{4} \\times \\frac{1}{3} \\times \\frac{1}{5} + \\frac{4}{5} \\times \\frac{1}{3} \\times \\frac{1}{4}\\)</p><p>= \\(\\frac{2}{60} + \\frac{3}{60} + \\frac{4}{60}\\)</p><p>= \\(\\frac{9}{60}\\)</p><p>\\(p(\\text{two gains}) = p(A) \\times p(B) \\times p(K') + p(A) \\times p(K) \\times p(B') + p(B) \\times p(K) \\times p(A')\\)</p><p>= \\(\\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{1}{5} + \\frac{2}{3} \\times \\frac{4}{5} \\times \\frac{1}{4} + \\frac{3}{4} \\times \\frac{4}{5} \\times \\frac{1}{3}\\)</p><p>= \\(\\frac{6}{60} + \\frac{8}{60} + \\frac{12}{60}\\)</p><p>= \\(\\frac{26}{60}\\)</p><p>\\(p(\\text{at most two gains admission}) = \\frac{1}{60} + \\frac{9}{60} + \\frac{26}{60}\\)</p><p>= \\(\\frac{36}{60}\\)</p><p>= \\(\\frac{3}{5}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2018,
+        "question": "<p>The position vectors of points A, B and C with respect to the origin are (8i - 2j), (2i + 6j) and (-10i + 4j) respectively. If ABCN is a parallelogram, find :</p><p>(a) the position vector of N;</p><p>(b) AN and AB ;</p><p>(c) correct to two decimal place, the acute angle between AN and AB.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0296%20%282%29.jpg\" style=\"height:148px; width:250px\"></p><p>Position vector of A is (8i - 10j)</p><p>Position vector of B is (2i + 6j)</p><p>Position vector of C is (-10i + 4j).</p><p>Let position vector of N be (ai + bj).</p><p>ABCN is a parallelogram.</p><p>\\(\\therefore \\overrightarrow{AB} = \\overrightarrow{NC}\\).</p><p>\\(\\begin{bmatrix} (2 - 8)i \\\\ (6 + 10)j \\end{bmatrix} = \\begin{bmatrix} (-10 - a)i \\\\ (4 - b)j \\end{bmatrix}\\)</p><p>Equating components, </p><p>\\(2 - 8 = -10 - a \\implies a = -4\\)</p><p>\\(6 + 10 = 4 - b \\implies b = -12\\)</p><p>The position vector of N is (-4i - 12j).</p><p>(b) \\(\\overrightarrow{AN} \\cdot \\overrightarrow{AB}\\)</p><p>\\(\\overrightarrow{AN} = \\bar{A} - \\bar{N} \\)</p><p>= \\((8i - 10j) - (-4i - 12j)\\)</p><p>= \\(12i + 2j\\)</p><p>\\(\\overrightarrow{AB} = \\bar{A} - \\bar{B}\\)</p><p>= \\((8i - 10j) - (2i + 6j)\\)</p><p>= \\(6i - 16j\\)</p><p>\\(\\therefore \\overrightarrow{AN} \\cdot \\overrightarrow{AB} = (12i + 2j) \\cdot (6i - 16j)\\)</p><p>= \\(72 - 32 = 40\\)</p><p>(c) Let \\(\\theta\\) be the acute angle between \\(\\overrightarrow{AN}\\) and \\(\\overrightarrow{AB}\\).</p><p>\\(\\overrightarrow{AN} \\cdot \\overrightarrow{AB} = |AN||AB| \\cos \\theta\\)</p><p>\\(|AN| = |12i + 2j| = \\sqrt{12^{2} + 2^{2}} = \\sqrt{144 + 4} = \\sqrt{148}\\)</p><p>\\(|AB| = |6i - 16j| = \\sqrt{6^{2} + (-16)^{2}} = \\sqrt{36 + 256} = \\sqrt{292}\\)</p><p>\\(\\therefore 40 = (\\sqrt{148})(\\sqrt{292}) \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{40}{(\\sqrt{148})(\\sqrt{292})}\\)</p><p>\\(\\cos \\theta = \\frac{40}{207.88} = 0.1924\\)</p><p>\\(\\theta = \\cos^{-1} (0.1924) = 78.907°\\)</p><p>\\(\\approxeq 78.9°\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2018,
+        "question": "<p>A uniform beam, XY, 4m long and weighing 350N rests on two pivots P and Q. It is kept in equilibrium by weights of 80N attached at X and 1000N attached at a point between P and Q such that it is 0.6m from Q. If XP = 0.8m and PQ = 2.2m.</p><p>(a) calculate the reactions at P and Q ;</p><p>(b) if the 1000N weight is replaced with a 1200N weight, at what point from Q should it be placed in order to maintain the equilibrium.</p>",
+        "answer": "<p>(a)   <img alt=\"\" src=\"/storage/classroom/editor_images/scan0296%20%284%29_LI.jpg\" style=\"height:88px; width:300px\"></p><p>Let A and B be the reactions at P and Q respectively.</p><p>A + B = 80 + 350 + 1000 = 1430N</p><p>We take moments about Q.</p><p>Clockwise moments = 2.2A</p><p>Anticlockwise moments = \\(80 \\times 3 + 350 \\times 1 + 1000 \\times 0.6\\)</p><p>= \\(1190N\\)</p><p>Both moments are equal</p><p>\\(\\therefore 2.2A = 1190 \\implies A = \\frac{1190}{2.2} = 540.9N\\)</p><p>\\(B = 1190N - 540.9N = 649.1N\\)</p><p>The reactions at P and Q are 540.9N and 649.1N respectively.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0297%20%282%29.jpg\" style=\"height:89px; width:300px\"></p><p>Reaction at P : \\((80 + 350 + 1000)N = 540.9N\\)</p><p>\\(\\therefore \\text{The new reaction at P} = (80 + 350 + 1200)N = \\frac{1630}{1430} \\times 540.9\\)</p><p>= \\(616.6N\\)</p><p>Take moments at Q :</p><p>\\(2.2 \\times 616.6 = 80 \\times 3 + 350 \\times 1 + 1200x\\)</p><p>\\(1200x = 1356.5 - 590\\)</p><p>\\(1200x = 766.5\\)</p><p>\\(x = \\frac{766.5}{1200}\\)</p><p>= \\(0.63875 \\approxeq 0.64m\\)</p><p>The 1200N should be placed 0.64m from Q.</p>",
+        "type": "theory"
+    }
+]

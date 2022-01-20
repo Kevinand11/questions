@@ -1,0 +1,802 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 1,
+        "year": 2001,
+        "question": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
+        "explanation": "Hint: Use BODMAS, in other words, do multiplication of the second and the last first before subtracting value obtained from the first.",
+        "correctIndex": 3,
+        "options": [
+            "20.980",
+            "20.351",
+            "20.981",
+            "20.352"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2001,
+        "question": "<p>Simplify \\((\\sqrt[3]{64a^{3}})^{-1}\\)</p>",
+        "explanation": "<p>\\((\\sqrt[3]{64a^{3}})^{-1} = (\\sqrt[3]{(4a)^{3}})^{-1}\\)</p><p>= \\((4a)^{-1} \\)</p><p>= \\(\\frac{1}{4a}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "4a",
+            "1/8a",
+            "8a",
+            "1/4a"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 3,
+        "year": 2001,
+        "question": "<p>Given that \\(p = 1 + \\sqrt{2}\\) and \\(q = 1 - \\sqrt{2}\\), evaluate \\(\\frac{p^{2} - q^{2}}{2pq}\\).</p>",
+        "explanation": "<p>\\(\\frac{p^{2} - q^{2}}{2pq} = \\frac{(p + q)(p - q)}{2pq}\\)</p><p>= \\(\\frac{(1 + \\sqrt{2} - (1 - \\sqrt{2}))(1 + \\sqrt{2} + 1 - \\sqrt{2})}{2(1 + \\sqrt{2})(1 - \\sqrt{2})}\\)</p><p>= \\(\\frac{(2\\sqrt{2})(2)}{-2}\\)</p><p>= \\(-2\\sqrt{2}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "2(2+√2)",
+            "-2(2+√2)",
+            "2√2",
+            "-2√2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2001,
+        "question": "A car dealer bought a second-hand car for N250,000 and spent N70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+        "explanation": "Total cost = N(250,000 + 70,000) = N320,000<br>Selling price = N400,000 (given)<br>Gain = SP - CP = N(400,000 - 320,000) = N80,000<br>Gain % = gain/CP x 100 = (80,000/320,000) x 100<br><br>Gain % = 25%",
+        "correctIndex": 2,
+        "options": [
+            "60%",
+            "32%",
+            "25%",
+            "20%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 5,
+        "year": 2001,
+        "question": "<p>If \\(x = \\frac{y}{2}\\),evaluate\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)</p>",
+        "explanation": "<p>\\(x = \\frac{y}{2} \\)</p><p>\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)</p><p>\\(\\frac{x^3}{y^3} + \\frac{1}{2} = (\\frac{y}{2})^{3} \\div y^{3} + \\frac{1}{2}\\)</p><p>= \\(\\frac{y^{3}}{8} \\times \\frac{1}{y^3} + \\frac{1}{2}\\)</p><p>= \\(\\frac{1}{8} + \\frac{1}{2}\\)</p><p>= \\(\\frac{5}{8}\\)</p><p>\\(\\frac{1}{2} - \\frac{x^2}{y^2} = \\frac{1}{2} - (\\frac{y}{2})^{2} \\div y^2)\\)</p><p>= \\(\\frac{1}{2} - \\frac{y^2}{4} \\times \\frac{1}{y^2}\\)</p><p>= \\(\\frac{1}{2} - \\frac{1}{4}\\)</p><p>= \\(\\frac{1}{4}\\)</p><p>\\(\\therefore \\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right) = \\frac{5}{8} \\div \\frac{1}{4}\\)</p><p>= \\(\\frac{5}{2}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "5/8",
+            "5/2",
+            "5/32",
+            "5/16"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 6,
+        "year": 2001,
+        "question": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
+        "explanation": "Principal, P = Amount, A - Interest, I.<br>A = P + I<br><br>I = (P.T.R)/100 = (P x 5 x 2)/100 = 10P/100 = P/10<br><br>But A = P + I,<br>=&gt; 5500 = P + (P/10)<br>=&gt; 55000 = 10P + P<br>=&gt; 55000 = 11P<br><br>Thus P = 55000/11 = N5,000",
+        "correctIndex": 1,
+        "options": [
+            "N4,900",
+            "N5,000",
+            "N4,700",
+            "N4,800"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2001,
+        "question": "<p>Evaluate \\(\\frac{(0.14^2 \\times 0.275)}{7(0.02)}\\) to 3 decimal places.</p>",
+        "explanation": "<p>\\(\\frac{(0.14)^{2} \\times 0.275}{7(0.02)} = \\frac{(0.14)^{2} \\times 0.275}{0.14}\\)</p><p>= \\(0.14 \\times 0.275\\)</p><p>= \\(0.0385 \\approxeq 0.039\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "0.039",
+            "0.385",
+            "0.033",
+            "0.038"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 2001,
+        "question": "<p>Divide: \\(a^{3x} - 26a^{2x} + 156a^{x} - 216\\) by \\(a^{2x} - 24a^{x} + 108\\).</p>",
+        "explanation": "<p>\\(\\frac{a^{3x} - 26a^{2x} + 156a^{x} - 216}{a^{2x} - 24a^{x} + 108}\\)</p><p>Let \\(a^{x} = z\\)</p><p>\\(\\therefore = \\frac{z^{3} - 26z^{2} + 156z - 216}{z^{2} - 24y + 108} ... (i)\\)</p><p>Dividing (i) above, we get \\(z - 2\\)</p><p>= \\(a^{x} - 2\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "a<sup>x</sup>- 2",
+            "a<sup>x</sup>+ 2",
+            "a<sup>x</sup>- 8",
+            "a<sup>x</sup>- 6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 9,
+        "year": 2001,
+        "question": "<p>If two graphs y = px\\(^2\\) + q and y = 2x\\(^2\\) -1 intersect at x = 2, find the value of p in terms q.</p>",
+        "explanation": "<p>\\(y = px^{2} + q ... (i)\\)</p><p>\\(y = 2x^{2} - 1 ... (ii)\\)</p><p>At x = 2, </p><p>(i): \\(y = p(2^{2}) + q = 4p + q\\)</p><p>(ii): \\(y = 2(2^{2}) - 1 = 7\\)</p><p>\\(\\therefore \\text{The coordinates of the point of intersection = (2, 7)}\\)</p><p>(i): \\(7 = 4p + q \\implies p = \\frac{7 - q}{4}\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{q-8}{7}\\)",
+            "\\(\\frac{7-q}{4}\\)",
+            "\\(\\frac{8-q}{2}\\)",
+            "\\(\\frac{7+q}{8}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2001,
+        "question": "Find the integral values of x and y satisfying the inequality 3y + 5x \\(\\leq\\) 15, given that y &gt; 0, y &lt; 3 and x &gt; 0.",
+        "explanation": "Hint: Sketch the inequality graph for the 3 conditions given and read out your points from the co-ordinates.",
+        "correctIndex": 3,
+        "options": [
+            "(1,1), (1,2), (1,3)",
+            "(1,1), (2,1), (1,3)",
+            "(1,1), (3,1), (2,2)",
+            "(1,1), (1,2), (2,1)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 11,
+        "year": 2001,
+        "question": "Solve the equations<br>m<sup>2</sup>+ n<sup>2</sup>= 29<br>m + n = 7",
+        "explanation": "m<sup>2</sup>+ n<sup>2</sup>= 29 .......(1)<br>m + n = 7 ............(2)<br><br>From (2),<br>m = 7 - n<br>but m<sup>2</sup>+ n<sup>2</sup>= 29, substituting;<br>(7-n)<sup>2</sup>+ n<sup>2</sup>= 29<br>49 - 14n + n<sup>2</sup>+ n<sup>2</sup>= 29<br>=&gt; 2n<sup>2</sup>-14n + 20 = 0<br>Thus n<sup>2</sup>-7n + 10 = 0<br><br>Factorizing;<br>(n-5)(n-2) = 0<br>n - 5 = 0, =&gt; n = 5<br>n - 2 = 0, =&gt; n = 2.<br><br>When n = 5,<br>m + n = 7, =&gt; m = 2,<br><br>When n = 2,<br>m + n = 7, =&gt; m = 5.<br><br>Thus (m,n) = (5,2) and (2,5)",
+        "correctIndex": 1,
+        "options": [
+            "(2, 3) and ( 3, 5)",
+            "(2, 5) and (5, 2)",
+            "(5, 2) and ( 5, 3)",
+            "(5, 3) and (3, 5)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2001,
+        "question": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
+        "explanation": "By definition a*b = a + b + 1.<br>Let the inverse of the element 2 be x,<br><br>Therefore 2*x = -1<br>i.e. 2 + x + 1 = -1<br>3 + x = -1<br>x = -1 - 3<br>x = -4",
+        "correctIndex": 3,
+        "options": [
+            "4",
+            "zero",
+            "-2",
+            "-4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2001,
+        "question": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
+        "explanation": "1st statement: U<sub>6</sub>= 1/2(U<sub>12</sub>)<br>a + (n -1)d = 1/2[a + (n-1)d]<br>a + 5d = a + 11d<br>2(a + 5d) = a + 11d<br>2a + 10d = a + 11d<br><br>Solving, =&gt; a = d<br>Hence the first term is equal to the common difference",
+        "correctIndex": 3,
+        "options": [
+            "zero",
+            "half of the common difference",
+            "double the common difference",
+            "the common difference"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2001,
+        "question": "Factorize 4x<sup>2</sup>- 9y<sup>2</sup>+ 20x + 25",
+        "explanation": "Given: 4x<sup>2</sup>- 9y<sup>2</sup>+ 20x + 25<br>Collect like terms: 4x<sup>2</sup>+ 20x + 25 - 9y<sup>2</sup><br>(2x + 5)(2x + 5) - 9y<sup>2</sup><br>(2x + 5)<sup>2</sup>- (3y)<sup>2</sup><br><br>(2x - 3y +5)(2x + 3y + 5)",
+        "correctIndex": 2,
+        "options": [
+            "(2x -3y + 5)(2x - 3y - 5)",
+            "(2x - 3y)(2x + 3y)",
+            "(2x - 3y +5)(2x + 3y + 5)",
+            "(2x + 5)(2x - 9y +5)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 15,
+        "year": 2001,
+        "question": "<p>A sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?</p>",
+        "explanation": "<p>(r/L) = (θ/360°)<br>\nGiven θ = 300, and L = 7.2cm,<br>\n<br>\n=&gt; r = (300 x 7.2)/360<br>\nr = 6cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "8cm",
+            "6cm",
+            "9cm",
+            "7cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 16,
+        "year": 2001,
+        "question": "<p>A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°</p>",
+        "explanation": "<p>Hint: Make a sketch of the moving points such that the hypotenuse is 8cm and the adjacent x cm.<br>\n<br>\nCos 30 = x/8<br>\nx = 8 cos 30 = 4√3cm</p>",
+        "correctIndex": 0,
+        "options": [
+            "4√3cm",
+            "8cm",
+            "8√3cm",
+            "4cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2001,
+        "question": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
+        "explanation": "Cos 30 = 5/x<br>x cos 30 = 5, =&gt; x = 5√3<br><br>Coordinates of P = -5, 3, 0<br>Coordinates of Q = 0, 5<br>Gradient of PQ = (y<sub>2</sub>- y<sub>1</sub>)<dby> (X<sub>2</sub> - X<sub>1</sub>) = (5 - 0)/(0 -5√3)<br>\n= 5/5√3 = 1/√3<br>\n<br>\nEquation of PQ = y - y<sub>1</sub> = m (x -x<sub>1</sub>)<br>\ny - 0 = 1/√3 (x -(-5√3))<br>\n<br>\nThus: √3y = x + 5√3\n</dby>",
+        "correctIndex": 3,
+        "options": [
+            "y = (x/10) + 5",
+            "y = x + 5",
+            "√3y = - x + 5√3",
+            "√3y = x + 5√3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2001,
+        "question": "Given an isosceles triangle with length of 2 equal sides<b>t</b>units and opposite side<b>√3t</b>units with angle θ. Find the value of the angle θ opposite to the<b>√3t</b>units.",
+        "explanation": "Cos θ° = t<sup>2</sup>+ t<sup>2</sup>-(√3t)<sup>2</sup><dby> 2 x t x t<br>\n<br>\n= 2t<sup>2</sup> - 3t<sup>2</sup> <dby> 2t<sup>2</sup><br>\n= -t<sup>2</sup>/2t<sup>2</sup><br>\n= -1/2<br>\n<br>\nThus θ = cos<sup>-1</sup> (-0.5) = 120°\n</dby></dby>",
+        "correctIndex": 1,
+        "options": [
+            "100°",
+            "120°",
+            "30°",
+            "60°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2001,
+        "question": "<p>Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).</p>",
+        "explanation": "<p>The line joining (P, 4) and (6, -2).</p><p>Gradient: \\(\\frac{-2 - 4}{6 - P} = \\frac{-6}{6 - P}\\)</p><p>The line joining (2, P) and (-1, 3)</p><p>Gradient: \\(\\frac{3 - P}{-1 - 2} = \\frac{3 - P}{-3}\\)</p><p>For perpendicular lines, the product of their gradient = -1.</p><p>\\((\\frac{-6}{6 - P})(\\frac{3 - P}{-3}) = -1\\)</p><p>\\(\\frac{6 - 2P}{6 - P} = -1 \\implies 6 - 2P = P - 6\\)</p><p>\\(6 + 6 = P + 2P \\implies P = \\frac{12}{3} = 4\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "4",
+            "6",
+            "3",
+            "0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2001,
+        "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
+        "explanation": "Let the ext. angle = x<br>Thus int. angle = 2x<br>But sum of int + ext = 180 (angle of a straight line).<br>2x + x = 180<br>3x = 180<br>x = 180/3 = 60<br><br>Each ext angle = 360/n<br>=&gt; 60 = 360/n<br>n = 360/60 = 6",
+        "correctIndex": 0,
+        "options": [
+            "6",
+            "2",
+            "3",
+            "8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 21,
+        "year": 2001,
+        "question": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
+        "explanation": "PQ<sup>2</sup>= (x<sub>2</sub>- x<sub>1</sub>)<sup>2</sup>+ (y<sub>2</sub>- y<sub>1</sub>)<sup>2</sup><br><br>= 12<sup>2</sup>+ 5<sup>2</sup><br>= 144 + 25<br>= 169<br><br>PQ = √169 = 13<br><br>But PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+        "correctIndex": 0,
+        "options": [
+            "6.5 units",
+            "13.0 units",
+            "3.5 units",
+            "7.0 units"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2001,
+        "question": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+        "explanation": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+        "correctIndex": 1,
+        "options": [
+            "040°",
+            "070°",
+            "280°",
+            "320°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 23,
+        "year": 2001,
+        "question": "A cylindrical tank has a capacity of 3080 m<sup>3</sup>. What is the depth of the tank if the diameter of its base is 14 m?<br><br>(Take pi = 22/7)",
+        "explanation": "Capacity = 3080 m<sup>3</sup><br>Base diameter = 14 m, thus radius = 7 m.<br><br>Volume of cylinder = capacity of cylinder = πr<sup>2</sup>h. = 3080<br>22/7 x 7<sup>2</sup>x h = 3080<br>h = 3080/(22x7)<br>h = 20 m",
+        "correctIndex": 2,
+        "options": [
+            "23 m",
+            "25 m",
+            "20 m",
+            "22 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2001,
+        "question": "<p>Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k.</p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "y = 4 \\(\\pm\\) k",
+            "y = k \\(\\pm\\) 4",
+            "y = 4 + k",
+            "y = k - 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2001,
+        "question": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
+        "explanation": "Since ST = the radius r, =&gt; SOT is equilateral.<br>Each angle = 60°<br>Length of arc ST = θ/360 x 2πr<br>= 60/360 x 2 x π x r = πr/3",
+        "correctIndex": 3,
+        "options": [
+            "πr/6",
+            "πr/2",
+            "πr/12",
+            "πr/3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2001,
+        "question": "If the gradient of the curve y = 2kx<sup>2</sup>+ x + 1 at x = 1 is 9, find k.",
+        "explanation": "y = 2kx<sup>2</sup>+ x + 1<br>Gradient function dy/dx = 4kx + 1<br>at dy/dx = 9, =&gt; 9 = 4kx + 1<br>=&gt; 8 = 4kx, and k = 8/4x.<br><br>At x = 1, k = 8/4 = 2",
+        "correctIndex": 2,
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2001,
+        "question": "<p>Evaluate \\(\\int 2(2x - 3)^{\\frac{2}{3}} \\mathrm d x\\)</p>",
+        "explanation": "<p>\\(\\int 2(2x - 3)^{\\frac{2}{3}} \\mathrm d x\\)</p><p>Let \\(u = 2x - 3\\)</p><p>\\(\\mathrm d u = 2 \\mathrm d x\\)</p><p>= \\(\\int u^{\\frac{2}{3}} \\mathrm d u\\)</p><p>= \\(\\frac{u^{\\frac{5}{3}}}{\\frac{5}{3}} + k\\)</p><p>= \\(\\frac{3}{5} (2x - 3)^{\\frac{5}{3}} + k\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "3/5(2x-3)<sup>5/3</sup>+ k",
+            "6/5(2x-3)<sup>5/3</sup>+ k",
+            "2x-3+k",
+            "2(2x-3)+k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2001,
+        "question": "<p>Differentiate \\((2x+5)^{2} (x-4)\\) with respect to x.</p>",
+        "explanation": "<p>\\(y = (2x + 5)^{2} (x - 4)\\)</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = (2x + 5)^{2} (1) + (x - 4)(2)(2)(2x + 5)\\)</p><p>= \\((2x + 5)(2x + 5 + 4x - 16)\\)</p><p>= \\((2x + 5)(6x - 11)\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "4(2x+5)(x-4)",
+            "4(2x+5)(4x-3)",
+            "(2x+5)(2x-13)",
+            "(2x+5)(6x-11)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2001,
+        "question": "Find the area bounded by the curves y = 4 - x<sup>2</sup>and y = 2x + 1",
+        "explanation": "Hint:<br>y = 4 - x<sup>2</sup>and y = 2x + 1<br>=&gt; 4 - x<sup>2</sup>= 2x + 1<br>=&gt; x<sup>2</sup>+ 2x - 3 = 0<br>(x+3)(x-1) = 0<br>thus x = -3 or x = 1.<br><br>Integrating x<sup>2</sup>+ 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+        "correctIndex": 3,
+        "options": [
+            "20(1/3) sq. units",
+            "20(2/3) sq. units",
+            "10(2/3) sq. units",
+            "10(1/3) sq. units"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2001,
+        "question": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
+        "explanation": "Volume of sphere, V = 4/3 x πr<sup>3</sup><br>Rate of change of V = dv/dr<br>Thus if V = 4/3 x πr<sup>3</sup>,<br>=&gt; dv/dr = 4πr<sup>2</sup><br><br>At r = 1, Rate = 4 x π x 1 = 4π",
+        "correctIndex": 1,
+        "options": [
+            "12π",
+            "4π",
+            "24π",
+            "8π"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 31,
+        "year": 2001,
+        "question": "If y = x sinx, find dy/dx when x = π/2.",
+        "explanation": "y = x sin x<br>dy/dx = 1 x sinx + x cosx<br>= sinx + x cosx<br>At x = π/2, = sin (π/2) + (π/2) cos (π/2)<br>= 1 + (π/2) x (0) = 1",
+        "correctIndex": 2,
+        "options": [
+            "-π/2",
+            "-1",
+            "1",
+            "π/2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2001,
+        "question": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
+        "explanation": "Let the rectangle be a square of sides p/4.<br><br>So that perimeter of square = 4p<br>4 x (p/4) = p.",
+        "correctIndex": 3,
+        "options": [
+            "square of sides p",
+            "square of sides 2p",
+            "square of sides (p/2)",
+            "square of sides (p/4)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2001,
+        "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
+        "explanation": "Mode = score with highest frequency = 11.<br>Square of 11 = 121",
+        "correctIndex": 1,
+        "options": [
+            "49",
+            "121",
+            "25",
+            "64"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2001,
+        "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
+        "explanation": "Mean = ∑fx/∑f<br>Mean = (4x3) + (7x5) + ... + (8x1) all divided by 20<br>Mean = 174/20 = 8.7",
+        "correctIndex": 1,
+        "options": [
+            "7.0",
+            "8.7",
+            "9.5",
+            "11.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2001,
+        "question": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
+        "explanation": "P (games end in draw)<br>=&gt; Team P wins and Q wins<br>P(P wins) = 1/2<br>P(Q wins) = 1/2<br>Therefore P (games ends in draw) = 1/2 x 1/2 = 1/4",
+        "correctIndex": 3,
+        "options": [
+            "2/3",
+            "1/2",
+            "1/3",
+            "1/4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2001,
+        "question": "If<sup>6</sup>P<sub>r</sub>= 6, find the value of<sup>6</sup>P<sub>r+1</sub>",
+        "explanation": "6P<sup>r</sup>= 6 Thus r = 1<br><br>N.B 6P<sup>1</sup>= \\(\\frac{\\text{6!}}{\\text{(6 - 1)!}}\\)<br><br>= \\(\\frac{\\text{6!}}{\\text{5!}}\\)<br><br>= \\(\\frac{6 \\times \\text{5!}}{\\text{5!}}\\) = 6<br><br>6P<sub>r + 1</sub>= 6P<sub>2</sub>= \\(\\frac{\\text{6!}}{(6 - 2)\\text{!}} = \\frac{6\\text{!}}{\\text{4!}}\\)<br><br>= \\(\\frac{6 \\times 5 \\times \\text{4!}}{\\text{4!}}\\)<br><br>= 30",
+        "correctIndex": 0,
+        "options": [
+            "30",
+            "33",
+            "35",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2001,
+        "question": "Find the variance of 2, 6, 8, 6, 2 and 6",
+        "explanation": "mean of X = x = (2+6+8+6+2+6)/6 = 30/6 = 5<br>X → 2,6,8,6,2,6<br>X - x = -3, 1, 3, 1, 3, 1<br>(X - x)<sup>2</sup>= 9, 1, 9, 1, 9, 1<br>∑(X-x) = 9+1+9+1+9+1 = 30<br>Variance = ∑(X-x)<sup>2</sup>/n = 30/6 = 5",
+        "correctIndex": 1,
+        "options": [
+            "6",
+            "5",
+            "√6",
+            "√5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2001,
+        "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination",
+        "explanation": "Combination is the number (n) of ways of selecting a number of (m) of objects from n<br>\\(^{12}C_{8}\\frac{12!}{8!(12-8)!}\\\\=\\frac{12!}{8!4!}\\\\\\frac{(12\\times 11\\times 10\\times 9\\times 8\\times 7\\times 6\\times 5\\times 4\\times 3\\times 2\\times 1)}{8\\times 7\\times 6\\times 5\\times 4\\times 3\\times 2\\times 1}\\\\After\\hspace{1mm} cancelling \\hspace{1mm}out \\hspace{1mm}we\\hspace{1mm} have\\\\11\\times 5\\times 9 = 495 \\)",
+        "correctIndex": 1,
+        "options": [
+            "490",
+            "495",
+            "496",
+            "498"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2001,
+        "question": "Find the range of 1/6, 1/3, 3/2, 2/3, 8/9 and 4/3",
+        "explanation": "1/6, 1/3, 3/2, 2/3, 8/9 and 4/3<br>L.C.M of the denominators = 36<br>The fraction now becomes<br>6/36, 12/36, 54/36, 24/36, 32/36 and 48/36<br>Highest fraction = 54/36<br>Lowest fraction = 6/36<br>Range = Highest - Lowest<br>(54/36) - (6/36)<br>= 48/36<br>= 4/3",
+        "correctIndex": 3,
+        "options": [
+            "3/4",
+            "5/6",
+            "7/6",
+            "4/3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4074867186_math20019.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/21732624992_math20019.jpg\" class=\"img-fluid\">\n</div>Δ SPT is the solution of the inequalities<br>2y - x - 2 ≤ 0<br>2y ≤ 2 + x<br>y ≤<sup>2</sup>/<sub>2</sub>+<sup>x</sup>/<sub>2</sub><br>y ≤ 1 +<sup>1</sup>/<sub>2</sub>x<br>y + 2x + 2 ≥ 0,<br>y ≥ -2 -2x<br>∴ the solution of the inequalities<br>2y - x - 2 ≤ 0,<br>y + 2x + 2 ≥ 0<br>= -2 ≤ x ≤ -1",
+        "correctIndex": 0,
+        "options": [
+            "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
+            "-2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+            "2y - x - 2 ≤ 0, y + 2x + 2 ≤ 0, y ≥ 0, x ≤ 0",
+            "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2001,
+        "question": "<table border=\"1\"><tr><td>⊗</td><td>k</td><td>l</td><td>m</td></tr><tr><td>k</td><td>l</td><td>m</td><td>k</td></tr><tr><td>l</td><td>m</td><td>k</td><td>l</td></tr><tr><td>m</td><td>k</td><td>l</td><td>m</td></tr></table><br>The identity element with respect to the multiplication shown in the table above is",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "o",
+            "m",
+            "l",
+            "k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5433162244_math200132.jpg\" class=\"img-fluid\">",
+        "explanation": "In Δ PQT,<br>∠PTQ = 25<sup>o</sup>(base ∠s of isosceles Δ)<br>In Δ QSR,<br>∠RQS = ∠QPT + ∠QTP<br>(Extr = sum of interior opposite ∠s)<br>∠RQS = 25 + 25<br>= 50<sup>o</sup><br>Also in Δ QSR,<br>75 + ∠RQS + ∠QSR = 180<sup>o</sup><br>(sum of ∠s of Δ)<br>∴75 + 50 + ∠QSR = 180<br>125 + ∠QSR = 180<br>∠QSR = 180 - 125<br>∠QSR = 55<sup>o</sup><br>But ∠QSR and ∠RST are the same<br>∠RST = 55<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "45<sup>o</sup>",
+            "55<sup>o</sup>",
+            "25<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23090957387_math200145.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "16",
+            "17",
+            "14",
+            "15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25807577621_math200148.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Number of yellow cars = 3<br>\nTotal number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25<br>\nFraction of yellow cars = 3/25</p>",
+        "correctIndex": 0,
+        "options": [
+            "<sup>3</sup>/<sub>25</sub>",
+            "<sup>2</sup>/<sub>25</sub>",
+            "<sup>1</sup>/<sub>5</sub>",
+            "<sup>4</sup>/<sub>15</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14277923540_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "2y - x - 2 \\(\\leq\\) 0, y + 2x + 2 \\(\\geq\\) 0, x \\(\\geq\\) 0",
+            "2y - x - 2 \\(\\geq\\) 0, y + 2x + 2 \\(\\leq\\) 0, -2 \\(\\geq\\) x \\(\\geq\\) -1",
+            "-2 \\(\\geq\\) x \\(\\geq\\) 2, y \\(\\leq\\) 0, y + 2x + 2 \\(\\geq\\) 0, x \\(\\geq\\) 0",
+            "2y - x - 2 \\(\\geq\\) 0, y + 2x + 2 \\(\\geq\\) 0, y \\(\\leq\\) 0, x \\(\\geq\\) 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5711170680_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; T = \\(\\frac{x}{1}\\) = 25<sup>o</sup>(PQ = QT)<br><br>&lt; SQR = 2(25<sup>o</sup>) = 50<sup>o</sup>(sum of interior angle)<br><br>&lt; Q + &lt; R + &lt; S = 180<sup>o</sup><br><br>50<sup>o</sup>+ 75<sup>o</sup>+ &lt; S = 180<sup>o</sup>= 125<sup>o</sup>+ &lt; S = 180<sup>o</sup><br><br>&lt; S = 180<sup>o</sup>- 125<sup>o</sup>= 55<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "50<sup>o</sup>",
+            "25<sup>o</sup>",
+            "55<sup>o</sup>",
+            "45<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17133517368_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "Using cosine formula (t\\(\\sqrt{3}\\))<sup>2</sup>= t<sup>2</sup>+ t<sup>2</sup>- 2t<sup>2</sup>cos\\(\\theta\\)<br><br>3t<sup>2</sup>= 2t<sup>2</sup>- 2t<sup>2</sup>cos\\(\\theta\\) = 2t<sup>2</sup>(1 - cos\\(\\theta\\))<br><br>1 - cos\\(\\theta\\) = \\(\\frac{3t^2}{2t^2}\\) = \\(\\frac{3}{2}\\)<br><br>cos = 1 - \\(\\frac{3}{2} = -\\frac{1}{2}\\)<br><br>\\(\\theta\\) = cos<sup>-1</sup>(-\\(\\frac{1}{2}\\)) = 120<sup>o</sup>and 240<sup>o</sup><br><br>N.B 0 \\(\\geq\\) \\(\\theta\\) 360",
+        "correctIndex": 2,
+        "options": [
+            "60<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4283392272_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\begin{array}{c|c} \\text{colour of cars} &amp; \\text{Number (frequency)} \\\\ \\hline yellow &amp; 3 \\\\white &amp; 4\\\\ red &amp; 8\\\\ green &amp; 2\\\\ blue &amp; 6\\\\ black &amp; 2\\\\ \\hline &amp; 25 \\\\ \\hline\\end{array}\\)<br><br>Thus, the fraction of the total numbers that are yellow is \\(\\frac{3}{25}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{2}{25}\\)",
+            "\\(\\frac{4}{15}\\)",
+            "\\(\\frac{3}{25}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18561389652_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{2}(Q_3 - Q_1)\\)",
+            "Q<sub>3</sub>- Q<sub>2</sub>",
+            "Q<sub>3</sub>- Q<sub>2</sub>",
+            "Q<sub>3</sub>- Q<sub>1</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 2001,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2855599334_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\begin{array}{c|c} \\text{no. of passengers} &amp; \\text{Number of taxis}\\\\ \\hline 0.5 - 2.5 &amp; 3\\\\ 2.5 - 4.5 &amp; 4 \\\\ 4.5 - 6.5 &amp; 7\\\\ 6.5 - 8.5 &amp; 5\\\\ 8.5 - 10.5 &amp; 4 \\\\ 10.5 - 12.5 &amp; 1\\\\ \\hline \\text{Total} &amp; 24 \\end{array}\\)<br><br>Thus, the taxi with more than 4 passengers<br><br>= 7 + 5 + 4 + 1 = 17",
+        "correctIndex": 0,
+        "options": [
+            "17",
+            "16",
+            "15",
+            "14"
+        ],
+        "type": "objectives"
+    }
+]

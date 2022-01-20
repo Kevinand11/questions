@@ -1,0 +1,110 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2019,
+        "question": "<p>A stone of mass 20g is released from a catapult whose rubber is stretched through 5cm.  If the force constant of the rubber is 200Nm\\(^{-1}\\), calculate the speed with which the stone leaves the catapult.</p><p> </p>",
+        "answer": "<p>½Ke\\(^{2}\\) = ½mv\\(^{6}\\)</p><p>½ x 200 x (0.05)\\(^{2}\\) = ½ x 0.02 x  v\\(^{2}\\)</p><p>v\\(^{2}\\) = 25</p><p>v = 5 m s\\(^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"https://waeconline.org.ng/e-learning/Physics/Phys228mq2.png\"></p><p>(a) The diagram above illustrates a projectile motion. Identify each of the physical quantities labeled P, β, H and R.               </p><p>                                                 <br>\n(b) Write an equation to show the relationship between P, g and Rmax’ where g is the acceleration due to gravity and Rmax is maximum R.                    </p>",
+        "answer": "<p>The expected answer is</p><p>(a) <strong>Identification of labelled physical quantities</strong></p><p>P  -  initial velocity/ velocity of projection<br>\nb  -   angle of projection                                         <br>\nH  -   maximum height reached                              <br>\nR -    range/horizontal distance (covered)  </p><p><br>\n(b) <strong>Equation showing relationship between P, g and Rmax</strong></p><p>Rmax = \\(\\frac{p^2}{g}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2019,
+        "question": "<p>State three observable phenomena in which waves behave like a particle.</p>",
+        "answer": "<p><strong>Observable phenomena in which waves behave like a particle</strong><br>\n-  reflection;<br>\n-  refraction;<br>\n-  diffraction;<br>\n-  polarization;<br>\n-  interference;<br>\n-  Compton effect;<br>\n-  blackbody radiation</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2019,
+        "question": "<p>List three magnetic elements that determine the earth’s magnetic field at a point.  </p>",
+        "answer": "<p> <strong>Magnetic elements that determine the earth’s magnetic field at a point</strong>        </p><p>- Angle of dip/inclination</p><p>- angle of declination/variation</p><p>- horizontal component of the earth’s magnetic field</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2019,
+        "question": "<p>Explain each of the following terms as used in Electronics.</p><p>(a)  free electrons;</p><p>(b)  holes.  </p>",
+        "answer": "<p><strong>Explanation of terms</strong></p><p>(a) Free electrons; Negative charge carriers                                                                                </p><p>(b) Holes; Positive charge carriers</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2019,
+        "question": "<p>(a) State the principle of operation of fibre optics.                                 </p><p>(b) State two applications of fibre optics in medicine.</p>",
+        "answer": "<p>(a)  <strong>Principle of operation of fibre optics - </strong>Total internal reflection of light  </p><p>                                                                  </p><p>(b) <strong>Applications of fibre optics in medicine</strong><br>\nAs:<br>\n-   light guides<br>\n-   imaging tools<br>\n-   laser for surgery</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2019,
+        "question": "<p>(a) Define diffusion</p><p>(b) State two factors that affect the rate of diffusion</p>",
+        "answer": "<p>(a) <strong>Definition of diffusion</strong>; The process by which molecules of different substances move randomly among one another.<br>\nOR<br>\nIntimate mixing of molecules/atoms/particles of different substance (as a result of kinetic energy)</p><p> </p><p>(b) <strong>Factors that affect the rate of diffusion</strong></p><p>-  density of substance<br>\n-  mass of substance<br>\n-  temperature</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2019,
+        "question": "<p>(a) (i) State Newton’s Law of Universal Gravitation.</p><p>(ii) Define gravitational field.                                                     </p><p>(b) (i) Derive the equation relating the universal gravitational constant, G, and the acceleration of free fall, g, at the surface of the earth from Newton’s law of universal gravitation.</p><p>(ii) State two assumptions for which the relationship in 8(b)(i) holds.   </p><p> </p><p>(c) Calculate the force of attraction between a star of mass 2.00 x 1030 kg and the earth assuming the star is located 1.50 x 108 km from the earth.  [Mass of the earth = 5.98 x 1024kg; G = 6.67 x 10-11N m\\(^{2}\\) kg-2; g = 10 m s\\(^{-2}\\)</p><p> </p><p>(d) (i) Define escape velocity.</p><p>(ii) State two differences between the acceleration of free fall (g) and the universal gravitational constant (G).</p>",
+        "answer": "<p>(a) (i) <strong>Newton’s law of Universal Gravitation; </strong>Any two bodies in the universe attract each other with a force that is (directly) proportional to the product of their masses and inversely proportional to the square of the distance between them.</p><p>(ii) <strong>Definition of gravitational field</strong>; A region/space in which gravitational force is felt / experienced.</p><p> </p><p>(b) (i) <strong>Derivation of the equation relating G and g at the surface of the earth</strong></p><p>F = \\(\\frac{GMm}{R^2}\\)</p><p>mg = \\(\\frac{GMm}{R^2}\\)</p><p>g =  \\(\\frac{GM}{R^2}\\)</p><p> </p><p>(ii) <strong>Assumptions for which equation holds;</strong></p><p>-   mass of the earth is concentrated at its centre<br>\n-   earth is spherical<br>\n-   earth is not rotating<br>\n-   possesses uniform density.</p><p>(c) <strong>Calculation of the force of attraction between a star and the earth;</strong></p><p>F = \\(\\frac{GM_sM_e}{r_2}\\)</p><p>= 6.67 x 10\\(^{11}\\) [\\(\\frac {(2  \\times 10^{30}) (5.98 \\times 10^{24})} {(1.5 \\times 10^{11})^2}\\)]</p><p>= 3.55 x 10\\(^{22}\\)N</p><p> </p><p>(d)  (i) <strong>Definition of escape velocity</strong>; The minimum uni-directional speed/velocity required by a body to leave the gravitational field/influence of a planet                                 </p><p>(ii) <strong>Differences between acceleration of free fall (g) and universal gravitational constant (G)</strong></p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td style=\"vertical-align:top\">\n<p><strong>g</strong></p>\n</td>\n<td style=\"vertical-align:top\">\n<p><strong>G</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top\">\n<p>Its unit is N m2 kg-2</p>\n</td>\n<td style=\"vertical-align:top\">\n<p>Its unit is m s-2 / N kg-1</p>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top\">\n<p>It is constant everywhere</p>\n</td>\n<td style=\"vertical-align:top\">\n<p>It varies from place to place</p>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top\">\n<p>It is a scalar quantity</p>\n</td>\n<td style=\"vertical-align:top\">\n<p>It is a vector quantity</p>\n</td>\n</tr>\n</tbody>\n</table>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2019,
+        "question": "<p>(a) (i) Explain latent heat.<br>\n(ii) State two factors that affect the rate of evaporation of a liquid</p><p>                    <br>\n(b) Explain each of the following observations:<br>\n(i)  On a dry day, water in a clay pot is cooler than water in a closed plastic container;<br>\n(ii) Food gets cooked faster in a pressure cooker than in an ordinary cooking pot.                  </p><p>                                                 <br>\n(c) State two effects of heat on a substance.  </p><p>                                         <br>\n(d)  A 40 V electric heater is used to supply a current of 12 A for 1400 s to a body of mass 1.5 kg at the melting point of the body.  The body melts and its temperature rises through 60\\(^o\\)C in an extra 72 s.  Determine the:<br>\n(i) latent heat of fusion of the body;</p><p>(ii)specific heat capacity of the body.  </p><p> </p>",
+        "answer": "<p>(a)(i)  <strong>Explanation of latent heat</strong></p><p>When a substance is changing state, it absorbs/gives out thermal/heat energy which does not result in temperature change. This heat absorbed or given out during change of state is known as latent heat.                                  <br>\n<br>\n(ii) <strong>Factors that affect the rate of evaporation of a liquid</strong></p><p>-    exposed surface area of the liquid<br>\n-    temperature of the liquid<br>\n-    wind / draught<br>\n-    humidity / amount of water vapour<br>\n-    nature of the liquid<br>\n-    air pressure.</p><p><br>\n(b) <strong>Explanation of observations</strong></p><p>(i) Water in a clay pot is cooler than water in a closed plastic container</p><p><br>\nThe clay pot has pores which allow evaporation to take place.  In the process of evaporation, molecules take latent heat from the bulk of the water, leaving the water cooler; but the plastic container does not have pores (to allow for evaporation).</p><p> </p><p>(ii) Food gets cooked faster in a pressure cooker than in an ordinary cooking pot</p><p><br>\nWith the pressure cooker, increased pressure raises the boiling point of water within a short period. This leads to faster cooking. Ordinary cooking pot operates at normal atmospheric pressure.</p><p> </p><p>(c) <strong>Effects of heat on a substance</strong><br>\nChange of/in:<br>\n- state<br>\n- temperature<br>\n- dimension<br>\n- colour<br>\n- electrical resistance</p><p> </p><p> (d) (i) <strong>Determination of latent heat of fusion of the body</strong><br>\n<br>\nHeat supplied by electric heater in the first 1400 s<br>\nIVt\\(_1\\) = mlf                   <br>\nmlf = 12 x 40 x 1400  </p><p>= 6.72 x 105J                                                                                                                                                                                          <br>\n(ii)        <strong>Determination of Specific heat capacity of the body</strong></p><p> </p><p>IVt\\(_2\\) = mc\\(\\Delta \\theta\\)</p><p>c = \\(\\frac{IVt_2}{m \\Delta \\theta}\\) = \\(\\frac{12 \\times 40 \\times 72}{1.5 \\times 60}\\)</p><p>= 384 Jk\\(^{-1}\\) K\\(^{-1}\\) </p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2019,
+        "question": "<p>(a) (i) Define force and state its S.I unit.<br>\n(ii) List the two types of solid friction.                                        <br>\n(b) A car travelling at a constant speed of 30 ms-1 for 20 s was suddenly decelerated when the driver sighted a pot-hole.  It took the driver 6 s to get to the pot-hole with a reduced speed of 18 ms-1.  He maintained the steady speed for another 10 s to cross the pot-hole.  The brakes were then applied and the car came to rest 5 s later. <br>\n(i) Draw the velocity-time graph for the journey.<br>\n(ii) Calculate the deceleration during the last 5 s of the journey.</p><p>(iii) Calculate the total distance covered. </p>",
+        "answer": "<p>(a) (i) <strong>Definition of force</strong><br>\n                                <br>\nAction/push/pull that changes/tends to change the state of rest or of uniform motion in straight line. Its unit is newton (N) </p><p>(ii) <strong>Types of solid friction</strong></p><p>-   dynamic (friction)<br>\n-   static (friction)                                   </p><p>(b) (i)  <strong>Velocity-time graph for journey</strong></p><p> </p><p><img alt=\"\" src=\"https://waeconline.org.ng/e-learning/Physics/phys228jq11a.png\"></p><p> </p><p><img alt=\"\" src=\"https://waeconline.org.ng/e-learning/Physics/Phys228mq11.png\"></p><p></p><p> </p><p></p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2019,
+        "question": "<p> </p><p><img alt=\"\" src=\"https://waeconline.org.ng/e-learning/Physics/Phys228mq12.png\"></p><p> </p><p>The diagram above illustrates a structure of a typical photocell.</p><p><br>\n(i)  Identify each of the parts labelled A and B.<br>\n(ii) State one function each of A and B<br>\n(iii) Einstein’s photoelectric equation can be written as E = hf – Wo.  State what each of the terms E, hf and Wo represent.           <br>\n(b) A photon is incident on a metal whose work function is 1.32 eV.  An electron is emitted from the surface with a maximum kinetic energy of 1.97 eV. Calculate the frequency of the photon. [1 eV = 1.6 x 10-19 J]                                                 <br>\n(c)(i) Define half-life of a radioactive element.<br>\n(ii) Sketch a graph of the relation N = Noe-λt and indicate the half-life.         </p><p>              </p>",
+        "answer": "<p>The expected answer is:</p><p>(a) (i) <strong>Identification of labelled parts of photocell</strong></p><p><strong>A</strong>   -    Emitter / cathode<br>\n<strong>B</strong>   -    Collector / anode</p><p>(ii) <strong>Function of part of photocell</strong></p><p>  <strong>A</strong>   -    emits electrons</p><p>  <strong>B</strong>   -    attracts electrons</p><p> </p><p>(iii) <strong>Meaning of terms in Einstein’s photoelectric equation</strong></p><p>   E  -    kinetic energy of photoelectrons</p><p>   hf  -   energy of incident photon</p><p>   Wo -  work function of metal</p><p> </p><p><img alt=\"\" src=\"https://waeconline.org.ng/e-learning/Physics/Phys228mq12a.png\"></p><p></p><p> </p><p></p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2019,
+        "question": "<p>(a) (i) Define atomic spectra.<br>\n(ii) Differentiate between emission spectra and absorption spectra.</p><p>(b)</p><p> <img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/235418459_308778097700048_7960602520395262002_n.jpg?_nc_cat=109&amp;ccb=1-4&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGJq-1Szz8U3djK8Q7FMl2Vto36fYwTCyC2jfp9jBMLII_Xum5wKDXh6s0FtYzQ0XXm3G_Y_zdtx_AeSRP6v-ol&amp;_nc_ohc=eWXHC4hBvYMAX9QeKF3&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=695b9aeaacd5fda035eb66122c8142b3&amp;oe=613C3C4F\"></p><p>The diagram above illustrates an electron transition from energy level n = 3 to n = 1. Calculate the:</p><p>(i) energy of the photon</p><p>(ii) frequency of the photon</p><p>(ii) wavelength of the photon [h = 6.6 x 10\\(^{-34}\\)J s, c = 3.0 x 10\\(^8\\) ms\\(^{-1}\\); 1 ev = 1.6 x 10\\(^{-19}\\) J]</p><p> </p><p>c)(i)Differentiate between soft x-rays and hard x-rays                                                                                                                                                                                       </p><p>(ii) Draw the circuit symbol for a p-n junction diode.                                                                                                                                                                                       </p><p>(iiii) Give the reason for doping a semiconductor material</p>",
+        "answer": "<p>(a) The emission of light from a substance when its excited electrons move to a lower energy level.<br>\nOR<br>\nDistinct/separate bright lines of light of definite frequency/wavelength (emitted from vapourised atoms)</p><p>(ii) Emission spectra is the pattern of light displayed when electrons jump from a higher energy level to a lower energy level, while absorption spectra is the displayed pattern of wavelengths absorbed by the gas.</p><p><br>\n(b) \\(\\Delta\\)E = E\\(_i\\) - E\\(_f\\)<br>\n= -1.51 + 13.6<br>\n= 12.09 eV<br>\n= 12.09 x 1.6 x 10\\(^{-19}\\) J</p><p>= 1.934 x 10\\(^{-18}\\) J</p><p>(ii) \\(\\Delta\\)E- hf<br>\nf = \\(\\frac{\\Delta E}{h}\\) = \\(\\frac{1.934 \\times 10^{-18}}{6.6 \\times 10^{-34}}\\)<br>\nf = 2.93 x 10\\(^{15}\\)Hz</p><p> </p><p>(ii) c = f\\(\\lambda\\)</p><p>\\(\\lambda\\) = \\(\\frac{3 \\times 10^8}{2.93 x 10^{13}}\\)</p><p>= 1.023 x 10\\(^{-7}\\)m</p><p> </p><p>(c) (I) Soft x-rays are those with longer wavelengths/lowNer penetrating/less energy while hard x-rays are those with shorter wavelengths/higher penetrating power more energy.</p><p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/236572074_187205496670794_4881593240724118193_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGh7kF8tSjFdUz4aok6D8jYPf9oXnwf_BU9_2hefB_8FVuukmnD3724jDQoV3475yIJTxxw-Tg8E9knA19SiR6G&amp;_nc_ohc=pNNnzvQK0M0AX8_0hHE&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=d0cdfe194f18c95dd43118c8ae3caf4b&amp;oe=613C4496\"></p><p>(iii) To increase the electrical conductivity/reduce electrical resistivity of the semiconductor.</p>",
+        "type": "theory"
+    }
+]

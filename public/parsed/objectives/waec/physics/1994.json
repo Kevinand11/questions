@@ -1,0 +1,731 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1994,
+        "question": "which of the following is a scalar quantity?",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Tension",
+            "Weight",
+            "Impulse",
+            "Upthrust",
+            "Distance"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1994,
+        "question": "In which of the following simple machines is the effort applied between the load and the fulcrum?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Scissors",
+            "Pliers",
+            "Wheel barrow",
+            "Sugar tongs",
+            "Nutcrackers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1994,
+        "question": "<p>The ice and steam points on a mercury in glass thermometer are found to be 90mm apart. What temperature is recorded in degree Celsius when the length of the mercury thread is 33.6mm above the ice point mark?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20200205_144538.jpg\" style=\"height:165px; width:200px\"></p><p>\\(\\frac{x - 0}{100 - 0} = \\frac{33.6 - 0}{90 - 0}\\)</p><p>\\(\\frac{x}{100} = \\frac{33.6}{90}\\)</p><p>\\(90x = 3360 \\implies x = \\frac{3360}{90}\\)</p><p>= 37.3°C</p>",
+        "correctIndex": 2,
+        "options": [
+            "33.6°C",
+            "35.0°C",
+            "37.3°C",
+            "52.7°C",
+            "62.7°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1994,
+        "question": "A gas occupies a certain volume at 27°C. At what temperature will its volume be three times the original volume assuming that its pressure remains constant?",
+        "explanation": "\\(\\frac{V_{1}}{T_{1}}\\) = \\(\\frac{V_{2}}{T_{2}}\\) x \\(\\frac{V_{1}}{27+273}\\) = \\(\\frac{3V_{1}}{T_{2}}\\) , \\(T_{2}\\)= 900K; T=627°C",
+        "correctIndex": 3,
+        "options": [
+            "81°C",
+            "162°C",
+            "354°C",
+            "627°C",
+            "900°C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1994,
+        "question": "When two objects P and Q are supplied with the same quantity of heat,the temperature change in P is observed to be twice that in Q. If the masses of P and Q are the same,calculate the ratio of the specific heat capacities of P and Q",
+        "explanation": "\\(MC_{p}\\ \\times 2\\theta^2\\ = mc\\theta\\ \\times \\theta\\) ; \\(\\frac{C_{p}}{CQ}\\) = \\(\\frac{m}{2mo}\\)",
+        "correctIndex": 3,
+        "options": [
+            "1:1",
+            "1:3",
+            "1:4",
+            "1:2",
+            "4:1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1994,
+        "question": "The instrument used in the measurement of atmospheric pressure is?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Hydrometer",
+            "Ratemeter",
+            "Barometer",
+            "Photometer",
+            "Manometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1994,
+        "question": "A tap supplies water at 30°C while another supplies at 86°C. If a man wishes to bath with water at 44°C, calculate the ratio of mass of hot water to that of cold water required",
+        "explanation": "\\(M_Hc\\theta_{H} = M_cc\\theta_c\\)<br>\\(M_h(86-44) = M_c(44-30)\\) thus giving 1:3",
+        "correctIndex": 0,
+        "options": [
+            "1:3",
+            "3:1",
+            "3:7",
+            "7:3",
+            "15:8"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1994,
+        "question": "A steam trap is a component of apparatus used in determining the specific latent heat of vaporization of steam. In the steady state, the steam trap",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "stores the steam for future use",
+            "prevents the steam from escaping",
+            "ensures that only dry steam gets into the calorimeter",
+            "allows condensed steam to go into the calorimeter",
+            "determines the quantity of steam used"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1994,
+        "question": "A hygrometer is an instrument used to measure",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Dew point",
+            "Temperature",
+            "Relative density",
+            "Relative humidity",
+            "Vapour pressure"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1994,
+        "question": "The image of an object placed at the center of the curvature of a concave mirror is",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Inverted and magnified",
+            "at the principal focus",
+            "real and diminshed",
+            "Erect and virtual",
+            "at the center of the curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1994,
+        "question": "A simple magnifying glass is used to view an object. At what distance from the lens must the object be placed so that an image 5 times the size of the object is produced 20cm from the lens?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2cm",
+            "4cm",
+            "15cm",
+            "25cm",
+            "100cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1994,
+        "question": "The inability of the eye to focus near objects is known as",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Long sight",
+            "Astigmatism",
+            "Presbyopia",
+            "Glaucoma",
+            "Short sight"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1994,
+        "question": "<p>Which of the following are transverse waves? I. Ripples on water II. Sound waves in air III. Light waves from the sun</p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "II only",
+            "I only",
+            "II and III only",
+            "I and II only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1994,
+        "question": "Which of the following has the shortest wavelength?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Infrared rays",
+            "Gamma rays",
+            "Ultra violet rays",
+            "Radio waves",
+            "Visible light"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1994,
+        "question": "The electrical energy supplied by a Leclanche cell is obtained from the",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Nuclear energy",
+            "Magnetic energy",
+            "Solar energy",
+            "Chemical energy",
+            "Mechanical energy"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1994,
+        "question": "Which of the following is not a part of an A.C generator?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Carbon brushes",
+            "Slip rings",
+            "Commutator",
+            "Field magnet",
+            "Armature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1994,
+        "question": "Which of the following scientists postulated that moving particles exhibit wave properties?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Niels Bohr",
+            "Ernest Rutherford",
+            "Werner Heisenberg",
+            "Louis de Broglie",
+            "Erwin Schroedinger"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1994,
+        "question": "A battery of e.m.f 10V an internal resistance 2Ω is connected to a resistance of 6Ω. Calculate the p.d",
+        "explanation": "V = E - Ir = 10V - \\(\\frac{10 \\times 2}{8}\\) = 7.5V",
+        "correctIndex": 1,
+        "options": [
+            "8.75V",
+            "7.50V",
+            "5V",
+            "2.50V",
+            "1.25V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1994,
+        "question": "A rectangular coil can rotate in a magnetic field. The two ends of the coil are soldered respectively to the two halves of a commutator. Two carbon brushes are made to press lightly against the commutator and when these are connected in a circuit with a battery and a rheostat, the coil rotates. This is a description of",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "a moving coil ammeter",
+            "a D.C generator",
+            "a D.C electric motor",
+            "An induction coil",
+            "An A.C generator"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1994,
+        "question": "A car fuse is marked 15A and operates normally on a 12V battery. Calculate the resistance of the fuse wire",
+        "explanation": "R = \\(\\frac{V}{I} = \\frac{12}{15}\\) = 0.8Ω",
+        "correctIndex": 4,
+        "options": [
+            "180Ω",
+            "27Ω",
+            "3Ω",
+            "1.3Ω",
+            "0.8Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 1994,
+        "question": "A particle of charge q and mass m moving with a velocity v enters a uniform magnetic field of strength B in the direction of the field. The force on the particle is",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "qvB",
+            "mqvB",
+            "qvB/m",
+            "mvB/q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1994,
+        "question": "A lamp marked 100W, 250V is lit for 10 hours. If it operates normally and 1KWh of electrical energy costs 2k, what is the cost of lighting the lamp?",
+        "explanation": "100W X 10h = 1000Wh = 1KWh thus cost is 2k",
+        "correctIndex": 1,
+        "options": [
+            "1k",
+            "2k",
+            "5k",
+            "10k",
+            "20k"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1994,
+        "question": "Which of the following is a stringed instrument?",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "Flute",
+            "Trumpet",
+            "Piano",
+            "Drum",
+            "Organ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 1994,
+        "question": "A transformer with 5500 turns in its primary winding is used between a 240V a.c supply and 120V kettle. Calculate the number of turns in the secondary winding",
+        "explanation": "\\(\\frac{E_s}{E_p} = \\frac{N_s}{N_p} ; \\frac{120}{240}= \\frac{N_s}{5500} thus N_s\\)=2750",
+        "correctIndex": 1,
+        "options": [
+            "11000",
+            "2750",
+            "460",
+            "550",
+            "232"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 1994,
+        "question": "Beta particles are",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "electrons",
+            "protons",
+            "neutrons",
+            "helium nuclei",
+            "tritium nuclei"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1994,
+        "question": "Which of the following substances is not an insulator?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Aluminium",
+            "Glass",
+            "Plastic",
+            "Clay",
+            "Cork"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1994,
+        "question": "When an atom loses or gains a charge, it becomes an",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ion",
+            "an electron",
+            "a neutron",
+            "a proton",
+            "a deuteron"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1994,
+        "question": "In 24 days a radioactive isotope decreases in mass from 64g to 2g. What is the half life of the radioactive material",
+        "explanation": "64g → 32g → 16g → 8g → 4g → 2g<br><br>Half life time= 24/5 = 4.8 days",
+        "correctIndex": 3,
+        "options": [
+            "0.75 days",
+            "2.58 days",
+            "4 days",
+            "4.80 days",
+            "6 days"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1994,
+        "question": "The nucleon number and the proton number of a neutral atom of an element are 238 and 92 respectively. What is the number of neutrons in the atom?",
+        "explanation": "238 - 92 = 146",
+        "correctIndex": 2,
+        "options": [
+            "330",
+            "238",
+            "146",
+            "119",
+            "73"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1994,
+        "question": "The wave function of a metal is 8.0 x \\(10^{-19}\\)J. Calculate the wavelength of its threshold frequency. (Speed of light in a vacuum = 3 x \\(10^8ms^{-1}, Planck's constant = 6.6 \\times 10^{-34}\\)Js)",
+        "explanation": "\\(\\theta = E - E_f = h_f = \\frac{v}{\\lambda} \\Rightarrow = \\lambda = \\frac{h_v}{\\theta}<br>\\frac{6.6\\times 10^{-34} \\times 3 \\times 10^{8}}{8.6 \\times 10^{-19}} = 0.8 \\times 10^{-7}\\)m",
+        "correctIndex": 2,
+        "options": [
+            "0.8 x \\(10^{-7}\\)m",
+            "1 x \\(10^{-7}\\)m",
+            "2.3 x \\(10^{-7}\\)m",
+            "3.8 x \\(10^{-7}\\)m",
+            "12.4 x \\(10^{-7}\\)m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1994,
+        "question": "A note of frequency of 2000Hz has a velocity of \\(400ms^{-1}\\). What is the wavelength of the note?",
+        "explanation": "\\(\\lambda = \\frac{v}{f} = \\frac{400}{2000} = 0.2\\)m",
+        "correctIndex": 4,
+        "options": [
+            "800m",
+            "200m",
+            "5m",
+            "2m",
+            "0.2m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1994,
+        "question": "A cell of e.m.f. 1.5V and internal resistance of 2.5Ω is connected in series with an ammeter of resistance 0.5W and a resistor of resistance of 7.0Ω. Calculate the current in the circuit.",
+        "explanation": "I =\\(\\frac{E}{R+r} = \\frac{1.5}{2.5+0.5+7}\\) = 0.15A",
+        "correctIndex": 0,
+        "options": [
+            "0.15A",
+            "0.20A",
+            "2.10A",
+            "3A",
+            "6.6A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1994,
+        "question": "A ball is dropped from a height of 45m above the ground. Calculate the velocity of the ball just before it strikes the ground. (Neglect air resistance and take g as \\(10ms^{-2}\\)",
+        "explanation": "\\(v^2 = u^2+2as=0^2 + 2\\times 10\\times 45 \\Rightarrow<br>v^2 = 900m^2s^{-2} \\Rightarrow \\\\<br>v = \\sqrt{900m^2s^{-2}} \\Rightarrow<br>v = 30ms^{-1}\\)",
+        "correctIndex": 1,
+        "options": [
+            "21.2\\(ms^{-1}\\)",
+            "30\\(ms^{-1}\\)",
+            "300\\(ms^{-1}\\)",
+            "450\\(ms^{-1}\\)",
+            "900\\(ms^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1994,
+        "question": "A body accelerates uniformly from rest at \\(2ms^{-2}\\). Calculate the velocity after traveling 9m",
+        "explanation": "\\(V^2= U^2+2as\\) =\\(0+ 2\\times 2ms^{-2}\\times 9 =36ms^{-1}\\) thus<br>V=\\(\\sqrt{36m^2s^{-2}}\\) = \\(6ms^{-1}\\)",
+        "correctIndex": 2,
+        "options": [
+            "36\\(ms^{-1}\\)",
+            "18\\(ms^{-1}\\)",
+            "6\\(ms^{-1}\\)",
+            "4.5\\(ms^{-1}\\)",
+            "4.24\\(ms^{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1994,
+        "question": "A metal rod of length 40cm at 20°C is heated to a temperature of 45°C. If the new length of the rod is 40.05cm. Calculate its linear expansitivity",
+        "explanation": "\\(\\alpha = \\frac{I_2-I_1}{I_1(\\theta_2-\\theta_1)} \\\\ \\Rightarrow \\frac{40.05 - 40}{40 \\times (45-20)} = 5.0 \\times10^{-5}\\)",
+        "correctIndex": 4,
+        "options": [
+            "1.2 x \\(10^{-5}K{-1}\\)",
+            "2.5x \\(10^{-5}K{-1}\\)",
+            "3.5x \\(10^{-5}K{-1}\\)",
+            "4.5x \\(10^{-5}K{-1}\\)",
+            "5x \\(10^{-5}K{-1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1994,
+        "question": "500g of water is heated so that its temperature rises from 30°C to 72°C in 7 minutes. calculate the supplied per minute. (Specific heat capacity of water is 4200J\\(kg^{-1}K^{-1}\\)",
+        "explanation": "\\(\\frac{Q}{t} = \\frac{0.5\\times4200\\times(72-30)}{7}=12600J\\)",
+        "correctIndex": 1,
+        "options": [
+            "9000J",
+            "12600J",
+            "21000J",
+            "25200J",
+            "88200J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1994,
+        "question": "An electric kettle rated 1500W boils away 0.3kg of a liquid at its boiling point every 300s. Calculate the specific latent heat of the vaporisation of the liquid",
+        "explanation": "Pt=mI; I=\\(\\frac{1500\\times300}{0.3}=1.5\\times10^6Jkg^-1\\)",
+        "correctIndex": 0,
+        "options": [
+            "1.5 x \\(10^6Jkg^-1\\)",
+            "1.35 x \\(10^6Jkg^-1\\)",
+            "1.5 x \\(10^5Jkg^-1\\)",
+            "4.5 x \\(10^2Jkg^-1\\)",
+            "3 x \\(10^2Jkg^-1\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1994,
+        "question": "\\(500cm^{-3}\\) of a gas is collected at 0°C and at a pressure of 72cm of mercury. What is the volume of the the gas at the same temperature and at a pressure of 76cm of the same mercury?",
+        "explanation": "\\(P_1V_1=P_2V_2, V_2= \\frac{72\\times500}{76}cm^3\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{76\\times500}{72}cm^3\\)",
+            "\\(\\frac{72\\times500}{76}cm^3\\)",
+            "\\(\\frac{72\\times76}{500}cm^3\\)",
+            "\\(\\frac{76}{72\\times500}cm^3\\)",
+            "\\(\\frac{72}{76\\times500}cm^3\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1994,
+        "question": "The pressure of air in a tire is \\(22.5Nm^{-2}\\) at 27°C. If the air in the tyre heats up to 47°C, calculate the new pressure of the air, assuming that no air leaks out and that the change in volume of the air can be neglected.",
+        "explanation": "\\(\\frac{P_1}{T_1}=\\frac{P_2}{T_2};P_2= \\frac{22.5\\times320K}{300K}=24Nm^{-2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(21.10Nm^{-2}\\)",
+            "\\(24Nm^{-2}\\)",
+            "\\(39.07Nm^{-2}\\)",
+            "\\(45Nm^{-2}\\)",
+            "\\(97.25Nm^{-2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1994,
+        "question": "Calculate the time taken to heat 2kg of water from 50°C to 100°C in an electric kettle taking 5A, from a 210V supply. (Specific heat capacity of water = 4200\\(kg^{-1}K{-1}\\)",
+        "explanation": "t = \\(\\frac{mc\\theta}{p}= \\frac{2\\times4200\\times50}{210\\times5} \\\\ = 400s = 6.7\\)",
+        "correctIndex": 2,
+        "options": [
+            "2.5 minutes",
+            "5.7 minutes",
+            "6.7 minutes",
+            "7.5 minutes",
+            "9.5 minutes"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1994,
+        "question": "A light wave travels from air into a medium of refractive index 1.54. If the wavelength of the light in air is \\(5.9\\times10^{-7}\\)m, calculate its wavelength in the medium",
+        "explanation": "n =\\(\\frac{wavelength\\, in\\, air}{wavelength\\, in \\,medium}= \\frac{5.9\\times10^{-7}}{1.54}= 3.8\\times10^{-7}\\)m",
+        "correctIndex": 1,
+        "options": [
+            "\\(2.5\\times10^{-7}\\)m",
+            "\\(3.8\\times10^{-7}\\)m",
+            "\\(4.6\\times10^{-7}\\)m",
+            "\\(5.2\\times10^{-7}\\)m",
+            "\\(6.1\\times10^{-7}\\)m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1994,
+        "question": "The density of a body is \\(5\\times10^3kgm{^-3}\\) and it weighs 1N in air. Calculate the apparent weight of the body when totally immersed in water. (Density of water =\\(10^3kgm{-3}, g= 10ms^{-2}",
+        "explanation": "Upthrust = weight of the water displaced =pvg= 1000 x 2 x \\(10^{-5}\\)=0.20N \\\\ Apparent weight = weight in air – upthrust = 1-0.2N=0.8N",
+        "correctIndex": 3,
+        "options": [
+            "0.02N",
+            "0.08N",
+            "0.20N",
+            "0.80N",
+            "1N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1994,
+        "question": "The density of water is 1g\\(cm^3\\) while that of ice is 0.9\\(cm^3\\), calculate the volume change when 90g of ice is completely melted",
+        "explanation": "V = \\(\\frac{m}{p} \\, ice volume= 90 cm^3;water volume =100 cm^3\\\\<br>Volume change = (100-90) cm^3= 10 cm^3\\)",
+        "correctIndex": 2,
+        "options": [
+            "0\\(cm^3\\)",
+            "9\\(cm^3\\)",
+            "10\\(cm^3\\)",
+            "90\\(cm^3\\)",
+            "100\\(cm^3\\)"
+        ],
+        "type": "objectives"
+    }
+]

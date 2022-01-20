@@ -1,0 +1,722 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2009,
+        "question": "In which of the following states of matter do the molecules vibrate about their mean positions?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "liquids only",
+            "solids only",
+            "liquids and gasses only",
+            "solids, liquids and gases"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2009,
+        "question": "Which of the following properties of a steel bar can be measured in terms of the dimension of length only?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "weight",
+            "density",
+            "pressure",
+            "volume"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2009,
+        "question": "In a hydraulic press, a force of 40N is applied to the smaller priston of area 10cm<sup>2</sup>. If the area of the larger piston is 200cm<sup>2</sup>, calculate the force obtained",
+        "explanation": "\\(F_2 = \\frac{F_1 \\times A_2}{A_1} = \\frac{40 \\times 200}{10} = 800N\\)",
+        "correctIndex": 0,
+        "options": [
+            "800N",
+            "500N",
+            "80N`",
+            "50N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2009,
+        "question": "A body of volume 0.046m<sup>3</sup>is immersed in a liquid of density 980kgm<sup>-3</sup>with \\(\\frac{3}{4}\\) of its volume submerged. Calculate the upthrust on the body. [g = 10ms<sup>-2</sup>]",
+        "explanation": "M = D x V<br><br>= 980 x 0.046 x \\(\\frac{3}{4}\\) = 33.81kg<br><br>upthrust = mg = 33.81 x 10<br><br>= 338.1N",
+        "correctIndex": 3,
+        "options": [
+            "11.27N",
+            "33.81N",
+            "112.70N",
+            "338.10N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2009,
+        "question": "Which of the following types of types of motion will be produced when a pair of equal and opposite non-collinear parallel forces acts on a body?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "vibrational motion",
+            "random motion",
+            "translational motion",
+            "rotational motion"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2009,
+        "question": "A body moving in a circle at constant speed has i. a velocity tangent to the circle ii. a constant kinetic energy ii. an acceleration directed towards the circmference of the circle ii. an acceleration directed towards the circumference of the circle. Which of the statements above are correct?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i and ii only",
+            "ii and iii",
+            "ii and iii only",
+            "i and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2009,
+        "question": "A moving body accelerates when it",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "changes its direction at constant speed",
+            "mauntains a constant linear speed",
+            "covers equal distances in equal times in a straight line",
+            "is acted upon by balanced forces"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2009,
+        "question": "The following properties of a solid are measured on earth i. weight ii. specific heat capacity iii. density. Which of the properties will hav a different value if measured in space?",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i only",
+            "ii only",
+            "iii only",
+            "ii and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2009,
+        "question": "Two forces 6N and 8N, act eastwards and northwards respectively on a body. Calculate the magnitude of their equilibrant",
+        "explanation": "R = \\(\\sqrt{A^2 + B^2} = \\sqrt{6^2 + 8^2} = 10N\\)",
+        "correctIndex": 2,
+        "options": [
+            "2N",
+            "7N",
+            "10N",
+            "14N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2009,
+        "question": "The period of a simple pendulum of length 80.0cm was found to have doubled when the length of the pendulum was increased by X. Calculate X.",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "26.7cm",
+            "40.0cm",
+            "160.0cm",
+            "240.0cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2009,
+        "question": "A body of mass 5kg movimg with a velocity of 30ms<sup>-1</sup>due east is suddenly hit by another body and changes its velocity to 50ms<sup>-1</sup>in the same direction. Calculate the magnitude of the impulse received.",
+        "explanation": "I = Ft = m(v - u)<br><br>= 5(50 - 30) = 100",
+        "correctIndex": 0,
+        "options": [
+            "100Ns",
+            "150Ns",
+            "250Ns",
+            "400Ns"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2009,
+        "question": "Electric energy is measured in",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "ampere",
+            "coulomb",
+            "kilowatt-hour",
+            "kilowatt"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2009,
+        "question": "A stone of mass 0.5kg is dropped from a height of 12m. Calculate its maximum kinetic energy. [g = 10ms<sup>-1</sup>]",
+        "explanation": "K.E = P.E = mgh<br><br>= 0.5 x 10 x 12 = 60J",
+        "correctIndex": 3,
+        "options": [
+            "3.0J",
+            "6.0J",
+            "30.0j",
+            "60.0J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2009,
+        "question": "A machine of efficiency 80% is used to lift a box. If the effort applied by the machine is twice the weight of the box. Calculate the velocity ratio of the machine",
+        "explanation": "Y = \\(\\frac{M.A}{V.R} \\times \\frac{100}{1}\\)<br><br>= \\(\\frac{\\frac{1}{2}}{V.R} \\times \\frac{100}{1}\\)<br><br>V.R = 0.625",
+        "correctIndex": 1,
+        "options": [
+            "0.50",
+            "0.63",
+            "0.80",
+            "1.60"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2009,
+        "question": "A faulty thermometer registers 102.5<sup>o</sup>C t 100<sup>o</sup>C. If the thermometer has no zero hour, what will it register at 55<sup>o</sup>C?",
+        "explanation": "x = \\(\\frac{102.5 \\times 55}{100}\\)<br><br>= 56.375<sup>o</sup>C",
+        "correctIndex": 3,
+        "options": [
+            "54.6<sup>o</sup>C",
+            "55.0<sup>o</sup>C",
+            "56.0<sup>o</sup>C",
+            "56.4<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2009,
+        "question": "A rod of initial lenght 2m at a temperature of 25<sup>o</sup>C is heated to 80<sup>o</sup>C. Calculate the increase in length of the rod if its linear expansivity is 4.0 x 10<sup>-3</sup>K<sup>-1</sup>",
+        "explanation": "\\(l_2 - l_1 = \\alpha l_1 (\\theta_2 - \\theta_1) = 4.0 \\times 10^{-3} \\times 2(80 - 25)\\)<br><br>= 0.44m",
+        "correctIndex": 1,
+        "options": [
+            "0.26m",
+            "0.44m",
+            "0.53m",
+            "0.84m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2009,
+        "question": "as a bicycle Tyre was being pumped up, it was noticed that contrary to Boyle's law the volume increased as the pressure increased. The best explanation of this is that Boyle's law is only true for",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "ideal gases",
+            "a fixed mass of gas",
+            "a mixture of gases",
+            "a gas at variable temperature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2009,
+        "question": "It takes 4 minutes to boil a quantity of water using an electrical heating coil. How long will it take to boil the same quantity of water using the same coil if the current is doubled? [Neglect any external heat losses]",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "8 minutes",
+            "4 minutes",
+            "2 minutes",
+            "1 minute"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2009,
+        "question": "When table salt is added to ice, the melting point of the ice",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "is raised",
+            "is lowered",
+            "remains unchanged",
+            "is first raised, then lowered"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2009,
+        "question": "Which of the following is used to measure relative humidity?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "hydrometer",
+            "barometer",
+            "hypsometer",
+            "hygrometer"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 21,
+        "year": 2009,
+        "question": "Which of the following factors affect the rate of evaporation of a liquid? i. Exposed surface area ii Temperature of the surroundings iii. Thermal capacity of the liquid iv. Relative humidity of the surroundings",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ii and iii only",
+            "ii, iii and iv only",
+            "i, iii and iv only",
+            "i, ii amd iv only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 22,
+        "year": 2009,
+        "question": "The maximum displacement of a vibrating tunning fork is its",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "amplitude",
+            "frequency",
+            "period",
+            "wavelength"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2009,
+        "question": "A boat is rocked by waves of speed 30ms<sup>-1</sup>whose successive crest are 10m apart. Calculate the rate at which the boat recieves the waves",
+        "explanation": "F = \\(\\frac{v}{\\lambda} = \\frac{30}{10} = 3s^{-1}\\)",
+        "correctIndex": 2,
+        "options": [
+            "30s<sup>-1</sup>",
+            "10s<sup>-1</sup>",
+            "3s<sup>-1</sup>",
+            "1s<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2009,
+        "question": "Which of the following waves is not transverse",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "light waves",
+            "sound waves",
+            "sea waves",
+            "radio waves"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2009,
+        "question": "Light travelling through a small pinhole usually does not make a shadow with a distinct sharp edge because of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "diffraction",
+            "inteference",
+            "reflection",
+            "refraction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2009,
+        "question": "The angle of incidence of a ray of light on a plane mirror is 55<sup>o</sup>. Determine the angle between the reflected ray and the mirror",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "35<sup>o</sup>",
+            "45<sup>o</sup>",
+            "55<sup>o</sup>",
+            "110<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 27,
+        "year": 2009,
+        "question": "A concave mirror forms a magnified and errect image only when the object is placed",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "at the centre of curvature",
+            "at the focus",
+            "between the focus and the pole of the mirror",
+            "beyound the radius of curvature"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2009,
+        "question": "A thin lens is placed 50cm from an illustrated object. The image produced has linear magnification of \\(\\frac{1}{4}\\). Calculate the power of the lens in dioptres",
+        "explanation": "\\(\\frac{1}{v} = \\frac{1}{u}\\)<br><br>m = \\(\\frac{v}{u} = \\frac{1}{4} = \\frac{v}{50}\\)<br><br>v = 12.5<br><br>But \\(\\frac{1}{v} + \\frac{i}{u} = \\frac{1}{f}\\)<br><br>= \\(\\frac{1}{50} + \\frac{1}{12.5} = f\\)<br><br>f = 10m<br><br>P = \\(\\frac{100}{10} = 10D\\)",
+        "correctIndex": 2,
+        "options": [
+            "2.5D",
+            "5.0D",
+            "10.0D",
+            "25.0D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2009,
+        "question": "Which of the following characteristics of light determines its colour?",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "velocity",
+            "wavelength",
+            "amplitude",
+            "intensity"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2009,
+        "question": "Which of the following is not a part of the electro-magnetic spectrum?",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "x-rays",
+            "microwaves",
+            "infrared radiation",
+            "alpha rays"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2009,
+        "question": "Sound interference is necessary to produce the phenomenon of",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "beats",
+            "doppler effect",
+            "acoustic resonance",
+            "echo"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2009,
+        "question": "A satellite in circular motion around the earth does not have",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "a gravitational force acting on it",
+            "a uniform velocity",
+            "an acceleration",
+            "a centripetal force acting on it"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2009,
+        "question": "When a conductor mounted on an insulating stand is charged and left for sometime, the conductor eventually loses all its charges. This is because the",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "electric charges evaporate from the surface of the conductor",
+            "charges are connected to earth",
+            "charges on the conductor are neutralized by opposite charges from the surrounding air",
+            "charges ionize the surrounding air"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2009,
+        "question": "An isolated metal sphere of radius R, carrying an electric charge Q, is situated in the medium of relative permitivity, E<sup>r</sup>. A test charge is placed at a point p, distance r from the surface of the sphere. Let E<sup>o</sup>represent the permitivity of free space. The electric potential at p is given by the expression",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{Q}{4 \\pi E_o E_r}\\)",
+            "\\(\\frac{Q}{4 \\pi E_o E_r (R +r)}\\)",
+            "\\(\\frac{Q}{4 \\pi E_o E_r(R - r)}\\)",
+            "\\(\\frac{Q}{4 \\pi E_o E_rR}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2009,
+        "question": "An isolated metal sphere of radius R, carrying an electric charge Q, is situated in the medium of relative permitivity, E<sub>r</sub>. A test charge is placed at a point p, distance r from the surface of the sphere. Let E<sub>o</sub>represent the permitivity of free space. The magnitude of the electric field intensity at P is given by the expression",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{Q}{4 \\pi E_o E_r r^2}\\)",
+            "\\(\\frac{Q}{4 \\pi E_o E_r(R + r)^2}\\)",
+            "\\(\\frac{Q}{4 \\pi E_o E_r(R - r)^2}\\)",
+            "\\(\\frac{Q}{4 \\pi E_o E_rR^2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2009,
+        "question": "A resistor of resistance R is connected to a battery of negligible internal resistance. If a siilar resistor is connected in series with it the",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "effective resistance of the circuit is halved",
+            "total power dissipated is doubled",
+            "total current in the circuit is halved",
+            "terminal voltage is halved"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2009,
+        "question": "A cell of e.m.f. 1.5V is connected in series with a resistor of resistance 3.0\\(\\Omega\\). A voltmeter connected across the cell registers 0.9V. Calculate the internal resistance of the cell",
+        "explanation": "\\(\\frac{V}{R} = \\frac{E}{R + r}\\)<br><br>\\(\\frac{0.9}{3} = \\frac{1.5}{3 + r}\\)<br><br>r = 2\\(\\Omega\\).",
+        "correctIndex": 0,
+        "options": [
+            "2.0\\(\\Omega\\).",
+            "3.0\\(\\Omega\\).",
+            "5.0\\(\\Omega\\).",
+            "6.0\\(\\Omega\\)."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2009,
+        "question": "A wire of resistivity 4.40 x 10<sup>-5</sup>\\(\\Omega\\) cm has a cross sectional area of 7.50 x 10<sup>-4</sup>cm<sup>2</sup>. Calculate the length of the wire that will be required to make a 4.0\\(\\Omega\\) resistor",
+        "explanation": "L = \\(\\frac{R.A}{e} = \\frac{4 \\times 7.50 \\times 106{-4}}{4.40 \\times 10^{-5}} = 68.18cm\\)",
+        "correctIndex": 1,
+        "options": [
+            "82.50 cm",
+            "68.18cm",
+            "15.90cm",
+            "11.95cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2009,
+        "question": "A battery of e.m.f. 12.0V and internal resistance0.5\\(\\Omega\\) is connected to 1.5\\(\\Omega\\) and 4.0\\(\\Omega\\) series resistor. Calculate the terminal voltage of the battery.",
+        "explanation": "\\(\\frac{V}{R} = \\frac{E}{R + r} = \\frac{V}{5.5} = \\frac{12}{6}\\)<br><br>v = 11.0V",
+        "correctIndex": 1,
+        "options": [
+            "13.0V",
+            "11.0V",
+            "3.0V",
+            "1.0V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2009,
+        "question": "If the direction of the curent in a straight wire is reversed, the magnetic field",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "remains the same",
+            "becomes parallel to the wire",
+            "ceases to exist",
+            "is oppositely directed"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2009,
+        "question": "An inductor of inductance 1.0H is connected in series with a capacitor of capacitance 2.0\\(\\mu F\\) in an a.c. circuit. to resonate",
+        "explanation": "f<sub>o</sub>= \\(\\frac{1}{2 \\pi \\sqrt{LC}} = \\frac{1}{2 \\times 3.14 \\sqrt{1 \\times 2 \\times 10^{-6}}}\\)<br><br>= 112.5Hz",
+        "correctIndex": 0,
+        "options": [
+            "112.5Hz",
+            "225.0Hz",
+            "323.5Hz",
+            "707.1Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2009,
+        "question": "An ammeter connected to an a.c circuit records 5.5. The peak current in the circuit is",
+        "explanation": "\\(I_o = I_{rms} \\times \\sqrt{2} = 5.5 \\times 1.41 = 7.8A\\)",
+        "correctIndex": 0,
+        "options": [
+            "7.8A",
+            "7.1A",
+            "3.8A",
+            "3.5A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2009,
+        "question": "Two isotopes of uranium are designed as \\(^{238}U\\) and \\(^{235}U\\). The numbers 238 and 235 represent their",
+        "explanation": "neutrons + protons = the nucleus or mass numbers.<br><br>U-238 has mass number(proton 92 + neutron 146=238)<br>U-235 has mass number (proton 92 + neutron 143 =235)",
+        "correctIndex": 1,
+        "options": [
+            "atomic numbers",
+            "nucleon numbers",
+            "proton numbers",
+            "neutron numbers"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2009,
+        "question": "The main difference between between x-rays and \\(\\gamma-rays\\) lies in their",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "ionizing ability",
+            "absorption rate",
+            "mode of production",
+            "mode of propagation"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2009,
+        "question": "An electron of mass 9.1 x 10<sup>-31</sup>kg moves with a speed of 10<sup>7</sup>ms<sup>-1</sup>. Calculate the wavelength of the associates wave[h = 6.6 x 10<sup>-34</sup>Js]",
+        "explanation": "\\(\\lambda = \\frac{hc}{\\frac{1}{2}mv^2}\\)<br><br>= \\(\\frac{6.6 x 10^{-34} \\times 3 \\times 10^8}{0.5 \\times 9.1 \\times 10^{-3} (10^7)^2}\\)<br><br>= 7.25 x 10<sup>-11</sup>m",
+        "correctIndex": 2,
+        "options": [
+            "9.0 x 10<sup>-24</sup>m",
+            "4.55 x 10<sup>-17</sup>m",
+            "7.25 x 10<sup>-11</sup>m",
+            "6.20 x 10<sup>-8</sup>m"
+        ],
+        "type": "objectives"
+    }
+]
