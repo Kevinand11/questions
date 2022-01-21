@@ -7,7 +7,6 @@
 			:value="value"
 			use-custom-image-handler
 			@input="$emit('update:value',$event)"
-			@image-added="handleImageUpload"
 		/>
 		<span v-if="error" class="small text-danger">{{ error }}</span>
 	</span>
@@ -17,7 +16,6 @@
 import { defineComponent } from '@vue/composition-api'
 // @ts-ignore
 import { VueEditor } from 'vue2-editor'
-import { uploadFile } from '@/utils/firebase'
 
 const customToolBar = [
 	[{ header: [2, 3, 4, 5, false] }],
@@ -40,10 +38,6 @@ export default defineComponent({
 			type: Array,
 			default: () => customToolBar
 		},
-		path: {
-			required: true,
-			type: String
-		},
 		placeholder: {
 			required: true,
 			type: String
@@ -55,20 +49,6 @@ export default defineComponent({
 		valid: {
 			required: true,
 			type: Boolean
-		}
-	},
-	setup (props) {
-		return {
-			handleImageUpload: async (file: File, editor: any, cursorLocation: any, resetUploader: any) => {
-				try {
-					const res = await uploadFile(props.path, file)
-					editor.insertEmbed(cursorLocation, 'image', res.link)
-					editor.setSelection(cursorLocation + 1, 'silent')
-					resetUploader()
-				} catch (e) {
-					await alert('Failed to upload file')
-				}
-			}
 		}
 	}
 })

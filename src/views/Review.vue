@@ -19,12 +19,18 @@
 		</div>
 		<button class="btn-lg btn-primary mb-3" @click="submit">Fetch Questions</button>
 		<p v-if="error" class="my-3 text-danger">{{ error }}</p>
-		<h3 v-if="questions.length">{{ questions.length }} questions</h3>
 		<hr class="my-5">
-		<div class="d-flex flex-column gap-3">
-			<ReviewQuestion v-for="(question, index) in questions" :key="index" :index="index + 1"
-			                :question="question" />
-		</div>
+		<template v-if="questions.length">
+			<Editor />
+			<hr class="my-5">
+			<h3>{{ questions.length }} questions</h3>
+			<select v-model="index" class="form-select text-capitalize my-3">
+				<option v-for="num in questions.length" :key="num" :value="num - 1">
+					Question {{ num }}
+				</option>
+			</select>
+			<ReviewQuestion :key="examType + subject + year + questionType + index" :question="questions[index]" />
+		</template>
 	</div>
 </template>
 
@@ -32,15 +38,17 @@
 import { defineComponent, ref } from '@vue/composition-api'
 import { examTypes, questionTypes, subjects, years } from '@/utils/questionModel'
 import ReviewQuestion from '@/components/questions/ReviewQuestion.vue'
+import Editor from '@/components/Editor.vue'
 
 export default defineComponent({
-	components: { ReviewQuestion },
+	components: { ReviewQuestion, Editor },
 	setup () {
 		const examType = ref(examTypes[0])
 		const subject = ref(subjects[0])
 		const year = ref(years[0])
 		const questionType = ref(questionTypes[0])
 		const questions = ref([])
+		const index = ref(0)
 		const fetched = ref(false)
 		const error = ref('')
 		const submit = async () => {
@@ -50,6 +58,7 @@ export default defineComponent({
 				questions.value = await fetch(link).then(res => res.json()).catch(() => {
 					throw new Error('this combo doesnt exist')
 				})
+				index.value = 0
 			} catch (e: any) {
 				error.value = e.message
 				questions.value = []
@@ -58,7 +67,7 @@ export default defineComponent({
 		return {
 			examType, subject, year, questionType,
 			examTypes, subjects, years, questionTypes,
-			error, submit, fetched, questions
+			error, submit, fetched, questions, index
 		}
 	}
 })

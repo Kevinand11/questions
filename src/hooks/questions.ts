@@ -42,7 +42,7 @@ export const useAddObjQuestion = () => {
 	}
 }
 
-export const useAddTheoryQuestion = () => {
+export const useAddTheoryQuestion = (path: string) => {
 	const factory = ref(new TheoryQuestionFactory())
 	const error = ref('')
 	const loading = ref(false)
@@ -53,7 +53,7 @@ export const useAddTheoryQuestion = () => {
 			try {
 				loading.value = true
 				const model = await factory.value.toModel()
-				await saveQuestionToDatabase(model, 'theory')
+				await saveQuestionToDatabase(model, path)
 				factory.value.reset()
 				await alert('Question uploaded successfully')
 			} catch (e: any) {

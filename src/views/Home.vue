@@ -7,11 +7,14 @@
 		</div>
 		<div class="lead text-capitalize mb-3">
 			<select v-model="type" class="form-control text-capitalize">
-				<option v-for="value in values" :key="value" :value="value">{{ value }}</option>
+				<option v-for="questionType in questionTypes" :key="questionType" :value="questionType">
+					{{ questionType }}
+				</option>
 			</select>
 		</div>
 		<ObjQuestion v-if="type === 'objectives'" />
-		<TheoryQuestion v-if="type === 'theory'" />
+		<TheoryQuestion v-if="type === 'theory'" :path="type" />
+		<TheoryQuestion v-if="type === 'practical'" :path="type" />
 	</div>
 </template>
 
@@ -20,14 +23,14 @@ import { defineComponent, ref } from '@vue/composition-api'
 import ObjQuestion from '@/components/questions/ObjQuestion.vue'
 import TheoryQuestion from '@/components/questions/TheoryQuestion.vue'
 import Editor from '@/components/Editor.vue'
+import { questionTypes } from '@/utils/questionModel'
 
 export default defineComponent({
 	components: { ObjQuestion, TheoryQuestion, Editor },
 	setup () {
-		const values = ['objectives', 'theory']
-		const type = ref(values[0])
+		const type = ref(questionTypes[0])
 		return {
-			values, type
+			questionTypes, type
 		}
 	}
 })

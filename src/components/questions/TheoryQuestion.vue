@@ -22,21 +22,21 @@
 
 			<div class="form-group">
 				<input v-model.number="factory.order" class="form-control" max="100" min="1"
-					   placeholder="Question Order"
-					   type="number">
+				       placeholder="Question Order"
+				       type="number">
 			</div>
 
 			<div class="form-group">
 				<BaseEditor :error="factory.errors.question" :valid="factory.isValid('question')"
-							:value.sync="factory.question" path="theoryQuestions/questions"
-							placeholder="Question Content" />
+				            :value.sync="factory.question" path="theoryQuestions/questions"
+				            placeholder="Question Content" />
 			</div>
 
 			<Media :factory="factory" class="form-group" name="question" />
 
 			<div class="form-group">
 				<BaseEditor :error="factory.errors.answer" :valid="factory.isValid('answer')"
-							:value.sync="factory.answer" path="theoryQuestions/answer" placeholder="Answer Content" />
+				            :value.sync="factory.answer" path="theoryQuestions/answer" placeholder="Answer Content" />
 			</div>
 
 			<Media :factory="factory" class="form-group" name="answer" />
@@ -61,8 +61,15 @@ import Media from '@/components/questions/Media.vue'
 export default defineComponent({
 	name: 'TheoryQuestion',
 	components: { PageLoading, BaseEditor, Media },
-	setup () {
-		const questions = useAddTheoryQuestion()
+	props: {
+		path: {
+			required: true,
+			default: 'theory',
+			type: String
+		}
+	},
+	setup (props) {
+		const questions = useAddTheoryQuestion(props.path)
 		return {
 			...questions
 		}
@@ -71,7 +78,7 @@ export default defineComponent({
 </script>
 
 <style>
-	.form-group {
-		margin-bottom: 1.5rem;
-	}
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
 </style>
