@@ -1,0 +1,56 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2014,
+        "question": "<p>(a) Without using tables or calculator, simplify : \\(\\frac{0.6 \\times 32 \\times 0.004}{1.2 \\times 0.008 \\times 0.16}\\), leaving the answer in standard form (scientific notation).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%281%29.jpg\" style=\"height:432px; width:551px\"></p><p>In the diagram, \\(\\overline{EF}\\) is parallel to \\(\\overline{GH}\\). If \\(&lt; AEF = 3x°, &lt; ABC = 120°\\) and \\(&lt; CHG = 7x°\\), find the value of \\(&lt; GHB\\).</p>",
+        "answer": "<p>(a) \\(\\frac{0.6 \\times 32 \\times 0.004}{1.2 \\times 0.008 \\times 0.16}\\)</p><p>= \\(\\frac{6 \\times 10^{-1} \\times 32 \\times 4 \\times 10^{-3}}{12 \\times 10^{-1} \\times 8 \\times 10^{-3} \\times 16 \\times 10^{-2}}\\)</p><p>= \\(\\frac{4}{2 \\times 4 \\times 10^{-2}}\\)</p><p>= \\(\\frac{1}{2} \\times \\frac{1}{10^{-2}\\)</p><p>= \\(0.5 \\times 10^{2} \\)</p><p>= \\(5 \\times 10^{1}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0149%20%285%29.jpg\" style=\"height:368px; width:512px\"></p><p>In the diagram above, \\(&lt; GHB = 180 - 7x°\\) (angles on a straight line)</p><p>\\(&lt; HBN = 180 - 7x°\\) (alternate angles)</p><p>\\(&lt; EBN = 3x°\\) (corresponding angles)</p><p>Then \\(3x° + (180 - 7x)° = 120°\\)</p><p>\\(\\implies 3x° - 7x° + 180° = 120°\\)</p><p>\\(\\implies 180° - 120° = 7x° - 3x°\\)</p><p>\\(60° = 4x°\\)</p><p>\\(x = 15°\\)</p><p>Hence, \\(&lt; GHB = 180° - (7 \\times 15°) = 180° - 105°\\)</p><p>= \\(75°\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2014,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29%284%29.jpg\" style=\"height:334px; width:336px\"></p><p>In the diagram, O is the centre of the circle radius r cm and &lt; XOY = 90°.If the area of the shaded part is 504\\(cm^{2}\\), calculate the value of r. [Take \\(\\pi = \\frac{22}{7}\\)].</p><p>(b) Two isosceles triangles PQR and PQS are drawn on opposite sides of a common base PQ. If \\(&lt; PQR = 66°\\) and \\(&lt; PSQ = 109°\\), calculate the value of \\(&lt; RQS\\).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0150%20%282%29.jpg\" style=\"height:286px; width:315px\">   Area of the shaded segment = area of sector XOY - area of triangle OXY.</p><p>\\(\\implies 504 = \\frac{\\theta}{360°} \\times \\pi r^{2} - \\frac{1}{2} r^{2} \\sin \\theta\\)</p><p>\\(\\implies 504 = \\frac{90}{360} \\times \\frac{22}{7} \\times r^{2} - \\frac{1}{2} \\times r^{2} \\sin 90\\)</p><p>\\(504 = r^{2}(\\frac{22}{28} - \\frac{1}{2})\\)</p><p>\\(504 = \\frac{2r^{2}}{7} \\implies r^{2} = \\frac{504 \\times 7}{2} = 1764\\)</p><p>\\(r = \\sqrt{1764} = 42 cm\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0150%20%283%29.jpg\" style=\"height:484px; width:291px\"> In the diagram, \\(a_{1} = a_{2}\\)  (base angles of an isosceles triangle)</p><p>\\(\\therefore a_{1} + a_{2} = 2a_{1}\\)</p><p>\\(\\therefore 2a_{1} + 109° = 180° \\implies 2a_{1} = 180° - 109° = 71°\\)</p><p>\\(a_{1} = a_{2} = \\frac{71°}{2} = 35.5°\\)</p><p>Hence, \\(&lt; RQS = 66° + 35.5°\\)</p><p>= \\(101.5°\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2014,
+        "question": "<p>(a) Copy and complete the table of values for the relation \\(y = 2 \\sin x + 1\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n<td>240°</td>\n<td>\n<p>270°</p>\n</td>\n</tr>\n<tr>\n<td>y</td>\n<td>1.0</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>2.7</td>\n<td> </td>\n<td> </td>\n<td>0.0</td>\n<td>-0.7</td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) Using scales of 2 cm to 30° on  the x- axis and 2 cm to 1 unit on the y- axis, draw the graph of \\(y = 2 \\sin x + 1, 0° \\leq x \\leq 270°\\).</p><p>(c) Use the graph to find the values of x for which \\(\\sin x = \\frac{1}{4}\\).</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n<td>240°</td>\n<td>\n<p>270°</p>\n</td>\n</tr>\n<tr>\n<td>y</td>\n<td>1.0</td>\n<td>2.0</td>\n<td>2.7</td>\n<td>3.0</td>\n<td>2.7</td>\n<td>2.0</td>\n<td>1.0</td>\n<td>0.0</td>\n<td>-0.7</td>\n<td>-1.0</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0151%20%283%29.jpg\" style=\"height:688px; width:865px\"></p><p>(c) \\(\\sin x = \\frac{1}{4}\\) (Given)</p><p>Multiply through by 2 ; \\(2 \\sin x = 2 \\times \\frac{1}{4} = \\frac{1}{2}\\)</p><p>\\(2 \\sin x = \\frac{1}{2} \\implies 2 \\sin x - \\frac{1}{2} = 0\\)</p><p>Add \\(1\\frac{1}{2}\\) to both sides ;</p><p>\\(2 \\sin x - \\frac{1}{2} + 1\\frac{1}{2} = 0 + 1\\frac{1}{2}\\)</p><p>\\(\\implies 2 \\sin x + 1 = 1\\frac{1}{2}\\)</p><p>Draw the line \\(y = 1\\frac{1}{2}\\) on the same axis as \\(y = 2 \\sin x + 1\\). The line \\(y = 1\\frac{1}{2}\\) cuts the curve at points P and Q where x = 15° and x = 168°. Hence, the values of x for which \\(\\sin x = \\frac{1}{4}\\)are 15° and 168°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2014,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0151%20%282%29.jpg\"></p><p>In the Venn diagram, P, Qand R are subsets of the universal set U. If n(U) = 125, find : (i) the value of x ; (ii) n(\\(P \\cup Q \\cap R'\\)).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0149%20%283%29.jpg\" style=\"height:259px; width:267px\"> In the diagram, O is the centre of the circle. If WX is parallel to YZ and &lt; WXY = 50°, find the value of (i) , WYZ </p><p>(ii) &lt; YEZ.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0151%20%282%29%281%29.jpg\" style=\"height:482px; width:616px\"></p><p>(i) \\((16 - 2x) + (6 + x) + (19 - 3x) + 5x + 7x + 8x + 4x + 4 = 125\\)</p><p>\\(45 + 20x = 125 \\implies 20x = 125 - 45 = 80\\)</p><p>\\(x = \\frac{80}{20} = 4\\)</p><p>(ii) \\(n(P \\cup Q \\cap R') = (16 - 2x) + 5x + (6 + x)\\)</p><p>= \\(22 + 4x\\)</p><p>= \\(22 + 4(4) = 22 + 16 = 38\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0152%20%282%29.jpg\" style=\"height:322px; width:325px\">  In the diagram above, &lt; XYW = 90° (angle in a semi-circle; XW is a diameter)</p><p>&lt; XWY + 90° + 50° = 180°  (sum of angles in a triangle)</p><p>&lt; XWY = 180° - 140° = 40°</p><p>(i) &lt; WYZ = 40°  (alternate angles; \\(\\overline{XW} || \\overline{YZ}\\))</p><p>(ii) &lt; WOZ = \\(2 \\times 40° \\) (angle at centre = twice angle at circumference)</p><p>= 80°</p><p>\\(\\therefore &lt; WEO = 180° - (40° + 80°)\\)</p><p>= \\(180° - 120° \\)</p><p>= \\(60°\\)</p><p>\\(\\therefore &lt; YEZ = &lt; WEO = 60°\\) (vertically opposite angles).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2014,
+        "question": "<p>(a) Solve : \\((x - 2)(x - 3) = 12\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0149%20%284%29.jpg\" style=\"height:168px; width:200px\"> In the diagram, M and N are the centres of two circles of equal radii 7cm. The circle intercept at P and Q. If &lt; PMQ = &lt; PNQ = 60°, calculate, correct to the nearest whole number, the area of the shaded portion. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) \\((x - 2)(x - 3) = 12\\)</p><p>\\(x^{2} - 3x - 2x + 6 = 12 \\implies x^{2} - 5x + 6 - 12 = 0\\)</p><p>\\(x^{2} - 5x - 6 = 0\\)</p><p>\\(x^{2} - 6x + x - 6 = 0 \\implies x(x - 6) + 1(x - 6) = 0\\)</p><p>\\( (x - 6)(x + 1) = 0 \\implies \\text{x = 6 or -1}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0152%20%283%29.jpg\" style=\"height:122px; width:200px\">  The shaded portion comprises two shaded segments labelled A and B.</p><p>Area of segment A = \\(\\frac{60°}{360°} \\times \\pi r^{2} - \\frac{1}{2} r^{2} \\sin 60°\\)</p><p>\\(\\frac{1}{6} \\times \\frac{22}{7} \\times 7 \\times 7 - \\frac{1}{2} \\times 7 \\times 7 \\times 0.8660\\)</p><p>= \\(25.667 - 21.217\\)</p><p>= \\(4.45 cm^{2}\\)</p><p>Also, the area of the segment B = \\(4.45 cm^{2}\\).</p><p>Hence, the area of the shaded portion = \\(4.45 cm^{2} + 4.45 cm^{2}\\)</p><p>= \\(8.9 cm^{2}\\)</p><p>\\(\\approxeq 9 cm^{2}\\) (to the nearest whole number).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2014,
+        "question": "<p>(a) Given that \\(5 \\cos (x + 8.5)° - 1 = 0, 0° \\leq x \\leq 90°\\), calculate, correct to the nearest degree, the value of x.</p><p>(b) The bearing of Q from P is 0150° and the bearing of P from R is 015°. If Q and R are 24km and 32km respectively from P : (i) represent this information in a diagram;</p><p>(ii) calculate the distance between Q and R, correct to two decimal places ; (iii) find the bearing of R from Q, correct to the nearest degree.</p>",
+        "answer": "<p>(a) \\(5 \\cos (x + 8.5)° - 1 = 0\\)</p><p>\\(5 \\cos (x + 8.5)° = 1\\)</p><p>\\(\\cos (x + 8.5)° = \\frac{1}{5} = 0.2\\)</p><p>\\((x + 8.5)° = \\cos^{-1}(0.2) = 78.463°\\)</p><p>\\(x = 78.463° - 8.5 = 69.963°\\)</p><p>\\(\\approxeq 70°\\) (to the nearest degree).</p><p>(b)(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0152%20%284%29.jpg\" style=\"height:285px; width:250px\"> </p><p>(ii) By the cosine rule, </p><p>\\(|QR|^{2} = 32^{2} + 24^{2} - 2 \\times 32 \\times 24 \\times \\cos 45\\)</p><p>\\(|QR|^{2} = 1024 + 576 - 1536 \\cos 45\\)</p><p>= \\(1600 - 1086.1056\\)</p><p>\\(|QR|^{2} = 513.8944\\)</p><p>\\(|QR| = \\sqrt{513.8944} = 22.669 km\\)</p><p>\\(\\approxeq 22.67 km\\) ( 2 decimal place)</p><p>(iii) By the sine rule,</p><p>\\(\\frac{32}{\\sin \\alpha} = \\frac{22.67}{\\sin 45}\\)</p><p>\\(\\sin \\alpha = \\frac{32 \\times \\sin 45}{22.67}\\)</p><p>= \\(0.9981\\)</p><p>\\(\\alpha = \\sin^{-1} (0.9981) = 86.4787°\\)</p><p>The diagram below shows all the angles at Q;</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0153%20%282%29.jpg\" style=\"height:214px; width:200px\"> The bearing of R from Q is given by the reflex angle NQR. Thus</p><p>reflex &lt; NQR = 360° - (86.47° + 30°) = 360° - 116.47°</p><p>= 243.53°</p><p>Hence, the bearing of R from Q = 244° (to the nearest degree).</p>",
+        "type": "theory"
+    }
+]

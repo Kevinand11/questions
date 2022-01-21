@@ -1,0 +1,146 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8184705780_phy20103.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/2728235260_phy20103a.jpg\" class=\"img-fluid\">\n</div>Above are the V-t graphs for<br>I Uniform acceleration<br>II uniform retardation<br>III Uniform velocity<br>Thus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity",
+        "correctIndex": 0,
+        "options": [
+            "has no acceleration between point F and G",
+            "decelerates between F and H",
+            "has a constant soeed between points E and F",
+            "Accelerates between points F and G"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20461779795_phy20107.jpg\" class=\"img-fluid\">",
+        "explanation": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium",
+        "correctIndex": 2,
+        "options": [
+            "III, IV and VIII",
+            "II, V and VIII",
+            "III, VI and IX",
+            "I, IV and VII"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2010,
+        "question": "<p>A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increase from zero is applied to pull the bob until the string makes an angle of 60o with the vertical. The work done is</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15005318856_phy20108a.jpg\" class=\"img-fluid\">\n</div><p>Length of the string<br>\nL = y + x = 0.5m<br>\n∴ x = L - y<br>\n= distance moved in the direction of force (which is the weight) when the body is released But cos 60o = y/0.5<br>\n∴ y = 0.5cos60 = 0.5 x 1/2 = 0.25<br>\n∴ x = l - y = 0.5 - 0.25 = 0.25m<br>\nWork done = force x distance moved in the direction of force.<br>\n= 0.1 x 0.25 = 0.025J</p>",
+        "correctIndex": 3,
+        "options": [
+            "0.500 J",
+            "0.250 J",
+            "0.050 J",
+            "0.025 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2010,
+        "question": "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13641559390_phy201034a.jpg\" class=\"img-fluid\">\n</div>C = C1 + C2 + C3<br>= 2 + 4 + 8 = 14μF<br>V = 6V<br>Energy =<sup>1</sup>/<sub>2</sub>CV<sup>2</sup><br><sup>1</sup>/<sub>2</sub>x 14 x 10<sup>-6</sup>x 6<sup>2</sup><br>= 2.52 x 10<sup>-4</sup>J",
+        "correctIndex": 2,
+        "options": [
+            "2.52 x 10<sup>-6</sup>J",
+            "6.90 x 10<sup>-6</sup>J",
+            "2.52 x 10<sup>-4</sup>J",
+            "6.90 x 10<sup>-4</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2010,
+        "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5456632140_phy201035a.jpg\" class=\"img-fluid\">\n</div>I = E/(R+r)<br>= 12/6 = 2A",
+        "correctIndex": 3,
+        "options": [
+            "5 A",
+            "4 A",
+            "3 A",
+            "2 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19098223536_phy201036.jpg\" class=\"img-fluid\">",
+        "explanation": "<sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>8</sub>+<sup>1</sup>/<sub>8</sub>=<sup>2</sup>/<sub>8</sub><br>∴ R = 4Ω<br><sup>l</sup>/<sub>l<sub>1</sub></sub>=<sup>R</sup>/<sub>R<sub>1</sub></sub><br>(x)/(100-x) = 4/8<br>4(100-x) = 8x<br>400-4x = 8x<br>400 = 8x + 4x = 12x<br>x = 400/12 = 33.3cm",
+        "correctIndex": 2,
+        "options": [
+            "75.0 cm",
+            "66.7 cm",
+            "33.3 cm",
+            "25.0 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2010,
+        "question": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/16370417304_phy201037a.jpg\" class=\"img-fluid\">\n</div><sup>1</sup>/<sub>R</sub>=<sup>1</sup>/<sub>4</sub>+<sup>1</sup>/<sub>4</sub>+<sup>1</sup>/<sub>4</sub>=<sup>3</sup>/<sub>4</sub><br>R =<sup>4</sup>/<sub>3</sub><br>I =<sup>V</sup>/<sub>R</sub><br><table><tbody><tr><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">16</td></tr><tr><td><sup>4</sup>/<sub>3</sub></td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\"> = </td><td style=\"border-bottom:solid 1px\">16 x 3</td></tr><tr><td>_4</td></tr></tbody></table><br>= 12 A",
+        "correctIndex": 1,
+        "options": [
+            "14 A",
+            "12 A",
+            "10 A",
+            "8 A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17734599181_phy201038.jpg\" class=\"img-fluid\">",
+        "explanation": "Energy consumed = power x time<br>= 200W x 24hr = 4800wh<br>= 4.8 kwh<br>But 1 kwh cost N40<br>∴ 4.8kwh costs 4.8 x 40<br>= N192",
+        "correctIndex": 1,
+        "options": [
+            "N1,920.00",
+            "N192.00",
+            "N19.20",
+            "N1.92"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25919826239_phy201040.jpg\" class=\"img-fluid\">",
+        "explanation": "IN magnetisation by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively",
+        "correctIndex": 2,
+        "options": [
+            "south and north",
+            "north and south",
+            "north and north",
+            "south and south"
+        ],
+        "type": "objectives"
+    }
+]

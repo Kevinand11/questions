@@ -1,0 +1,82 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6817746970_phy20061.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/10908395152_phy20061.jpg\" class=\"img-fluid\">\n</div>In the stress - strain graph shown above, X represents the breaking point of the wire",
+        "correctIndex": 0,
+        "options": [
+            "Breaking point",
+            "Yield point",
+            "Elastic limit",
+            "Proportional limit"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23183207088_PHY2005XX.jpg\" class=\"img-fluid\">\n</div>Pressure of the Gas, P = A + h<br>= 76 + 10<br>86 cm Hg",
+        "correctIndex": 0,
+        "options": [
+            "86 cm of mercury",
+            "66 cm of mercury",
+            "96 cm of mercury",
+            "76 cm mercury"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2006,
+        "question": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30<sup>o</sup>with horizontal, the tension in the cord is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/20455807005_PHY200632.jpg\" class=\"img-fluid\">\n</div>For vertical equilibrium, we have<br>2Ty = 75N<br>But Ty/T = adj/hyp = cos 60<sup>o</sup><br>∴ Ty = T Cos 60<sup>o</sup><br>=&gt; 2Ty = 2Tcos 60<sup>o</sup>= 75N<br>2 x T x 0.5 = 75 =&gt; T = 75N<br>∴ Total tension in the rope = 2T.<br>= 2 x 75 = 150N",
+        "correctIndex": 3,
+        "options": [
+            "100N",
+            "1500N",
+            "250N",
+            "150N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2006,
+        "question": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23183261675_phy200611.jpg\" class=\"img-fluid\">\n</div>IF the volume of gas is plotted against the reciprocal of pressure, the slope will be given as<br>Slope =<sup>V</sup>/<sub>1/P</sub>= P x V<br>thus the unit of the slope will be;<br><table><tbody><tr><td rowspan=\"2\">P = </td><td style=\"border-bottom:solid 1px\">Force</td></tr><tr><td>Area</td></tr></tbody></table><br>= Nm<sup>-2</sup>, = V = M<sup>3</sup>= NM.<br>The unit NM (Newton - Meter) is the practical unit of work, which is the product of force (N) and Displacement (M).<br><u><b>Note:</b></u>It should be noted that the practical unit of work is Newton-Meter, whereas its S.I unit is Joules, just as energy.",
+        "correctIndex": 3,
+        "options": [
+            "force",
+            "temperature",
+            "power",
+            "work"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 52,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16364762664_PHY200648.jpg\" class=\"img-fluid\">",
+        "explanation": "Generally, period T =<sup>1</sup>/<sub>f</sub>(reciprocal of frequency).<br>=&gt; f =<sup>1</sup>/<sub>T</sub><br>And from the diagram, period T = 4s<br>∴ frequency, f =<sup>1</sup>/<sub>T</sub>=<sup>1</sup>/<sub>4</sub>= 0.25 Hz",
+        "correctIndex": 1,
+        "options": [
+            "0.17 Hz",
+            "0.25 Hz",
+            "1.57 Hz",
+            "1.05 Hz"
+        ],
+        "type": "objectives"
+    }
+]

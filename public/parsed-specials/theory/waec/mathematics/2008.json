@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2008,
+        "question": "<p>The table below shows how a man spends his income in a month.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Items</td>\n<td>Amount Spent</td>\n</tr>\n<tr>\n<td>Food</td>\n<td>N4500</td>\n</tr>\n<tr>\n<td>House Rent</td>\n<td>N3000</td>\n</tr>\n<tr>\n<td>Provisions</td>\n<td>N2500</td>\n</tr>\n<tr>\n<td>Electricity</td>\n<td>N2000</td>\n</tr>\n<tr>\n<td>Transportation</td>\n<td>N5000</td>\n</tr>\n<tr>\n<td>Others</td>\n<td>N3000</td>\n</tr>\n</tbody>\n</table><p>(a) Represent the information on a pie chart.</p><p>(b) What percentage of his income is spent on transportation?</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Item</td>\n<td>Amount Spent (N)</td>\n</tr>\n<tr>\n<td>Food</td>\n<td>4,500</td>\n</tr>\n<tr>\n<td>House Rent</td>\n<td>3,000</td>\n</tr>\n<tr>\n<td>Provisions</td>\n<td>2,500</td>\n</tr>\n<tr>\n<td>Electricity</td>\n<td>2,000</td>\n</tr>\n<tr>\n<td>Transportation</td>\n<td>5,000</td>\n</tr>\n<tr>\n<td>Others</td>\n<td>3,000</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>20,000</td>\n</tr>\n</tbody>\n</table><p>Items in degrees :</p><p>Food : \\(\\frac{4500}{20000} \\times 360° =  81°\\)</p><p>House rent : \\(\\frac{3000}{20000} \\times 360° = 54°\\)</p><p>Provisions : \\(\\frac{2500}{20000} \\times 360° = 45°\\)</p><p>Electricity : \\(\\frac{2000}{20000} \\times 360° = 36°\\)</p><p>Transportation : \\(\\frac{5000}{20000} \\times 360° = 90°\\)</p><p>Others : \\(\\frac{3000}{20000} \\times 360° = 54°\\)</p><p>(a) Pie chart :</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0183%20%282%29.jpg\" style=\"height:236px; width:250px\"></p><p>(b) Percentage of his income spent on transportation :</p><p>\\(\\frac{5000}{20000} \\times 100% = 25%\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2008,
+        "question": "<p>(a) A pentagon is such that one of its exterior sides is 60°. Two others are (90 - m)° each while the remaining angles are (30 + 2m)° each. Find the value of m.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0181%20%286%29_LI.jpg\" style=\"height:151px; width:270px\"></p><p>In the diagram, PQR is a straight line, \\(\\overline{QR} = \\sqrt{3} cm\\) and \\(\\overline{SQ} = 2 cm\\). Calculate, correct to one decimal place, &lt; PQS.</p>",
+        "answer": "<p>The sum of exterior angles = 360°</p><p>\\(60° + 2(90 - m)° + 2(30 + 2m)° = 360°\\)</p><p>\\(60° + 180° - 2m° + 60° + 4m° = 360°\\)</p><p>\\(300° + 2m = 360°\\)</p><p>\\(\\implies 2m = 360° - 300° = 60°\\)</p><p>\\(m = 30°\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0181%20%286%29_LI%281%29.jpg\" style=\"height:140px; width:250px\"></p><p>In \\(\\Delta QRS, \\cos Q = \\frac{\\sqrt{3}}{2}\\)</p><p>\\(\\cos Q = 0.8660 \\implies Q = 30°\\)</p><p>\\(\\therefore &lt; SQR = 30°^\\)</p><p>\\(&lt; PQS = 180° - 30° \\)  (angles on a straight line = 180°)</p><p>\\(&lt; PQS = 150°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2008,
+        "question": "<p>The ages, in years, of 50 teachers in a school are given below :</p><p>21 37 49 27 49 42 26 33 46 40 50 29 23 24 29 31 36 22 27 38 30 26 42 39 34 23 21 32 41 46 46 31 33 29 28 43 47 40 34 44 26 38 34 49 45 27 25 33 39 40</p><p>(a) Form a frequency distribution table of the data using the intervals : 21 - 25, 26 - 30, 31 - 35 etc.</p><p>(b) Draw the histogram of the distribution </p><p>(c) Use your histogram to estimate the mode</p><p>(d) Calculate the mean age. </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>\n<p>Class</p>\n<p>Interval</p>\n</td>\n<td>Tally</td>\n<td>\n<p>Classmark</p>\n<p>(x)</p>\n</td>\n<td>\n<p>Freq</p>\n<p>(f)</p>\n</td>\n<td>\\(fx\\)</td>\n</tr>\n<tr>\n<td>21 - 25</td>\n<td><s>IIII</s> ||</td>\n<td>23</td>\n<td>7</td>\n<td>161</td>\n</tr>\n<tr>\n<td>26 - 30</td>\n<td><s>||||</s> <s>||||</s> |</td>\n<td>28</td>\n<td>11</td>\n<td>308</td>\n</tr>\n<tr>\n<td>31 - 35</td>\n<td><s>||||</s> ||||</td>\n<td>33</td>\n<td>9</td>\n<td>297</td>\n</tr>\n<tr>\n<td>36 - 40</td>\n<td><s>||||</s> ||||</td>\n<td>38</td>\n<td>9</td>\n<td>342</td>\n</tr>\n<tr>\n<td>41 - 45</td>\n<td><s>||||</s> |</td>\n<td>43</td>\n<td>6</td>\n<td>258</td>\n</tr>\n<tr>\n<td>46 - 50</td>\n<td><s>||||</s> |||</td>\n<td>48</td>\n<td>8</td>\n<td>384</td>\n</tr>\n<tr>\n<td>\\(\\sum\\)</td>\n<td> </td>\n<td> </td>\n<td>50</td>\n<td>1750</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0183%20%283%29.jpg\" style=\"height:393px; width:300px\"></p><p>(c) Mode : \\(L_{1} + (\\frac{f_{0} - f_{1}}{2f_{0} - f_{1} - f_{2}})t\\)</p><p>Where \\(L_{1}\\) = lower class boundary of modal class = 25.5</p><p>\\(f_{0}\\) = frequency of modal class = 11</p><p>\\(f_{1}\\) = frequency of pre-modal class = 7</p><p>\\(f_{2}\\) = frequency of post modal class = 9</p><p>\\(t\\) = interval mark = 5.</p><p>Mode : \\(25.5 + (\\frac{11 - 7}{22 - 7 - 9})\\times 5 = 25.5 + 3.3\\)</p><p>= 28.8.</p><p>(d) Mean : \\(\\frac{\\sum fx}{\\sum f} = \\frac{1750}{50}\\)</p><p>= 35.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2008,
+        "question": "<p>(a) The triangle ABC has sides AB = 17m, BC = 12m and AC = 10m. Calculate the :</p><p>(i) largest angle of the triangle ; (ii) area of the triangle.</p><p>(b) From a point T on a horizontal ground, the angle of elevation of the top R of a tower RS, 38m high is 63°. Calculate, correct to the nearest metre, the distance between T and S.</p>",
+        "answer": "<p>(a) (i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0185%20%282%29_LI.jpg\" style=\"height:192px; width:250px\"></p><p>\\(\\cos C = \\frac{a^{2} + b^{2} - c^{2}}{2ab}\\)</p><p>\\(\\cos C = \\frac{12^{2} + 10^{2} - 17^{2}}{2(12)(10)}\\)</p><p>\\(\\cos C = \\frac{-45}{240} = -0.1875\\)</p><p>\\(C = \\cos^{-1} (-0.1875)\\)</p><p> = \\(100.81°\\)</p><p>(ii) Area of \\(\\Delta ABC = \\frac{1}{2} ab \\sin C\\)</p><p>= \\(\\frac{1}{2} \\times 12 \\times 10 \\times \\sin 100.81\\)</p><p>= \\(60 \\times 0.9822\\)</p><p>= \\(58.936 m^{2}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0185%20%283%29_LI.jpg\" style=\"height:231px; width:250px\"> \\(\\tan 63 = \\frac{38}{x}\\)</p><p>\\(x = \\frac{38}{\\tan 63}\\)</p><p>\\(x = 19.362 m\\)</p><p>\\(\\approxeq 19 m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2008,
+        "question": "<p>(a) Using ruler and a pair of compasses only, construct :</p><p>(i) a quadrilateral PQRS such that /PQ/ = 7 cm, &lt; QPS = 60°, /PS/ = 6.5 cm, &lt; PQR = 135° and /QS/ = /QR/ ;</p><p>(ii) locus, \\(l_{1}\\) of points equidistant from P and Q ;</p><p>(iii) locus, \\(l_{2}\\) of points equidistant from P and S.</p><p>(b)(i) Label the point T where \\(l_{1}\\) and \\(l_{2}\\) intersect. (ii) With center T and radius /TP/, construct a circle \\(l_{3}\\).</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0185%20%284%29_LI.jpg\" style=\"height:374px; width:400px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2008,
+        "question": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0182%20%282%29.jpg\" style=\"height:193px; width:250px\"></p><p>In the diagram, AB // CD and BC // FE. \\(\\stackrel\\frown{CDE} = 75°\\) and \\(\\stackrel\\frown{DEF} = 26°\\). Find the angles marked x and y.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0182%20%283%29_LI.jpg\" style=\"height:275px; width:250px\"></p><p>The diagram shows a circle ABCD with centre O and radius 7 cm. The reflex angle AOC = 190° and &lt; DAO = 35°. Find :</p><p>(i) &lt; ABC ; (ii) &lt; ADC.</p><p>(c) Using the diagram in (b) above, calculate, correct to 3 significant figures, the length of : (i) arc ABC ; (ii) the chord AD. [Take \\(\\pi = 3.142\\)].</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0185%20%285%29.jpg\" style=\"height:363px; width:300px\"> 105° + 26° + x = 180°</p><p>131° + x = 180°</p><p>x = 180° - 131° </p><p>= 49°.</p><p>131° + x + 131° + 360 - y = 360°</p><p>131° + 49° + 131° + 360 - y = 360°</p><p>671° - y = 360° </p><p>y = 671° - 360°</p><p>= 311°.</p><p>(b)(i) \\(\\stackrel\\frown{ABC} = \\frac{1}{2} \\stackrel\\frown{AOC} reflex\\)</p><p>= \\(\\frac{1}{2} \\times 190° = 95°\\)</p><p>(ii) \\(\\stackrel\\frown{ADC} = \\frac{1}{2} \\stackrel\\frown{AOC}\\)</p><p>= \\(\\frac{1}{2} (360° - 190°)\\)</p><p>= \\(\\frac{1}{2} \\times 170°\\)</p><p>= 85°</p><p>(c) (i) \\(\\stackrel\\frown{ABC} = \\frac{360 - 190}{360} \\times 2\\pi r\\)</p><p>= \\(\\frac{170}{360} \\times 2 \\times 3.142 \\times 7\\)</p><p>= \\(20.77 cm\\)</p><p>\\(\\approxeq 20.8 cm\\) (3 significant figures)</p><p>(ii) \\(AD = 2 \\times 7\\cos 35\\)</p><p>= \\(14 \\times 0.8192\\)</p><p>= \\(11.468 cm \\approxeq 11.5 cm\\) (3 significant figures)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2008,
+        "question": "<p>(a) Copy and complete the table of values for \\(y = 3\\sin x + 2\\cos x\\) for \\(0° \\leq x \\leq 360°\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>60°</td>\n<td>120°</td>\n<td>180°</td>\n<td>240°</td>\n<td>300°</td>\n<td>360°</td>\n</tr>\n<tr>\n<td>y</td>\n<td>2.00</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>2.00</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2 cm to 60° on x- axis and 2 cm to 1 unit on the y- axis, draw the graph of \\(y = 3 \\sin x + 2 \\cos x\\) for \\(0° \\leq x \\leq 360°\\).</p><p>(c) Use your graph to solve the equation : \\(3 \\sin x + 2 \\cos x = 1.5\\).</p><p>(d) Find the range of values of x for which \\(3\\sin x + 2\\cos x &lt; -1\\).</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>60°</td>\n<td>120°</td>\n<td>180°</td>\n<td>240°</td>\n<td>300°</td>\n<td>360°</td>\n</tr>\n<tr>\n<td>\\(\\sin x\\)</td>\n<td>0</td>\n<td>0.8660</td>\n<td>0.8660</td>\n<td>0</td>\n<td>-0.8660</td>\n<td>-0.8660</td>\n<td>0</td>\n</tr>\n<tr>\n<td>\\(\\cos x\\)</td>\n<td>1</td>\n<td>0.5</td>\n<td>-0.5</td>\n<td>-1</td>\n<td>-0.5</td>\n<td>-0.5</td>\n<td>\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td>\\(3\\sin x\\)</td>\n<td>0</td>\n<td>2.598</td>\n<td>2.598</td>\n<td>0</td>\n<td>-2.598</td>\n<td>-2.598</td>\n<td>0</td>\n</tr>\n<tr>\n<td>\\(2\\cos x\\)</td>\n<td>2</td>\n<td>1</td>\n<td>-1</td>\n<td>-2</td>\n<td>-1</td>\n<td>-1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>y</td>\n<td>2</td>\n<td>3.598</td>\n<td>1.598</td>\n<td>-2</td>\n<td>-3.598</td>\n<td>-3.598</td>\n<td>2</td>\n</tr>\n<tr>\n<td>y</td>\n<td>2.00</td>\n<td>3.60</td>\n<td>1.60</td>\n<td>-2.00</td>\n<td>-3.60</td>\n<td>-3.60</td>\n<td>2.00</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0185%20%286%29.jpg\" style=\"height:229px; width:300px\"></p><p>(c) From graph, \\(x_{1} = 120 + \\frac{1}{5} \\times 15 = 120 + 3 = 123°\\)</p><p>\\(x_{2} = 360° - \\frac{2}{3} \\times 15 = 360 - 10 = 350°\\)</p><p>(d) From graph, \\(180° - 15 &lt; x &lt; 300 + \\frac{3}{5} \\times 15\\)</p><p>\\(165° &lt; x &lt; 300 + 9 = 165° &lt; x &lt; 309°\\)</p>",
+        "type": "theory"
+    }
+]

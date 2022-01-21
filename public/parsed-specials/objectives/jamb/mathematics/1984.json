@@ -1,0 +1,170 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28544041920_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "Volume of the three dimensional figures = v = A x h<br><br>A = \\(\\frac{1}{2}\\) x 4 x 3<br><br>= 6cm<sup>2</sup><br><br>V = 6 x 8<br><br>= 48cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "160cm<sup>2</sup>",
+            "48cm<sup>2</sup>",
+            "120cm<sup>2</sup>",
+            "40cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4281609984_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{\\sin y}{3} = \\frac{\\sin 120^o}{5}\\)<br><br>sin 120<sup>o</sup>= sin 60<sup>o</sup><br><br>5 sin y = 3 sin 60<sup>o</sup><br><br>sin y = \\(\\frac{3 \\sin 60^o}{5}\\)<br><br>\\(\\frac{3 \\times 0.866}{5}\\)<br><br>= \\(\\frac{2.598}{5}\\)<br><br>y = sin<sup>-1</sup>0.5196 = 30<sup>o</sup>18'",
+        "correctIndex": 3,
+        "options": [
+            "29<sup>o</sup>",
+            "31<sup>o</sup>",
+            "31<sup>o</sup>20'",
+            "31<sup>o</sup>18'"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22835283136_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "A<sub>sector</sub>= \\(\\frac{60}{360} \\times \\pi r^2\\)<br><br>= \\(\\frac{1}{6} \\pi r^2\\)<br><br>A<sub>\\(\\bigtriangleup\\)</sub>= \\(\\frac{1}{2}r^2 \\sin 60^o\\)<br><br>\\(\\frac{1}{2} r^2 \\times \\frac{\\sqrt{3}}{2} = \\frac{r^2\\sqrt{3}}{4}\\)<br><br>A<sub>\\(\\text{shaded portion}\\)</sub>= A<sub>sector</sub>-<br>A<sub>\\(\\bigtriangleup\\)</sub><br><br>= (\\(\\frac{1}{6} \\pi r^2 - \\frac{r^2\\sqrt{3}}{4})^3\\)<br><br>= \\(\\frac{\\pi r^2}{2} - \\frac{3r^2\\sqrt{3}}{4}\\)<br><br>= \\(\\frac{r^2}{4}(2 \\pi - 3 \\sqrt{3})\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{r^2}{4}(4 \\pi - 3 \\sqrt{3})\\)",
+            "\\(\\frac{r^2}{4}(2 \\pi - 3 \\sqrt{3})\\)",
+            "\\(\\frac{1}{2}r^2 \\pi\\)",
+            "\\(\\frac{1}{8}r^2 \\sqrt{3}\\)",
+            "\\(\\frac{r^2}{4}(4 \\pi - 3 \\sqrt{3})\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8563232610_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram, PQRSTW is a regular hexagon.<br><br>Hexagon is a six sided polygon.<br><br>Sum of interior angles of polygon = (2n - 4)90<sup>o</sup>= [2 x 6 - 4] x 90 = 8 x 90 = 720<sup>o</sup><br><br>each angle = \\(\\frac{720^o}{6} = 120^o\\) and TVS = \\(\\frac{120}{2} = 60^o\\)",
+        "correctIndex": 0,
+        "options": [
+            "60<sup>o</sup>",
+            "90<sup>o</sup>",
+            "120<sup>o</sup>",
+            "30<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4281618219_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; PSQ = 35o, &lt; SPR = 30o<br>\n<br>\nO is the centre of the circle, PRQ = 65o<br>\n<br>\n&lt; OQP = 90 - 65<br>\n<br>\n= 25o</p>",
+        "correctIndex": 3,
+        "options": [
+            "35<sup>o</sup>",
+            "30<sup>o</sup>",
+            "130<sup>o</sup>",
+            "25<sup>o</sup>",
+            "65<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2854412924_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram, &lt; p = 44<sup>o</sup>, &lt; Q = 70<sup>o</sup><br><br>&lt; y = 180<sup>o</sup>- (70 + 44<sup>o</sup>) = 66<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "66<sup>o</sup>",
+            "110<sup>o</sup>",
+            "26<sup>o</sup>",
+            "70<sup>o</sup>",
+            "44<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25689721896_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "If y = 2x + 1 and y = x<sup>2</sup>- 2x + 1<br><br>then x<sup>2</sup>- 2x + 1 = 2x + 1<br><br>x<sup>2</sup>- 4x = 0<br><br>x(x - 4) = 0<br><br>x = 0 or 4",
+        "correctIndex": 3,
+        "options": [
+            "1, 1",
+            "0, 4",
+            "0,0",
+            "4, 0",
+            "4, 9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25689727800_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{PQ}{6 + RT} = \\frac{6}{12} = \\frac{6}{PS}\\)(Similar triangles)<br><br>\\(\\frac{6}{12} = \\frac{8}{PS}\\)<br><br>PS = \\(\\frac{12 \\times 8}{6}\\)<br><br>= 16cm",
+        "correctIndex": 1,
+        "options": [
+            "4cm",
+            "16cm",
+            "9cm",
+            "14cm",
+            "Impossible, insufficient data"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15699283413_maths-9.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; R = 180o - 45o (sum of angles on a straight line)<br>\n<br>\n&lt; R = &lt; P = 45o (corresponding angles)<br>\n<br>\n&lt; PSO = &lt; P = 45o (\\(\\bigtriangleup\\)PSO is a right angle)</p>",
+        "correctIndex": 3,
+        "options": [
+            "67\\(\\frac{1}{2}\\)<sup>o</sup>",
+            "22\\(\\frac{1}{2}\\)<sup>o</sup>",
+            "33\\(\\frac{1}{2}\\)<sup>o</sup>",
+            "45<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1984,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9990455272_maths-10.jpg\" class=\"img-fluid\">",
+        "explanation": "by Pythagoras theorem, XW = 3cm<br><br>Also by Pythagoras theorem, XY<sup>2</sup>= 6<sup>2</sup>+ 3<sup>2</sup><br><br>XY<sup>2</sup>= 36 + 9 = 45<br><br>XY = \\(\\sqrt{45} = 3 \\sqrt{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "5\\(\\sqrt{3}\\)cm",
+            "3\\(\\sqrt{5}\\)cm",
+            "3\\(\\sqrt{3}\\)cm",
+            "5cm",
+            "6cm"
+        ],
+        "type": "objectives"
+    }
+]

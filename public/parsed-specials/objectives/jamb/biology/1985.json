@@ -1,0 +1,36 @@
+[
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1985,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9653115696_bio198526.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1985,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23443283543_bio198526.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "1 and 3",
+            "3 and 5",
+            "5 and 6",
+            "6 and 7",
+            "2 and 4"
+        ],
+        "type": "objectives"
+    }
+]

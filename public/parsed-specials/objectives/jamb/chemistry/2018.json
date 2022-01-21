@@ -1,0 +1,66 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/OBJYeOcnDrzeZ0fIwUF1BXerPYG3ypS7Bwvdl6tZ.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "be bleached",
+            "turn green",
+            "turn red",
+            "turn blue"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/CUNv388sqQ8UA6ZJdnDoWhgDT6qJFZVk36kU8hUd.jpeg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1-methyl pentane",
+            "3-methylbutane",
+            "2-methylbutane",
+            "1-dimethyl propane"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 55,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/tESOZkYQwLgH1TKtIlg5A0SAyyOP33z2AlVduBQX.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>During the electrolysis of brine, the chlorine ions are discharged at the anode and are oxidized. While at the cathode Hydrogen ion is discharged.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "anode where the Cl\\(^-\\) ions are oxidized",
+            "cathode where the Cl\\(^-\\) ions are reduced",
+            "anode where the Na\\(^+\\) ions are reduced",
+            "cathode where the Na\\(^+\\) ions are oxidized"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 77,
+        "year": 2018,
+        "question": "<p>The situation obtained when a perfect gas expands into a vacuum is</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/scm9Fbuc3Kmqi5yO1wcguCm6mBh6au0pv6DP28Wr.jpeg\" class=\"img-fluid\">\n</div><p>The definition of enthalpy change is</p><p>  ΔH = ΔU + Pex(ΔV)</p><p>  The enthalpy change is zero because both terms on the right are zero in free expansion of an ideal gas.</p><p>  There is no external pressure in a free expansion, so P (ex) = 0. And the internal energy change, ΔU of free expansion in a closed system is zero since no inter molecular forces have to be overcome. The temperature remains constant and no heat is absorbed or released.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "ΔH is positive and TΔ S is zero",
+            "ΔH is positive and T Δ S is negative",
+            "ΔH is negative and TΔ S is zero",
+            "ΔH is zero and T Δ S is positive"
+        ],
+        "type": "objectives"
+    }
+]

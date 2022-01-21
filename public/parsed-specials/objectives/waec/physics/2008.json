@@ -1,0 +1,66 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28615034260_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{\\mathit{h}_2}{\\mathit{h}_2} = \\mathit{h}_1 = \\frac{\\mathit{h}_2 \\mathit{e}_2}{\\mathit{e}_1}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\mathit{h}_1 = \\frac{\\mathit{h}_2 \\mathit{e}_1}{\\mathit{e}_2}\\)",
+            "\\(\\mathit{h}_1 = \\frac{\\mathit{h}_2 \\mathit{e}_2}{\\mathit{e}_1}\\)",
+            "\\(\\mathit{h}_1 = \\frac{\\mathit{e}_1 \\mathit{e}_2}{\\mathit{h}_2}\\)",
+            "\\(\\mathit{h}_1 = \\frac{\\mathit{e}_1}{\\mathit{h}_2 \\mathit{e}_2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20030526012_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "maximum",
+            "uniform",
+            "zero",
+            "terminal"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1430752262_maths-44.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "i only",
+            "ii only",
+            "iii only",
+            "i and iii only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14310003270_maths-11.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "F<sub>3</sub>= F<sub>1</sub>+ F<sub>2</sub>",
+            "F<sub>2</sub>= F<sub>1</sub>+ F<sub>3</sub>",
+            "F<sub>1</sub>= F<sub>2</sub>- F<sub>3</sub>",
+            "F<sub>1</sub>= F<sub>2</sub>+ F<sub>3</sub>"
+        ],
+        "type": "objectives"
+    }
+]

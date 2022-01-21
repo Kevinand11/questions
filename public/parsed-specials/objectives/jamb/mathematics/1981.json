@@ -1,0 +1,103 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 1981,
+        "question": "<p>An isosceles triangle of sides 13cm, 13cm, 10cm is inscribed in a circle. What is the radius of the circle?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0405%20%282%29_LI.jpg\" style=\"height:290px; width:250px\"></p><p>In \\(\\Delta DAC, \\stackrel\\frown{DAC} = \\theta\\)</p><p>\\(\\sin \\theta = \\frac{5}{13}\\)</p><p>\\(\\theta = 22.6°\\)</p><p>\\(&lt; DOC = 22.6° \\times 2 = 45.2°\\)</p><p>\\(\\sin 45.2 = \\frac{5}{r} \\implies r = \\frac{5}{\\sin 45.2}\\)</p><p>\\(r = 7.046cm\\)</p><p>= \\(7\\frac{1}{24} cm\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "7cm",
+            "12cm",
+            "8cm",
+            "7cm",
+            "69cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15698338722_math-1.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15698338722_math-1.jpg\" class=\"img-fluid\">\n</div><p>&lt; WYT = \\(\\frac{180 - 30}{2}\\)<br>\n<br>\n= \\(\\frac{150}{2}\\)<br>\n<br>\n= 75o(base angles of isosceles D)<br>\n<br>\nYXW = 75 - 40 = 35o(Exterior angle is equal to sum of interior angles)</p>",
+        "correctIndex": 2,
+        "options": [
+            "50<sup>o</sup>",
+            "75<sup>o</sup>",
+            "35<sup>o</sup>",
+            "115<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12844102185_math-2.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Average of trapezium XYZW = \\(\\frac{1}{2}\\)(a + b)h from rt &lt; YDZ,<br>\n<br>\nh = 8 sin 30o<br>\n<br>\narea = \\(\\frac{1}{2}\\)(10 + 8)4<br>\n<br>\n= 8 x \\(\\frac{1}{2}\\) = 4<br>\n<br>\n\\(\\frac{1}{2}\\)(18) x 4<br>\n<br>\n= 36cm2</p>",
+        "correctIndex": 2,
+        "options": [
+            "60cm<sup>2</sup>",
+            "54cm<sup>2</sup>",
+            "36cm<sup>2</sup>",
+            "54\\(\\sqrt{2}\\)cm<sup>2</sup>",
+            "27\\(\\sqrt{2}\\)cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11416981224_math-3.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>180 - x + a + b + c<br>\n<br>\n= 180(sum of interior angle in triangle)<br>\n<br>\na + b + c = x.</p>",
+        "correctIndex": 0,
+        "options": [
+            "a + b + c",
+            "180<sup>o</sup>- (a + b + c)",
+            "a - b - c",
+            "a + b",
+            "a + c"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24261089300_math-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of the triangle XYZ = \\(\\frac{1}{2}\\)bh = \\(\\frac{1}{2}\\)ZY x XY<br>\n<br>\n= \\(\\frac{1}{2}\\) x 3 x 4<br>\n<br>\n= 6cm2.</p>",
+        "correctIndex": 4,
+        "options": [
+            "12cm<sup>2</sup>",
+            "28\\(\\frac{1}{2}\\)cm<sup>2</sup>",
+            "16cm<sup>2</sup>",
+            "10cm<sup>2</sup>",
+            "6cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28542463100_math-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From similar triangle, \\(\\frac{x}{6}\\) = \\(\\frac{8}{12}\\)<br>\n<br>\n12x = 48<br>\n<br>\nx = \\(\\frac{48}{12}\\)<br>\n<br>\n= 4</p>",
+        "correctIndex": 3,
+        "options": [
+            "1cm``3cm",
+            "6cm",
+            "2cm",
+            "4cm"
+        ],
+        "type": "objectives"
+    }
+]

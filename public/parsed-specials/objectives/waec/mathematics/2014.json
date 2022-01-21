@@ -1,0 +1,194 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4307810766_4.jpg\" class=\"img-fluid\">",
+        "explanation": "score 0 = 4 students<br><br>score 1 = 2 students<br><br>score 2 = 5 students<br><br>score 3 = 6 students<br><br>score 4 = 3 students<br><br>= 20 students",
+        "correctIndex": 2,
+        "options": [
+            "18",
+            "19",
+            "20",
+            "22"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15795306846_4.jpg\" class=\"img-fluid\">",
+        "explanation": "at most 2 marks = 5 + 2 + 4 students = 11 students<br><br>probability(at most 2 marks) = \\(\\frac{11}{20}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{11}{18}\\)",
+            "\\(\\frac{11}{20}\\)",
+            "\\(\\frac{7}{22}\\)",
+            "\\(\\frac{5}{19}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11487497960_8.jpg\" class=\"img-fluid\">",
+        "explanation": "y + z = 180<sup>o</sup><br><br>z = 180<sup>o</sup>- y<br><br>x + k = 180<sup>o</sup><br><br>k = 180<sup>o</sup>- x<br><br>the sum of angles in the \\(\\bigtriangleup\\) are: n + z + k = 180<br><br>but n + 180<sup>o</sup>- y + 180<sup>o</sup>- x = 180<sup>o</sup><br><br>n + 180<sup>o</sup>- y - x = 0<br><br>but we want to find n<br><br>n + 180<sup>o</sup>= x + y<br><br>but x + y = 220<sup>o</sup><br><br>n + 180<sup>o</sup>= 220<sup>o</sup><br><br>n = 220<sup>o</sup>- 180<sup>o</sup><br><br>n = 40<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7179686490_15.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "110<sup>o</sup>",
+            "120<sup>o</sup>",
+            "140<sup>o</sup>",
+            "160<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15795311587_20.jpg\" class=\"img-fluid\">",
+        "explanation": "if m + n = 120<sup>o</sup>and n + r = 100<sup>o</sup><br><br>then m + n = 120<sup>o</sup><br><br>then r = 180<sup>o</sup>- 120<sup>o</sup>= 60<sup>o</sup><br><br>also n + r = 100<sup>o</sup><br><br>m = 180<sup>o</sup>= 80<sup>o</sup><br><br>m + r is = 80<sup>o</sup>+ 60<sup>o</sup><br><br>= 140<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "110<sup>o</sup>",
+            "120<sup>o</sup>",
+            "140<sup>o</sup>",
+            "160<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25846875270_21.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram SR//UW given that &lt; RSV = 45<sup>o</sup>and &lt; WVT = x<sup>o</sup><br><br>&lt; WVT = 45<sup>o</sup>(corresponding angle)<br><br>x<sup>o</sup>= 45",
+        "correctIndex": 1,
+        "options": [
+            "20",
+            "45",
+            "65",
+            "135"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22975004880_21.jpg\" class=\"img-fluid\">",
+        "explanation": "x<sup>o</sup>+ z<sup>o</sup>= 180<sup>o</sup>(sum of &lt; on str. line)<br><br>45<sup>o</sup>+ z<sup>o</sup>= 180<sup>o</sup><br><br>z<sup>o</sup>= 180<sup>o</sup>- 45<sup>o</sup><br><br>z = 135<sup>o</sup><br><br>z + y<sup>o</sup>+ 20<sup>o</sup>= 180<sup>o</sup>(sum of &lt; s in \\(\\bigtriangleup\\))<br><br>135<sup>o</sup>+ y<sup>o</sup>+ 20<sup>o</sup>= 180<sup>o</sup><br><br>y<sup>o</sup>+ 155<sup>o</sup>= 180<sup>o</sup><br><br>y<sup>o</sup>+ 180<sup>o</sup>- 155<sup>o</sup><br><br>y<sup>o</sup>= 25<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20",
+            "25",
+            "45",
+            "65"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25846891110_27.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "(1, 0.2)",
+            "(1, 0.4)",
+            "(1, 2.0)",
+            "(1, 40)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22975014784_27.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.00",
+            "-0.65",
+            "-1.25",
+            "-2.10"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2871877298_32.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; URT = &lt; TRQ (angle alternate a tangent and a chord equal to angle in the alternate segment)<br><br>&lt; RUT = x<sup>o</sup><br><br>In \\(\\bigtriangleup\\) URT<br><br>&lt; RUT + &lt; RUT + &lt; UTR = 180<sup>o</sup>(sum of int. &lt; s of \\(\\bigtriangleup\\))<br><br>&lt; URT + x + x = 180<sup>o</sup><br><br>&lt; URT = 180<sup>o</sup>- 2x",
+        "correctIndex": 3,
+        "options": [
+            "2x<sup>o</sup>",
+            "(90 - x)<sup>o</sup>",
+            "(90 + x)<sup>o</sup>",
+            "(180 - 2x)<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14359387090_41.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "80<sup>o</sup>",
+            "90<sup>o</sup>",
+            "110<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10051573399_44.jpg\" class=\"img-fluid\">",
+        "explanation": "Construction: draw a line from Q to point P and another line from S to point P.<br><br>&lt; SOQ = 2&lt; QPS (&lt; at centre is twice &lt; on the circumference)<br><br>&lt; QPS \\(\\frac{86}{2} = 43\\)<br><br>&lt; SQR = &lt; QPS ( &lt; between a chord and tangent = &lt; in the alternate segment)<br><br>&lt; SQR = 43<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "43<sup>o</sup>",
+            "47<sup>o</sup>",
+            "54<sup>o</sup>",
+            "86<sup>o</sup>"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27110214106_1978-1.jpg\" class=\"img-fluid\">",
+        "explanation": "Angles ADE and EFC are similar,<br>Therefore,<br><br>= \\(\\frac{x}{3} = \\frac{4}{2}\\)<br><br>= \\(\\frac{x}{3} = 2\\)<br><br>x = 3 x 2 = 6",
+        "correctIndex": 1,
+        "options": [
+            "4cm",
+            "6cm",
+            "3cm",
+            "2cm",
+            "1cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8561125440_1978-2.jpg\" class=\"img-fluid\">",
+        "explanation": "x + y + z = 360<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "185<sup>o</sup>",
+            "200<sup>o</sup>",
+            "270<sup>o</sup>",
+            "360<sup>o</sup>",
+            "195<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17122258860_1978-3.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of triangle AEF = 6sq. cm<br><br>area of triangle = \\(\\frac{1}{2}\\)bh (Line DX makes right angles with the parallel lines)<br><br>6 = \\(\\frac{1}{2}\\) x 3 x h<br><br>6 = 3h<br><br>3h = \\(\\frac{12}{3}\\)<br><br>h = 4 = DX<br><br>From D, C x D, CX<sup>2</sup>= 5<sup>2</sup><br>- 4<sup>2</sup><br><br>= 25 - 16 = 9<br><br>Cx = 3. From angle B x D, Bx = 6(i.e. 3 + 3)<br><br>BD<sup>2</sup>= 4<sup>2</sup>+ 6<sup>2</sup><br><br><br>= 16 + 36 = 52<br><br>BD = \\(\\sqrt{4 \\times 13}\\)<br><br>= 2\\(\\sqrt{13}\\)",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\sqrt{33}\\)",
+            "6",
+            "4",
+            "2\\(\\sqrt{13}\\)",
+            "4\\(\\sqrt{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27110257825_1978-4.jpg\" class=\"img-fluid\">",
+        "explanation": "If &lt; CED = 30<sup>o</sup>, and &lt; EDA = 40<sup>o</sup>then &lt; ABC = 125<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "70<sup>o</sup>",
+            "110<sup>o</sup>",
+            "130<sup>o</sup>",
+            "125<sup>o</sup>",
+            "145<sup>o</sup>"
+        ],
+        "type": "objectives"
+    }
+]

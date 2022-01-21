@@ -1,0 +1,98 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5709477892_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "The required equation is y = x<sup>2</sup>- x - 2<br><br>i.e. B where the graph touches the graph touches the x-axis y = 0<br><br>x<sup>2</sup>- x - 2 = 0 = (x + 1)(x - 2) = 0<br><br>Hence roots of the equation are -1 and 2 as shown in the graph",
+        "correctIndex": 2,
+        "options": [
+            "y = x<sup>2</sup>+ x - 2",
+            "y = -x<sup>2</sup>- x + 2",
+            "y = x<sup>2</sup>- x - 2",
+            "y = -x<sup>2</sup>- x + 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18555827680_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "Since PS = QS = RS<br><br>S is the centre of circle passing through P, Q, R /PS/ = /RS/ = radius<br><br>QPR \\(\\pm\\) \\(\\frac{100^o}{2}\\) = 50<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "40<sup>o</sup>",
+            "50<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11418971848_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "8cm",
+            "6cm",
+            "4cm",
+            "3cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12846350781_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "yzx + 105<sup>o</sup>+ 30<sup>o</sup>= 180<sup>o</sup><br><br>yzx = 180 - 155 = 45<sup>o</sup><br><br>\\(\\frac{yz}{sin 30^o} = \\frac{8}{sin 45^o}\\)<br><br>yz = \\(\\frac{8 \\sin 30}{sin 45}\\)<br><br>= 8(\\(\\frac{1}{2}) = \\frac{8}{1} \\times \\frac{1}{2} \\times \\frac{\\sqrt{2}}{1}\\)<br><br>= 4 \\(\\div\\) \\(\\frac{1}{\\sqrt{2}}\\)<br><br>= 4\\(\\sqrt{2}\\)cm",
+        "correctIndex": 2,
+        "options": [
+            "16\\(\\sqrt{2}\\)cm",
+            "8\\(\\sqrt{2}\\)cm",
+            "4\\(\\sqrt{2}\\)cm",
+            "22cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28547451300_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "125<sup>\\(\\frac{2}{7}\\)</sup><sup>2</sup>",
+            "149<sup>\\(\\frac{2}{7}\\)</sup>cm<sup>2</sup>",
+            "234<sup>\\(\\frac{1}{7}\\)</sup>cm<sup>2</sup>",
+            "267<sup>\\(\\frac{1}{2}\\)</sup>cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4282122252_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{x}{4} = \\frac{6 + x}{6}\\)<br>\n<br>\n6x = 4(6 + x) = 24 + 4x<br>\n<br>\nx = 12cm </p><p> CSA = \\(\\pi RL - \\pi rl\\)<br>\n<br>\n= \\(\\pi (6) \\sqrt{{18^2} + 6^2} - \\pi \\times 4 \\times \\sqrt{{12^2} + 4^2}\\)<br>\n<br>\n= 6\\(\\pi \\sqrt{360} - 4 \\pi \\sqrt{160}\\)<br>\n<br>\n= 36\\(\\pi \\sqrt{10} - 16 \\pi \\sqrt{10}\\)<br>\n<br>\n= 20\\(\\pi \\sqrt{10}\\)cm2</p>",
+        "correctIndex": 1,
+        "options": [
+            "16\\(\\pi \\sqrt{10}\\)cm<sup>2</sup>",
+            "20\\(\\pi \\sqrt{10}\\)cm<sup>2</sup>",
+            "24\\(\\pi \\sqrt{10}\\)cm<sup>2</sup>",
+            "36\\(\\pi \\sqrt{10}\\)cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    }
+]

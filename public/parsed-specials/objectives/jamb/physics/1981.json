@@ -1,0 +1,68 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27707705947_19810003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "\\( 15^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23332809600_19810001.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>When K is open, the total resistance</p><p>R = 8\\(\\Omega\\) + 2\\(\\Omega\\) = 10\\(\\Omega\\)</p><p>I = \\(\\frac{V}{R}\\) = \\(\\frac{6}{10}\\)</p><p>= 0.6A</p><p>When K is closed, we have</p><p>\\(\\frac{1}{R}\\) = \\(\\frac{1}{8}\\) + \\(\\frac{1}{8}\\)</p><p>⇒ \\(\\frac{1}{R}\\) = \\(\\frac{1}{4}\\)</p><p>⇒ R = 4\\(\\Omega\\)</p><p>The total resistance R = 4\\(\\Omega\\) + 2\\(\\Omega\\)</p><p>= 6\\(\\Omega\\)</p><p>I = \\(\\frac{6}{6}\\)</p><p>= 1A</p><p>Hence, I = 1A - 0.6A = 0.4A increase</p>",
+        "correctIndex": 2,
+        "options": [
+            "increase the current by 0.6A",
+            "reduce the current by 0.6A",
+            "increase the current by 0.4A",
+            "keep the current unchanged"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24791111883_19810002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.1Hz",
+            "0.2Hz",
+            "5Hz",
+            "10Hz",
+            "100Hz"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1981,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16041311869_19810007.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The intercept on either of the axes of the graph of \\(\\frac{1}{u}\\) against \\(\\frac{1}{v}\\) gives the value of \\(\\frac{1}{f}\\). Hence, the reciprocal of this intercecpt gives the value of the focal length. </p>",
+        "correctIndex": 1,
+        "options": [
+            "slope of line PQ",
+            "Reciprocal of either OP or OQ",
+            "Length OP or OQ",
+            "area under the graph E ratio OP/OQ"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14284928670_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The graph crosses the x-axis at x = -1 and x = 2<br>\n<br>\nThus, x + 1 = 0 and x - 2 = 0<br>\n<br>\nx\\(^2\\) - 2x + x - 2 = 0<br>\n<br>\nx\\(^2\\) - x - 2 = 0<br>\n<br>\ngiving y = x\\(^2\\) - x - 2</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "y = x<sup>2</sup>- x - 2",
+            "y = x<sup>2</sup>- 3x + 2",
+            "y = x<sup>2</sup>- x - 1",
+            "y = x<sup>2</sup>+ x - 2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19998910330_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12856442355_mfhth.jpg\" class=\"img-fluid\">\n</div>In the diagram above, &lt; CDE = &lt; CED = 15<sup>o</sup><br><br>(base &lt; s of isos. \\(\\bigtriangleup\\))<br><br>&lt; ECD = 180<sup>o</sup>- (15 + 15)<sup>o</sup><br><br>= 180<sup>o</sup>- 30<sup>o</sup>= 150<sup>o</sup><br><br>But x + 110<sup>o</sup>= 150<sup>o</sup><br><br>(Sum of opp. interior &lt; s of a\\(\\bigtriangleup\\) = opp. exterior &lt; )<br><br>x = 150<sup>o</sup>- 110<sup>o</sup>= 40<sup>o</sup><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "30<sup>o</sup>",
+            "40<sup>o</sup>",
+            "45<sup>o</sup>",
+            "15<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4285483371_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/27141394683_dhhhhh.jpg\" class=\"img-fluid\">\n</div><p>Sum of the angles in a triangle = 180°</p><p>180° - x + 60 + 70 = 180</p><p>130° - x = 180° - 180° = 0°</p><p>x = 130°</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "110<sup>o</sup>",
+            "100<sup>o</sup>",
+            "70<sup>o</sup>",
+            "130<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7142477315_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>80 + 160 + 200 + 80 + 128 + 72 = 720minutes</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "460mins",
+            "720mins",
+            "960mins",
+            "200mins"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2856997614_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>5x° + (16x - 24)° + 5x° + (4x + 12)° + (6x + 12)° = 360°<br>\n<br>\n36x° - 24 + 12 + 12 = 360°<br>\n<br>\n36x° = 360°<br>\n<br>\nx° = \\(\\frac{360°}{36}\\)<br>\n<br>\n= 10°<br>\n<br>\nThus, the angle of sector representing Mathematics is 5 x 10° = 50°. Hence the number of students who offer mathematics is<br>\n<br>\n\\(\\frac{50}{360} \\times 80 \\approx 11\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "30",
+            "11",
+            "50",
+            "20"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2013,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191113_123557%20%282%29_LI.jpg\" style=\"height:123px; width:250px\"></p><p>P, Q and R are subsets of the universal set U. The Venn diagram showing the relationship \\((P \\cap Q) \\cup R\\) is</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    }
+]

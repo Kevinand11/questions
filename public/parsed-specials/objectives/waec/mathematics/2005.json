@@ -1,0 +1,178 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2005,
+        "question": "From a point P, R is 5km due west and 12km due south. Find the distance between P and R",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23814292988_wamath0507ans.jpg\" class=\"img-fluid\">\n</div>Using Pythagoras theorem<br>\\(|PR|^2=|PO|^2+|OR|^2\\\\<br>|PR|^2=5^2+12^2\\\\<br>|PR|=\\sqrt{25+144}=\\sqrt{169}=13km\\)",
+        "correctIndex": 2,
+        "options": [
+            "5km",
+            "12km",
+            "13km",
+            "17km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11206746128_wamath0509.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19611805724_wamath0509.jpg\" class=\"img-fluid\">\n</div>∠KPM = 360<sup>o</sup>- (30 + 45)<sup>o</sup><br>= 360<sup>o</sup>- 75<sup>o</sup>= 285<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "285<sup>o</sup>",
+            "255<sup>o</sup>",
+            "225<sup>o</sup>",
+            "210<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15413183896_wamath0510.jpg\" class=\"img-fluid\">",
+        "explanation": "180 = ∠RPQ + ∠PRQ + ∠PQR Since PQR = 90 (theorem: angle in a semi circle)<br>180 = ∠RPQ + ∠PRQ + 90 =&gt; 180<sup>o</sup>= (3x-8)<sup>o</sup>+(2y-7)<sup>o</sup>+90<sup>o</sup>; 90+8+7 = 3x+2y =&gt;\\(\\frac{105-2y}{3}=x\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(x=\\frac{75-2y}{3}\\)",
+            "\\(x=\\frac{105-3y}{2}\\)",
+            "\\(x=\\frac{105-2y}{3}\\)",
+            "\\(x=\\frac{75-3y}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1401441080_wamath0516.jpg\" class=\"img-fluid\">",
+        "explanation": "The straight line MN = 180 = 2(x+30<sup>o</sup>) + 86<sup>o</sup>=&gt;<br>180 = 2x + 60<sup>o</sup>+ 86<sup>o</sup>=&gt; 180<sup>o</sup>= 2x + 146<sup>o</sup>=&gt; 2x = 180 - 46 = 34<sup>o</sup>=&gt; x = 34/2 = 17<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "13<sup>o</sup>",
+            "17<sup>o</sup>",
+            "28<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25232426712_wamath0517.jpg\" class=\"img-fluid\">",
+        "explanation": "Since ∠QRS = 180<sup>o</sup>- 30<sup>o</sup>= 150<sup>o</sup>and ∠SPQ = ∠QRS (theorem opp. angles in a parallelogram are equal) ∴ x = 150<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "95<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2005,
+        "question": "From a point R, 300m north of P, man walks eastward to a place Q which is 600m from P. Find the bearing of P from Q, correct to the nearest degreeee",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9810101385_wamath0518ans.jpg\" class=\"img-fluid\">\n</div>\\(cos\\theta = \\frac{adj}{hyp}=\\frac{300}{600}=\\frac{1}{2}\\\\<br>\\theta = cos^{-1}(0.5000)=60^{\\circ}\\)<br>The bearing of P from \\(Q = \\theta + 180 = 60 + 180 = 240^{\\circ}\\)",
+        "correctIndex": 3,
+        "options": [
+            "026<sup>o</sup>",
+            "045<sup>o</sup>",
+            "210<sup>o</sup>",
+            "240<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25230921966_wamath0531.jpg\" class=\"img-fluid\">",
+        "explanation": "The two points of contact of the curve with the x-axis are x = 1 and x = 4. The roots of the equation are x = 1 and x = 4",
+        "correctIndex": 2,
+        "options": [
+            "-1 and 1",
+            "4 and 1",
+            "1 and 4",
+            "4 and 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9812037452_wamath0531.jpg\" class=\"img-fluid\">",
+        "explanation": "The factor for the curve are (x-1)(x-4). The product off the curves gives \\(=x^2-5x+4=y\\)",
+        "correctIndex": 2,
+        "options": [
+            "\\(y=x^2+6x+4\\)",
+            "\\(y=x^2-5x-4\\)",
+            "\\(y=x^2-5x+4\\)",
+            "\\(y=x^2+5x-4\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2803440956_wamath0542.jpg\" class=\"img-fluid\">",
+        "explanation": "∠QPT = ∠QTP = 70<sup>o</sup>. Since ∠QTR = 140<sup>o</sup><br>∠PRS = TSR = 1/2(180-40) = 70<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "40<sup>o</sup>",
+            "70<sup>o</sup>",
+            "80<sup>o</sup>",
+            "140<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15419865252_wamath0523.jpg\" class=\"img-fluid\">",
+        "explanation": "Reflex + ∠OML + ∠ONL + ∠NLM = 360<br>280<sup>o</sup>+ 10<sup>o</sup>+ 15<sup>o</sup>+ x = 360<sup>o</sup>=&gt; 305<sup>o</sup>+ x<sup>o</sup>= 360<sup>o</sup><br>x = 360<sup>o</sup>- 305<sup>o</sup>= 55<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "40<sup>o</sup>",
+            "50<sup>o</sup>",
+            "55<sup>o</sup>",
+            "75<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14018078670_wamath0527.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "|PO|=|RO|",
+            "PQR is an equilateral triangle",
+            "PQRX is a parallelogram",
+            "There are two lines of symmetry"
+        ],
+        "type": "objectives"
+    }
+]

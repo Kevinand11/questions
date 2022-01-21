@@ -1,0 +1,29 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2012,
+        "question": "<p>The marks scored by 35 students in a test are given in the table below.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>1-5</td>\n<td>6-10</td>\n<td>11-15</td>\n<td>16-20</td>\n<td>21-25</td>\n<td>26-30</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>2</td>\n<td>7</td>\n<td>12</td>\n<td>8</td>\n<td>5</td>\n<td>1</td>\n</tr>\n</tbody>\n</table><p>Draw a histogram for the distribution.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>Class boundaries</td>\n<td>Frequency</td>\n</tr>\n<tr>\n<td>1 - 5</td>\n<td>0.5 - 5.5</td>\n<td>2</td>\n</tr>\n<tr>\n<td>6 - 10</td>\n<td>5.5 - 10.5</td>\n<td>7</td>\n</tr>\n<tr>\n<td>11 - 20</td>\n<td>10.5 - 20.5</td>\n<td>12</td>\n</tr>\n<tr>\n<td>21 - 30</td>\n<td>20.5 - 30.5</td>\n<td>8</td>\n</tr>\n<tr>\n<td>31 - 35</td>\n<td>30.5 - 35.5</td>\n<td>5</td>\n</tr>\n<tr>\n<td>36 - 40</td>\n<td>35.5 - 40.5</td>\n<td>1</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>35</td>\n</tr>\n</tbody>\n</table><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0315%20%282%29_LI.jpg\" style=\"width:300px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 2012,
+        "question": "<p>(a) A body P of mass 5kg is suspended by two light inextensible strings AP and BP attached to a ceiling. If the strings are inclined at angles 40° and 30° respectively to the downward vertical, find the tension in each of the strings. [Take \\(g = 10 ms^{-2}\\)].</p><p>(b) A constant force F acts on a toy car of mass 5 kg and increases its velocity from 5 ms\\(^{-1}\\) to 9 ms\\(^{-1}\\) in 2 seconds. Calculate : </p><p>(i) the magnitude of the force ; (ii) velocity of the toy car 3 seconds after attaining a velocity of 9 ms\\(^{-1}\\).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0316%20%282%29.jpg\" style=\"height:168px; width:250px\"></p><p>From Lami's theorem,</p><p>\\(\\frac{T_{1}}{\\sin 150} = \\frac{T_{2}}{\\sin 140} = \\frac{50}{\\sin 70}\\)</p><p>\\(T_{1} = \\frac{50 \\sin 150}{\\sin 70}\\)</p><p>= \\(\\frac{50 \\times 0.5}{0.9397} = 26.6N\\)</p><p>\\(T_{2} = \\frac{50 \\sin 140}{\\sin 70}\\)</p><p>= \\(\\frac{50 \\times 0.6428}{0.9397} = 34.2N\\)</p><p>The tensions are 26.6N and 34.2N respectively.</p><p>(b)(i) Given F = ?, u = 5 ms\\(^{-1}\\) ; v = 9 ms\\(^{-1}\\) ; t = 2s.</p><p>acceleration, \\(a = \\frac{v - u}{t}\\)</p><p>= \\(\\frac{9 - 5}{2} = 2 ms^{-2}\\)</p><p>Force, \\(F = ma = 5 \\times 2 \\)</p><p>= \\(10N\\).</p><p>(ii) \\(v = u + at\\)</p><p>\\(u = 9 ms^{-1}; a = 2 ms^{-2} ; t = 2s\\)</p><p>\\(v = 9 + 2(3)\\)</p><p>= \\(9 + 6 = 15 ms^{-1}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2012,
+        "question": "<p>(a) Given that \\(p = (4i - 3j)\\) and \\(q = (-i + 5j)\\), find r such that \\(|r| = 15\\) and is in the direction \\((2p + 3q)\\).</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0314%20%282%29.jpg\" style=\"height:129px; width:250px\"></p><p>Forces of magnitude 8N, 6N and 4N act at the point P, as shown in the above diagram. Find the : (i) magnitude ; (ii) direction of the resultant force.</p>",
+        "answer": "<p>(a) \\(p = (4i - 3j) ; q = (-i + 5j)\\)</p><p>\\(2p + 3q = \\begin{pmatrix} 8i - 3i \\\\ -6j + 15j \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 5i \\\\ 9j \\end{pmatrix}\\)</p><p>Let \\(r = k \\begin{pmatrix} 5i \\\\ 9j \\end{pmatrix} = \\begin{pmatrix} 5ki \\\\ 9kj \\end{pmatrix}\\)</p><p>\\(|r| = \\sqrt{(5k)^{2} + (9k)^{2}} = 15\\)</p><p>\\(\\sqrt{25k^{2} + 81k^{2}} = 15 \\implies 25k^{2} + 81k^{2} = 225\\)</p><p>\\(106k^{2} = 225 \\implies k^{2} = \\frac{225}{106} = 2.123\\)</p><p>\\(k = \\sqrt{2.123} = 1.457\\)</p><p>\\(\\therefore r = \\begin{pmatrix} 5i \\times 1.457 \\\\ 9j \\times 1.457 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} 7.285i \\\\ 13.113j \\end{pmatrix}\\)</p><p>(b)(i)  <img alt=\"\" src=\"/storage/classroom/editor_images/scan0314%20%282%29%281%29.jpg\" style=\"height:129px; width:250px\"></p><p>Resolve the forces along the x and y- axis.</p><p>Let \\(F_{1} = \\begin{pmatrix} 8 \\cos 120° \\\\ 8 \\sin 120° \\end{pmatrix}\\)</p><p>\\(F_{2} = \\begin{pmatrix} 6 \\cos 90° \\\\ 6 \\sin 90° \\end{pmatrix}\\)</p><p>\\(F_{3} = \\begin{pmatrix} 4 \\cos 30° \\\\ 4 \\sin 30° \\end{pmatrix}\\)</p><p>\\(R = F_{1} + F_{2} + F_{3}\\)</p><p>= \\(\\begin{pmatrix} 8 \\cos 120° \\\\ 8 \\sin 120° \\end{pmatrix} + \\begin{pmatrix} 6 \\cos 90° \\\\ 6 \\sin 90° \\end{pmatrix} + \\begin{pmatrix} 4 \\cos 30° \\\\ 4 \\sin 30° \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -8 \\cos 60° \\\\ 8 \\sin 60 \\end{pmatrix} + \\begin{pmatrix} 6 \\cos 90° \\\\ 6 \\sin 90° \\end{pmatrix} + \\begin{pmatrix} 4 \\cos 30° \\\\ 4 \\sin 30° \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -8 \\times 0.5 \\\\ 8 \\times 0.866 \\end{pmatrix} + \\begin{pmatrix} 6 \\times 0 \\\\ 6 \\times 1 \\end{pmatrix} + \\begin{pmatrix} 4 \\times 0.866 \\\\ 4 \\times 0.5 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -4 + 0 + 3.464 \\\\ 6.928 + 6 + 2 \\end{pmatrix}\\)</p><p>= \\(\\begin{pmatrix} -0.536 \\\\ 14.928 \\end{pmatrix}\\)</p><p>\\(|R| = \\sqrt{(-0.536)^{2} + (14.928)^{2}} = \\sqrt{0.2873 + 222.8452}\\)</p><p>= \\(\\sqrt{223.1325} = 14.94N\\)</p><p>(ii)Direction \\(\\theta\\)</p><p>\\(\\tan \\theta = \\frac{14.928}{-0.536} = -27.851\\)</p><p>\\(\\theta = -87.9° = 92.1°\\)</p><p>The direction is N 02.1° W or a bearing of 267.9°.</p>",
+        "type": "theory"
+    }
+]

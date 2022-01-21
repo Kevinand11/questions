@@ -1,0 +1,47 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2017,
+        "question": "<p>The table shows the heights in cm of some seedlings in a certain garden.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Height (cm)</td>\n<td>36-40</td>\n<td>41-45</td>\n<td>46-50</td>\n<td>51-55</td>\n<td>56-60</td>\n</tr>\n<tr>\n<td>Frequency</td>\n<td>3</td>\n<td>9</td>\n<td>21</td>\n<td>12</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p>(a) Draw the cumulative frequency curve for the distribution.</p><p>(b) Using the curve in (a), find thesemi-interquartile range.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Height (cm)</td>\n<td>Freq</td>\n<td>Class boundaries</td>\n<td>Cum. freq</td>\n</tr>\n<tr>\n<td>36 - 40</td>\n<td>3</td>\n<td>35.5 - 40.5</td>\n<td>3</td>\n</tr>\n<tr>\n<td>41 - 45</td>\n<td>9</td>\n<td>40.5 - 45.5</td>\n<td>12</td>\n</tr>\n<tr>\n<td>46 - 50</td>\n<td>21</td>\n<td>45.5 - 50.5</td>\n<td>33</td>\n</tr>\n<tr>\n<td>51 - 55</td>\n<td>12</td>\n<td>50.5 - 55.5</td>\n<td>45</td>\n</tr>\n<tr>\n<td>56 - 60</td>\n<td>5</td>\n<td>55.5 - 60.5</td>\n<td>50</td>\n</tr>\n</tbody>\n</table><p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0298%20%282%29.jpg\" style=\"height:358px; width:300px\"></p><p>(b) Lower quartile \\(Q_{1}\\) = 45.6cm</p><p>Upper quartile \\(Q_{3}\\) = 52.0cm</p><p>Semi- interquartile range = \\(\\frac{Q_{3} - Q_{1}}{2}\\)</p><p>= \\(\\frac{52 - 45.6}{2}\\)</p><p>= \\(\\frac{6.4}{2}\\)</p><p>= \\(3.2cm\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2017,
+        "question": "<p>A parallelogram MNQR has vertices M(4, -6), N(10, 2), Q(8, 16) and R(x, y). Find the coordinates of R.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0298%20%283%29.jpg\" style=\"height:118px; width:250px\"></p><p>\\(\\overrightarrow{MN} = \\overrightarrow{RQ}\\)</p><p>\\(\\begin{pmatrix} 4 - 10 \\\\ - 6 - 2 \\end{pmatrix} = \\begin{pmatrix} x - 8 \\\\ y - 16 \\end{pmatrix}\\)</p><p>\\(\\implies 4 - 10 = x - 8\\)</p><p>\\(-6 = x - 8 \\implies x = -6 + 8 = 2\\)</p><p>\\(\\implies - 6 - 2 = y - 16\\)</p><p>\\(-8 = y - 16 \\implies y = -8 + 16 = 8\\)</p><p>The coordinate of R is (2, 8).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2017,
+        "question": "<p>The table shows the frequency distribution of the ages of patients in a clinic.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Ages (years)</td>\n<td>17 - 19</td>\n<td>20 - 22</td>\n<td>23 - 28</td>\n<td>29 - 34</td>\n<td>35 - 43</td>\n</tr>\n<tr>\n<td>No. of patients</td>\n<td>6</td>\n<td>9</td>\n<td>12</td>\n<td>18</td>\n<td>18</td>\n</tr>\n</tbody>\n</table><p>(a) Draw a histogram for the distribution</p><p>(b) Find, correct to two decimal places, the mean age of the patients.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Age (yr)</td>\n<td>Frequency</td>\n<td>Class boundary</td>\n<td>Class width</td>\n<td>Height</td>\n</tr>\n<tr>\n<td>17 - 19</td>\n<td>6</td>\n<td>16.5 - 19.5</td>\n<td>3</td>\n<td>2</td>\n</tr>\n<tr>\n<td>20 - 22</td>\n<td>9</td>\n<td>19.5 - 22.5</td>\n<td>3</td>\n<td>3</td>\n</tr>\n<tr>\n<td>23 - 28</td>\n<td>12</td>\n<td>22.5 - 28.5</td>\n<td>6</td>\n<td>2</td>\n</tr>\n<tr>\n<td>29 - 34</td>\n<td>18</td>\n<td>28.5 - 34.5</td>\n<td>6</td>\n<td>3</td>\n</tr>\n<tr>\n<td>35 - 43</td>\n<td>18</td>\n<td>34.5 - 43.5</td>\n<td>9</td>\n<td>2</td>\n</tr>\n</tbody>\n</table><p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0299%20%282%29.jpg\" style=\"height:236px; width:300px\"></p><p>(b) Let the assumed mean be 25.5 yrs.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Age (yr)</td>\n<td>Mid-age (x)</td>\n<td>Freq (f)</td>\n<td>\\(d = x - A\\)</td>\n<td>\\(fd\\)</td>\n</tr>\n<tr>\n<td>17 - 19</td>\n<td>18</td>\n<td>6</td>\n<td>-7.5</td>\n<td>-45</td>\n</tr>\n<tr>\n<td>20 - 22</td>\n<td>21</td>\n<td>9</td>\n<td>-4.5</td>\n<td>-40.5</td>\n</tr>\n<tr>\n<td>23 - 28</td>\n<td>25.5</td>\n<td>12</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>29 - 34</td>\n<td>31.5</td>\n<td>18</td>\n<td>6.0</td>\n<td>108</td>\n</tr>\n<tr>\n<td>35 - 43</td>\n<td>39.0</td>\n<td>18</td>\n<td>13.5</td>\n<td>243</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>63</td>\n<td> </td>\n<td>265.5</td>\n</tr>\n</tbody>\n</table><p>Mean = \\(A + \\frac{\\sum fd}{\\sum f}\\)</p><p>= \\(25.5 + \\frac{265.5}{63}\\)</p><p>= \\(25.5 + 4.21\\)</p><p>= \\(29.71 yrs\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2017,
+        "question": "<p>(a) A body P of mass q kg is suspended by two light inextensible strings AB and DB attached to a horizontal table. The strings are inclined at 30° and 60° respectively to the horizontal and the tension in AB is 48N. If the system is in equilibrium :</p><p>(i) sketch a diagram to represent the information ; (ii) calculate the tension in DB ; </p><p> </p>",
+        "answer": "<p>(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0299%20%283%29.jpg\" style=\"height:183px; width:250px\"></p><p>(ii) Using Lami's theorem, </p><p>\\(\\frac{48}{\\sin 150} = \\frac{T}{\\sin 120}\\)</p><p>\\(T = \\frac{48 \\sin 120}{\\sin 150}\\)</p><p>\\(T = 83.14N\\)</p><p>The tension in DB is 83.14N.</p><p>(iii) Using Lami's theorem,</p><p>\\(\\frac{10q}{\\sin 90} = \\frac{48}{\\sin 150}\\)</p><p>\\(10q = \\frac{48 \\sin 90}{\\sin 150}\\)</p><p>\\(10q = 96 \\implies q = 9.6kg\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2017,
+        "question": "<p>(a) Given that \\(m = (6i + 8j)\\) and \\(n = (-8i + \\frac{7}{3}j)\\), find the :</p><p>(i) magnitudes and direction of m and n ; (ii) angle between m and n.</p><p>(b) The position vectors of points P, Q, R and S are \\(\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}, \\begin{pmatrix} 10 \\\\ 4 \\end{pmatrix}, \\begin{pmatrix} 3 \\\\ 12 \\end{pmatrix}\\) and \\(\\begin{pmatrix} 4 \\\\ 0 \\end{pmatrix}\\) respectively. Show that \\(\\overrightarrow{PQ}\\) is perpendicular to \\(\\overrightarrow{RS}\\).</p>",
+        "answer": "<p>(a) \\(m = (6i + 8j) ; n = (-8i + \\frac{7}{3}j)\\)</p><p>(i) \\(|m| = \\sqrt{6^{2} + 8^{2}} = \\sqrt{36 + 64}\\)</p><p>= 10 units.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0300%20%282%29.jpg\" style=\"height:246px; width:250px\"></p><p>Direction of m: \\(\\tan \\alpha = \\frac{8}{6} = 1.333\\)</p><p>\\(\\alpha = 53.13°\\)</p><p>\\(|n| = \\sqrt{(-8)^{2} + (\\frac{7}{3})^{2}} = \\sqrt{64 + \\frac{49}{9}}\\)</p><p>= \\(\\sqrt{\\frac{625}{9}} = \\frac{25}{3} units\\)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0300%20%283%29.jpg\" style=\"height:239px; width:250px\"></p><p>Direction of n :</p><p>\\(\\tan \\beta = \\frac{\\frac{7}{3}}{-8}\\)</p><p>= \\(-\\frac{7}{24} = -0.2917\\)</p><p>\\(\\beta = \\tan^{-1} (-0.2917) = -16.26°\\)</p><p>(ii) Let the angle between m and n be \\(\\theta\\).</p><p>\\(m \\cdot n = |m||n| \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{m \\cdot n}{|m||n|}\\)</p><p>\\(m \\cdot n = (6i + 8j) \\cdot (-8i + \\frac{7}{3}j)\\)</p><p>= \\(-48 + \\frac{56}{3}\\)</p><p>= \\(\\frac{-88}{3}\\)</p><p>\\(\\cos \\theta = \\frac{-\\frac{88}{3}}{10 \\times \\frac{25}{3}}\\)</p><p>= \\(\\frac{-88}{250}\\)</p><p>\\(\\cos \\theta = -0.352\\)</p><p>\\(\\theta = \\cos^{-1} (-0.352) = 110.61°\\)</p><p>(b) For PQ to be perpendicular to RS, the angle between them should be 90°. That is, \\(\\cos \\theta = 0\\).</p><p>\\(\\overrightarrow{PQ} = \\begin{pmatrix} 10 \\\\ 4 \\end{pmatrix} - \\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} 12 \\\\ 1 \\end{pmatrix}\\)</p><p>\\(\\overrightarrow{RS} = \\begin{pmatrix} 4 \\\\ 0 \\end{pmatrix} - \\begin{pmatrix} 3 \\\\ 12 \\end{pmatrix} = \\begin{pmatrix} 1 \\\\ -12 \\end{pmatrix}\\)</p><p>\\(|PQ| = \\sqrt{12^{2} + 1^{2}} = \\sqrt{144 + 1} = \\sqrt{145}\\)</p><p>\\(|RS| = \\sqrt{1^{2} + (-12)^{2}} = \\sqrt{1 + 144} = \\sqrt{145}\\)</p><p>\\(\\overrightarrow{PQ} \\cdot \\overrightarrow{RS} = (12i + j) \\cdot (i - 12j)\\)</p><p>= \\(0\\)</p><p>\\(\\overrightarrow{PQ} \\cdot \\overrightarrow{RS} = |PQ||RS| \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{0}{(\\sqrt{145})(\\sqrt{145})} = 0\\)</p>",
+        "type": "theory"
+    }
+]

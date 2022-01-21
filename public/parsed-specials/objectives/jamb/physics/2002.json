@@ -1,0 +1,98 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13590222090_phy20021.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/13590222100_phy20021a.jpg\" class=\"img-fluid\">\n</div>Energy store is equal to the work done in stretching the wire from E to F given by the area of the shaded trapezium under the graph.<br>=<sup>1</sup>/<sub>2</sub>(0.1 x 0.2) x (0.1 - 0.05)<br>=<sup>1</sup>/<sub>2</sub>(0.3) x 0.05<br>= 0.15 x 0.05<br>= 0.075<br>= 7.5 x 10<sup>-1</sup>J",
+        "correctIndex": 3,
+        "options": [
+            "7.5 x 10<sup>-3</sup>J",
+            "2.5 x 10<sup>-3</sup>J",
+            "1.5 x 10<sup>-2</sup>J",
+            "7.5 x 10<sup>-1</sup>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24462421344_phy200212.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24462421344_phy200212.jpg\" class=\"img-fluid\">\n</div>The work done on this object is given by the area of the triangle, which is equal to<sup>1</sup>/<sub>2</sub>fx",
+        "correctIndex": 1,
+        "options": [
+            "Fx J",
+            "<sup>Fx</sup>/<sub>2</sub>J",
+            "Fx<sup>2</sup>J",
+            "<sup>F</sup>/<sub>x</sub>J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9513165291_phy200230.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/27180472340_phy200230.jpg\" class=\"img-fluid\">\n</div><table><tbody><tr><td rowspan=\"2\"> n = </td><td style=\"border-bottom:solid 1px\"> sin((A+D)/2)</td></tr><tr><td>sin(A/2)</td></tr></tbody></table><br>where A = the refracting angle of the prism(60<sup>o</sup>)<br>D = angle of deviation of the ray (30<sup>o</sup>)<br><table><tbody><tr><td rowspan=\"2\"> n = </td><td style=\"border-bottom:solid 1px\"> sin((60+30)/2)</td></tr><tr><td>sin(60/2)</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">sin 45</td></tr><tr><td>sin 30</td></tr></tbody></table><br>=<br><sup>1</sup>/<sub>√2</sub>/<sub><sup>1</sup>/<sub>2</sub></sub><br><sup>√2</sup>/<sub>2</sub>/<sub><sup>1</sup>/<sub>2</sub></sub><br>=<sup>√2</sup>/<sub>2</sub>x<sup>2</sup>/<sub>1</sub>= √2<br>n = √2",
+        "correctIndex": 2,
+        "options": [
+            "<sup>√2</sup>/<sub>2</sub>",
+            "<sup>4</sup>/<sub>3</sub>",
+            "√2",
+            "<sup>3</sup>/<sub>2</sub>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2718048940_phy200231.jpg\" class=\"img-fluid\">",
+        "explanation": "Let the combined parallel resistance of 3 Ω and x = Q Ω<br>∴ Total resistance in the circuit = 2 + Q + 1.5 = 3.5 + Q Ω<br>Total current in the circuit = 2A<br>P.D a cross the circuit 12 volts<br>∴ From Ohm’s law, V = IR<br>12 = 2(3.5 + Q)<br>= 7.0 + 2Q<br>∴ 2Q = 12 – 7<br>= 5<br>∴ Q =<sup>5</sup>/<sub>2</sub>= 2.5 Ω<br>Thus from parallel formula: I/Q = 1/3 + 1/x<br><sup>1</sup>/<sub>2.5</sub>=<sup>1</sup>/<sub>3</sub>+<sup>1</sup>/<sub>x</sub><br>∴<sup>1</sup>/<sub>x</sub>=<sup>1</sup>/<sub>2.5</sub>-<sup>1</sup>/<sub>3</sub>=<sup>3-2.5</sup>/<sub>7.5</sub>=<sup>0.5</sup>/<sub>7.5</sub><br>X =<sup>7.5</sup>/<sub>0.5</sub>=<sup>75</sup>/<sub>5</sub>= 15 Ω<br>∴ X = 15 Ω",
+        "correctIndex": 3,
+        "options": [
+            "6Ω",
+            "9Ω",
+            "12Ω",
+            "15Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19026487816_phy200236.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Both X and Y are negative",
+            "Both X and Y are positive",
+            "X is positive and Y is negative",
+            "X is negative and Y is positive"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2002,
+        "question": "<p>an electric cell with nominal voltage E has a resistance of 3Ω connected across it. If the voltage falls to 0.6E, the internal resistance of the cell is</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12231324045_phy200238a.jpg\" class=\"img-fluid\">\n</div><p>IR = 0.6 X I ( R + r )</p><p>I X 3 = 0.6 X I ( 3 + r )</p><p>3I / 0.6I = 3 + r</p><p>5 = 3 + r</p><p>r = 2 ohms</p>",
+        "correctIndex": 1,
+        "options": [
+            "1Ω",
+            "2Ω",
+            "3Ω",
+            "4Ω"
+        ],
+        "type": "objectives"
+    }
+]

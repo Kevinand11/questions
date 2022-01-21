@@ -1,0 +1,66 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20040334510_11.jpg\" class=\"img-fluid\">",
+        "explanation": "clockwise moment = Anti-clock wise moment<br><br>= M x 40 = 100 x 10<br><br>M = \\(\\frac{1000}{40}\\)<br><br>= 25g",
+        "correctIndex": 3,
+        "options": [
+            "500.0g",
+            "400.0g",
+            "44.4g",
+            "25.0g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15746052113_31.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "0.05m",
+            "0.15m",
+            "0.16m",
+            "0.40m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27197790312_43.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{1}{r} = \\frac{1}{r_1} + \\frac{1}{r_2}\\)<br><br>= \\(\\frac{1}{5} + \\frac{1}{20}\\)<br><br>= \\(\\frac{4 + 1}{20} = \\frac{5}{20}\\)<br><br>r = \\(\\frac{20}{5}\\)<br><br>= 4\\(\\Omega\\)<br><br>R = R<sub>1</sub>+ R<sub>2</sub><br><br>= 5 + 4<br><br>= 9\\(\\Omega\\)<br><br>but V = IR<br><br>I = \\(\\frac{V}{R} = \\frac{9}{9}\\)<br><br>= 1A",
+        "correctIndex": 1,
+        "options": [
+            "1.8A",
+            "1.0A",
+            "0.8A",
+            "0.3A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11451705864_46.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increase sharply",
+            "decrease slightly",
+            "remains the same",
+            "increase gradually"
+        ],
+        "type": "objectives"
+    }
+]

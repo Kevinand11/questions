@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2009,
+        "question": "<p>(a) Out of 30 candidates applying for a post, 17 have degrees, 15 have diplomas and 4 neither degree nor diploma. How many of them have both?</p><p>(b) In triangle PQR, M and N are points on the side PQ and PR respectively such that MN is parallel to QR. If &lt; PRQ = 75°, PN = QN and &lt; PNQ = 125°, determine :</p><p>(i) &lt; NQR  ; (ii) &lt; NPM.</p>",
+        "answer": "<p>(a) Let B represent those with degree.</p><p>Let D represent those with diploma.</p><p>Let  x represent those who have both degree and diploma.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0179%20%283%29.jpg\" style=\"height:157px; width:250px\"></p><p>(17 - x) + x + (15 - x) + 4 = 30</p><p>36 - x = 30</p><p>x = 36 - 30 = 6.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0179%20%284%29_LI.jpg\" style=\"height:234px; width:250px\"></p><p>\\(&lt; PNM = 75°\\) (corresponding angle)</p><p>\\(\\therefore NQR = 125° - 75° \\)</p><p>= \\(50°\\)</p><p>\\(&lt; NPM = \\frac{180° - 125°}{2}\\)</p><p>= \\(\\frac{55°}{2}\\)</p><p>= \\(27.5°\\). (Base angles of an isosceles triangle).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2009,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0178%20%282%29_LI.jpg\" style=\"height:221px; width:250px\"></p><p>In the diagram, ABCDEF is a triangular prism. &lt; ABC = &lt; DEF = 90°, /AB/ = 24 cm, /BC/ = 7 cm and /CD/ = 40 cm. Calculate : </p><p>(a) /AC/ ; </p><p>(b) the total surface area of the prism.</p>",
+        "answer": "<p>(a) From the diagram,</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0179%20%285%29_LI.jpg\" style=\"height:199px; width:250px\"></p><p>\\(|AC|^{2} = 24^{2} + 7^{2}\\)</p><p>= \\(576 + 49\\)</p><p>\\(|AC|^{2} = 625 \\implies |AC| = \\sqrt{625} = 25 cm\\)</p><p>\\(Area = \\frac{1}{2} \\times b \\times h\\)</p><p>= \\(\\frac{7 \\times 24}{2}\\)</p><p>= \\(84 cm^{2}\\).</p><p>(b) Total Surface Area of prism</p><p>= Area of two right angles ( ABC and EFD) + Area of 3 rectangles (ACDF, ABEF and BCDE)</p><p>= \\(( 2 \\times 84 cm^{2}) + (25 \\times 40)cm^{2} + (24 \\times 40)cm^{2} + (7 \\times 40)cm^{2}\\)</p><p>= \\((168 + 1000 + 960 + 280) cm^{2}\\)</p><p>= \\(2408 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2009,
+        "question": "<p>(a) A woman looking out from the window of a building at a height of 30m, observed that the angle of depression of the top of a flag pole was 44°. If the foot of the pole is 25m from the foot of the building and on the same horizontal ground, find, correct to the nearest whole number, the (i) angle of depression of the foot of the pole from the woman ; (ii) height of the flag pole.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0178%20%283%29_LI.jpg\" style=\"height:240px; width:250px\"> In the diagram, O is the centre of the circle, &lt; OQR = 32° and &lt; TPQ = 15°. Calculate, (i) &lt; QPR ; (ii) &lt; TQo.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0179%20%286%29.jpg\" style=\"height:255px; width:250px\">  </p><p>(i) From \\(\\Delta\\) TFO,</p><p>\\(\\tan x = \\tan \\theta\\) (alternate angles)</p><p>\\(\\tan x = \\frac{25}{30} = 0.8333\\)</p><p>\\(x = \\tan^{-1} (0.8333)\\)</p><p>= \\(39.80° \\approxeq 40°\\)</p><p>Angle of depression of the pole from the woman</p><p>= 90° - 40°</p><p>= 50°.</p><p>(ii) From \\(\\Delta\\) TPQ,</p><p>\\(\\tan 46 = \\frac{25}{TQ}\\)</p><p>\\(TQ = \\frac{25}{\\tan 46}\\)</p><p>\\(TQ = \\frac{25}{1.0355}\\)</p><p>= \\(24.1429 m\\)</p><p>Height of the pole : \\(TF - TQ\\)</p><p>= \\(30 m - 24.1429 m\\)</p><p>= \\(5.8571 m\\)</p><p>\\(\\approxeq 6m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2009,
+        "question": "<p>(a) Simplify \\(\\frac{x + 2}{x - 2} - \\frac{x + 3}{x - 1}\\)</p><p>(b) The graph of the equation \\(y = Ax^{2} + Bx + C\\) passes through the point (0, 0), (1, 4) and (2, 10). Find the : </p><p>(i) value of C ; (ii) values of A and B ; (iii) co-ordinates of the other point where the graph cuts the x- axis.</p>",
+        "answer": "<p>(a) \\(\\frac{x + 2}{x - 2} - \\frac{x + 3}{x - 1}\\)</p><p>= \\(\\frac{(x - 1)(x + 2) - (x - 2)(x + 3)}{(x - 2)(x - 1)}\\)</p><p>= \\(\\frac{x^{2} + 2x - x - 2 - (x^{2} + 3x - 2x - 6)}{(x - 2)(x - 1)}\\)</p><p>= \\(\\frac{x^{2} - x^{2} + x - x - 2 + 6}{(x - 2)(x - 1)}\\)</p><p>= \\(\\frac{4}{(x - 2)(x - 1)}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0180%20%282%29.jpg\" style=\"height:289px; width:250px\"></p><p>(1, 4) and (2, 10) are supposed roots of the equation</p><p>When x = 1, equation becomes \\(A(1)^{2} + B(1) = 4\\)</p><p>When x = 2, \\(A(2^{2}) + B(2) = 10\\)</p><p>\\(\\implies A + B = 4 ...... (1)\\)</p><p>\\(4A + 2B = 10 ....... (2)\\)</p><p>Solving for A and B, we have</p><p>A = 1 and B = 3.</p><p>(iii) \\(y = x^{2} + 3x\\)</p><p>\\(y = x(x + 3)\\)</p><p>x = 0 or x = 3.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2009,
+        "question": "<p>(a) Using ruler and a pair of compasses only, construct : (i) quadrilateral PQRS such that /PQ/ = 10 cm, /QR/ = 8 cm, /PS/ = 6 cm, &lt; PQR = 60° and &lt; QPS = 75° ;</p><p>(ii) the locus \\(l_{1}\\) of points equidistant from QR and RS ; (iii) locus \\(l_{2}\\) of points equidistant from R and S ;</p><p>(b) Measure /RS/.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0180%20%286%29.jpg\" style=\"height:170px; width:250px\"></p><p>(b) /RS/ = 4.4 cm.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2009,
+        "question": "<p>(a) A circle is inscribed in a square. If the sum of the perimeter of the square and the circumference of the circle is 100 cm, calculate the radius of the circle. [Take \\(\\pi = \\frac{22}{7}\\)].</p><p>(b) A rope 60cm long is made to form a rectangle. If the length is 4 times its breadth, calculate, correct to one decimal place, the :</p><p>(i) length ; (ii) diagonal of the rectangle. </p>",
+        "answer": "<p>(a) Perimeter of a circle = \\(2\\pi r\\).</p><p>Length of a side of square = 2r in terms of r.</p><p>Sum of perimeter of circle and square = \\((2 \\pi r) + (4 \\times 2r)\\)</p><p>\\(2r (\\pi + 4) = 100\\)</p><p>\\(r ( \\frac{22}{7} + 4 ) = 50\\)</p><p>\\(r = 50 \\div \\frac{50}{7}\\)</p><p>\\(r = 7 cm\\)</p><p>(b) (i) L = \\(4 \\times breadth\\)</p><p>B = breadth.</p><p>60 cm = 2(4B + B)</p><p>2(5B) = 60 cm</p><p>\\(B = \\frac{60}{10} = 6 cm\\)</p><p>\\(L = 4 \\times 6 = 24 cm\\).</p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0180%20%284%29.jpg\" style=\"height:101px; width:250px\"></p><p>Let the diagonal be d.</p><p>\\(d^{2} = 6^{2} + 24^{2}\\)</p><p>\\(d^{2} = 36 + 576\\)</p><p>\\(d^{2} = 612\\)</p><p>\\(d = \\sqrt{612}\\)</p><p>= \\(24.74 cm \\approxeq 24.7 cm\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2009,
+        "question": "<p>(a) Copy and complete the table of values for \\(y = \\sin x + 2 \\cos x\\), correct to one decimal place.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:75%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n<td>\n<p>240°</p>\n</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td>2.2</td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td>-1.2</td>\n<td>-2.0</td>\n<td> </td>\n<td>-1.9</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2 cm to 30° on the x- axis and 2 cm to 0.5 units on the y- axis, draw the graph of \\(y = \\sin x + 2\\cos x\\) for \\(0° \\leq x \\leq 240°\\).</p><p>(c) Use your graph to solve the equation : (i) \\(\\sin x + 2 \\cos x = 0\\) ; (ii) \\(\\sin x = 2.1 - 2\\cos x\\).</p><p>(d) From the graph, find y when x = 171°.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:60%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n<td>240°</td>\n</tr>\n<tr>\n<td>y</td>\n<td>2.0</td>\n<td>2.2</td>\n<td>1.9</td>\n<td>1.0</td>\n<td>-0.1</td>\n<td>-1.2</td>\n<td>-2.0</td>\n<td>-2.2</td>\n<td>-1.9</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0180%20%285%29.jpg\" style=\"height:316px; width:300px\"></p><p>(c) (i) x = 117°  ; (ii) x = 9° , 45°.</p><p>(d) When x = 171°, y = -1.75.</p><p> </p>",
+        "type": "theory"
+    }
+]

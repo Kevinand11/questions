@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1999,
+        "question": "<p>ABC is a triangle, right-angled at C. P is the mid-point of AC, &lt; PBC = 37° and |BC| = 5 cm. Calculate : </p><p>(a) |AC|, correct to 3 significant figures ;</p><p>(b) &lt; PBA.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0333%20%283%29.jpg\" style=\"height:206px; width:250px\"></p><p>Let |PC| = x cm; Hence, |AC| = 2x cm</p><p>\\(\\tan 37° = \\frac{x}{5}\\)</p><p>\\(x = 5 \\tan 37 \\)</p><p>\\(x = 3.768 cm\\)</p><p>\\(\\therefore |AC| = 2 \\times 3.768\\)</p><p>= \\(7.536 cm\\)</p><p>\\(\\approxeq 7.54 cm\\) (3 sig. figs)</p><p>(b) From \\(\\Delta ABC\\), </p><p>\\(\\tan &lt; ABC = \\frac{7.536}{5} = 1.5072\\)</p><p>\\(&lt; ABC = \\tan^{-1} (1.5072) = 56.436°\\)</p><p>\\(\\therefore &lt; PBA = &lt; ABC - &lt; PBC\\)</p><p>= \\(56.436° - 37°\\)</p><p>= \\(19.436° \\approxeq 19.44°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 1999,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%2811%29.jpg\" style=\"height:202px; width:250px\"></p><p>In the diagram, ABCD is a trapezium in which \\(AD \\parallel BC\\) and \\(&lt; ABC\\) is a right angle. If |AD| = 15 cm, |BD| = 17 cm and |BC| = 9 cm, calculate :</p><p>(a) |AB| ;</p><p>(b) the area of the triangle BCD ;</p><p>(c) |CD| ;</p><p>(d) perimeter of the trapezium.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0333%20%284%29.jpg\" style=\"height:165px; width:250px\"></p><p>(a) \\(|AB| = \\sqrt{|BD|^{2} - |AD|^{2}}\\)</p><p>= \\(\\sqrt{17^{2} - 15^{2}} = \\sqrt{289 - 225}\\)</p><p>= \\(\\sqrt{64} = 8 cm\\)</p><p>(b) Area of triangle BCD = \\(\\frac{1}{2} \\times 9 \\times 8 \\)</p><p>= \\(36 cm^{2}\\)</p><p>(c) \\(|EC| = 6 cm\\)</p><p>\\(|CD| = \\sqrt{8^{2} + 6^{2}} = \\sqrt{100}\\)</p><p>= 10 cm.</p><p>(d) Perimeter of the trapezium = 15 cm + 8 cm + 9 cm + 10 cm</p><p>= 42 cm.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1999,
+        "question": "<p>(a) A cylindrical pipe is 28 metres long. Its internal radius is 3.5 cm and external radius 5 cm. Calaulate : (i) the volume, in cm\\(^{3}\\), of metal used in making the pipe ;  (ii) the volume of water in litres that the pipe can hold when full, correct to 1 decimal place. [Take \\(\\pi = \\frac{22}{7}\\)]</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29%2810%29.jpg\" style=\"height:212px; width:250px\">  In the diagram, MP is a tangent to the circle LMN at M. If the chord LN is parallel to MP, show that the triangle LMN is isosceles.</p>",
+        "answer": "<p>(a)(i) Volume of outer pipe = \\(\\pi r^{2} h\\)</p><p>= \\(\\frac{22}{7} \\times (5.0)^{2} \\times 28 \\times 100\\)</p><p>Volume of inner pipe = \\(\\frac{22}{7} \\times (3.5)^{2} \\times 28 \\times 100\\)</p><p>Volume of metal used = Volume of outer pipe - Volume of inner pipe</p><p>= \\(22 \\times 400 \\times (5.0^{2} - 3.5^{2})\\)</p><p>= \\(22 \\times 400 \\times (5.0 - 3.5) \\times (5.0 + 3.5)\\)</p><p>= \\(112,200 cm^{3}\\)</p><p>(ii) Vol of water the pipe can hold = vol of inner pipe</p><p>= \\(\\frac{22}{7} \\times (3.5)^{2} \\times 28 \\times 100\\)</p><p>= \\(107,800 cm^{3}\\)</p><p>= 107.8 litres.</p><p>(b) &lt; PMN = &lt; LNM (alternate angles)</p><p>&lt; PMN = &lt; LMN (angles in alternate segment)</p><p>\\(\\therefore\\) &lt; LNM = &lt; NLM, then \\(\\Delta\\) LMN is isosceles.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1999,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0333%20%282%29.jpg\" style=\"height:291px; width:250px\"></p><p>In the diagram, a ladder TF, 10 metres long is placed against a wall at an angle of 70° to the horizontal.</p><p>(a) How high up the wall, correct to the nearest metre, does the ladder reach?</p><p>(b) If the foot (F) of the ladder is pulled from the wall to F\\(^{1}\\) by 1 metre, (i) how far, correct to 2 significant figures, does the top T slide down the wall to T\\(^{1}\\).</p><p>(ii) Calculate, correct to the nearest degree, \\(QF^{1}T^{1}\\).</p>",
+        "answer": "<p>(a) \\(TQ = 10 \\sin 70° = 10 \\times 0.9397 = 9.397m\\)</p><p>\\(\\approxeq 9m\\)</p><p>(b)(i) \\(QF = 10 \\cos 70° = 10 \\times 0.3420 = 3.42m\\)</p><p>\\(QF^{1} = 3.42m + 1m = 4.42m\\)</p><p>\\(QT^{1} = \\sqrt{10^{2} - 4.42^{2}} = \\sqrt{100 - 19.5364}\\)</p><p>= \\(\\sqrt{80.4636} = 8.97m\\)</p><p>\\(TT^{1} = 9.397 - 8.97 = 0.43m\\)</p><p>(ii) \\(\\sin &lt; QF^{1}T^{1} = \\frac{8,97}{10} = 0.897\\)</p><p>\\(&lt; QF^{1} T^{1} = 63.768° \\approxeq 64°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1999,
+        "question": "<p>On a graph sheet, using a scale of 2cm to 2 units on both axes, </p><p>(a) Draw the straight line joining points P(-5, 3) and Q(2, 3);</p><p>(b) construct the locus L of points equidistant from P and Q;</p><p>(c) by construction, locate points R and S on L, such that PRQS forms a rhombus of sides 5cm;</p><p>(d) find : (i) coordinates of R and S; (ii) area of the rhombus in cm\\(^{2}\\).</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0334%20%282%29.jpg\" style=\"height:509px; width:400px\"></p><p>Coordinate of R and S : R(-1.6, 6.5) and S(-1.6, 0.6).</p><p>Area of rhombus PRQS : \\(\\frac{(5 + 2) \\times (6.5 + 0.6)}{2} = \\frac{49.7}{2}\\)</p><p>= \\(24.85 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1999,
+        "question": "<p>(a) A shop owner marked a shirt at a price to enable him to make a gain of 20%. During a special sales period, the shirt was sold at 10% reduction to a customer at N864.00. What was the original cost to the shop owner?</p><p>(b) A rectangular lawn of length (x + 5) metres is (x - 2) metres wide. If the diagonal is (x + 6) metres, find ;</p><p>(i) the value of x ; (ii) the area of lawn.</p>",
+        "answer": "<p>(a) Price with 20% gain = 100% = x</p><p>Selling price = 100% - 10% = 90%</p><p>i.e. 90% of x = 864</p><p>\\(\\therefore x = 864 \\times \\frac{100}{90} = N960\\)</p><p>Let cost price = y = 100%</p><p>x = 20% of y + y = 120% of y.</p><p>\\(y = \\frac{100}{120} x = \\frac{100}{120} \\times N960 = N800\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0334%20%283%29.jpg\" style=\"height:121px; width:250px\"></p><p>(i) \\((x + 6)^{2} = (x + 5)^{2} + (x - 2)^{2}\\)</p><p>\\(x^{2} + 12x + 36 = x^{2} + 10x + 25 + x^{2} - 4x + 4\\)</p><p>\\(x^{2} + 12x + 36 = 2x^{2} + 6x + 29\\)</p><p>\\(2x^{2} - x^{2} + 6x - 12x + 29 - 36 = 0\\)</p><p>\\(x^{2} - 6x - 7 = 0\\)</p><p>\\(x^{2} - 7x + x - 7 = 0 \\implies x(x - 7) + 1(x - 7) = 0\\)</p><p>\\((x - 7)(x + 1) = 0 \\implies \\text{x = 7 or -1}\\)</p><p>Since measurements cannot be negative, then x = 7 is the suitable answer.</p><p>(ii) Length of the lawn = (x + 5) metres = (7 + 5) = 12 metres.</p><p>Width of the lawn = (x - 2) metres = (7 - 2) = 5 metres</p><p>\\(\\therefore \\text{The area of the lawn} = 12 \\times 5 = 60 m^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1999,
+        "question": "<p>(a) Copy and complete the following table of values for \\(y = 9 \\cos x + 5 \\sin x\\) to one decimal place.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td>10.3</td>\n<td> </td>\n<td> </td>\n<td>-0.2</td>\n<td>-5.3</td>\n<td> </td>\n<td>-10.3</td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2cm to 30° on the x- axis and 2 cm to 1 unit on the y- axis, draw the graph of \\(y = 9 \\cos x + 5 \\sin x\\) for \\(0° \\leq x \\leq 210°\\).</p><p>(c) Use your graph to solve the equation: (i) \\(9\\cos x + 5\\sin x = 0\\); (ii) \\(9\\cos x+ 5\\sin x = 3.5\\), correct to the nearest degree.</p><p>(d) Find the maximum value of y correct to one decimal place.</p><p> </p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n</tr>\n<tr>\n<td>y</td>\n<td>9</td>\n<td>10.3</td>\n<td>8.8</td>\n<td>5</td>\n<td>-0.2</td>\n<td>-5.3</td>\n<td>-9</td>\n<td>-10.3</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0335%20%282%29.jpg\" style=\"height:518px; width:400px\"></p><p>(c)(i) From the graph, \\(9\\cos x + 5\\sin x = 0 \\implies x = 119°\\)</p><p>(d) Maximum value of y = 10.3.</p>",
+        "type": "theory"
+    }
+]

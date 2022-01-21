@@ -1,0 +1,34 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5721631804_10.jpg\" class=\"img-fluid\">",
+        "explanation": "S = \\(\\frac{1}{2} (a + b)h\\)<br><br>60 = \\(\\frac{1}{2}(15 + 25)h\\)<br><br>h = \\(\\frac{1200}{40} = 30\\)m/s",
+        "correctIndex": 0,
+        "options": [
+            "30ms<sup>-1</sup>",
+            "25ms<sup>-1</sup>",
+            "20ms<sup>-1</sup>",
+            "15ms<sup>-1</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 50,
+        "year": 2006,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17164895592_12.jpg\" class=\"img-fluid\">",
+        "explanation": "X = 50 sin30 = 30 x 0.5 = 25cm<br><br>40 x 20 = p x 25<br><br>p = \\(\\frac{40 \\times 20}{25}\\)<br><br>= 32N",
+        "correctIndex": 2,
+        "options": [
+            "16N",
+            "20N",
+            "32N",
+            "40N"
+        ],
+        "type": "objectives"
+    }
+]

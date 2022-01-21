@@ -1,0 +1,34 @@
+[
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15741026312_JJGJ.png\" class=\"img-fluid\">",
+        "explanation": "<p>mean refers to the mean or average that is used to derive the central tendency of the data in question. It is determined by adding all the data points in a population and then dividing the total by the number of points. The resulting number is known as the mean or the average.Thus we have;</p><p>1+2+2+2+3+4+5+5 = 24 ÷ 8 = 3</p>",
+        "correctIndex": 2,
+        "options": [
+            "2.2",
+            "2.5",
+            "3",
+            "4.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2014,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24327042126_JJGJ.png\" class=\"img-fluid\">",
+        "explanation": "<p>sum = 2+5+2+1=10<br>\nmedian 10 ÷ 2 = 5th position</p><p>Re-arranging the numbers we have;<br>\n2,2,3,3,<strong>3,3</strong>,3,4,4,5<br>\n<ins>3+3</ins> = 3<br>\n  2</p>",
+        "correctIndex": 2,
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "type": "objectives"
+    }
+]

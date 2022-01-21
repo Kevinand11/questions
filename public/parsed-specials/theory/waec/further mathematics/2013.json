@@ -1,0 +1,56 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2013,
+        "question": "<p>A side of a rectangle is three times the other. If the perimeter increases by 2%, find the percentage increase in the area of the rectangle.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%289%29.jpg\" style=\"height:124px; width:250px\"></p><p>Area, \\(A = 3x^{2}\\)</p><p>Perimeter, \\(P = 8x\\)</p><p>\\(\\therefore A = \\frac{3P^{2}}{64}\\)</p><p>Let \\(P_{1}\\) and \\(A_{1}\\) be the new perimeter and area respectively.</p><p>Perimeter increases by 2%</p><p>\\(\\therefore P_{1} = 1.02P\\) </p><p>\\(A_{1} = \\frac{3(1.02P)^{2}}{64}\\)</p><p>\\(\\frac{A_{1}}{A} = \\frac{3(1.02P)^{2}}{64} \\times \\frac{64}{3P^{2}}\\)</p><p>= 1.0404</p><p>\\(A_{1} = 1.0404A = A + 0.0404A\\)</p><p>Increase in A = 0.0404A.</p><p>% increase = \\(0.0404 \\times 100 = 4.04%\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2013,
+        "question": "<p>A stone is dropped vertically downwards from the top of a tower of height 45m with a speed of 20 ms\\(^{-1}\\). Find the :</p><p>(a) time it takes to reach the ground ;</p><p>(b) speed with which it hits the ground. [Take \\(g = 10 ms^{-2}\\)].</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0311%20%282%29.jpg\" style=\"height:206px; width:250px\"> \\(s = ut + \\frac{1}{2} gt^{2}\\)</p><p>\\(45 = 20t + \\frac{1}{2} (10)(t^{2})\\)</p><p>\\(45 = 20t + 5t^{2}\\)</p><p>\\(5t^{2} + 20t - 45 = 0\\)</p><p>\\(\\equiv t^{2} + 4t - 9 = 0\\)</p><p>= \\(\\frac{-4 \\pm \\sqrt{(4^{2}) - 4(1)(-9)}}{2(1)}\\)</p><p>= \\(\\frac{-4 \\pm \\sqrt{16 + 36}}{2}\\)</p><p>= \\(\\frac{-4 \\pm 2\\sqrt{13}}{2}\\)</p><p>= \\(\\frac{-2 \\pm \\sqrt{13}\\)</p><p>\\(t = -2 + \\sqrt{13} \\text{ or } t = -2 - \\sqrt{13}\\)</p><p>The time cannot be negative therefore, \\(t = - 2 + \\sqrt{13} = 1.61s\\).</p><p>(b) \\(v^{2} = u^{2} + 2gs\\)</p><p>\\(v^{2} = 20^{2} + 2(10)(45)\\)</p><p>\\(v^{2} = 400 + 900\\)</p><p>\\(v^{2} = 1300\\)</p><p>\\(v = \\sqrt{1300}\\)</p><p>\\(v = \\sqrt{100 \\times 13} = 10\\sqrt{13} ms^{-1}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2013,
+        "question": "<p>(a) Using a scale of 2 cm to 30° on the x- axis, 2 cm to 0.2 units on the y- axis, on the same graph sheet, draw the graphs of \\(y = \\sin 2x\\) and \\(y = \\cos x\\) for \\(0° \\leq x \\leq 210°\\) at intervals of 30°.</p><p>(b) Using the graphs in (a), find the truth set of :</p><p>(i) \\(\\sin 2x = 0\\) ; (ii) \\(\\sin 2x - \\cos x = 0\\).</p>",
+        "answer": "<p>(a) Table of values for \\(y = \\sin 2x\\) and \\(y = \\cos x\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>0°</td>\n<td>30°</td>\n<td>60°</td>\n<td>90°</td>\n<td>120°</td>\n<td>150°</td>\n<td>180°</td>\n<td>210°</td>\n</tr>\n<tr>\n<td>\\(y = \\sin 2x\\)</td>\n<td>0</td>\n<td>0.87</td>\n<td>0.87</td>\n<td>0</td>\n<td>-0.87</td>\n<td>-0.87</td>\n<td>0</td>\n<td>0.87</td>\n</tr>\n<tr>\n<td>\\(y = \\cos x\\)</td>\n<td>1</td>\n<td>0.87</td>\n<td>0.50</td>\n<td>0</td>\n<td>-0.50</td>\n<td>-0.87</td>\n<td>-1</td>\n<td>-0.87</td>\n</tr>\n</tbody>\n</table><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0311%20%283%29.jpg\" style=\"height:290px; width:300px\"></p><p>(b)(i) \\(\\sin 2x = 0 \\implies x = 0°, 90°, 180°\\)</p><p>(ii) \\(\\sin 2x - \\cos x = 0 \\implies x = 30°, 90°, 150°\\).</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2013,
+        "question": "<p>(a) Find the maximum and minimum points of the curve \\(y = 2x^{3} - 3x^{2} - 12x + 4\\).</p><p>(b) Sketch the curve in (a) above.</p>",
+        "answer": "<p>(a) \\(y = 2x^{3} - 3x^{2} - 12x + 4\\)</p><p>At stationary points, \\(\\frac{\\mathrm d y}{\\mathrm d x} = 0\\).</p><p>\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x^{2} - 6x - 12 = 0\\)</p><p>\\(\\implies x^{2} - x - 2 = 0\\)</p><p>\\(x^{2} - 2x + x - 2 = 0 \\implies x(x - 2) + 1(x - 2) = 0\\)</p><p>\\(x = -1 ; x = 2\\)</p><p>When \\(x = -1\\), \\(y = 2(-1)^{3} - 3(-1)^{2} - 12(-1) + 4 = 11\\)</p><p>\\(\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} =  12x - 6 = 12(-1) - 6 = -18 &lt; 0\\)</p><p>\\(\\therefore (-1, 11) = \\text{maximum point}\\)</p><p>When \\(x = 2\\), \\(y = 2(2)^{3} - 3(2)^{2} - 12(2) + 4 = -16\\)</p><p>\\(\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} = 12x - 6 = 12(2) - 6 = 18 &gt; 0\\)</p><p>\\(\\therefore (2, -16) = \\text{minimum point}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0312%20%282%29.jpg\" style=\"height:214px; width:300px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2013,
+        "question": "<p>The table gives the relationship between the height, in metres, of a plant and the number of days it is left to grow.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>\n<p>Number of days</p>\n<p>(x)</p>\n</td>\n<td>10</td>\n<td>20</td>\n<td>30</td>\n<td>40</td>\n<td>50</td>\n<td>60</td>\n<td>70</td>\n<td>80</td>\n</tr>\n<tr>\n<td>Height (y)</td>\n<td>1.0</td>\n<td>1.1</td>\n<td>1.2</td>\n<td>1.4</td>\n<td>1.6</td>\n<td>1.8</td>\n<td>2.0</td>\n<td>2.3</td>\n</tr>\n</tbody>\n</table><p>(a) Using a scale of 2 cm to represent 0.5 units on the y- axis and 2cm to 10 units on the x- axis, draw a scatter diagram for the information.</p><p>(b) Find \\(\\bar{x}\\), the mean of x, and \\(\\bar{y}\\), the mean of y, and plot \\((\\bar{x}, \\bar{y})\\) on the diagram.</p><p>(c) Draw the line of best fit to pass through \\((\\bar{x}, \\bar{y})\\) and \\((10, 1)\\).</p><p>(d) From graph, find the :</p><p>(i) equation of the line of best fit ; (ii) height of plant in 75 days.</p><p> </p>",
+        "answer": "<p>(a &amp; c) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0312%20%283%29.jpg\" style=\"height:213px; width:300px\"></p><p>(b) \\(\\bar{x} = \\frac{10 + 20 + 30 + 40 + 50 + 60 + 70 + 80}{8} = \\frac{360}{8} = 45\\)</p><p>\\(\\bar{y} = \\frac{1.0 + 1.1 +1.2 + 1.4 + 1.6 + 1.8 + 2.0 + 2.3}{8} = \\frac{12.4}{8} = 1.55\\)</p><p>\\(\\therefore (\\bar{x}, \\bar{y}) = 45, 1.55\\).</p><p>(d)(i) Equation of line of best fit :</p><p>\\(\\frac{y - 1.8}{x - 60} = \\frac{1.8 - 1.55}{60 - 45}\\)</p><p>\\(\\frac{y - 1.8}{x - 60} = \\frac{0.25}{15} = 0.017\\)</p><p>\\(y - 1.8 = 0.017(x - 60) \\implies y - 1.8 = 0.017x - 1.02\\)</p><p>\\(y = 0.017x - 1.02 + 1.8 = 0.017x + 0.78\\)</p><p>(ii) When x = 75 days, \\(y = 0.017(75) + 0.78\\)</p><p>= \\(2.055\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2013,
+        "question": "<p>The displacement S metres of a particle from a fixed point O at time t seconds is given by \\(S = t^{2} - 6t + 5\\).</p><p>(a) On a graph sheet, draw a displacement- time graph for the interval \\(0 \\leq x \\leq 6\\).</p><p>(b) From the graph, find the : (i) time at which the velocity is zero ; (ii) average velocity over the interval \\(0 \\leq x \\leq 4\\) ; (iii) total distance covered in the interval \\(0 \\leq x \\leq 5\\).</p>",
+        "answer": "<p>(a) \\(s = t^{2} - 6t + 5\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>t (s)</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>s (m)</td>\n<td>5</td>\n<td>0</td>\n<td>-3</td>\n<td>-4</td>\n<td>-3</td>\n<td>0</td>\n<td>5</td>\n</tr>\n</tbody>\n</table><p>Scale : On time- axis, 2 cm rep 2 s</p><p>On displacement, 2 cm rep 2m.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0313%20%282%29.jpg\" style=\"height:314px; width:300px\"></p><p>(b)(i) Velocity = \\(\\frac{\\mathrm d s}{\\mathrm d t} = Gradient\\)</p><p>Velocity = 0 m/s when t = 3s</p><p>(ii) Average velocity = \\(\\frac{\\text{total costume}}{\\text{total time}}\\)</p><p>\\(\\frac{5 + 4 + (4 - 3)}{4}\\)</p><p>= \\(\\frac{10}{4} = 2.5 m/s\\).</p><p>(iii) Total distance covered in the interval \\(0 \\leq x \\leq 5\\)</p><p>= 5 + 4 + 4 = 13m. </p><p> </p>",
+        "type": "theory"
+    }
+]

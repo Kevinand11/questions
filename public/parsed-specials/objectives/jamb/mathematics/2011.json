@@ -1,0 +1,50 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15713314892_marhs-1.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "{a, b, d, e}",
+            "{b, d}",
+            "{a, e}",
+            "{c}"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27141201149_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{90}{360} \\times 100 = \\frac{100}{4}\\)<br>\n<br>\n= 25</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "30%",
+            "25%",
+            "35%",
+            "20%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28569783860_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>45 + 60 + 30 + 45 = 180 students.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "180",
+            "135",
+            "210",
+            "105"
+        ],
+        "type": "objectives"
+    }
+]

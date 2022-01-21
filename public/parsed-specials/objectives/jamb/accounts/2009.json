@@ -1,0 +1,34 @@
+[
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21943444305_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{10}{100}\\) x 100,000 = 10,000</p><p>cost of goods sold = sales - profit</p><p>100,000 - 10,000 = 90,000</p>",
+        "correctIndex": 1,
+        "options": [
+            "N10,000",
+            "N90,000",
+            "N105,600",
+            "N110,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "accounts",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26332140690_13162193_1070961852968481_2112553618_n.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>opening stock + cost of goods sold - closing stock = purchase</p><p>Remember COGS was given as;</p><p>cost of goods sold = sales - profit (10% of sales)</p><p>100,000 - 10,000 = 90,000</p><p>Hence we have;</p><p>purchase = 5,000 + 90000 - 5,600 = 90,600</p>",
+        "correctIndex": 2,
+        "options": [
+            "N95,600",
+            "N95,000",
+            "N90,600",
+            "N85,000"
+        ],
+        "type": "objectives"
+    }
+]

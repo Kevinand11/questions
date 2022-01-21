@@ -1,0 +1,66 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2020,
+        "question": "<p>Which of the current-voltage characteristics shown below is that exhibited an ohmic conductor? <br>\n<br>\n<img alt=\"Open Photo\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/p206x206/237108303_903225776895572_8805825705817104883_n.jpg?_nc_cat=101&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeHfVhLIwjvY4Slfysblmc5rorfWLJPduBGit9Ysk924EZI2JReE17m0RAt-zvNfnFGZH2DmJMfUu5_psXNkfzX1&amp;_nc_ohc=nlE7_RNdMi8AX_U9o96&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=68570d0b2618c48593e2e54abbad5a43&amp;oe=613F5876\"></p>",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2020,
+        "question": "<p>The diagram illustrates a ball of mass m sliding down a plank inclined at an angle of 0 to the horizontal. The kinetic friction between the ball and the plank is F and acceleration of free fall is g. The normal force on the ball is?</p><p><img alt=\"Open Photo\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/p206x206/236634048_938092320073222_6422463493523019920_n.jpg?_nc_cat=105&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFRCE0KO1GMlUaAiCnHRgPnVkTpwH47CYlWROnAfjsJiVTkJZQ5HnbcRdUfiXzGyXyIEX-EzLUYNuIXXM4w4Gtx&amp;_nc_ohc=dgRzxiP-mKYAX8Z6MWF&amp;tn=B_OEgrtMAwkQhW2T&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=ae0edb1705ca3ee5204c05b825df7c83&amp;oe=6143133F\"></p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "mgsin \\(\\theta\\)",
+            "mgtan \\(\\theta\\), mgcos \\(\\theta\\)",
+            "mgcos \\(\\theta\\)",
+            "mgcot \\(\\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 26,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/p206x206/236634048_938092320073222_6422463493523019920_n.jpg?_nc_cat=105&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFRCE0KO1GMlUaAiCnHRgPnVkTpwH47CYlWROnAfjsJiVTkJZQ5HnbcRdUfiXzGyXyIEX-EzLUYNuIXXM4w4Gtx&amp;_nc_ohc=dgRzxiP-mKYAX8Z6MWF&amp;tn=B_OEgrtMAwkQhW2T&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=ae0edb1705ca3ee5204c05b825df7c83&amp;oe=6143133F\"></p><p>The diagram above illustrates a ball of mass m sliding down a plank inclined at an angle of 0 to the horizontal. The kinetic friction between the ball and the plank is F and the acceleration of free fall is g. The net force on the ball along the plank is?</p>",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "mgsin \\(\\theta\\) + F",
+            "F - mgcos \\(\\theta\\)",
+            "mgsin \\(\\theta\\) - F",
+            "F + mgcos \\(\\theta\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent-los2-1.xx.fbcdn.net/v/t1.15752-9/p206x206/238617067_259629109094110_2949295279754113497_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEGYMlhkYY4UdH-MpoTIFE00h6npwj7GtLSHqenCPsa0ijT8FGef6f8L9dW3lttE-Ts0Tclo6SHJqDkSsVftvuH&amp;_nc_ohc=0vTGofuD72EAX--Yx35&amp;_nc_ht=scontent-los2-1.xx&amp;oh=2ab2291f4c2f48d32d44d77512a312a0&amp;oe=6142E43C\"></p><p><br>\nThe sketched graph above illustrates the heating curve of a 0.02kg of water. Determine the approximate value of the specific latent heat of vapourization of water<br>\n </p>",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "2.25 x 10\\(^6\\) J kg\\(^{-1}\\)",
+            "4.17 x 10\\(^3\\) J kg\\(^{-1}\\)",
+            "2.00 x 10\\(^3\\) J kg\\(^{-1}\\)",
+            "1.00 x 10\\(^3\\) J kg\\(^{-1}\\)"
+        ],
+        "type": "objectives"
+    }
+]

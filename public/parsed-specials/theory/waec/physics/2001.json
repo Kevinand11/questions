@@ -1,0 +1,38 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2001,
+        "question": "<p>(a) What is meant by 'a beam of polarised light?</p><p>(b) With the aid of well labelled diagrams, illustrate the action in of a polaroid spectacle on a beam of sunlight.</p>",
+        "answer": "<p> (a) A beam of polarised light is on constrained in a single plane perpendicular to the beam.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%282%29.jpg\" style=\"height:142px; width:190px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2001,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%281%29.jpg\" style=\"height:140px; width:204px\"></p><p>The above reprt the graph electron energy against the frequency of the radiation incident on a metal surface. lnterprete the;</p><p>(i) slope of the graph;</p><p>(ii) intercept, OC;</p><p>(iii) intercept, OK.</p>",
+        "answer": "<p>(i) Slope represents the Planck's constant, h.</p><p>(ii) Intercept OC represents the work function of the metal.</p><p>(iii) The intercept OK represents the threshold frequency of the radiation.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2001,
+        "question": "<p>(a) Define specific heat capacity.</p><p>(b)(i) With the aid of a labelled diagram, describe an experiment to determine the specific heat capacity of copper using a copper ball.</p><p>(ii) State two precautions necessary to obtain accurate results.</p><p>(c) A piece of copper block of mass 24 g at 230°C is placed in a copper calorimeter of mass 60 g containing 54 g of water at 31°C. Assuming heat losses are negligible, calculate the final steady temperature of the mixture. [specific heat capacity of water = 4200 J kg\\(^{-1}\\) K\\(^{-1}\\)] [specific heat capacity of copper = 400 J kg\\(^{-1}\\) K\\(^{-1}\\)]</p>",
+        "answer": "<p>(a) Specific heat capacity is the quantity of heat energy required to change the temperature of unit mass (1kg) of a substance by 1k.</p><p>(b) Diagram</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%283%29.jpg\" style=\"height:140px; width:205px\"></p><p>Method Weigh empty calorimeter plus stirrer and record the mass M\\(_1\\), weigh empty calorimeter plus stirrer plus water and record the mass m. Weigh copper ball and record the mass Mc. Take the initial temperature of the water T\\(_1\\). Heat copper ball in water to temperature T and record T. Quickly transfer the copper ball into the calorimeter and stir. Take the final temperature of the mixture T\\(_2\\). Heat lost by copper ball = Heat gained by calorimeter; water and stirrer.</p><p>McCc (T - T\\(_2\\)) = (M\\(_2\\) - M\\(_1\\))C\\(_w\\)</p><p>(T\\(_2\\) - T\\(_1\\)) + M\\(_1\\) Cal(T\\(_2\\) - T\\(_1\\))</p><p>Were Cc, Cw and Cz = specific heat capacity of copper, water and calorimeter respectively.</p><p>Cc = \\(\\frac{ (M - M_1C + M Cal (T - T)}{Mc(T - T_2)}\\)</p><p> Precautions: </p><p>(i) Calorimeter should be lagged.</p><p>(ii) Quickly transfer the hot ball to the calorimeter.</p><p>(iii) Shake off water from hot calorimeter metal ball before transfer.</p><p>(iv) Mix thoroughly the mixture with stirrer.</p><p>(c) Heat lost = 0.024 x 400 (230 - T).</p><p>Heat gained by water = 0.054 x 4200 (T - 31)</p><p>Heat gained by calorimeter = 0.060 x 400 (T - 31)</p><p>Heat lost = Heat gained = 0.024 x 400 (230 - T) = 0.054 x 4200</p><p>(T - 31) + 0.060 x 400 (T - 31) T = 38.34°C</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2001,
+        "question": "<p>(a) Explain the statement the capacitance of a capacitor is 5\\(\\mu\\)F.</p><p>(b)(i) State the factors upon which the capacitance of a parallel plate capacitor depend.</p><p>(ii) State how the capacitance depends on each of these factors stated in (b)(i).</p><p>(c) A series arrangement of three capacitors of values 8uF, 12\\(\\mu\\)F, and 24\\(\\mu\\)F is connected in series with 90-V battery.</p><p>(i) Draw an open-circuit diagram for this arrangement.</p><p>(ii) Calculate the effective capacitance in the circuit.</p><p>(iii) On closed circuit, calculate the charge on each capacitor when fully charged.</p><p>(iv) Determine the p.d across the 8\\(\\mu\\)F capacitor.</p>",
+        "answer": "<p>(a) The statement means that an electric charge of 5\\(\\mu\\)F is stored by the fully charged capacitor when connected to a d.c source of 1V.</p><p>(b)(i)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%\">\n<tbody>\n<tr>\n<td>\n<p>(i) Factors</p>\n</td>\n<td>\n<p>(ii) Form of dependence </p>\n</td>\n</tr>\n<tr>\n<td>\n<p>- Common area of plates</p>\n<p>- Distance between plates</p>\n<p>- Permitivity or nature of dielectric</p>\n</td>\n<td>\n<p>- Direct proportionality</p>\n<p>-  Inverse proportionality</p>\n<p>- Direct proportionality</p>\n</td>\n</tr>\n</tbody>\n</table><p> </p><p>(c)(i)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n%284%29.jpg\" style=\"height:132px; width:277px\"></p><p> </p><p>(ii) \\(\\frac{1}{C} = \\frac{1}{C_1} + \\frac{1}{C_1} + \\frac{1}{C_3}\\)</p><p>= \\(\\frac{1}{8} + \\frac{1}{12} + \\frac{1}{20} = \\frac{3 + 2 + 1}{24}\\)</p><p>C = \\(\\frac{24}{6} = 4 \\mu F\\)</p><p>(iii) Q = CV = 4 x 10\\(^{-6}\\) x 90 = 360\\(\\mu\\)C</p><p>charge on 8\\(\\mu\\) FV = \\(\\frac{Q}{C} = \\frac{360}{8}\\) = 45V</p>",
+        "type": "theory"
+    }
+]

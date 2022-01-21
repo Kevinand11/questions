@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 1,
+        "year": 1998,
+        "question": "<p>A, B and C are subsets of the universal set U such that : \\(U = {0, 1, 2, 3,..., 12}; A = {x : 0 \\leq x \\leq 7}; B = {4, 6, 8, 10, 12}; C = {1 &lt; y &lt; 8}\\), where y is a prime number.</p><p>(a) Draw a venn diagram to illustrate the information given above;</p><p>(b) Find: (i) \\((B \\cup C)'\\); (ii) \\(A' \\cap B \\cap C\\).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0337%20%282%29.jpg\" style=\"height:223px; width:250px\"></p><p>(b)  A = {0, 1, 2, 3, 4, 5, 6, 7}</p><p> B = {4, 6, 8, 10, 12}</p><p> C = {2, 3, 5, 7}</p><p>U = {0,1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}</p><p>(i) \\(B \\cup C = {2, 3, 4, 5, 6, 7, 8, 10, 12}\\)</p><p>   \\((B \\cup C)' = {0, 1, 9, 11}\\)</p><p>(ii) \\(A' = {8, 9, 10, 11, 12}\\)</p><p>\\(A' \\cap B \\cap C = { }\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1998,
+        "question": "<p>(a) A number is selected at random from each of the sets {2, 3, 4} and {1, 3, 5}. What is the probability that the sum of the two numbers will be less than 7 but greater than 3?</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0336%20%282%29.jpg\" style=\"height:282px; width:250px\"></p><p>In the diagram, ABCD is a circle. DAE, CBE, ABF and DCF are straight lines. If y + m = 90°, find the value of x.</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>+</td>\n<td>1</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3</td>\n<td>5</td>\n<td>7</td>\n</tr>\n<tr>\n<td>3</td>\n<td>4</td>\n<td>6</td>\n<td>8</td>\n</tr>\n<tr>\n<td>4</td>\n<td>5</td>\n<td>7</td>\n<td>9</td>\n</tr>\n</tbody>\n</table><p>Sample space = 9</p><p>Sum greater than 3 but less than 7 = {5, 4, 6, 5} = 4</p><p>P(sum greater than 3 but less than 7) = \\(\\frac{4}{9}\\).</p><p>(b) Given that y + m = 90°</p><p>&lt; ABE = x° (vertically opp. angles)</p><p>&lt; BAD = (x + m)° (exterior angles)</p><p>&lt; DCB = (x + y)° (exterior angles)</p><p>(x + m)° + (x + y)° = 180° (opp. angles of a cyclic quadrilateral)</p><p>(2x + y + m)° = 180°</p><p>(2x + 90) = 180</p><p>2x = 180 - 90 = 90°</p><p>x = 45°</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1998,
+        "question": "<p>(a) Copy and complete the table of values for the relation \\(y = 5 - 7x - 6x^{2}\\) for \\(-3 \\leq x \\leq 2\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>-0.5</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-28</td>\n<td> </td>\n<td>6</td>\n<td> </td>\n<td>5</td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) Using a scale of 2cm to 1 unit on the x- axis and 2cm to 5 units on the y- axis, draw the :</p><p>(i) graph of \\(y = 5 - 7x - 6x^{2}\\) ; (ii) line \\(y = 3\\) on the same axis.</p><p>(c) Use your graph to find the : (i) roots of the equation \\(2 - 7x - 6x^{2} = 0\\) ; (ii) maximum value of \\(y = 5 - 7x - 6x^{2}\\).</p>",
+        "answer": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>-0.5</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-28</td>\n<td>-5</td>\n<td>6</td>\n<td>7</td>\n<td>5</td>\n<td>-8</td>\n<td>-33</td>\n</tr>\n</tbody>\n</table><p>(b)(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0338%20%282%29.jpg\" style=\"height:539px; width:400px\"></p><p>(c)(i) \\(2 - 7x - 6x^{2} = 0\\)</p><p>\\(2 + 3 - 7x - 6x^{2} = 3\\)</p><p>\\(5 - 7x - 6x^{2} = 3\\)</p><p>\\(\\therefore \\text{the roots at y = 3 are } x = -1.4; 0.2\\)</p><p>(ii) Maximum value of \\(y = 5 - 7x - 6x^{2}\\) is y = 7.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1998,
+        "question": "<p>Using a ruler and a pair of compasses only, construct (a) triangle QRT with |QR| = 8cm, |RT| = 6cm and |QT| = 4.5cm.</p><p>(b) a quadrilateral QRSP which has a common base QR with \\(\\Delta\\)QRT such that QTP is a straight line, PQ || SR, |QP| = 9cm and |RS| = 4.5cm.</p><p>(i) Measure |PS| ; (ii) Find the perpendicular distance between RS and PQ ; (iii) What is QRSP?</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0338%20%283%29.jpg\" style=\"height:189px; width:300px\"></p><p>(b)(i)  PS = 6.0cm</p><p>(ii) Perpendicular disstance between RS and PQ i.e. RK = 5.9cm</p><p>(iii) QRSP is a trapezium.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1998,
+        "question": "<p>A surveyor standing at a point X sights a pole Y due east of him and a tower Z of a building on a bearing of 046°. After walking to a point W, a distance of 180m in the South- East direction, he observes the bearing of Z and Y to be 337° and 050° respectively.</p><p>(a) Calculate, correct to the nearest metre : (i) |XY| ; (ii) |ZW| </p><p>(b) If N is on XY such that XZ = ZN, find the bearing of Z from N.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0338%20%284%29.jpg\" style=\"height:267px; width:250px\"> </p><p>XWZ = 90° - (45° + 23°) = 22°</p><p>WYX = 180° - (45° + 95°) = 40°</p><p>&lt; XZW = 180° - (89° + 22°) = 69°</p><p>(a)(i) \\(\\frac{XY}{\\sin 95} = \\frac{180}{\\sin 40°}\\)</p><p>\\(XY = \\frac{180 \\sin 95}{\\sin 40} = 278.96m\\)</p><p>\\(\\approxeq 279m\\)</p><p>(ii) \\(\\frac{ZW}{\\sin 89°} = \\frac{180}{\\sin 69°}\\)</p><p>\\(ZW = \\frac{180 \\sin 89°}{\\sin 69°} = 192.76m\\)</p><p>\\(\\approxeq 193m\\)</p><p>(b) &lt; ZNX = &lt;ZXN (base angles of an isosceles triangle)</p><p>= 44°^.</p><p>\\(\\therefore\\) Bearing of Z from N = 270° + 44° = 314°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1998,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0336%20%283%29.jpg\" style=\"height:122px; width:250px\"></p><p>In the diagram, ASRTB represents a piece of string passing over a pulley of radius 10cm in a vertical plane. O is the centre of the pulley and AMB is a horizontal straight line touching the pulley at M. Angle SAB = 90° and angle TBA = 60°. </p><p>(a) Calculate (i) the obtuse angle SOT ; (ii) arc SRT ; (iii) |BT| </p><p>(b) Find, correct to the nearest cm, the length of the string. (Take \\(\\pi = \\frac{22}{7}\\)).</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0338%20%285%29.jpg\" style=\"height:142px; width:250px\"></p><p>(a)(i) &lt; ASO = &lt; AMO = 90° (radius to a tangent)</p><p>&lt; SOM = 360° - (3 x 90°) (sum of angles of a rectangle)</p><p>= 90°.</p><p>\\(\\therefore\\) obtuse &lt; SOT = 360° - (90° + 60° + 60°) = 150°.</p><p>(ii) Arc SRT = \\(\\frac{150°}{360°} \\times 2\\pi r\\)</p><p>= \\(\\frac{150}{360} \\times 2 \\times \\frac{22}{7} \\times 10 = \\frac{550}{21}\\)</p><p>= \\(26.19cm\\)</p><p>(iii) \\(\\tan 60° = \\frac{TB}{10}\\)</p><p>\\(TB = 10\\tan 60° = 17.32cm\\)</p><p>(b) Length of the string ASRTB = AS + arc SRT + TB</p><p>= 10cm + 26.19cm + 17.32cm</p><p>= 53.51cm \\(\\approxeq\\) 54cm.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1998,
+        "question": "<p>The table below shows the number of eggs laid by the chickens in a man's farm in a year.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:45%\">\n<tbody>\n<tr>\n<td>No of eggs per year</td>\n<td>No of chickens</td>\n</tr>\n<tr>\n<td>45 - 49</td>\n<td>10</td>\n</tr>\n<tr>\n<td>50 - 54</td>\n<td>36</td>\n</tr>\n<tr>\n<td>55 - 59</td>\n<td>64</td>\n</tr>\n<tr>\n<td>60 - 64</td>\n<td>52</td>\n</tr>\n<tr>\n<td>65 - 69</td>\n<td>28</td>\n</tr>\n<tr>\n<td>70 - 74</td>\n<td>10</td>\n</tr>\n</tbody>\n</table><p>(a) Draw a cumulative frequency curve for the distribution.</p><p>(b) Use your graph to find the interquartile range.</p><p>(c) If a woman buys a chicken from the farm, what is the probability that the chicken lays at least 60 eggs in a year?</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:55%\">\n<tbody>\n<tr>\n<td>\n<p>No of eggs </p>\n<p>per year</p>\n</td>\n<td>Class boundaries</td>\n<td>Freq</td>\n<td>Cum Freq</td>\n</tr>\n<tr>\n<td>45 - 49</td>\n<td>44.5 - 49.5</td>\n<td>10</td>\n<td>10</td>\n</tr>\n<tr>\n<td>50 - 54</td>\n<td>49.5 - 54.5</td>\n<td>36</td>\n<td>46</td>\n</tr>\n<tr>\n<td>55 - 59</td>\n<td>54.5 - 59.5</td>\n<td>64</td>\n<td>110</td>\n</tr>\n<tr>\n<td>60 - 64</td>\n<td>59.5 - 64.5</td>\n<td>52</td>\n<td>162</td>\n</tr>\n<tr>\n<td>65 - 69</td>\n<td>64.5 - 69.5</td>\n<td>28</td>\n<td>190</td>\n</tr>\n<tr>\n<td>70 - 74</td>\n<td>69.5 - 74.5</td>\n<td>10</td>\n<td>200</td>\n</tr>\n</tbody>\n</table><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%2812%29.jpg\" style=\"height:471px; width:400px\"></p><p>(b) From the graph, the interquartile range = \\(Q_{3} - Q_{1} = 63 - 54 = 9\\)</p><p>(c) Probability of a chicken laying at least 60 eggs in a year = \\(\\frac{52 + 28 + 10}{200}\\)</p><p>= \\(\\frac{90}{200} = \\frac{9}{20}\\)</p><p> </p>",
+        "type": "theory"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 30,
+        "year": 2002,
+        "question": "<p>A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45°. if the distance between the hunter and the tree is 10.4 m, find the height of the tree.</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191029_142103%20%282%29_LI.jpg\" style=\"height:162px; width:250px\"></p><p>\\(\\tan 45 = \\frac{x}{10.4}\\)</p><p>\\(x = 10.4m\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "9.0 m",
+            "12. 0 m",
+            "8.8 m",
+            "10.4 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23040101938_math200230.jpg\" class=\"img-fluid\">",
+        "explanation": "<xyz>o (&lt; semi circle )<br>\nsince radius = 15/2 diameter = 2 * (15/2) = 15cm<br>\nXYZ is a right angled triangle<br>\n∴ 15<sup>2</sup> = 12<sup>2</sup> + (YZ)<sup>2</sup><br>\n225 = 144 = (YZ)<sup>2</sup><br>\n225 - 144 = (YZ)<sup>2</sup><br>\n81 = (YZ)<sup>2</sup><br>\n√81 = YZ<br>\n9 = YZ<br>\nArea of ΔXYZ = 1/2bh<br>\n(1/2) * 9 * 12<br>\n9 * 6 = 54<br>\n= 54cm<sup>2</sup>\n</xyz>",
+        "correctIndex": 0,
+        "options": [
+            "54 cm<sup>2</sup>",
+            "45 cm<sup>2</sup>",
+            "27 cm<sup>2</sup>",
+            "75 cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17618913975_math200243.jpg\" class=\"img-fluid\">",
+        "explanation": "30 - x + x + 40 - x = 80 - 20<br>70 - x = 60<br>- x = 60 - 70<br>- x = - 10<br>∴ x = 10<br>Music only = 30 - x<br>= 30 - 10<br>20<br>P(music only) = 20/80<br>= 1/4<br>= 0.25",
+        "correctIndex": 3,
+        "options": [
+            "0.38",
+            "0.13",
+            "0.50",
+            "0.25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6791814785_math200227.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24450533226_math200227.jpg\" class=\"img-fluid\">\n</div>In Δ PQS, ∠PSQ = X(base ∠s of isoc Δ PQS)<br>In Δ QRS, ∠RQS = ∠PSQ + X(Extr ∠ = sum of two intr. opp ∠s)<br>∴ ∠RQS = X + X<br>= 2X<br>Also ∠QRS = 2X(base ∠s of isoc Δ QRS in Δ PRS,<br>72 = ∠RPS + ∠PRS(Extr, ∠ = sum of two intr. opp ∠s)<br>∴ 72 = x + 2x<br>72 = 3x<br>x =<sup>72</sup>/<sub>3</sub><br>x = 24<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "36<sup>o</sup>",
+            "18<sup>o</sup>",
+            "72<sup>o</sup>",
+            "24<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6791826725_math200232.jpg\" class=\"img-fluid\">",
+        "explanation": "r = \\(\\frac{2}{3}\\)R<br><br>∴R = \\(\\frac{3}{3}\\)R<br><br>Area of small circle = πr<sup>2</sup><br><br>= π(\\(\\frac{2R}{3}\\))<sup>2</sup><br><br>Area of the big circle πr<sup>2</sup>= π\\(\\frac{(3R)^2}{3}\\)<br><br>Area of shaded portion = π(\\(\\frac{3R}{3}\\))<sup>2</sup>- π(\\(\\frac{2R}{3}\\))<sup>2</sup><br><br>= π[(\\(\\frac{3R}{3}\\))<sup>2</sup>- (\\(\\frac{2R}{3}\\))<sup>2</sup>]<br><br>= π[(\\(\\frac{3R}{3}) + (\\frac{2R}{3}) - (\\frac{3R}{3}\\)) - (\\(\\frac{2R}{3}\\))]<br><br>= π[(\\(\\frac{5R}{3}\\)) (\\(\\frac{R}{3}\\))]<br><br>= π x \\(\\frac{5R}{3}\\) x \\(\\frac{R}{3}\\)<br><br>=<sup>5</sup>/<sub>9</sub>πR<sup>2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "<sup>21</sup>/<sub>25</sub>πR<sup>2</sup>",
+            "<sup>9</sup>/<sub>25</sub>πR<sup>2</sup>",
+            "<sup>21</sup>/<sub>23</sub>πR<sup>2</sup>",
+            "<sup>5</sup>/<sub>9</sub>πR<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14942028981_maath200234.jpg\" class=\"img-fluid\">",
+        "explanation": "Volume of cylinder = πr<sup>2</sup>h<br>= π x 3<sup>2</sup>x 20<br>= π x 9 x 20<br>= 180 πcm<sup>3</sup><br>Volume of hemisphere =<sup>2</sup>/<sub>3πr<sup>3</sup></sub><br>=<sup>2</sup>/<sub>3</sub>x π x 3<sup>2</sup><br>= 2 x π x 3<sup>2</sup><br>= 2 x π x 9<br>= 18π<br>= Volume of the solid = 180π x 18π<br>= 198πcm<sup>3</sup>",
+        "correctIndex": 3,
+        "options": [
+            "180 πcm<sup>3</sup>",
+            "162 πcm<sup>3</sup>",
+            "216 πcm<sup>3</sup>",
+            "198 πcm<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1358366743_math200240.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4075100229_math200240.jpg\" class=\"img-fluid\">\n</div>∠PQR = 180 - 128 (∠s on a straight line)<br>= 52<sup>o</sup><br>∠QPR + 76 + 52 = 180(extr ∠ = sum of intr. opp ∠s)<br>∠QPR + 128 = 180<br>∠QPR = 180 - 128<br>= 52<sup>o</sup><br>∴ΔPQR is an isosceles triangle",
+        "correctIndex": 2,
+        "options": [
+            "an obtuse-angled triangle",
+            "a scalene triangle",
+            "an isosceles triangle",
+            "an equilateral triangle"
+        ],
+        "type": "objectives"
+    }
+]

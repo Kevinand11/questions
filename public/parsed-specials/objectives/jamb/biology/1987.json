@@ -1,0 +1,50 @@
+[
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16548206868_bio198725.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "R",
+            "S",
+            "T",
+            "U"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23443296871_bio198725.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Notice the rate of concentration for Plant U was steadily increased with increasing sunlight, and started dropping once the sun started going down. Hence, it would be easier for U to survive easily in the desert.</p>",
+        "correctIndex": 0,
+        "options": [
+            "U",
+            "T",
+            "S",
+            "R"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27580353640_bio198729.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "complete, regular, hermaphroditic with superior ovary",
+            "incomplete, regular, staminate with inferior ovary",
+            "complete, regular, hermaphroditic with inferior ovary",
+            "incomplete, irregular, pistillate with superior ovary"
+        ],
+        "type": "objectives"
+    }
+]

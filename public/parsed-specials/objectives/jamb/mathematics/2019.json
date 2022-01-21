@@ -1,0 +1,162 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 2,
+        "year": 2019,
+        "question": "<p>The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78°. Find the height of the tree correct to the nearest whole number.</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191216_111117%20%282%29.jpg\" style=\"height:260px; width:250px\"></p><p>\\(\\tan 78 = \\frac{h}{60}\\)</p><p>\\(h = 60 \\tan 78\\)</p><p>\\(h = 60 \\times 4.705 = 282.27m\\)</p><p>\\(\\approxeq\\) 282m to the nearest whole number.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "148m",
+            "382m",
+            "282m",
+            "248m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 7,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191212_144250%20%282%29.jpg\" style=\"width:250px\"></p><p>Find the length of the chord |AB| in the diagram shown above.</p>",
+        "explanation": "<p>Length of chord = \\(2r \\sin (\\frac{\\theta}{2})\\)</p><p>= \\(2(3) \\sin (\\frac{68}{2})\\)</p><p>= \\(6 \\sin 34\\)</p><p>= \\(6 \\times 0.559\\)</p><p>= 3.354 cm \\(\\approxeq\\)  3.4 cm</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "4.2 cm",
+            "4.3 cm",
+            "3.2 cm",
+            "3.4 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 10,
+        "year": 2019,
+        "question": "<p>If \\(6x^3 + 2x^2 - 5x + 1\\) divides \\(x^2 - x - 1\\), find the remainder.</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/2019-12-16%20%282%29.png\" style=\"height:140px; width:300px\"></p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "9x + 9",
+            "2x + 6",
+            "6x + 8",
+            "5x - 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 17,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/jamb_math_2019_16%281%29.png\" style=\"height:290px; width:280px\"></p><p>From the cyclic quadrilateral MNOP above, find the value of x.</p>",
+        "explanation": "<p>The sum of two opposite angles of a cyclic quadrilateral = 180°</p><p>\\(\\therefore\\) (2x + 18)° + 84° = 180°</p><p>2x + 102° = 180° \\(\\implies\\) 2x = 78°</p><p>x = 39°</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "16°",
+            "25°",
+            "42°",
+            "39°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 19,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191213_121834%20%282%29.jpg\" style=\"height:113px; width:250px\"></p><p>In the figure above, |CD| is the base of the triangle CDE. Find the area of the figure to the nearest whole number.</p>",
+        "explanation": "<p>Area of rectangle ABCD = length x breadth</p><p>= 7 x 4 </p><p>= 28 cm\\(^2\\)</p><p>Area of triangle CDE = \\(\\frac{1}{2}\\) base x height</p><p>= \\(\\frac{1}{2} \\times 3 \\times 4\\)</p><p>= 6 cm\\(^2\\)</p><p>Area of the figure = 28 cm\\(^2\\) + 6 cm\\(^2\\)</p><p>= 34 cm\\(^2\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "56 cm\\(^2\\)",
+            "24 cm\\(^2\\)",
+            "42 cm\\(^2\\)",
+            "34 cm\\(^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2019,
+        "question": "<p>Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree.</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/2020-01-22%20%282%29.png\" style=\"height:161px; width:200px\"></p><p>\\(\\tan \\theta = \\frac{9}{20} = 0.45\\)</p><p>\\(\\theta = \\tan^{-1} (0.45) \\)</p><p>= 24.23°</p><p>\\(\\therefore\\) The bearing of Y from X = 180° - 24.23°</p><p>= 155.77°</p><p>= 156° (to the nearest degree)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "24°",
+            "56°",
+            "127°",
+            "156°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191217_101123%20%282%29.jpg\" style=\"height:256px; width:250px\"></p><p>In the diagram above, O is the centre of the circle ABC, &lt; ABO = 26° and &lt; BOC = 130°. Calculate &lt; AOC.</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/2020-01-22%20%283%29.png\" style=\"height:143px; width:150px\"></p><p>&lt; BAC = \\(\\frac{130}{2}\\) (angle subtended at the centre)</p><p>&lt; BAC = 65°</p><p>Also, x = 26° (theorem)</p><p>y = 65° - 26° = 39°</p><p>&lt; AOC = 180° - (39° + 39°)</p><p>= 102°</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "26°",
+            "13°",
+            "80°",
+            "102°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 76,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191217_132732%20%282%29.jpg\" style=\"height:202px; width:300px\"></p><p>The histogram above represents the number of candidates who did Further Mathematics examination in a school. How many candidates scored more than 40?</p>",
+        "explanation": "<p>Number of students that scored above 40 = 55 + 45 + 30 + 15 + 5</p><p>= 150 students.</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "100",
+            "79",
+            "150",
+            "90"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 77,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/2019-12-17%20%282%29.png\" style=\"height:190px; width:200px\"></p><p>In the circle above, with centre O and radius 7 cm. Find the length of the arc AB, when &lt; AOB = 57°.</p>",
+        "explanation": "<p>Length of arc = \\(\\frac{\\theta}{360°} \\times 2 \\pi r\\)</p><p>= \\(\\frac{57}{360} \\times 2 \\times \\frac{22}{7} \\times 7\\)</p><p>= 6.97 cm</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "5.32 cm",
+            "4.39 cm",
+            "7.33 cm",
+            "6.97 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 78,
+        "year": 2019,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/2019-12-17%20%284%29.png\" style=\"height:211px; width:250px\"></p><p>Calculate the volume of the regular three dimensional figure drawn above, where &lt; ABC = 90° (a right- angled triangle).</p>",
+        "explanation": "<p>|AC| = |DF| = 13 cm</p><p>Using Pythagoras theorem,</p><p>|AC|\\(^2\\) = |AB|\\(^2\\) + |BC|\\(^2\\)</p><p>13\\(^2\\) = 12\\(^2\\) + |BC|\\(^2\\)</p><p>|BC|\\(^2\\) = 169 - 144 = 25</p><p>|BC| = \\(\\sqrt{25}\\)</p><p>= 5 cm</p><p>Volume of triangular prism = \\(\\frac{1}{2} \\times base \\times length \\times height\\)</p><p>= \\(\\frac{1}{2} \\times 5 \\times 12 \\times 18\\)</p><p>= 540 cm\\(^3\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "394 cm\\(^3\\)",
+            "425 cm\\(^3\\)",
+            "268 cm\\(^3\\)",
+            "540 cm\\(^3\\)"
+        ],
+        "type": "objectives"
+    }
+]

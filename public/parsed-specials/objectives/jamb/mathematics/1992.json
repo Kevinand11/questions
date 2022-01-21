@@ -1,0 +1,99 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17990990688_scanb.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "75<sup>o</sup>",
+            "95<sup>o</sup>",
+            "105<sup>o</sup>",
+            "125<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21410702895_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "Given the graph and the curve y = ax<sup>2</sup>+ bx + c the roots are x - 2 and 2 while its equation (x + 2)(x - 2) = y<br><br>y = x<sup>2</sup>- 4 i.e. y = x<sup>2</sup>+ 0x - 4<br><br>a = 1, b = 0 and c = -4",
+        "correctIndex": 0,
+        "options": [
+            "1, 0, -4",
+            "-2, 2, -4",
+            "0, 1, -4",
+            "2, -2, -4",
+            "2, -2, -4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8564281842_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>PSR = 80°</p><p>\\(\\therefore\\) SRP = 20°</p><p>\\(\\implies\\) RPQ = 20°</p><p>x = 140°</p>",
+        "correctIndex": 0,
+        "options": [
+            "140<sup>o</sup>",
+            "120<sup>o</sup>",
+            "75<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11419044776_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "QS = PS\\(\\sqrt{SR}\\)",
+            "QS = \\(\\sqrt{(PS SR)}\\)",
+            "QS = 2\\(\\sqrt{(PS SR)}\\)",
+            "QS = \\(\\frac{1}{\\sqrt{2}}\\)\\(\\sqrt{(PS SR)}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21410730810_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/11419056432_maths-4.jpg\" class=\"img-fluid\">\n</div>Area of the quadrant = \\(\\frac{1}{4} \\pi r^2 = \\frac{1}{4} \\pi (6)^2\\)<br><br>= \\(\\frac{36 \\pi}{4} = 9 \\pi \\)<br><br>Area of the triangle = \\(\\frac{1}{2} \\times 6 = 18 \\times \\sin 90^o = 18\\)<br><br>Area of shaded portion =(9 \\(\\pi \\) - 18)cm^2\\) =<br><br>9(\\(\\pi - 2)cm^2\\).",
+        "correctIndex": 0,
+        "options": [
+            "9(\\(\\pi - 2) cm^2\\)",
+            "18\\(\\pi cm^2\\)",
+            "9\\(\\pi cm^2\\)",
+            "36\\(\\pi cm^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1992,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22838123008_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>RY = YZ - RZ</p><p>= 10 tan 45 - 10 tan 30</p><p>= 10(1 - \\(\\frac{1}{\\sqrt{3}}\\))</p>",
+        "correctIndex": 1,
+        "options": [
+            "10",
+            "10(1 - \\(\\frac{1}{\\sqrt{3}}\\))",
+            "10(1 - \\(\\frac{1}{\\sqrt{2}}\\))",
+            "10[1 - \\(\\sqrt{3}\\)]"
+        ],
+        "type": "objectives"
+    }
+]

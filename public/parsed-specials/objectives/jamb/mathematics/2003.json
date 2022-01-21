@@ -1,0 +1,226 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2003,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191031_103301%20%282%29_LI.jpg\" style=\"height:182px; width:250px\"></p><p>Triangle <strong>OPQ</strong> above is the solution of the inequalities</p>",
+        "explanation": "<p>Lines bounding Δ OPQ<br>\nOQ; y - x = 0<br>\ny - x ≥ 0<br>\nPQ; x + 1 = 0<br>\nx + 1 ≥ = 0<br>\nPO; y + x = 0<br>\ny + x ≤ 0<br>\n∴ x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0</p>",
+        "correctIndex": 0,
+        "options": [
+            "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+            "y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+            "x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+            "x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16264176168_maths200342.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(Mean = \\frac{(0 \\times 1) + (1 \\times 2) + (2 \\times 2) + (3 \\times 1) + (4 \\times 9)}{1 + 2 + 2 + 1 + 9}\\\\=\\frac{(0 + 2 + 4 + 3 + 36)}{15}\\\\=\\frac{45}{15}=3\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21685663280_math200350.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>12 + 20 + x + 21 + x-1 +28 = 120<br>\n2x + 80 = 120<br>\n2x = 120 - 80<br>\n2x = 40<br>\nx = 20</p>",
+        "correctIndex": 1,
+        "options": [
+            "19",
+            "20",
+            "21",
+            "22"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2003,
+        "question": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12226052907_math200330a.jpg\" class=\"img-fluid\">\n</div>Since PQ = QR, Δ PQR is a right angle isosceles triangle<br>∴ ∠PQR = 45<sup>o</sup><br>=&gt; The bearing of P from R = 180 + 45<br>= 225<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "90<sup>o</sup>",
+            "135<sup>o</sup>",
+            "225<sup>o</sup>",
+            "270<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2003,
+        "question": "<p>An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4075353306_math200323.jpg\" class=\"img-fluid\">\n</div><p>θ = 30 x 2(∠ at center twice ∠ at θ)<br>\n∴ θ = 60°<br>\nLength of arc = \\(\\frac{\\theta}{360}\\times 2\\pi r\\\\<br>\n=\\frac{60}{360}\\times 2 \\times \\frac{22}{7}\\times \\frac{21}{1}\\\\</p><p>=22cm\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "11cm",
+            "22cm",
+            "44cm",
+            "66cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2003,
+        "question": "<p>Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1).</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/27169057860_math200324a.jpg\" class=\"img-fluid\">\n</div><p>Locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1) is the perpendicular bisector of the straight line joining Q and R<br>\nMid point QR = \\(\\frac{x_2 + x_1}{2}, \\frac{y_2 + y_1}{2}\\)<br>\n= \\(\\frac{2 + 0}{2}, \\frac{1 + 0}{2}\\)</p><p>= \\((1, \\frac{1}{2})\\)</p><p> Gradient of QR = \\(\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}\\)</p><p>= \\(\\frac{1 - 0}{2 - 0}\\)</p><p>= \\(\\frac{1}{2}\\)</p><p>Gradient of PM = \\(\\frac{-1}{\\frac{1}{2}}\\)<br>\n= -2<br>\nEquation of PM = y - y\\(_1\\) = m(x-x_\\(_1\\))<br>\ni.e y - 1/2 = -2(x-1)<br>\n2y - 1 = -4(x-1)<br>\n2y - 1 = -4x + 4<br>\n2y + 4x = 5</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "4x + 2y = 5",
+            "4x - 2y = 5",
+            "2x + 2y = 5",
+            "2x + y = 5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17659899725_math200325.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19018353550_math200325.jpg\" class=\"img-fluid\">\n</div>γ + S = 180(Allied angles)<br>S = 180 - γ<br>α + P = 180(Allied angles)<br>p = 180 - α<br>β = P + S<br>β = 180 - α + 180 - γ<br>β = 360 - α - γ<br>β + α + γ = 360",
+        "correctIndex": 0,
+        "options": [
+            "360<sup>o</sup>",
+            "200<sup>o</sup>",
+            "180<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27169105400_math200333.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5433821080_math200333.jpg\" class=\"img-fluid\">\n</div><p>θ = 45 x 2 (∠ at center twice ∠ at θ)<br>\nθ = 90°<br>\nArea of sector = θ/360 x πr2<br>\n= 90/360 x 22/7 x 7 x 7<br>\n= 77/2cm\\(^2\\)<br>\nArea of triangle = 1/2 ab sin θ<br>\n= 1/2 x 7 x 7 sin 90<br>\n= 1/2 x 7 x 7 x 1<br>\n= 49/2 cm\\(^{2}\\)<br>\nArea of shaded region = 77/2 - 49/2</p><p>= 28/2<br>\n= 14cm\\(^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "84cm<sup>2</sup>",
+            "77cm<sup>2</sup>",
+            "38cm<sup>2</sup>",
+            "14cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8150738736_math200335.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/6792282280_math200335.jpg\" class=\"img-fluid\">\n</div><p>R = P (base ∠s of isc Δ, ps = RS)<br>\n∴R = 40°<br>\n∠PSQ = R (∠s in alternate segment)<br>\n∴∠PSQ = 40°</p>",
+        "correctIndex": 0,
+        "options": [
+            "40<sup>o</sup>",
+            "30<sup>o</sup>",
+            "20<sup>o</sup>",
+            "10<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2003,
+        "question": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8150977512_math200334a.jpg\" class=\"img-fluid\">\n</div>Midpoint of PQ \\(\\frac{x_2 + x_1}{2};\\frac{y_2 + y_1}{2}\\\\<br>=\\frac{-1+(-3)}{2};\\frac{6-4}{2}\\\\<br>=\\frac{-4}{2};\\frac{2}{2}\\\\<br>=-2,1\\)<br>Midpoint of QR = \\(\\frac{x_2 + x_1}{2};\\frac{y_2 + y_1}{2}\\\\<br>\\frac{-3+1}{2};\\frac{-4-4}{2}\\\\<br>\\frac{-2}{2};\\frac{-8}{2}\\\\<br>-1,-4\\)<br>Midpoint of PQ and QR = (-2,1) and (-1,-4)",
+        "correctIndex": 3,
+        "options": [
+            "(0,-2) and (-1, -4)",
+            "(-1,0) and (-1,-1)",
+            "(-2,1) and (0,1)",
+            "(-2,1) and (-1,-4)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14943457705_math200349.jpg\" class=\"img-fluid\">",
+        "explanation": "<table border=\"1\"><tr><td>age</td><td>People</td></tr><tr><td>10</td><td>3</td></tr><tr><td>20</td><td>4</td></tr><tr><td>30</td><td>5</td></tr><tr><td>40</td><td>6</td></tr><tr><td>50</td><td>2</td></tr><tr><td></td><td>20</td></tr></table>",
+        "correctIndex": 2,
+        "options": [
+            "15",
+            "18",
+            "20",
+            "21"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22845013040_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "x - 1 &lt; 0, y + \\(\\geq\\) 0, y - x \\(\\geq\\) 0",
+            "x + 1 \\(\\leq\\) 0, y + x \\(\\geq\\) 0, y - x \\(\\leq\\) 0",
+            "x - 1 \\(\\geq\\) 0, y - x \\(\\geq\\) 0, y + x \\(\\geq\\) 0",
+            "y + x \\(\\geq\\) 0, y - x \\(\\leq\\) 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21417229455_maths-9.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>PS = SR<br>\n<br>\n\\(\\bigtriangleup\\)PSR is an isosceles<br>\n<br>\n&lt; P = &lt; SPQ = 40°<br>\n<br>\n&lt; R = &lt; SRQ<br>\n<br>\n&lt; PSQ = &lt; SRQ (alternate segment)<br>\n<br>\n&lt; PSQ = 40°</p>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "10<sup>o</sup>",
+            "30<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2003,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28556339400_maths-11.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\begin{array}{c|c} \\text{Age in years} &amp; 10 &amp; 20 &amp; 30 &amp; 40 &amp; 50 \\\\\\hline \\text{frequency} &amp; 3 &amp; 4 &amp; 5 &amp; 6 &amp; 2\\end{array}\\)<br><br>\\(\\sum f \\) = number of people involved in the pollution<br><br>\\(\\sum f\\) = 3 + 4 + 5 + 6 + 2 = 20",
+        "correctIndex": 0,
+        "options": [
+            "20",
+            "21",
+            "15",
+            "18"
+        ],
+        "type": "objectives"
+    }
+]

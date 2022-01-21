@@ -1,0 +1,66 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 20,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/oTqFTxsokbK3KG4QYvfeHs2UKy8EElbMA2SmpkOH.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>For capacitance i n parallel, 2µF and 2µF are in parallel,<br>\ntheir equivalence is 2µF and 2µF = 4µF<br>\n<br>\nThe 4µF generated is now in series with the remaining 4µF.<br>\n<br>\nThe net capacitance for series connection is<br>\n<br>\n\\(\\frac{1}{C}\\) = \\(\\frac{1}{4}\\) + \\(\\frac{1}{4}\\) = 1 + \\(\\frac{1}{4}\\) = \\(\\frac{2}{4}\\)<br>\n<br>\nC = \\(\\frac{4}{2}\\)<br>\n<br>\n= 2µF</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "80µF",
+            "6.0µF",
+            "4.0µF",
+            "2.0µF"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7561985875_17_19.jpg\" class=\"img-fluid\">",
+        "explanation": "c = 8µF, v = 10v<br><br>Energy stored = \\(\\frac{1}{2}\\) cv<sup>2</sup><br><br>= \\(\\frac{1}{2}\\) × (8 × 10− 6) × 10<sup>2</sup><br><br>= 4 × 10\\(^{-4}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "4.0 x 10\\(^{-2}\\)J",
+            "4.0 x 10\\(^{-4}\\)J",
+            "8.0 x 10\\(^{-4}\\)J",
+            "8.0 x 10\\(^{-2}\\)J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2017,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6049880104_17_35.jpg\" class=\"img-fluid\">",
+        "explanation": "V = IR from ohms law<br><br>I = \\(\\frac{V}{R}\\)<br><br>Since the resistance are in parallel<br><br>\\(\\frac{1}{Reff}\\) = \\(\\frac{1}{8}\\) + \\(\\frac{1}{12}\\) + \\(\\frac{1}{6}\\)<br><br>= \\(\\frac{2 + 3 + 6}{36}\\) = \\(\\frac{11}{36}\\)<br><br>Reff = \\(\\frac{36}{11}\\) = 3.27<br><br>I = I<sub>1</sub>+ I<sub>2</sub>+ I<sub>3</sub><br><br>= \\(\\frac{V}{Reff}\\)= \\(\\frac{12}{3.27}\\)<br><br>= 3.669A<br><br>I = 3.7A<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "5.0A",
+            "3.7A",
+            "4.5A",
+            "4.0A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2017,
+        "question": "The velocity ratio of an inclined plane where angle of inclination in θ is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/10587301011_sol_17_48.jpg\" class=\"img-fluid\">\n</div>Consider an inclined plane shown below, as the effort moves along OB, the load moves is lifted up through a vertical height AB<br><br>V.R = \\(\\frac{\\text{distance moved by effort}}{\\text{distance moved by load}}\\) = \\(\\frac{OB}{AB}\\)<br><br>But Sinθ = \\(\\frac{opp}{hyp}\\) = \\(\\frac{AB}{OB}\\)<br><br>therefore; = \\(\\frac{OB}{AB}\\) = \\(\\frac{1}{\\sin \\theta}\\)<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "Sinθ",
+            "Cosθ",
+            "Tanθ",
+            "\\(\\frac{1}{\\sin \\theta}\\)"
+        ],
+        "type": "objectives"
+    }
+]

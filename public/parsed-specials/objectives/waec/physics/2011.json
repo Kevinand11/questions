@@ -1,0 +1,34 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28627071740_maths%2038.jpg\" class=\"img-fluid\">",
+        "explanation": "C - \\(C_1 + C_2 = 2 + 6 = \\mu F\\)<br><br>\\(\\frac{1}{C} = \\frac{1}{C_1} + \\frac{1}{C_1} + \\frac{1}{C_2} = \\frac{1}{8} + \\frac{1}{2}\\)<br><br>C = \\(\\frac{8}{5 \\mu F}\\)<br><br>Q = CV<br><br>= \\(\\frac{8}{5} \\times 10 = 16\\mu C\\)",
+        "correctIndex": 3,
+        "options": [
+            "80\\(\\mu C\\)",
+            "35\\(\\mu C\\)",
+            "20\\(\\mu C\\)",
+            "16\\(\\mu C\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10019472960_maths%2038.jpg\" class=\"img-fluid\">",
+        "explanation": "V = \\(\\frac{Q}{V} = \\frac{16}{8} = 2\\Gamma\\)",
+        "correctIndex": 3,
+        "options": [
+            "10.0V",
+            "8.0V",
+            "6.7V",
+            "2.0V"
+        ],
+        "type": "objectives"
+    }
+]

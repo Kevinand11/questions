@@ -1,0 +1,274 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22172989168_wcmath199713.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-2 ≤ x &lt; 3",
+            "-2 &lt; x ≤ 3",
+            "-2 &lt; x &lt; 3",
+            "-2 ≤ x ≤ 3",
+            "x ≥ 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5543248436_wcmath199714.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24944617962_wcmath199714.jpg\" class=\"img-fluid\">\n</div><div class=\"eq-c\">XM = <span class=\"roota\"><span class=\"n-root\"></span>√</span><span class=\"rootb\">13<sup>2</sup> - 5<sup>2</sup></span> = 12cm</div><br>MZ = 15<sup>2</sup>- 12<sup>2</sup>= 9cm<br>YZ = 9 + 5 = 14cm",
+        "correctIndex": 2,
+        "options": [
+            "9cm",
+            "12cm",
+            "14cm",
+            "19.85cm",
+            "23cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1997,
+        "question": "The length of the two parallel sides of trapezium are 6cm and 10cm and the perpendicular distance between them is 5cm. Find the area of the trapezium",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12472328709_wcmath199716ans.jpg\" class=\"img-fluid\">\n</div>Area = 1/2(6 + 10) x 5<br>40cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "21cm<sup>2</sup>",
+            "4Ocm<sup>2</sup>",
+            "8Ocm<sup>2</sup>",
+            "150cm<sup>2</sup>",
+            "300cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 1997,
+        "question": "Calculate the total surface area of a solid cone of slant height 15cm and base radius 8cm in terms of π",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/24944661702_wcmath199717ans.jpg\" class=\"img-fluid\">\n</div>Total surface are of a cone<br>= πr(r + l)<br>= π x 8 (8 + 150)<br>= 184πcm<sup>2</sup>",
+        "correctIndex": 2,
+        "options": [
+            "64πcm<sup>2</sup>",
+            "12Oπcm<sup>2</sup>",
+            "184πcm<sup>2</sup>",
+            "200πcm<sup>2</sup>",
+            "32Oπcm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23558862361_wcmath199720.jpg\" class=\"img-fluid\">",
+        "explanation": "Area = 1/2 x y x yz sinθ<br>23.5 = 1/2 x 10 x 8 sinθ<br><div class=\"eq-c\">sinθ = <div class=\"fraction\"><span class=\"fr_num\">23.5 x 2</span><span class=\"bar\">/</span><span class=\"fr_den\">10 x 8</span></div> = 0.5875</div><br>θ = sin<sup>-1</sup>0.5875 = 36<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "34<sup>o</sup>",
+            "35<sup>o</sup>",
+            "36<sup>o</sup>",
+            "37<sup>o</sup>",
+            "40<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12472345314_wcmath199722.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/22173058336_wcmath199722.jpg\" class=\"img-fluid\">\n</div><div class=\"eq-c\"><div class=\"fraction\"><span class=\"fr_num\">2</span><span class=\"bar\">/</span><span class=\"fr_den\">2 + 4</span></div> = <div class=\"fraction\"><span class=\"fr_num\">x</span><span class=\"bar\">/</span><span class=\"fr_den\">x + 6</span></div></div><br>2x + 12 = 6x<br>4x = 12<br>x = 3cm",
+        "correctIndex": 1,
+        "options": [
+            "2cm",
+            "3cm",
+            "4cm",
+            "5cm",
+            "6cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24944743710_wcmath199724.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "Δ PGS = Δ QHR",
+            "Parallelogram PQRS = Δ QHR",
+            "Trapezium PQXS = Δ QHR",
+            "Δ PGS = Parallelogram GHRS",
+            "Parallelogram PQRS = Parallelogram GHRS"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24944745510_wcmath199725.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the diagram, the angles in the triangle are:</p><p>(180 - a)°, (180 - b)° and x°.</p><p>\\(\\therefore\\) (180 - a) + (180 - b) + x = 180°</p><p>360 + x - a - b = 180°</p><p>360 - 180 + x = a + b</p><p>180 + x = a + b.</p>",
+        "correctIndex": 3,
+        "options": [
+            "a +b + x =180",
+            "a = b + x",
+            "a – b = 180 - x",
+            "a + b = x + 180",
+            "a – b = x - 180."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23559086251_wcmath199732.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/1385828603_wcmath199732.jpg\" class=\"img-fluid\">\n</div>TQR = 90 - 42 = 48<sup>o</sup><br>QRT = 180 - (64 - 48)<br>&amp;nbsp&amp;nbsp&amp;nbsp = 180 - 112<br>&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp= 68<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "68<sup>o</sup>",
+            "64<sup>o</sup>",
+            "42<sup>o</sup>",
+            "32<sup>o</sup>",
+            "22<sup>o</sup>."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8314979574_wcmath199733.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Reflex &lt; POQ = 360° - 148° = 212°</p><p>&lt; PRO = 360° - 330° = 30°</p><p>But &lt; ORT = 90° \\(\\implies\\) &lt; PRT = 90° - 30° = 60°</p>",
+        "correctIndex": 2,
+        "options": [
+            "44<sup>o</sup>",
+            "46<sup>o</sup>",
+            "60<sup>o</sup>",
+            "74<sup>o</sup>",
+            "118<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1997,
+        "question": "A chord is 5cm from the centre of a circle of diameter 26cm. Find the length of the chord",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5543360024_wcmath199738ans.jpg\" class=\"img-fluid\">\n</div><div class=\"eq-c\">BC = <span class=\"roota\"><span class=\"n-root\"></span>√</span><span class=\"rootb\">13<sup>2</sup> - 5<sup>2</sup></span> = 12cm</div>",
+        "correctIndex": 2,
+        "options": [
+            "16cm",
+            "18cm",
+            "24cm",
+            "25.51cm",
+            "51.1cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1997,
+        "question": "The angle of elevation of a point T on a tower from a point U on the horizontal ground is 30<sup>o</sup>. If TU = 54m, how high is T above the horizontal ground?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8315040654_wcmath199739ans.jpg\" class=\"img-fluid\">\n</div>sin30 = x/54<br>x =54 x 1/2<br>= 27m",
+        "correctIndex": 4,
+        "options": [
+            "108m",
+            "72m",
+            "46.3m",
+            "31.2m",
+            "27m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1997,
+        "question": "<p>Two sides of a triangle are perpendicular. If the two sides are 8cm and 6cm, calculate correct to the nearest degree, the smallest angle of the triangle.</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5543367828_wcmath199743ans.jpg\" class=\"img-fluid\">\n</div><p>tanθ = 6/8 = 0.75</p><p>θ = tan\\(^{-1}\\) (0.75)</p><p>= 37°</p>",
+        "correctIndex": 2,
+        "options": [
+            "35<sup>o</sup>",
+            "36<sup>o</sup>",
+            "37<sup>o</sup>",
+            "38<sup>o</sup>",
+            "53<sup>o</sup>."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24945156162_wcmath199744.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "T",
+            "S",
+            "R",
+            "Q",
+            "P"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8315052822_wcmath199749.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Prob(green ball) = 16/100</p><p>= 4/25</p>",
+        "correctIndex": 4,
+        "options": [
+            "16",
+            "21/25",
+            "1/3",
+            "4/21",
+            "4/25"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1997,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9700895876_wcmath199747.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"eq-c\"><div class=\"fraction\"><span class=\"fr_num\">1 + 8 + 15 + 24 + 12 + x</span><span class=\"bar\">/</span><span class=\"fr_den\">18 + x</span></div> = 3.5</div><br>120 + 10x = 126 + 7x<br>3x = 6<br>x = 2",
+        "correctIndex": 1,
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "type": "objectives"
+    }
+]

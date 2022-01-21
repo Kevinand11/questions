@@ -1,0 +1,11 @@
+[
+    {
+        "course": "data processing",
+        "institution": "waec",
+        "order": 4,
+        "year": 2018,
+        "question": "<p>(a) Outline the steps involved in creating the Query By Example (QBE) in figure 1 assuming the table customer exist already.</p><p> <img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/233821663_813023172734027_4647520236192496423_n.jpg?_nc_cat=111&amp;ccb=1-4&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGSSamxPqBTYDdFGnKuHk9BZbiM8duT1JhluIzx25PUmOawTcjZ3AOE2w2z9xeQ2ISacmk2S5y5Oqiw-M4Dy79N&amp;_nc_ohc=X7_YJAZRabkAX_Hf-pL&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=983b175ab96bac13ac4c2b6e0e87d503&amp;oe=6137401C\"></p><p>                                                 <strong>Figure 1</strong></p><p>(b) Write the steps to generate the SQL statement for the action in 4 (a).</p>",
+        "answer": "<p><strong>(a) Steps involved in creating the query in MS Access;</strong></p><p>- Click on Create </p><p>- Select Query Design</p><p>- Add table tbl Customer to QBE interface</p><p>- Select the field Last Name from the grid</p><p>- Select the field First Name from the grid.</p><p>- Select the fields Town from the grid.</p><p>- Type 'John' in the criteria row under the last Name field.</p><p>- Tick all the check boxes in the show row under last Name, first Name and Town fields.</p><p><strong>(b) Steps to generate the SQL statement for the action in 4(a) </strong></p><p>- Right click on Query (QBE) Interface</p><p>- Select SQL view </p><p>OR</p><p>- From  Design  view, click view</p><p>- Select SQL view </p><p>OR</p><p>- Click on SQL at the bottom right corner </p>",
+        "type": "theory"
+    }
+]

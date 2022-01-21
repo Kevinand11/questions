@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2017,
+        "question": "<p>(a) Solve the equation : \\(\\frac{2}{3}(3x - 5) - \\frac{3}{5}(2x - 3) = 3\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0108%20%282%29.jpg\" style=\"height:389px; width:735px\"></p><p>In the diagram, &lt; STQ = m, &lt; TUQ = 80°, &lt; UPQ = r, &lt; PQU = n and &lt; RQT = 88°. Find the value of (m + n).</p>",
+        "answer": "<p>(a) \\(\\frac{2}{3}(3x - 5) - \\frac{3}{5}(2x - 3) = 3\\)</p><p>\\(\\frac{10(3x - 5) - 9(2x - 3)}{15} = 3\\)</p><p>\\(30x - 50 - 18x + 27 = 3 \\times 15 = 45\\)</p><p>\\(12x = 45 + 23 = 68\\)</p><p>\\(x = \\frac{68}{12}  = 5\\frac{2}{3}\\)</p><p>(b) \\(n + r = 80° .... (1)\\)</p><p>\\(180° - m + r = 88° .... (2)\\)</p><p>From (1), r = 80° - n.</p><p>Putting into (2), we have</p><p>\\(180 - m + 80 - n = 88 \\implies  - m - n = 88 - 260 = - 172°\\)</p><p>\\(-(m + n) = - 172 \\implies m + n = 172°\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2017,
+        "question": "<p>(a) The angle of depression of a point P on the ground from the top T of a building is 23.6°. If the distance from P to the foot of the building is 50m, calculate, correct to the nearest metre, the height if the building.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0108%20%283%29.jpg\" style=\"height:283px; width:620px\"></p><p>In the diagram, \\(PT // SU, QS // TR, /SR/ = 6cm\\) and \\(/RU/ = 10 cm\\). If the area of \\(\\Delta TRU = 45 cm^{2}\\), calculate the area of the trapezium QTUS.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0109%20%282%29.jpg\" style=\"height:376px; width:457px\"></p><p>\\(&lt; P = 23.6°\\) (Alternate angle)</p><p>\\(\\tan 23.6 = \\frac{x}{50}\\)</p><p>\\(x = 50\\tan 23.6\\)</p><p>= \\(50 \\times 0.4369\\)</p><p>= \\(21.845 m \\approxeq 22 m\\) (to the nearest metre)</p><p>(b) Given that \\(\\Delta TRU = 45cm^{2}\\)</p><p>\\(\\implies \\frac{1}{2}(bh) = 45\\)</p><p>\\(10h = 45 \\times 2 = 90\\)</p><p>\\(h = 9cm\\)</p><p>Area of trapezium = \\(\\frac{1}{2}(a + b)h\\), where \\(a = 6cm; b = 10 + 6 = 16cm; h = 9cm\\)</p><p>= \\(\\frac{1}{2}(6 + 16) \\times 9\\)</p><p>= \\(11 \\times 9\\)</p><p>= \\(99 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2017,
+        "question": "<p>Out of 120 customers in a shop, 45 bought both bags and shoes. If all the customers bought either bags or shoes and 11 more customers bought shoes than bags:</p><p>(a) Illustrate the this information in a diagram;</p><p>(b) find the number of customers who bought shoes;</p><p>(c) calculate the probability that a customer selected at random bought bags.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0110%20%282%29.jpg\" style=\"height:323px; width:491px\"></p><p>(b) \\(x + 45 + x + 11 = 120 \\implies 2x + 56 = 120\\)</p><p>\\(2x = 120 - 56 = 64\\)</p><p>\\(x = 32\\)</p><p>Therefore, the number of customers that bought bags = 32.</p><p>(c) \\(P(\\text{a random customer bought bags}) = \\frac{\\text{no of customers that bought bags}}{\\text{total no of customers}}\\)</p><p>No of customers that bought bags = 32 + 45 = 77</p><p>\\(P(\\text{customer bought bag}) = \\frac{77}{120}\\).</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2017,
+        "question": "<p>(a) Copy and complete the table of values for the equation \\(y = 2x^{2} - 7x - 9\\) for \\(-3 \\leq x \\leq 6\\).</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td>13</td>\n<td> </td>\n<td>-9</td>\n<td>-14</td>\n<td> </td>\n<td>-12</td>\n<td> </td>\n<td>6</td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) Using scales of 2cm to 1 unit on the x- axis and 2cm to 4 units on the y- axis, draw the graphs of \\(y = 2x^{2} - 7x - 9\\) for \\(-3 \\leq x \\leq 6\\).</p><p>(c) Use the graph to estimate the :</p><p>(i) roots of the equation \\(2x^{2} - 7x = 26\\);</p><p>(ii) coordinates of the minimum point of y;</p><p>(iii) range of values for which \\(2x^{2} - 7x &lt; 9\\).</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>y</td>\n<td>30</td>\n<td>13</td>\n<td>0</td>\n<td>-9</td>\n<td>-14</td>\n<td>-15</td>\n<td>-12</td>\n<td>-5</td>\n<td>6</td>\n<td>21</td>\n</tr>\n</tbody>\n</table><p>(b)</p><p> <img alt=\"\" src=\"/storage/classroom/editor_images/2020-08-06%20%282%29.png\" style=\"height:429px; width:350px\"></p><p> </p><p>(c) (i) From the graph, the roots of the equation 2x\\(^2\\) - 7x = 26 can be obtained by drawing a line through y = 17 to meet the curve 2x\\(^2\\) - 7x - 9.</p><p>The roots of the equation 2x\\(^2\\) - 7x = 26 : -2.2 and 5.8.</p><p>(ii) The coordinates of the minimum point of y : 1.8, -15.</p><p>(iii) The range of values for which 2x\\(^{2}\\) - 7x &lt; 9 : - 0.9 &lt; x &lt; 4.5.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2017,
+        "question": "<p>(a) PQ is a tangent to a circle RST at the point S. PRT is a straight line, &lt; TPS = 34° and &lt; TSQ = 65°.</p><p>(i) Illustrate the information in a diagram;  (ii)  find the value of : (a) &lt; RTS ; (b) &lt; SRP.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0108%20%284%29.jpg\" style=\"height:281px; width:602px\"></p><p>In the diagram, /VZ/ = /YZ/, &lt; YXZ = 20° and &lt; ZVY = 52°. Calculate the size of &lt; WYZ.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0111%20%282%29.jpg\" style=\"height:303px; width:773px\"></p><p>(ii) (a) &lt; RTS = 65° - 34° (exterior angles of triangle PST)</p><p>= 31°</p><p>(ii) (b) &lt; SRP = 65° (angles in alternate segment are equal)</p><p>\\(\\therefore &lt; SRP = 180° - 65° = 115°\\).</p><p>(b) &lt;XYZ = 180 - 52 = 128° (angles on a straight line)</p><p>If &lt; XYZ = 128°</p><p>then &lt; XZY = 128° + 20° = 148°</p><p>&lt; XZV = 180° - 148° = 32°</p><p>&lt; YVZ = &lt; VYZ = 52° (Isoceles triangle)</p><p>&lt; WYZ = 52° - 32° = 20°</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2017,
+        "question": "<p>(a) Given that \\(\\sin x = \\frac{5}{13}, 0° &lt; x &lt; 90°\\), find \\(\\frac{\\cos x - 2\\sin x}{2\\tan x}\\).</p><p>(b) A ladder, LA, leans against a vertical pole at a point L which is 9.6metres above the groung. Another ladder, LB, 12 metres long, leans on the opposite side of the pole and at the same point L. If A and B are 10 metres apart and on the same straight line as the foot of the pole, calculate, correct to 2 significant figures, the :</p><p>(i) length of ladder LA  (ii) angle which LA makes with the ground.</p>",
+        "answer": "<p>(a) \\(\\sin x = \\frac{5}{13}\\)</p><p>Using SOHCAHTOA, then Opp = 5 and Hyp = 13</p><p>\\(13^{2} = 5^{2} + Adj^{2}\\)</p><p>\\(169 = 25 + Adj^{2}\\)</p><p>\\(Adj = \\sqrt{169 - 25} = \\sqrt{144} = 12\\)</p><p>\\(\\cos x = \\frac{12}{13}\\)</p><p>\\(\\tan x = \\frac{5}{12}\\)</p><p>\\(\\frac{\\cos x - 2\\sin x}{2\\tan x} = \\frac{\\frac{12}{13} - 2(\\frac{5}{13})}{2(\\frac{5}{12})}\\)</p><p>= \\(\\frac{\\frac{2}{13}}{\\frac{5}{6}}\\)</p><p>= \\(\\frac{12}{65}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0111%20%284%29.jpg\" style=\"height:493px; width:518px\"></p><p>Taking \\(\\Delta LPB\\), </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0111%20%285%29.jpg\" style=\"height:343px; width:365px\"></p><p>Using Pythagoras theorem, \\(/BP/^{2} = /BL/^{2} - /LP/^{2}\\)</p><p>\\(i.e. /BP/ = \\sqrt{12^{2} - 9.6^{2}}\\)</p><p>= \\(\\sqrt{144 - 92.16} = \\sqrt{51.84} = 7.2m\\)</p><p>\\(/PA/ = 10m - 7.2m = 2.8m\\)</p><p>\\(/LA/^{2} = x^{2}\\)</p><p>\\(x^{2} = /LP/^{2} + /PA/^{2}\\)</p><p>\\(x^{2} = 9.6^{2} + 2.8^{2}\\)</p><p>= \\(92.16 + 7.84\\)</p><p>\\(x^{2} = 100 \\implies x = 10m\\)</p><p>(ii) \\(\\tan \\theta_{y} = \\frac{9.6}{2.8} = 3.4286\\)</p><p>\\(\\theta_{y} = \\tan^{-1} (3.4286) \\approxeq 74°\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2017,
+        "question": "<p>(a) It takes 8 students two- thirds of an hour to fill 12 tanks with water. How many tanks of water will 4 students fill in one- third of an hour at the same rate?</p><p>(b) A chord, 20 cm long, is 12 cm from the centre of the circle. Calculate, correct to one decimal place, the :</p><p>(i) angle subtended by the chord at the centre of the circle;</p><p>(ii) perimeter of the minor segment cut off by the chord.  [Take \\(\\pi = 3.142\\)].</p>",
+        "answer": "<p>(a) \\(Time = \\frac{2}{3} hour = \\frac{2}{3} \\times 60 = 40 mins\\)</p><p>4 students will take \\(\\frac{8 \\times 40}{4} = 80 minutes\\)</p><p>\\(Time = \\frac{1}{3} hour = \\frac{1}{3} \\times 60 = 20 minutes\\)</p><p>It will take 20 minutes to fill \\(\\frac{12 \\times 20}{80} = 3 tanks\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0112%20%282%29.jpg\" style=\"height:482px; width:478px\"></p><p>\\(\\tan (\\frac{\\theta}{2}) = \\frac{10}{12}\\)</p><p>\\(\\frac{\\theta}{2} = \\tan^{-1} (0.8337) = 39.8°\\)</p><p>\\(\\theta = 39.8° \\times 2 = 79.6°\\)</p><p>(ii) Perimeter of minor segment = Length of chord + length of arc</p><p>But \\(r^{2} = 12^{2} + 10^{2}\\)</p><p>= \\(144 + 100 = 244\\)</p><p>\\(r = \\sqrt{244} = 15.62 cm\\)</p><p>Length of arc = \\(\\frac{79.6}{360} \\times 2 \\times 3.142 \\times 15.62 = 21.71cm\\)</p><p>Perimeter of minor segment = 20 + 21.71 = 41.71cm</p>",
+        "type": "theory"
+    }
+]

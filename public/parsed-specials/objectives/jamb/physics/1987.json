@@ -1,0 +1,98 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23336997392_1987.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "17.0m",
+            "18.0m",
+            "22.5m",
+            "30.0m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23337001264_19870001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "(m1-m2)g",
+            "m1g",
+            "m2g",
+            "(m1+m2)g"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834251692_19870002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "1.25m",
+            "0.50m",
+            "0.25m",
+            "0.05m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834252756_19870003.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "Q1/Q2",
+            "E/Q1",
+            "E/(Q1-Q2)",
+            "E/(Q1-Q2)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5834253380_19870004.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Using the voltage- divider method which states that the output voltage is <strong>directly proportional</strong> to the <strong>input voltage</strong> and the <strong>ratio of R1 and R2, given by:</strong></p><p>\\(V_{a}\\) = \\(\\frac{R_{a}}{R_{T}}\\times V_{T}\\)</p><p>\\(R_{T}\\) = \\(1 + \\frac{4\\times4}{4+4}\\)</p><p>⇒ \\(R_{T}\\) = \\(3\\Omega\\)</p><p>\\(V_{1}\\) = \\(\\frac{1}{3}V\\)</p><p> </p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "V/8",
+            "V/4",
+            "V/3",
+            "V/2"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1987,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23337024896_19870005.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "both M and N have acquired negative charges",
+            "both M and N have acquired positive charges",
+            "M has acquired negative charge and N positive charge",
+            "N has acquired negative charge and M positive charge"
+        ],
+        "type": "objectives"
+    }
+]

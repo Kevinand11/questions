@@ -1,0 +1,146 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15701991503_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "y = x<sup>3</sup>- 27, y = -27 \\(\\to\\) (0, -27)<br><br>when y = 0, x = 3 (3, 0)",
+        "correctIndex": 2,
+        "options": [
+            "y = (x - 3)<sup>3</sup>",
+            "y = (x + 3)<sup>3</sup>",
+            "y = x<sup>3</sup>- 27",
+            "y = -x<sup>3</sup>+ 27"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9992178084_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "2x - y - 2 \\(\\geq\\) 0 = y \\(\\leq\\) 2x - 2<br><br>when x = 0, y = -2, when y = 0, x = 1",
+        "correctIndex": 0,
+        "options": [
+            "2x - y - 2 \\(\\geq\\) 0",
+            "2x - y - 2 \\(\\leq\\) 0",
+            "2x - y - 2 &lt; 0",
+            "2x - y - 2 &gt; 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9992183754_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "SQR + RQV + VQU = 18<sup>o</sup>angle on a straight line SP is parallel to QR and PV is parallel to TR<br><br>&lt; STP = &lt; RQV = 30<sup>o</sup><br><br>But SQR + 30<sup>o</sup>+ 50<sup>o</sup>= 180<sup>o</sup><br><br>SQR = 180 - 80<br><br>= 100<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "30<sup>o</sup>",
+            "50<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24266748651_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; SRP = &lt; SQP = 38<sup>o</sup>(angle in the same segment of a circle are equal)<br><br>But &lt; SPQ = 90<sup>o</sup>(angle in a semicircle)<br><br>also &lt; PSQ + &lt; SQP + &lt; SPQ = 180<sup>o</sup>(angles in a triangle = 180<sup>o</sup>)<br><br>&lt; PSQ + 38<sup>o</sup>+ 90<sup>o</sup>= 190<sup>o</sup><br><br>&lt; PSQ = 128<sup>o</sup>= 180<sup>o</sup><br><br>PSQ = 180<sup>o</sup>- 128<sup>o</sup><br><br>PSQ = 52<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "148<sup>o</sup>",
+            "104<sup>o</sup>",
+            "80<sup>o</sup>",
+            "52<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4282368600_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/14274562000_maths-5.jpg\" class=\"img-fluid\">\n</div>RTS = RQT (angle between a tangent and a chord at the point of contact is equal to the angle in the alternate segment) But R = Q + T = 180<br><br>RQT = 180<sup>o</sup>- (50 + 60)<br><br>= 180<sup>o</sup>- 110<sup>o</sup><br><br>= 70<sup>o</sup><br><br>Since RQT = RTS = 70<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "120<sup>o</sup>",
+            "70<sup>o</sup>",
+            "60<sup>o</sup>",
+            "40<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27121677832_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "A<sub>\\(\\bigtriangleup\\)</sub>= \\(\\sqrt{S(S - a) (S - b)(S - c)}\\) (Hero's Formula)<br><br>S = \\(\\frac{a + b + c}{2}\\) = \\(\\frac{5 + 6 + 7}{2}\\)<br><br>\\(\\frac{18}{2} = 9\\)<br><br>A<sub>\\(\\bigtriangleup\\)</sub>\\(\\sqrt{9} \\times 4 \\times 3 \\times 2\\)<br><br>\\(\\sqrt{216} = 6 \\sqrt{6}cm^3\\)<br><br>A<sub>\\(\\bigtriangleup\\)</sub>= \\(\\frac{1}{2} \\times 6 \\times h\\)<br><br>6\\(\\sqrt{6} = \\frac{1}{2} \\times 7 \\times h\\)<br><br>h = \\(\\frac{12}{h} \\sqrt{6}\\)",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{12}{7}\\)cm",
+            "\\(\\frac{12}{7} \\sqrt{6}\\)cm",
+            "\\(\\frac{7}{12}\\)cm",
+            "\\(\\frac{1}{2}\\)cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19984400338_maths-7.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15702028837_maths-1.jpg\" class=\"img-fluid\">\n</div>\\(\\frac{x}{r}\\) = \\(\\frac{x + h}{2r}\\)<br><br>2 x r = r (x + h)<br><br>Total height of cone = x + h<br><br>but x = h<br><br>total height = 2h",
+        "correctIndex": 0,
+        "options": [
+            "2h",
+            "2\\(\\pi\\)h",
+            "\\(\\pi\\)h",
+            "\\(\\frac{\\pi h}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28549154000_maths-8.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/18556950100_maths-8.jpg\" class=\"img-fluid\">\n</div>Gradient of line = \\(\\frac{\\text{Change in y}}{\\text{Change in x}} = \\frac{y_2 - y_1}{x_2 - x_1}\\)<br><br>y<sub>2</sub>= 0, y<sub>1</sub>= 4<br><br>x<sub>2</sub>= 3 and x<sub>1</sub>= 0<br><br>\\(\\frac{y_2 - y_1}{x_2 - x_1} = \\frac{0 - 4}{3 - 0} = \\frac{-4}{3}\\)<br><br>Equation of straight line = y = mx + c<br><br>where m = gradient and c = y<br><br>intercept = 4<br><br>y = 4x + \\(\\frac{4}{3}\\), multiple through by 3<br><br>3y = 4x + 12",
+        "correctIndex": 2,
+        "options": [
+            "3y = 4x + 12",
+            "3y = 3x + 12",
+            "3y = -4x + 12",
+            "3y = -4x + 9"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1994,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12847121190_maths-9.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "52.0",
+            "43.2",
+            "40.0",
+            "12.0"
+        ],
+        "type": "objectives"
+    }
+]

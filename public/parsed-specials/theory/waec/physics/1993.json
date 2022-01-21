@@ -1,0 +1,20 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1993,
+        "question": "<p>(a) With the aid of a labelled diagram, describe an experiment to illustrate the relationship between the volume and the temperature of a given mass of air at constant pressure.</p><p>(b) A uniform capillary tube of negligible expansivity sealed at one end, contains air trapped by a pellet of mercury. The trapped air column is 13.7cm long at 0°C and 18.7cm long at 100°C. Calculate the cubical expansivity of the air at constant pressure.</p><p>(c) Using the kinetic theory of gases, explain why the volume of a fixed mass of gas at constant pressure increases with increase in temperature. <br>\n </p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0400%20%282%29.jpg\" style=\"height:127px; width:250px\"></p><p>A mass of dry air is entrapped in a uniform capillary tube, sealed at one end, by means of a mercury pellet. Both the tube and thermometer are then firmly attached a half-meter rule and placed in a water bath as shown above. The water is stirred and its temperature \\(\\theta_{1}\\) at a steady state is noted. The corresponding length, \\(L_{1}\\) of the entrapped air is also noted and recorded. The water is gradually heated and stirred uniformly until another steady temperature, \\(\\theta_{2}\\) is attained and recorded. The corresponding length, \\(L_{2}\\) of the air column in the capillary tube is again read and recorded. The experiment is repeated to obtain more sets of readings. A graph of L against \\(\\theta\\) is plotted as shown. </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0400%20%283%29.jpg\" style=\"height:181px; width:250px\"></p><p>Deduction: Since the volume V of the tube is proportional to its length, L the graph shows that the volume of the entrapped air increases (directly) with increase in temperature at constant pressure. </p><p>Precautions: Dry air must be used. Also, error of parallax in reading thermometer and meter rule avoided.</p><p>(b) \\(S = \\frac{V_{1} - V_{0}}{V_{0} \\theta}\\)</p><p>= \\(\\frac{18.7 - 13.7}{13.7 \\times 100}\\)</p><p>= \\(\\frac{5}{1370}\\)</p><p>= \\(3.65 \\times 10^{-3} K^{-1}\\)</p><p> (c) As temperature increases the kinetic energies the molecules increase and they bombard the wall the container at a faster rate since their velocities has increased. To keep the rate of change of momentum per unit area (i.e pressure) the same, the molecules will have to travel longer distances betweon collision This implies increase in volume. </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1993,
+        "question": "<p>(a) State the laws of electromagnetic induction.</p><p>(b) Draw a labelled diagram of a simple d.c. generator and explain how it works.</p><p>(c) State three methods by which higher e.m.f. could be obtained from the generator. </p>",
+        "answer": "<p>(a) Whenever there is a change in the magnetic flux linked with a circuit, an e.m.f. is induced, the strength of which is proportional to the rate of the change of the flux linked with the circuit. The direction of the induced current is always such as to oppose the change producing it. </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0400%20%284%29.jpg\" style=\"height:136px; width:250px\"></p><p>As coil is rotating in the magnetic field, an e.m.f which is due to the changing flux induces between its terminals. The e.m.f. varies from maximum when the coil is horizontal to minimum when the coil is vertical at which position connections between brushes and terminals of coil are changed by commutator. This ensures that current continues to flow in the same direction.</p><p>(c) – By increasing the number of turns – Winding the coil on the soft iron core – Increasing the strength of the magnet – turning the coil faster. </p>",
+        "type": "theory"
+    }
+]

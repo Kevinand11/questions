@@ -1,0 +1,50 @@
+[
+    {
+        "course": "biology",
+        "institution": "waec",
+        "order": 20,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22117213952_wcbio200420.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "cerebellum",
+            "cerebrum",
+            "olfactory lobe",
+            "medulla oblongata"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "waec",
+        "order": 21,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11058607424_wcbio200420.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "vision",
+            "involuntary actions",
+            "speech",
+            "voluntary action"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "biology",
+        "institution": "waec",
+        "order": 36,
+        "year": 2004,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20734899210_wcbio200436.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "maize and rabbits",
+            "chicken, rats and maize",
+            "eagle, maize and snakes",
+            "humans, eagle and snakes"
+        ],
+        "type": "objectives"
+    }
+]

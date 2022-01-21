@@ -1,0 +1,47 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2012,
+        "question": "<p>(a)</p><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2813%29.jpeg\" style=\"height:120px; width:167px\"></p><p>In the diagram illustrated, a body of mass m slides on an inclined plane. Show that the coefficient Mg of friction between the surfaces in contact is tan \\(\\theta\\).<br>\nA spiral spring with a metal extends by 10.5 cm in air. When the metal is fully submerged in water, the spring extends by 6.8 cm. Calculate the relative density of the metal. (Assume Hooke's law is obeyed)</p><p> </p>",
+        "answer": "<p>If F = uniform speed of body</p><p>\\(\\mu = \\frac{F}{R} = \\frac{Mg sin \\theta}{Mg cos \\theta} = tan \\theta\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2012,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2814%29.jpeg\" style=\"height:113px; width:302px\"></p><p>The diagram above illustrates an arrangement of a cathode ray from an electron gun and a bar magnet placed perpendicularly to the direction of the ray. Will the ray bend downward or upward? Explain.</p>",
+        "answer": "<p>The ray will bend upward. The direction of motion of the charge is due to the force acting on it which is mutually perpendicular to the direction of the magnetic field and the moving charge.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2012,
+        "question": "<p>(a) (i) What is a machine?</p><p>(ii) State two uses of gears.</p><p>(iii) Define the velocity ratio for a pair of gear wheels.</p><p>(iv) How can the mechanical advantage of a gear system be increased?</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2815%29.jpeg\" style=\"height:121px; width:255px\"><br>\nThe diagram above illustrates the gears system of a bicycle.</p><p>(i) Determine its velocity ratio.</p><p>(ii) If the bicycle has an efficiency of 90%, calculate the effort required to overcome a load of 70N.</p><p>(iii) Why is the calculated effort less than the actual effort required?</p>",
+        "answer": "<p>(a)(i) A machine is a device in which an effort applied at one end is used to overcome a load at another point. Machine makes work easier.</p><p>(ii) Uses of gears are: - to change speed to change direction of motion</p><p>- to magnify force.</p><p>(iii) Velocity ratio of a gear wheel is the ratio of number of teeth on driven wheel to number of teeth on driving wheel OR</p><p>Velocity ratio = \\(\\frac{\\text{Time rate of revolution/speed/radius of driven wheel}}{\\text{Time rate of revolution/speed/radius of driving wheel}}\\)</p><p>(iv) To increase the mechanical advantage, the driving gear is made smaller with fewer teeth than the driven gear.</p><p>(b) Number of teeth on driven gear = 12.</p><p>Number of teeth on driving gear = 18.</p><p>(i) V.R. = \\(\\frac{\\text{no. of teeth on driven gear}}{\\text{no. of teeth on driving gear}}\\) </p><p>= \\(\\frac{12}{8} = \\frac{2}{3}\\)</p><p>(ii) Efficiency - \\(\\frac{M.A}{V.R}\\) x 100% = x 100%</p><p>= \\(\\frac{L/E}{V.R}\\) x 100%</p><p>90 = \\(\\frac{70/E}{2/3}\\) x 100%</p><p>(iii) This is due to: - Friction between the tyres and load.</p><p>- Friction between chain and gear.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2012,
+        "question": "<p>(a) Explain the term critical angle.</p><p>(b) List two factors which determine the deviation of a ray of light by a triangular glass prism.</p><p>(c) The angle of refraction (r) of a ray of white light from air through a triangular glass prism of refractive index 1.5 is 29.0°. Calculate the angle through which the ray is least deviated.</p><p>(d) Study the ray diagram below and use it to answer the questions that follow.</p><p> </p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2816%29.jpeg\" style=\"height:162px; width:337px\"></p><p> </p><p>Calculate the:</p><p>(i) values of angles P,Q and R;</p><p>(ii) refractive index n of the glass prism;</p><p>(iii) value of e;</p><p>(iv) total deviation D.</p>",
+        "answer": "<p>Critical angle is the angle of incidence in the denser medium when the angle of refraction in the less dense medium is 90°.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2817%29.jpeg\" style=\"height:126px; width:270px\"></p><p>(b) Deviation of a ray in a triangular prism is determined by the factors:</p><p>- Angle of incidence</p><p>- Refracting angle of the prism, and</p><p>- Refractive index of the prism material.</p><p>(c) A = 2r = 2 x 29 = 58\\(^o\\)</p><p>But n = \\(\\frac{sin \\frac{1}{2} (A + Dm)}{sin \\frac{1}{2}A} \\)</p><p>sin \\(\\frac{1}{2}\\)(A + Dm) = n sin A \\(\\frac{1}{2}\\)A</p><p>58 + Dm = 93.32 - 58 = 35.32\\(^o\\)</p><p>(d) Angle P = 45° - 20° = 25°</p><p>But Angle Q = 180°- 60° = 120°</p><p>P +Q + R = 180°</p><p>Hence R = 180 - (P + Q) =180 - (25 + 120) = 35°</p><p>(ii) n = \\(\\frac{Sini}{sinP} = \\frac{sin45^o}{sin45^o} = 1.673\\)</p><p>(iii) n = \\(\\frac{sini}{sine} = \\frac{sine}{sinR} = \\frac{sinee^o}{sin35^o}\\)</p><p>= 1.673 = \\(\\frac{sine}{sin35^o}\\)</p><p>e = sin\\(^{-1}\\) (1.673 x sin 35\\(^o\\)) = 73.7\\(^o\\)</p><p>(iv) D = (i + e) - A = (45 + 73.3) - 60\\(^o\\)</p><p>= 58.3\\(^o\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2012,
+        "question": "<p>(a) Define magnetic line of force.</p><p>(b) A wire of length 10 cm carrying a current of 4.0 A is placed between the poles of a powerful electromagnet of magnetic flux density 2.0 T. Calculate the:</p><p>(i) force on the wire when it is parallel to the field;</p><p>(ii) maximum force on the wire;</p><p>(iii) force on the wire when it makes an angle of 60° with the field.</p><p>(c) Describe how keepers can be used to preserve the magnetic strength of permanent bar magnets.</p><p>(d) A sailor observes that his mariners' compass reads N 10° W at a place where the angle of declination is N15° W. Calculate the true bearing of the place.</p>",
+        "answer": "<p>(a) Magnetic line of force is defined as an imaginary line in a mangetic field along which a free or isolated north pole would move. OR, it is an imaginary line in a magnetic field such that the targent to it at any point gives the direction of the field at that point.</p><p> </p><p>(b) F = 1BL Sin\\(\\theta\\)</p><p>(i) When wire is parallel to the field F = IBL = 4x 2 x 0.1 =0N</p><p>(ii) When force is maximum F = IBL Sin90° = 4 x 2 x 0.1 x Sin90°= 0.8N</p><p>(iii) When the wire is at 60° to the field</p><p>F = IBL Sin\\(\\theta\\) = 4 x 2 x 0.1 x Sin60° = 0.693N</p><p> </p><p>(c) Magnets are stored in pairs with their poles adjacent, placing soft iron pieces called keepers across their ends. The keepers become magnets by induction decreasing the reluctance of the air gap; hence both magnets and keepers form closed loops with no free poles preventing demagnetization</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%2818%29.jpeg\" style=\"height:99px; width:273px\">.<br>\n </p><p>(d) True bearing = 15 + 10 = N25°W.</p><p> </p>",
+        "type": "theory"
+    }
+]

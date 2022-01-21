@@ -1,0 +1,130 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2000,
+        "question": "An engineer intends to deviate a light ray from its path by 120<sup>o</sup>through reflection from a plane mirror. Calculate the angle of incidence",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4076687349_phy200017.jpg\" class=\"img-fluid\">\n</div>Angle of deviation = 180 - [i + v]<br>= 180 - 2i [since i = v]<br>∴ 120 = 180 - 2i<br>2i = 180 - 120<br>= 60<br>∴ i = 30<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "60<sup>o</sup>",
+            "40<sup>o</sup>",
+            "30<sup>o</sup>",
+            "20<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20383450965_phy200026.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "Alcohol, mercury and alcohol",
+            "Air, alcohol and mercury",
+            "Mercury, alcohol and mercury",
+            "Air, mercury and alcohol"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13588973610_phy200028.jpg\" class=\"img-fluid\">",
+        "explanation": "Since capacitance C = Q/V, =&gt; Q = CV<br>∴ Q<sub>p</sub>= 5 x 10<sup>-b</sup>x 20<br>= 100 x 10<sup>-b</sup>or 100μC<br>Q<sub>p</sub>= 10 x 10<sup>-b</sup>x 70<br>= 200 x 10<sup>-b</sup>or 200μC<br>Correct option 100μC and 200μC",
+        "correctIndex": 2,
+        "options": [
+            "2μC and 4μC",
+            "4μC and 2μC",
+            "100μC and 200μC",
+            "200μC and 100μC"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21742385264_phy200030.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "red, green and blue",
+            "Green, red and blue",
+            "Yellow , blue and red",
+            "Blue , yellow and red"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8153400570_phy200031.jpg\" class=\"img-fluid\">",
+        "explanation": "Effective resistance in the circuit<br>= 3 + 2 + 1 = 6Ω<br>Current through the I = E/(R+V)<br>∴I =<sup>2</sup>/<sub>6</sub><br>=&gt; V<sub>1</sub>= I x R<sub>1</sub><sup>2</sup>/<sub>6</sub>x<sup>3</sup>/<sub>1</sub>= 1V<br>= V<sub>2</sub>= I x R<sub>2</sub>=<sup>2</sup>/<sub>6</sub>x<sup>2</sup>/<sub>1</sub>=<sup>2</sup>/<sub>3</sub>V<br>∴ we have 1V and<sup>2</sup>/<sub>3</sub>V",
+        "correctIndex": 3,
+        "options": [
+            "1V and<sup>1</sup>/<sub>3</sub>V",
+            "<sup>1</sup>/<sub>3</sub>V and 1V",
+            "<sup>1</sup>/<sub>3</sub>V and<sup>2</sup>/<sub>3</sub>V",
+            "1V and<sup>2</sup>/<sub>3</sub>V"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16306804956_phy200039.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "between P and Q",
+            "Q",
+            "S",
+            "P"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13589009420_phy200043.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "P",
+            "Y",
+            "X",
+            "Q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4076704545_phy200049.jpg\" class=\"img-fluid\">",
+        "explanation": "<span style=\"white-space: nowrap; font-size:larger\">Impedance Z = <br>\n√<span style=\"text-decoration:overline;\"> R<sup>2</sup> x X<sup>2</sup> </span><br>\n</span><br><span style=\"white-space: nowrap; font-size:larger\">= <br>\n√<span style=\"text-decoration:overline;\"> 30<sup>2</sup> x 40<sup>2</sup> </span><br>\n</span><br>∴<span style=\"white-space: nowrap; font-size:larger\">Z =<br>\n√<span style=\"text-decoration:overline;\"> 2500 </span> = 50W<br>\n</span><br>But current I =<sup>V</sup>/<sub>Z</sub>=<sup>200</sup>/<sub>50</sub>= 4.00 A",
+        "correctIndex": 2,
+        "options": [
+            "0.58 A",
+            "3.00 A",
+            "4.00 A",
+            "6.67 A"
+        ],
+        "type": "objectives"
+    }
+]

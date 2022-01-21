@@ -1,0 +1,50 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12822986898_scan%20work.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "R",
+            "P",
+            "S",
+            "Q"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8548659216_co.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21371649570_co1.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The compound is BUTAN-2-OL, a secondary alcohol</p>",
+        "correctIndex": 2,
+        "options": [
+            "glycol",
+            "primary alkanol",
+            "secondary alkanol",
+            "tertiary alkanol"
+        ],
+        "type": "objectives"
+    }
+]

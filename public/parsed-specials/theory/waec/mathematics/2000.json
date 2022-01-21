@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2000,
+        "question": "<p>Using ruler and a pair of compasses only,</p><p>(a) construct \\(\\Delta PQR\\) such that |PQ| = 7 cm, |PR| = 6 cm and &lt; PQR = 60°.</p><p>(b) locate point M, the mid-point of PQ.</p><p>(c) Measure &lt; RMQ.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0267%20%282%29.jpg\" style=\"height:288px; width:300px\">  &lt; RMQ = 60°.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2000,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%282%29.jpg\" style=\"height:238px; width:250px\"> </p><p>The pie chart shows the distribution of marks scored by 200 pupils in a test. </p><p>(a) How many pupils scored : (i) between 41 and 50 marks? ; (ii) above 80 marks ?</p><p>(b) What fraction of the pupils scored at most 50 marks?</p><p>(c) What is the modal class?</p>",
+        "answer": "<p>(a)(i) The number of pupils who scored between 41 and 50 marks = \\(\\frac{90}{360} \\times 200 = 50\\)</p><p>(ii) The angles for pupils above 60 marks = 54° + 36° + 18° = 108°</p><p>\\(\\frac{108}{360} \\times 200 = 60\\)</p><p>(b) The fraction of the pupils who scored at least 50 marks : \\(\\frac{54 + 90}{360} = \\frac{2}{5}\\)</p><p>(c) The modal class = 51 - 60; It has the largest angle in the pie- chart.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2000,
+        "question": "<p>(a) Copy and complete the following table of values for the relation \\(y = x^{2} - 2x - 5\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td> </td>\n<td>-2</td>\n<td> </td>\n<td>-6</td>\n<td>-2</td>\n<td>3</td>\n<td>10</td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) Draw the graph of the relation \\(y = x^{2} - 2x - 5\\); using a scale of 2 cm to 1 unit on the x- axis, and 2 cm to 2 units on the y- axis.</p><p>(c) Using the same axes, draw the graph of \\(y = 2x + 3\\).</p><p>(d) Obtain in the form \\(ax^{2} + bx + c = 0\\) where a, b and c are integers, the equation which is satisfied by the x- coordinate of the points of intersection of the two graphs.</p><p>(e) From your graphs, determine the roots of the equation obtained in (d) above.</p><p> </p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(x^{2}\\)</td>\n<td>9</td>\n<td>4</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>4</td>\n<td>9</td>\n<td>16</td>\n<td>25</td>\n</tr>\n<tr>\n<td>\\(-2x\\)</td>\n<td>6</td>\n<td>4</td>\n<td>2</td>\n<td>0</td>\n<td>-2</td>\n<td>-4</td>\n<td>-6</td>\n<td>-8</td>\n<td>-10</td>\n</tr>\n<tr>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n<td>-5</td>\n</tr>\n<tr>\n<td>y</td>\n<td>10</td>\n<td>3</td>\n<td>-2</td>\n<td>-5</td>\n<td>-6</td>\n<td>-5</td>\n<td>-2</td>\n<td>3</td>\n<td>10</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%282%29.jpg\" style=\"height:341px; width:300px\"></p><p>(c) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>\\(2x\\)</td>\n<td>-6</td>\n<td>-4</td>\n<td>-2</td>\n<td>0</td>\n<td>2</td>\n<td>4</td>\n<td>6</td>\n<td>8</td>\n<td>10</td>\n</tr>\n<tr>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n<td>-3</td>\n</tr>\n<tr>\n<td>y</td>\n<td>-9</td>\n<td>-7</td>\n<td>-5</td>\n<td>-3</td>\n<td>-1</td>\n<td>1</td>\n<td>3</td>\n<td>5</td>\n<td>7</td>\n</tr>\n</tbody>\n</table><p>(d) \\(x^{2} - 2x - 5 = 2x - 3\\)</p><p>\\(x^{2} - 2x - 2x - 5 + 3 = 0\\)</p><p>\\(x^{2} - 4x - 2 = 0\\)</p><p>(e) x = -0.8 or 4.3</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2000,
+        "question": "<p>(a) The mean of 1, 2, x, 11, y, 14, arranged in ascending order, is 8 and the median is 9. Find the values of x and y.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%283%29.jpg\" style=\"height:212px; width:250px\"></p><p>In the diagram, MN || PQ, |LM| = 3cm and |LP| = 4cm. If the area of \\(\\Delta\\) LMN is 18\\(cm^{2}\\), find the area of the quadrilateral MPQN.</p>",
+        "answer": "<p>(a) Mean \\(\\bar{x} = \\frac{\\sum x}{n} = 8\\)</p><p>\\(\\frac{1 + 2 + x + 11 + y + 14}{6} = 8\\)</p><p>\\(28 + x + y = 48 \\implies x + y = 20 .... (1) \\)</p><p>The middle numbers are x and 11 therefore, \\(\\frac{x + 11}{2} = 9\\)</p><p>\\(x + 11 = 18 \\implies x = 18 - 11 = 7\\)</p><p>Putting x = 7 in (1),</p><p>\\(7 + y = 20 \\implies y = 20 - 7 = 13\\)</p><p>(x, y) = (7, 13).</p><p>(b) \\(\\frac{LM}{LP} = \\frac{3}{4}\\)</p><p>\\(\\frac{\\text{Area of LMN}}{\\text{Area of LPQ}} = \\frac{3^{2}}{4^{2}}\\)</p><p>Area of \\(\\Delta\\) LPQ = \\(\\frac{16}{9} \\times 18 = 32 cm^{2}\\)</p><p>\\(\\therefore \\text{Area of quadrilateral MPQN} = 32 - 18 = 14 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2000,
+        "question": "<p>(a) A surveyor walks 100m up a hill which slopes at an angle of 24° to the horizontal. Calculate, correct to the nearest metre, the height through which he rises.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%284%29.jpg\" style=\"height:191px; width:250px\"></p><p>In the diagram, ABC is an isosceles triangle. |AB| = |AC| = 5 cm, and |BC| = 8 cm. Calculate, correct to the nearest degree, &lt; BAC.</p><p>(c) Two boats, 70 metres apart and on opposite sides of a light-house, are in a straight line with the light-house. The angles of elevation of the top of the light-house from the two boats are 71.6° and 45°. Find the height of the light-house. [Take \\(\\tan 71.6° = 3\\)].</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%289%29_LI.jpg\" style=\"height:185px; width:200px\"> \\(\\frac{h}{100} = \\sin 24\\)</p><p>\\(h = 100 \\sin 24\\)</p><p>= \\(100 \\times 0.4067\\)</p><p>= \\(40.67m\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%283%29.jpg\" style=\"height:166px; width:200px\"> \\(\\sin \\theta = \\frac{4}{5} = 0.8\\)</p><p>\\(\\theta = \\sin^{-1} (0.8) = 53.13°\\)</p><p>\\(&lt; BAC = 2 \\theta = 2(53.13°)\\)</p><p>= \\(106.26°\\)</p><p>\\(\\approxeq 106°\\) (to the nearest degree).</p><p>(c) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%285%29_LI.jpg\" style=\"height:163px; width:250px\"> </p><p>In \\(\\Delta PSQ\\),</p><p>\\(\\frac{h}{PQ} = \\tan 71.6\\)</p><p>\\(PQ = \\frac{h}{\\tan 71.6}\\)</p><p>In \\(\\Delta QSR\\),</p><p>\\(\\frac{h}{QR} = \\tan 45\\)</p><p>\\(QR = \\frac{h}{\\tan 45}\\)</p><p>\\(PR = PQ + QR\\)</p><p>\\(\\frac{h}{3} + h = 70 \\implies \\frac{4}{3}h = 70\\)</p><p>\\(h = \\frac{70 \\times 3}{4} = 52.5m\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2000,
+        "question": "<p>(a) A cylindrical well of radius 1 metre is dug out to a depth of 8 metres. (i) calculate, in m\\(^{3}\\), the volume of soil dug out ; (ii) if the soil is used to raise the level of rectangular floor of a room 4m by 12m, calculate, correct to the nearest cm, the thickness of the new layer of soil. [Take \\(\\pi = \\frac{22}{7}\\)].</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%285%29.jpg\" style=\"height:196px; width:250px\"></p><p>The diagram shows a quadrilateral ABCD in which &lt; DAB is a right- angle. |AB| = 3.3 cm, |BC| = 3.9 cm, |CD| = 5.6 cm. (i) find the length of BD. (ii) show that &lt; BCD = 90°.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%285%29.jpg\" style=\"height:250px; width:192px\"> (i) r = 1m, h = 8m.</p><p>\\(V = \\pi r^{2} h = \\frac{22}{7} \\times 1^{2} \\times 8\\)</p><p>= \\(\\frac{176}{7}\\)</p><p>= \\(25.14 m^{3}\\)</p><p>(ii) \\(V = L \\times B \\times H\\)</p><p>\\(\\frac{176}{7} = 4 \\times 12 \\times h\\)</p><p>\\(h = \\frac{176}{7} \\div 48\\)</p><p>\\(h = \\frac{11}{21}m\\)</p><p>= \\(\\frac{1100}{21} cm = 52.38 cm\\)</p><p>\\(\\approxeq 52 cm\\) (nearest whole number)</p><p>(b)(i) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%286%29.jpg\" style=\"height:183px; width:200px\">\\(3.3^{2} + 5.6^{2} = BD^{2}\\)</p><p>\\(BD = \\sqrt{3.3^{2} + 5.6^{2}}\\)</p><p>= \\(\\sqrt{10.89 + 31.36}\\)</p><p>= \\(\\sqrt{42.25} = 6.5 cm\\)</p><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0268%20%287%29.jpg\" style=\"height:202px; width:250px\"></p><p>If &lt; BCD is right- angled, then Pythagoras rule holds true.</p><p>\\(BD^{2} = 5.2^{2} + 3.9^{2} = 27.04 + 15.21\\)</p><p>= \\(42.25\\)</p><p>\\(BD = \\sqrt{42.25} = 6.5 cm\\)</p><p>Hence, \\(\\Delta BCD\\) is right-angled.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2000,
+        "question": "<p>(a) Two places X and Y on the equator are on longitudes 67°E and 123°E respectively. (i) What is the distance between them along the equator? (ii) How far from the North pole is X? [Take \\(\\pi = \\frac{22}{7}\\) and radius of earth = 6400km].</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0266%20%286%29_LI.jpg\" style=\"height:254px; width:250px\"> In the diagram, PQR is a circle centre O. N is the mid-point of chord PQ. |PQ| = 8cm, |ON| = 3cm and &lt; ONR = 20°. Calculate the size of &lt; ORN to the nearest degree.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0269%20%282%29.jpg\" style=\"height:153px; width:250px\">  Longitude difference = 123° - 67° = 56°</p><p>(i) Distance between X and Y along the equator = \\(\\frac{56}{360} \\times 2 \\times \\frac{22}{7} \\times 6400 \\cos 0\\)</p><p>= \\(\\frac{56}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>= \\(6257.78km \\approxeq 6258km\\)</p><p>(ii) Latitude difference =  90° </p><p>Distance from the North pole = \\(\\frac{90}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>= \\(10057.14km \\approxeq 10057km\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0269%20%283%29_LI.jpg\" style=\"height:259px; width:250px\"></p><p>\\(OP^{2} = PN^{2} + ON^{2}\\)</p><p>\\(4^{2} + 3^{2} = 25\\)</p><p>\\(OP = \\sqrt{25} = 5cm\\)</p><p>\\(OP = OR = 5cm\\)</p><p>\\(\\Delta NOR = scalene\\)</p><p>\\(\\frac{OR}{\\sin 20} = \\frac{3}{\\sin &lt; ORN}\\)</p><p>\\(\\frac{5}{\\sin 20} = \\frac{3}{\\sin &lt; ORN}\\)</p><p>\\(\\sin &lt; ORN = \\frac{3 \\times \\sin 20}{5}\\)</p><p>\\(\\sin &lt; ORN = 0.2052\\)</p><p>\\(&lt; ORN = \\sin^{-1} (0.2052)\\)</p><p>\\(&lt; ORN = 11.84° \\approxeq 12°\\)</p><p> </p>",
+        "type": "theory"
+    }
+]

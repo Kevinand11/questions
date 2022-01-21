@@ -1,0 +1,178 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25818841386_16.jpg\" class=\"img-fluid\">",
+        "explanation": "Given q<sup>2</sup>= 25 - r<sup>2</sup>.....(1)<br><br>from Pythagoras theorem<br><br>p<sup>2</sup>= q<sup>2</sup>+ r<sup>2</sup>....(2)<br><br>put(1) into (2)<br><br>p<sup>2</sup>= 25 - r<sup>2</sup>+ r<sup>2</sup><br><br>p<sup>2</sup>= 25<br><br>p = \\(\\sqrt{25}\\)",
+        "correctIndex": 2,
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14343821770_20.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25818846354_ans20.jpg\" class=\"img-fluid\">\n</div>Since |PR| = |RS| = |SP|<br><br>\\(\\bigtriangleup\\) PRS is equilateral and so &lt; RPS = &lt; PRS = &lt; PSR = 70<sup>o</sup><br><br>But &lt; PQR + &lt; PSR = 180<sup>o</sup>(Opposite interior angles of a cyclic quadrilateral)<br><br>&lt; PQR + 60 = 180<sup>o</sup><br><br>&lt; PR = 180 - 60 = 120<sup>o</sup><br><br>But in \\(\\bigtriangleup\\) PQR, PQ = PR, hence &lt; QPR = &lt; PRQ(Base angles of an Isosceles triangle)<br><br>&lt; QPR + &lt; PRQ + &lt; PQR = 180<sup>o</sup>(Angles in a triangle)<br><br>2 &lt; QPR + 120 = 18-<br><br>2 &lt; QPR = 180 - 120<br><br>QPR = \\(\\frac{60}{2}\\) = 30<sup>o</sup><br><br>From the diagram, &lt; QRS = &lt; PRQ + &lt; PRS<br><br>30 + 60 = 90<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "150<sup>o</sup>",
+            "120<sup>o</sup>",
+            "90<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28688893720_21.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; QPR + &lt; PRQ = &lt; RQS<br><br>(Sum of two interior angles of a triangle = Opposite exterior angles)<br><br>70<sup>o</sup>+ &lt; PRQ = 148<br><br>&lt; PRQ = 148<sup>o</sup>- 70<sup>o</sup><br><br>= 78<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "128<sup>o</sup>",
+            "108<sup>o</sup>",
+            "98<sup>o</sup>",
+            "78<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1434445349_22.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram, &lt; QPS = x<sup>o</sup>(Corresponding angles)<br><br>Also, &lt; QPS = &lt; PSR(Alternate angles)<br><br>x = 42<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "84<sup>o</sup>",
+            "48<sup>o</sup>",
+            "42<sup>o</sup>",
+            "32<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7172232545_24.jpg\" class=\"img-fluid\">",
+        "explanation": "From the diagram, XYZQ is a parallelogram. Thus, |YZ| = |XQ| = |PX|; \\(\\bigtriangleup\\)PXY, Let the area of XYZQ = A<sub>1</sub>, the area of \\(\\bigtriangleup\\)PXY<br><br>= Area of \\(\\bigtriangleup\\)YZR = A<sub>2</sub><br><br>Area of \\(\\bigtriangleup\\)PQR = A = A<sub>1</sub>+ 2A<sub>2</sub><br><br>But from similarity of triangles<br><br>\\(\\frac{\\text{Area of PQR}}{\\text{Area of PXY}} = (\\frac{PQ}{PX})^2 = (\\frac{QR}{XY})^2\\)<br><br>\\(\\frac{A}{A_2} = (\\frac{2}{1})^2 = \\frac{2}{1}\\)<br><br>A = 4A<sub>2</sub>But, A = A<sub>1</sub>+ 2A<sub></sub><br><br>A<sub>1</sub>= 4A<sub>2</sub>- 2A<sub>2</sub><br><br>A<sub>1</sub>= 2A<sub>2</sub><br><br>\\(\\frac{A_1}{A_2}\\) = 2<br><br>A<sub>1</sub>:A<sub>2</sub>= 2:1<br><br><br>Area of XYZQ:Area of \\(\\bigtriangleup\\)YZR = 2:1",
+        "correctIndex": 1,
+        "options": [
+            "1:2",
+            "2:1",
+            "1:2",
+            "3:1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5737796568_25.jpg\" class=\"img-fluid\">",
+        "explanation": "x = 65<sup>o</sup>(An interior angle of a cyclic quadrilateral = opposite exterior angle).",
+        "correctIndex": 1,
+        "options": [
+            "25<sup>o</sup>",
+            "65<sup>o</sup>",
+            "115<sup>o</sup>",
+            "130<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4303353117_38.jpg\" class=\"img-fluid\">",
+        "explanation": "Perimeter of \\(\\bigtriangleup\\) PQR = PQ + QR + PR<br><br>24cm = 6cm + 8cm = PR<br><br>24 = 14 + PR<br><br>PR = 24 - 14 = 10cm<br><br>Area of \\(\\bigtriangleup\\) PRS = \\(\\frac{1}{2} \\times 10 \\times 3cm^3\\)<br><br>= 15cm<sup>3</sup>",
+        "correctIndex": 1,
+        "options": [
+            "19.5cm<sup>2</sup>",
+            "15.0cm<sup>2</sup>",
+            "13.0cm<sup>2</sup>",
+            "9.3cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10041159023_44.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/11475610312_ans44.jpg\" class=\"img-fluid\">\n</div>\\(\\bigtriangleup\\) RST is equilateral triangle, hence<br><br>&lt; TRS = &lt; RTS = &lt; RSt = 60<sup>o</sup><br><br>But &lt; PTR = 60<sup>o</sup>(Angle between a chord and a tangent at the point of contact = Angle in the alt. segment). From the diagram &lt; PTS = &lt; PTR + &lt; RTS<br><br>= 60<sup>o</sup>+ 60<sup>o</sup>= 120<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "60<sup>o</sup>",
+            "90<sup>o</sup>",
+            "120<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2008,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/21516780495_45.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4303356099_45.jpg\" class=\"img-fluid\">\n</div>&lt; RQT = &lt; QRS = 2x (Alternate angles). But in \\(\\bigtriangleup\\) PRQ<br><br>50 + 60 + (2x + 3x) = 180<sup>o</sup>(Angles in a triangle)<br><br>110 + 5x = 180<sup>o</sup><br><br>5x = 180<sup>o</sup>- 110 = 70<sup>o</sup><br><br>x = \\(\\frac{70}{5}\\) = 14<sup>o</sup><br><br>Also y + 50 + 2(14) = 180<sup>o</sup><br><br>y + 50 + 28 = 180<sup>o</sup><br><br>y = 180 - 78<br><br>y = 102<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "102<sup>o</sup>",
+            "78<sup>o</sup>",
+            "70<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2008,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191216_103708%20%282%29.jpg\" style=\"height:262px; width:250px\"></p><p>In the diagram, find the size of the angle marked a°</p>",
+        "explanation": "<p>2 x s = 280°(Angle at centre = 2 x &lt; at circum)<br>\n<br>\nS = \\(\\frac{280^o}{2}\\)<br>\n<br>\n= 140°<br>\n<br>\n&lt; O = 360 - 280 = 80°<br>\n<br>\n60 + 80 + 140 + a = 360°<br>\n<br>\n(&lt; in a quad); 280 + a = 360<br>\n<br>\na = 360 - 280<br>\n<br>\na = 80°</p>",
+        "correctIndex": 1,
+        "options": [
+            "60<sup>o</sup>",
+            "80<sup>o</sup>",
+            "120<sup>o</sup>",
+            "160<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2008,
+        "question": "Every staff in an office owns either a Mercedes and/or a Toyota car. 20 own Mercedes, 15 own Toyota and 5 own both. How many staff are there in the office?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/7172267045_ans33.jpg\" class=\"img-fluid\">\n</div>M = Mercedez; T = Toyota<br><br>Number of staff = 0 + (20 - 5) + (15 - 5) + 5<br><br>0 + 15 + 10 + 5 = 30",
+        "correctIndex": 1,
+        "options": [
+            "25",
+            "30",
+            "35",
+            "45"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2002,
+        "question": "<p>The sets A = {1, 3, 5, 7, 9, 11}, B = {2, 3, 5, 7, 11, 15} and C = {3, 6, 9, 12, 15} are subsets of \\(\\varepsilon\\) = {1, 2, 3, ..., 15}.</p><p>(a) Draw a Venn diagram to illustrate the given information.</p><p>(b) Use your diagram to find : (i) \\(C \\cap A'\\) ; (ii) \\(A' \\cap (B \\cup C)\\).</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0259%20%283%29_LI.jpg\" style=\"height:125px; width:450px\"></p><p>(b)(i) \\(C \\cap A' = {15}\\)</p><p>(ii) \\(A' \\cap (B \\cup C) = {2, 6, 12, 15}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 4,
+        "year": 2002,
+        "question": "<p>(a) Without using calculator or mathematical tables, evaluate \\(\\frac{3}{\\sqrt{3}}(\\frac{2}{\\sqrt{3}} - \\frac{\\sqrt{12}}{6})\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0258%20%282%29.jpg\" style=\"height:296px; width:250px\"> In the diagram, O is the centre of the circle. The side AB is produced to E, &lt; ACB = 49° and &lt; CBE = 68°. Calculate, </p><p>(i) the interior angle AOC ; (ii) &lt; BOC.</p>",
+        "answer": "<p>(a) \\(\\frac{3}{\\sqrt{3}}(\\frac{2}{\\sqrt{3}} - \\frac{\\sqrt{12}}{6})\\)</p><p>= \\(\\frac{6}{\\sqrt{9}} - \\frac{3\\sqrt{12}}{6\\sqrt{3}}\\)</p><p>= \\(2 - \\frac{2\\sqrt{3}}{2\\sqrt{3}}\\)</p><p>= \\(2 - 1 = 1\\)</p><p>(b)(i) \\(&lt; ABC = 180° - 68° = 112°\\)</p><p>\\(&lt; AOC = 2 \\times 112° = 224°\\)</p><p>\\(\\hat{O} = &lt; AOC (obtuse)\\)</p><p>= \\(360° - 224° = 136°\\)</p><p>(ii) In \\(\\Delta AOC\\), OA = OC (radii)</p><p>\\(\\therefore \\Delta AOC = isosceles\\)</p><p>\\(\\hat{A} = &lt; OAC ; \\hat{C} = &lt; ACO ; \\hat{A} = \\hat{C} = x\\)</p><p>\\(\\hat{O} + \\hat{A} + \\hat{C} = 180°\\)</p><p>\\(136° + x + x = 180° \\implies 2x = 44°\\)</p><p>\\(x = 22°\\)</p><p>In \\(\\Delta BOC\\), OB = OC (radii)</p><p>\\(\\therefore \\Delta BOC = isosceles\\)</p><p>\\(&lt; OCB = 49° + 22°= 71°\\)</p><p>\\(&lt; OBC = &lt; OCB = 71°\\)</p><p>\\(&lt; OBC + &lt; OCB + &lt; BOC = 180°\\)</p><p>\\(71° + 71° + &lt; BOC = 180°\\)</p><p>\\(&lt; BOC = 180° - 142° = 38°\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2002,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0258%20%283%29.jpg\" style=\"height:372px; width:245px\"> The diagram is a portion of a right circular solid cylinder of radius 7 cm and height 15 cm. The centre of the base of the cylinder is Q, while that of the top is B, where \\(\\stackrel\\frown{ABC} = \\stackrel\\frown{PQR} = 120°\\). Calculate, correct to one decimal place:</p><p>(a) The volume </p><p>(b) the total surface area of the solid. [Take \\(\\pi = \\frac{22}{7}\\)].</p>",
+        "answer": "<p>(a) Area of the major sector = \\(\\frac{\\theta}{360°} \\times \\pi r^{2}\\)</p><p>= \\(\\frac{360 - 120}{360} \\times \\frac{22}{7} \\times 7 \\times 7\\)</p><p>= \\((\\frac{2}{3} \\times 154) cm^{2}\\)</p><p>Volume = \\(\\text{Area of the major sector} \\times \\text{height (cross section)}\\)</p><p>= \\(\\frac{2}{3} \\times 154 \\times 15 = 1540 cm^{3}\\)</p><p>(b) Curved surface area = \\(\\frac{240}{360} \\times 2\\pi rh\\)</p><p>= \\(\\frac{240}{360} \\times 2 \\times \\frac{22}{7} \\times 7 \\times 15\\)</p><p>= \\(440 cm^{2}\\)</p><p>Area of rectangular surface = \\(2 \\times l \\times b\\)</p><p>= \\(2 \\times 7 \\times 15 = 210 cm^{2}\\)</p><p>Area of top and bottom of cylinder (major sector) </p><p>= \\(2 \\times \\frac{240}{360} \\times \\frac{22}{7} \\times 7 \\times 7\\)</p><p>= \\(205.33 cm^{2}\\)</p><p>\\(\\therefore \\text{Total surface area} = 440 + 205.33 + 210 = 855.33 cm^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 2002,
+        "question": "<p>Using ruler and a pair of compasses only, </p><p>(a) construct, (i) triangle XYZ with |XY| = 8cm, &lt; YXZ = 60° and &lt; XYZ = 30° ; (ii) the perpendicular ZT to meet XY in T ; (iii) the locus \\(l_{1}\\) of points equidistant from ZY and XY.</p><p>(b) If \\(l_{1}\\) and ZT intersect at S, measure |ST|.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0260%20%283%29.jpg\" style=\"height:209px; width:350px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2002,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0258%20%284%29_LI.jpg\" style=\"height:148px; width:250px\">In the diagram, /PQ/ = 8m, /QR/ = 13m, the bearing of Q from P is 050° and the bearing of R from Q is 130°.</p><p>(a) Calculate, correct to 3 significant figures, (i) /PR/ ; (ii) the bearing of R from P.</p><p>(b) Calculate the shortest distance between Q and PR, hence the area of triangle PQR.</p>",
+        "answer": "<p>(a)(i) &lt; PQR = (180° - 130°) + 50° = 100°</p><p>\\(PR^{2} = PQ^{2} + QR^{2} - 2(PQ)(QR) \\cos &lt; PQR\\)</p><p>= \\(8^{2} + 13^{2} - 2(8)(13) \\cos 100\\)</p><p>= \\(233 + 36.118\\)</p><p>\\(PR^{2} = 269.118\\)</p><p>\\(PR = 16.405 m \\approxeq 16.4 m\\)</p><p>(ii) \\(\\frac{QR}{\\sin &lt; QPR} = \\frac{PR}{\\sin &lt; PQR}\\)</p><p>\\(\\frac{13}{\\sin &lt; QPR} = \\frac{16.4}{\\sin 100}\\)</p><p>\\(\\sin &lt; QPR = \\frac{13 \\times \\sin 100}{16.4}\\)</p><p>\\(\\sin &lt; QPR = 0.7806\\)</p><p>\\(&lt; QPR = 51.32° \\approxeq 51.3°\\)</p><p>The bearing of R from P = 50° + 51.3° = 101.3° </p><p>\\(\\approxeq\\) 101°.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0261%20%283%29.jpg\" style=\"height:224px; width:250px\"> </p><p>In \\(\\Delta PQD\\),</p><p>\\(\\frac{h}{8} = \\sin 51.3\\)</p><p>\\(h = 8 \\sin 51.3\\)</p><p>= \\(6.243 m \\)</p><p>\\(\\approxeq 6.24 m\\)</p><p>Area of \\(\\Delta PQR = \\frac{1}{2} \\times PR \\times h\\)</p><p>\\(\\frac{1}{2} \\times 6.24 \\times 16.4 = 51.166 m^{2}\\)</p><p>\\(\\approxeq 51.2 m^{2}\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2002,
+        "question": "<p>The following data gives the lengths, in cm, of 30 pieces of iron rods :</p><p>45 55 65 60 61 68 59 54 64 76 50 68 72 68 80 67 70 62 79 67 64 63 71 59 64 53 57 74 55 57</p><p>(a) Using class intervals of 45 - 49, 50 - 54, 55 - 59, ... construct a frequency table of the data.</p><p>(b) Draw the histogram for the distribution</p><p>(c) Calculate the mean of the distribution</p><p>(d) What is the probability of selecting  an iron rod whose length is in the modal class?</p>",
+        "answer": "<p>(a) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:70%\">\n<tbody>\n<tr>\n<td>\n<p>Class</p>\n<p>Interval</p>\n</td>\n<td>Freq (f)</td>\n<td>Tally</td>\n<td>\n<p>Mid-point</p>\n<p>(x)</p>\n</td>\n<td>\\(fx\\)</td>\n</tr>\n<tr>\n<td>45 - 49</td>\n<td>1</td>\n<td>|</td>\n<td>47</td>\n<td>47</td>\n</tr>\n<tr>\n<td>50 - 54</td>\n<td>3</td>\n<td>|||</td>\n<td>52</td>\n<td>156</td>\n</tr>\n<tr>\n<td>55 - 59</td>\n<td>6</td>\n<td><s>||||</s> |</td>\n<td>57</td>\n<td>342</td>\n</tr>\n<tr>\n<td>60 - 64</td>\n<td>7</td>\n<td><s>||||</s> ||</td>\n<td>62</td>\n<td>434</td>\n</tr>\n<tr>\n<td>65 - 69</td>\n<td>6</td>\n<td><s>||||</s> |</td>\n<td>67</td>\n<td>402</td>\n</tr>\n<tr>\n<td>70 - 74</td>\n<td>4</td>\n<td>||||</td>\n<td>72</td>\n<td>288</td>\n</tr>\n<tr>\n<td>75 - 79</td>\n<td>2</td>\n<td>||</td>\n<td>77</td>\n<td>154</td>\n</tr>\n<tr>\n<td>80 - 84</td>\n<td>1</td>\n<td>|</td>\n<td>82</td>\n<td>82</td>\n</tr>\n<tr>\n<td>\\(\\sum\\)</td>\n<td>30</td>\n<td> </td>\n<td>1905</td>\n<td> </td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0261%20%284%29.jpg\" style=\"height:231px; width:350px\"></p><p>(c) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{1905}{30}\\)</p><p>= \\(63.5\\).</p><p>(d) P(iron rod in modal class) = \\(\\frac{7}{30}\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2002,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0259%20%282%29.jpg\" style=\"height:354px; width:300px\"></p><p>Given is the graph of the relation \\(y = ax^{2} + bx + c\\) where a, b and c are constants. Use the graph to :</p><p>(a) find the roots of the equation \\(ax^{2} + bx + c = 0\\);</p><p>(b) determine the values of constants a, b and c in the relation using the values of the coordinates P and Q and hence write down the relation illustrated in the graph</p><p>(c) find the maximum value of y and the corresponding value of x at this point.</p><p>(d) find the values of x when y = 2.</p>",
+        "answer": "<p>(a) The roots of the equation are -1.5 or 2.</p><p>(b) C = 6 (intercept on the positive vertical axis)</p><p>\\(ax^{2} + bx + c = 0\\)</p><p>When x = 2, c = 6</p><p>\\(4a + 2b + 6 = 0 \\implies 4a + 2b = -6 ....(1)\\)</p><p>When x = -1.5, c = 6</p><p>\\(a(-1.5)^{2} + b(-1.5) = -6\\)</p><p>\\(\\frac{9a}{4} - \\frac{3b}{2} = -6 \\implies 9a - 6b = -24 ... (2)\\)</p><p>Multiply (1) by 3 : \\(12a + 6b = -18 ... (1a)\\)</p><p>(1a) + (2) : \\(12a + 9a = -18 - 24 \\implies 21a = -42\\)</p><p>\\(a = -2\\)</p><p>\\(4a + 2b = -6 \\implies 4(-2) + 2b = -6\\)</p><p>\\(2b = -6 + 8 = 2 \\implies b = 1\\)</p><p>(a, b, c) = (-2, 1, 6)</p><p>Hence the relation illustrated in the graph is \\(y = -2x^{2} + x + 6\\).</p><p>(c) When \\(x = 0.2, y_{max} = 6.2\\)</p><p>(d) When \\(y = 2, x = \\text{ -1.2 or 1.7}\\)</p>",
+        "type": "theory"
+    }
+]

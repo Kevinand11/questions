@@ -1,0 +1,120 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27152971535_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "increase",
+            "decrease",
+            "remain the same",
+            "be slightly greater than W",
+            "be independent of w"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5716441856_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\mu = \\frac{F}{R} = \\frac{W sin \\theta}{W cos q}\\)<br><br>= tan\\(\\theta\\)",
+        "correctIndex": 2,
+        "options": [
+            "sin\\(\\alpha\\)",
+            "cos\\(\\alpha\\)",
+            "tan\\(\\alpha\\)",
+            "sec\\(\\alpha\\)",
+            "cot\\(\\alpha\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15720153856_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "PR/PQ",
+            "OR/PQ",
+            "OR/PR",
+            "PQ/PR",
+            "PQ/QR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17151134316_maths-44.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "depression",
+            "declination",
+            "variation",
+            "elevation",
+            "dip"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28585475460_maths-50.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>cos\\(\\theta = \\frac{R}{Z}\\)<br>\n<br>\nR = \\(\\frac{V}{I} = \\frac{40}{2} = 20\\)<br>\n<br>\nZ² = R² + \\(^X_L\\)² = 20²  + 15²  = √625 = 25<br>\n<br>\ncos \\(\\theta = \\frac{R}{Z} = \\frac{20}{25} = 0.8\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "1.33",
+            "1.25",
+            "0.80",
+            "0.75",
+            "0.60"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14292738720_maths-50.jpg\" class=\"img-fluid\">",
+        "explanation": "P = I<sup>2</sup>R<br><br>= 2<sup>2</sup>x 20 = 80",
+        "correctIndex": 1,
+        "options": [
+            "100W",
+            "80W",
+            "60W",
+            "20W",
+            "10W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 52,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8575695648_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "T<sub>\\(\\frac{1}{2}\\)</sub>= \\(\\frac{0.693}{\\pi}\\)<br><br>= \\(\\frac{0.693}{0.077}\\) = 9.0",
+        "correctIndex": 2,
+        "options": [
+            "5.22cm",
+            "5.24cm",
+            "5.26",
+            "5.35"
+        ],
+        "type": "objectives"
+    }
+]

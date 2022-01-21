@@ -1,0 +1,114 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10000034842_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Equation of the line</p><p>\\(\\frac{y - 4}{x - 0} = \\frac{0 - 4}{1 - 0}\\)</p><p>\\(\\frac{y - 4}{x} = \\frac{-4}{1}\\)</p><p>\\(\\therefore -4x = y - 4\\)</p><p>\\(y = -4x + 4\\)</p><p>\\(\\therefore \\text{The shaded portion = } y \\leq -4x + 4\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "y ≤ 4x + 2",
+            "y ≥ 4x + 2",
+            "y ≤ -4x + 4",
+            "y ≤ 4x + 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18571496372_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; PQR = &lt; PTU = 80°</p><p>&lt; TSU = 85°</p><p>x = 180° - (80° + 85°)</p><p>= 15°</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "15<sup>o</sup>",
+            "25<sup>o</sup>",
+            "30<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15714344569_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; PQR = 90° (angle in a semi-circle)</p><p>&lt; QRP = (90 - x)°</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "x°",
+            "(90 – x)°",
+            "(90 + x)°",
+            "(180 – x)°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4285730772_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of trapezium = \\(\\frac{1}{2} (a + b) \\times h\\)</p><p>= \\(\\frac{1}{2} (7 + 13) \\times 6\\)</p><p>= \\(60 cm^{2}\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "91 cm<sup>2</sup>",
+            "78 cm<sup>2</sup>",
+            "60 cm<sup>2</sup>",
+            "19 cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22857232528_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Excellent = 360° - (120° + 90° + 80°)</p><p>= 70°</p><p>Number of excellent students = \\(\\frac{70}{360} \\times 36\\)</p><p>= 7 students</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 3,
+        "options": [
+            "12",
+            "9",
+            "8",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2012,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25714388106_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Number that score less than 5: 5 + 6 + 4 + 3 + 2 = 20</p><p>Total number of students: 5 + 6 + 4 + 3 + 2 + 4 + 6 + 5 + 1 + 3 + 1 = 40.</p><p>%age of students that failed: \\(\\frac{20}{40} \\times 100% = 50%\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 2,
+        "options": [
+            "10%",
+            "20%",
+            "50%",
+            "60%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2012,
+        "question": "<p>A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191113_110904%20%282%29.jpg\" style=\"height:199px; width:250px\"></p><p>\\(\\tan 16 = \\frac{x}{150}\\)</p><p>\\(x = 150 \\tan 16\\)</p><p>= \\(43 cm\\)</p><p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "52 cm",
+            "43 cm",
+            "40 cm",
+            "15 cm"
+        ],
+        "type": "objectives"
+    }
+]

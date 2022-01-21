@@ -1,0 +1,306 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/UwSI0XD07MLloJiyML9EuZZ9V3KLkoU4QJP9Mgh0.png\" class=\"img-fluid\">",
+        "explanation": "<p>Prob. (team scored 4 goals) = Prob. (team scored 7 goals) = \\(\\frac{3}{25}\\)</p><p>Hence, probability that a team selected at random scored either 4 or 7 goals;</p><p>= \\(\\frac{6}{25} + \\frac{3}{25}\\)</p><p>= \\(\\frac{9}{25}\\)</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{9}{25}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{6}{25}\\)",
+            "\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 20,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8tfgI40LvdDJKqD2wbLPkZPt9vq1NscsPG2h0MWi.png\" class=\"img-fluid\">",
+        "explanation": "<p>No. of teams that scored at most 3 goals = 3 + 1 + 6 = 10</p><p>Hence, probability that a team selected at random scored at most 3 goals</p><p>= \\(\\frac{10}{25}\\) = \\(\\frac{2}{5}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "\\(\\frac{3}{25}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{6}{25}\\)",
+            "\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 2018,
+        "question": "<p>The angle of elevation of the top of a tree from a point 27m away and on the same horizontal ground as the foot of the tree is 30\\(^o\\). Find the height of the tree.</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/nEJXoLSxDX1NSLM4nW7Uk8WucUI66qcVfxHbQHbq.png\" class=\"img-fluid\">\n</div><p>From the diagram,</p><p>tan 30\\(^o\\) = \\(\\frac{h}{27}\\)</p><p>h = 27 tan 30\\(^o\\)</p><p>= 27 x \\(\\frac{1}{\\sqrt{3}}\\)</p><p>= \\(\\frac{27}{\\sqrt{3}}\\) x \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)</p><p>= \\(\\frac{27 \\sqrt{3}}{3}\\)</p><p>= 9\\(\\sqrt{3m}\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "27m",
+            "13.5 \\(\\sqrt{3m}\\)",
+            "13.5 \\(\\sqrt{2m}\\)",
+            "9\\(\\sqrt{3m}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5NVjTDdMEcpB1qbCu0RcM069Z2zO9VqhRStp5Rju.png\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\frac{|PN|}{|PQ|}\\) = \\(\\frac{|PM|}{|PR|}\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "\\(\\frac{|PN|}{|PR|}\\)",
+            "\\(\\frac{|PM|}{|PQ|}\\)",
+            "\\(\\frac{|PM|}{|PR|}\\)",
+            "\\(\\frac{|PR|}{|PQ|}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2018,
+        "question": "<p>If P and Q are two statements, under what condition would p|q be false?</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/yz9ujuQMIWmYsSuKtjm0AMT9v7sJbljFRBWop6Dr.png\" class=\"img-fluid\">\n</div><p>From the truth table above, p \\(\\to\\) q  would be false if p is true and q is false</p>",
+        "correctIndex": 1,
+        "options": [
+            "If p is true and q is true",
+            "If p is true and q is false",
+            "If p is false and q is false",
+            "If p is false and q is true"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 2018,
+        "question": "<p>Find the mean deviation of 20, 30, 25, 40, 35, 50, 45, 40, 20 and 45</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/gTfODM1M3p0ozwDler5Q7ipCMTPv2HfePMgXlhPi.png\" class=\"img-fluid\">\n</div><p>Mean = \\(\\frac{\\sum f x}{\\sum f}\\)</p><p>= \\(\\frac{350}{10}\\)</p><p>= 35</p><p>= \\(\\frac{\\sum f |d|}{\\sum f}\\)</p><p>= \\(\\frac{90}{10}\\)</p><p>= 9</p>",
+        "correctIndex": 1,
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/Xunim3Ev5IbarmMocaC8euFmblmyJYTkm7L27tqf.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8vD6OBvmh7moFqoDX8iYktu0ljNocZAKLUnP8awc.png\" class=\"img-fluid\">\n</div><p>In the diagram,</p><p>\\(\\alpha\\) = 180\\(^o\\) - 177\\(^o\\) (angles on a straight line)</p><p>\\(\\alpha\\) = 63\\(^o\\)</p><p>t = 2 x 63\\(^o\\) (angle at centre = 2 x angle at circum)</p><p>= 126\\(^o\\)</p><p> </p>",
+        "correctIndex": 2,
+        "options": [
+            "63\\(^o\\)",
+            "117\\(^o\\)",
+            "126\\(^o\\)",
+            "234\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/kn59zI9QJr0hoVWIEHPeZ5dorn8AjuGuiYANDM9C.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5QEpXJQ7SHi3tH1cTHS8bEtCKzCvF4v3cG9sjfyp.png\" class=\"img-fluid\">\n</div><p>In the diagram,</p><p>a = 50\\(^o\\) (alternate angles)</p><p>b\\(_1\\) + a 35\\(^o\\) = 180\\(^o\\) (sum of angles on a straight line)</p><p>i.e; b\\(_1\\) + 50\\(^o\\) + 35\\(^o\\)</p><p>= 180v</p><p>b\\(_1\\) + 180\\(^o\\) - 85\\(^o\\) = 90\\(^o\\)</p><p>But b\\(_2\\) = \\(b_1\\) = 95\\(^o\\) (angles in alternate segement)</p><p>&lt;QST = b\\(_2\\) = 95\\(^o\\)</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "40\\(^o\\)",
+            "65\\(^o\\)",
+            "85\\(^o\\)",
+            "95\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/3xlz9khUHlqv2jZSZpigIFqfDsQnRIqCt5IHfrTO.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Trapezium",
+            "Prism",
+            "Rectangle",
+            "Rhombus"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/cbyvKwWtWSRptcJQfra6l9jCUE4KXDwfEOv1XHxu.png\" class=\"img-fluid\">",
+        "explanation": "<p>x + 2 \\(\\geq\\) 2x + 1</p><p>x - 2x \\(\\geq\\) 1 - 2</p><p>-x \\(\\geq\\) -1</p><p>\\(\\frac{-x}{-1}\\) \\(\\geq\\) \\(\\frac{-1}{-1}\\)</p><p>x \\(\\leq\\) 1</p>",
+        "correctIndex": 0,
+        "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/z8oITIEjSX3M6DXV5u2dA8ZoulPHpPaQjU7wl6Xd.png\" class=\"img-fluid\">",
+        "explanation": "<p>In the diagram, &lt; WOZ = 180<em>\\(^o\\)</em> (angle on a straight line)</p><p>&lt; WOX = &lt; XOY = &lt; YOZ</p><p>(|WX| = |XY| = |YZ|)</p><p>\\(\\frac{180^o}{3}\\) = 60<em>\\(^o\\)</em></p><p>= 60\\(^o\\)</p><p>M + m =2m (base angles of isosceles \\(\\bigtriangleup\\), |OY| and |OZ| are radii)</p><p>&lt; YOZ + 2m (base angles of a \\(\\bigtriangleup\\))</p><p>60\\(^o\\) + 2m = 180\\(^o\\) (sum of a \\(\\bigtriangleup\\))</p><p>60\\(^o\\) + 2m = 180\\(^o\\)</p><p>2m = 180\\(^o\\) - 60\\(^o\\)</p><p>2m = 120\\(^o\\)</p><p>m = \\(\\frac{120^o}{2}\\)</p><p>= 60\\(^o\\)</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "90\\(^o\\)",
+            "60\\(^o\\)",
+            "45\\(^o\\)",
+            "30\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5UFlpmzHNuewK3gfgtpozvsOt4YMwFSbXRIDIC9b.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/ec20BKZnNiz9cwa18mVZJy9U32keWWZuMTkJqbmX.png\" class=\"img-fluid\">\n</div><p>In the diagram,</p><p>a = z (alternate angles)</p><p>b = 180\\(^o\\) - a (angles on a straight line)</p><p>b = 180\\(^o\\) - z</p><p>c = 180\\(^o\\) - x (angles on a straight line)</p><p>y = b + c (sum of oposite interior angles)</p><p>y = 180\\(^o\\) - z + 180\\(^o\\) - x</p><p>y = 360\\(^o\\) - z - x</p><p>x = 360\\(^o\\) - y - z</p><p> </p>",
+        "correctIndex": 3,
+        "options": [
+            "x = 240\\(^o\\) - y - z",
+            "x = 180\\(^o\\) - y - z",
+            "x = 360\\(^o\\) + y -z",
+            "x = 360\\(^o\\) - y - z"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/rvivYQyQNpaGq0VK8Vb37HttSmB02ZP9ls68Z79b.png\" class=\"img-fluid\">",
+        "explanation": "<p>m + n = 110\\(^o\\), (n + r) = 130\\(^o\\)</p><p>(m + n) = 120\\(^o\\)</p><p>then, r = 130\\(^o\\) - n</p><p>and;</p><p>m + (130^o - n) = 120\\(^o\\)</p><p>m - n = -10\\(^o\\)</p><p>2m + (n + r) = 110 + 120 = 230</p><p>2m + 130 = 230</p><p>2m = 230 - 130</p><p>m = \\(\\frac{100}{2}\\) = 50\\(^o\\)</p><p>n = 110\\(^o\\) - 50\\(^o\\)</p><p>= 60\\(^o\\)</p><p>r = 130\\(^o\\) - 60\\(^o\\) = 70\\(^o\\)</p><p>Hence, the ratio m : n : r</p><p>= 50 : 60 : 70</p><p>= 5 : 6 : 7</p>",
+        "correctIndex": 3,
+        "options": [
+            "2 : 3 : 4",
+            "3 : 4 : 5",
+            "4 : 5 : 6",
+            "5 : 6 : 7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2018,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/0mxemXIDn4sN11IAFkP5VZWFvX3scKXX10YWhCA5.png\" class=\"img-fluid\">",
+        "explanation": "<p>Total donation = 4 x 500 + 7 x 2000 + 20 x 1000 + 9 x 700 + 4 x 500 + 5 x 100 + 3 x 50 + 1 x 2 + 2 x 10</p><p>= 20000 + 14000 + 20000 + 6300 + 2000 + 500 + 150 + 2 + 20</p><p>= N62,972</p>",
+        "correctIndex": 3,
+        "options": [
+            "N26,792.00",
+            "N26,972.00",
+            "N62.792.00",
+            "N62,972.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2018,
+        "question": "<p>A piece of thread of length 21.4cm is used to form a sector of a circle of radius 4.2cm on a piece of cloth. Calculate, correct to the nearest degree, the angle of the sector. [Take \\(\\pi = \\frac{22}{7}\\)]</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/6zytAXCJl9OJjEf8maO3iHcO2fvOdoOr6fNFEljI.png\" class=\"img-fluid\">\n</div><p>Length of arc, L = 21.4 - 2 x 4.2cm</p><p>= 21.4 - 8.4</p><p>= 13cm</p><p>But L = \\(\\frac{\\theta}{360^o}\\) x 2\\(\\pi r\\)</p><p>i.e 13 = \\(\\frac{\\theta}{360^o}\\)  x 2 x \\(\\frac{22}{7}\\) x 4.2</p><p>= 13 x 360\\(^o\\) x 7</p><p>= \\(\\theta\\) x 2 x 22 x 4.2</p><p>\\(\\theta\\) = \\(\\frac{13 \\times 360^o \\times 7}{44 \\times 4.2}\\)</p><p>= \\(\\approx\\) 177.27\\(^o\\)</p><p>\\(\\approx\\) 177\\(^o\\) (to the nearest degree)</p><p> </p><p> </p><p> </p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "170\\(^o\\)",
+            "192\\(^o\\)",
+            "177\\(^o\\)",
+            "182\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2018,
+        "question": "<p>If tan x = \\(\\frac{4}{3}\\), 0\\(^o\\) &lt; x &lt; 90\\(^o\\), find the value of sin x - cos x</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/L9rPritilBEyNFSp0hf36p2Tui1p7k0efFflaMei.png\" class=\"img-fluid\">\n</div><p>From the diagram,</p><p>h\\(^2\\) = 4\\(^2\\) + 3\\(^2\\) (pythagoras')</p><p>h\\(^2\\) = 16 + 9 = 25</p><p>h = \\(\\sqrt{25}\\) = 5</p><p>Hence, sin x - cos x</p><p>= \\(\\frac{4}{5} - \\frac{3}{5}\\)</p><p>= \\(\\frac{2}{5}\\)</p><p> </p><p> </p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "\\(\\frac{1}{10}\\)",
+            "\\(\\frac{1}{5}\\)",
+            "\\(\\frac{5}{12}\\)",
+            "1\\(\\frac{2}{5}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2018,
+        "question": "<p>Given that Y is 20cm on a bearing of 300\\(^o\\) from x, how far south of y is x?</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/99bOm5pzrB7PCJkOwR1U8G427qiPpkWOkmu3hhbE.png\" class=\"img-fluid\">\n</div><p>In \\(\\bigtriangleup\\)YSC, sin 30\\(^o\\) = \\(\\frac{YS}{20}\\)</p><p>|YS| = 20 sin 30\\(^o\\)</p><p>= 20 x 0.5</p><p>10m</p><p> </p>",
+        "correctIndex": 0,
+        "options": [
+            "10cm",
+            "15cm",
+            "25cm",
+            "30cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 48,
+        "year": 2018,
+        "question": "<p>The diagonals of a rhombus WXYZ intersect at M. If |MW| = 5cm and |MX| = 12cm, calculate its perimeter</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/BcHgFDdpj5uDlTRCag0eIE49qEuAHjW5TYOP9WnM.png\" class=\"img-fluid\">\n</div><p>Let the length of a side of the rhombus be n</p><p>Then, n\\(^2\\) = 5\\(^2\\) + 12\\(^2\\)</p><p>= 25 + 144 = 169</p><p>n = \\(\\sqrt{169}\\)</p><p>= 13cm</p><p>Hence, perimeter of rhombus = 4n = 4 x 13</p><p>= 52cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "42cm",
+            "48cm",
+            "52cm",
+            "60cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2018,
+        "question": "<p>M and N are two subsets of the universal set (U). If n(U) = 48, n(M) = 20, n(N) = 30 and n(MUN) = 40, find n(M \\(\\cap\\) N)</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/JZdvDXNr6DLctbIqouEohGTAsLxjnFSlOLA6ww3I.png\" class=\"img-fluid\">\n</div><p>Let n(M \\(\\cup\\) N \\) = x</p><p>Then 20 - x + x + 30</p><p>- x = n(M \\(\\cup\\) N)</p><p>50 - x = 40</p><p>50 - 40 = x</p><p>10 = x</p><p>x = 10</p><p>Hence, n(M \\(\\cup\\N)' = 8  + (20 - 10) + (30 + 10)</p><p>= 8 + 10 + 20</p><p>= 38</p>",
+        "correctIndex": 3,
+        "options": [
+            "18",
+            "20",
+            "30",
+            "38"
+        ],
+        "type": "objectives"
+    }
+]

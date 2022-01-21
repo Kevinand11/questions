@@ -1,0 +1,29 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 4,
+        "year": 2002,
+        "question": "<p>A wire is gradually stretched until it snaps. Sketch a load-extension graph for the wire and on the graph indicate the</p><p>(a) elastic limit;</p><p>(b) yield point;</p><p>(c) maximum load;</p><p>(d) breaking point.</p>",
+        "answer": "<p><br>\n<img alt=\"\" src=\"/storage/classroom/editor_images/67958167_910010476015748_7977110877042114560_n%287%29.jpg\" style=\"height:179px; width:319px\"><br>\n </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 13,
+        "year": 2002,
+        "question": "<p>(a) Define the following terms as applied to a convex mirror:</p><p>(i) principal focus; (ii) pole (iii) radius of curvature.</p><p>(b) State one advantage and one disadvantage of using a convex mirror as a driving mirror.</p><p>(c) Draw a clearly labelled diagram to illustrate how two converging lenses may be arranged to form a compound microscope.</p><p>(d) An object 2.5 mm long is viewed through a converging lens of focal length 10.0 cm held close to the eye. A magnified image of the object is formed 30.0 cm from the lens. Calculate the:</p><p>(i) distance of the object from the lens; (ii) size of the image; (iii) power of the lens.</p>",
+        "answer": "<p>(a)(i) Principal focus of a convex mirror is a pc.nt on the principal axis on which all rays parallel and close to the principal axis appear to diverge after reflection.</p><p>(ii) The pole is the centre of the mirror through which the principal axis pass.</p><p>(iii) Radius of curvature is the radius of the sphere from which the mirror was cut.</p><p>(b) Advantages of using convex mirror for driving</p><p>-wide field of view</p><p>-image is always upright.</p><p> </p><p>Disadvantages of using convex for driving:</p><p>-image is smaller</p><p>-image appears further away and gives false impression of the distance.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67958167_910010476015748_7977110877042114560_n%288%29.jpg\" style=\"height:139px; width:317px\"></p><p> </p><p>(d)(i) \\(\\frac{1}{u} + \\frac{1}{v} = \\frac{1}{f}; \\frac{1}{u} - \\frac{1}{30} = \\frac{1}{10}; \\frac{1}{u} = \\frac{1}{10} + \\frac{1}{30}\\)</p><p>= \\(\\frac{4}{30} = \\frac{2}{15}; u = \\frac{15}{2}\\) = 7.5cm</p><p>(ii) \\(\\frac{\\text{image size}}{\\text{object size}} = \\frac{\\text{image distance x object size}}{\\text{object distance}}\\)</p><p>= \\(\\frac{30 \\times 0.25}{7.5} = 1cm\\)</p><p>(iii) Power = \\(\\frac{1}{\\text{focal length (in metre)}} = \\frac{1}{0.1}\\)</p><p>= +10.0 dioptre 0.1</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2002,
+        "question": "<p> (a) Define: (i) reactance; (ii) impedance.</p><p>(b)(i) Explain resonant frequency of an RLC circuit.</p><p>(ii) Explain the statement — the power supply voltage of a source is 230V</p><p>(c) A source of e.m.f 240V and frequency 50 Hz is connected to a series arrangement of a resistor, an inductor and a capacitor. When the current in the capacitor is 10A, the potential difference across the resistor is 140 V and that across the inductor is 50 V. Calculate the:</p><p>(i) potential difference across the capacitor (ii) capacitance of the capacitor; (iii) inductance of the indicator.</p><p>(d) Draw and label one vector diagram for the potential differences across the inductor, the capacitor and the resistor in (c) above.</p>",
+        "answer": "<p>(a)(i) Reactance s the opposition in ohms to the alternating current by an inductor, a capacitor or both.</p><p>(ii) Impedance is the total opposition is ohms to the alternating current by a combination of resistor as well as a capacitor or an inductor.</p><p> </p><p>(b)(i) Resonant frequency fo is to frequency at which the current in the circuit has a maximum value. fo = \\(\\frac{1}{2 \\pi LC}\\)</p><p>(ii) This means that the root mean square value of the voltage is 230v. The actual voltage lies between Vo and -Vo where the voltage amplitude or peak voltage Vo.</p><p> </p><p>(c)(i) \\(V^2 = V^2_R + (V_L - V_C)^2; 240^2 = 140^2 + (50 - v_c)^2\\);</p><p>50 - \\(V_c = 194.9\\)</p><p>\\(V_c = 244.9v\\)</p><p>(ii) X\\(_c = \\frac{1}{2 \\pi fc} = \\frac{V}{1} = \\frac{1}{2 \\pi \\times 50 \\times c} = \\frac{244.9}{10}\\)</p><p>C = \\(\\frac{10}{2 \\pi \\times 50 \\times 244.9} = 129.97 \\mu F\\)</p><p> </p><p>(iii) \\(X_L = 2 \\pi fL = \\frac{v}{l}; 2 \\pi \\times 50 \\times L = \\frac{50}{10}\\)</p><p>L = \\(\\frac{50}{100x}\\)</p><p>= 0.01159Hz</p><p> </p><p>(d)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/67769837_650930948725175_504833479628816384_n.jpg\" style=\"height:130px; width:156px\"></p>",
+        "type": "theory"
+    }
+]

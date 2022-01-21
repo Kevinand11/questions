@@ -1,0 +1,50 @@
+[
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 22,
+        "year": 2010,
+        "question": "<p>The demand curve for factors of production</p>",
+        "explanation": "<p>The factors of production demand curve indicates the quantity of a factor demanded at alternative factor prices. The demand curve is downwards sloping from left to right. <br>\nAn example is given below for the demand curve of labour, showing how wage rate affect the demand for labour.<br>\n<img alt=\"Image result for what is the demand curve for factors of production\" src=\"data:image/png;base64,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\"></p>",
+        "correctIndex": 2,
+        "options": [
+            "is perfect elastic",
+            "slopes upwards",
+            "slopes of downwards",
+            "is perfectly inelastic"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27085744614_c.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Population growth rate = the difference between the previous year population and the current year population divided by the previous year</p><p>2002 population = 40,000<br>\n2003 population = 60,000</p><p>60,000 - 40,000 ÷ 40,000 x 100<br>\n\\(\\frac{20,000}{40,000}\\) x 100 = 50%</p>",
+        "correctIndex": 3,
+        "options": [
+            "33.3%",
+            "20.0%",
+            "11.0%",
+            "50%"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "economics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24234654725_c.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The percentage of working population in 2002 = </p><p><ins>Working population </ins><br>\n Total population</p><p>\\(\\frac{32}{40}\\) \\times 100 = 80%</p>",
+        "correctIndex": 3,
+        "options": [
+            "50%",
+            "25%",
+            "8%",
+            "80%"
+        ],
+        "type": "objectives"
+    }
+]

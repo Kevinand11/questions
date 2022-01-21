@@ -1,0 +1,98 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18555708795_math-8.jpg\" class=\"img-fluid\">",
+        "explanation": "The gradient of any curve is equal to zero at the turning points. i.e. maximum or minimum points. The points in the above curve are b, e, g, j, m",
+        "correctIndex": 1,
+        "options": [
+            "c, d, f. i, l",
+            "b, e, g, j, m",
+            "a, b, c, d, f, i, j, l",
+            "c, d, f, h, i, l"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11418910280_math-9.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5709455140_gykjjj.jpg\" class=\"img-fluid\">\n</div>QMN = 60<sup>o</sup><br><br>MRQ = 60<sup>o</sup>(angle in the alternate segment are equal)<br><br>MQN = 80<sup>o</sup>(angle sum of a \\(\\bigtriangleup\\) = 180<sup>o</sup>)<br><br>60 = x = 80<sup>o</sup>(exterior angle = sum of opposite interior angles)<br><br>x = 80<sup>o</sup>- 60<sup>o</sup>= 20<sup>o</sup><br><br>RMQ = 20<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "120<sup>o</sup>",
+            "110<sup>o</sup>",
+            "60<sup>o</sup>",
+            "20<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12846278097_math-10.jpg\" class=\"img-fluid\">",
+        "explanation": "In \\(\\bigtriangleup\\)PHK and \\(\\bigtriangleup\\)PAR = \\(\\frac{PH}{PQ} = \\frac{PK}{PR}\\)<br><br>\\(\\frac{4}{7} \\times \\frac{PR-KR}{PR}\\)<br><br>4PR = 7(PR - KR) = 7PR - 7KR<br><br>\\(\\frac{KR}{PR} = \\frac{3}{7}\\)<br><br>KR:PR = 3:7",
+        "correctIndex": 1,
+        "options": [
+            "7:3",
+            "3:7",
+            "3:4",
+            "4:3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1427365141_maths-13.jpg\" class=\"img-fluid\">",
+        "explanation": "Since QS = QR<br><br>then, angle SQR = angle SRQ<br><br>2 SQR = 180 - 56, SQR = \\(\\frac{124}{2}\\) = 62<sup>o</sup><br><br>QTP = 62<sup>o</sup><br><br>QTP = 62<sup>o</sup>, corresponding angle<br><br>3y + 56 + 62 = 180 = 3y = 180 - 118<br><br>3y = 62 = 180<br><br>3y = 180 - 118<br><br>3y = 62<br><br>y = \\(\\frac{62}{3}\\)<br><br>= 20\\(\\frac{3}{2}\\)",
+        "correctIndex": 2,
+        "options": [
+            "62<sup>o</sup>",
+            "56\\(\\frac{3}{2}\\)<sup>o</sup>",
+            "20\\(\\frac{3}{2}\\)<sup>o</sup>",
+            "18<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7136837380_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; PSQ = &lt; SQR = &lt; SRQ = 24<sup>o</sup><br><br>&lt; QSR = 180<sup>o</sup>- 48<sup>o</sup>= 132<sup>o</sup><br><br>&lt; PSQ + &lt; QSR + y + 180 (angle on a straight lines)<br><br>24 + 132 + y = 180<sup>o</sup>= 156<sup>o</sup>+ y = 180<br><br>y = 180<sup>o</sup>- 156<sup>o</sup><br><br>= 24<sup>o</sup>",
+        "correctIndex": 0,
+        "options": [
+            "24<sup>o</sup>",
+            "48<sup>o</sup>",
+            "72<sup>o</sup>",
+            "84<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1989,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9991561986_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": "This histogram is transferred into this frequency table<br>\\(\\begin{array}{c|c} Marks &amp; 20 &amp; 40 &amp; 60 &amp; 80 &amp; 100 \\\\ \\hline students &amp; 9 &amp; 7 &amp; 6 &amp; 6 &amp; 2\\end{array}\\)<br><br>Students who scored more than 40 = 6 + 6 + 2 = 14<br><br>i.e. \\(\\frac{14}{30}\\) x 100% = 46\\(\\frac{3}{4}\\)%",
+        "correctIndex": 2,
+        "options": [
+            "14%",
+            "40%",
+            "40\\(\\frac{3}{4}\\)%",
+            "53\\(\\frac{1}{3}\\)%"
+        ],
+        "type": "objectives"
+    }
+]

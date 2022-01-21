@@ -1,0 +1,308 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1996,
+        "question": "<p>Convert the decimal number 89 to a binary number</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/5542875300_wcmath19962ans.jpg\" class=\"img-fluid\">\n</div><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:45%\">\n<tbody>\n<tr>\n<td>2</td>\n<td>89</td>\n</tr>\n<tr>\n<td>2</td>\n<td>44 r 1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>22 r 0</td>\n</tr>\n<tr>\n<td>2</td>\n<td>11 r 0</td>\n</tr>\n<tr>\n<td>2</td>\n<td>5 r 1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2 r 1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>1 r 0</td>\n</tr>\n<tr>\n<td> </td>\n<td>0 r 1</td>\n</tr>\n</tbody>\n</table><p>89\\(_{10}\\) = 1011001\\(_{2}\\)</p><p> </p>",
+        "correctIndex": 4,
+        "options": [
+            "101101",
+            "111001",
+            "1001001",
+            "1001101",
+            "1011001"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19400115854_wcmath1993237.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "x &lt; 4",
+            "x &gt; -2",
+            "-2 &lt; x ≤ 4",
+            "-3 ≤ x &lt; 4",
+            "-2 ≤ x &lt; 4"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20785911870_wcmath199619.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "22cm",
+            "18<sup>1</sup>/<sub>3</sub>cm",
+            "\\(\\frac{11}{3}\\)cm",
+            "9<sup>1</sup>/<sub>6</sub>cm",
+            "7<sup>1</sup>/<sub>3</sub>cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 19,
+        "year": 1996,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20200115_163610%20%282%29.jpg\" style=\"height:220px; width:200px\"></p><p>In the diagram above, O is the center of the circle of radius 3.5cm, ∠POQ = 60°. What is the area of the minor sector POQ?</p><p>[Take π = 22/7].</p><p> </p><p> </p><p> </p><p> </p>",
+        "explanation": "<p>Area of sector = \\(\\frac{\\theta}{360°} \\times \\pi r^2\\)</p><p>= \\(\\frac{60}{360} \\times \\frac{22}{7} \\times 3.5 \\times 3.5\\)</p><p>= \\(\\frac{77}{12}\\)</p><p>= \\(6\\frac{5}{12}\\) cm\\(^2\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "148<sup>1</sup>/<sub>2</sub>cm<sup>2</sup>",
+            "77cm<sup>2</sup>",
+            "32<sup>1</sup>/<sub>12</sub>cm<sup>2</sup>",
+            "6<sup>5</sup>/<sub>12</sub>cm<sup>2</sup>",
+            "1<sup>5</sup>/<sub>6</sub>cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 27,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9700228328_wcmath199628.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "15<sup>o</sup>",
+            "25<sup>o</sup>",
+            "26<sup>o</sup>",
+            "36<sup>o</sup>",
+            "72<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12471726366_wcmath199629.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "45<sup>o</sup>",
+            "60<sup>o</sup>",
+            "90<sup>o</sup>",
+            "120sup&gt;o",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15243226295_wcmath199631.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "30<sup>o</sup>",
+            "35<sup>o</sup>",
+            "40<sup>o</sup>",
+            "70<sup>o</sup>",
+            "110<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16628978880_wcmath199632.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "I only",
+            "III only",
+            "I and II only",
+            "I and III only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2771502408_wcmath199634.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "52<sup>o</sup>",
+            "54<sup>o</sup>",
+            "66<sup>o</sup>",
+            "72<sup>o</sup>",
+            "128<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8314509216_wcmath199635.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "35<sup>o</sup>",
+            "40<sup>o</sup>",
+            "45<sup>o</sup>",
+            "50<sup>o</sup>",
+            "55<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4157255976_wcmath199636.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "11<sup>o</sup>",
+            "39<sup>1</sup>/<sub>2</sub>",
+            "79<sup>o</sup>",
+            "90<sup>o</sup>",
+            "101<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19400658592_wcmath199638.jpg\" class=\"img-fluid\">",
+        "explanation": "considering SPQ<br>S = 34<sup>o</sup>(base ∠s of Isos. Δ)<br>P = 180<sup>o</sup>- 68<sup>o</sup>= 112<sup>o</sup><br>R = 122/2 = 56<sup>o</sup><br>a = 34<sup>o</sup>(alt ∠s)<br>SQR = 180<sup>o</sup>- (56 + 34)<br>180<sup>o</sup>- 90<sup>o</sup>= 90<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "58<sup>o</sup>",
+            "68<sup>o</sup>",
+            "78<sup>o</sup>",
+            "90<sup>o</sup>",
+            "112<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15243394166_wcmath199639.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/12471867954_wcmath199639.jpg\" class=\"img-fluid\">\n</div>a = 40<sup>o</sup>(vertical opp. ∠s are equal) b = 60<sup>o</sup><br>a + b + c = 180<sup>o</sup>(sum of ∠s on a str line)<br>40<sup>o</sup>+ 60<sup>o</sup>+ c = 180<sup>o</sup><br>C = 180<sup>o</sup>- 100<sup>o</sup><br>C = 80<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>",
+            "140<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1996,
+        "question": "A town P is 150km from a town Q in the direction 050<sup>o</sup>. What is the bearing of Q from P?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/11086118000_wcmath199642ans.jpg\" class=\"img-fluid\">\n</div>a = 50<sup>o</sup>(Alt. ∠s)<br>Bearing of Q from P = 180<sup>o</sup>+ a<br>= 180<sup>o</sup>+ 50<sup>o</sup>= 230<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "050<sup>o</sup>",
+            "130<sup>o</sup>",
+            "230<sup>o</sup>",
+            "270<sup>o</sup>",
+            "310<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1996,
+        "question": "The angle of elevation of the top X of a vertical pole from a point P on a level ground is 60<sup>o</sup>. The distance from P to the foot of the pole is 55m. Without using tables, find the height of the pole.",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/26329537869_wcmath199643ans.jpg\" class=\"img-fluid\">\n</div>Tan60<sup>o</sup>=<sup>h</sup>/<sub>55</sub><br>h = 55Tan60<sup>o</sup><br>h 55 x √3 ; h = 55√3m",
+        "correctIndex": 2,
+        "options": [
+            "50/3m",
+            "50m",
+            "55√3m",
+            "60m",
+            "65m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4157296329_wcmath199643.png\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/11086123544_wcmath199644.jpg\" class=\"img-fluid\">\n</div><div class=\"eq-c\">Mean = <div class=\"fraction\"><span class=\"fr_num\">∑fx</span><span class=\"bar\">/</span><span class=\"fr_den\">∑f</span></div> = <div class=\"fraction\"><span class=\"fr_num\">35</span><span class=\"bar\">/</span><span class=\"fr_den\">20</span></div> = 1<sup>3</sup>/<sub>4</sub> = 1.75</div>",
+        "correctIndex": 1,
+        "options": [
+            "0.75",
+            "1.75",
+            "1.9",
+            "2",
+            "2.15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5543062156_wcmath199643.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "o",
+            "1",
+            "2",
+            "5",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 1996,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20786504220_wcmath199650.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"eq-c\"> <div class=\"fraction\"><span class=\"fr_num\">18 + 14 + 20 + 16</span><span class=\"bar\">/</span><span class=\"fr_den\">100</span></div> = <div class=\"fraction\"><span class=\"fr_num\">17</span><span class=\"bar\">/</span><span class=\"fr_den\">25</span></div></div>",
+        "correctIndex": 4,
+        "options": [
+            "8/25",
+            "12/25",
+            "13/25",
+            "2/3",
+            "17/25"
+        ],
+        "type": "objectives"
+    }
+]

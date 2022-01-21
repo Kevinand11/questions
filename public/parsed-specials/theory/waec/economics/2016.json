@@ -1,0 +1,20 @@
+[
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 2,
+        "year": 2016,
+        "question": "<p> The utility schedule of a consumer for a brand of ice cream is shown in the table below. Use the information to answer the questions that follow: <br>\n </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:300px\">\n<tbody>\n<tr>\n<td> <strong>Units Consumed (Q)</strong></td>\n<td> <strong>Total Utility (TU)</strong></td>\n<td> <strong>Marginal Utility (MU)</strong></td>\n</tr>\n<tr>\n<td> 0</td>\n<td> 0</td>\n<td> -</td>\n</tr>\n<tr>\n<td> 1</td>\n<td> 10</td>\n<td> 10</td>\n</tr>\n<tr>\n<td> 2</td>\n<td> 19</td>\n<td> R</td>\n</tr>\n<tr>\n<td> 3</td>\n<td> P</td>\n<td> 6</td>\n</tr>\n<tr>\n<td> 4</td>\n<td> 30</td>\n<td> 5</td> \n</tr>\n<tr>\n<td> 5</td>\n<td> 31</td>\n<td> S</td>\n</tr>\n<tr>\n<td> 6</td>\n<td> Q</td>\n<td> 0</td>\n</tr>\n<tr>\n<td> 7</td>\n<td> 29</td>\n<td> -2</td>\n</tr>\n</tbody>\n</table><p>(a) Calculate the values of P,Q,and S. (8 marks).</p><p>(b) Given that the jprice of ice cream is $ 1.00 per unit, at what level of consumption is the consumer in equilibrium? Explain your answer. (3 marks).</p><p>(c) Use a graph sheet, draw the marginal utility curve.(3 marks).</p><p>(d) State the law of diminishing marginal utility. (3 marks).</p><p> </p>",
+        "answer": "<p>(a) P = TU\\(_3\\) = TU\\(_2\\) + MU\\(_3\\) = 19 + 6 = 25</p><p>Q = TU\\(_6\\) = TU\\(_5\\) + TU\\(_6\\) = 31 + 0 = 31</p><p>R = MU2 = \\(\\frac{TU_2 - TU_1}{2 - 1}\\) = \\(\\frac{19 - 10}{1}\\) = 9</p><p>S = MU5 = \\(\\frac{TU_5 - TU_4}{5 - 4}\\) = \\(\\frac{31 - 30}{1}\\) = 1</p><p>(b) The consumer attains equilibrium at the 5th level of consumption.<br>\nFor one commodity, the consumer attains equilibrium when MU = Price.<br>\nAt the 5th level, MU = M1 and the price is given as $1.00</p><p>(c)</p><p> <img alt=\"Economics Theory Answer to Question 2C\" src=\"/storage/classroom/editor_images/econs_2016_theory_c.jpg\" style=\"height:312px; width:300px\"></p><p>(d) The law of diminishing marginal utility states that s a consumer consumes more units of a commodity, the satisfaction derived from each additional unit of the commodity diminishes. </p>",
+        "type": "theory"
+    },
+    {
+        "course": "economics",
+        "institution": "waec",
+        "order": 3,
+        "year": 2016,
+        "question": "<p>(a) What is production possibility curve? (3marks)</p><p>(b) Draw a production possibility curve and indicate any:<br>\n(i) Point P, where resources are fully utilized;<br>\n(ii) Point U, where resources are under utilized;<br>\n(iii) Point X, where production is not feasible. (8 marks)</p><p>(c) Explain any <strong>two </strong>factors that can make production at Point X feasible. (6marks).</p><p>(d) Why is the production possibility curve negatively sloped? (3marks)</p>",
+        "answer": "<p>(a) Production possibility curve may be defined as a diagram or graph showing the possible combinations of two commodities that can be produced given a particular amount of resources and level of technology in an economy, within a given period of time.</p><p>(b)</p><p><img alt=\"WAEC Economics 2016 Answer to Question 3b\" src=\"/storage/classroom/editor_images/econs_2016_theory_3b.jpg\" style=\"height:262px; width:337px\"></p><p>P - Resources are fully utilized<br>\nU - Resources are under utilized<br>\nX - Production is not feasible</p><p>(c) (i) An increase in the supply of productive resources e.g. factor inputs, money, time etc.<br>\n(ii) Technical progress: improvement in technology through research and development.<br>\n(iii) When productive resources are reallocated to the production of the capital goods as against consumer goods.<br>\n(iv) Introduction of new ideas or methods.<br>\n(v) Human capital development through training and retraining.</p><p>(d) The production possibility curve has a negative slope because it illustrates that there is opportunity cost involved in the production of more of one of the commodities.</p>",
+        "type": "theory"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 2014,
+        "question": "<p>The diagram above represents the graph of electron energy against the frequency of the radiation incident on a metal surface. Interpret the: (a) slope of the graph; (b) intercept, OC; (c) intercept, OK.</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/f%285%29.jpeg\" style=\"height:253px; width:390px\"></p>",
+        "answer": "<p>(a) Graph slope represents Planck's constant.</p><p>(b) Intercept OC represents work function of the metal.</p><p>(c) Intercept OK represents the threshold frequency F\\(_o\\) of the incident radiation</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2014,
+        "question": "<p>(a) Give two examples each of:</p><p>(i) rotational motion;</p><p>(ii) linear motion.</p><p>(b) Describe a laboratory experiment to determine the density of an irregularly shaped solid.</p><p>(c) State Newton's second law of motion</p><p>(d) Explain the term inertia.</p><p>(e)</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/bb%20cleanser%2810%29.jpg\" style=\"height:103px; width:437px\"></p><p>The diagram above illustrates a body of mass 5.0 kg being pulled by a horizontal force F. If the body accelerates at 2.0 ms\\(^{-2}\\) and experiences a frictional force of 5 N, calculate the:</p><p>(i) net force on it;</p><p>(ii) magnitude of F;</p><p>(iii) coefficient of kinetic friction. [ g = 10 ms\\(^{-2}\\)]</p><p> </p><p> </p>",
+        "answer": "<p>(a)(i) Rotational Motion; Examples:</p><p>(1) Motion of a wind mill.</p><p>(2) Motion of a turntable or disc.</p><p>(3) Rotation of the earth about its axis.</p><p>(4) Movement of the blade of an electric fan, etc.</p><p> </p><p>(ii) Linear Motion; Examples are:</p><p>(1) An athlete running on a straight track.</p><p>(2) A car moving on a straight road.</p><p>(3)A ball rolling on a level ground, etc.</p><p> </p><p>(b) In the laboratory, the mass(m) of an irregular shaped solid can be determined using a chemical or beam balance using a graduated measuring cylinder fill it partially with water and the initial volume V\\(_2\\) recorded, then completely immersed the irregular solid shape in the water and the final volume V recorded. Volume of the solid = V\\(_2\\) - V\\(_{1}\\)</p><p>But density =  \\(\\frac{Mass}{ Volume}\\)</p><p>= \\(\\frac{M}{V_2 - V_1}\\)</p><p>(c) Newton's second law of motion states that the time rate of change of momentum of a body is directly propotional to the applied force acting on it and takes place in the direction of the force.</p><p>(d) Inertia is the reluctance of a body to move if it is at rest or to stop if it is already in motion. The more the mass of a body, the greater is its inertia.</p><p>(e)(i) Net force = F - F\\(_1\\) = Ma</p><p>5.0 x 2.0 = 10N</p><p>(ii) F = Ma + F\\(_1\\) = 10 + 5 = 15.0N</p><p>(iii) µ = \\(\\frac{F}{R} = \\frac{F}{mg} = \\frac{15}{5 \\times 10}\\) </p><p>= 0.3</p>",
+        "type": "theory"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2014,
+        "question": "<p>(a) Define electromotive force.</p><p>(b) State:</p><p>(i) the principle of operation of a potentiometer,</p><p>(ii) two advantages that a potentiometer has over a voltmeter in measuring potential difference.</p><p>(c)(i) Sketch and label a diagram of a gold-leaf electroscope.</p><p>(ii) Give one use of a gold-leaf electroscope.</p><p>(d)(i) Explain the action of a magnetic relay.</p><p>(ii) List two factors which determine the magnitude of an induced emf in a coil.</p><p>(iii) A current of 5 A passes through a straight wire in a uniform magnetic field of flux density 2.0 x10\\(^{-3}\\) T. Calculate the force per unit length exerted on the wire when it is inclined at 30° to the field.</p>",
+        "answer": "<p>(a) Elecromotive force is the energy needed to take a unit positive charge round a circuit in which a cell is connected. Or The energy per unit charge transformed in the cell. Or e.m.f is the p.d across the terminals of the cell or battery or generator in an open circuit.</p><p> </p><p>(b)(i) The principle of operation of a potentiometer is based on the fact that the p.d across the wire is directly proportional to the length of the wire.V \\(\\alpha\\) L</p><p>where V = p.d across the wire.</p><p>L = length of the wire.</p><p>(ii) Advantages of potentiometer over voltmeter in measuring p.d are:</p><p>(1) It is more sensitive.</p><p>(2) It is more accurate.</p><p>(3) It eliminates error due to internal resistance of the cell.</p><p> </p><p>(c)(i) Labelled sketch of a Gold leaf electroscope:</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/bb%20cleanser%2811%29.jpg\" style=\"height:165px; width:228px\"></p><p>(ii) Uses of Gold leaf electroscope are:</p><p>(1) To detetct the nature of electrostatic charge.</p><p>(2) To detect electrostatic charge.</p><p>(3) To determine the magnitude of the induced charges.</p><p> </p><p>(d)(i) The mode of action of magnetic relay relies on the principle of electromagnetic induction. A small current passing through one circuit controls another circuit containing devices which require larger current.</p><p>(ii) Factors affecting the magnitude of induced e.m.f in a coil are:</p><p>(1) the number of turns in the coil.</p><p>(2) the magnetic field strength.</p><p>(3) the cross-sectional area of the coil.</p><p>(4) the speed of rotation of the coil.</p><p>(iii) F = IBLsin\\(\\theta\\)</p><p>force per unit length</p><p> \\(\\frac{F}{L}\\) = IBsin\\(\\theta\\)</p><p>= 5 x 2.0 x 10\\(^{-3}\\) x sin30</p><p>= 5.0 x 10\\(^{-3}\\)Nm\\(^{-1}\\)</p><p> </p>",
+        "type": "theory"
+    }
+]

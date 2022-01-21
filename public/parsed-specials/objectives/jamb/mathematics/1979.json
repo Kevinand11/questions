@@ -1,0 +1,153 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2853717942_maths%2044.jpg\" class=\"img-fluid\">",
+        "explanation": "BC = 6 : DC = \\(\\frac{6}{2}\\) = 3cm<br><br>By construction &lt; EDE = 180<sup>o</sup>(90<sup>o</sup>+ 60<sup>o</sup>) = 180<sup>o</sup>- 150<sup>o</sup><br><br>= 30<sup>o</sup>(angle on a strt. line)<br><br>From rt &lt; triangle ADC, AD<sup>2</sup>= 5<sup>2</sup>- 3<sup>2</sup><br><br>= 25 - 9 = 6<br><br>AD = 4<br><br>From &lt; AEC, let AS = x<br><br>\\(\\frac{x}{sin 60^o}\\) - \\(\\frac{4}{sin 90^o}\\)<br><br>sin 90<sup>o</sup>= 1<br><br>sin 60<sup>o</sup>= \\(\\frac{\\sqrt{3}}{2}\\)<br><br>x = 4sin 60<sup>o</sup><br><br>x = 3 x \\(\\frac{\\sqrt{3}}{2}\\)<br><br>= 2\\(\\sqrt{3}\\)",
+        "correctIndex": 1,
+        "options": [
+            "3\\(\\sqrt{2}\\)",
+            "2\\(\\sqrt{3}\\)",
+            "\\(\\frac{\\sqrt{3}}{2}\\)",
+            "\\(\\frac{2}{\\sqrt{3}}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25683525108_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Both pairs of opp. angles are equal<br>\n<br>\n&lt; STP = 55\\(^o\\) - isosceles angle<br>\n<br>\n&lt; TSR = 55\\(^o\\) - alternate angle to &lt; STP<br>\n<br>\nHence, &lt; PSR = 55\\(^o\\) + 55\\(^o\\) = 110\\(^o\\)<br>\n<br>\n\\(\\therefore\\) &lt; PQR = 110\\(^o\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "125<sup>o</sup>",
+            "120<sup>o</sup>",
+            "115<sup>o</sup>",
+            "110<sup>o</sup>",
+            "10<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11414902280_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "Since O is the centre of the circle &lt; POS = 150<sup>o</sup><br><br>i.e. &lt; substended at the centre is twice that substended at any part of the circumference",
+        "correctIndex": 4,
+        "options": [
+            "70<sup>o</sup>",
+            "75<sup>o</sup>",
+            "105<sup>o</sup>",
+            "140<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/22829813168_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "PSR = 65<sup>o</sup>x 2<br><br>= 130<sup>o</sup><br><br>PRS = 180<sup>o</sup>- (130<sup>o</sup>+ 20<sup>o</sup>)<br><br>= 30<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "45<sup>o</sup>",
+            "35<sup>o</sup>",
+            "40<sup>o</sup>",
+            "30<sup>o</sup>",
+            "42<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/lhYiOxNNEo7OrD278COiY8EORMfzsSSEjGAUmRwu.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of shaded portion = Area of triangle PQR - Area of inner triangle</p><p>Area of triangle given 3 sides a, b, c = \\(\\sqrt{s(s - a)(s - b)(s - c)}\\)</p><p>where \\(s = \\frac{a + b + c}{2} \\)</p><p>Area of PQR :</p><p>\\(s = \\frac{3 + 5 + 6}{2} = \\frac{14}{2} = 7\\)</p><p>Area = \\(\\sqrt{7(7 - 3)(7 - 5)(7 - 6)}\\)</p><p>= \\(\\sqrt{7(4)(2)(1)} = \\sqrt{56}\\)</p><p>\\(\\implies K^{2} = \\sqrt{56}\\)</p><p>Area of inner triangle :</p><p>\\(s = \\frac{2 + 4 + \\frac{10}{3}}{2} = \\frac{14}{3}\\)</p><p>Area = \\(\\sqrt{\\frac{14}{3} (\\frac{14}{3} - 2)(\\frac{14}{3} - 4)(\\frac{14}{3} - \\frac{10}{3})}\\)</p><p>= \\(\\sqrt{\\frac{14}{3} (\\frac{8}{3})(\\frac{2}{3})(\\frac{4}{3})}\\)</p><p>= \\(\\sqrt{\\frac{896}{81}}\\)</p><p>= \\(\\sqrt{\\frac{16}{81}} \\times \\sqrt{56}\\)</p><p>= \\(\\frac{4}{9} K^{2}\\)</p><p>\\(\\therefore \\text{The area of the shaded portion} = K^{2} - \\frac{4}{9}K^{2} = \\frac{5}{9}K^{2}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{5}{9}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{1}{3}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{8}{9}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{7}{9}\\)k<sup>2</sup>sq. units",
+            "\\(\\frac{2}{3}\\)k<sup>2</sup>sq. u"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27115061576_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "By Pythagoras, PE<sup>2</sup>= 13<sup>2</sup>- 5<sup>2</sup><br><br>= 169 - 144 = 144<br><br>h = PE = 144 = 12cm,<br><br>Area of 11gm = b x h<br><br>QR = b =(5 + 7)cm = 12cm<br><br>area = 12 x 12<br><br>= 144cm<sup>2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "60cm<sup>2</sup>",
+            "65cm<sup>2</sup>",
+            "72cm<sup>2</sup>",
+            "144cm<sup>2</sup>",
+            "156cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 49,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7135543920_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; D = 180<sup>o</sup>- 100v<br><br>= 80<sup>o</sup>(&lt; on a str. line)<br><br>&lt; s = 60<sup>o</sup>- alternate angle<br><br>x = 180<sup>o</sup>- (80<sup>o</sup>+ 60<sup>o</sup>)<br><br>180<sup>o</sup>- 140<sup>o</sup>= 40<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "20<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 50,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4281327216_maths-3.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{x + 3}{sin 60^o}\\) = \\(\\frac{x}{sin 306o}\\)<br><br>3sin 30<sup>o</sup>= x sin 60<sup>o</sup>- x sin 30<sup>o</sup><br><br>= x(sin 60<sup>o</sup>- sin 30<sup>o</sup>)<br><br>but sin 30<sup>o</sup>= \\(\\frac{1}{2}\\)<br><br>sin 60<sup>o</sup>= \\(\\frac{3}{2}\\) = \\(\\frac{3(\\sqrt{3} - 1)}{\\sqrt{3} + 1}\\)",
+        "correctIndex": 1,
+        "options": [
+            "3\\(\\sqrt{3}\\)",
+            "\\(\\frac{3(\\sqrt{3} - 1)}{\\sqrt{3} + 1}\\)",
+            "\\(\\frac{(\\sqrt{3} - 1)}{\\sqrt{3} + 1}\\)",
+            "\\(\\frac{3 - 1}{\\sqrt{3} + 1}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 51,
+        "year": 1979,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/27115079379_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Time(sec) areas of the three sides are \\(\\frac{1}{2}\\) x 2 x 20 = 20 x 2 = 40<br>\n<br>\n\\(\\frac{1}{2}\\) x 4 x 20 = 40<br>\n<br>\n40 + 40 = 80<br>\n<br>\nvel. = \\(\\frac{80}{4}\\)<br>\n<br>\n20 + 0.45 = 20.45 meter/sec.</p>",
+        "correctIndex": 3,
+        "options": [
+            "17.72 meter/sec.",
+            "21.67 meters/sec",
+            "2.5 meter/sec.",
+            "20.45 meters/sec.",
+            "13.33 meter/sec."
+        ],
+        "type": "objectives"
+    }
+]

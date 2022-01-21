@@ -1,0 +1,121 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9989869960_math-6.jpg\" class=\"img-fluid\">",
+        "explanation": "From \\(\\bigtriangleup\\)QPR, &lt; R = 180<sup>o</sup>- (25<sup>o</sup>+ 90<sup>o</sup>)<br><br>180<sup>o</sup>- 115<sup>o</sup>= 65<sup>o</sup><br><br>From \\(\\bigtriangleup\\)PSQ, Sin 65<sup>o</sup>= \\(\\frac{QPR}{hyp}\\) = \\(\\frac{PS}{5}\\)<br><br>PS = 5 sin 65<sup>o</sup><br><br>From \\(\\bigtriangleup\\)PSR, tan = \\(\\frac{OPP}{adj}\\) = \\(\\frac{PS}{QS}\\)<br><br>but PS = 5 sin 65<sup>o</sup><br><br>QS tan 25<sup>o</sup>= PS<br><br>QS tan 25<sup>o</sup>= 5 sin 65<sup>o</sup><br><br>QS = \\(\\frac{5 sin 65^o}{tan 25^o}\\)<br><br>= 5 tan 25<sup>o</sup>cos 65<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "5 tan 25<sup>o</sup>sin 65<sup>o</sup>",
+            "5 cos 25<sup>o</sup>sin 65<sup>o</sup>",
+            "5 tan 25<sup>o</sup>cos 65<sup>o</sup>",
+            "cos 25<sup>o</sup>cos 65<sup>o</sup>",
+            "5 cosec 25<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25688245158_math-7.jpg\" class=\"img-fluid\">",
+        "explanation": "Distance = 155 - 50 = 105km<br><br>Time = 75mins<br><br>= \\(\\frac{75}{60}\\)hr = \\(\\frac{5}{4}\\)hr<br><br>Average speed = \\(\\frac{Distance}{time}\\) = \\(\\frac{105}{\\frac{5}{4}}\\)<br><br>= \\(\\frac{105 \\times 4}{5}\\)<br><br>= 84km\\h",
+        "correctIndex": 4,
+        "options": [
+            "155km/hr",
+            "50km/hr",
+            "40km/hr",
+            "124km/hr",
+            "84km/hr"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/7135625485_math-8.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; STR = \\(\\frac{180 - 52}{2}\\) = \\(\\frac{128}{2}\\) = 64<sup>o</sup><br><br>&lt; PTR = 180 - &lt; STR(angle on a straight line)<br><br>= 180 - 64 = 116<sup>o</sup><br><br>&lt; PQR + &lt; PTR = 180(Supplementary)<br><br>&lt; PQR + 118 = 180<br><br>&lt; PQR = 180 - 118<br><br>= 64<br><br>M = 180 - &lt; PQR<br><br>= 180 - &lt; PQR = 180 - 64<br><br>= 116<sup>o</sup>",
+        "correctIndex": 4,
+        "options": [
+            "128<sup>o</sup>",
+            "52<sup>o</sup>",
+            "104<sup>o</sup>",
+            "64<sup>o</sup>",
+            "116<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19979756930_math-9.jpg\" class=\"img-fluid\">",
+        "explanation": "The parabola is best described by the equation x = y<sup>2</sup>- k because all other equations do not give the equation of the parabola in this position. C for example is the equation of a hyperbola facing downwards. D is the equation of a hyperbola A and E are equations of parabola facing upwards",
+        "correctIndex": 1,
+        "options": [
+            "y = kx<sup>2</sup>",
+            "x = y<sup>2</sup>- k",
+            "y = k - x<sup>2</sup>",
+            "x<sup>2</sup>= y<sup>2</sup>- k",
+            "y = (k - x)<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17125508976_math-10.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of a //gm PQRS = B X H<br><br>Area of a //gm PQRS = PQ x TF<br><br>50 = 10TF<br><br>TF = 5cm",
+        "correctIndex": 4,
+        "options": [
+            "10cm",
+            "12.5cm",
+            "8cm",
+            "6cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15698385340_math-11.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>QRST is a rectangle<br>\n<br>\nPT //QM, P = 60o = angle MUR = 150o</p>",
+        "correctIndex": 0,
+        "options": [
+            "150<sup>o</sup>",
+            "30<sup>o</sup>",
+            "60<sup>o</sup>",
+            "120<sup>o</sup>",
+            "90<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 1982,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28542524280_math-12.jpg\" class=\"img-fluid\">",
+        "explanation": "PTQ = 45<sup>o</sup><br><br>&lt; PRQ = 76\\(\\frac{1}{2}\\)",
+        "correctIndex": 3,
+        "options": [
+            "45",
+            "135",
+            "40",
+            "76\\(\\frac{1}{2}\\)",
+            "52\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    }
+]

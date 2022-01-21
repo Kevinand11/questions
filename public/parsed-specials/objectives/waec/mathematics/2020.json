@@ -1,0 +1,210 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2020,
+        "question": "<p>In the diagram, PQ // SR. Find the value of x</p><p> </p><p><img alt=\"\" src=\"data:image/png;base64,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\"></p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/p206x206/232798234_361112909025082_8057989881238704223_n.jpg?_nc_cat=111&amp;ccb=1-4&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFSoioNGAS6JN3KB9bhkVdS_3SlG27-AeP_dKUbbv4B40jGwSWmhqYdknAVLPynTMxA8b6B8xvh7ybOpVau9ItA&amp;_nc_ohc=GtGosOUR1mYAX8p4uwc&amp;_nc_ht=scontent.flos8-1.fna&amp;oh=03bdfbfbe0ae9652ac50d9cd6ccb3dcb&amp;oe=61346966\"></p><p>x + 68\\(^o\\)  + 246\\(^o\\) = 360\\(^o\\)</p><p>x + 314\\(^o\\) = 360\\(^o\\)</p><p>x = 360\\(^o\\) - 314\\(^o\\)</p><p>x = 46\\(^o\\)</p><p> </p>",
+        "correctIndex": 1,
+        "options": [
+            "34",
+            "46",
+            "57",
+            "68"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/241329469_2079842402156865_1071220261503090389_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGIKG31GktSTSHDMvLIXXXjmPx0pbJflNKY_HSlsl-U0jkQqHd7DOnGPkAKN9bW1gsxJHpuZ6WB76-Q1xOtu7Qa&amp;_nc_ohc=M67fRssVszoAX9-yCLu&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=82cc7e48cbb76c18e7bde1d38258e9a9&amp;oe=61546D6F\"></p><p>In the diagram, XYZ is an equilateral triangle of side 6cm and Y is the midpoint of \\(\\overline{XY}\\). Find tan (&lt; XZT) </p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/s206x206/231508179_496473998116003_4483791545683633376_n.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGcY-xHBE74SyUTfQtBngOHg77mGwgcsKiDvuYbCBywqNfc0ku2acUtsMZZ5geyjNVdzRm-KwMzyRmCxWXxr8jy&amp;_nc_ohc=FChceT1T74kAX_UbxaU&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=151fe6199e9aeac511f91a2f0c556b38&amp;oe=6131CF53\"></p><p>ZT = \\(\\sqrt{6^2 - 3^2}\\)</p><p>ZT = \\(\\sqrt{27}\\) = \\(3\\sqrt{3}\\)</p><p>tan (&lt; XZT) =  \\(\\frac{3}{3\\sqrt{3}}\\)</p><p>= - \\(\\frac{1}{\\sqrt{3}}\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "\\(\\frac{1}{\\sqrt{3}}\\)",
+            "\\(\\frac{\\sqrt{3}}{2}\\)",
+            "\\(\\sqrt{3}\\)",
+            "\\(\\frac{1}{2}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2020,
+        "question": "<p>A fence 2.4 m tall, is 10m away from a tree of height 16m. Calculate the angle of elevation of the top of the tree from the top of the fence. </p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/233185265_599285541058161_8184258360583383631_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeHyEZCqtGZy3pkBjXjlmHF1uisB0rEoxHC6KwHSsSjEcN5Sae6CvmBrbZH0vc26kU83Iun04SXAcq8PTDCPEQoo&amp;_nc_ohc=ZIUQeMGEgjoAX_V6Bld&amp;_nc_ht=scontent.flos8-1.fna&amp;oh=f926306ffed6f714e2ea2e1128e1ffa1&amp;oe=6131DA8E\"></p><p>Tan \\(\\theta\\) = \\(\\frac{13.6}{10}\\)</p><p>= tan\\(^{-1}\\)(1.36)</p><p>\\(\\theta\\) = 53.67\\(^o\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "76.11\\(^o\\)",
+            "53.67\\(^o\\)",
+            "52.40\\(^o\\)",
+            "51.32\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 2020,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/OSGSQFJsVnQolhV6vkOWfT7tmlU4NdsSHqPOChIp.png\" class=\"img-fluid\">",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/231391461_529760748277065_206015535613592764_n.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEoeMYFoCHc9BMriJmnfqwiwk-I1cNuegvCT4jVw256C3NGIw5KTSX9-7tkQfeH_wTsCOa9ez7cBOzS7rLYeAat&amp;_nc_ohc=aUrArvBxnu4AX-YO0tc&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=529a2aa5a9b666bed3826a23190279e3&amp;oe=6130C242\"></p><p>2x = 3x - 50 alternate angle </p><p>50\\(^o\\) = 3x - 2x </p><p>50\\(^o\\) = x </p><p>&lt; NPQ = (3x - 50)\\(^o\\) </p><p>= 3(500)\\(^o\\) - 50 </p><p>= 150 - 50 = 150\\(^o\\) </p>",
+        "correctIndex": 1,
+        "options": [
+            "200\\(^o\\)",
+            "150\\(^o\\)",
+            "120\\(^o\\)",
+            "90\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/s350x350/228767632_1476336216051667_2699072515089825776_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeH0cEYDYCST7AiEvPsD0qokA0SR3nJtsLYDRJHecm2wtgR6XDmAu9AyLrBA-8W5pG-e4MM8mY0uai-jb39ZviFT&amp;_nc_ohc=mc77so-q8_gAX_e280q&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=b3e8a03606a871033acf07ad7bae72f0&amp;oe=6130ECC5\"></p><p>In the diagram, \\(\\overline{PS}\\)/\\(\\overline{SR}\\), \\(\\overline{PS}\\)/\\(\\overline{TR}\\), \\(\\overline{QS}\\)/\\(\\overline{UR}\\), \\(\\overline{PS}\\) = 15cm, \\(\\overline{SR}\\) = 8cm, \\(\\overline{PS}\\) = 10cm and area of \\(\\triangle\\) SUR = 24cm\\(^2\\). Calculate the area of PTRS.</p>",
+        "explanation": "<p>Area PTRS = 10cm x 8cm </p><p>= 80cm</p>",
+        "correctIndex": 2,
+        "options": [
+            "40 cm\\(^2\\)",
+            "48 cm\\(^2\\)",
+            "80 cm\\(^2\\)",
+            "120 cm\\(^2\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p296x100/230374309_1137235023469912_2737169750700694831_n.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGFM1w1pN_HU5v6V-9G97RPksssqL5YCQiSyyyovlgJCAhS1nZitcX9inHLs4IaXrYLSZtuvPrNb0fmCDTgztNH&amp;_nc_ohc=_YWKZGYlyrYAX-z93nM&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=1ca17b7bdf1abe37c16282bc240e20e9&amp;oe=613209E8\"></p><p> </p><p>In the diagram, PQR is a circle with centre O. If &lt; OPQ = 48\\(^o\\), find the value of m</p>",
+        "explanation": "<p>&lt; O\\(Q\\)P = 48\\(^o\\) (base angles of isoceles \\(\\triangle\\))</p><p>m = 48\\(^o\\) + 48\\(^o\\) = 96\\(^o\\) (exterior angle of a \\(\\triangle\\))</p>",
+        "correctIndex": 0,
+        "options": [
+            "96\\(^o\\)",
+            "90\\(^o\\)",
+            "68\\(^o\\)",
+            "42\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/s206x206/241168995_374809964147334_3128700810536626908_n.jpg?_nc_cat=108&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFbqoUg6G3yIhqPF222TNvMTzxGVKqO0mdPPEZUqo7SZ1W8h6Q9JF7VpHC_M9L7cmcKQg0n40VCWddKDSM_hvko&amp;_nc_ohc=XLL85Tb5XfEAX9axBcC&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=e9e51538a817477aaac6d1eefbe85ac9&amp;oe=6156B558\"></p><p>The pie chart shows the population of men, women, and children in a city. If the population of the city is 1,800,000, how many men are in the city?</p>",
+        "explanation": "<p>Angle of Men = 360\\(^o\\) - (120 + 169) </p><p>= 360\\(^o\\) - 289\\(^o\\) = 71\\(^o\\)</p><p>No. of men \\(\\frac{71}{360}\\) x 1800,000</p><p>= 355,000</p>",
+        "correctIndex": 2,
+        "options": [
+            "845,000",
+            "600,000",
+            "355,000",
+            "250,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2020,
+        "question": "<p><img src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240960101_436856114293488_657427848585018451_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeG8m5EmzSlazmbWsYD_Y-cV6aZ6m_iOXLjppnqb-I5cuDnKO4kVMg4LyfIYRpTQDUTWRI2x-U6opA-qkMSZPSWO&amp;_nc_ohc=y3U-tXq_J8UAX-ZCwGu&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=6368c90d1db95dccf2763015c54e1d7c&amp;oe=61563F21\"></p><p> </p><p>In the diagram, O is the centre of the circle. SOQ is the diameter and &lt; SRP = 37\\(^o\\). Find &lt; PSQ.</p>",
+        "explanation": "<p> </p><p>&lt; PSQ = 180\\(^o\\) - (37\\(^o\\) + 90\\(^o\\))</p><p>= 180\\(^o\\) - 127\\(^o\\) = 53\\(^o\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "127\\(^o\\)",
+            "65\\(^o\\)",
+            "53\\(^o\\)",
+            "37\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/231956643_890697624872847_1191833829840600025_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGkLiyo9ai_ZpTntqCDGjcDiZ5TQwD4OQmJnlNDAPg5CRPzx_Xhk_zmOZRAelQIWKCX5uhVoiOuZF1S--Npq884&amp;_nc_ohc=ubPZ_1Gq-6gAX_7pjVp&amp;_nc_oc=AQl13LLkEyfjstA0vagzqGkNlQyLhU7qCEW_s3u_X5K4ILnxmN_jN4giR_Fg63qslC4xx5ek7J-mQEnhHC4z-Lr0&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=bd607aae24c4df98a43e328eb4602d0e&amp;oe=6131F97F\"></p><p>In the diagram PQ is a straight line. If m  = \\(\\frac{1}{2}\\) (x + y + z), find value of m.</p>",
+        "explanation": "<p>x + y + m + 2 = 180\\(^o\\)</p><p>\\(\\frac{x + y + 2}{2} + \\frac{m}{2}\\) = 90\\(^o\\)</p><p>m + \\(\\frac{m}{2} = 90^o\\)</p><p>3m = 2 x 90\\(^o\\)</p><p>\\(\\frac{3m}{3} = \\frac{180^o}{3}\\)</p><p>m = 60\\(^o\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "45\\(^o\\)",
+            "60\\(^o\\)",
+            "90\\(^o\\)",
+            "100\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p296x100/230578086_1496925067326709_2924859581854079674_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeGAzk1ad61jyz-Vjmy1T_mzW31C0H8A4SJbfULQfwDhIr6reBzfMr1MC-SQCmI6smOvmxH4_wS15kPxoYMryIDX&amp;_nc_ohc=MV9vj_sInFcAX9HgVhl&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=e5600395596efac29682877e74c47e8b&amp;oe=6130137A\"></p><p>In the diagram, O is the centre of the circle, \\(\\overline{PQ}\\) and \\(\\overline{RS}\\) are tangents to the circle. Find the value of (m + n). </p>",
+        "explanation": "<p>m + n + 90\\(^o\\) + 180\\(^o\\) (sum of angle in a \\(\\triangle\\))</p><p>m + n = 180\\(^o\\) - 90\\(^o\\)</p><p>m + n =90\\(^o\\)</p>",
+        "correctIndex": 1,
+        "options": [
+            "120\\(^o\\)",
+            "90\\(^o\\)",
+            "75\\(^o\\)",
+            "60\\(^o\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/231001119_356252236112173_8091734189566119517_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeG6YiJtxPwF1ZYF1OctERHrWWR4_m7zJoNZZHj-bvMmgzc4auKxzV4mcshgeJ5SZxyd4y54Ah0LqJmfhPnlYZ4V&amp;_nc_ohc=OyZzTeJdXisAX_j91Ac&amp;_nc_oc=AQnvMwXOgmEEmz4ahDcww6jVE0Yx2sUpwhOFI1U6A4tDycqXYdR4utVyZac4HjxkpWJNxHC3FTSds26byi6v97TC&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=42ac47d2e470ef073c2523fb53edb90f&amp;oe=6131D633\" style=\"height:220px; width:300px\"></p><p>The graph of the equations y = 2x + 5 and y = 2x\\(^2\\) + x - 1 are shown below. Find the points of intersection of the two graphs.</p><p> </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "(2.0, 9.0) and (-1.5, 2.0)",
+            "(2.0, 8.5) and (-1.5, 2.0)",
+            "(2.0, 8.0) and (-1.5, 2.5)",
+            "(2.0, 7.5) and (-1.5, 2.5)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/231001119_356252236112173_8091734189566119517_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeG6YiJtxPwF1ZYF1OctERHrWWR4_m7zJoNZZHj-bvMmgzc4auKxzV4mcshgeJ5SZxyd4y54Ah0LqJmfhPnlYZ4V&amp;_nc_ohc=OyZzTeJdXisAX_j91Ac&amp;_nc_oc=AQnvMwXOgmEEmz4ahDcww6jVE0Yx2sUpwhOFI1U6A4tDycqXYdR4utVyZac4HjxkpWJNxHC3FTSds26byi6v97TC&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=42ac47d2e470ef073c2523fb53edb90f&amp;oe=6131D633\" style=\"height:264px; width:300px\"></p><p>The graph of the equations y = 2x + 5 and y = 2x\\(^2\\) + x - 1 are shown. If x = -2.5, what is the value of u on the curve?</p>",
+        "explanation": "<p>If x = -2.5 </p><p>y = 8.5 </p>",
+        "correctIndex": 1,
+        "options": [
+            "y = 8.0",
+            "y = 8.5",
+            "y = 9.0",
+            "y = 9.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 49,
+        "year": 2020,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p228x119/229696542_357121855856004_5648311715449909218_n.jpg?_nc_cat=106&amp;ccb=1-3&amp;_nc_sid=aee45a&amp;_nc_eui2=AeFvTsl8o0z1t7c3hjmrNk4NOXdj1PS-EZE5d2PU9L4RkV47Smkg7AyMl44sHqhmqCmo1JVe5bmeW6R2CaYw0BNe&amp;_nc_ohc=Uww3oayYxFIAX8R63qm&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=a04818c777a3edcf0cc4679b90cfa49e&amp;oe=61319EDD\"></p><p>In the diagram, O is the centre of the circle. If &lt; NLM = 74\\(^o\\), &lt; LMN = 39\\(^o\\) and &lt; LOM = x, find the value of x. </p>",
+        "explanation": "<p>L\\(N\\)M = 180\\(^o\\) - (74\\(^o\\) + 39\\(^o\\)) </p><p>180\\(^o\\) - 113\\(^o\\) </p><p>= 67\\(^o\\)</p><p>L\\(^O\\)</p><p>M = x = 2 x 67\\(^o\\) </p><p>= 134\\(^o\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "134\\(^o\\)",
+            "126\\(^o\\)",
+            "113\\(^o\\)",
+            "106\\(^o\\)"
+        ],
+        "type": "objectives"
+    }
+]

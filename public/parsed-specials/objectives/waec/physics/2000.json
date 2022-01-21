@@ -1,0 +1,98 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 1,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12863546010_maths-11.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "100 tan 30<sup>o</sup>",
+            "\\(\\frac{100}{\\cos 30^o}\\)",
+            "200 sin 30<sup>1</sup>",
+            "\\(\\frac{200}{tan 30^o}\\)"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12865748859_maths-17.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2000J",
+            "1000J",
+            "20J",
+            "5J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 18,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15724813973_maths-21.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "-32<sup>o</sup>C",
+            "-100<sup>o</sup>C",
+            "-273<sup>o</sup>C",
+            "-373<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 25,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12865825440_maths-28.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "70<sup>o</sup>",
+            "80<sup>o</sup>",
+            "100<sup>o</sup>",
+            "120<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 35,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1429539591_maths-38.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "1.20A",
+            "0.90A",
+            "0.75A",
+            "0.60A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12865859253_maths-38.jpg\" class=\"img-fluid\">",
+        "explanation": "C.V = 1R<sub>1</sub>+ 1R<sub>2/sub&gt;<br>\n<br>\n= (1.2 1.5) + (1.5 6)<br>\n<br>\n= 1.8 + 9 <br>\n<br>\n= 10.80V\n</sub>",
+        "correctIndex": 2,
+        "options": [
+            "7.50V",
+            "9.00V",
+            "10.80V",
+            "1.25V"
+        ],
+        "type": "objectives"
+    }
+]

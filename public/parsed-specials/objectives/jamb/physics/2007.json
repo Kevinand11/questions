@@ -1,0 +1,130 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25912197739_phy20072aaa.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/15001798691_phy20072aaa.jpg\" class=\"img-fluid\">\n</div><u>Resolution of force:</u><br>Total vertical upward force:<br>= 3√3 + 10 cos 60<sup>o</sup><br>= 3√3 + 5.<br>Total downward force<br>= 6 cos 30<sup>o</sup><br>= 6 x √(<sup>3</sup>/<sub>2</sub>) = 3√3<br>Total horizontal forces towards right;<br>= 3N + cos 30<sup>o</sup><br>= 3N + 10 x √(<sup>3</sup>/<sub>2</sub>)<br>= 3N + 5√3<br>Total horizontal forces towards left:<br>= 6 cos 60<sup>o</sup><br>= 6 x 0.5<br>= 3.0N<br><u>Summary</u>:<br>Vertical resultant forces upward:<br>= 3√3 + 5 - 3√3<br>= 5N<br>Horizontal resultant forces towards right:<br>= 3N + 5√3 - 3√3<br>= 5N<br>Horizontal resultant force towards right<br>= 3N + 5√3 - 3N<br>= 5√3N<br><br>∴ R<sup>2</sup>= 5<sup>2</sup>+ (5√3)<sup>2</sup><br>= 25 + 25 x 3<br>= 100<br>∴ R = √100<br>= 10N",
+        "correctIndex": 2,
+        "options": [
+            "5N",
+            "5√ 3N",
+            "10N",
+            "10√ 3N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24548406732_phy20075.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>The ball has its fastest speed at its equilibrium position when its displacement X = 0, which is at X. At this point, the bob has maximum velocity and maximum kinetic energy.</p>",
+        "correctIndex": 0,
+        "options": [
+            "X",
+            "Y",
+            "Z",
+            "W"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 27,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23184622015_phy20077.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23184622015_phy20077a.jpg\" class=\"img-fluid\">\n</div>Being a uniform rod, the height W should be acting at the mid point 25cm mark.<br>∴ Taking moment about the fulcrum, F,<br>200 x 10 = W x 10 + 40 x 30<br>2000 = 10W + 1200<br>=&gt; 10W = 2000 - 1200<br>= 800<br>w = 800/10 = 80N",
+        "correctIndex": 1,
+        "options": [
+            "40N",
+            "80N",
+            "120N",
+            "200N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2007,
+        "question": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2N applied at the angle of 60<sup>o</sup>to the floor. The work done after a distance of 3m is",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/21820827824_phy20078a.jpg\" class=\"img-fluid\">\n</div>Effective component of the force along the horizontal = F cos 60<sup>o</sup><br>Work done by this force : 60<br>F cos 60 x X<br>= 2 x 0.5 x 3<br>= 3J",
+        "correctIndex": 0,
+        "options": [
+            "3 J",
+            "4 J",
+            "5 J",
+            "6 J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 32,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/6819048110_phy200734.jpg\" class=\"img-fluid\">",
+        "explanation": "Since the cells are connected in parallel the net e.m.f is that of one cell, E.<br>However the effective internal resistance should be added as parallel resistance.<br>=&gt;<sup>1</sup>/<sub>v</sub>+<sup>1</sup>/<sub>25</sub>+<sup>1</sup>/<sub>25</sub>+<sup>1</sup>/<sub>25</sub>= 1.2<br>∴ v = 0.83Ω<br>∴ Effective e.m.f and internal resistance are respectively = 1.5V and 0.83Ω",
+        "correctIndex": 1,
+        "options": [
+            "1.5V, 7.50Ω",
+            "1,5V, 0.83Ω",
+            "4.5V, 7.50Ω",
+            "4.5V, 0.83Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 33,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16365719088_phy200737.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "Upwards",
+            "Downwards",
+            "Right",
+            "Left"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2007,
+        "question": "During the nuclear reaction described by<br><table><tbody><tr><td>235</td><td rowspan=\"2\">W →</td><td>235</td><td rowspan=\"2\">X→</td><td>231</td><td rowspan=\"2\">Y</td></tr><tr><td>92</td><td>93</td><td>91</td></tr></tbody></table><br>the particles emitted are respectively",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25915155184_phy200745a.jpg\" class=\"img-fluid\">\n</div>The decay process illustrated above shows that the lost β -particle to decay to the X by increase its atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91).<br>Thus , the emission is β and α particles respectively",
+        "correctIndex": 3,
+        "options": [
+            "α and α",
+            "α and β",
+            "β and β",
+            "β and α"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2007,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8183736768_phy200742.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8183736768_phy200742.jpg\" class=\"img-fluid\">\n</div>The inductive reactance is given as<br>Xl = 2πfl<br>= 2 x<sup>50</sup>/<sub>π</sub>x 0.1<br>= 10Ω<br>Again from ohms law,<br>R =<sup>V</sup>/<sub>I</sub>=<sup>75</sup>/<sub>1.5</sub>= 50Ω<br>∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+        "correctIndex": 3,
+        "options": [
+            "50Ω and 45Ω",
+            "25Ω and 51Ω",
+            "20Ω and 50Ω",
+            "10Ω and 50Ω"
+        ],
+        "type": "objectives"
+    }
+]

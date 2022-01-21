@@ -1,0 +1,66 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 8,
+        "year": 1998,
+        "question": "<p>A uniform meter rule weighing 0.5N is to be pivoted on a knife-edge at the 30cm-mark. where will a force of 2N be placed from the pivot to balance the meter rule?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191218_105851%20%282%29.jpg\" style=\"height:59px; width:250px\"></p><p>Taking moment about P,</p><p>2 x (30 - x) = 0.5 x (50 - 30)</p><p>60 - 2x = 10</p><p>2x = 50</p><p>x = 25 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "95cm",
+            "25cm",
+            "20cm",
+            "5cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/26257098618_1998.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "5N in the direction of east",
+            "5N in the diretion of west",
+            "5V3N in the direction of west",
+            "10N in the southwest direction"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13128550470_19980001.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "18.0Ω",
+            "11.0Ω",
+            "4.0Ω",
+            "2.0Ω"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1998,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23339647456_19980002.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "5000π Hz",
+            "2500π Hz",
+            "5000/π Hz",
+            "2500/π Hz"
+        ],
+        "type": "objectives"
+    }
+]

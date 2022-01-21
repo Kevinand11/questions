@@ -1,0 +1,178 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 12,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14926060600_math200914.jpg\" class=\"img-fluid\">",
+        "explanation": "x = -2 and x =<sup>1</sup>/<sub>4</sub><br>x = -2 and 4x = 1<br>x+2 and 4x-1<br>(x+2)(4x-1) = 0<br>4x<sup>2</sup>- x + 8x -2 = 0<br>4x<sup>2</sup>+ 7x – 2 = 0 but y intercept is positive. Multiply the equation by -1<br>-4x<sup>2</sup>- 7x + 2 = 0<br>∴y = 2 – 7x – 4x<sup>2</sup>",
+        "correctIndex": 3,
+        "options": [
+            "y = 2+7x+4x<sup>2</sup>",
+            "y = 2-7x+4x<sup>2</sup>",
+            "y = 2+7x-4x<sup>2</sup>",
+            "y = 2-7x-4x<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 14,
+        "year": 2009,
+        "question": "<p>Determine the value of x for which (x\\(^2\\) - 1) &gt; 0</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25781398509_math200916.jpg\" class=\"img-fluid\">\n</div><p>x\\(^2\\) &gt; 0<br>\n(x+1)(x-1) &gt; 0<br>\nx &gt; 1 or -1 &gt; x<br>\nx &lt; -1 or x &gt; 1</p>",
+        "correctIndex": 0,
+        "options": [
+            "x &lt; -1 or x &gt; 1",
+            "-1 &lt; x &lt; 1",
+            "x &gt; 0",
+            "x &lt; -1"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 24,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8142430194_math200926.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/25784362281_math200926a.jpg\" class=\"img-fluid\">\n</div><p>In Δ TYX<br>\nXY = TY ∴y =47° base ∠s of ISCΔ<br>\nBut y+x+34+47 = 180 interior<br>\nopposite ∠s are supplementary<br>\n47 + x + 34 + 47 = 180<br>\nx + 128= 180<br>\nx = 180- 128<br>\nx = 52°</p>",
+        "correctIndex": 1,
+        "options": [
+            "47<sup>o</sup>",
+            "52<sup>o</sup>",
+            "56<sup>o</sup>",
+            "99<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 25,
+        "year": 2009,
+        "question": "If the hypotenuse of a right angle-triangle isosceles triangle is 2cm. What is the area of the triangle?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/21713155776_math200927.jpg\" class=\"img-fluid\">\n</div>X<sup>2</sup>+ x<sup>2</sup>= 2<sup>2</sup><br>2x<sup>2</sup>= 4<br>x<sup>2</sup>=<sup>4</sup>/<sub>2</sub><br>x<sup>2</sup>= 2<br>x = +/-√2<br>Area of Δ =<sup>1</sup>/<sub>2</sub>bh<br>=<sup>1</sup>/<sub>2</sub>x √2 x √2<br>=<sup>2</sup>/<sub>2</sub><br>= 1 cm<sup>2</sup>",
+        "correctIndex": 1,
+        "options": [
+            "<sup>1</sup>/<sub>√2</sub>cm<sup>2</sup>",
+            "1 cm<sup>2</sup>",
+            "√2 cm<sup>2</sup>",
+            "2√2 cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 26,
+        "year": 2009,
+        "question": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/18999045548_math200928.jpg\" class=\"img-fluid\">\n</div>x<sup>2</sup>+ 5<sup>2</sup>= 13<sup>2</sup><br>x<sup>2</sup>+ 25 = 169<br>x<sup>2</sup>= 144<br><span style=\"white-space: nowrap; font-size:larger\"><br>\nx = √<span style=\"text-decoration:overline;\"> 144 </span><br>\n</span><br>= 12<br>Length of the chord AB = 2x<br>2*12= 24cm",
+        "correctIndex": 3,
+        "options": [
+            "7cm",
+            "9cm",
+            "12cm",
+            "24cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 28,
+        "year": 2009,
+        "question": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/18999625778_math200930.jpg\" class=\"img-fluid\">\n</div>Locus of a particle which moves in the first quadrant so that it is equidistant from the lines<br>X = 0 and Y = 0 and x = 0 and y = 0 are the x and y axes is the lines bisecting the angle between x and y axes",
+        "correctIndex": 1,
+        "options": [
+            "x + y = 0",
+            "x - y = 0",
+            "x + y + k = 0",
+            "x - y - k = 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 29,
+        "year": 2009,
+        "question": "What is the locus or the mid-point of all the chords of length 6cm with circle of radius 5cm and with center 0?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/4071349947_math200931.jpg\" class=\"img-fluid\">\n</div>x<sup>2</sup>+ 3<sup>3</sup>= 5<sup>2</sup><br>x<sup>2</sup>+ 9 = 25<br>x<sup>2</sup>= 25 – 9<br>x<sup>2</sup>= 16<br><span style=\"white-space: nowrap; font-size:larger\"><br>\nx = √<span style=\"text-decoration:overline;\"> 16 </span><br>\n</span><br>= 4 cm<br>∴ The locus is a circle of radius 4 cm with the center 0",
+        "correctIndex": 0,
+        "options": [
+            "A circle of radius 4 cm and the center 0",
+            "The perpendicular bisector of the chords",
+            "A straight line passing through 0",
+            "A circle of radius 6 cm and with center 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20362397190_math200943.jpg\" class=\"img-fluid\">",
+        "explanation": "Sectorial angle of apple<br>100 + 100 + 115 + x = 30<sup>o</sup><br>315 + x = 360<br>x = 360 - 315<br>x = 45<sup>o</sup><br>360<sup>o</sup>represents 400<br>1<sup>o</sup>represents 400 / 360<br>45<sup>o</sup>represents (400/360) x (45/1)<br>= 50 apples",
+        "correctIndex": 1,
+        "options": [
+            "45",
+            "50",
+            "60",
+            "75"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2009,
+        "question": "<p>In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/20363336025_math200947.jpg\" class=\"img-fluid\">\n</div><p>= \\((^{5}C_{2} \\times ^{3}C_{1}) + (^{5}C_{1} \\times ^{3}C_{2})\\)</p><p>= \\((10 \\times 3) + (5 \\times 3)\\)</p><p>= 45.</p>",
+        "correctIndex": 3,
+        "options": [
+            "15",
+            "28",
+            "30",
+            "45"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 47,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5713639540_MATHS-3.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\begin{array}{c|c} Mark &amp; No. of Candidate\\\\\\hline 60 &amp; 40\\\\ 70 &amp; 25\\\\ 80 &amp; 15\\\\ 90 &amp; 10 \\\\100 &amp; 5 \\\\\\hline &amp; 95 \\end{array}\\)",
+        "correctIndex": 1,
+        "options": [
+            "80",
+            "95",
+            "100",
+            "115"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 48,
+        "year": 2009,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8570470410_maths-6.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "18%",
+            "28%",
+            "36%",
+            "50%"
+        ],
+        "type": "objectives"
+    }
+]

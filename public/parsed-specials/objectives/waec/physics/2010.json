@@ -1,0 +1,50 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 28,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4293007092_maths-28.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "n = tan i",
+            "n = \\(\\frac{sin i}{sin 90^o}\\)",
+            "n = \\(\\frac{sin i}{cos (90^o - i)}\\)",
+            "n = sin 90<sup>o</sup>C"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 36,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8586028440_maths-37.jpg\" class=\"img-fluid\">",
+        "explanation": "\\(\\frac{1}{R} = \\frac{1}{R_1} + \\frac{1}{R_2}\\)<br><br>= \\(\\frac{1}{6} + \\frac{1}{4}\\)<br><br>R = \\(\\frac{12}{5} = 2.5\\Omega\\)<br><br>R = 2.4 + 10 = 12.4<br><br>V = IR<br><br>I = \\(\\frac{v}{R} = \\frac{12}{12.4} = 0.97\\)",
+        "correctIndex": 1,
+        "options": [
+            "0.60A",
+            "0.97A",
+            "1.03A",
+            "5.00A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 37,
+        "year": 2010,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1431004838_maths-37.jpg\" class=\"img-fluid\">",
+        "explanation": "V = IR<br><br>= 0.97 x 2.4 = 2.3V",
+        "correctIndex": 1,
+        "options": [
+            "2.0V",
+            "2.3V",
+            "3.0V",
+            "0.7V"
+        ],
+        "type": "objectives"
+    }
+]

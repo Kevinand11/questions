@@ -1,0 +1,114 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 18,
+        "year": 2000,
+        "question": "<p>A frustrum of pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. Find the height of the pyramid from which the frustrum was obtained.</p>",
+        "explanation": "<p><ins>The lateral view of the frustrum</ins></p><p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191025_111404%20%282%29.jpg\" style=\"width:250px\"></p><p>\\(\\tan \\theta = \\frac{6}{1.5} = 4\\)</p><p>\\(\\theta = \\tan^{-1} 4 = 75.96°\\)</p><p>Extending to the full height of the pyramid, we have</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191025_111729%20%282%29.jpg\" style=\"height:163px; width:200px\"></p><p>The height of the pyramid which formed the frustrum = (6 + x)m,</p><p>\\(\\tan 75.96 = \\frac{6 + x}{2.5}\\)</p><p>\\(6 + x = 2.5 \\times 4 = 10.0\\)</p><p>\\(\\therefore \\text{The height of the pyramid} = 10.0m\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "8.0 m",
+            "8.4 m",
+            "9.0 m",
+            "10.0 m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16295181348_math200029.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/10863454240_math200029a.jpg\" class=\"img-fluid\">\n</div>Δ PQR is isosceles<br>∴∠PRQ = 30<sup>o</sup><br>Also in Δ PQR<br><sup>^</sup>Q = 180 -(30 + 30)<br>= 120<sup>o</sup><br>PQRS is a cyclic quad<br>∴<sup>^</sup>S +<sup>^</sup>Q = 180(opp ∠s of a cyclic quad)<br>S + 120 = 180<br>S = 60<sup>o</sup><br>In ΔPSR<br>x + 50 + 60<br>= 180(sum of ∠s of a Δ)<br>x + 110 = 180<br>x = 180 - 110<br>x = 70<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "80<sup>o</sup>",
+            "70<sup>o</sup>",
+            "60<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14937253485_math200030.jpg\" class=\"img-fluid\">",
+        "explanation": "The locus of X is the perpendicular bisector of PQ",
+        "correctIndex": 3,
+        "options": [
+            "16 cm",
+            "20 cm",
+            "26 cm",
+            "32 cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 42,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14277288930_maths-2.jpg\" class=\"img-fluid\">",
+        "explanation": "&lt; QPR = &lt; PRQ = 30<sup>o</sup>(PQ = QR)<br><br>&lt; SPQ + &lt; QRS = 180<sup>o</sup>(supplementary)<br><br>80 + &lt; QRS = 180<sup>o</sup>= &lt; QRS = 180<sup>o</sup>- 80<sup>o</sup>= 100<sup>o</sup><br><br>&lt; QRP + &lt; PRS = 100<sup>o</sup>= 30<sup>o</sup>+ &lt; PRS = 100<sup>o</sup><br><br>= &lt; PRS = 100<sup>o</sup>- 30<sup>o</sup>= 70<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "50<sup>o</sup>",
+            "60<sup>o</sup>",
+            "70<sup>o</sup>",
+            "80<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/14277290770_maths-1.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/17132748924_1987-6.jpg\" class=\"img-fluid\">\n</div>\\(\\bigtriangleup\\)OEN = \\(\\bigtriangleup\\)OGN<br><br>OE = OG = r(radii)<br><br>(r - 8)<sup>2</sup>+ 12<sup>2</sup>= r<sup>2</sup><br><br>r<sup>2</sup>- 16r + 64 + 144 = r<sup>2</sup><br><br>16r = 64 + 144 = r<sup>2</sup><br><br>16r = 64 + 144 = 208<br><br>\\(\\frac{208}{16}\\) = 13cm<br><br>FH = 2FO = 2OH = 2R<br><br>= 2 x 13cm<br><br>= 26cm",
+        "correctIndex": 1,
+        "options": [
+            "32cm",
+            "26cm",
+            "20cm",
+            "16cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 44,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17132759388_maths-4.jpg\" class=\"img-fluid\">",
+        "explanation": "A = \\(\\int^{x = 4}_{x = 0}\\) ydx = \\(\\int^{4}_{0}\\) x<sup>2</sup>dx = [\\(\\frac{x^3}{3} + c]^{4}_{0}\\)<br><br>= \\(\\frac{64}{3}\\) square units",
+        "correctIndex": 3,
+        "options": [
+            "64 square units",
+            "\\(\\frac{126}{4}\\) square units",
+            "32 square units",
+            "\\(\\frac{64}{3}\\) square units"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2000,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/28554613760_maths-5.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "17.5 - 20.5",
+            "16.5 - 19.5",
+            "15.5 - 19.5",
+            "15.5 - 18.5"
+        ],
+        "type": "objectives"
+    }
+]

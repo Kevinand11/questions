@@ -1,0 +1,50 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 40,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16370431332_phy20112.jpg\" class=\"img-fluid\">",
+        "explanation": "The resultant, R is given by pythagoras rule, R<sup>2</sup>= P<sup>2</sup>+ Q<sup>2</sup><br>= 6<sup>2</sup>+ 8<sup>2</sup>= 36 + 64 = 100<br>R = √100 = 10.0N<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "14.0 N",
+            "10.0 N",
+            "12.0 N",
+            "13.0 N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 41,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4092609036_phy20114.jpg\" class=\"img-fluid\">",
+        "explanation": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 0,
+        "options": [
+            "Z only",
+            "X only",
+            "Y and Z",
+            "Y and X"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 45,
+        "year": 2011,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/25920045917_phy201140.jpg\" class=\"img-fluid\">",
+        "explanation": "<table><tbody><tr><td rowspan=\"2\">I</td><td style=\"border-bottom:solid 1px\">V</td></tr><tr><td>R</td></tr></tbody></table><br><table><tbody><tr><td rowspan=\"2\">= </td><td style=\"border-bottom:solid 1px\">12</td></tr><tr><td>12</td></tr></tbody></table><br>= 1A<p class=\"my-4\">There is an explanation video available <a href=\"#explanation_video\">below</a>.</p>",
+        "correctIndex": 1,
+        "options": [
+            "14.4 A",
+            "1.0 A",
+            "3.2 A",
+            "9.6 A"
+        ],
+        "type": "objectives"
+    }
+]

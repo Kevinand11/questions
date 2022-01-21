@@ -1,0 +1,82 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 42,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4294330116_4.jpg\" class=\"img-fluid\">",
+        "explanation": "F + Ma = P<br><br>a = \\(\\frac{P - F}{m}\\)<br><br>= \\(\\frac{40 - 12}{5} = 5.6ms^{-2}\\)",
+        "correctIndex": 1,
+        "options": [
+            "2.4ms<sup>-2</sup>",
+            "5.6ms<sup>-2</sup>",
+            "8.0ms<sup>-2</sup>",
+            "2.4ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18608766774_11.jpg\" class=\"img-fluid\">",
+        "explanation": "Vertical resultant = 10 - 6 = 4N<br><br>Horizontal resultant = 20 - 17 = 3N<br><br>R = \\(\\sqrt{3^2 + 4^2}\\)<br><br>= 5N",
+        "correctIndex": 3,
+        "options": [
+            "53.N",
+            "21.0N",
+            "7.0N",
+            "5.0N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 44,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18608770830_20.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "momentum of the air molecules are increased",
+            "volume occupied by the molecules are increased",
+            "frequency of collision of the air molecules with the walls of the pump is increased",
+            "more air molecules are collidin with one another in the system"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15745883967_24.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "P and R",
+            "R and T",
+            "P and T",
+            "Q and S"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 46,
+        "year": 2013,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4294332735_36.jpg\" class=\"img-fluid\">",
+        "explanation": "cells in V = voltage of the cell<br><br>= 2V<br><br>I = \\(\\frac{v}{R} = \\frac{2}{3}\\)<br><br>= 1A",
+        "correctIndex": 0,
+        "options": [
+            "2V, 1.0A",
+            "2V, 4.0A",
+            "6V, 0.3a",
+            "6V, 3.0a"
+        ],
+        "type": "objectives"
+    }
+]

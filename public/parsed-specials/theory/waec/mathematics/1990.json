@@ -1,0 +1,74 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 2,
+        "year": 1990,
+        "question": "<p>Show on a graph, the area which gives the solution set of the inequalities: \\(y - 2x \\leq 4 ; 3y + x \\geq 6 ; y \\geq 7x - 9\\).</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0367%20%282%29.jpg\" style=\"width:400px\"></p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 3,
+        "year": 1990,
+        "question": "<p>(a) Prove that the sum of the angles in a triangle is 2 right angles.</p><p>(b) The side AB of a triangle ABC is produced to a point D. The bisector of ACB cuts AB at E. Prove that &lt; CAE + &lt; CBD = 2 &lt; CEB.</p>",
+        "answer": "<p>(a) Given any triangle ABC</p><p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0368%20%282%29.jpg\" style=\"height:124px; width:250px\"></p><p>To prove that &lt; A + &lt; B + &lt; C = 180°</p><p>Construction: Produce BC to X and draw CP // BA.</p><p>Proof: with the lettering \\(a_{1} = a_{2}\\) (alternate angles);</p><p>\\(b_{1} = b_{2}\\) (corresponding angles)</p><p>\\(&lt; BCA + &lt; A + &lt; B = 180° ; &lt; ACB + &lt; A + &lt; B = 180°\\)</p><p>\\(\\therefore &lt; A + &lt; B + &lt; C = 180°\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0368%20%283%29.jpg\" style=\"height:145px; width:250px\"></p><p>From the given triangle and with reference to letterings;</p><p>\\(\\hat{a} + \\hat{c} + \\hat{c} = \\hat{b}\\) (exterior opposite angles of a triangle)</p><p>\\(a + c = e\\) (exterior opposite angles of a triangle)</p><p>\\(a + b = a + a + c + c \\implies a + b = 2(a + c)\\)</p><p>= \\(2e \\text{where e = a + c}\\)</p><p>i.e \\(&lt; CAE + &lt; CBD = 2 &lt; CED\\) (Proved)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1990,
+        "question": "<p>The feet of two vertical poles of height 3m and 7m are in line with a point P on the ground, the smaller pole being between the taller pole and P and at a distance of 20m from P. The angle of elevation of the top (T) of the taller pole from the top (R) of the smaller pole is 30°. Calculate the :</p><p>(i) distance RT ; (ii) distance of the foot of the taller pole from P, correct to three significant figures ; (iii) angle of elevation of T from P, correct to one decimal place.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0368%20%284%29.jpg\" style=\"height:224px; width:250px\"></p><p>(i) From the figure,</p><p>\\(\\sin 30° = \\frac{4}{RT} \\implies RT = \\frac{4}{\\sin 30°}\\)</p><p>= \\(\\frac{4}{0.5} = 8m\\)</p><p>(ii) |RQ| = |XY|</p><p>\\(\\therefore |XY|^{2} = 8^{2} - 4^{2} = 64 - 16 = 48\\)</p><p>\\(|XY| = \\sqrt{48} = 4\\sqrt{3} m = 6.928m\\)</p><p>But |PY| = |PX| + |XY| </p><p>= 20 + 6.928 = 26.928m \\(\\approxeq\\) 26.9m.</p><p>(iii) Let the angle of elevation = \\(\\theta\\)</p><p>\\(\\tan \\theta = \\frac{TY}{PY} = \\frac{7}{26.928}\\)</p><p>\\(\\tan \\theta = 0.26 \\implies \\theta = \\tan^{-1} (0.26)\\)</p><p>\\(\\theta = 14.57°  \\approxeq 14.6°\\) (to 1 decimal place)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1990,
+        "question": "<p>(a) Find the volume of a right solid cone of base radius 4cm and perpendicular height 6cm. [\\(\\pi = 3.142\\)]</p><p>(b) A hemispherical tank of diameter which is 10m is filled by water issuing from a pipe of radius 20cm at 2m per second. Calculate, correct to three significant figures, the time, in minutes, it takes to fill the tank.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0368%20%285%29.jpg\" style=\"height:275px; width:250px\"></p><p>Formula : Volume = \\(\\frac{1}{3} \\pi r^{2} h\\)</p><p>\\(\\pi = 3.142; r = 4cm; h = 6cm\\)</p><p>\\(Volume = \\frac{1}{3} \\times 3.142 \\times 4^{2} \\times 6 = 100.544 cm^{3}\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0368%20%286%29.jpg\" style=\"height:210px; width:250px\"></p><p>Volume of hemisphere = \\(\\frac{1}{2} \\times \\frac{4}{3} \\pi r^{3}\\)</p><p>= \\(\\frac{2}{3} \\times \\frac{22}{7} \\times 5^{3}\\)</p><p>= \\(\\frac{5500}{21} cm^{3} = 261.905 cm^{3}\\)</p><p>Volume of water discharged per second = \\(\\pi r^{2} h\\)</p><p>= \\(\\frac{22}{7} \\times 0.2m \\times 0.2m \\times 2m = \\frac{1.76}{7}\\)</p><p>= \\(0.2514 m^{3} / sec\\)</p><p>\\(\\therefore \\text{The time to fill the tank = } \\frac{261.905}{0.2514 \\times 60}\\)</p><p>= \\(\\frac{261.905}{15.084} = 17.363 mins\\)</p><p>\\(\\approxeq 17.4 mins\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 1990,
+        "question": "<p>(a) ABCD is a trapezium in which AB // DC, |AB| = 8cm, &lt; ABC = 60°, |BC| = 5.5cm and |BD| = 8.3cm. Using a ruler and a pair of compasses only, construct:</p><p>(i) the trapezium ABCD ; (ii) a rectangle PQCD, where P, Q are two points AB;</p><p>(b) Measure |AB| and |QB|.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0368%20%287%29.jpg\" style=\"height:243px; width:300px\"></p><p>(b) |AC| = 7cm ; |QB| = 2.9cm.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1990,
+        "question": "<p>The following is an incomplete table for the relation \\(y = 2x^{2} - 5x + 1\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>y</td>\n<td> </td>\n<td> </td>\n<td>8</td>\n<td>1</td>\n<td> </td>\n<td>-1</td>\n<td> </td>\n<td> </td>\n<td>26</td>\n</tr>\n</tbody>\n</table><p>(a) Copy and complete the table.</p><p>(b) Using a scale of 2cm to 1 unit on the x- axis and 2cm to 10 units on the y- axis, draw the graph of the relation \\(y = 2x^{2} - 5x + 1\\) for \\(-3 \\leq x \\leq 5\\).</p><p>(c) Using the same scale and axes, draw the graph of \\(y = x + 6\\).</p><p>(d) Estimate from your graphs, correct to one decimal place : (i) the least value of y and the value of x for which it occurs ; (ii) the solution of the equation \\(2x^{2} - 5x + 1 = x + 6\\).</p>",
+        "answer": "<p>(a) \\(y = 2x^{2} - 5x + 1\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-3</td>\n<td>-2</td>\n<td>-1</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>y</td>\n<td>34</td>\n<td>19</td>\n<td>8</td>\n<td>1</td>\n<td>-2</td>\n<td>-1</td>\n<td>4</td>\n<td>13</td>\n<td>26</td>\n</tr>\n</tbody>\n</table><p> </p><p>Table of value for \\(y = x + 6\\)</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:40%\">\n<tbody>\n<tr>\n<td>x</td>\n<td>-2</td>\n<td>0</td>\n<td>2</td>\n</tr>\n<tr>\n<td>y</td>\n<td>4</td>\n<td>6</td>\n<td>8</td>\n</tr>\n</tbody>\n</table><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0369%20%282%29.jpg\" style=\"width:400px\"></p><p>(d) (i) Least value of y = -2 occurs at x = 1</p><p>(ii) Solution of \\(2x^{2} - 5x + 1 = x + 6\\) are x = -0.7 and x = 3.7.</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1990,
+        "question": "<p>In a class of 40 students, 25 speak Hausa, 16 speak Igbo, 21 speak Yoruba and each of the students speak at least one of the these three languages. If 8 speak Hausa and Igbo, 11 speak Hausa and Yoruba and 6 speak Igbo and Yoruba.</p><p>(a) Draw a Venn diagram to illustrate the information, using x to represent the number of students that speak all three languages.</p><p>(b) calculate the value of x.</p>",
+        "answer": "<p>(a)  The number that speak Hausa = n(H) = 25</p><p>The number that speak Igbo = n(I) = 16</p><p>The number that speak Yoruba = n(Y) = 21</p><p>Total no of students = U = 40</p><p>\\(n(H \\cap I) = 8 ; n(H \\cap Y) = 11 ; n(Y \\cap I) = 6\\)</p><p> <img alt=\"\" src=\"/storage/classroom/editor_images/scan0369%20%283%29_LI.jpg\" style=\"height:206px; width:250px\"></p><p>(b) \\(U = n(H) + n(I) + n(Y) - n(H \\cap Y) - n(H \\cap I) - n(I \\cap Y) + n(H \\cap Y \\cap I)\\)</p><p>\\(40 = 6 + x + 2 + x + 4 + x + 8 - x + 11 - x + 6 - x + x\\)</p><p>\\(40 = 37 + x \\implies x = 40 - 37 = 3\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 1990,
+        "question": "<p>An aeroplane flies from a town P(lat. 40°N, 38°E) to another town Q(lat. 40°N, 22°W). It later flies to a third town T(28°N, 22°W). Calculate the :</p><p>(a) distance between P and Q along their parallel of latitude ;</p><p>(b) distance between Q and T along their line of longitudes;</p><p>(c) average speed at which the aeroplane will fly from P to T via Q, if the journey takes 12 hours, correct to 3 significant figures. [Take the radius of the earth = 6400km ; \\(\\pi = 3.142\\)]</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan0369%20%284%29.jpg\" style=\"height:294px; width:300px\"></p><p>(a) Distance along arc PQ = \\(\\frac{\\theta}{360°} \\times 2 \\pi r\\)</p><p>where \\(r = R \\cos \\theta\\)</p><p>\\(|PQ| = \\frac{60°}{360°} \\times 2 \\times \\frac{22}{7} \\times 6400 \\times \\cos 40°\\)</p><p>\\(|PQ| = \\frac{1}{6} \\times 2 \\times \\frac{22}{7} \\times 6400 \\times 0.7660\\)</p><p>= \\(5134.74 km \\approxeq 5135km\\) (to the nearest whole number)</p><p>(b) Difference in latitude between Q and T = 40° - 28° = 12°</p><p>\\(\\therefore |QT| \\text{along the line of longitude} = \\frac{12}{360} \\times 2 \\times \\frac{22}{7} \\times 6400\\)</p><p>\\(\\frac{1}{30} \\times 2 \\times \\frac{22}{7} \\times 6400 = 1340.95km \\approxeq 1341km\\)</p><p>(c) Average speed = \\(\\frac{\\text{Total distance covered}}{\\text{Total time taken}}\\)</p><p>= \\(\\frac{5134.74 + 1340.95}{12} = 539.64km/hr\\)</p><p>\\(\\approxeq 540km/hr\\) (to 3 significant figures)</p>",
+        "type": "theory"
+    }
+]

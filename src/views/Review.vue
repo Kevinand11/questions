@@ -54,7 +54,7 @@ export default defineComponent({
 		const submit = async () => {
 			try {
 				error.value = ''
-				const link = `/parsed/${questionType.value}/${examType.value}/${subject.value}/${year.value}.json`
+				const link = `${process.env.NODE_ENV === 'production' ? '/questions' : ''}/parsed/${questionType.value}/${examType.value}/${subject.value}/${year.value}.json`
 				questions.value = await fetch(link).then(res => res.json()).catch(() => {
 					throw new Error('this combo doesnt exist')
 				})

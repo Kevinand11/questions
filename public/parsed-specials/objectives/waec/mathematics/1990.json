@@ -1,0 +1,376 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2766617246_wcmath199010.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "-3, 4",
+            "-2, -6",
+            "-2, 1.5",
+            "-1, 1",
+            "2, 1.5"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 11,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24899558184_wcmath199010.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "-2.5, 2.0",
+            "-2.6, 2.1",
+            "-2.0, 1.5",
+            "-2.0, 2.0",
+            "0, 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 16,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16599726444_wcmath199016.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "y ≥ x, y + 3 ≥ 2x, x ≤ 3",
+            "y ≤ x, y + 2x ≥ -3, x ≤ 3",
+            "y ≤ -x, y + 2x ≤ 3, x ≥ -3",
+            "y ≥ -x, y + 3 ≤ 2x, x ≥ -3",
+            "y ≤ x, y ≤ 2x - 3, x ≥ 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24899598666_wcmath199016.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "y ≤ x, y + 2x ≤ -3",
+            "y ≥ x, y + 2x ≥ - 3",
+            "y ≤ x, y &lt; 2x - 3, x ≤ 3",
+            "y ≤ -x, y ≤ 2x - 3, x ≤ 3",
+            "y ≥ x, y + 2x ≥ 3, x ≤ 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13833112870_wcmath199018.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>In the figure, &lt; AOC = 2 x &lt; ABC = 60° (angle subtended at the centre)</p><p>\\(\\therefore\\) Arc AC = \\(\\frac{60}{360} \\times 2 \\times 10 \\times 3.14\\)</p><p>= \\(\\frac{31.4}{3}\\)</p><p>= 10.466 cm \\(\\approxeq\\) 10.5 cm</p>",
+        "correctIndex": 1,
+        "options": [
+            "5.2cm",
+            "10.5cm",
+            "13.2cm",
+            "20.6cm",
+            "31.4cm"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1990,
+        "question": "<p>If the radius of the parallel of latitude 30°N is equal to the radius of the parallel of latitude θ°S, what is the value of θ?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191119_154320%20%282%29.jpg\" style=\"height:262px; width:250px\"></p><p>\\(\\theta_{1} = \\theta_{2} = 30°\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "75<sup>o</sup>",
+            "60<sup>o</sup>",
+            "45<sup>o</sup>",
+            "30<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/9683201675_wcmath199030.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the figure, &lt; PSR = 32° (base angles of an isos. triangle)</p><p>\\(\\therefore\\) &lt; PRS = 180° - (32° + 32°) = 116° (sum of angles in a triangle)</p><p>&lt; QRP = 180° - 116° = 64° (angle on a straight line)</p><p>&lt; PQR = 64° (base angles of an isos. triangle)</p><p>&lt; QPR = 180° - (64° + 64°) = 52°</p>",
+        "correctIndex": 2,
+        "options": [
+            "72<sup>o</sup>",
+            "64<sup>o</sup>",
+            "52<sup>o</sup>",
+            "32<sup>o</sup>",
+            "26<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 30,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13833147380_wcmath199031.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Diagonals bisect at 90°;  &lt; YXZ = 90° - 20° = 70°</p><p>But ZY = XY (sides of a rhombus)</p><p>\\(\\therefore\\) &lt; XYZ = 70° (base angle of an isos. triangle)</p>",
+        "correctIndex": 4,
+        "options": [
+            "20<sup>o</sup>",
+            "30<sup>o</sup>",
+            "45<sup>o</sup>",
+            "60<sup>o</sup>",
+            "70<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1383314934_wcmath199032.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of a triangle = \\(\\frac{1}{2} \\times b \\times h\\)</p><p>Area of \\(\\Delta\\) SQR = \\(\\frac{1}{2} \\times 6.4 \\times 3.2\\)</p><p>= 10.24 cm\\(^2\\)</p>",
+        "correctIndex": 2,
+        "options": [
+            "5.12cm<sup>2</sup>",
+            "9.60cm<sup>2</sup>",
+            "10.24cm<sup>2</sup>",
+            "20.48cm<sup>2</sup>",
+            "40.96cm<sup>2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 32,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17983095702_wcmath199033.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>&lt; VWZ = &lt; VXZ (angles in the same segment)</p>",
+        "correctIndex": 0,
+        "options": [
+            "∠VXZ",
+            "∠VYX",
+            "∠XZW",
+            "∠YXZ",
+            "∠VYW"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1383315211_wcmath199033.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Area of \\(\\Delta\\) VYZ = Area of \\(\\Delta\\) VWZ (same base and within same parallel)</p>",
+        "correctIndex": 1,
+        "options": [
+            "ΔVXZ",
+            "ΔVYZ",
+            "ΔXYV",
+            "ΔWYV",
+            "ΔWYZ"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 34,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/4149952824_wcmath199034.jpg\" class=\"img-fluid\">",
+        "explanation": "PQR = 180<sup>o</sup>- 86<sup>o</sup>= 94<sup>o</sup><br>∴PRQ = 180<sup>o</sup>- 94<sup>o</sup>- 36<sup>o</sup>= 48<sup>o</sup>",
+        "correctIndex": 2,
+        "options": [
+            "58<sup>o</sup>",
+            "53<sup>o</sup>",
+            "48<sup>o</sup>",
+            "43<sup>o</sup>",
+            "38<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16599820752_wcmath199036.jpg\" class=\"img-fluid\">",
+        "explanation": "360<sup>o</sup>- 290<sup>o</sup>= 70<sup>o</sup><br>70/2 = 35<sup>o</sup>",
+        "correctIndex": 3,
+        "options": [
+            "110<sup>o</sup>",
+            "70<sup>o</sup>",
+            "55<sup>o</sup>",
+            "35<sup>o</sup>",
+            "20<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 36,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2766637120_wcmath199037.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the figure &lt; TAB = &lt; BTQ = 40° (alternate segment)</p><p>\\(\\therefore\\)&lt; ATB = 180° - (70° + 40°) = 70° (angle on a straight line)</p><p>&lt; BTC = \\(\\frac{40°}{2} = \\frac{&lt; BTQ}{2}\\)</p><p>\\(\\therefore &lt; BTQ = 40°\\)</p><p>x° = 180° - (40° + 70° + 20°) </p><p>= 50° </p>",
+        "correctIndex": 4,
+        "options": [
+            "20<sup>o</sup>",
+            "30<sup>o</sup>",
+            "35<sup>o</sup>",
+            "40<sup>o</sup>",
+            "50<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 37,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20749784595_wcmath199039.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "I, II and III"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1990,
+        "question": "If the shadow of a pole 7m high is 1/2 its length what is the angle of elevation of the sun, correct to the nearest degree?",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/9683235639_wcmath199041ans.jpg\" class=\"img-fluid\">\n</div>tan θ - 7/3.5 = 2<br>tan θ= 2.0000<br>θ = 63<sup>o</sup>",
+        "correctIndex": 1,
+        "options": [
+            "90<sup>o</sup>",
+            "63<sup>o</sup>",
+            "60<sup>o</sup>",
+            "26<sup>o</sup>",
+            "0<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 40,
+        "year": 1990,
+        "question": "From the top of a building 10m high, the angle of depression of a stone lying on the horizontal ground is 69<sup>o</sup>. Calculate ,correct to one decimal place, the distance of the stone from the foot of the building",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19366520824_wcmath199042ans.jpg\" class=\"img-fluid\">\n</div>tan21<sup>o</sup>=x/10<br>x = 10 tan 21<sup>o</sup><br>= 3.3839 = 3.8m",
+        "correctIndex": 1,
+        "options": [
+            "3.6m",
+            "3.8m",
+            "6.0m",
+            "9.3m",
+            "26.1m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 41,
+        "year": 1990,
+        "question": "<p>The bearing of a point X from a point Y is 074°. What is the bearing of Y from X?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20191120_093938%282%29.jpg\" style=\"height:176px; width:250px\"></p><p>&lt; YXS = 74° (alternate angles, N\\(_1\\) S\\(_1\\) // N\\(_2\\) S\\(_2\\))</p><p>N\\(_2\\) E\\(_2\\) S\\(_2\\) = 180°</p><p>\\(\\therefore\\) Bearing of Y from X = 180° + 74°</p><p>= 254°</p>",
+        "correctIndex": 3,
+        "options": [
+            "106<sup>o</sup>",
+            "146<sup>o</sup>",
+            "164<sup>o</sup>",
+            "254<sup>o</sup>",
+            "286<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 42,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/d6GuqqrqlEYBWSTkZwq8pgEk6FvWoQ6OmfBUYFpW.jpeg\" class=\"img-fluid\">",
+        "explanation": "<p>Agric project = \\(\\frac{120}{360} \\times N12,000.00\\)</p><p>= \\(N4,000.00\\)</p>",
+        "correctIndex": 4,
+        "options": [
+            "N1,200.00",
+            "N1,440.00",
+            "N2,000.00",
+            "N2,910.00",
+            "N4,000.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23516524184_wcmath199047.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Mode = 12</p>",
+        "correctIndex": 3,
+        "options": [
+            "N3",
+            "N6",
+            "N9",
+            "N12",
+            "N15"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 44,
+        "year": 1990,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/16599901824_wcmath199047.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 2,
+        "options": [
+            "N3.00",
+            "N9.00",
+            "N12.00",
+            "N15.00",
+            "N18.00"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1990,
+        "question": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/IMG_20200218_100339%20%282%29.jpg\" style=\"height:198px; width:200px\"></p><p>The annual salary of Mr. Johnson Mohammed for 1989 was N12,000.00. He spent this on agriculture projects, education of his children, food items, saving , maintenance and miscellaneous items as shown in the pie chart</p><p>How much did he spend on food items?</p>",
+        "explanation": "<p>Degree for food items = 360° - (120° + 80° + 43° + 30° + 18°)</p><p>= 360° - 291°</p><p>= 69°</p><p>∴∴ Amount spent on food items = \\(\\frac{69}{360}\\)×12,000.00</p><p>= N2300.00</p>",
+        "correctIndex": 4,
+        "options": [
+            "N9,700.00",
+            "N6,700.00",
+            "N2,000.00",
+            "N4,000.00",
+            "N2,300.00"
+        ],
+        "type": "objectives"
+    }
+]

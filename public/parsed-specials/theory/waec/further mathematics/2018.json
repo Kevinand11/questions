@@ -1,0 +1,38 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 8,
+        "year": 2018,
+        "question": "<p>A body of mass 20kg moving with a velocity of 80ms\\(^{-1}\\) collides with another body of mass 30kg moving with a velocity of 50ms\\(^{-1}\\). If they both moved in the same direction after collision, find their common velocity if they moved in the :</p><p>(a) same direction before collision ; (b) opposite direction before collision.</p>",
+        "answer": "<p>(a)    <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%282%29%288%29.jpg\" style=\"height:50px; width:301px\"></p><p>Momentum before collision = \\((20 \\times 80) + (30 \\times 50) =  1600 + 1500\\)</p><p>= \\(3100 kgm/s\\)</p><p>Momentum after collision = 50v kgm/s</p><p>Momentum before collision = Momentum after collision</p><p>\\(3100 = 50v\\)</p><p>\\(v = \\frac{3100}{50} = 62m/s\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%283%29%287%29.jpg\" style=\"height:50px; width:303px\"></p><p>Momentum before collision = \\((20 \\times 80) - (30 \\times 50) = 1600 - 1500\\)</p><p>= \\(100 kgm/s\\)</p><p>Momentum after collision = \\(50v kgm/s\\)</p><p>\\(\\therefore 100 = 50v\\)</p><p>\\(v = 2m/s\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 2018,
+        "question": "<p>A circle is drawn through the points (3, 2), (-1, -2) and (5, -4). Find the :</p><p>(a) coordinates of the centre of the circle ;</p><p>(b) radius of the circle ;</p><p>(c) equation of the circle.</p>",
+        "answer": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/scan%20%284%29_LI%282%29.jpg\" style=\"height:237px; width:250px\"></p><p>\\((x - a)^{2} + (y - b)^{2} = r^{2}\\)</p><p>\\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2}\\)</p><p>Using A(3, 2) :</p><p>\\(9 - 6a + a^{2} + 4 - 4b + b^{2} = r^{2}\\)</p><p>\\(13 - 6a - 4b + a^{2} + b^{2} = r^{2} .... (1)\\)</p><p>Using B(-1, -2) :</p><p>\\(1 + 2a + a^{2} + 4 + 4b + b^{2} = r^{2}\\)</p><p>\\(5 + 2a + 4b + a^{2} + b^{2} = r^{2} .... (2)\\)</p><p>Using C(5, -4) :</p><p>\\(25 - 10a + a^{2} + 16 + 8b + b^{2} = r^{2}\\)</p><p>\\(41 - 10a + 8b + a^{2} + b^{2} = r^{2} ... (3)\\)</p><p>(1) - (2) :</p><p>\\(8 - 8a - 8b = 0 \\implies 1 - a - b = 0 .... (4)\\)</p><p>(3) - (2) :</p><p>\\(24 - 12a + 12 + 4b = 0 \\implies 36 - 12a + 4b = 0 \\)</p><p>\\(\\equiv 9 - 3a + b = 0... (5)\\)</p><p>Solving (4) and (5), we have :</p><p>\\(a = 2\\frac{1}{2} ; b = -1\\frac{1}{2}\\)</p><p>Coordinates of the centre : \\(C(2\\frac{1}{2}, -1\\frac{1}{2})\\).</p><p>(b) To get the radius, we can make use of any point on the circle as well as the centre.</p><p>Using point \\(A(3, 2) &amp; C(2\\frac{1}{2}, -1\\frac{1}{2})\\)</p><p>Radius = \\(\\sqrt{(3 - 2\\frac{1}{2})^{2} + (2 + 1\\frac{1}{2})^{2}}\\)</p><p>= \\(\\sqrt{\\frac{1}{4} + \\frac{49}{4}}\\)</p><p>= \\(\\sqrt{\\frac{50}{4}}\\)</p><p>= \\(\\frac{5\\sqrt{2}}{2} cm\\)</p><p>(c) Equation of the circle :</p><p>\\((x - 2\\frac{1}{2})^{2} + (y + 1\\frac{1}{2})^{2} = (\\frac{5\\sqrt{2}}{2})^{2}\\)</p><p>\\(x^{2} - 11x + \\frac{25}{4} + y^{2} + 3y + \\frac{9}{4} = \\frac{50}{4}\\)</p><p>\\(x^{2} + y^{2} - 11x + 3y + \\frac{34}{4} - \\frac{50}{4} = 0\\)</p><p>\\(x^{2} + y^{2} - 11x + 3y - 4 = 0\\)</p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 2018,
+        "question": "<p>The position vectors of points A, B and C with respect to the origin are (8i - 2j), (2i + 6j) and (-10i + 4j) respectively. If ABCN is a parallelogram, find :</p><p>(a) the position vector of N;</p><p>(b) AN and AB ;</p><p>(c) correct to two decimal place, the acute angle between AN and AB.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0296%20%282%29.jpg\" style=\"height:148px; width:250px\"></p><p>Position vector of A is (8i - 10j)</p><p>Position vector of B is (2i + 6j)</p><p>Position vector of C is (-10i + 4j).</p><p>Let position vector of N be (ai + bj).</p><p>ABCN is a parallelogram.</p><p>\\(\\therefore \\overrightarrow{AB} = \\overrightarrow{NC}\\).</p><p>\\(\\begin{bmatrix} (2 - 8)i \\\\ (6 + 10)j \\end{bmatrix} = \\begin{bmatrix} (-10 - a)i \\\\ (4 - b)j \\end{bmatrix}\\)</p><p>Equating components, </p><p>\\(2 - 8 = -10 - a \\implies a = -4\\)</p><p>\\(6 + 10 = 4 - b \\implies b = -12\\)</p><p>The position vector of N is (-4i - 12j).</p><p>(b) \\(\\overrightarrow{AN} \\cdot \\overrightarrow{AB}\\)</p><p>\\(\\overrightarrow{AN} = \\bar{A} - \\bar{N} \\)</p><p>= \\((8i - 10j) - (-4i - 12j)\\)</p><p>= \\(12i + 2j\\)</p><p>\\(\\overrightarrow{AB} = \\bar{A} - \\bar{B}\\)</p><p>= \\((8i - 10j) - (2i + 6j)\\)</p><p>= \\(6i - 16j\\)</p><p>\\(\\therefore \\overrightarrow{AN} \\cdot \\overrightarrow{AB} = (12i + 2j) \\cdot (6i - 16j)\\)</p><p>= \\(72 - 32 = 40\\)</p><p>(c) Let \\(\\theta\\) be the acute angle between \\(\\overrightarrow{AN}\\) and \\(\\overrightarrow{AB}\\).</p><p>\\(\\overrightarrow{AN} \\cdot \\overrightarrow{AB} = |AN||AB| \\cos \\theta\\)</p><p>\\(|AN| = |12i + 2j| = \\sqrt{12^{2} + 2^{2}} = \\sqrt{144 + 4} = \\sqrt{148}\\)</p><p>\\(|AB| = |6i - 16j| = \\sqrt{6^{2} + (-16)^{2}} = \\sqrt{36 + 256} = \\sqrt{292}\\)</p><p>\\(\\therefore 40 = (\\sqrt{148})(\\sqrt{292}) \\cos \\theta\\)</p><p>\\(\\cos \\theta = \\frac{40}{(\\sqrt{148})(\\sqrt{292})}\\)</p><p>\\(\\cos \\theta = \\frac{40}{207.88} = 0.1924\\)</p><p>\\(\\theta = \\cos^{-1} (0.1924) = 78.907°\\)</p><p>\\(\\approxeq 78.9°\\)</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 15,
+        "year": 2018,
+        "question": "<p>A uniform beam, XY, 4m long and weighing 350N rests on two pivots P and Q. It is kept in equilibrium by weights of 80N attached at X and 1000N attached at a point between P and Q such that it is 0.6m from Q. If XP = 0.8m and PQ = 2.2m.</p><p>(a) calculate the reactions at P and Q ;</p><p>(b) if the 1000N weight is replaced with a 1200N weight, at what point from Q should it be placed in order to maintain the equilibrium.</p>",
+        "answer": "<p>(a)   <img alt=\"\" src=\"/storage/classroom/editor_images/scan0296%20%284%29_LI.jpg\" style=\"height:88px; width:300px\"></p><p>Let A and B be the reactions at P and Q respectively.</p><p>A + B = 80 + 350 + 1000 = 1430N</p><p>We take moments about Q.</p><p>Clockwise moments = 2.2A</p><p>Anticlockwise moments = \\(80 \\times 3 + 350 \\times 1 + 1000 \\times 0.6\\)</p><p>= \\(1190N\\)</p><p>Both moments are equal</p><p>\\(\\therefore 2.2A = 1190 \\implies A = \\frac{1190}{2.2} = 540.9N\\)</p><p>\\(B = 1190N - 540.9N = 649.1N\\)</p><p>The reactions at P and Q are 540.9N and 649.1N respectively.</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0297%20%282%29.jpg\" style=\"height:89px; width:300px\"></p><p>Reaction at P : \\((80 + 350 + 1000)N = 540.9N\\)</p><p>\\(\\therefore \\text{The new reaction at P} = (80 + 350 + 1200)N = \\frac{1630}{1430} \\times 540.9\\)</p><p>= \\(616.6N\\)</p><p>Take moments at Q :</p><p>\\(2.2 \\times 616.6 = 80 \\times 3 + 350 \\times 1 + 1200x\\)</p><p>\\(1200x = 1356.5 - 590\\)</p><p>\\(1200x = 766.5\\)</p><p>\\(x = \\frac{766.5}{1200}\\)</p><p>= \\(0.63875 \\approxeq 0.64m\\)</p><p>The 1200N should be placed 0.64m from Q.</p>",
+        "type": "theory"
+    }
+]

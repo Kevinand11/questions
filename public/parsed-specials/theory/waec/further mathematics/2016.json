@@ -1,0 +1,20 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 2016,
+        "question": "<p>(a) A body of mass 3kg moves with a velocity of 8ms\\(^{-1}\\). It collides with a second body moving in the same direction with a velocity of 5ms\\(^{-1}\\). After collision, the bodies move together with a velocity of 6ms\\(^{-1}\\). Find the mass of the second body.</p><p>(b) If the second body in (a) moves with a velocity of 5ms\\(^{-1}\\) in the opposite direction as that of the 3kg body with a velocity of 8ms\\(^{-1}\\), find, correct to two decimal places, the common velocity of the two bodies if they move together after collision.</p>",
+        "answer": "<p>(a) <img alt=\"\" src=\"/storage/classroom/editor_images/1111_LI.jpg\" style=\"height:65px; width:250px\"></p><p>Momentum before collision = Momentum after collision.</p><p>\\(((3 \\times 8) + 5m) = (3 + m) \\times 6\\)</p><p>\\(24 + 5m = 18 + 6m\\)</p><p>\\(24 - 18 = 6m - 5m \\implies m = 6kg\\)</p><p>(b) <img alt=\"\" src=\"/storage/classroom/editor_images/1112_LI.jpg\" style=\"height:64px; width:250px\"></p><p>Momentum before collision = Momentum after collision</p><p>\\((3 \\times 8) - (5 \\times 6) = (3 + 6)v\\)</p><p>\\(-6 =9v\\)</p><p>\\(\\implies v = -0.67ms^{-1}\\)</p><p>The bodies move in the direction of the second body.</p><p> </p>",
+        "type": "theory"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 12,
+        "year": 2016,
+        "question": "<p>The table shows the distribution of marks scored by some students in a test.</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:65%\">\n<tbody>\n<tr>\n<td>Marks</td>\n<td>1-10</td>\n<td>11-20</td>\n<td>21-30</td>\n<td>31-40</td>\n<td>41-50</td>\n<td>51-60</td>\n<td>61-70</td>\n<td>71-80</td>\n<td>81-90</td>\n<td>91-100</td>\n</tr>\n<tr>\n<td>No. of students</td>\n<td>3</td>\n<td>17</td>\n<td>41</td>\n<td>85</td>\n<td>97</td>\n<td>115</td>\n<td>101</td>\n<td>64</td>\n<td>21</td>\n<td>6</td>\n</tr>\n</tbody>\n</table><p>(a)(i) Construct a cumulative frequency table for the distribution ; (ii) Draw a cumulative frequency curve for the distribution.</p><p>(b) Use the curve to estimate the :</p><p>(i) number of students who scored marks between 32 and 74 ; (ii) pass mark, if 18% of the students failed ; (iii) lowest mark for distinction, if 8% of the students passed with distinction.</p><p> </p>",
+        "answer": "<p>(a)(i) </p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>\n<p>Marks</p>\n<p>(x)</p>\n</td>\n<td>Limits</td>\n<td>Frequency</td>\n<td>\n<p>Cum freq</p>\n<p>(\\(\\sum f\\))</p>\n</td>\n</tr>\n<tr>\n<td>1 - 10</td>\n<td>0.5 - 10.5</td>\n<td>3</td>\n<td>3</td>\n</tr>\n<tr>\n<td>11 - 20</td>\n<td>10.5 - 20.5</td>\n<td>17</td>\n<td>20</td>\n</tr>\n<tr>\n<td>21 - 30</td>\n<td>20.5 - 30.5</td>\n<td>41</td>\n<td>61</td>\n</tr>\n<tr>\n<td>31 - 40</td>\n<td>30.5 - 40.5</td>\n<td>85</td>\n<td>146</td>\n</tr>\n<tr>\n<td>41 - 50</td>\n<td>40.5 - 50,5</td>\n<td>97</td>\n<td>243</td>\n</tr>\n<tr>\n<td>51 - 60</td>\n<td>50.5 - 60.5</td>\n<td>115</td>\n<td>358</td>\n</tr>\n<tr>\n<td>61 - 70</td>\n<td>60.5 - 70.5</td>\n<td>101</td>\n<td>459</td>\n</tr>\n<tr>\n<td>71 - 80</td>\n<td>70.5 - 80.5</td>\n<td>64</td>\n<td>523</td>\n</tr>\n<tr>\n<td>81 - 90</td>\n<td>80.5 - 90.5</td>\n<td>21</td>\n<td>544</td> \n</tr>\n<tr>\n<td>91 - 100</td>\n<td>90.5 - 100.5</td>\n<td>6</td>\n<td>550</td>\n</tr>\n</tbody>\n</table><p>(ii) <img alt=\"\" src=\"/storage/classroom/editor_images/scan0302%20%282%29_LI.jpg\" style=\"height:315px; width:300px\"></p><p>(b)(i) Those who scored less and equal to 32 marks = 75</p><p>Those who scored greater and equal to 74 = 508</p><p>Therefore those that scored between 32 and 74 = 508 - 75 = 433.</p><p>(ii) 18% of 550 = 99</p><p>18% failed, the number that passed = 550 - 99 = 451.</p><p>(iii) 8% passed with distinction, so 92% did not get distinction.</p><p>92% of 550 = 506.</p><p>Lowest mark for distinction = 74.</p>",
+        "type": "theory"
+    }
+]

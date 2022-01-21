@@ -1,0 +1,70 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15257700084_wcphy199337.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/23580017688_wcphy19936ans.jpg\" class=\"img-fluid\">\n</div>Mg = 5N<br>T<sup>2</sup>= 5<sup>2</sup>+ 12<sup>2</sup>T = 13N",
+        "correctIndex": 3,
+        "options": [
+            "7.0",
+            "10.9",
+            "12.5",
+            "13.0",
+            "17.0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18031814866_wcphy199343.jpg\" class=\"img-fluid\">",
+        "explanation": "P = VI ; I = P/V = 100/250 = 0.4A each<br>Total current 3 x 0.4 = 1.2A",
+        "correctIndex": 2,
+        "options": [
+            "7.5A",
+            "2.5A",
+            "1.2A",
+            "0.8A",
+            "O.4A"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 45,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19418894110_wcphy199345.jpg\" class=\"img-fluid\">",
+        "explanation": "R = 2 + 2 = 4 Ω; 1/R = ¼ + ¼ = 2/4; R = 2Ω<br>∴ I = V/R = 2/2 = 1A",
+        "correctIndex": 2,
+        "options": [
+            "4.0A",
+            "2.0A",
+            "1.0A",
+            "O.5A",
+            "0.1A."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 47,
+        "year": 1993,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/8711507448_12468124_993427547388579_552736238_n.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "0.0 V",
+            "1.5 V",
+            "2.0 V",
+            "3.0V",
+            "4.0 V."
+        ],
+        "type": "objectives"
+    }
+]

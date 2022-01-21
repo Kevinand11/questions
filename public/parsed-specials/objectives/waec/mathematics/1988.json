@@ -1,0 +1,308 @@
+[
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 5,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24893484840_wcmath19884.png\" class=\"img-fluid\">",
+        "explanation": "The mode=4. It has the highest frequency of 7",
+        "correctIndex": 2,
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 6,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1382971619_wcmath19884.png\" class=\"img-fluid\">",
+        "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:50%\">\n<tbody>\n<tr>\n<td>Score</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>Total</td>\n</tr>\n<tr>\n<td>Freq</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>2</td>\n<td>7</td>\n<td>2</td>\n<td>20</td>\n</tr>\n<tr>\n<td>\\(fx\\)</td>\n<td>0</td>\n<td>3</td>\n<td>8</td>\n<td>6</td>\n<td>28</td>\n<td>10</td>\n<td>55</td>\n</tr>\n</tbody>\n</table><p>\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)</p><p>= \\(\\frac{55}{20}\\)</p><p>= \\(2.75\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "1.75",
+            "2",
+            "2.5",
+            "2.75",
+            "3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 7,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/2765943868_wcmath19884.png\" class=\"img-fluid\">",
+        "explanation": "<p>There are 20 students. Hence, the median is found by the average of the 10th and 11th score.</p><p>= \\(\\frac{3 + 3}{2}\\)</p><p>= 3</p>",
+        "correctIndex": 2,
+        "options": [
+            "o",
+            "2.5",
+            "3",
+            "5",
+            "7"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 9,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17978657853_wcmath19889.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "2 : 5",
+            "3 : 5",
+            "2 : 3",
+            "3 : 2",
+            "5 : 3"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 10,
+        "year": 1988,
+        "question": "<p>A ladder 9m long leans against a vertical wall, making an angle of 64° with the horizontal ground. calculate correct to one decimal place, how far the foot of the ladder is from the wall.</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/2765949310_wcmath198810ans.jpg\" class=\"img-fluid\">\n</div><p>cos 64° = <em>x</em>/9<br>\n<em>x</em> = 9 cos 64°<br>\n=3.94 ≅ 4.0m</p>",
+        "correctIndex": 0,
+        "options": [
+            "4.0m",
+            "5.8m",
+            "7.1m",
+            "8.1m",
+            "18.5m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 13,
+        "year": 1988,
+        "question": "<p>Points P and Q respectively 24m north and 7m east point R. Calculate |PQ| in meters</p>",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/19361672820_wcmath198813ans.jpg\" class=\"img-fluid\">\n</div><p>PQ\\(^2\\) = 24\\(^2\\) + 7\\(^2\\)<br>\nPQ\\(^2\\) = 625<br>\nPQ = 25</p>",
+        "correctIndex": 2,
+        "options": [
+            "20",
+            "24",
+            "25",
+            "31",
+            "84"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 14,
+        "year": 1988,
+        "question": "<p>Points P and Q respectively 24m north and 7m east point R. What is the bearing of Q from P to the nearest whole degree?</p>",
+        "explanation": "<p><img alt=\"\" src=\"/storage/classroom/editor_images/Untitled_LI.jpg\" style=\"height:178px; width:200px\"></p><p>\\(\\tan P = \\frac{7}{24}\\)</p><p>\\(\\tan P = 0.2917\\)</p><p>\\(P = \\tan^{-1} (0.2917)\\)</p><p>= 16.26° </p><p>Bearing of Q from P = 180° - 16.26°</p><p>= 163.74° \\(\\approxeq\\) 164°</p>",
+        "correctIndex": 4,
+        "options": [
+            "16<sup>o</sup>",
+            "17<sup>o</sup>",
+            "73<sup>o</sup>",
+            "106<sup>o</sup>",
+            "164<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 18,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12446830980_wcmath198818.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>vertically opposite angles are equal, hence</p><p>3x + 6x + 3x = 180°</p><p>12x = 180°</p><p>x = 15°</p>",
+        "correctIndex": 4,
+        "options": [
+            "18<sup>o</sup>",
+            "30<sup>o</sup>",
+            "40<sup>o</sup>",
+            "60<sup>o</sup>",
+            "15°"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 22,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/17991044040_scanrr.jpg\" class=\"img-fluid\">",
+        "explanation": "Area of trapezium =<sup>1</sup>/<sub>2</sub>(a+b)h<br>=<sup>1</sup>/<sub>2</sub>(4 + 7)x4 = 22m<sup>2</sup><br>volume = 22 x 6 = 132m<sup>3</sup>",
+        "correctIndex": 2,
+        "options": [
+            "66m<sup>3</sup>",
+            "84m<sup>3</sup>",
+            "132m<sup>3</sup>",
+            "168m<sup>3</sup>",
+            "264m<sup>3</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 23,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/20744938740_wcmath198822.jpg\" class=\"img-fluid\">",
+        "explanation": "1m = 100cm, 1m<sup>3</sup>= (100cm)<sup>3</sup>= 10<sup>6</sup>cm<sup>3</sup><br><br>but 1000cm<sup>4</sup>= 1liter. 10<sup>6</sup>cm<sup>3</sup>= 1000liters.<br><br>1m<sup>3</sup>= 1000liters.",
+        "correctIndex": 4,
+        "options": [
+            "1/10",
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 26,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24894893952_wcmath198828.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the figure \\(&lt; ABC = &lt; ADC = 37°\\) (angles on the same segment)</p><p>\\(&lt; BCA = 90°\\) (angle in semi-circle)</p><p>\\(\\therefore\\) In \\(\\Delta ABC\\), \\(&lt; ACB = 180° - (37° + 90°)\\)</p><p>= 53°</p>",
+        "correctIndex": 3,
+        "options": [
+            "147<sup>o</sup>",
+            "127<sup>o</sup>",
+            "65<sup>o</sup>",
+            "53<sup>o</sup>",
+            "37<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 28,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12447460170_wcmath198832.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 1,
+        "options": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only",
+            "II and III only"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 29,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/5532206748_wcmath198836.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Produce ML to R.</p><p>From the figure &lt; LRM = 89° (corresponding angles)</p><p>In triangle LRM, &lt; LMR = 180° - (61° + 89°)</p><p>= 30°</p>",
+        "correctIndex": 0,
+        "options": [
+            "30<sup>o</sup>",
+            "61<sup>o</sup>",
+            "89<sup>o</sup>",
+            "119<sup>o</sup>",
+            "150<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 31,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11064432504_wcmath198839.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 33,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23511933079_wcmath198841.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>From the diagram, &lt; LMN = 180° - (74° + 39°) (sum of angle in a triangle)</p><p>= 67°</p><p>&lt; LON = 2 x 67° (angle subtended at the centre is twice the angle at the circumference)</p><p>= 134°</p>",
+        "correctIndex": 4,
+        "options": [
+            "67<sup>o</sup>",
+            "100<sup>o</sup>",
+            "113<sup>o</sup>",
+            "126<sup>o</sup>",
+            "134<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 35,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/11064452400_wcmath198843.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>\\(\\Delta RPS\\) = Isosceles triangle</p><p>\\(\\therefore &lt; RPS = \\​​​​​​​frac{180° - 90°}{2}\\)</p><p>= 45°</p><p>In \\(\\Delta QPR\\),\\(\\sin &lt; QPR = \\frac{1}{2}\\)</p><p>= 30°</p><p>\\(\\therefore &lt; QPS = 30° + 45° = 75°\\)</p>",
+        "correctIndex": 3,
+        "options": [
+            "135<sup>o</sup>",
+            "105<sup>o</sup>",
+            "90<sup>o</sup>",
+            "75<sup>o</sup>",
+            "60<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 38,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12447546813_wcmath198846.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>No of candidates = { 5 + 10 + 60 + 80 + 50 + 30 + 5 + 5 + 5}thousand = 270 x 1000 = 270000</p>",
+        "correctIndex": 4,
+        "options": [
+            "80,000",
+            "120,000",
+            "250,000",
+            "260,000",
+            "270,000"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 1988,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13830608580_wcmath198846.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>Those who scored at most 30% = ( 5 + 10 + 20)thousand = 35000</p>",
+        "correctIndex": 3,
+        "options": [
+            "15,000",
+            "20,000",
+            "25,000",
+            "35,000",
+            "60,000"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 17,
+        "year": 2019,
+        "question": "<p>Point X and Y are on the same horizontal base as the foot of a building such that X is 96m due east of the building and Y is due west. If the angle of elevation of the top of that building from X is 30\\(^o\\) and that of Y is 50\\(^o\\), calculate the distance of Y from the base of the building.</p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/239115862_857746921542926_6913233118812417415_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEYg2MUWraKF_lR8u9BeqXv9HWWOXrOUBv0dZY5es5QG5w4-c9IYOqvo23-_8HWA1Gbn2Cl25PS7PpmZbG5G1n_&amp;_nc_ohc=8rtiST_jgEwAX_HrWBf&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=0aca0262d10607fab3c60e62ce4658c1&amp;oe=6149CBA6\"></p><p> </p><p>h = 96 Tan 30\\(^o\\) = 55.425</p><p>P = \\(\\frac{55.425}{Tan60^o}\\) </p><p>= 32m </p>",
+        "correctIndex": 1,
+        "options": [
+            "30m",
+            "32m",
+            "42m",
+            "50m"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 24,
+        "year": 2019,
+        "question": "<p><img alt=\"Open Photo\" src=\"https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&amp;_nc_ohc=h0CetEoWf8QAX-lzQxC&amp;_nc_ht=scontent.flos8-1.fna&amp;oh=c4949bfbbcd5cbecc9046f4d21f793d5&amp;oe=6148ABD2\"></p><p>Which of these inequalities is represented by the shaded portion of the graph? </p>",
+        "explanation": "<p>(0, 1.5), (-3, 0) </p><p>m = \\(\\frac{0 - 1.5}{-3, 0}\\) = 0.5</p><p>0.5 = \\(\\frac{y - 1.5}{-3.0}\\) = 0.5</p><p>y = 0.5x + 1.5 </p><p>2y = x + 3</p><p>2y - x - 3 &lt; 0</p>",
+        "correctIndex": 1,
+        "options": [
+            "2y + x - 3 &lt; 0",
+            "2y - x - 3 &lt; 0",
+            "2y - x + 3 &lt; 0",
+            "2y + x +3 &lt; 0"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "further mathematics",
+        "institution": "waec",
+        "order": 39,
+        "year": 2019,
+        "question": "<p>A uniform beam, PQ. is 100 m long and weighs 35 N. It is placed on a support at a point 40 cm from P. If weights of 54 N and FN are attached at P and Q respectively in order to keep it in a horizontal position, calculate, correct to the nearest whole number, the value of F.</p>",
+        "explanation": "<p><img alt=\"Open Photo\" src=\"https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/240129827_369235384748245_2556700208620116961_n.jpg?_nc_cat=110&amp;ccb=1-5&amp;_nc_sid=aee45a&amp;_nc_eui2=AeF8tcS_ubjHtGm7c266vF2MNvlqhZrvpe42-WqFmu-l7s1k52fa4m_pJA1tOypfwaRlvJyedGYhS7vsZimIuu_X&amp;_nc_ohc=d2USrt_S_rAAX9-jopN&amp;_nc_oc=AQmqyMA1ncjEbeTgQuCFqgqvHwein2xx5_TCQpumnOk02AU0M-xQJw4no2mhLWrV0hFCvuOeIw_U8qrRa_6fGUDs&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_ht=scontent.xx&amp;oh=3ce2ada68a451a7820b5e3a86e381290&amp;oe=614DAC81\"></p><p> </p><p>54 x 40 = 35 x 10 + 60F </p><p>160 = 350 + 60F </p><p>F = \\(\\frac{1810}{60}\\) </p><p>= 30N </p>",
+        "correctIndex": 3,
+        "options": [
+            "69",
+            "60",
+            "35",
+            "30"
+        ],
+        "type": "objectives"
+    }
+]

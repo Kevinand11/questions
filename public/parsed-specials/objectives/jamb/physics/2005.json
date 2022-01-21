@@ -1,0 +1,114 @@
+[
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 34,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/1363512963_phy20052.jpg\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 3,
+        "options": [
+            "20<sup>o</sup>",
+            "18<sup>o</sup>",
+            "35<sup>o</sup>",
+            "25<sup>o</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 35,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24543244926_phy200510.jpg\" class=\"img-fluid\">",
+        "explanation": "F = \\(\\frac{17}{sin 60} = \\frac{17}{0.866}\\)<br><br>= 20N",
+        "correctIndex": 2,
+        "options": [
+            "10N",
+            "12N",
+            "20N",
+            "27N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 36,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23179748982_phy200511.jpg\" class=\"img-fluid\">",
+        "explanation": "Normal reaction R = 3 kg x 10 = 30N<br>coefficient of friction , μ = 0.5<br>∴ acting frictional force = μR = 30 x 0.5<br>Pulling/sliding force F = 6kg x 10 = 60N.<br>∴ Net downward force = ma = 60 - 15.0<br>=&gt; (3 + 6)a = 45<br>∴ 9a = 45<br>a = 5m/s<sup>2</sup>",
+        "correctIndex": 0,
+        "options": [
+            "5 ms<sup>-2</sup>",
+            "15 ms<sup>-2</sup>",
+            "3 ms<sup>-2</sup>",
+            "9 ms<sup>-2</sup>"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 37,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12271638312_phy200514.jpg\" class=\"img-fluid\">",
+        "explanation": "If the string is in equilibrium, the the tension in the string Q = 4N + 5N = 9N",
+        "correctIndex": 1,
+        "options": [
+            "11N",
+            "9N",
+            "4N",
+            "6N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 38,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg\" class=\"img-fluid\">",
+        "explanation": "Since the force is inclined at an angle 60<sup>o</sup>to the horizontal, the effective component of te force along the horizontal is given by F x cos 60<sup>o</sup><br>= 100 x 0.5 = 50N.<br>∴ work done = F x cos 60 x displacement<br>= 50 x 8.0m<br>= 400.0J",
+        "correctIndex": 3,
+        "options": [
+            "800J",
+            "600J",
+            "100J",
+            "400J"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 39,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/24543335448_phy200521.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/8181111816_phy200521a.jpg\" class=\"img-fluid\">\n</div>The fig above shows a conventional transistor, showing the three basic features, the Base, the Emitter and the collector. Thus comparing this with the figure in the question it implies that P = Emitter, Q = Base and R = collector",
+        "correctIndex": 0,
+        "options": [
+            "EMITTER, BASE and COLLECTOR",
+            "COLLECTOR, EMITTER and BASE",
+            "BASE, COLLECTOR and EMITTER",
+            "BASE, ENITTER and COLLECTOR"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "jamb",
+        "order": 43,
+        "year": 2005,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/19089334880_phy200543.jpg\" class=\"img-fluid\">",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/14998763120_phy200543.jpg\" class=\"img-fluid\">\n</div>The effective capacitance in the circuit is given by:<br>1/C =<sup>1</sup>/<sub>2</sub>+<sup>1</sup>/<sub>3</sub>+<sup>1</sup>/<sub>6</sub>=<sup>6</sup>/<sub>6</sub><br>therefore C = 1μF or<br>1.0 x 10<sup>-6</sup>F.<br>Since C = Q/V, its implies that the charges Q, flowing in the circuit is given by Q = CV<br>= 1.0 x 10<sup>-6</sup>x 12<br>= 12.0 x 10<sup>-6</sup>Coulomb.<br>∴ P.d across the 6μF,<br><table><tbody><tr><td rowspan=\"2\">V = Q/C = </td><td style=\"border-bottom:solid 1px\">12.0 x 10<sup>-6</sup></td></tr><tr><td>6.0 x 10<sup>-6</sup>F</td></tr></tbody></table><br>= 2.0 volts",
+        "correctIndex": 2,
+        "options": [
+            "4V",
+            "12V",
+            "2V",
+            "6V"
+        ],
+        "type": "objectives"
+    }
+]

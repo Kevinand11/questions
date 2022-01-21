@@ -1,0 +1,66 @@
+[
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 5,
+        "year": 2002,
+        "question": "A boy travels 8 km eastward to a point B and then 6km northward to another point C. Determine the difference between the magnitude of displacement of the boy and distance travelled by him",
+        "explanation": "<div class=\"mb-4\">\n<img src=\"https://myschool.ng/storage/classroom_answers/17156410788_maths-4.jpg\" class=\"img-fluid\">\n</div>AC = \\(\\sqrt{8^2 + 6^2}\\) = 10km<br><br>Distance travelled = 8 + 6 = 14km<br><br>Difference = 4 - 10 = 4km",
+        "correctIndex": 1,
+        "options": [
+            "2.0km",
+            "4.0km",
+            "10.0km",
+            "13.0km"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 11,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/10007938521_maths-12.jpg\" class=\"img-fluid\">",
+        "explanation": "W = \\(\\sqrt{15^2 + 8^2}\\) = 17N",
+        "correctIndex": 1,
+        "options": [
+            "23N",
+            "17N",
+            "7N",
+            "5N"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 13,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/15726810946_maths-14.jpg\" class=\"img-fluid\">",
+        "explanation": "m = \\(\\frac{0.7 \\times 40}{35} = 0.8kg\\)",
+        "correctIndex": 3,
+        "options": [
+            "0.280kg",
+            "0.400kg",
+            "0.613kg",
+            "0.800kg"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "physics",
+        "institution": "waec",
+        "order": 43,
+        "year": 2002,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/12868170948_maths-44.jpg\" class=\"img-fluid\">",
+        "explanation": "<p>XL = \\(\\frac{V}{I} = \\frac{240}{2} = 120\\Omega\\)<br>\n<br>\nL = \\(\\frac{X_L}{2 \\pi f}\\)<br>\n<br>\n= \\(\\frac{120 \\times \\pi}{2 \\times \\pi \\times 100}\\)<br>\n<br>\n= 0.6H</p>",
+        "correctIndex": 1,
+        "options": [
+            "3.8H",
+            "0.6H",
+            "0.4H",
+            "0.2H"
+        ],
+        "type": "objectives"
+    }
+]

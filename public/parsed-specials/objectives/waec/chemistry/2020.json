@@ -1,0 +1,34 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 2,
+        "year": 2020,
+        "question": "<p> </p><p>The IUPAC name of the compound represented by the structure below is ?</p><p><img alt=\"No description available.\" src=\"https://scontent.flos1-1.fna.fbcdn.net/v/t1.15752-9/235033593_2961143704126535_3131948995061485076_n.jpg?_nc_cat=100&amp;ccb=1-4&amp;_nc_sid=ae9488&amp;_nc_eui2=AeET8zk-aqlIdSQCJtv5GymF1tm4LJWIRMvW2bgslYhEy7mEU4iLTnPOMnCONTbLy8_aXrh12HfNC2mP5X-bexp_&amp;_nc_ohc=8Fci6BaxoXIAX9YKHem&amp;_nc_ht=scontent.flos1-1.fna&amp;oh=45f0d0cd7a72431bd1842cf35e1e7594&amp;oe=6138AED6\"></p><p> </p>",
+        "explanation": null,
+        "correctIndex": 0,
+        "options": [
+            "2- chloro but-I ,3-diene.",
+            "But-1,3-chlorodiene.",
+            "2-chloro but-diene.",
+            "3 -chloro but -1.3-diene."
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "waec",
+        "order": 28,
+        "year": 2020,
+        "question": "<p>f 5.0 cm\\(^-3\\) of 0.200 mol dm(^-3\\) Na\\(_2\\)CO\\(_3\\) was diluted to 250cm(^-3\\) solution, what would be the concentration of the resulting solution?</p>",
+        "explanation": "<p><img alt=\"M_{1}V_{1}=M_{2}V_{2}\" src=\"https://www.gstatic.com/education/formulas2/355397047/en/dilution.svg\"></p><table>\n<tbody>\n<tr>\n<td><img alt=\"M_{1}\" src=\"https://www.gstatic.com/education/formulas2/355397047/en/dilution_dilution_var_1.svg\"></td>\n<td>=</td>\n<td>initial molarity</td>\n</tr>\n<tr>\n<td><img alt=\"V_{1}\" src=\"https://www.gstatic.com/education/formulas2/355397047/en/dilution_dilution_var_2.svg\"></td>\n<td>=</td>\n<td>initial volume in liters</td>\n</tr>\n<tr>\n<td><img alt=\"M_{2}\" src=\"https://www.gstatic.com/education/formulas2/355397047/en/dilution_dilution_var_3.svg\"></td>\n<td>=</td>\n<td><a href=\"https://www.google.com/search?bih=638&amp;biw=1350&amp;hl=en-US&amp;q=Molar+concentration&amp;stick=H4sIAAAAAAAAAOPgE-LUz9U3sKw0Ma9SAjMNC5Iq47W0spOt9FNTSpMTSzLz8_TT8otyS3MSraC0QmZuYnqqQmJecXlq0SNGE26Blz_uCUtpT1pz8hqjKhdXcEZ-uWteSWZJpZA4FxuUxSvFzYWwgWcRq7Bvfk5ikUJyfl5yal5JEdgmAD_fyDyRAAAA&amp;sa=X&amp;ved=2ahUKEwiLzfrDz6jyAhVsQEEAHfckCsMQ24YFMAJ6BAgKEAI\">final molarity</a></td>\n</tr>\n<tr>\n<td><img alt=\"V_{2}\" src=\"https://www.gstatic.com/education/formulas2/355397047/en/dilution_dilution_var_4.svg\"></td>\n<td>=</td>\n<td>final volume in liters</td>\n</tr>\n</tbody>\n</table><p> </p><p>0.200 X 5.00 = M\\(_2\\) X 250</p><p>M\\(_2\\) = 1 / 250</p><p>M\\(_2\\) = 0.004 mol dm(^-3\\)</p>",
+        "correctIndex": 0,
+        "options": [
+            "0.004 mol dm(^-3\\)",
+            "0.020 mol dm(^-3\\)",
+            "0.200 mol dm(^-3\\)",
+            "0.400 mol dm(^-3\\)"
+        ],
+        "type": "objectives"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 43,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/18973005660_chem197841.png\" class=\"img-fluid\">",
+        "explanation": "<p>Y = 19 protons, 19 electrons and 20 neutrons.</p><p>Y has electronic configuration 2, 8, 8, 1. Hence, it has one valence electron in the outer shell (Valency of +1).</p><p>Mass number = protons + neutrons</p><p>= 19 + 20</p><p>= 39.</p>",
+        "correctIndex": 3,
+        "options": [
+            "T",
+            "W",
+            "X",
+            "Y",
+            "Z"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 45,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/23038674278_chem197843.png\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "X only",
+            "Y only",
+            "Z only",
+            "X and Z",
+            "Y and Z"
+        ],
+        "type": "objectives"
+    },
+    {
+        "course": "chemistry",
+        "institution": "jamb",
+        "order": 46,
+        "year": 1978,
+        "question": "<img src=\"https://myschool.ng/storage/classroom/13552170800_chem197844.gif\" class=\"img-fluid\">",
+        "explanation": null,
+        "correctIndex": 4,
+        "options": [
+            "X = hydrochloric acid; Y = silver nitrate",
+            "X = barium chloride; Y = dilute sulphuric acid",
+            "X = hydrochloric acid; Y = sodium hydroxide",
+            "X = hydrochloric acid; Y = lead nitrate",
+            "X = hydrochloric acid; Y = sodium carbonate"
+        ],
+        "type": "objectives"
+    }
+]
