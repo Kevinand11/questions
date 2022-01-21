@@ -1,55 +1,67 @@
 <template>
-	<form class="position-relative" @submit.prevent="addQuestion">
-		<div :class="{'p-3': isDisabled}">
-			<p>Question
-				<BaseEditor :error="factory.errors.question" :valid="factory.isValid('question')"
-				            :value.sync="factory.question" placeholder="Question Content" />
+	<form @submit.prevent="addQuestion">
+		<p>Question
+			<BaseEditor :error="factory.errors.question" :valid="factory.isValid('question')"
+			            :value.sync="factory.question" placeholder="Question Content" />
+			<Media :factory="factory" class="form-group" name="question" />
+		</p>
+		<template v-if="question.type === 'objectives'">
+			<p>Option A
+				<BaseEditor :error="factory.errors.a" :valid="factory.isValid('a')"
+				            :value.sync="factory.a" placeholder="Option A Content" />
+				<Media :factory="factory" class="form-group" name="a" />
 			</p>
-			<template v-if="question.type === 'objectives'">
-				<p>Option A
-					<BaseEditor :error="factory.errors.a" :valid="factory.isValid('a')"
-					            :value.sync="factory.a" placeholder="Option A Content" />
-				</p>
-				<p>Option B
-					<BaseEditor :error="factory.errors.b" :valid="factory.isValid('b')"
-					            :value.sync="factory.b" placeholder="Option B Content" />
-				</p>
-				<p>Option C
-					<BaseEditor :error="factory.errors.c" :valid="factory.isValid('c')"
-					            :value.sync="factory.c" placeholder="Option C Content" />
-				</p>
-				<p>Option D
-					<BaseEditor :error="factory.errors.d" :valid="factory.isValid('d')"
-					            :value.sync="factory.d" placeholder="Option D Content" />
-				</p>
-				<p>Option E
-					<BaseEditor :error="factory.errors.e" :valid="factory.isValid('e')"
-					            :value.sync="factory.e" placeholder="Option E Content" />
-				</p>
-				<p>Explanation
-					<BaseEditor :error="factory.errors.explanation" :valid="factory.isValid('explanation')"
-					            :value.sync="factory.explanation" placeholder="Explanation Content" />
-				</p>
-			</template>
-			<template v-else>
-				<p>
-					Answer
-					<BaseEditor :error="factory.errors.answer" :valid="factory.isValid('answer')"
-					            :value.sync="factory.answer" placeholder="Answer Content" />
-				</p>
-			</template>
-		</div>
+			<p>Option B
+				<BaseEditor :error="factory.errors.b" :valid="factory.isValid('b')"
+				            :value.sync="factory.b" placeholder="Option B Content" />
+				<Media :factory="factory" class="form-group" name="b" />
+			</p>
+			<p>Option C
+				<BaseEditor :error="factory.errors.c" :valid="factory.isValid('c')"
+				            :value.sync="factory.c" placeholder="Option C Content" />
+				<Media :factory="factory" class="form-group" name="c" />
+			</p>
+			<p>Option D
+				<BaseEditor :error="factory.errors.d" :valid="factory.isValid('d')"
+				            :value.sync="factory.d" placeholder="Option D Content" />
+				<Media :factory="factory" class="form-group" name="d" />
+			</p>
+			<p>Option E
+				<BaseEditor :error="factory.errors.e" :valid="factory.isValid('e')"
+				            :value.sync="factory.e" placeholder="Option E Content" />
+				<Media :factory="factory" class="form-group" name="e" />
+			</p>
+			<div class="form-group">
+				<select v-model="factory.answer" class="form-select text-capitalize">
+					<option disabled>Correct Answer</option>
+					<option v-for="value in answers" :key="value" :value="value">{{ value }}</option>
+				</select>
+			</div>
+			<p>Explanation
+				<BaseEditor :error="factory.errors.explanation" :valid="factory.isValid('explanation')"
+				            :value.sync="factory.explanation" placeholder="Explanation Content" />
+				<Media :factory="factory" class="form-group" name="explanation" />
+			</p>
+		</template>
+		<template v-else>
+			<p>
+				Answer
+				<BaseEditor :error="factory.errors.answer" :valid="factory.isValid('answer')"
+				            :value.sync="factory.answer" placeholder="Answer Content" />
+				<Media :factory="factory" class="form-group" name="answer" />
+			</p>
+		</template>
 		<div class="d-flex justify-content-end">
-			<button :disabled="loading || !factory.valid" class="btn btn-primary" type="submit">
+			<button :disabled="loading || !factory.valid || images.length" class="btn btn-primary" type="submit">
 				Submit Question
 			</button>
 		</div>
+		<div class="my-3 flex gap-3">
+			<img v-for="img in images" :key="img" :src="img" alt="" style="max-width: 400px;">
+		</div>
 		<PageLoading v-if="loading" />
 		<p v-if="error" class="lead text-danger">{{ error }}</p>
-		<div v-if="isDisabled" class="disabled">
-			This question has some special content. Re-upload it using the 1st interface
-		</div>
-		<hr v-else class="mt-3">
+		<hr class="mt-3">
 	</form>
 </template>
 
@@ -59,9 +71,11 @@ import BaseEditor from '@/components/BaseEditor.vue'
 import DisplayHtml from '@/components/DisplayHtml.vue'
 import { useAddObjQuestion, useAddTheoryQuestion } from '@/hooks/questions'
 import PageLoading from '@/components/PageLoading.vue'
+import { answers } from '@/utils/questionModel'
+import Media from '@/components/questions/Media.vue'
 
 export default defineComponent({
-	components: { BaseEditor, DisplayHtml, PageLoading },
+	components: { BaseEditor, DisplayHtml, PageLoading, Media },
 	props: {
 		question: {
 			required: true,
@@ -69,16 +83,6 @@ export default defineComponent({
 		}
 	},
 	setup (props) {
-		const containsImg = (text: string) => !!text?.includes('<img')
-		const isDisabled = computed(() => {
-			const matches = [
-				containsImg(props.question.question),
-				containsImg(props.question.answer),
-				containsImg(props.question.explanation),
-				...(props.question.options?.map((option: string) => containsImg(option)) ?? [])
-			]
-			return matches.some((m) => m)
-		})
 		let data = {} as unknown as ReturnType<typeof useAddTheoryQuestion | typeof useAddObjQuestion>
 		if (props.question.type === 'objectives') {
 			const q = useAddObjQuestion()
@@ -101,24 +105,24 @@ export default defineComponent({
 		data.factory.value.year = props.question.year ?? 0
 		data.factory.value.order = props.question.order ?? 0
 
-		return { isDisabled, ...data }
+		const images = computed(() => {
+			const links = [
+				data.factory.value.question,
+				data.factory.value.answer,
+				// @ts-ignore
+				data.factory.value.explanation,
+				// @ts-ignore
+				...(data.factory.value.options ?? [])
+			]
+			const div = document.createElement('div')
+			div.innerHTML = links.join('\n')
+			const urls = [] as string[]
+			// @ts-ignore
+			for (const img of div.getElementsByTagName('img')) urls.push(img.src)
+			return urls.filter((url) => url)
+		})
+
+		return { ...data, answers, images }
 	}
 })
 </script>
-
-<style>
-    .disabled {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        left: 0;
-        top: 0;
-        background: #00000044;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 1.5rem;
-        z-index: 10;
-        font-weight: 600;
-    }
-</style>
