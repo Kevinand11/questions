@@ -25,11 +25,13 @@
 			<hr class="my-5">
 			<h3>{{ questions.length }} questions</h3>
 			<select v-model="index" class="form-select text-capitalize my-3">
+				<option :value="-1">Select A Number</option>
 				<option v-for="num in questions.length" :key="num" :value="num - 1">
 					Question {{ num }}
 				</option>
 			</select>
-			<ReviewQuestion :key="examType + subject + year + questionType + index" :question="questions[index]" />
+			<ReviewQuestion v-if="questions[index]" :key="examType + subject + year + questionType + index"
+			                :question="questions[index]" />
 		</template>
 	</div>
 </template>
@@ -58,7 +60,7 @@ export default defineComponent({
 				questions.value = await fetch(link).then(res => res.json()).catch(() => {
 					throw new Error('this combo doesnt exist')
 				})
-				index.value = 0
+				index.value = -1
 			} catch (e: any) {
 				error.value = e.message
 				questions.value = []
