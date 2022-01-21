@@ -19,15 +19,18 @@ files.forEach((file: string) => {
 	const filename = pathname[pathname.length - 1].split('.')[0]
 	const { examType, subject, year } = getName(filename)
 
-	textract.fromFileWithPath(file, { preserveLineBreaks: true, includeAltText: true }, function (error: string, text: string) {
+	textract.fromFileWithPath(file, {
+		preserveLineBreaks: true,
+		includeAltText: true
+	}, function (error: string, text: string) {
 		if (error) throw new Error(error)
-		
+
 		try {
 			const { special, nonSpecial } = parseContent(text, file, subject, examType, year)
 
 			if (nonSpecial.length) fs.writeFileSync(`${saveFolder}/${examType}-${subject}-${year}.json`, JSON.stringify(nonSpecial, null, 4))
 			if (special.length) fs.writeFileSync(`${specialFolder}/${examType}-${subject}-${year}.txt`, special.join('\n'))
-		} catch (e) {
+		} catch (e: any) {
 			console.log(e.message)
 		}
 	})

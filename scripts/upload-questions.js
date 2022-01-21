@@ -1,6 +1,7 @@
 const admin = require('firebase-admin')
 const serviceAccount = require('./service.json')
 const fs = require('fs')
+const { storagePath } = require('../src/utils/firebase')
 
 admin.initializeApp({
 	credential: admin.credential.cert(serviceAccount)
@@ -18,7 +19,7 @@ const saveObjs = async () => {
 				const id = q.id
 				delete q.id
 				q.createdAt = Date.now()
-				await admin.firestore().collection('pastQuestions/list/objectives').doc(id).set(q)
+				await admin.firestore().collection(storagePath + '/objectives').doc(id).set(q)
 			})
 		)
 	})

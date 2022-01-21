@@ -27,13 +27,15 @@ export const uploadFile = async (path: string, file: File) => {
 	}
 }
 
+export const storagePath = 'pastQuestions/list2'
+
 export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQuestionToModel, path: string) => {
 	const time = Date.now()
 	data.order = data.order + 200
 	const id = `${path}-${data.examType}-${data.subject}-${data.year}-${data.order}`
 	// @ts-ignore
 	data.createdAt = time
-	const docRef = doc(firestore, `pastQuestions/list2/${path}/${id}`)
+	const docRef = doc(firestore, `${storagePath}/${path}/${id}`)
 	await setDoc(docRef, data)
 	return id
 }
