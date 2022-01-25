@@ -75,7 +75,7 @@ export default defineComponent({
 		const uploadQuestions = async () => {
 			loading.value = true
 			try {
-				for (const question of nonSpecials.value.slice(0, 2)) {
+				for (const question of nonSpecials.value) {
 					await saveQuestionToDatabase(question, 'objectives', true)
 						.catch((e) => {
 							if (!e.message.startsWith('Missing')) throw e
