@@ -29,9 +29,9 @@ export const uploadFile = async (path: string, file: File) => {
 
 export const storagePath = 'pastQuestions/list2'
 
-export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQuestionToModel, path: string) => {
+export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQuestionToModel, path: string, skipOrder = false) => {
 	const time = Date.now()
-	data.order = data.order + 200
+	if (!skipOrder && data.order < 200) data.order = data.order + 200
 	const id = `${path}-${data.examType}-${data.subject}-${data.year}-${data.order}`
 	// @ts-ignore
 	data.createdAt = time

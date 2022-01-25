@@ -7,7 +7,10 @@
 		<button :disabled="!id" class="btn-lg btn-primary" @click="submit">CrossCheck Now</button>
 		<p v-if="error" class="my-3 text-danger">{{ error }}</p>
 		<hr class="my-5">
-		<div v-if="fetched" class="mb-5">
+		<div v-if="loading">
+			<p class="text-center">Loading</p>
+		</div>
+		<div v-else-if="fetched" class="mb-5">
 			<h1 style="text-transform: capitalize;">{{ name }}</h1>
 			<h2>Non Specials - Total:{{ nonSpecials.length }}</h2>
 			<div class="mb-5">
@@ -21,20 +24,16 @@
 					<p v-if="question.e">E: {{ question.e }}</p>
 					<hr class="my-2">
 				</div>
-			</div>
-			<h2>Specials - Total:{{ specials.length }}</h2>
-			<div>
-				<div v-for="(question, index) in specials" :key="`special`+index">
-					<p>Order: {{ question.order }}</p>
-					<p>{{ question.question }}</p>
-					<p>A: {{ question.a }}</p>
-					<p>B: {{ question.b }}</p>
-					<p>C: {{ question.c }}</p>
-					<p>D: {{ question.d }}</p>
-					<p v-if="question.e">E: {{ question.e }}</p>
-					<hr class="my-2">
+
+				<div class="my-3">
+					<button class="btn-lg btn-primary" @click="uploadQuestions">Upload Questions</button>
 				</div>
 			</div>
+			<hr class="my-5">
+			<h2>Specials - Total:{{ specials.length }}</h2>
+			<p v-for="(question, index) in specials" :key="`special`+index">
+				{{ question }}
+			</p>
 		</div>
 	</div>
 </template>
@@ -42,6 +41,7 @@
 <script lang="ts">
 import { defineComponent, ref } from '@vue/composition-api'
 import { getName, parseContent } from '../../scripts/parseContent'
+import { saveQuestionToDatabase } from '@/utils/firebase'
 
 export default defineComponent({
 	setup () {
@@ -49,6 +49,7 @@ export default defineComponent({
 		const name = ref('')
 		const fetched = ref(false)
 		const error = ref('')
+		const loading = ref(false)
 		const specials = ref([] as any[])
 		const nonSpecials = ref([] as any[])
 		const submit = async () => {
@@ -71,8 +72,25 @@ export default defineComponent({
 				nonSpecials.value = []
 			}
 		}
+		const uploadQuestions = async () => {
+			loading.value = true
+			try {
+				for (const question of nonSpecials.value.slice(0, 2)) {
+					await saveQuestionToDatabase(question, 'objectives', true)
+						.catch((e) => {
+							if (!e.message.startsWith('Missing')) throw e
+						})
+				}
+				alert('All Questions Uploaded Successfully')
+			} catch (e: any) {
+				alert('Error: ' + e.message)
+			}
+			loading.value = false
+		}
+
 		return {
-			id, error, submit, specials, nonSpecials, fetched, name
+			id, error, submit, specials, nonSpecials, fetched, name, uploadQuestions,
+			loading
 		}
 	}
 })
