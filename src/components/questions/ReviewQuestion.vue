@@ -52,7 +52,7 @@
 			</p>
 		</template>
 		<div class="d-flex justify-content-end">
-			<button :disabled="loading || !factory.valid || images.length" class="btn btn-primary" type="submit">
+			<button :disabled="loading || !factory.valid || !!images.length" class="btn btn-primary" type="submit">
 				Submit Question
 			</button>
 		</div>
