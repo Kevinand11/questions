@@ -27,7 +27,7 @@ export const uploadFile = async (path: string, file: File) => {
 	}
 }
 
-export const storagePath = 'pastQuestions/list2'
+export const storagePath = 'pastQuestions/list3'
 
 export const saveQuestionToDatabase = async (data: TheoryQuestionToModel | ObjQuestionToModel, path: string, skipOrder = false) => {
 	const time = Date.now()
