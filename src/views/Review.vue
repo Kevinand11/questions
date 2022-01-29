@@ -26,8 +26,8 @@
 			<h3>{{ questions.length }} questions</h3>
 			<select v-model="index" class="form-select text-capitalize my-3">
 				<option :value="-1">Select A Number</option>
-				<option v-for="num in questions.length" :key="num" :value="num - 1">
-					Question {{ num }}
+				<option v-for="(question, num) in questions" :key="num" :value="num - 1">
+					Question {{ question.order }}
 				</option>
 			</select>
 			<ReviewQuestion v-if="questions[index]" :key="examType + subject + year + questionType + index"
