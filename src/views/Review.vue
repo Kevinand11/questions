@@ -26,7 +26,7 @@
 			<h3>{{ questions.length }} questions</h3>
 			<select v-model="index" class="form-select text-capitalize my-3">
 				<option :value="-1">Select A Number</option>
-				<option v-for="(question, num) in questions" :key="num" :value="num - 1">
+				<option v-for="(question, num) in questions" :key="num" :value="num">
 					Question {{ question.order }}
 				</option>
 			</select>
